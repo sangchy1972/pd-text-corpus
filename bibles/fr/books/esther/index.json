@@ -1,0 +1,69 @@
+{
+  "name": "Esther",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 22
+    },
+    {
+      "chapter": 2,
+      "verseCount": 23
+    },
+    {
+      "chapter": 3,
+      "verseCount": 15
+    },
+    {
+      "chapter": 4,
+      "verseCount": 17
+    },
+    {
+      "chapter": 5,
+      "verseCount": 14
+    },
+    {
+      "chapter": 6,
+      "verseCount": 14
+    },
+    {
+      "chapter": 7,
+      "verseCount": 10
+    },
+    {
+      "chapter": 8,
+      "verseCount": 17
+    },
+    {
+      "chapter": 9,
+      "verseCount": 32
+    },
+    {
+      "chapter": 10,
+      "verseCount": 13
+    },
+    {
+      "chapter": 11,
+      "verseCount": 12
+    },
+    {
+      "chapter": 12,
+      "verseCount": 6
+    },
+    {
+      "chapter": 13,
+      "verseCount": 18
+    },
+    {
+      "chapter": 14,
+      "verseCount": 19
+    },
+    {
+      "chapter": 15,
+      "verseCount": 19
+    },
+    {
+      "chapter": 16,
+      "verseCount": 24
+    }
+  ]
+}

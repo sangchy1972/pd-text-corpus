@@ -1,0 +1,101 @@
+{
+  "name": "Luke",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 80
+    },
+    {
+      "chapter": 2,
+      "verseCount": 52
+    },
+    {
+      "chapter": 3,
+      "verseCount": 38
+    },
+    {
+      "chapter": 4,
+      "verseCount": 44
+    },
+    {
+      "chapter": 5,
+      "verseCount": 39
+    },
+    {
+      "chapter": 6,
+      "verseCount": 49
+    },
+    {
+      "chapter": 7,
+      "verseCount": 50
+    },
+    {
+      "chapter": 8,
+      "verseCount": 56
+    },
+    {
+      "chapter": 9,
+      "verseCount": 62
+    },
+    {
+      "chapter": 10,
+      "verseCount": 42
+    },
+    {
+      "chapter": 11,
+      "verseCount": 54
+    },
+    {
+      "chapter": 12,
+      "verseCount": 59
+    },
+    {
+      "chapter": 13,
+      "verseCount": 35
+    },
+    {
+      "chapter": 14,
+      "verseCount": 35
+    },
+    {
+      "chapter": 15,
+      "verseCount": 32
+    },
+    {
+      "chapter": 16,
+      "verseCount": 31
+    },
+    {
+      "chapter": 17,
+      "verseCount": 37
+    },
+    {
+      "chapter": 18,
+      "verseCount": 43
+    },
+    {
+      "chapter": 19,
+      "verseCount": 48
+    },
+    {
+      "chapter": 20,
+      "verseCount": 47
+    },
+    {
+      "chapter": 21,
+      "verseCount": 38
+    },
+    {
+      "chapter": 22,
+      "verseCount": 71
+    },
+    {
+      "chapter": 23,
+      "verseCount": 56
+    },
+    {
+      "chapter": 24,
+      "verseCount": 53
+    }
+  ]
+}

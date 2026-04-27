@@ -1,0 +1,53 @@
+{
+  "name": "Ecclesiastes",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 18
+    },
+    {
+      "chapter": 2,
+      "verseCount": 26
+    },
+    {
+      "chapter": 3,
+      "verseCount": 22
+    },
+    {
+      "chapter": 4,
+      "verseCount": 16
+    },
+    {
+      "chapter": 5,
+      "verseCount": 20
+    },
+    {
+      "chapter": 6,
+      "verseCount": 12
+    },
+    {
+      "chapter": 7,
+      "verseCount": 29
+    },
+    {
+      "chapter": 8,
+      "verseCount": 17
+    },
+    {
+      "chapter": 9,
+      "verseCount": 18
+    },
+    {
+      "chapter": 10,
+      "verseCount": 20
+    },
+    {
+      "chapter": 11,
+      "verseCount": 10
+    },
+    {
+      "chapter": 12,
+      "verseCount": 14
+    }
+  ]
+}

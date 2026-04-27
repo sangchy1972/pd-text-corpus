@@ -1,0 +1,25 @@
+{
+  "name": "I Peter",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 25
+    },
+    {
+      "chapter": 2,
+      "verseCount": 25
+    },
+    {
+      "chapter": 3,
+      "verseCount": 22
+    },
+    {
+      "chapter": 4,
+      "verseCount": 19
+    },
+    {
+      "chapter": 5,
+      "verseCount": 14
+    }
+  ]
+}

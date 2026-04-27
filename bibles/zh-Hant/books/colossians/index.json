@@ -1,0 +1,21 @@
+{
+  "name": "Colossians",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 29
+    },
+    {
+      "chapter": 2,
+      "verseCount": 23
+    },
+    {
+      "chapter": 3,
+      "verseCount": 25
+    },
+    {
+      "chapter": 4,
+      "verseCount": 18
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Hosea",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 11
+    },
+    {
+      "chapter": 2,
+      "verseCount": 23
+    },
+    {
+      "chapter": 3,
+      "verseCount": 5
+    },
+    {
+      "chapter": 4,
+      "verseCount": 19
+    },
+    {
+      "chapter": 5,
+      "verseCount": 15
+    },
+    {
+      "chapter": 6,
+      "verseCount": 11
+    },
+    {
+      "chapter": 7,
+      "verseCount": 16
+    },
+    {
+      "chapter": 8,
+      "verseCount": 14
+    },
+    {
+      "chapter": 9,
+      "verseCount": 17
+    },
+    {
+      "chapter": 10,
+      "verseCount": 15
+    },
+    {
+      "chapter": 11,
+      "verseCount": 12
+    },
+    {
+      "chapter": 12,
+      "verseCount": 14
+    },
+    {
+      "chapter": 13,
+      "verseCount": 16
+    },
+    {
+      "chapter": 14,
+      "verseCount": 9
+    }
+  ]
+}

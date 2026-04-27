@@ -1,0 +1,21 @@
+{
+  "name": "Joel",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 20
+    },
+    {
+      "chapter": 2,
+      "verseCount": 27
+    },
+    {
+      "chapter": 3,
+      "verseCount": 5
+    },
+    {
+      "chapter": 4,
+      "verseCount": 21
+    }
+  ]
+}

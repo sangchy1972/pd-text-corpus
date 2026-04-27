@@ -1,0 +1,69 @@
+{
+  "name": "I Corinthians",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 31
+    },
+    {
+      "chapter": 2,
+      "verseCount": 16
+    },
+    {
+      "chapter": 3,
+      "verseCount": 23
+    },
+    {
+      "chapter": 4,
+      "verseCount": 21
+    },
+    {
+      "chapter": 5,
+      "verseCount": 13
+    },
+    {
+      "chapter": 6,
+      "verseCount": 20
+    },
+    {
+      "chapter": 7,
+      "verseCount": 40
+    },
+    {
+      "chapter": 8,
+      "verseCount": 13
+    },
+    {
+      "chapter": 9,
+      "verseCount": 27
+    },
+    {
+      "chapter": 10,
+      "verseCount": 33
+    },
+    {
+      "chapter": 11,
+      "verseCount": 34
+    },
+    {
+      "chapter": 12,
+      "verseCount": 31
+    },
+    {
+      "chapter": 13,
+      "verseCount": 13
+    },
+    {
+      "chapter": 14,
+      "verseCount": 40
+    },
+    {
+      "chapter": 15,
+      "verseCount": 58
+    },
+    {
+      "chapter": 16,
+      "verseCount": 23
+    }
+  ]
+}

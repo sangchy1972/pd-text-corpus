@@ -1,0 +1,57 @@
+{
+  "name": "Hebrews",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 14
+    },
+    {
+      "chapter": 2,
+      "verseCount": 18
+    },
+    {
+      "chapter": 3,
+      "verseCount": 19
+    },
+    {
+      "chapter": 4,
+      "verseCount": 16
+    },
+    {
+      "chapter": 5,
+      "verseCount": 14
+    },
+    {
+      "chapter": 6,
+      "verseCount": 20
+    },
+    {
+      "chapter": 7,
+      "verseCount": 28
+    },
+    {
+      "chapter": 8,
+      "verseCount": 13
+    },
+    {
+      "chapter": 9,
+      "verseCount": 28
+    },
+    {
+      "chapter": 10,
+      "verseCount": 39
+    },
+    {
+      "chapter": 11,
+      "verseCount": 40
+    },
+    {
+      "chapter": 12,
+      "verseCount": 29
+    },
+    {
+      "chapter": 13,
+      "verseCount": 25
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Galatians",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 24
+    },
+    {
+      "chapter": 2,
+      "verseCount": 21
+    },
+    {
+      "chapter": 3,
+      "verseCount": 29
+    },
+    {
+      "chapter": 4,
+      "verseCount": 31
+    },
+    {
+      "chapter": 5,
+      "verseCount": 26
+    },
+    {
+      "chapter": 6,
+      "verseCount": 18
+    }
+  ]
+}

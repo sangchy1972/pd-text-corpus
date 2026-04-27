@@ -1,0 +1,45 @@
+{
+  "name": "Ezra",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 11
+    },
+    {
+      "chapter": 2,
+      "verseCount": 70
+    },
+    {
+      "chapter": 3,
+      "verseCount": 13
+    },
+    {
+      "chapter": 4,
+      "verseCount": 24
+    },
+    {
+      "chapter": 5,
+      "verseCount": 17
+    },
+    {
+      "chapter": 6,
+      "verseCount": 22
+    },
+    {
+      "chapter": 7,
+      "verseCount": 28
+    },
+    {
+      "chapter": 8,
+      "verseCount": 36
+    },
+    {
+      "chapter": 9,
+      "verseCount": 15
+    },
+    {
+      "chapter": 10,
+      "verseCount": 44
+    }
+  ]
+}

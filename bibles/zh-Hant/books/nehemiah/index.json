@@ -1,0 +1,57 @@
+{
+  "name": "Nehemiah",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 11
+    },
+    {
+      "chapter": 2,
+      "verseCount": 20
+    },
+    {
+      "chapter": 3,
+      "verseCount": 32
+    },
+    {
+      "chapter": 4,
+      "verseCount": 23
+    },
+    {
+      "chapter": 5,
+      "verseCount": 19
+    },
+    {
+      "chapter": 6,
+      "verseCount": 19
+    },
+    {
+      "chapter": 7,
+      "verseCount": 73
+    },
+    {
+      "chapter": 8,
+      "verseCount": 18
+    },
+    {
+      "chapter": 9,
+      "verseCount": 38
+    },
+    {
+      "chapter": 10,
+      "verseCount": 39
+    },
+    {
+      "chapter": 11,
+      "verseCount": 36
+    },
+    {
+      "chapter": 12,
+      "verseCount": 47
+    },
+    {
+      "chapter": 13,
+      "verseCount": 31
+    }
+  ]
+}

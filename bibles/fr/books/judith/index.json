@@ -1,0 +1,69 @@
+{
+  "name": "Judith",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 12
+    },
+    {
+      "chapter": 2,
+      "verseCount": 18
+    },
+    {
+      "chapter": 3,
+      "verseCount": 10
+    },
+    {
+      "chapter": 4,
+      "verseCount": 15
+    },
+    {
+      "chapter": 5,
+      "verseCount": 24
+    },
+    {
+      "chapter": 6,
+      "verseCount": 21
+    },
+    {
+      "chapter": 7,
+      "verseCount": 25
+    },
+    {
+      "chapter": 8,
+      "verseCount": 34
+    },
+    {
+      "chapter": 9,
+      "verseCount": 14
+    },
+    {
+      "chapter": 10,
+      "verseCount": 20
+    },
+    {
+      "chapter": 11,
+      "verseCount": 21
+    },
+    {
+      "chapter": 12,
+      "verseCount": 20
+    },
+    {
+      "chapter": 13,
+      "verseCount": 20
+    },
+    {
+      "chapter": 14,
+      "verseCount": 18
+    },
+    {
+      "chapter": 15,
+      "verseCount": 14
+    },
+    {
+      "chapter": 16,
+      "verseCount": 25
+    }
+  ]
+}

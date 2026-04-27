@@ -1,0 +1,21 @@
+{
+  "name": "II Timothy",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 18
+    },
+    {
+      "chapter": 2,
+      "verseCount": 26
+    },
+    {
+      "chapter": 3,
+      "verseCount": 17
+    },
+    {
+      "chapter": 4,
+      "verseCount": 22
+    }
+  ]
+}

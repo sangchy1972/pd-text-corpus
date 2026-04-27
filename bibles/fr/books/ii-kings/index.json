@@ -1,0 +1,105 @@
+{
+  "name": "II Kings",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 18
+    },
+    {
+      "chapter": 2,
+      "verseCount": 25
+    },
+    {
+      "chapter": 3,
+      "verseCount": 27
+    },
+    {
+      "chapter": 4,
+      "verseCount": 44
+    },
+    {
+      "chapter": 5,
+      "verseCount": 27
+    },
+    {
+      "chapter": 6,
+      "verseCount": 33
+    },
+    {
+      "chapter": 7,
+      "verseCount": 20
+    },
+    {
+      "chapter": 8,
+      "verseCount": 29
+    },
+    {
+      "chapter": 9,
+      "verseCount": 37
+    },
+    {
+      "chapter": 10,
+      "verseCount": 36
+    },
+    {
+      "chapter": 11,
+      "verseCount": 20
+    },
+    {
+      "chapter": 12,
+      "verseCount": 22
+    },
+    {
+      "chapter": 13,
+      "verseCount": 25
+    },
+    {
+      "chapter": 14,
+      "verseCount": 29
+    },
+    {
+      "chapter": 15,
+      "verseCount": 38
+    },
+    {
+      "chapter": 16,
+      "verseCount": 20
+    },
+    {
+      "chapter": 17,
+      "verseCount": 41
+    },
+    {
+      "chapter": 18,
+      "verseCount": 37
+    },
+    {
+      "chapter": 19,
+      "verseCount": 37
+    },
+    {
+      "chapter": 20,
+      "verseCount": 21
+    },
+    {
+      "chapter": 21,
+      "verseCount": 26
+    },
+    {
+      "chapter": 22,
+      "verseCount": 20
+    },
+    {
+      "chapter": 23,
+      "verseCount": 37
+    },
+    {
+      "chapter": 24,
+      "verseCount": 20
+    },
+    {
+      "chapter": 25,
+      "verseCount": 30
+    }
+  ]
+}

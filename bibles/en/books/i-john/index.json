@@ -1,0 +1,25 @@
+{
+  "name": "I John",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 10
+    },
+    {
+      "chapter": 2,
+      "verseCount": 29
+    },
+    {
+      "chapter": 3,
+      "verseCount": 24
+    },
+    {
+      "chapter": 4,
+      "verseCount": 21
+    },
+    {
+      "chapter": 5,
+      "verseCount": 21
+    }
+  ]
+}

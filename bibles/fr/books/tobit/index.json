@@ -1,0 +1,61 @@
+{
+  "name": "Tobit",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verseCount": 22
+    },
+    {
+      "chapter": 2,
+      "verseCount": 14
+    },
+    {
+      "chapter": 3,
+      "verseCount": 17
+    },
+    {
+      "chapter": 4,
+      "verseCount": 21
+    },
+    {
+      "chapter": 5,
+      "verseCount": 23
+    },
+    {
+      "chapter": 6,
+      "verseCount": 19
+    },
+    {
+      "chapter": 7,
+      "verseCount": 17
+    },
+    {
+      "chapter": 8,
+      "verseCount": 21
+    },
+    {
+      "chapter": 9,
+      "verseCount": 6
+    },
+    {
+      "chapter": 10,
+      "verseCount": 13
+    },
+    {
+      "chapter": 11,
+      "verseCount": 19
+    },
+    {
+      "chapter": 12,
+      "verseCount": 22
+    },
+    {
+      "chapter": 13,
+      "verseCount": 18
+    },
+    {
+      "chapter": 14,
+      "verseCount": 15
+    }
+  ]
+}
