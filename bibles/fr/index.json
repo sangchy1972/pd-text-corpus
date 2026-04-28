@@ -1,13 +1,13 @@
 {
   "code": "fr",
-  "name": "Bible Augustin Crampon 1923",
+  "name": "Louis Segond 1910",
   "license": "Public Domain",
-  "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/sources/fr/FreCrampon/FreCrampon.json",
-  "generatedAt": "2026-04-27T22:02:24.735Z",
+  "source": "https://eBible.org/find/details.php?id=fraLSG (fraLSG_usfx.zip)",
+  "generatedAt": "2026-04-28T00:40:47.287Z",
   "stats": {
-    "books": 73,
-    "chapters": 1334,
-    "verses": 35486
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31170
   },
   "books": [
     {
@@ -91,29 +91,9 @@
       "chapters": 13
     },
     {
-      "name": "Tobit",
-      "slug": "tobit",
-      "chapters": 14
-    },
-    {
-      "name": "Judith",
-      "slug": "judith",
-      "chapters": 16
-    },
-    {
       "name": "Esther",
       "slug": "esther",
-      "chapters": 16
-    },
-    {
-      "name": "I Maccabees",
-      "slug": "i-maccabees",
-      "chapters": 16
-    },
-    {
-      "name": "II Maccabees",
-      "slug": "ii-maccabees",
-      "chapters": 15
+      "chapters": 10
     },
     {
       "name": "Job",
@@ -141,16 +121,6 @@
       "chapters": 8
     },
     {
-      "name": "Wisdom",
-      "slug": "wisdom",
-      "chapters": 19
-    },
-    {
-      "name": "Sirach",
-      "slug": "sirach",
-      "chapters": 51
-    },
-    {
       "name": "Isaiah",
       "slug": "isaiah",
       "chapters": 66
@@ -166,11 +136,6 @@
       "chapters": 5
     },
     {
-      "name": "Baruch",
-      "slug": "baruch",
-      "chapters": 6
-    },
-    {
       "name": "Ezekiel",
       "slug": "ezekiel",
       "chapters": 48
@@ -178,7 +143,7 @@
     {
       "name": "Daniel",
       "slug": "daniel",
-      "chapters": 14
+      "chapters": 12
     },
     {
       "name": "Hosea",
@@ -188,7 +153,7 @@
     {
       "name": "Joel",
       "slug": "joel",
-      "chapters": 4
+      "chapters": 3
     },
     {
       "name": "Amos",
@@ -238,7 +203,7 @@
     {
       "name": "Malachi",
       "slug": "malachi",
-      "chapters": 3
+      "chapters": 4
     },
     {
       "name": "Matthew",

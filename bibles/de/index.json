@@ -1,13 +1,13 @@
 {
   "code": "de",
-  "name": "Unrevidierte Elberfelder 1905",
+  "name": "Lutherbibel 1912",
   "license": "Public Domain",
-  "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/sources/de/GerElb1905/GerElb1905.json",
-  "generatedAt": "2026-04-27T22:02:22.597Z",
+  "source": "https://github.com/seven1m/open-bibles (deu-luther1912.osis.xml)",
+  "generatedAt": "2026-04-28T00:40:38.149Z",
   "stats": {
     "books": 66,
     "chapters": 1189,
-    "verses": 31102
+    "verses": 31171
   },
   "books": [
     {
@@ -153,7 +153,7 @@
     {
       "name": "Joel",
       "slug": "joel",
-      "chapters": 3
+      "chapters": 4
     },
     {
       "name": "Amos",
@@ -203,7 +203,7 @@
     {
       "name": "Malachi",
       "slug": "malachi",
-      "chapters": 4
+      "chapters": 3
     },
     {
       "name": "Matthew",

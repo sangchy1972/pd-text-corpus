@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-04-27T22:02:28.906Z",
+  "generatedAt": "2026-04-28T00:41:08.226Z",
   "translations": [
+    {
+      "code": "de",
+      "name": "Lutherbibel 1912",
+      "license": "Public Domain",
+      "source": "https://github.com/seven1m/open-bibles (deu-luther1912.osis.xml)",
+      "stats": {
+        "books": 66,
+        "chapters": 1189,
+        "verses": 31171
+      }
+    },
     {
       "code": "en",
       "name": "King James Version 1769",
@@ -10,39 +21,6 @@
         "books": 66,
         "chapters": 1189,
         "verses": 31102
-      }
-    },
-    {
-      "code": "zh-Hant",
-      "name": "聖經和合本 1919（繁體）",
-      "license": "Public Domain",
-      "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/json/ChiUn.json",
-      "stats": {
-        "books": 66,
-        "chapters": 1189,
-        "verses": 31103
-      }
-    },
-    {
-      "code": "de",
-      "name": "Unrevidierte Elberfelder 1905",
-      "license": "Public Domain",
-      "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/sources/de/GerElb1905/GerElb1905.json",
-      "stats": {
-        "books": 66,
-        "chapters": 1189,
-        "verses": 31102
-      }
-    },
-    {
-      "code": "fr",
-      "name": "Bible Augustin Crampon 1923",
-      "license": "Public Domain",
-      "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/sources/fr/FreCrampon/FreCrampon.json",
-      "stats": {
-        "books": 73,
-        "chapters": 1334,
-        "verses": 35486
       }
     },
     {
@@ -57,14 +35,47 @@
       }
     },
     {
-      "code": "pt",
-      "name": "Bíblia Livre",
-      "license": "CC-BY-3.0-BR",
-      "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/sources/pt/PorBLivre/PorBLivre.json",
+      "code": "fr",
+      "name": "Louis Segond 1910",
+      "license": "Public Domain",
+      "source": "https://eBible.org/find/details.php?id=fraLSG (fraLSG_usfx.zip)",
       "stats": {
         "books": 66,
         "chapters": 1189,
-        "verses": 31102
+        "verses": 31170
+      }
+    },
+    {
+      "code": "pt",
+      "name": "João Ferreira de Almeida",
+      "license": "Public Domain",
+      "source": "https://github.com/seven1m/open-bibles (por-almeida.usfx.xml)",
+      "stats": {
+        "books": 66,
+        "chapters": 1189,
+        "verses": 31098
+      }
+    },
+    {
+      "code": "zh-Hans",
+      "name": "聖經和合本 1919（簡體，由繁體經 OpenCC 轉換生成）",
+      "license": "Public Domain",
+      "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/json/ChiUn.json",
+      "stats": {
+        "books": 66,
+        "chapters": 1189,
+        "verses": 31103
+      }
+    },
+    {
+      "code": "zh-Hant",
+      "name": "聖經和合本 1919（繁體）",
+      "license": "Public Domain",
+      "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/formats/json/ChiUn.json",
+      "stats": {
+        "books": 66,
+        "chapters": 1189,
+        "verses": 31103
       }
     }
   ]

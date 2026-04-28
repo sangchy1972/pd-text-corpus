@@ -10,32 +10,22 @@ Public-domain religious texts can disappear from third-party APIs without notice
 
 | Code | Edition | Year | Language | License | Upstream source |
 | --- | --- | --- | --- | --- | --- |
-| `en` | King James Version | 1769 | English | Public Domain *(original text)* | [scrollmapper/bible_databases — KJV](https://github.com/scrollmapper/bible_databases/tree/master/sources/en/KJV) |
-| `zh-Hant` | 聖經和合本 (繁體) | 1919 | Chinese (Traditional) | Public Domain (>100 yr) | [scrollmapper/bible_databases — ChiUn](https://github.com/scrollmapper/bible_databases/blob/master/formats/json/ChiUn.json) |
-| `zh-Hans` | 圣经和合本 (简体) | 1919 | Chinese (Simplified) | Public Domain (>100 yr) | derived from `zh-Hant` via [OpenCC `tw→cn`](https://github.com/BYVoid/OpenCC) |
-| `de` | Unrevidierte Elberfelder | 1905 | German | Public Domain (>100 yr) | [scrollmapper — GerElb1905](https://github.com/scrollmapper/bible_databases/tree/master/sources/de/GerElb1905) |
-| `fr` | La Bible Augustin Crampon | 1923 | French | Public Domain | [scrollmapper — FreCrampon](https://github.com/scrollmapper/bible_databases/tree/master/sources/fr/FreCrampon) |
-| `es` | Reina-Valera | 1909 | Spanish | Public Domain (>100 yr) | [scrollmapper — SpaRV](https://github.com/scrollmapper/bible_databases/tree/master/sources/es/SpaRV) |
-| `pt` | Bíblia Livre | modern | Portuguese | [CC-BY-3.0-BR](https://creativecommons.org/licenses/by/3.0/br/deed.en) | [scrollmapper — PorBLivre](https://github.com/scrollmapper/bible_databases/tree/master/sources/pt/PorBLivre) |
+| `en` | King James Version | 1769 | English | Public Domain | [scrollmapper/bible_databases — KJV](https://github.com/scrollmapper/bible_databases/tree/master/sources/en/KJV) |
+| `zh-Hant` | 聖經和合本 (繁體) | 1919 | Chinese (Traditional) | Public Domain | [scrollmapper/bible_databases — ChiUn](https://github.com/scrollmapper/bible_databases/blob/master/formats/json/ChiUn.json) |
+| `zh-Hans` | 圣经和合本 (简体) | 1919 | Chinese (Simplified) | Public Domain | derived from `zh-Hant` via [OpenCC `tw→cn`](https://github.com/BYVoid/OpenCC) |
+| `de` | Lutherbibel | 1912 | German | Public Domain | [seven1m/open-bibles — deu-luther1912.osis.xml](https://github.com/seven1m/open-bibles/blob/master/deu-luther1912.osis.xml) |
+| `fr` | Louis Segond | 1910 | French | Public Domain | [eBible.org — fraLSG](https://eBible.org/find/details.php?id=fraLSG) |
+| `es` | Reina-Valera | 1909 | Spanish | Public Domain | [scrollmapper/bible_databases — SpaRV](https://github.com/scrollmapper/bible_databases/tree/master/sources/es/SpaRV) |
+| `pt` | João Ferreira de Almeida | — | Portuguese | Public Domain | [seven1m/open-bibles — por-almeida.usfx.xml](https://github.com/seven1m/open-bibles/blob/master/por-almeida.usfx.xml) |
 
 ### Public-domain evidence (per translation)
 
-- **King James Version (1769)** — published 1611, current standard text 1769. Crown copyright in the UK was effectively waived for this text long ago; in the US and most of the world it is unambiguously public domain.
+- **King James Version (1769)** — Crown copyright in the UK was effectively waived for this text long ago; in the US and most of the world it is unambiguously public domain.
 - **聖經和合本 (1919)** — translation completed and published 1919; all translators deceased before 1955. Public domain under any rule of national/international copyright.
-- **Unrevidierte Elberfelder (1905)** — original translators (John Nelson Darby et al., revisers Brockhaus, et al.) all died long before the 70-year post-mortem cutoff. Public domain in Germany.
-- **Bible Augustin Crampon (1923)** — Augustin Crampon died 1894; the 1923 revised edition is past the 70-year post-mortem cutoff. Public domain in France.
-- **Reina-Valera (1909)** — Casiodoro de Reina (d. 1594) and Cipriano de Valera (d. 1602) translation; the 1909 revision is past 70-year cutoff. Public domain in Spain and Latin America.
-- **Bíblia Livre (PorBLivre)** — modern translation released under CC-BY-3.0-BR. Attribution required: see `pt/index.json` `source` field. Used in lieu of an Almeida edition with verifiable PD status; consult a lawyer before relying on any specific Almeida edition for commercial redistribution.
-
-### Translations explicitly substituted from the original request
-
-The HerBibleApp design originally asked for KJV, Luther 1912, Louis Segond 1910, Reina-Valera 1909, 和合本, and Almeida. After surveying available open-source sources, the following substitutions were made because no clean PD JSON of the requested edition could be located in the available time:
-
-- `de`: **Elberfelder 1905** (instead of Luther 1912 — Luther 1912 is PD but no maintained PD JSON found in scrollmapper/wldeh)
-- `fr`: **Crampon 1923** (instead of Louis Segond 1910 — same reason)
-- `pt`: **Bíblia Livre** (instead of Almeida Revista e Corrigida — modern Almeida revisions are copyrighted; older PD Almeida editions exist but are not available in clean JSON form)
-
-Future PRs replacing these with the originally-requested editions are welcome.
+- **Lutherbibel (1912)** — text declared "found in the Public Domain" by source's OSIS metadata. Martin Luther died 1546; revisions through 1912 are well over the 70-year post-mortem cutoff.
+- **Louis Segond (1910)** — Louis Segond died 1885; the 1910 edition is well past the 70-year post-mortem cutoff. eBible.org explicitly states "This Bible is in the Public Domain. It is not copyrighted."
+- **Reina-Valera (1909)** — Casiodoro de Reina (d. 1594) and Cipriano de Valera (d. 1602) translation; the 1909 revision is past the 70-year cutoff. Public domain in Spain and Latin America.
+- **João Ferreira de Almeida** — Almeida died 1691. The Almeida text in `seven1m/open-bibles` is marked Public Domain in the upstream catalogue; this is one of the older Almeida editions free of modern revision copyrights. Verify with counsel before assuming any specific Almeida edition is PD for high-stakes redistribution.
 
 ## Schema
 
@@ -64,7 +54,21 @@ bibles/
 
 ### Book slugs
 
-All translations use the same English book slugs (e.g. `genesis`, `i-samuel`, `revelation-of-john`) so chapter URLs are interchangeable across languages. Book/chapter/verse numbering follows the standard 66-book Protestant canon (the French Crampon edition additionally includes 7 deuterocanonical books).
+All translations use the same English book slugs (e.g. `genesis`, `i-samuel`, `revelation-of-john`) so chapter URLs are interchangeable across languages. Book/chapter/verse numbering follows the standard 66-book Protestant canon.
+
+## Statistics (per translation)
+
+| Code | Books | Chapters | Verses |
+| --- | --- | --- | --- |
+| en | 66 | 1189 | 31102 |
+| zh-Hant | 66 | 1189 | 31103 |
+| zh-Hans | 66 | 1189 | 31103 |
+| de | 66 | 1189 | 31171 |
+| fr | 66 | 1189 | 31170 |
+| es | 66 | 1189 | 31084 |
+| pt | 66 | 1189 | 31098 |
+
+(Variation in verse counts across translations reflects different versification choices — e.g. some translations split or join verses differently in the Psalms or in disputed passages.)
 
 ## Usage via jsDelivr
 
@@ -80,14 +84,21 @@ https://cdn.jsdelivr.net/gh/sangchy1972/pd-text-corpus@<commit-sha>/bibles/...
 
 ## Rebuilding
 
-The `scripts/build-corpus.mjs` script downloads each upstream source and emits the normalized layout under `bibles/`. To regenerate:
+The `scripts/` directory contains the download + normalization scripts:
+
+- `build-corpus.mjs` — fetches scrollmapper sources for `en`, `zh-Hant`, `es`
+- `convert-zh-hans.mjs` — generates `zh-Hans` from `zh-Hant` via OpenCC
+- `build-de-fr-pt.mjs` — fetches `de` (Luther OSIS), `fr` (eBible LSG USFX), `pt` (Almeida USFX) and parses each
+- `regen-manifest.mjs` — rebuilds `bibles/manifest.json` from each translation's index
 
 ```
 npm install opencc-js
 node scripts/build-corpus.mjs
 node scripts/convert-zh-hans.mjs
+node scripts/build-de-fr-pt.mjs
+node scripts/regen-manifest.mjs
 ```
 
 ## License
 
-The **layout, scripts, and metadata files** in this repository are released under the MIT License (see `LICENSE`). Each individual translation retains its own license, listed above and in each `<code>/index.json`. Users redistributing translations from this corpus must comply with each translation's license — most are public domain; `pt` (Bíblia Livre) requires attribution under CC-BY-3.0-BR.
+The **layout, scripts, and metadata files** in this repository are released under the MIT License (see `LICENSE`). Each individual translation retains its own license (all are Public Domain — see "Translations included" above).

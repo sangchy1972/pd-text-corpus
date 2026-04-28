@@ -1,13 +1,13 @@
 {
   "code": "pt",
-  "name": "Bíblia Livre",
-  "license": "CC-BY-3.0-BR",
-  "source": "https://raw.githubusercontent.com/scrollmapper/bible_databases/master/sources/pt/PorBLivre/PorBLivre.json",
-  "generatedAt": "2026-04-27T22:02:28.905Z",
+  "name": "João Ferreira de Almeida",
+  "license": "Public Domain",
+  "source": "https://github.com/seven1m/open-bibles (por-almeida.usfx.xml)",
+  "generatedAt": "2026-04-28T00:40:48.558Z",
   "stats": {
     "books": 66,
     "chapters": 1189,
-    "verses": 31102
+    "verses": 31098
   },
   "books": [
     {
