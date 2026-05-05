@@ -1,0 +1,501 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG15",
+    "slug": "slow-to-hear-god",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garten der Gefühle",
+      "secondary": "weariness-burnout",
+      "secondary_label": "Müdigkeit und Erschöpfung"
+    },
+    "tags": [
+      "muedigkeit",
+      "erschoepfung",
+      "ruhe",
+      "hirte",
+      "grenzen",
+      "sabbat"
+    ],
+    "title": "Langsam genug werden, um Gott zu hören",
+    "subtitle": "Diese sieben Tage begleiten dich dabei, langsam genug zu werden, um Gott wiederzuhören und den Rhythmus deines Lebens in seine Hände zurückzugeben.",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "müde",
+        "ausgebrannt",
+        "erschöpft"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese sieben Tage begleiten dich dabei, langsam genug zu werden, um Gott wiederzuhören und den Rhythmus deines Lebens in seine Hände zurückzugeben.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#A3C8B5",
+      "color_secondary": "#355945",
+      "image_key": "cover_woman_resting_pillow_morning_burnout",
+      "icon": "quiet-tea-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 46:10",
+        "book_code": "PSA",
+        "chapter": 46,
+        "verses": "10"
+      },
+      {
+        "display": "2. Mose 20:8-10",
+        "book_code": "EXO",
+        "chapter": 20,
+        "verses": "8-10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Warum macht Ruhe mich unbequem",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 46:10",
+            "book_code": "PSA",
+            "chapter": 46,
+            "verses": "10",
+            "translation": "Lutherbibel 1912",
+            "text": "Seid stille und erkennet, daß ich Gott bin!"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Menschen haben nicht gelernt auszuruhen – sie haben nur verlernt, still zu sein. Sobald sie innehalten, beginnt der Verstand zu rasen; ohne Geräusch breitet sich Besorgnis aus; beim Verlangsamen fühlt sich alles wie Rückschritt an. Geschäftigkeit wird dann zu einer versteckten Selbstschutzmaßnahme, die davor bewahrt, die wahre Müdigkeit im Innern oder die Stimme zu hören, die ständig antreibt.",
+            "Psalm 46 sagt: «Seid stille und erkennet, daß ich Gott bin.» Das ist nicht leichtsinniger Trost – es ist wie Gottes Hand, die ein rasendes Herz sanft anhält. Psalm 131 zeigt ein Herz, das ruhig und still wird wie ein entwöhntes Kind. Das ist ein tiefes Heimkommen. **Langsam-Werden ist schwer, nicht weil die Dinge wirklich nicht stillstehen können, sondern weil Stille uns selbst und damit auch vor Gottes Angesicht zurückbringt.**",
+            "Das erklärt, warum manche Menschen, obwohl sie erschöpft sind, noch nicht bereit sind zu stoppen. Sie wollen nicht ausruhen – sie kennen ihre ruhige Selbst nicht mehr. Sie kennen nur die, die verwaltet, reagiert, vorantreibt, die Ordnung erhält. Aber Gott möchte nicht nur die Person im Geschäft kennen – er möchte dir auch in der Stille begegnen.",
+            "Die erste Lektion eines langsameren Lebens ist daher nicht, den Zeitplan umzustellen, sondern mit der Stille Frieden zu machen. Das Herz muss langsam lernen: Wenn ich nichts tue, sieht Gott mich noch immer; ohne Ergebnisse lebe ich noch immer vor Ihm. Wahre Ruhe beginnt oft damit, dass jemand wieder lernt, die Stille nicht zu fürchten."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Vater, du bleibst Gott, wenn ich stille bin, und ich bete dich dafür an. Die Welt wird nicht von meiner Geschäftigkeit zusammengehalten, und mein Wert wird nicht durch ständige Bewegung aufrechterhalten. Vergib mir, dass ich aus Angst vor Stille jede Lücke fülle. Lehre mich heute, in der Stille nicht zu fliehen und mich nicht selbst zu reparieren, sondern einfach vor dir zu bleiben. Wenn Angst, Leere oder verborgene Müdigkeit in mir aufsteigt, lass dein Licht sanft hineinfallen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Seid stille und erkennet, daß ich Gott bin!"
+            },
+            {
+              "display": "Psalm 131:2",
+              "book_code": "PSA",
+              "chapter": 131,
+              "verses": "2",
+              "translation": "Lutherbibel 1912",
+              "text": "Meine Seele ist still und ruhig geworden, wie ein entwöhntes Kind bei seiner Mutter; wie ein entwöhntes Kind ist meine Seele in mir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Schnelligkeit ist nicht immer Fleiß; manchmal ist sie nur Angst",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Lukas 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "Lutherbibel 1912",
+            "text": "Martha, Martha, du machst dir viel Sorgen und Unruhe; eins aber ist not."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wir neigen dazu, Schnelligkeit mit Fleiß gleichzusetzen, mit Verantwortung und Effizienz. Aber wenn jemand immer schnell ist, liegt das manchmal nicht daran, dass sie eine Richtung hat, sondern daran, dass sie nicht zu bremsen wagt. Langsamer werden beunruhigt sie: Angst unbedeutend zu wirken, überholt zu werden, andere zu enttäuschen, die Stimmen im Innern hören zu müssen. Geschwindigkeit wird dann nicht nur zur Gewohnheit, sondern zum Selbstschutz.",
+            "Marthas Verwirrung war nicht nur Arbeit – Jesus nennt sie von Besorgnis geplagt. Das zeigt: die äußere Geschwindigkeit hängt oft mit innerer Unruhe zusammen. Sprüche warnt, dass schnelle Schritte zu Fehltritt führen. **Manche Schnelligkeit kommt nicht aus Berufung, sondern aus Furcht; und wenn Furcht die Kraft ist, führt Fleiß oft in tiefere Erschöpfung.**",
+            "Das zählt, weil eine Frau Jahre damit verbringen kann, für Muster gelobt zu werden, die sie langsam aushöhlen. Sie kann produktiv wirken, während sie unter stillem Druck lebt, ihre Bedeutung immer wieder zu beweisen. In diesem Fall wird Verlangsamen emotional schwierig, weil es sich wie Versagen anfühlt, selbst wenn der Grund nie sicher war.",
+            "Gottes Friede erreicht unter den Zeitplan bis zur Furcht darunter. Er fragt nicht nur, dass du weniger tust. Er lehrt dich, zu leben ohne Geschwindigkeit als Beweis deiner Bedeutung. Wenn die Furcht zu lockern beginnt, fühlt sich Langsamkeit nicht mehr wie Versagen an. Es fühlt sich wie Freiheit an."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lass mein Innerstes leuchten. Danke, dass du mich nicht nach meiner Geschwindigkeit misst, sondern danach, ob ich in Wahrheit lebe. Ich preise dich, denn du treibst deine Kinder nicht mit Furcht – du führst sie mit Liebe. Wenn Furcht, Selbstschutz oder die Notwendigkeit, mich zu beweisen, in meiner Geschäftigkeit versteckt ist, lass mich nicht weiter vergeblich hetzen. Befreie mich von der Bindung, ständig nützlich sein zu müssen, und mach meinen Fleiß frischer und ruhiger. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Lukas 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "Lutherbibel 1912",
+              "text": "Martha, Martha, du machst dir viel Sorgen und Unruhe; eins aber ist not."
+            },
+            {
+              "display": "Sprüche 19:2",
+              "book_code": "PRO",
+              "chapter": 19,
+              "verses": "2",
+              "translation": "Lutherbibel 1912",
+              "text": "Hastige Füße führen zum Fehltritt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Langsam werden ist nicht Verschwendung; es ist Neuausrichtung",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jesaja 30:15",
+            "book_code": "ISA",
+            "chapter": 30,
+            "verses": "15",
+            "translation": "Lutherbibel 1912",
+            "text": "Durch Umkehr und Ruhe werdet ihr gerettet; durch Ruhe und Vertrauen liegt eure Stärke."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Menschen hören «langsam werden» und denken sofort an Verlust. Langsamkeit klingt nach Mangel, nicht ernsthaft zu sein, zurückfallen zu lassen. Besonders für lange Beschäftigte wirkt es luxuriös. Aber die biblische Langsamkeit ist nicht nachlässig, sondern mehr eine Neuausrichtung. Jesaja sagt, Kraft liegt in Ruhe und Vertrauen; Jesus spricht von Bleiben in ihm. Das bedeutet nicht, dass Menschen nichts tun, sondern dass das Herz bei all seinen Werken weiß, wessen es ist.",
+            "Wir driften nicht immer durch Rebellion von Gott ab – oft durch Schwung. Wir laufen, erledigen und reagieren, und entdecken dann, dass unsere Herzen nicht mehr auf ihn konzentriert sind, auch wenn das Leben funktioniert. **Langsam werden ist nicht verschwendete Zeit, wenn es deinen Motiven, deiner Richtung und deiner Kraft hilft, zu Gottes Ordnung zurückzukehren.**",
+            "Solche Neuausrichtung muss nicht dramatisch sein. Sie kann in kleinen Schwellen geschehen: eine Pause zwischen Aufgaben, ein ruhigerer Mittag, ein Spaziergang ohne Lärm, ein ehrlicher Abend, der zugibt, dass das Leben dich härter getrieben hat als die Gnade dich geführt hat. Diese Momente sind klein, aber sie kalibrieren das Innenleben neu.",
+            "Langsamkeit ist daher kein Stil. Sie ist eine Weise des Zurückkehrens. Eine Frau, die oft zurückzukehren lernt, lässt sich nicht so leicht von Dringlichkeit fortreißen. Sie kann viel zu tun haben, aber ihr Leben beginnt aus einem stabileren Zentrum."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich preise dich, denn die Kraft, die du schenkst, findet sich nicht nur im Vorwärts gehen, sondern auch im Zurückkehren. Danke, dass ich, wenn ich abweiche, zurückkommen darf, statt in Verwirrung verlassen zu sein. Richte mein Herz neu aus und richte meinen Rhythmus neu aus; wenn ich lange von Anforderungen getrieben worden bin, bring mich zu deinem Zentrum zurück. Möge ich nicht nur Aufgaben erfüllen, sondern immer mehr in dir bleiben, während ich arbeite. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jesaja 30:15",
+              "book_code": "ISA",
+              "chapter": 30,
+              "verses": "15",
+              "translation": "Lutherbibel 1912",
+              "text": "Durch Umkehr und Ruhe werdet ihr gerettet; durch Ruhe und Vertrauen liegt eure Stärke."
+            },
+            {
+              "display": "Johannes 15:4",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "4",
+              "translation": "Lutherbibel 1912",
+              "text": "Bleibet in mir, und ich in euch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Mein Körper ist nicht ein Problem, das ich durchstoße",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Könige 19:7-8",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "7-8",
+            "translation": "Lutherbibel 1912",
+            "text": "Stehe auf und iss! Der Weg ist dir zu weit… Er stand auf, aß und trank und ging, gestärkt durch diese Speise, vierzig Tage und vierzig Nächte."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele behandeln den Körper als Werkzeug für Aufgaben: Solange er noch durchhält, weiter so; solange noch beweglich, weiter drängen. Aber die Schrift sieht Menschen nicht so. Elia wird in der Wüste von Gott gepflegt – nicht weil er geistlich zurückgegangen ist, sondern weil er wirklich müde war. Paulus sagt, der Körper ist der Tempel des Heiligen Geistes – eine Mahnung, dass der Körper nicht ersetzbar ist, sondern selbst unter Gottes Sorge steht.",
+            "Viele Frauen wollen ihren Körper nicht vernachlässigen – sie stellen ihn nur immer hinten an. Der Schlaf wird gekürzt, Mahlzeiten improvisiert, Schmerz weitere Momente geduldet, Untersuchungen verschoben, Bewegung aufschieben. So gelebt, vergisst man langsam: Der Körper spricht auch mit dem Herzen. Schlaflosigkeit, Reizbarkeit, Schmerz, zerstreute Aufmerksamkeit, Müdigkeit, die sich nicht erholt – das ist nicht, dass der Körper «nicht leisten kann», sondern dass er sagt: Du hast mich zu lange nicht beachtet. **Wenn der Körper spricht, ist geistliche Reife nicht, ihn weiter zu ignorieren, sondern anzuhören.**",
+            "Gottes Hirtung bleibt nicht auf der Seelenschicht. Er sorgt durch Schlaf, Speise, Heilung, Sonne, Medizin, Begleitung, fachliche Hilfe. Dies alles als Teil des geistlichen Lebens zu sehen, schwächt nicht die Frömmigkeit – es lässt dich ehrlicher eingestehen: Ich bin erschaffen, ich brauche Sorge.",
+            "Wenn eine Person beginnt, ihren Körper zu ehren, wird sie nicht empfindlicher. Sie wird ehrlicher. Sie beweist nicht mehr Hingabe durch Selbstauslöschung. Sie erlaubt der Güte Gottes, sie auf verkörperte Weise zu erreichen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Schöpfer Gott, danke für meinen Körper und danke, dass du seine Müdigkeit nicht leichtfertig nimmst. Ich preise dich, dass du für Menschen nicht nur im Geist sorgst, sondern auch für Schlaf, Schmerz, Hunger und Genesung. Vergib mir, dass ich meinen Körper als Werkzeug benutze, bis er beinahe kaputt ist. Lehre mich, meine Endlichkeit zu ehren, und lass meinen Körper unter deiner Gnade gepflegt werden. Wenn ich Hilfe brauche, gib mir Demut, sie anzunehmen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Könige 19:7-8",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "7-8",
+              "translation": "Lutherbibel 1912",
+              "text": "Stehe auf und iss! Der Weg ist dir zu weit… Er stand auf, aß und trank und ging, gestärkt durch diese Speise, vierzig Tage und vierzig Nächte."
+            },
+            {
+              "display": "1. Korinther 6:19-20",
+              "book_code": "1CO",
+              "chapter": 6,
+              "verses": "19-20",
+              "translation": "Lutherbibel 1912",
+              "text": "Wisset ihr nicht, daß euer Leib ein Tempel des Heiligen Geistes ist?… Verherrlicet darum Gott in eurem Leibe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Mein Wert hängt nicht von ständiger Leistung ab",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Lukas 12:6-7",
+            "book_code": "LUK",
+            "chapter": 12,
+            "verses": "6-7",
+            "translation": "Lutherbibel 1912",
+            "text": "Sind nicht fünf Sperlinge für zwei Pfennige feil?… Ihr seid aber vielen Sperlingen wertvoller!"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Hinter viel Erschöpfung sitzt ein tiefes Vertrauen: Ich muss ständig nützlich, präsent und gebraucht sein, um Beachtung zu verdienen. Geschäftigkeit wird dann nicht nur Tätigkeit – es wird Selbstwertquelle. Solange noch zu tun, noch zu geben, noch zu tragen ist, fühlt sich alles sicher an; langsamer werden macht Angst. Das Muster ist schwer zu bemerken, weil es sich als Verantwortung, Fleiß und Güte verkleidet.",
+            "Aber Jesus sagt, du bist mehr wert als viele Spatzen; Paulus sagt, wir sind Gottes Werk. Die Reihenfolge zählt. Nicht du beweist erst deinen Wert, dann akzeptiert er dich; vielmehr sieht er dich erst als kostbar, und dann handelst du gut. **Das, was du tust, kann sehr bedeutsam sein, aber dein Wert ist nie von ständiger Leistung abhängig.**",
+            "Wenn jemand schon beim Ausruhen besonders unruhig wird, liegt es manchmal nicht nur an zu vielem Zu-Tun. Es kann auch sein, dass sie sich selbst ohne Leistung noch nicht akzeptiert. Sie kann zu lange nicht nur als geliebte Tochter gelebt haben, sondern immer als nützliche Person. Mit der Zeit wird Geschäftigkeit nicht zum Rhythmus – es wird zur Identität.",
+            "Gottes Heilung für diese Erschöpfung richtet sich nicht nur auf weniger Aktivität, sondern auf Geliebtsein. Hier entdeckt das Herz langsam: Ich werde nicht geliebt, weil ich nützlich bin; ich bin nicht sicher, weil ich leiste. Wenn Selbstwert in Gott neu verwurzelt ist, kann eine Frau sowohl treu handeln als auch friedlich ruhen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Vater, bevor ich etwas geschafft habe, liebst du mich schon – ich danke dir dafür. Ich preise dich, denn mein Wert wird nicht durch Leistung entschieden, sondern weil ich dir gehöre. Befreie mich von dem Leben, das sich nur sicher anfühlt, wenn ich nützlich und gebraucht bin. Wenn Geschäftigkeit meine Identität geworden ist, zerstöre diese Illusion. Lass mich erst als dein geliebtes Kind stehen, dann mit Treue arbeiten. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Lukas 12:6-7",
+              "book_code": "LUK",
+              "chapter": 12,
+              "verses": "6-7",
+              "translation": "Lutherbibel 1912",
+              "text": "Sind nicht fünf Sperlinge für zwei Pfennige feil?… Ihr seid aber vielen Sperlingen wertvoller!"
+            },
+            {
+              "display": "Epheser 2:10",
+              "book_code": "EPH",
+              "chapter": 2,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn wir sind sein Werk, geschaffen in Christus Jesus zu guten Werken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Gott spricht oft an langsamen Orten",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Könige 19:11-12",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "11-12",
+            "translation": "Lutherbibel 1912",
+            "text": "Der HERR ging vorüber und es war ein großer und starker Wind… aber der HERR war nicht im Wind… und nach dem Feuer ein stilles, sanftes Säuseln."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wir nehmen an, Gott spricht am lautesten und dramatischsten, also wird das Leben lauter, voller und enger. Aber als Elia Gott trifft, ist er nicht im Wind, nicht im Erdbeben, nicht im Feuer – es ist die stille kleine Stimme. Für lange Beschäftigte ist das eine tiefe Lektion: Wenn ich immer zu schnell, zu voll, zu laut bin, ist das Problem nicht unbedingt, dass Gott schweigt. Es kann sein, dass ich nicht mehr höre.",
+            "Jesus nimmt die Jünger in die Einöde, nicht um der Welt zu entfliehen, sondern um das Herz wieder empfänglich zu machen. Wer von Nachrichten, Aufgaben, Angst und Lärm umgeben ist, kann leicht Gottes Wort als Hintergrundgeräusch nehmen. **Manche Erschöpfung kommt nicht nur von Schlafmangel, sondern von fehlender Langsamkeit, um Gott neu zu hören.**",
+            "Der gute Hörer ist nicht unbedingt der Klügste, sondern oft der, der stoppt. Gottes Stimme kommt nicht um die Welt zu übertönen, sondern warten, bis jemand im Durcheinander Raum schafft. Eine Person kann beten und dienen, während sie zu schnell läuft, um wirklich zu hören.",
+            "Die Reife langsamen Lebens liegt daher nicht nur an langsamerer Geschwindigkeit, sondern an wachsender Hörfähigkeit. Das Herz unterscheidet zunehmend: Was ist Gottes Stimme, was nur Druck; was Führung, was Schwung. Wenn das Herz wieder hört, geben sich viele verworrene Dinge selbst ordnen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Sprechender Herr, danke, dass du dich nicht nur im Lauten zeigst, sondern auch in der Stille nahkommst. Ich preise dich als Gott des Feuers und als Gott der leisen Stimme. Vergib mir, dass ich so volle Leben führe, dass dein Wort von andern Lauten erstickt wird. Gib mir ein hörendes Herz und ein Leben, das dir Raum lässt. Lass mich an langsamen Orten deine Stimme neu lernen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Könige 19:11-12",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "11-12",
+              "translation": "Lutherbibel 1912",
+              "text": "Der HERR ging vorüber und es war ein großer und starker Wind… aber der HERR war nicht im Wind… und nach dem Feuer ein stilles, sanftes Säuseln."
+            },
+            {
+              "display": "Markus 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "Lutherbibel 1912",
+              "text": "Kommt her an einen einsamen Ort, um euch auszuruhen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Ruhe kann eine Lebensweise werden",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "2. Mose 20:8-10",
+            "book_code": "EXO",
+            "chapter": 20,
+            "verses": "8-10",
+            "translation": "Lutherbibel 1912",
+            "text": "Gedenke des Sabbattages, ihn heilig zu halten… aber am siebenten Tage ist der Sabbat des HERRN, deines Gottes."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele behandeln Ruhe als Episode: Nach dieser Geschäftigkeit, wenn die Kinder älter, die Arbeit sicherer, die Stimmung besser – dann Ruhe, dann Reparatur. Aber biblische Ruhe ist nie «Belohnung nach Fertigstellung». Der Sabbat wurde in Gottes Volk nicht zur Dekoration, sondern zur Bildung gelegt. Jesus sagt, die Rebe ohne den Weinstock kann nichts – weil ständiges Verbundensein grundsätzlicher ist als ständige Leistung.",
+            "Für lange Erschöpfte reicht daher oft nicht nur eine Erholungsphase, sondern eine neue Struktur. Wenn Ruhe immer nur Notmaßnahme ist, kann sie echtes Leben schwer erreichen. Denn Aufgaben enden nie, Nachrichten nicht, neue Bedürfnisse nicht. **Nur wenn Ruhe ernst in die Lebensstruktur gelegt wird, kann sie von seltener Atempause zur stetigen Kraft werden.**",
+            "Das klingt einfach, ist aber tief. Es fordert anzuerkennen: Es gibt Dinge, die ich nicht fertig mache, aber ich kann trotzdem in dem Herrn bleiben. Ruhe zersplittert das Leben nicht – sie bringt es zu Ordnung. Sie lehrt, welche Zeit Gottes, welcher Raum nicht ausfallenlässig, welcher Rhythmus macht mich zu der, die im Herrn bleibt.",
+            "Letztlich wird Ruhe nicht mehr nur zur Reparatur von Ermüdung, sondern zur Lebensweise. Immer noch arbeitet, immer noch gibt es ab, aber nicht durch Überlastung Eifer bewiesen. Wenn Gottes Gegenwart, Grenzen und Rhythmus ins Alltägliche kommen, wird langsames Leben nicht nur ein Ideal, sondern eine echte Lebensform, zum Hineinwohnen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke für Ruhe – nicht als Luxus, sondern als Lebensweise, in die deine Kinder eingeladen sind. Ich preise dich, weil du weißt, dass ich mehr als temporäre Erholung brauche; ich brauche Rhythmen, die mich in deiner Nähe halten. Hilf mir, Ruhe nicht mehr zu verschieben und Gemeinschaft mit dir nicht nach Fertigstellung zu stellen. Lehre mich, echte Sabbatstrukturen in Tage, Wochen und Jahreszeiten zu bauen, damit ich unter deiner Gegenwart und Ordnung mit besserem Frieden lebe. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "2. Mose 20:8-10",
+              "book_code": "EXO",
+              "chapter": 20,
+              "verses": "8-10",
+              "translation": "Lutherbibel 1912",
+              "text": "Gedenke des Sabbattages, ihn heilig zu halten… aber am siebenten Tage ist der Sabbat des HERRN, deines Gottes."
+            },
+            {
+              "display": "Johannes 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich bin der Weinstock, ihr seid die Reben… ohne mich könnt ihr nichts tun."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

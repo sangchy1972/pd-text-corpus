@@ -1,0 +1,506 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI15",
+    "slug": "redefining-success",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rôles et Identité",
+      "secondary": "work-calling",
+      "secondary_label": "Travail et Vocation"
+    },
+    "tags": [
+      "travail",
+      "vocation",
+      "carriere",
+      "plaire",
+      "succes",
+      "foi-au-travail"
+    ],
+    "title": "Redéfinir le succès",
+    "subtitle": "Quand la réussite ne suffit plus",
+    "audience": {
+      "life_stage": [
+        "femmes professionnelles",
+        "actives"
+      ],
+      "emotional_state": [
+        "responsable",
+        "tiraillée",
+        "redéfinissant le succès"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces sept jours vous accompagnent plus profondément à travers l'anxiété de l'accomplissement, l'épuisement et le vide intérieur, pour redécouvrir ce que le vrai succès signifie vraiment.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#B8C8D8",
+      "color_secondary": "#2C4A6B",
+      "image_key": "cover_woman_at_desk_morning_calm",
+      "icon": "open-book-and-light-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Michée 6:8",
+        "book_code": "MIC",
+        "chapter": 6,
+        "verses": "8"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Le scénario du succès arrive souvent avant que nous le choisissions",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Michée 6:8",
+            "book_code": "MIC",
+            "chapter": 6,
+            "verses": "8",
+            "translation": "Louis Segond 1910",
+            "text": "On t'a fait connaître, ô homme, ce qui est bien ; et ce que l'Éternel demande de toi, c'est que tu pratiques la justice, que tu aimes la miséricorde, et que tu marches humblement avec ton Dieu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup d'entre nous avons appris très tôt quelle forme doit prendre une vie réussie.",
+            "Être visible. Être accomplie. Continuer à avancer. Rester impressionnante. Produire des résultats. Avec le temps, nous ne travaillons pas simplement dur. Nous commençons à servir un scénario que nous n'avons jamais vraiment remis en question. Si nous ne nous arrêtons jamais pour demander ce que le succès signifie devant Dieu, nous pouvons continuer à grimper tandis que notre vie intérieure devient plus mince.",
+            "Parfois, la partie la plus difficile est de réaliser que nous n'avons jamais vraiment choisi le scénario. Nous l'avons absorbé. Par les louanges, la pression, la comparaison, l'admiration et la peur, nous avons appris quel type de femme semble digne de respect. Donc nous continuons à avancer, à nous prouver, à accomplir, et nous nous arrêtons rarement pour demander si la vie que nous poursuivons est vraiment celle que Dieu nous demande de construire. Une personne peut être profondément compétente et profondément déconnectée de sa propre âme en même temps.",
+            "Je pense que c'est pourquoi cette question compte tant. Dieu n'est pas contre l'excellence, l'influence ou la fécondité. Mais Il demande ce qui les motive. Si nous ne discernons jamais dont les normes nous servons, nous pouvons devenir extérieurement réussies tout en étant intérieurement vides. Le renouvellement commence souvent par cette interruption : dont la définition du succès a dirigé ma vie ?",
+            "Cette question peut sembler troublante, mais elle est aussi miséricordieuse. Elle donne à l'âme la permission d'arrêter d'appeler chaque vie admirée un appel de Dieu.",
+            "**Certains d'entre nous ne sont pas seulement fatigués ; nous sommes fatigués de poursuivre des normes que nous n'avons jamais vraiment choisies.** Demandez-vous aujourd'hui si ce que vous poursuivez est réellement ce que Dieu vous demande."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, montre-moi ce que j'ai vraiment poursuivi, et montre-moi d'où ces normes sont venues en moi. Si le scénario qui dirige ma vie ne vient pas de Toi, donne-moi le courage de faire une pause et de discerner à nouveau. Ne me laisse pas devenir simplement plus impressionnante ; apprends-moi à devenir plus attentive à Ta voix. Libère-moi de la vie qui se sent sûre seulement quand elle se prouve constamment, et apprends-moi à recevoir Ta définition de ce qui vaut vraiment la peine d'être poursuivi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Michée 6:8",
+              "book_code": "MIC",
+              "chapter": 6,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "On t'a fait connaître, ô homme, ce qui est bien ; et ce que l'Éternel demande de toi, c'est que tu pratiques la justice, que tu aimes la miséricorde, et que tu marches humblement avec ton Dieu."
+            },
+            {
+              "display": "Proverbes 16:3",
+              "book_code": "PRO",
+              "chapter": 16,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "Remets tes œuvres à l'Éternel, et tes projets seront affermis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "L'ambition n'est pas le problème ; perdre l'âme l'est",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Marc 8:36",
+            "book_code": "MRK",
+            "chapter": 8,
+            "verses": "36",
+            "translation": "Louis Segond 1910",
+            "text": "Car que servira-t-il à un homme de gagner tout le monde, s'il perd son âme ?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Dieu n'est pas menacé par l'ambition.",
+            "Mais quand l'ambition commence à consumer le repos, les relations, l'honnêteté et la profondeur spirituelle, elle cesse d'être de l'énergie et devient une maîtrise. Jésus a demandé ce qu'il profite à une personne de gagner le monde entier et de perdre l'âme. Cette question traverse encore le succès moderne.",
+            "Le danger est souvent subtil au début. Nous nous disons que nous sommes simplement motivées, responsables ou engagées. Mais au fil du temps, l'ambition peut commencer à exiger plus qu'elle ne devrait. Nous arrêtons de bien nous reposer. Nous devenons moins patientes envers les gens. La prière devient plus mince. La joie devient plus difficile à trouver. Nous commençons à nous mesurer par l'élan seul. À un moment donné, le succès n'est plus quelque chose que nous poursuivons. Cela devient quelque chose qui nous gouverne.",
+            "La question de Jésus est sévère parce qu'elle nous force à penser en termes de coût, pas seulement de récompense. Qu'est-ce que tu gagnes, et qu'est-ce que tu deviens pendant que tu le gagnes ? Si la poursuite de plus te laisse moins vivante, moins honnête, moins aimante, ou moins capable d'entendre Dieu, alors l'ambition a franchi une limite. Dieu ne nous demande pas d'abandonner notre appel. Il nous demande de ne pas laisser l'appel devenir un autel sur lequel l'âme est sacrifiée.",
+            "L'ambition peut toujours être offerte à Dieu, purifiée et réordonnée. C'est aussi sa miséricorde.",
+            "**Le danger le plus profond n'est pas le travail acharné, mais devenir méconnaissable pour soi-même à cause de lui.** Remarquez aujourd'hui ce que votre effort peut vous coûter.",
+            "Dieu peut toujours enseigner à l'ambition de s'agenouiller au lieu de régner.",
+            "Il est capable de transformer l'effort en intendance et la pression en prière."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, si ma quête a commencé à consumer mon cœur, avertis-moi et arrête-moi. Ne me laisse pas continuer à avancer en laissant mon âme derrière. Garde-moi de sacrifier le repos, l'honnêteté et la proximité avec Toi pour l'apparence du succès. Apprends-moi à discerner la différence entre l'ambition saine et celle qui a franchi les limites. Laisse-moi rester fidèle dans mon travail sans perdre mon âme. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Marc 8:36",
+              "book_code": "MRK",
+              "chapter": 8,
+              "verses": "36",
+              "translation": "Louis Segond 1910",
+              "text": "Car que servira-t-il à un homme de gagner tout le monde, s'il perd son âme ?"
+            },
+            {
+              "display": "Psaume 127:2",
+              "book_code": "PSA",
+              "chapter": 127,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "En vain vous levez-vous matin, vous vous couchez tard, et vous mangez le pain de douleur ; car l'Éternel en donne autant à ses bien-aimés pendant leur sommeil."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "L'épuisement n'est pas toujours de la faiblesse, mais une longue absence de repos",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Exode 20:8",
+            "book_code": "EXO",
+            "chapter": 20,
+            "verses": "8",
+            "translation": "Louis Segond 1910",
+            "text": "Souviens-toi du jour du repos, pour le sanctifier."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'épuisement arrive rarement d'un coup. C'est généralement un message très retardé du corps, de l'esprit et de l'âme ensemble : tu vas sans être restaurée depuis trop longtemps.",
+            "Beaucoup de femmes dans le travail exigeant sont très habiles à fonctionner au-delà de leurs propres limites. Nous renommons l'épuisement en une saison occupée. Nous appelons l'engourdissement du professionnalisme. Nous continuons à nous présenter, à répondre, à porter, à produire et à gérer parce que l'arrêt semble menaçant. Cela peut sembler risqué de faire une pause quand vous avez des responsabilités, des normes et des gens qui dépendent de vous. Parfois, ce n'est pas le travail lui-même qui nous maintient en mouvement, mais la peur. Peur de prendre du retard. Peur d'être remplacée. Peur de décevoir les gens. Peur que si nous ralentissons, nous devrons affronter le vide que nous sommes vraiment.",
+            "Mais Dieu n'a pas conçu le repos comme une récompense pour les gens qui finissent finalement tout. Il a intégré le repos dans le rythme de la vie humaine parce qu'Il sait que nous sommes limités. Le commandement du sabbat n'est pas décoratif. Le Psaume 23 ne montre pas seulement un Berger qui conduit ; il montre un Berger qui nous fait nous coucher et restaure l'âme. Cette image confronte le mensonge moderne selon lequel le mouvement constant est la maturité. Il est possible de paraître très responsable tout en abandonnant silencieusement votre vie intérieure.",
+            "Je comprends le réflexe de continuer. Beaucoup d'entre nous le faisons. Quand nous nous arrêtons, la culpabilité s'élève souvent avant la paix. Pourtant, la véritable croissance peut ne pas être devenir la femme qui peut porter de plus en plus. Elle peut être devenir la femme qui peut enfin admettre, sans honte, qu'elle a besoin de restauration. Le repos n'est pas l'irresponsabilité. C'est un refus de vous traiter comme une ressource sans fin.",
+            "**La personne qui n'ose jamais s'arrêter ne devient pas plus forte pour toujours. Elle devient souvent plus vide.** Demandez à Dieu aujourd'hui depuis combien de temps votre âme, non seulement votre horaire, n'a vraiment reposé."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, aide-moi à affronter l'épuisement honnêtement, et aide-moi à honorer à nouveau le repos. Ne me laisse pas continuer à traiter la stillation comme un danger. Restaure mon âme. Garde les résultats externes de me définir plus vite que Ta paix. Rends-moi fidèle dans mon travail et éveillée dans mon esprit. Merci de ne pas être repoussée par ma faiblesse, mais de vouloir m'approcher, me soutenir et continuer à m'enseigner. Libère-moi des habitudes de complaisance, d'anxiété et de me prouver à travers le rendement. Permets-moi de rester stable sous la pression, libre dans la responsabilité, et consciente dans chaque journée de travail que je suis finalement responsable devant Toi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Exode 20:8",
+              "book_code": "EXO",
+              "chapter": 20,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Souviens-toi du jour du repos, pour le sanctifier."
+            },
+            {
+              "display": "Psaume 23:2-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "2-3",
+              "translation": "Louis Segond 1910",
+              "text": "Il me fait reposer dans de verts pâturages, il me dirige près des eaux tranquilles. Il restaure mon âme."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "La fidélité compte plus que l'image",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Corinthiens 4:2",
+            "book_code": "1CO",
+            "chapter": 4,
+            "verses": "2",
+            "translation": "Louis Segond 1910",
+            "text": "Du reste, ce qu'on demande des intendants, c'est que chacun soit trouvé fidèle."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Notre époque est très doué pour nous enseigner comment paraître convaincants. Elle est beaucoup moins intéressée par nous enseigner comment être tranquillement fidèles.",
+            "Dans la vie professionnelle, la gestion de l'image peut sembler presque inséparable de la survie. Nous remarquons quel type de femme semble plus facile à faire confiance, plus facile à promouvoir, plus facile à louer. Nous apprenons donc comment sembler compétente, paraître composée, rester impressionnante et garder la faiblesse hors de vue. Certains de cela peuvent être compréhensibles. Mais au fil du temps, une personne peut dépenser tellement d'énergie à gérer la perception qu'elle perd contact avec la question plus simple : suis-je fidèle devant Dieu ?",
+            "Paul dit que ce qui est requis des intendants, c'est qu'ils soient trouvés fidèles. La fidélité est rarement glamour. Ce peut ne pas être le chemin le plus rapide vers les applaudissements. Souvent, elle vit dans les lieux cachés : comment tu traites la petite tâche, comment tu tiens ta parole, comment tu travailles quand personne ne te loue, comment tu restes honnête quand l'image serait plus facile. La fidélité garde l'âme intégrée parce qu'elle rapproche ta vie intérieure et extérieure.",
+            "Je pense que beaucoup de femmes ont besoin de la permission de se soucier moins de paraître impeccable. Nous portons déjà assez de pression pour être polies, articulées, intelligentes émotionnellement, productives et faciles à faire confiance. Mais si tout ce lustre vient au prix de la vérité, de la paix et de l'obéissance, alors l'image demande trop.",
+            "**Devant Dieu, être fidèle a plus de poids que simplement paraître réussie.** Demandez-vous aujourd'hui si vous avez dépensé plus d'énergie sur comment vous paraissez, ou sur comment vous vivez réellement devant Lui."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, apprends-moi à aimer à nouveau la fidélité plutôt que de simplement poursuivre l'image. Aide-moi à me soucier davantage d'être vrai devant Toi que de paraître impressionnant devant les autres. Garde les résultats externes de me définir plus vite que Ta paix. Rends-moi fidèle dans mon travail et éveillée dans mon esprit. Merci de ne pas être repoussée par ma faiblesse, mais de vouloir m'approcher, me soutenir et continuer à m'enseigner. Libère-moi des habitudes de complaisance, d'anxiété et de me prouver à travers le rendement. Permets-moi de rester stable sous la pression, libre dans la responsabilité, et consciente dans chaque journée de travail que je suis finalement responsable devant Toi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Corinthiens 4:2",
+              "book_code": "1CO",
+              "chapter": 4,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "Du reste, ce qu'on demande des intendants, c'est que chacun soit trouvé fidèle."
+            },
+            {
+              "display": "Luc 16:10",
+              "book_code": "LUK",
+              "chapter": 16,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Celui qui est fidèle dans les petites choses l'est aussi dans les grandes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Le vrai appel fait plus que simplement exiger une sortie constante",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jean 15:5",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "5",
+            "translation": "Louis Segond 1910",
+            "text": "Je suis le cep, vous êtes les sarments. Celui qui demeure en moi et en qui je demeure porte beaucoup de fruit, car sans moi vous ne pouvez rien faire."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Nous traitons souvent l'appel comme une question basée sur les résultats. Qu'est-ce que je suis censée construire ? Où mes dons peuvent-ils être utilisés le plus efficacement ? Quel impact ma vie devrait-elle avoir si je réponds vraiment à Dieu ?",
+            "Cette façon de penser n'est pas entièrement mauvaise. L'appel entre réellement dans le travail, le service, la créativité, la responsabilité et l'influence. Mais quand l'appel est réduit à la sortie, cela devient un autre système de pression. Tu commences à vivre comme si la paix devait attendre jusqu'à ce que suffisamment ait été produit. Tes jours deviennent une longue tentative de justifier ta valeur en restant utile. Sans t'en rendre compte, tu peux commencer à utiliser le langage de l'appel tout en étant réellement motivée par l'accomplissement.",
+            "Jean 15 offre une correction. « Sans moi, vous ne pouvez rien faire » n'est pas seulement un rappel de prier pour l'aide. C'est une affirmation sur d'où vient la fécondité. L'appel n'est pas Dieu te transformant en une machine à haute capacité. C'est Dieu t'attirant dans la communion afin que ce que tu fais croisse de ta relation avec Lui. Philippiens 1:6 dit qu'Il qui a commencé une bonne œuvre en toi la poursuivra. Pas seulement à travers toi, mais en toi. L'appel réel inclut toujours les deux : ce que Dieu fait à travers ta vie, et ce qu'Il forme en toi.",
+            "Je pense que beaucoup de femmes sincères ont besoin de cette liberté. Nous sommes souvent tellement entraînées à suivre les résultats que nous manquons les signes d'avertissement de l'épuisement intérieur. Nous pouvons toujours produire, mais notre paix diminue. Nos relations se rétrécissent. Notre repos disparaît. Notre connexion avec Dieu commence à sembler secondaire. Si ce que tu appelles appel t'a laissée avec la sortie et presque aucune vie intérieure, alors quelque chose est mal aligné.",
+            "**L'appel ne concerne pas seulement ce qui est fait. Il s'agit aussi de qui tu deviens en le faisant.** Offre ton travail à Dieu aujourd'hui, et demande-Lui de garder ton âme aussi soigneusement qu'Il utilise tes dons."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, garde-moi de réduire mon appel à la seule sortie. En utilisant mon travail, continue de me former en tant que personne. Si j'ai l'habitude de demander combien j'ai fait, et trop peu demander quel type de femme je deviens devant Toi, corrige-moi. Garde les résultats externes de me définir plus vite que Ta paix, et laisse-moi rester fidèle dans mon travail sans perdre la prière, l'honnêteté et la vigilance spirituelle. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jean 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "Louis Segond 1910",
+              "text": "Je suis le cep, vous êtes les sarments. Celui qui demeure en moi et en qui je demeure porte beaucoup de fruit, car sans moi vous ne pouvez rien faire."
+            },
+            {
+              "display": "Philippiens 1:6",
+              "book_code": "PHP",
+              "chapter": 1,
+              "verses": "6",
+              "translation": "Louis Segond 1910",
+              "text": "Je suis persuadé que celui qui a commencé en vous cette bonne œuvre la rendra parfaite jusqu'au jour de Jésus Christ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Le succès sans paix laisse toujours l'âme affamée",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 73:26",
+            "book_code": "PSA",
+            "chapter": 73,
+            "verses": "26",
+            "translation": "Louis Segond 1910",
+            "text": "Ma chair et mon cœur peuvent se consumer : Dieu sera toujours le rocher de mon cœur et ma portion."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Parfois, ce qui est le plus déroutant, ce n'est pas « je n'ai rien, donc je suis vide », mais « j'ai déjà gagné beaucoup, pourquoi suis-je toujours anxieuse ».",
+            "Peut-être que votre travail progresse, que les autres vous reconnaissent, vous avez même réalisé une opportunité que vous désiriez longtemps. Et pourtant, ce sentiment suspendu dans votre cœur n'a pas disparu. Vous avez été brièvement heureuse, puis vous êtes rapidement entrée dans la prochaine course. Nous nous blâmons facilement pour l'ingratitude, ou nous nous demandons si nous sommes trop avides. Mais souvent, ce n'est pas de l'avidité. C'est que les gens découvrent enfin : le succès n'avait jamais le pouvoir de remplacer la maison.",
+            "Le Psaume 73 dit que Dieu est la force de mon cœur et ma portion à jamais. Ce verset compte parce qu'il nomme ce que notre ambition essaie souvent d'éviter d'admettre. Le cœur a faim de plus que l'accomplissement. L'accomplissement peut offrir des applaudissements, un soulagement, le statut et une assurance temporaire, mais il ne peut pas devenir une maison. Jésus s'appelle le pain de la vie parce que Lui seul peut entrer dans le lieu en nous qui reste insatisfait même après que les objectifs soient atteints.",
+            "Je pense que c'est une parole nécessaire pour les femmes qui ont appris à répondre au vide par plus d'effort. Quand la douleur revient, nous supposons que nous avons besoin d'un succès plus grand, d'une identité plus forte, d'une saison plus impressionnante. Mais parfois, l'invitation n'est pas d'ajouter plus, mais de retourner. De laisser Dieu définir ce que c'est la plénitude avant que le monde ne le fasse.",
+            "**Le succès peut apporter des applaudissements, mais il ne peut pas devenir une maison pour l'âme.** Parlez à Dieu aujourd'hui du vide que l'accomplissement n'a pas guéri. Laissez cette honnêteté devenir le début d'une faim plus vraie."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, si j'ai attendu le succès pour remplir ce que seul Toi peux remplir, ramène-moi doucement. Rappelle-moi que mon vrai foyer n'est pas dans l'accomplissement, mais en Toi. Si je paraisse capable à l'extérieur tout en devenant creuse à l'intérieur, ne me laisse pas continuer ainsi. Garde-moi de couvrir une faim plus profonde par plus d'accomplissement, et apprends-moi la stabilité qui ne dépend pas des applaudissements. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 73:26",
+              "book_code": "PSA",
+              "chapter": 73,
+              "verses": "26",
+              "translation": "Louis Segond 1910",
+              "text": "Ma chair et mon cœur peuvent se consumer : Dieu sera toujours le rocher de mon cœur et ma portion."
+            },
+            {
+              "display": "Jean 6:35",
+              "book_code": "JHN",
+              "chapter": 6,
+              "verses": "35",
+              "translation": "Louis Segond 1910",
+              "text": "Jésus leur dit : Je suis le pain de la vie. Celui qui vient à moi n'aura jamais faim, et celui qui croit en moi n'aura jamais soif."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "Le succès devant Dieu est plus profond et plus libre",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Michée 6:8",
+            "book_code": "MIC",
+            "chapter": 6,
+            "verses": "8",
+            "translation": "Louis Segond 1910",
+            "text": "Pratique la justice, aime la miséricorde, et marche humblement avec ton Dieu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "À la fin de ces sept jours, peut-être que le succès commence à prendre une forme différente.",
+            "Il peut ressembler moins à plus rapide, plus haut, plus visible et plus admiré, et davantage à la fidélité, l'intégrité, la paix et le travail honnête devant Dieu. Tu peux toujours te soucier profondément de l'excellence. Tu peux toujours vouloir grandir, construire, diriger et contribuer bien. Mais le centre de ce désir commence à se déplacer. Tu ne cherches plus à prouver que tu mérites d'avoir de l'importance. Tu apprends à vivre véritablement comme quelqu'un qui appartient déjà à Dieu.",
+            "J'aime cette redéfinition parce qu'elle détache le vieux scénario. Nous commençons à voir que le succès peut inclure le repos, les limites, la clarté intérieure et le refus de faire de l'accomplissement une maison pour l'âme. Il peut inclure une fidélité profonde dans des lieux que personne d'autre ne remarque complètement. Dieu voit ces lieux cachés, et être vu par Lui suffit à nous libérer de beaucoup de l'urgence du monde.",
+            "Ce n'est pas la résignation. C'est la liberté. Nous cherchons toujours la croissance, la responsabilité et le bon travail, mais nous ne transformons plus le travail en un dieu. La vraie liberté est de pouvoir travailler sincèrement tout en restant intérieurement en repos en Celui à qui nous appartenons.",
+            "**Le vrai succès n'est pas seulement jusqu'où je vais, mais combien fidèlement je marche avec Dieu en y allant.** Apporte ta vieille définition du succès devant Lui et laisse-Le la réécrire. Demande-Lui de former en toi une vie plus profonde et plus libre que l'accomplissement seul pourrait jamais donner."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, redéfinis le succès en moi. Garde-moi d'être entraînée par les vieux scénarios, et apprends-moi à valoriser la fidélité, l'intégrité et la stabilité devant Toi. Si j'ai transformé les résultats en identité et la frénésie en valeur, ramène-moi. Garde le succès externe de me définir plus vite que Ta paix. Rends-moi fidèle dans mon travail et éveillée dans mon esprit, et apprends-moi que l'abondance véritable n'est pas d'être admirée par le monde, mais de vivre dans Ta présence et Ton plaisir. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Michée 6:8",
+              "book_code": "MIC",
+              "chapter": 6,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Pratique la justice, aime la miséricorde, et marche humblement avec ton Dieu."
+            },
+            {
+              "display": "Proverbes 16:9",
+              "book_code": "PRO",
+              "chapter": 16,
+              "verses": "9",
+              "translation": "Louis Segond 1910",
+              "text": "Le cœur de l'homme médite sa voie, mais c'est l'Éternel qui affermit ses pas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

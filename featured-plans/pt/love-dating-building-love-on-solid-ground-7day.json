@@ -1,0 +1,509 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI06",
+    "slug": "building-love-on-solid-ground",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Papéis e Identidade",
+      "secondary": "love-dating",
+      "secondary_label": "Amor e Namoro"
+    },
+    "tags": [
+      "amor",
+      "namoro",
+      "relacionamentos",
+      "limites",
+      "namoro-cristao",
+      "amor-piedoso"
+    ],
+    "title": "Construindo Amor em Rocha Sólida",
+    "subtitle": "Uma abordagem fundamentada na fé para os relacionamentos modernos",
+    "audience": {
+      "life_stage": [
+        "mulheres jovens",
+        "em relacionamento",
+        "antes do casamento"
+      ],
+      "emotional_state": [
+        "esperançosa",
+        "cautelosa",
+        "buscando clareza"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes sete dias nos guiam mais profundamente através da confusão, tensão e incerteza dos relacionamentos modernos, ajudando você a construir o amor em um fundamento mais firme.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#F4B6B6",
+      "color_secondary": "#7A2C42",
+      "image_key": "cover_woman_quiet_garden_evening_warm_light",
+      "icon": "anchor-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Provérbios 14:15",
+        "book_code": "PRO",
+        "chapter": 14,
+        "verses": "15"
+      },
+      {
+        "display": "Mateus 7:24",
+        "book_code": "MAT",
+        "chapter": 7,
+        "verses": "24"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Nem toda Faísca Deve Ser Alimentada",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 14:15",
+            "book_code": "PRO",
+            "chapter": 14,
+            "verses": "15",
+            "translation": "Almeida",
+            "text": "O simples crê em tudo, mas o sensato atenta bem para seus passos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A atração tem uma maneira de fazer a possibilidade parecer maior do que realmente é.",
+            "Uma vez que uma centelha aparece, todo o mundo emocional pode brilhar. Pensamos mais, notamos mais, esperamos mais, e silenciosamente começamos a atribuir significado a coisas muito pequenas. Não há nada de errado em ser tocado. Mas nem toda centelha deve ser alimentada. A atração é um começo real, mas não é a mesma coisa que direção. O sentimento pode abrir a porta, mas por si só não pode dizer se o que está do outro lado é digno de confiança, saudável ou capaz de durar.",
+            "Provérbios diz que o simples crê em toda palavra, mas o sensato atenta bem para seus passos. Esse tipo de cautela importa nos relacionamentos modernos porque é tão fácil deixar a emoção correr à frente da verdade. Às vezes, o coração não se apaixona primeiro pela pessoa em si, mas por uma versão imaginada delas, construída a partir de esperança, química e longing não resolvido. Deus não está pedindo que nos tornemos duros ou desconfiados. Ele está nos ensinando a manter o discernimento próximo à ternura.",
+            "Acho que muitos de nós sabemos como o coração se torna vulnerável uma vez que começa a ter esperança. Podemos começar a interpretar atenção como profundidade, química como paz e possibilidade como promessa. Mas a maturidade no amor significa permitir que o tempo, o caráter e a clareza também falem. Significa resistir ao impulso de transformar cada centelha em destino.",
+            "**Aquele que agita seus sentimentos não é automaticamente aquele que pode carregar seu futuro.** Hoje, não se apresse em definir nada. Pergunte-se se o que está te atraindo fortemente é a pessoa real na sua frente, ou a história que seu coração já começou a construir ao redor dela."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigado porque Você não me envergonha por esperar, desejar, ou querer ser amada. Mantenha meu coração tanto tenro quanto claro. Não deixe que eu amplie um momento de sentimento em destino muito rapidamente. Dê-me discernimento para ver a pessoa real na minha frente, e para notar onde posso estar preenchendo espaços pouco claros com imaginação. Se há um lugar onde eu preciso parar, dê-me coragem. Se há um lugar onde eu preciso esperar, dê-me paciência, e ensine-me a confiar que Sua paz é mais confiável que a intensidade emocional. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 14:15",
+              "book_code": "PRO",
+              "chapter": 14,
+              "verses": "15",
+              "translation": "Almeida",
+              "text": "O simples crê em tudo, mas o sensato atenta bem para seus passos."
+            },
+            {
+              "display": "Provérbios 4:26",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "26",
+              "translation": "Almeida",
+              "text": "Pondera a vereda de teus pés, e todos os teus caminhos sejam bem estabelecidos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Bandeiras Vermelhas Não São Drama, mas Proteção",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Mateus 7:16",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "16",
+            "translation": "Almeida",
+            "text": "Por seus frutos os conhecereis."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Frequentemente não somos cegos aos sinais de alerta. Simplesmente relutamos em confiar no que já estamos sentindo.",
+            "Explicamos inconsistências, desculpamos volatilidade emocional, minimizamos sinais contraditórios, e continuamos nos dissuadindo do desconforto porque não queremos parecer dramáticos ou perder a possibilidade muito rapidamente. Mas nem todo sentimento de desconforto é uma reação exagerada. Às vezes, o desconforto é uma das maneiras pelas quais Deus protege o coração. Confusão repetida, desonestidade, instabilidade, manipulação, ou a sensação crescente de que você não pode mais confiar em sua própria percepção não são coisas pequenas para serem ignoradas.",
+            "Jesus disse que as pessoas são conhecidas pelos seus frutos. Isso importa nos relacionamentos porque a química pode ser brilhante enquanto o caráter permanece pouco claro. Uma pessoa digna de confiança não é discernida meramente por atração, palavras gentis ou momentos intensos. Ela é conhecida por padrão ao longo do tempo. O fruto parece consistência, honestidade, responsabilidade, humildade e presença que produz paz. O amor saudável pode suportar o peso da observação. Ele não requer que você desative seu discernimento para manter a conexão viva.",
+            "Às vezes, a parte mais difícil é admitir que nomear uma bandeira vermelha pode levar ao luto. Pode significar confrontar a possibilidade de que o que você esperava não é o que realmente existe. Mas evitar não protege o coração. A verdade protege. Os avisos de Deus não se destinam a nos deixar com medo do amor. Eles se destinam a nos impedir de confundir perigo com profundidade.",
+            "**O amor saudável não tem medo de ser observado honestamente.** Escreva os sinais que tem relutado em nomear. A proteção frequentemente começa quando paramos de fazer desculpas pelo que continua perturbando a paz."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, se há sinais de alerta que tenho vindo a minimizar ou desculpar, deixe-me vê-los claramente. Não deixe que eu ignore o que prejudica a paz simplesmente porque temo parecer muito sensível ou perder a possibilidade. Dê-me honestidade e proteção. Dê-me discernimento e limites saudáveis, para que minha gentileza não se torne autossabotagem e meu amor não me custe minha própria integridade. Obrigado porque Você não é afastado por minha fraqueza, mas desejoso de se aproximar, me apoiar e continuar a me ensinar. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Mateus 7:16",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "16",
+              "translation": "Almeida",
+              "text": "Por seus frutos os conhecereis."
+            },
+            {
+              "display": "Provérbios 27:12",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "12",
+              "translation": "Almeida",
+              "text": "O homem prudente vê o mal e se esconde..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Clareza é Amorosa; Confusão Não é Romântica",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Mateus 5:37",
+            "book_code": "MAT",
+            "chapter": 5,
+            "verses": "37",
+            "translation": "Almeida",
+            "text": "Seja, porém, o vosso falar: Sim, sim; Não, não..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Alguns relacionamentos se tornam atraentes não porque são claros, mas porque estão não resolvidos.",
+            "O coração continua se inclinando, esperando que a próxima conversa, gesto ou momento de calor finalmente explique o que tudo significa. Pode começar a parecer que o próprio mistério é profundidade. Mas um relacionamento sustentado por adivinhação raramente produz paz. Pode criar intensidade, mas intensidade não é a mesma coisa que segurança. O amor pode se desenrolar lentamente, mas lentidão e vagueza não são a mesma coisa. Um relacionamento lento ainda pode ser honesto. Um vago frequentemente mantém a outra pessoa emocionalmente suspensa.",
+            "Jesus ensinou que nosso sim deve ser sim e nosso não deve ser não. A honestidade pertence dentro do amor. Uma pessoa que valoriza seu coração se importará se sua presença em sua vida está produzindo estabilidade ou confusão. Clareza não significa certeza instantânea ou compromisso imediato. Significa honestidade sobre direção, intenção e o que realísticamente pode ser oferecido.",
+            "Muitos de nós toleramos ambiguidade porque tememos que pedir clareza termine a fantasia. Preferiríamos manter a esperança viva a enfrentar uma resposta dolorosa. Mas quando a esperança sobrevive apenas evitando a verdade, ela desgasta lentamente a alma. Deus não é o autor da confusão. Ele não aprofunda o amor pedindo que nos mantenhamos perdidos nele.",
+            "**Um relacionamento que te deixa adivinhando frequentemente te deixa exausto, não seguro.** Considere se tem sido construir explicações em torno da ambiguidade apenas para preservar a esperança. Deus pode não responder cada pergunta em um momento, mas Ele conduz corações para longe da confusão e em direção à verdade."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, tire meu coração da confusão. Se tenho mantido a esperança viva através de suposições, dê-me coragem para enfrentar o que é verdadeiro. Ajude-me a não confundir confusão com romance, ou instabilidade com profundidade. Dê-me discernimento e limites saudáveis, para que minha gentileza não se torne autossabotagem e meu amor não me custe minha própria integridade. Obrigado porque Você não é afastado por minha fraqueza, mas desejoso de se aproximar, me apoiar e continuar a me ensinar. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Mateus 5:37",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "37",
+              "translation": "Almeida",
+              "text": "Seja, porém, o vosso falar: Sim, sim; Não, não..."
+            },
+            {
+              "display": "1 Coríntios 14:33",
+              "book_code": "1CO",
+              "chapter": 14,
+              "verses": "33",
+              "translation": "Almeida",
+              "text": "Porque Deus não é Deus de confusão, senão de paz..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Limites Pertencem Dentro do Amor, Não Fora",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "1 Tessalonicenses 4:3-4",
+            "book_code": "1TH",
+            "chapter": 4,
+            "verses": "3-4",
+            "translation": "Almeida",
+            "text": "Porque esta é a vontade de Deus, a vossa santificação... que cada um de vós saiba possuir o seu corpo em santificação e honra."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Um dos mal-entendidos mais comuns nos relacionamentos é a crença de que limites sinalizam distância emocional.",
+            "Podemos começar assumindo que se fôssemos realmente abertos, amorosos e sérios, não precisaríamos de tantos limites. Mas o amor forte não é provado por linhas borradas. Os limites nos ajudam a nos mover honestamente. Eles nos dizem quando desacelerar, quando fazer perguntas melhores, quando proteger a paz e quando não deixar o desejo ultrapassar a realidade. A sabedoria de Deus não se trata apenas de nos manter longe de erros óbvios. É também sobre permitir que o amor cresça na verdade em vez de na pressão ou confusão.",
+            "Primeira Tessalonicenses fala da santidade como vontade de Deus. Nos relacionamentos, a santidade inclui mais do que restrição moral. Também significa não permitir que o apego se precipite à frente da clareza, integridade e paz. O amor real não requer escuridão, sigilo ou pressa para se sentir vivo. Ele pode sobreviver à paciência. Na verdade, a paciência frequentemente revela se o que chamamos de amor tem substância suficiente para durar.",
+            "Acho que muitas mulheres precisam de liberdade aqui. Um limite não é uma recusa do amor. É uma maneira de honrar o peso do amor. Diz que o coração importa, o corpo importa, o tempo importa e a verdade importa. Se um relacionamento não pode tolerar limites saudáveis, então o problema não é que você é muito reservada. Pode ser que o relacionamento tenha estado confiando em sua disposição em se estender demais.",
+            "**Quanto mais valor um relacionamento tem, mais merece ser construído lentamente na verdade.** Considere hoje qual limite você sabe que precisa mas tem tido medo de nomear. Traga esse lugar específico diante de Deus e peça que Ele o firme."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, ensine-me que tipo de limites são amorosos, sábios e honrosos para mim e para a outra pessoa. Se tenho medo de desacelerar, falar claramente ou definir limites e isso me custará algo, segure-me nesse medo. Ajude-me a não me apressar, mas a construir lentamente na verdade. Dê-me discernimento e limites saudáveis, para que minha gentileza não se torne autossabotagem e meu amor não me custe minha própria integridade. Obrigado porque Você não é afastado por minha fraqueza, mas desejoso de se aproximar, me apoiar e continuar a me ensinar. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "1 Tessalonicenses 4:3-4",
+              "book_code": "1TH",
+              "chapter": 4,
+              "verses": "3-4",
+              "translation": "Almeida",
+              "text": "Porque esta é a vontade de Deus, a vossa santificação... que cada um de vós saiba possuir o seu corpo em santificação e honra."
+            },
+            {
+              "display": "Tiago 1:5",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "E, se algum de vós tem falta de sabedoria, peça-a a Deus..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "Sentimentos Sozinhos Não Podem Carregar um Futuro",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Mateus 7:24-25",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "24-25",
+            "translation": "Almeida",
+            "text": "Portanto, todo aquele que ouve estas minhas palavras e as pratica será comparado a um homem prudente que construiu a sua casa sobre a rocha..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Sentimentos importam, e não temos que descartá-los para sermos sábios.",
+            "Química, facilidade, deleite, riso compartilhado e conexão emocional são dons reais. Mas se um relacionamento vai carregar um futuro, precisará de mais do que ressonância. Precisará de caráter, honestidade, responsabilidade, autocontrole, direção espiritual e a capacidade de suportar a vida real. Relacionamentos não se tratam apenas de se gostarmos agora. É também sobre se o relacionamento pode suportar verdade, decepção, conflito, mudança e tempo.",
+            "Jesus falou sobre casas construídas na rocha e casas construídas na areia. Os relacionamentos também podem ser construídos dessa forma. Algumas coisas parecem imediatas e bonitas, mas não conseguem suportar muito peso. Parecem promissoras até que a pressão revela o pouco que está por baixo. Deus não está pedindo que rejeitemos deleite ou desconfiemos da alegria. Ele está pedindo que não construamos nosso futuro no que não pode resistir à tempestade.",
+            "Esta pergunta pode parecer sóbria, especialmente quando seu coração já está apegado. Mas é uma pergunta amorosa. Em que este relacionamento realmente está apoiado? É construído apenas em atração e esperança, ou há evidência de integridade, estabilidade e direção compartilhada? A sabedoria não torna o amor mais frio. Dá ao amor uma chance mais verdadeira de durar.",
+            "**Se o amor vai durar, deve ser construído em mais do que sentimento. Deve ser capaz de carregar a vida real.** Considere em que este relacionamento realmente está apoiado. Fazer essa pergunta cedo pode poupar o coração de dor mais profunda depois."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, ajude-me a não olhar apenas para sentimentos, mas para fundamentos. Se tenho sido atraída pelo calor enquanto ignoro se um relacionamento pode carregar um futuro, me lembre. Ensine-me a ver o amor através de Sua sabedoria, e me mantenha longe de construir muito rapidamente na areia quando Você me está chamando a esperar pela rocha. Dê-me um coração mais claro, para que o medo de perder o amor não fale mais alto que a sabedoria, e a emoção passageira não afogue a paz que Você me dá. Se há um lugar onde eu preciso parar, dê-me coragem. Se há um lugar onde eu preciso esperar, dê-me paciência. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Mateus 7:24-25",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "24-25",
+              "translation": "Almeida",
+              "text": "Portanto, todo aquele que ouve estas minhas palavras e as pratica será comparado a um homem prudente que construiu a sua casa sobre a rocha..."
+            },
+            {
+              "display": "Provérbios 24:3",
+              "book_code": "PRO",
+              "chapter": 24,
+              "verses": "3",
+              "translation": "Almeida",
+              "text": "Pela sabedoria se edifica a casa, e pela inteligência se estabelece."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Dia 6",
+      "title": "Deus Não é um Espectador no Amor",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Almeida",
+            "text": "Confia no Senhor de todo o teu coração, e não te esteies na tua própria inteligência... e ele endireitará as tuas veredas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Às vezes, tratamos os relacionamentos como se pertencessem principalmente a nós, e Deus é convidado apenas depois.",
+            "Oramos sobre trabalho, ministério, decisões familiares e transições de vida visíveis. Mas quando se trata de atração, apego e dinâmica do relacionamento, frequentemente confiamos mais pesadamente em sentimentos, química, cronograma ou opiniões das pessoas ao redor de nós. No entanto, Deus não é um espectador no amor. Ele se importa com a direção de sua afeição, a condição de seu coração e o tipo de relacionamento que o está formando.",
+            "Provérbios nos diz para confiar no Senhor com todo o nosso coração e não nos apoiarmos em nosso próprio entendimento. A dificuldade frequentemente não é que nos recusemos a orar completamente. É que já decidimos o que queremos, e estamos principalmente pedindo a Deus para apoiar isso. A verdadeira rendição é mais gentil e profunda que isso. Diz, Senhor, aqui está meu desejo, meu medo, meu apego, minha pressa e minha esperança. Fale sobre tudo. Corrija-me se necessário. Me desacelere se necessário. Leve-me aonde não escolheria naturalmente por mim mesma.",
+            "Esta é uma das mudanças mais libertadoras no amor. Convidar Deus não torna o romance menor. O torna mais verdadeiro. Não perdemos ternura ou anseio quando O deixamos liderar. Ganhamos proteção, clareza e uma chance melhor de não confundir desejo com sabedoria. Deus não está tentando ficar no caminho do amor. Ele está tentando manter o amor de se tornar um lugar onde abandonamos a verdade. E quando Ele nos corrige, não é porque está retendo alegria, mas porque sabe como nossos corações podem facilmente chamar algo precioso que nos está prejudicando lentamente.",
+            "**Quando deixamos Deus falar sobre o amor, não perdemos liberdade. Ganhamos proteção e profundidade.** Pergunte-se se realmente abriu espaço para a voz de Deus neste relacionamento, ou se principalmente tem esperado que Ele confirmasse o que você já escolheu."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, não permaneça à margem de minha vida romântica. Convido-o a cada parte de minha atração, esperança, discernimento e luta. Se tenho confiado muito em meus próprios sentimentos e julgamento, corrija-me. Se principalmente queria que Você confirmasse meus planos, humilhe-me. Silencie o que é impulsivo em mim e fortaleça o que é honesto. Ensine-me a não temer Sua orientação, mesmo quando ela me desacelera ou me redireciona. Seja o verdadeiro Senhor que também me lidera no amor, e mantenha meu coração suave o suficiente para seguir aonde Você lidera. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Almeida",
+              "text": "Confia no Senhor de todo o teu coração, e não te esteies na tua própria inteligência... e ele endireitará as tuas veredas."
+            },
+            {
+              "display": "Salmo 32:8",
+              "book_code": "PSA",
+              "chapter": 32,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "Instruir-te-ei e ensinar-te-ei o caminho em que deves andar..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Dia 7",
+      "title": "Construa Amor na Rocha e Entregue-se nas Mãos de Deus",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Mateus 7:24",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "24",
+            "translation": "Almeida",
+            "text": "Portanto, todo aquele que ouve estas minhas palavras e as pratica será comparado a um homem prudente que construiu a sua casa sobre a rocha."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "No sétimo dia, você pode não ter toda resposta. Alguns relacionamentos ainda podem parecer não resolvidos, e algum luto ainda pode precisar de tempo.",
+            "Mas talvez algo mais importante tenha se tornado mais claro. O amor não se trata apenas de se um relacionamento funciona. É também sobre que tipo de fundamento pode carregar seu coração sem danificá-lo. Nestes dias, temos estado aprendendo não apenas como avaliar outra pessoa, mas como guardar nossa própria alma enquanto amamos honestamente.",
+            "Construir amor na rocha é mais do que escolher com cuidado. É também se tornar o tipo de mulher que fica perto de Deus no desejo, que diz a verdade sobre o que vê, que honra a paz, que respeita limites e que se recusa a entregar toda a sua vida à instabilidade. Um relacionamento forte faz mais do que nos excita. Nos estabiliza. Deixa espaço para verdade, reverência, crescimento e dignidade.",
+            "Acho que é parte da bondade de Deus para conosco. Ele não nos pede para temer romance, e não nos envergonha por ansiar ser amado. Mas Ele se recusa a abençoar nossa autoperda. Ele continua nos chamando de volta para o tipo de amor que não requer que abandonemos Ele ou nos traímos para permanecer apegado. Esse tipo de discernimento não é frieza. É cuidado sagrado.",
+            "**O amor que vale a pena guardar não vai exigir que você deixe Deus para trás ou se perca para ficar.** Traga a Deus cada pergunta, cada anseio, cada apego e cada incerteza ainda em seu coração. Não porque tudo está resolvido, mas porque você está aprendendo aonde tanto seu amor quanto sua vida realmente pertencem."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigado por me reensinar o que o amor pode parecer nestes sete dias. Sei que o caminho à frente pode não se tornar claro de uma vez, mas obrigado por me ajudar a guardar meu coração mais sabiamente e construir o amor sobre algo mais estável. Coloque meus desejos, minhas esperanças e meu futuro mais completamente em Suas mãos. Se algo deve continuar, dê paz. Se algo deve ser liberado, dê coragem. Ajude-me não apenas a anseiar por encontrar amor, mas a me tornar mais profundamente Sua na maneira como amo. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Mateus 7:24",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "24",
+              "translation": "Almeida",
+              "text": "Portanto, todo aquele que ouve estas minhas palavras e as pratica será comparado a um homem prudente que construiu a sua casa sobre a rocha."
+            },
+            {
+              "display": "Salmo 37:5",
+              "book_code": "PSA",
+              "chapter": 37,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "Entrega o teu caminho ao Senhor; confia nele, e ele o fará."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

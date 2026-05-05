@@ -1,0 +1,248 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS13",
+    "slug": "starting-over-not-from-zero",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Saisons de la Vie",
+      "secondary": "threshold-seasons",
+      "secondary_label": "Saisons de Seuil"
+    },
+    "tags": [
+      "transition",
+      "recommencer",
+      "nouveau-chapitre",
+      "entre-deux",
+      "appel",
+      "recentrage"
+    ],
+    "title": "Recommencer sans repartir de zéro",
+    "subtitle": "Dieu n'oublie pas ce que tu as vécu, il utilise ce qui est derrière toi",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "en transition",
+        "recommençant",
+        "cherchant une direction"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour la femme qui recommence et a besoin de se souvenir que Dieu ne gaspillera pas ce qu'elle a déjà traversé.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#B0C8D5",
+      "color_secondary": "#3F5C70",
+      "image_key": "cover_woman_at_doorway_soft_light",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Josué 1:1-2,5,9",
+        "book_code": "JOS",
+        "chapter": 1,
+        "verses": "1-2,5,9"
+      },
+      {
+        "display": "Psaume 37:5,23-24",
+        "book_code": "PSA",
+        "chapter": 37,
+        "verses": "5,23-24"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Dieu n'a pas fermé le livre sans moi",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Josué 1:1-2,5,9",
+            "book_code": "JOS",
+            "chapter": 1,
+            "verses": "1-2,5,9",
+            "translation": "Louis Segond 1910",
+            "text": "Après la mort de Moïse, serviteur de l'Éternel, l'Éternel dit à Josué... Moïse, mon serviteur, est mort; lève-toi maintenant... Comme j'ai été avec Moïse, je serai avec toi; je ne t'abandonnerai point... Fortifie-toi et prends courage; car c'est toi qui mettras ce peuple en possession du pays... L'Éternel, ton Dieu, sera avec toi partout où tu iras."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Ce qui rend le recommencement si difficile, ce n'est pas seulement l'avenir incertain. C'est ce sentiment inachevé du passé. Un déménagement, la fin d'un rôle, l'effondrement d'une routine familière, un changement douloureux dans la vie de famille, ou la lente reconstruction qui suit une maladie ou une perte peuvent laisser une femme debout dans un lieu étrange. Les gens autour d'elle demandent peut-être déjà ce qui vient ensuite, mais elle se sent encore proche du chapitre qui vient de se terminer. Elle n'a pas encore nommé complètement ce qui a été perdu, ce qui a été porté, ou ce qui a changé en elle.",
+            "Le livre de Josué 1 commence exactement dans ce genre de moment charnière. Moïse est mort. Les années dans le désert sont derrière eux, mais la terre promise n'est pas encore à portée de main. Dieu ne précipite pas Josué au-delà de la fin. Il la nomme : « Mon serviteur Moïse est mort. » Ce n'est qu'alors qu'il dit : « Maintenant, lève-toi. » Cet ordre a de l'importance. Dieu ne demande pas à son peuple de faire comme si rien n'avait pris fin. Il reconnaît le chapitre fermé avant de les conduire au suivant.",
+            "C'est souvent ainsi que fonctionnent les vrais recommencements. Dieu n'a pas peur de ta peine face à ce qui s'est terminé, ni de ta réticence à appeler une saison finie. Il ne te demande pas d'aplatir le passé pour avancer avec fidélité. Au lieu de cela, il te rencontre honnêtement au seuil de la transition. Puis il te donne ce dont tu as le plus besoin : non pas une carte complète, mais sa présence. « Comme j'ai été avec Moïse, je serai avec toi. »",
+            "**Un nouveau chapitre ne t'oblige pas à nier l'ancien.** Tu es autorisée à apporter tes sentiments inachevés, ta tendresse et tes souvenirs à la présence de Dieu. Recommencer n'est pas faire comme si rien ne s'était passé. C'est faire confiance au fait que Dieu ne s'est pas éloigné simplement parce que quelque chose a changé.",
+            "Aujourd'hui, nomme la page que tu trouves la plus difficile à tourner. Dis-le clairement devant Dieu. Il ne te demande pas d'être moins affectée. Il t'invite à avancer avec lui, honnêtement et sans honte."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je confesse que recommencer ne me semble pas facile. Certaines fins me font encore mal. Certaines pertes ne sont pas encore pleinement nommées. Une partie de moi se tient encore à la porte de ce qui était autrefois. Merci de ne pas être un Dieu qui me presse d'avancer. Tu vois ma réticence, ma tendresse et les parties de moi qui ont encore du mal à rattraper le changement. Parle-moi au moment de la fin, et sois avec moi au moment du commencement, comme tu l'as été avec Josué. Aide-moi à ne pas traiter le passé comme une honte ni le changement comme un signe de ton absence. Donne-moi le courage dont j'ai besoin pour aujourd'hui, non pour comprendre toute la route à la fois, mais pour continuer à marcher avec toi pendant qu'elle se déploie encore. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Josué 1:1-2,5,9",
+              "book_code": "JOS",
+              "chapter": 1,
+              "verses": "1-2,5,9",
+              "translation": "Louis Segond 1910",
+              "text": "Après la mort de Moïse, serviteur de l'Éternel, l'Éternel dit à Josué... Moïse, mon serviteur, est mort; lève-toi maintenant... Comme j'ai été avec Moïse, je serai avec toi; je ne t'abandonnerai point... Fortifie-toi et prends courage; car c'est toi qui mettras ce peuple en possession du pays... L'Éternel, ton Dieu, sera avec toi partout où tu iras."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Dieu commence souvent à nouveau avec ce qui est déjà dans tes mains",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ruth 1:21-22",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "21-22",
+            "translation": "Louis Segond 1910",
+            "text": "Je suis partie dans l'abondance, et l'Éternel me ramène dans le dénuement... Naomi revint avec Ruth, la Moabite... et elles arrivèrent à Bethléhem au commencement de la moisson de l'orge."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certaines femmes ont peur de recommencer, parce qu'elles croient avoir déjà perdu trop, s'être égarées trop loin, avoir compliqué l'histoire au-delà de la réparation. Les nouveaux chemins semblent réservés à ceux dont l'histoire est claire, sans détours, sans regrets. Mais la vie réelle n'est généralement pas comme ça. Nous entrons dans la saison suivante en portant ce qui s'est déjà produit : les choix faits, les blessures reçues, les compétences apprises, les responsabilités toujours présentes, et les questions qui restent sans réponse.",
+            "Le livre de Ruth nous offre une image profondément honnête de cela. Naomi et Ruth n'arrivent pas à Bethléhem avec des vies bien rangées. Elles arrivent en portant la famine, la relocalisation, le chagrin, la pauvreté et l'incertitude. L'Écriture n'efface pas la douleur avant que Dieu ne commence à pourvoir. Au contraire, le nouveau chapitre se déploie au cœur même de ce qu'elles portent. Ruth entre au champ avec sa fidélité, son courage et les compétences de survie d'une route difficile. Naomi revient amère, mais non abandonnée. Dieu rencontre les deux femmes dans l'histoire qu'elles ont déjà.",
+            "C'est important parce que cela corrige un mensonge courant : tu dois devenir une version « propre » de toi-même avant que Dieu ne puisse commencer quelque chose de nouveau. Mais Dieu fonctionne souvent différemment. Il n'efface pas toujours ton histoire pour recommencer. Il la rédime souvent. Les choses que tu portes peuvent ne pas être seulement des fardeaux. Certaines d'elles sont des graines. L'endurance, la tendresse, la sagesse pratique, le discernement et la résilience se forment souvent dans des saisons que tu n'aurais jamais choisies.",
+            "**Recommencer n'est pas partir de rien. C'est apprendre à voir ce que la grâce a déjà mis dans tes mains.** Tu pleures peut-être encore ce qui a été perdu. C'est réel. Mais la perte n'est pas tout l'inventaire de cette saison.",
+            "Aujourd'hui, fais un compte plus doux de ta vie. Demande-toi non seulement ce qui s'est terminé, mais ce qui reste. Qu'a formé Dieu en toi qui peut entrer dans le prochain chapitre ? Il sait mieux que toi ce qui porte encore la vie."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, quand je regarde mon passé, je vois surtout des détours, des pertes et des endroits inachevés. Cela me rend difficile de croire qu'un bon commencement pourrait encore en venir. Corrige la façon dont je vois ma propre histoire. Apprends-moi non seulement à compter ce qui est parti, mais aussi à remarquer ce que tu as formé et préservé en moi au cours des années. Merci de ne pas attendre que je sois polie et sans cicatrices avant de me conduire en avant. Comme tu l'as fait pour Ruth et Naomi, rencontre-moi au milieu de ma vraie histoire, mes vraies limitations et mon vrai espoir. Aide-moi à croire que tu n'as pas gaspillé la route derrière moi et que tu ne méprises pas ce qui reste dans mes mains. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ruth 1:21-22",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "21-22",
+              "translation": "Louis Segond 1910",
+              "text": "Je suis partie dans l'abondance, et l'Éternel me ramène dans le dénuement... Naomi revint avec Ruth, la Moabite... et elles arrivèrent à Bethléhem au commencement de la moisson de l'orge."
+            },
+            {
+              "display": "Ruth 2:11-12",
+              "book_code": "RUT",
+              "chapter": 2,
+              "verses": "11-12",
+              "translation": "Louis Segond 1910",
+              "text": "Tout ce que tu as fait pour ta belle-mère... et comment tu as quitté ton père et ta mère... L'Éternel te le rendra, et tu recevras une pleine récompense de la part de l'Éternel..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Dieu te donne souvent l'étape suivante avant la vue d'ensemble",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 37:5,23-24",
+            "book_code": "PSA",
+            "chapter": 37,
+            "verses": "5,23-24",
+            "translation": "Louis Segond 1910",
+            "text": "Remets ton sort à l'Éternel, et mets ton espérance en lui... L'Éternel affermit les pas de l'homme, et il aime sa voie; s'il tombe, il ne reste pas par terre, car l'Éternel le soutient de sa main."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Au troisième jour, l'une des tensions les plus profondes de la transition devient souvent plus claire : nous voulons savoir où tout cela mène. Le nouvel emploi durera-t-il ? Cette nouvelle ville ressemblera-t-elle à un foyer ? Cette reconstruction tiendra-t-elle ? Cette saison suivante sera-t-elle sûre, stable ou significative ? Nous lions souvent notre volonté d'avancer à notre capacité à voir le résultat d'abord.",
+            "Mais l'Écriture donne une image différente. Le Psaume 37 dit : « Remets ton sort à l'Éternel » et aussi « Les pas de l'homme juste sont affermis par l'Éternel. » Les Proverbes 3 nous disent de ne pas nous appuyer sur notre propre intelligence, mais de reconnaître Dieu dans toutes nos voies et de lui faire confiance pour diriger nos chemins. Le langage est remarquablement pratique. Dieu ne déploie souvent pas toute la carte à la fois. Il affermit les pas. Il dirige les chemins. Il enseigne la confiance à la vitesse de la marche.",
+            "C'est libérateur pour quiconque en transition. Tu n'as pas besoin d'une clarté complète avant de pouvoir être fidèle. Tu n'as pas besoin que tous tes peurs soient résolues avant de pouvoir obéir à la prochaine invitation de Dieu. Souvent, l'étape suivante est plus petite que nous ne l'espérions : prendre une décision honnête, avoir une conversation nécessaire, accepter une réalité inachevée, ou simplement soigner ce qui est directement devant nous aujourd'hui.",
+            "**Dieu ne t'ordonne pas de voir la vue d'ensemble avant de te donner l'étape suivante.** Il te demande de lui faire assez confiance pour aujourd'hui. Cette confiance peut sembler peu impressionnante, mais elle est sainte. Une grande partie de la maturité spirituelle ne se construit pas par des sauts dramatiques, mais par une marche régulière et consentie.",
+            "Demande à Dieu aujourd'hui : quelle est l'étape fidèle suivante devant moi ? Pas le plan complet. Pas les dix prochaines années. Juste l'étape d'aujourd'hui. Il n'est pas négligent avec une lumière partielle. Il sait comment conduire les gens à travers les seuils une étape à la fois."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je veux souvent voir le tableau complet avant de me sentir prête à avancer. Tu sais combien il m'est difficile de vivre avec des questions sans réponse. Merci de ne pas exiger une compréhension complète avant de m'inviter à te suivre. Apprends-moi à ramener mon attention de la carte entière à l'étape fidèle suivante. Garde-moi d'être consommée par ce que je ne sais pas ou conduite par ma propre imagination craintive. Si j'ai besoin d'attendre, donne-moi un cœur tranquille. Si j'ai besoin d'avancer, donne-moi le courage de le faire. Et si je trébuche, soutiens-moi de ta main, comme ta Parole le promet. Aide-moi à croire qu'une lumière partielle suffit encore pour la route d'aujourd'hui. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 37:5,23-24",
+              "book_code": "PSA",
+              "chapter": 37,
+              "verses": "5,23-24",
+              "translation": "Louis Segond 1910",
+              "text": "Remets ton sort à l'Éternel, et mets ton espérance en lui... L'Éternel affermit les pas de l'homme, et il aime sa voie; s'il tombe, il ne reste pas par terre, car l'Éternel le soutient de sa main."
+            },
+            {
+              "display": "Proverbes 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Louis Segond 1910",
+              "text": "Confie-toi en l'Éternel de tout ton cœur, et ne t'appuie pas sur ta sagesse; reconnais-le dans toutes tes voies, et il aplanira tes sentiers."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

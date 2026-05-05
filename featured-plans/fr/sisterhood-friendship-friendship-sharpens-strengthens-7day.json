@@ -1,0 +1,509 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI21",
+    "slug": "friendship-sharpens-strengthens",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rôles et Identité",
+      "secondary": "sisterhood-friendship",
+      "secondary_label": "Sororité et Amitié"
+    },
+    "tags": [
+      "amitie",
+      "sororite",
+      "communaute",
+      "jalousie",
+      "soutien",
+      "aiguiser"
+    ],
+    "title": "L'amitié qui affûte et fortifie",
+    "subtitle": "Construire une fraternité sincère et vivifiante",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "aspirant à l'amitié",
+        "guérison de la jalousie",
+        "cherchant la communauté"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces sept jours vous aident à construire une fraternité plus mature en explorant l'honnêteté, la sécurité, les limites et la réparation dans l'amitié adulte.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#D8C8E0",
+      "color_secondary": "#4A2C5A",
+      "image_key": "cover_two_women_walking_warm_evening",
+      "icon": "two-hands-clasped-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Proverbes 27:9",
+        "book_code": "PRO",
+        "chapter": 27,
+        "verses": "9"
+      },
+      {
+        "display": "Hébreux 10:24",
+        "book_code": "HEB",
+        "chapter": 10,
+        "verses": "24"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Une bonne amitié aide une personne à devenir plus elle-même",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 27:9",
+            "book_code": "PRO",
+            "chapter": 27,
+            "verses": "9",
+            "translation": "Louis Segond 1910",
+            "text": "Les conseils sincères d'un ami sont doux à l'âme."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certaines amitiés nous resserrent. D'autres nous permettent d'exhaler.",
+            "Vous connaissez probablement la différence. Dans un type de relation, vous vous surveille constamment. Êtes-vous assez intéressante, assez facile, assez sage, assez gaie, assez peu exigeante ? Vous restez légèrement gérée, légèrement éditée, légèrement sur vos gardes. Dans l'autre type, quelque chose de plus doux se produit. Vous n'avez pas besoin de continuer à offrir la version la plus polie de vous-même pour appartenir. Vous pouvez être silencieuse, fatiguée, incertaine, sans impressionner, et vous sentir toujours accueillie.",
+            "C'est une grâce rare dans la vie adulte. Beaucoup d'entre nous passons tant de temps à afficher la compétence, la stabilité ou l'amabilité que nous oublions presque à quel point l'âme aspire profondément à être connue sans gérer chaque impression. Un bon ami peut devenir l'un des plus doux cadeaux de Dieu de cette façon. Non pas parce qu'il ne vous remet jamais en question, et non pas parce qu'il dit toujours la chose parfaite, mais parce qu'en sa présence vous vous trouvez à devenir plus honnête, pas moins.",
+            "Les Proverbes parlent de la douceur du conseil d'un ami, et Romains nous appelle à une affection tendre. L'amitié mûre tient souvent ensemble la chaleur et la vérité. Elle ne vous rend pas seulement à l'aise. Elle vous rend assez sûre pour être authentique et assez stable pour continuer à grandir.",
+            "**L'amitié qui vous aide à devenir plus vous-même est une grâce rare.** Remerciez Dieu aujourd'hui pour quiconque vous a donné ce genre d'espace. Et si vous aspirez toujours à une telle amitié, apportez ce désir à Lui aussi. Il sait que nous avons besoin de plus que de compagnie. Nous avons besoin de relations où l'âme peut se poser."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci pour les amitiés qui nous rendent plus vraies. Fais de moi la sorte de personne qui crée cette sécurité pour les autres aussi. S'il y a un endroit où je dois me repentir, parler, attendre ou réapprendre à aimer, conduis-moi là toi-même, et ne laisse pas l'orgueil empêcher la grâce d'entrer. Enseigne-moi non seulement à désirer de bonnes amies, mais à devenir le genre d'amie en présence de qui les autres peuvent respirer plus honnêtement. Qu'il y ait plus de grâce et moins de défensivité dans la façon dont j'aime. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 27:9",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "9",
+              "translation": "Louis Segond 1910",
+              "text": "Les conseils sincères d'un ami sont doux à l'âme."
+            },
+            {
+              "display": "Romains 12:10",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Soyez remplis d'affection les uns pour les autres, avec un amour fraternel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "La sécurité rend l'honnêteté possible",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jacques 1:19",
+            "book_code": "JAS",
+            "chapter": 1,
+            "verses": "19",
+            "translation": "Louis Segond 1910",
+            "text": "Vous le savez, mes frères bien-aimés. Ainsi, que chacun soit prompt à écouter, lent à parler, lent à la colère."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Souvent les gens ne sont pas réticents à être honnêtes. Ils ne se sentent simplement pas assez en sécurité.",
+            "Nous disons tous que nous voulons des amitiés véridiques, mais la vérité croît rarement sous la pression. Quand une relation répond trop rapidement par le jugement, la correction, les conseils ou le retrait émotionnel, l'honnêteté apprend à se retirer. Une personne peut toujours partager les parties acceptables d'elle-même, mais les parties confuses, honteuses, en colère, jalouses ou profondément tendres restent cachées. Avec le temps, l'amitié reste active à la surface tout en devenant plus mince en dessous.",
+            "La sécurité ne signifie pas être d'accord avec tout. Elle ne signifie pas l'absence de défi. Elle signifie qu'il y a assez de patience dans la relation pour que la vérité arrive avant les solutions. Jacques nous dit d'être rapides à écouter et lents à parler. Les Proverbes nous avertissent de ne pas répondre avant d'avoir écouté. Ces versets ne façonnent pas seulement les bonnes manières. Ils aident à créer l'atmosphère où l'âme peut se déployer sans se préparer immédiatement à l'impact.",
+            "Je pense que cela importe profondément dans les amitiés féminines parce que beaucoup d'entre nous sommes rapides à conseiller mais plus lentes à accompagner. Nous savons comment corriger, interpréter et rediriger. Nous ne sommes pas aussi souvent entraînées à tenir tranquillement la vérité inachevée d'une autre personne. Mais une compagne spirituelle n'est pas seulement quelqu'un qui vous aide à donner un sens à la vie. C'est quelqu'un en présence de qui vous pouvez admettre que la vie n'a pas encore de sens.",
+            "**Une grande partie de l'honnêteté grandit non pas de la pression, mais de la sécurité.** Demandez à Dieu aujourd'hui non seulement des amies qui peuvent tenir la vérité doucement, mais aussi de vous transformer en ce genre d'amie pour quelqu'un d'autre."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, enseigne-moi à écouter avant de parler dans l'amitié. Fais de moi quelqu'un en présence de qui les autres peuvent être honnêtes sans peur, et enseigne-moi à devenir honnête avant toi aussi, sans me précipiter pour expliquer ou me défendre. Guéris les endroits en moi qui se mettent rapidement en protection au moindre contact, afin que je puisse écouter plus doucement et parler la vérité plus clairement. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jacques 1:19",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "19",
+              "translation": "Louis Segond 1910",
+              "text": "Vous le savez, mes frères bien-aimés. Ainsi, que chacun soit prompt à écouter, lent à parler, lent à la colère."
+            },
+            {
+              "display": "Proverbes 18:13",
+              "book_code": "PRO",
+              "chapter": 18,
+              "verses": "13",
+              "translation": "Louis Segond 1910",
+              "text": "Celui qui répond avant d'avoir écouté, c'est de la folie et de la confusion pour lui."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Les limites protègent l'amitié",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 25:17",
+            "book_code": "PRO",
+            "chapter": 25,
+            "verses": "17",
+            "translation": "Louis Segond 1910",
+            "text": "Rends-toi rare dans la maison de ton prochain, de peur qu'il n'en soit rassasié et qu'il ne te haïsse."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens entendent le mot limites et s'inquiètent immédiatement que l'amitié ne devienne plus froide.",
+            "Surtout dans les relations proches, nous pouvons supposer que l'amour profond signifie un accès illimité, une disponibilité constante et une prise en charge émotionnelle sans fin. Au début, cela peut même sembler beau. Mais l'amitié adulte ne peut pas être soutenue par la chaleur seule. Sans limites, la proximité s'effondre souvent sous le déséquilibre, les attentes vagues, la codépendance et le ressentiment silencieux. Une personne s'épuise. L'autre se sent abandonnée. Et finalement les deux personnes sont confuses sur la façon dont quelque chose qui semblait autrefois intime a commencé à sembler lourd.",
+            "L'Écriture n'affaiblit pas la proximité quand elle parle de limites. Les Proverbes avertissent contre la trop grande familiarité, et Galates rappelle à chaque personne de porter son propre fardeau. Ce ne sont pas des versets froids. Ils protègent la dignité de la relation. Les limites sont simplement une façon de dire: je t'aime, mais je ne suis pas ton sauveur. Je veux être présente, mais je suis aussi une personne finie avec des responsabilités, des rythmes et des besoins qui m'appartiennent.",
+            "Je pense que c'est une zone de croissance particulièrement significative dans les amitiés féminines, parce que beaucoup d'entre nous ont appris que dire oui prouve l'amour, tandis que dire non risque le rejet. Mais l'amour mature n'est pas prouvé par l'abandon de soi sans fin. Il est renforcé par l'honnêteté sur les limites. Les limites ne détruisent pas l'intimité. Elles la gardent de s'écrouler.",
+            "**Les limites ne sont pas l'ennemi de la proximité. Elles la protègent.** Demandez à Dieu aujourd'hui où l'amitié dans votre vie a besoin de plus de rythme, plus de clarté ou plus de responsabilité mutuelle afin que l'amour puisse durer plus longtemps et respirer plus librement."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, enseigne-moi à tenir l'amitié avec chaleur et limites ensemble. Empêche-moi de craindre que le rythme sain ne me coûte l'amour. Purifie ce qui est sensible, orgueilleux, prudent ou blessé en moi dans l'amitié. Aide-moi à m'exprimer honnêtement et à écouter doucement, afin que cette relation devienne davantage un lieu par lequel ta grâce peut se mouvoir. Donne-moi de la discernement et des limites saines, afin que ma douceur ne devienne pas une trahison de moi-même et que mon amour ne me coûte pas mon intégrité. Laisse l'honnêteté et la constance grandir ensemble en moi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 25:17",
+              "book_code": "PRO",
+              "chapter": 25,
+              "verses": "17",
+              "translation": "Louis Segond 1910",
+              "text": "Rends-toi rare dans la maison de ton prochain, de peur qu'il n'en soit rassasié et qu'il ne te haïsse."
+            },
+            {
+              "display": "Galates 6:5",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "5",
+              "translation": "Louis Segond 1910",
+              "text": "Car chacun portera son propre fardeau."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Dire la vérité est une forme d'amour",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Éphésiens 4:15",
+            "book_code": "EPH",
+            "chapter": 4,
+            "verses": "15",
+            "translation": "Louis Segond 1910",
+            "text": "Mais, en professant la vérité dans la charité, nous grandirons à tous égards en celui qui est le chef, Christ."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certaines amitiés restent paisibles seulement parce que personne ne risque de dire la vérité.",
+            "Beaucoup d'entre nous sommes très habiles à protéger l'atmosphère. Nous ne voulons pas de maladresse. Nous ne voulons pas blesser l'autre personne. Nous ne voulons pas être mal compris. Donc la conversation nécessaire est retardée, adoucie au-delà de son utilité, détournée en blagues, ou silencieusement enterrée. En surface la relation reste agréable. En dessous, la déception et la distance commencent à s'accumuler. Si une amitié ne sait comment que réconforter et jamais comment parler honnêtement, elle peut rester agréable, mais elle croît rarement en profondeur.",
+            "Éphésiens nous dit de dire la vérité dans l'amour, et les Proverbes disent que fidèles sont les blessures d'un ami. La vérité importe dans l'amitié non pas parce qu'elle nous donne le pouvoir de corriger, mais parce qu'elle montre que la relation est assez précieuse pour gérer la sincérité. L'amour mature ne confond pas le silence avec la gentillesse, et ne confond pas la bluntesse avec le courage. Elle apprend la manière plus difficile: comment garder l'amour à l'intérieur de la vérité, et la vérité à l'intérieur de l'amour.",
+            "Je pense que c'est l'une des plus belles formes d'amitié féminine quand elle est bien faite. Une amie qui peut vous reconforter et aussi vous interpeller doucement est un cadeau rare. Elle ne vous honte pas, mais elle ne vous laisse pas non plus piégée dans des modèles qui vous font du mal.",
+            "**L'amitié sans honnêteté peut rester agréable, mais elle grandit rarement en profondeur.** Demandez à Dieu aujourd'hui s'il y a une vérité que vous avez besoin de sagesse pour parler, ou une vérité que vous avez esquivée parce que la paix semblait plus facile que l'amour."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, enseigne-moi à ne pas esquiver la vérité dans l'amitié, et aussi à ne pas la parler durement. Montre-moi quand réconforter et quand être honnête. Purifie ce qui est sensible, orgueilleux, prudent ou blessé en moi dans l'amitié. Aide-moi à m'exprimer honnêtement et à écouter doucement, afin que cette relation devienne davantage un lieu par lequel ta grâce peut se mouvoir. Merci de ne pas être rebuté par ma faiblesse, mais disposé à t'approcher, à me soutenir et à continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Éphésiens 4:15",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "15",
+              "translation": "Louis Segond 1910",
+              "text": "Mais, en professant la vérité dans la charité, nous grandirons à tous égards en celui qui est le chef, Christ."
+            },
+            {
+              "display": "Proverbes 27:6",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "6",
+              "translation": "Louis Segond 1910",
+              "text": "Les blessures venant d'un ami prouvent son attachement, mais les baisers d'un ennemi sont trompeurs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "La réparation exige souvent plus de courage que la distance",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Matthieu 5:23-24",
+            "book_code": "MAT",
+            "chapter": 5,
+            "verses": "23-24",
+            "translation": "Louis Segond 1910",
+            "text": "Si donc tu présentes ton offrande à l'autel, et que là tu te souviennes que ton frère a quelque chose contre toi, laisse là ton offrande devant l'autel, et va d'abord te réconcilier avec ton frère; puis, viens présenter ton offrande."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Quand l'amitié est blessée, la distance semble souvent plus propre que la réparation.",
+            "La distance nous demande moins. Elle nous protège des explications maladroites, du risque d'être blessé à nouveau, et de la vulnérabilité d'admettre que nous tenons toujours à l'autre. Les femmes adultes peuvent devenir très habiles à disparaître avec dignité. En surface, cela peut sembler mature. En dessous, ce ne peut être que du chagrin qui n'a jamais trouvé sa voix. Pas chaque amitié devrait être reconstruite, et pas chaque blessure peut être revisitée en sécurité. Mais parfois une relation reste importante dans votre cœur parce que Dieu n'en a pas fini avec elle.",
+            "Jésus parle d'aller chercher la réconciliation, et Paul dit que dans la mesure du possible, nous devrions vivre en paix. La réparation est rarement facile. Elle exige l'humilité, l'honnêteté, le timing, et une volonté d'accepter que le résultat n'soit pas net. Souvent la partie la plus difficile n'est pas de savoir quoi dire. C'est de franchir le seuil intérieur de, et si je tends la main et qu'elle ne la reçoit pas ? Cette vulnérabilité est réelle. Pourtant de nombreuses relations dignes d'être conservées ne peuvent être récupérées qu'en passant par elle.",
+            "Je pense que la réparation est l'une des formes les plus matures du courage. Elle ne nie pas la blessure. Elle ne force pas un retour faux au passé. Elle dit simplement: cette amitié comptait assez pour que je sois disposée à laisser l'amour être plus pesant que l'orgueil ou le vernis. Parfois la réparation réussit. Parfois elle clarifie que le lâcher-prise est nécessaire. Mais même alors, c'est souvent plus vrai que la disparition silencieuse.",
+            "**Parfois le courage spirituel plus mature n'est pas la retraite gracieuse, mais la réparation.** Si une amitié continue de revenir à votre cœur, demandez à Dieu aujourd'hui s'il vous invite vers la réconciliation avisée plutôt que la distance silencieuse."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, si tu veux toujours que je fasse face et que je répare une amitié, donne-moi du courage. Ne me laisse pas choisir le silence à cause de la peur de l'embarras ou de la blessure. S'il y a une place où je dois me repentir, parler, attendre ou réapprendre à aimer, conduis-moi là toi-même, et ne laisse pas l'orgueil empêcher la grâce d'entrer. Merci de ne pas être rebuté par ma faiblesse, mais disposé à t'approcher, à me soutenir et à continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Matthieu 5:23-24",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "23-24",
+              "translation": "Louis Segond 1910",
+              "text": "Si donc tu présentes ton offrande à l'autel, et que là tu te souviennes que ton frère a quelque chose contre toi, laisse là ton offrande devant l'autel, et va d'abord te réconcilier avec ton frère; puis, viens présenter ton offrande."
+            },
+            {
+              "display": "Romains 12:18",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "18",
+              "translation": "Louis Segond 1910",
+              "text": "S'il se peut, autant que cela dépend de vous, soyez en paix avec tous les hommes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Les frictions ne signifient pas toujours que l'amitié est mauvaise",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 27:17",
+            "book_code": "PRO",
+            "chapter": 27,
+            "verses": "17",
+            "translation": "Louis Segond 1910",
+            "text": "Le fer s'aiguise par le fer, et l'homme aiguise la face de son ami."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'amitié entre adultes ne peut pas rester éternellement sans friction.",
+            "Nous entrons dans les relations en portant différentes histoires, tempéraments, styles de communication, blessures, attentes et rythmes. Une amie a besoin de plus de contact; une autre a besoin de plus d'espace. L'une parle rapidement; l'autre traite lentement. L'une nomme la déception immédiatement; l'autre se retire d'abord. Avec tout cela dans le tableau, une certaine tension est inévitable. Pourtant beaucoup d'entre nous supposons que si l'amitié devient inconfortable, quelque chose doit être fondamentalement mauvais.",
+            "Les Proverbes disent que le fer aiguise le fer. Cette image n'est pas douce ou sans effort. Elle inclut le contact, la résistance et l'ajustement. La vraie question n'est pas si la friction existe, mais ce que la friction produit. Certains conflits approfondissent la blessure et signalent que des limites plus fortes sont nécessaires. Mais d'autres tensions invitent à la croissance. Elles peuvent rendre les deux personnes plus vraies, plus humbles, plus claires et plus capables d'aimer. Une amitié qui vaut la peine ne se sent pas toujours facile, mais elle devrait toujours être édifiante plutôt que chroniquement diminuante.",
+            "Je pense que c'est l'un des discernements plus mûrs que nous devons faire. Nous ne voulons pas romanticiser chaque relation douloureuse. Mais nous ne voulons non plus fuir chaque inconfort. Dieu ne nous demande pas de rester dans du tort, mais Il n'a jamais promis non plus que la proximité serait sans tension. Certains de l'amour que nous chérissons le plus est forgé par le contact imparfait.",
+            "Certaines tensions n'ont pas besoin de panique. Elles ont besoin de discernement, de patience et de la volonté de laisser l'amour devenir plus sage à travers la pression.",
+            "**Pas chaque tension signifie que l'amitié est mauvaise. Certaines tensions façonnent l'amour.** Demandez à Dieu aujourd'hui si la friction que vous ressentez détruit la relation ou la raffine. La sagesse peut vous aider à faire la différence."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, donne-moi du discernement pour savoir quand je dois m'éloigner de la blessure et quand je dois rester dans l'amour à travers la friction nécessaire. Que mes amitiés ne soient pas seulement faciles, mais nous édifient vraiment mutuellement. Purifie aussi ce qui est sensible, orgueilleux, prudent ou blessé en moi dans l'amitié. Aide-moi à m'exprimer honnêtement et à écouter doucement, afin que cette relation devienne davantage un lieu par lequel ta grâce peut se mouvoir. Garde-moi de confondre chaque inconfort avec le danger, et enseigne-moi comment rester tendre sans devenir naïve. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 27:17",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "17",
+              "translation": "Louis Segond 1910",
+              "text": "Le fer s'aiguise par le fer, et l'homme aiguise la face de son ami."
+            },
+            {
+              "display": "Romains 15:2",
+              "book_code": "ROM",
+              "chapter": 15,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "Que chacun de nous complaise à son prochain pour son bien en vue de l'édification."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "La fraternité mûre nous rapproche de Dieu et de la vérité",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Hébreux 10:24",
+            "book_code": "HEB",
+            "chapter": 10,
+            "verses": "24",
+            "translation": "Louis Segond 1910",
+            "text": "Soyons attentifs les uns aux autres, pour nous exciter à la charité et aux bonnes œuvres."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "À la fin de cette semaine, peut-être l'amitié ressemble-t-elle à quelque chose de plus riche que la simple compagnie.",
+            "La vraie bonne amitié n'est pas seulement d'avoir quelqu'un à côté de vous. C'est d'avoir quelqu'un qui vous aide à vous rapprocher de Dieu et de la vérité. Ce genre de relation porte la tendresse, mais porte aussi l'honnêteté. Elle crée la sécurité, mais respecte aussi les limites. Elle offre du réconfort, mais laisse aussi de la place pour la croissance. Dans la fraternité mûre, vous n'avez pas à continuer à vous perfectionner, et vous ne vous laissez pas simplement à l'intérieur de vos angles morts non plus. Quand la difficulté vient, les deux personnes sont toujours disposées à ramener la relation à la lumière, devant Dieu et sous l'amour.",
+            "Je pense que c'est l'un des cadeaux silencieux de Dieu aux femmes. Certaines routes peuvent être parcourues seules, mais elles ne sont pas censées l'être. Une amie avisée et aimante peut nous aider à ne pas dériver, à ne pas nous effondrer sous l'auto-critique, ou à ne pas perdre le contact avec nos propres âmes dans les saisons affairées. Hébreux nous appelle à nous considérer mutuellement et à nous exhorter à l'amour et aux bonnes œuvres. Jésus nous ordonne de nous aimer les uns les autres. Quand cet amour prend forme dans l'amitié féminine, il devient à la fois un refuge et une formation.",
+            "L'amitié mûre n'est pas parfaite. Elle inclut toujours les malentendus, les saisons changeantes, les rythmes inégaux et le besoin de réparation. Mais avec Dieu au centre, elle devient plus qu'un lien agréable. Elle devient une relation qui stabilise l'âme et renforce la vie.",
+            "**La fraternité mûre aide une femme à devenir plus qui Dieu la façonne pour être.** Remerciez Dieu aujourd'hui pour les amitiés qu'il a données, et demandez-lui de continuer à préparer, à garder et à approfondir la fraternité dans votre vie."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci pour le don de l'amitié. Protège la fraternité dans ma vie, et fais de moi une amie plus mûre, plus honnête et plus tournée vers Dieu. Si je porte toujours les vieilles habitudes de prudence, d'orgueil ou de peur dans la proximité, continue de les élaguer en moi. Enseigne-moi non seulement à recevoir de la compagnie, mais aussi à bien l'offrir; non seulement à vouloir être comprise, mais aussi à l'offrir avec grâce. Laisse les amitiés dans ma vie devenir des endroits où la vérité est sûre, où la tendresse est forte et où ta présence est bienvenue. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Hébreux 10:24",
+              "book_code": "HEB",
+              "chapter": 10,
+              "verses": "24",
+              "translation": "Louis Segond 1910",
+              "text": "Soyons attentifs les uns aux autres, pour nous exciter à la charité et aux bonnes œuvres."
+            },
+            {
+              "display": "Jean 15:12",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "12",
+              "translation": "Louis Segond 1910",
+              "text": "C'est ici mon commandement: Aimez-vous les uns les autres, comme je vous ai aimés."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

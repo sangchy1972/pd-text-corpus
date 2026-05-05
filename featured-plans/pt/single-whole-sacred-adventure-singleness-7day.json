@@ -1,0 +1,501 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI18",
+    "slug": "sacred-adventure-singleness",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Papéis e Identidade",
+      "secondary": "single-whole",
+      "secondary_label": "Solteira e Plena"
+    },
+    "tags": [
+      "solteira",
+      "plenitude",
+      "solidao",
+      "espera",
+      "chamado",
+      "realizacao"
+    ],
+    "title": "A Aventura Sagrada da Solteria",
+    "subtitle": "Uma estação de liberdade, formação e confiança mais profunda",
+    "audience": {
+      "life_stage": [
+        "mulheres solteiras",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "plena",
+        "anseiando",
+        "contente na espera"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes sete dias aprofundam-se através da solidão, pressão, anseio, liberdade e alegria. Cada dia oferece ensino pastoral, preces sinceras e palavras das Escrituras para encorajamento e transformação.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#E0D4C0",
+      "color_secondary": "#5A4226",
+      "image_key": "cover_woman_quiet_room_solitude_warm",
+      "icon": "single-tree-and-sun-circle"
+    },
+    "key_verses": [
+      {
+        "display": "1 Coríntios 7:32",
+        "book_code": "1CO",
+        "chapter": 7,
+        "verses": "32"
+      },
+      {
+        "display": "Êxodo 3:5",
+        "book_code": "EXO",
+        "chapter": 3,
+        "verses": "5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "A Solteria Não é uma Vida Reduzida",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "1 Coríntios 7:32",
+            "book_code": "1CO",
+            "chapter": 7,
+            "verses": "32",
+            "translation": "Almeida",
+            "text": "Mas o que não é casado cuida das coisas do Senhor, em como há de agradar ao Senhor."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Mesmo quando não o dizemos em voz alta, muitos de nós carregamos a ideia silenciosa de que a solteria é um estado provisório ou incompleto. Olhamos para amigos casados e sentimos que algo nos falta. O mundo ao redor reforça essa mensagem todos os dias—em filmes, publicidade e até conversas familiares. Mas essa crença enraizada precisa ser examinada e desafiada com a verdade.",
+            "Mas quando Paulo escreve sobre a solteria em 1 Coríntios 7, ele apresenta uma visão radicalmente diferente. Ele não vê a solteria como fracasso ou incompletude. Pelo contrário, ele a celebra como uma oportunidade de devotação ininterrupta ao Reino de Deus. Para Paulo, a solteria não era uma concessão divina, mas um chamado precioso e frutífero.",
+            "O que frequentemente precisa de cura não é o anseio pelo casamento em si—esse é um desejo santo e natural. O que precisa de cura é a narrativa que diz que sem casamento, somos menos amados, menos valiosos ou menos completos diante de Deus. A verdade é que Deus vê você, inteiro e precioso, exatamente como você é agora.",
+            "**A solteria não é uma versão reduzida da vida. Ela é ainda uma vida cheia, abençoada e significativa.** Quando abandonamos a mentira, descobrimos liberdade inesperada para crescer, servir e conhecer a Deus de formas que talvez nunca tivéssemos imaginado. Esse é o convite de hoje: solte essa narrativa antiga e aceite a sua vida presente como sagrada e completa."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, tire-me da mentira de que a solteria é uma vida menor. Se tenho tratado meu presente como um estágio provisório, ajuda-me a vê-lo como o precioso momento que é. Abra meus olhos para a beleza e liberdade que já estão diante de mim. Amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "1 Coríntios 7:32",
+              "book_code": "1CO",
+              "chapter": 7,
+              "verses": "32",
+              "translation": "Almeida",
+              "text": "Mas o que não é casado cuida das coisas do Senhor, em como há de agradar ao Senhor."
+            },
+            {
+              "display": "Salmo 84:5",
+              "book_code": "PSA",
+              "chapter": 84,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "Bem-aventurado o homem cuja força está em ti; em cujo coração estão os caminhos aplanados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Quando a Solidão Dói",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 34:18",
+            "book_code": "PSA",
+            "chapter": 34,
+            "verses": "18",
+            "translation": "Almeida",
+            "text": "Perto está o Senhor dos que têm o coração quebrantado e salva os que têm o espírito contrito."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Há uma diferença crucial entre estar sozinho e sentir-se sozinho. A solteria oferece tempo e espaço, mas a solidão—aquele vazio silencioso que às vezes nos visita—é real e válida. Não devemos ignorá-la ou fingir que desaparece com pensamento positivo. A solidão que você sente merece ser reconhecida com compaixão.",
+            "Em Salmo 34, Davi escreve palavras que ressoam através dos séculos: \"O Senhor é próximo aos que têm o coração quebrantado.\" Deus não está distante de sua dor. Ele está particularmente próximo quando você se sente mais sozinho. Sua solidão não o desqualifica do cuidado divino; na verdade, a convida.",
+            "Há também uma convidação nessa dor. Às vezes, é na solidão que aprendemos a ouvir Deus com maior clareza. É quando nos voltamos para Ele, não porque sentimos que devemos, mas porque ninguém mais pode nos preencher. É quando nossa fé deixa de ser apenas uma prática e torna-se uma experiência profundamente pessoal.",
+            "**Sua solidão não é um sinal de fracasso ou abandono de Deus.** Ao invés disso, é um convite. Um convite para conhecer a presença de Deus de uma forma que talvez você nunca tivesse experimentado. Hoje, permita-se sentir a dor, sim. Mas também permita-se sentir o amor de Deus que se move em direção a você, especialmente agora."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Deus compassivo, sinto solidão no meu coração hoje. Ajuda-me a não fugir dessa dor, mas a encontrar-te nela. Aproxima-te de mim. Mostra-me que não estou só. Seja real para mim de formas que eu nunca tenha conhecido. Amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 34:18",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "18",
+              "translation": "Almeida",
+              "text": "Perto está o Senhor dos que têm o coração quebrantado e salva os que têm o espírito contrito."
+            },
+            {
+              "display": "Salmo 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "Em Deus está a minha salvação e a minha glória; a rocha da minha força, e o meu refúgio está em Deus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Liberdade em Cristo",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "1 Coríntios 7:35",
+            "book_code": "1CO",
+            "chapter": 7,
+            "verses": "35",
+            "translation": "Almeida",
+            "text": "E digo isto para vosso próprio proveito; não para vos enredar em laço, mas para vos exortar a que assistais ao Senhor sem distração."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A solteria oferece um tipo particular de liberdade: a liberdade de dedicar seu tempo, energia e recursos inteiramente de acordo com sua vocação pessoal. Você não tem compromissos que dividem sua lealdade ou seus dias. Essa é uma graça extraordinária que muitos casados—ainda que felizes—nunca experimentarão.",
+            "Paulo escreve em 1 Coríntios 7:35 sobre essa liberdade específica: a liberdade para servir o Senhor sem distração. Mas ele está claro—essa não é uma ordem. É um convite. É um chamado para aqueles que descobrem que sua alegria mais profunda vem não do casamento, mas do serviço fiel ao Reino de Deus.",
+            "Quando abusamos dessa liberdade—gastando-a em prazeres vãos ou distração perpétua—perdemos a oportunidade que ela oferece. Mas quando a recebemos com sabedoria, descobrimos que ela é um presente extraordinário. A liberdade para crescer espiritualmente, para servir generosamente, para amar amplamente, para criar coisas belas.",
+            "**A sua liberdade em Cristo não é um consolo de prêmio de consolação.** Ela é uma oportunidade de viver com inteireza e propósito. É um presente que precisa ser recebido com gratidão e guardado com sabedoria. Como você pretende investir essa liberdade nos próximos dias? Que poderia o Senhor fazer através de você se você o permitisse?"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigado pela liberdade que tenho. Ajuda-me a não desperdiçá-la em coisas que não importam. Mostra-me como investir essa graça de forma que honre a ti e bendiga os outros. Dá-me sabedoria e coragem para viver com propósito. Amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "1 Coríntios 7:35",
+              "book_code": "1CO",
+              "chapter": 7,
+              "verses": "35",
+              "translation": "Almeida",
+              "text": "E digo isto para vosso próprio proveito; não para vos enredar em laço, mas para vos exortar a que assistais ao Senhor sem distração."
+            },
+            {
+              "display": "Salmo 119:45",
+              "book_code": "PSA",
+              "chapter": 119,
+              "verses": "45",
+              "translation": "Almeida",
+              "text": "E andarei em liberdade, porque busco os teus mandamentos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Conhecendo a Si Mesmo",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 139:23-24",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "23-24",
+            "translation": "Almeida",
+            "text": "Sonda-me, ó Deus, e conhece o meu coração; prova-me e conhece os meus pensamentos. Vê se há em mim algum caminho de iniquidade e guia-me pelo caminho eterno."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A solteria oferece um tipo de laboratório para auto-conhecimento. Sem a dinâmica de um relacionamento conjugal para ocupar sua atenção, você tem a oportunidade rara de explorar quem você realmente é. Quais são seus sonhos? Quais são seus medos? Como você realmente pensa quando ninguém o está moldando?",
+            "O Salmo 139 convida-nos a um exame divino: \"Sonda-me, ó Deus, e conhece o meu coração.\" Esse tipo de auto-conhecimento—conhecimento que é confirmado e iluminado pela presença de Deus—é extraordinariamente libertador. Quando você se conhece verdadeiramente, você deixa de viver de acordo com as expectativas dos outros.",
+            "Às vezes, descobrimos partes de nós mesmos que precisam de cura. Padrões antigos que nos prejudicam. Crenças sobre nós que não são verdadeiras. A solteria nos oferece o tempo e o espaço para abordar essas coisas enquanto não estamos ocupados gerenciando a dinâmica de um relacionamento.",
+            "**Esse tempo de auto-exploração é um presente que você está oferecendo a si mesmo e a Deus.** Quando você se conhece verdadeiramente—seus dons, suas limitações, seus desejos autênticos—você vive com maior autenticidade. Você ama de forma mais pura. Você serve de forma mais eficaz. Você se encontra de forma mais completa naquele que o criou."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Sonda-me, ó Deus, e conhece o meu coração. Ajuda-me a ver-me como tu me vês—não através da crítica dura nem da admiração ilusória, mas com a verdade compassiva. Ajuda-me a crescer em auto-conhecimento e autenticidade. Amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 139:23-24",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "23-24",
+              "translation": "Almeida",
+              "text": "Sonda-me, ó Deus, e conhece o meu coração; prova-me e conhece os meus pensamentos. Vê se há em mim algum caminho de iniquidade e guia-me pelo caminho eterno."
+            },
+            {
+              "display": "Lamentações 3:28",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "28",
+              "translation": "Almeida",
+              "text": "Que se sente em silêncio, pois é dele a esperança; que deite a sua boca no pó, talvez haja esperança."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "Ansiedade e Contentamento",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Filipenses 4:6",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "6",
+            "translation": "Almeida",
+            "text": "Não estejais ansioso de coisa alguma; em tudo, porém, sejam conhecidas, diante de Deus, as vossas petições, pela oração e súplica com ação de graças."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A solteria pode ser acompanhada por uma certa ansiedade—ansiedade sobre o futuro, sobre se você será solitário para sempre, sobre se cometeu erros passados que agora a deixam sozinha. Essas preocupações são reais e compreensíveis. Mas Paulo oferece um caminho diferente nessa preocupação.",
+            "Em Filipenses 4:6, Paulo escreve: \"Em nada estejais ansiosos; em tudo, porém, sejam conhecidas, diante de Deus, as vossas petições, pela oração e súplica com ação de graças.\" A ansiedade não é vencida pelo pensamento positivo ou pela distração. É vencida pela prece e pela ação de graças.",
+            "Há poder na ação de graças. Quando você agradece por aquilo que tem—por amigos, pela saúde, pelos pequenos prazeres, pelo cuidado de Deus—você começa a se deslocar para longe da narrativa de \"não tenho\" e em direção à narrativa de \"sou abençoada com.\" Essa mudança de perspectiva não é fingimento; é realismo espiritual.",
+            "**O contentamento não significa que você não deseja um relacionamento conjugal.** Significa que você não está permitindo que esse desejo não realizado defina sua vida inteira. Significa que você está aprendendo a ser grato pelo bem que já existe. Significa que você está repousando sua ansiedade aos pés de Deus e encontrando paz ali."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Padre, minhas preocupações são pesadas. Mas em vez de carregar esse peso sozinha, coloco-o diante de ti. Obrigada pelas bênçãos que já tenho. Ajuda-me a fixar minha mente no bem, não na falta. Dá-me a paz que ultrapassa o entendimento. Amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Filipenses 4:6",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "6",
+              "translation": "Almeida",
+              "text": "Não estejais ansioso de coisa alguma; em tudo, porém, sejam conhecidas, diante de Deus, as vossas petições, pela oração e súplica com ação de graças."
+            },
+            {
+              "display": "Salmo 37:4",
+              "book_code": "PSA",
+              "chapter": 37,
+              "verses": "4",
+              "translation": "Almeida",
+              "text": "Agrada-te também do Senhor, e ele te concederá o desejo do teu coração."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Dia 6",
+      "title": "Força para os Frágeis",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Isaías 41:10",
+            "book_code": "ISA",
+            "chapter": 41,
+            "verses": "10",
+            "translation": "Almeida",
+            "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e com a destra da minha justiça eu te seguro."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Há momentos em que a solteria não se sente como um privilégio. Há momentos em que se sente como um peso. Você vê seus pares casados com parceiros que os apoiam, com vidas compartilhadas e responsabilidades divididas. Você se sente frágil. Sozinha. Adequada?",
+            "Isaías 41:10 oferece conforto para esses momentos: \"Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e com a destra da minha justiça eu te seguro.\" Deus não apenas reconhece sua fragilidade. Ele se move em direção a você precisamente nela.",
+            "Há força em admitir nossa fragilidade. Quando paramos de fingir que estamos bem, quando paramos de manter o rosto forte o tempo todo, quando permitimos que Deus nos veja conforme realmente somos—frágeis, assustadas, precisando—é então que Ele pode realmente nos fortalecer.",
+            "**Você não está sozinha em sua fragilidade.** O Deus que formou o universo conhece você pelo nome. Ele está próximo. Ele está segurando-o. Sua fraqueza não o desqualifica de sua proteção ou provisão. De facto, muitas vezes é precisamente através de nossa fraqueza que Sua força é mais visível e mais real."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Deus da minha fraqueza, eu sou frágil hoje. Confesso que não posso fazer isto sozinha. Por favor, segure-me. Dê-me força que não é minha própria. Mostre-me que você não me abandonou, mas que você está aqui, sustentando-me através disto tudo. Amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Isaías 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "Almeida",
+              "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e com a destra da minha justiça eu te seguro."
+            },
+            {
+              "display": "Hebreus 11:1",
+              "book_code": "HEB",
+              "chapter": 11,
+              "verses": "1",
+              "translation": "Almeida",
+              "text": "Ora, a fé é a certeza de coisas que se esperam, e a prova de coisas que se não veem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Dia 7",
+      "title": "Pisando em Solo Sagrado",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Êxodo 3:5",
+            "book_code": "EXO",
+            "chapter": 3,
+            "verses": "5",
+            "translation": "Almeida",
+            "text": "Então lhe disse: Não chegues para cá; tira os sapatos dos teus pés, porque o lugar em que estás é terra sagrada."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "No final desses sete dias, você se depara com uma verdade simples: sua vida, conforme é, está em solo sagrado. Seus dias, seu tempo, sua presença neste mundo neste momento—tudo é sagrado porque Deus está nele.",
+            "Quando Moisés se aproximou da sarça ardente, Deus o parou. \"Tira os sapatos, pois o lugar em que estás é terra sagrada.\" Há uma lição nessa ordem antiga. Não é apenas o lugar do templo que é sagrado. Toda vida vivida na presença de Deus é sagrada. Toda profissão realizada com integridade é sagrada. Todo ato de amor oferecido generosamente é sagrado.",
+            "Sua solteria não é um espaço de espera. É um lugar onde Deus está trabalhando—não apenas para o seu futuro casamento (se é que isso virá), mas para sua transformação presente, sua alegria agora, sua afinidade com Deus que não pode ser interrompida ou atrasada.",
+            "**Você está pisando em solo sagrado.** Tire seus sapatos—remova o peso de expectativas não realizadas, comparações dolorosas e narrativas antigas. Aqui, agora, você é completa. Você é amada. Você é conhecida. E você não está sozinha. Que possa ser tudo isso para si mesmo, e deixar que Deus seja tudo isso para você também."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Santo Deus, obrigada por chamar-me a ver minha vida como sagrada. Ajuda-me a soltar expectativas e abraçar a realidade linda diante de mim. Que eu viva nesta verdade. Que eu permita que tua presença me transforme. Que eu receba a integridade e a completude que você está oferecendo. Amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Êxodo 3:5",
+              "book_code": "EXO",
+              "chapter": 3,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "Então lhe disse: Não chegues para cá; tira os sapatos dos teus pés, porque o lugar em que estás é terra sagrada."
+            },
+            {
+              "display": "Salmo 32:8",
+              "book_code": "PSA",
+              "chapter": 32,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "Eu te instruirei e te mostrarei o caminho que deves seguir; eu te aconselharei e velarei sobre ti."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

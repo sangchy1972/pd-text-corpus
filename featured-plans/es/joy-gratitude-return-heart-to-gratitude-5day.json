@@ -1,0 +1,345 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG17",
+    "slug": "return-heart-to-gratitude",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardín de las Emociones",
+      "secondary": "joy-gratitude",
+      "secondary_label": "Gozo y Gratitud"
+    },
+    "tags": [
+      "gozo",
+      "gratitud",
+      "asombro",
+      "alabanza",
+      "atencion",
+      "agradecimiento"
+    ],
+    "title": "Volviendo el Corazón a la Gratitud",
+    "subtitle": "Para la mujer que ha estado viviendo tan rápido y tan lleno que la gratitud ya no viene fácilmente.",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "redescubriendo el gozo",
+        "agradecida",
+        "reflexiva"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Para la mujer que ha estado viviendo tan rápido y tan lleno que la gratitud ya no viene fácilmente.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_morning_sunlight_garden_joy",
+      "icon": "small-flower-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 103:1-5",
+        "book_code": "PSA",
+        "chapter": 103,
+        "verses": "1-5"
+      },
+      {
+        "display": "2 Corintios 9:8-11",
+        "book_code": "2CO",
+        "chapter": 9,
+        "verses": "8-11"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "La Gratitud Siempre Comienza con la Observación",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 103:1-5",
+            "book_code": "PSA",
+            "chapter": 103,
+            "verses": "1-5",
+            "translation": "Reina-Valera 1909",
+            "text": "Bendice, alma mía, a Jehová, y bendiga todo mi ser su santo nombre. Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios. Él es quien perdona todas tus iniquidades, quien sana todas tus dolencias; quien rescata del hoyo tu vida, quien te rodea de misericordia y de compasión; quien colma de bien tu existencia, y se renueva tu juventud como la del águila."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La gratitud raramente comienza con un brillo emocional repentino. Con más frecuencia, comienza con la observación. Observar la mañana, una bondad tranquila, una comida, un cuerpo que siguió adelante, algo difícil que no se hizo más pesado de lo que pudo haber sido. Una vida apresurada fácilmente se convierte en una vida que recibe mucho y registra poco.",
+            "El Salmo 103 es notables porque David habla a su propia alma y le dice que no olvide. La gratitud, entonces, no es meramente un sentimiento que aparece por sí solo. Es una forma de ver que a menudo necesita ser recuperada. **Un corazón agradecido usualmente comienza como un corazón observador.**",
+            "Por eso a veces la alegría regresa antes de que las circunstancias cambien mucho. El mismo día puede sentirse diferente cuando el alma está prestando atención de nuevo. Lo que ayer parecía meramente ordinario puede hoy comenzar a brillar un poco. No porque la vida se haya hecho grandiosa, sino porque la gracia se ha hecho visible.",
+            "Ese es el comienzo tranquilo de la gratitud. No exige una historia dramática. Simplemente comienza a notar que Dios ha sido más amable, más cercano y más generoso de lo que el corazón primero se dio cuenta."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre misericordioso, te doy gracias porque nunca eres un Dios tacaño. Pones gracia en mi vida poco a poco, a veces como provisión, a veces como consuelo, y a veces simplemente como fuerza para seguir adelante. Eres digno de alabanza porque tu cuidado es tanto amoroso como atento. Enséñame a ser una persona observadora. No dejes que la prisa endurezca mi corazón. Déjame ver tu bondad hoy, ver lo que ya he recibido, y que la gratitud comience a crecer desde adentro. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 103:1-5",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "1-5",
+              "translation": "Reina-Valera 1909",
+              "text": "Bendice, alma mía, a Jehová, y bendiga todo mi ser su santo nombre. Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios. Él es quien perdona todas tus iniquidades, quien sana todas tus dolencias; quien rescata del hoyo tu vida, quien te rodea de misericordia y de compasión; quien colma de bien tu existencia, y se renueva tu juventud como la del águila."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "La Gratitud Expresada Ilumina el Corazón",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Lucas 17:15-19",
+            "book_code": "LUK",
+            "chapter": 17,
+            "verses": "15-19",
+            "translation": "Reina-Valera 1909",
+            "text": "Entonces uno de ellos, viendo que estaba curado, volvió, glorificando a Dios a gran voz; y se postró sobre su rostro a sus pies, dándole gracias… Y Jesús le dijo: Levántate, vete; tu fe te ha salvado. ¿No hay diez limpios? ¿Dónde están los nueve? ¿No hubo quien volviese para dar gloria a Dios sino este extranjero?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A veces asumimos que la apreciación silenciosa es suficiente. Sin embargo, el leproso agradecido en Lucas 17 muestra algo más. Diez son sanados, pero uno regresa. Su gratitud se vuelve visible y audible. No meramente se siente agradecido. Se vuelve y lo dice.",
+            "Eso importa porque la gratitud expresada hace algo al corazón. Lo que estaba pasando se convierte en recibido. Lo que pudo haber permanecido vago se vuelve nombrado. **La gratitud nos cambia cuando se expresa, no solo cuando se siente en privado.**",
+            "Cuando se expresa las gracias, la bondad ordinaria se vuelve más sólida. La gracia deja una marca más profunda. El corazón se vuelve menos insensible a las cosas buenas porque ha comenzado a reconocerlas en voz alta. Esto es verdad no solo con Dios, sino también con las personas. Las relaciones a menudo se calientan cuando la gratitud se vuelve específica y audible.",
+            "La gratitud expresada no es educación vacía. Es una de las formas en que el alma permanece despierta. Mantiene la maravilla de evaporarse demasiado rápidamente. Ayuda al corazón a aferrarse a lo que es bueno antes de que la prisa lo barra."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, traigo estos labios a menudo silenciosos ante ti. Me has dado mucho, sin embargo, a menudo he recibido rápidamente y he agradecido lentamente. Gracias por ser aún paciente y por aún recibirme, como el que se volvió. Eres digno de alabanza. No necesitas un lenguaje perfecto de mí; te deleitas en un corazón honesto. Enséñame a hablar, no para sonar espiritual, sino porque verdaderamente sé que la gracia viene de ti. Que un simple \"gracias\" vuelva a estar vivo en mí hoy. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Lucas 17:15-19",
+              "book_code": "LUK",
+              "chapter": 17,
+              "verses": "15-19",
+              "translation": "Reina-Valera 1909",
+              "text": "Entonces uno de ellos, viendo que estaba curado, volvió, glorificando a Dios a gran voz; y se postró sobre su rostro a sus pies, dándole gracias… Y Jesús le dijo: Levántate, vete; tu fe te ha salvado. ¿No hay diez limpios? ¿Dónde están los nueve? ¿No hubo quien volviese para dar gloria a Dios sino este extranjero?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "La Gratitud Suaviza el Corazón",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Colosenses 3:15-17",
+            "book_code": "COL",
+            "chapter": 3,
+            "verses": "15-17",
+            "translation": "Reina-Valera 1909",
+            "text": "Y la paz de Dios, a la cual fuisteis llamados en un solo cuerpo, presida en vuestros corazones; y sed agradecidos… Y todo lo que hacéis, sea de palabra o de hecho, hacedlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por medio de él."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La vida bajo responsabilidad constante puede endurecer el corazón. No intencionalmente, sino gradualmente. Una mujer puede seguir funcionando, seguir amando, seguir administrando, y aún así notar que se ha puesto más tensa adentro. La irritación surge más rápidamente. La maravilla viene menos fácilmente. La gratitud comienza a sentirse delgada.",
+            "Colosenses vincula la acción de gracias con la paz de Cristo gobernando el corazón. Esa es una conexión hermosa. La gratitud no es una virtud decorativa. Moldea el clima interior de una persona. **Un corazón agradecido a menudo se convierte en un corazón más suave.**",
+            "Esto no sucede porque la gratitud ignora lo que es difícil. Sucede porque la gratitud impide que la dificultad sea la única fuerza que moldea el alma. Deja espacio para la ternura. Mantiene el corazón de ser gobernado enteramente por la tensión, la demanda y la crítica.",
+            "Con el tiempo, la gratitud cambia cómo sostenemos a las personas e incluso cómo nos sostenemos a nosotros mismos. Hace que la apreciación sea más natural, la dureza menos necesaria, y el amor menos mecánico. En ese sentido, la gratitud no es solo respuesta. Es formación."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre, sabes que no siempre me endurezco a propósito. A veces la vida continúa tanto tiempo que el corazón se tensa sin notarlo. Gracias porque no te cansas de mí en ese estado, sino que estás dispuesto a soltarme de nuevo con paz y gracia. Eres un Dios suave; no quiebras lo que está magullado. Planta gratitud en mí de nuevo, y deja que suavice los lugares que la presión ha endurecido. Guárdame también de dejar que la ocupación me robe la capacidad de sentir amor y belleza. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Colosenses 3:15-17",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "15-17",
+              "translation": "Reina-Valera 1909",
+              "text": "Y la paz de Dios, a la cual fuisteis llamados en un solo cuerpo, presida en vuestros corazones; y sed agradecidos… Y todo lo que hacéis, sea de palabra o de hecho, hacedlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por medio de él."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "La Alegría Crece en la Gratitud",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Filipenses 4:4-7",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "4-7",
+            "translation": "Reina-Valera 1909",
+            "text": "Regocijaos en el Señor siempre. Otra vez os digo: Regocijaos… Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con hacimiento de gracias. Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros sentimientos en Cristo Jesús."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas piensan en la alegría como impredecible, algo que aparece solo cuando la vida es fácil o el ánimo es brillante. Sin embargo, Filipenses 4 coloca la alegría, la oración, la acción de gracias y la paz muy cerca una de la otra. Eso sugiere que la alegría no es enteramente aleatoria. Se moldea por lo que el corazón se dirige.",
+            "Cuando la gratitud se convierte en parte de la vida de una mujer, la alegría a menudo crece más constantemente. Ya no depende solo de si las circunstancias son agradables. Comienza a enraizarse en la relación con Dios. **La alegría puede no siempre llegar con intensidad, pero a menudo crece en el suelo de la acción de gracias.**",
+            "Esto ayuda a explicar por qué algunas de las personas más alegres no son las menos cargadas. Han conocido la tristeza, la presión y la incertidumbre. Pero no han dejado que esas cosas se conviertan en la única atmósfera del corazón. Aún devuelven gracias. Aún notan gracia. Y la alegría, tranquilamente, sigue creciendo allí.",
+            "Esto no es negación emocional. Es cultivo espiritual. La gratitud entrena el corazón para seguir volviéndose hacia el Dador, y en ese volvimiento, la alegría comienza a establecerse más profundamente adentro."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, que mi corazón se aquiete ante ti hoy. Eres el Dios de paz y el Señor que da alegría. Gracias porque no me fuerzas a fingir felicidad, sino que estás dispuesto a cultivar la alegría dentro de la más pequeña y honesta gratitud. Rescátame del sentimiento de que nada es nunca suficiente, y no dejes que la ansiedad ocupe cada habitación en mí. Si vengo ante ti hoy con solo un poco de fe, recibe incluso eso, porque nunca has despreciado los comienzos pequeños. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Filipenses 4:4-7",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "4-7",
+              "translation": "Reina-Valera 1909",
+              "text": "Regocijaos en el Señor siempre. Otra vez os digo: Regocijaos… Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con hacimiento de gracias. Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros sentimientos en Cristo Jesús."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Las Personas Bendecidas Se Convierten en una Bendición",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "2 Corintios 9:8-11",
+            "book_code": "2CO",
+            "chapter": 9,
+            "verses": "8-11",
+            "translation": "Reina-Valera 1909",
+            "text": "Y poderoso es Dios para hacer que abunde en vosotros toda gracia… a fin de que, teniendo siempre en todas las cosas lo suficiente, abundéis para toda buena obra… siendo enriquecidos en todo para toda generosidad, la cual produce por medio nuestro acción de gracias a Dios."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La gratitud no termina con la comodidad personal. En su más rico, se convierte en generosidad. 2 Corintios dice que Dios provee gracia en abundancia para que su pueblo abunde en buena obra. La bendición no es solo algo que recibimos. A menudo se convierte en algo que transmitimos.",
+            "Un corazón agradecido raramente es uno tacaño. Se vuelve más listo para animar, para notar bondad en otros, y para hablar vida más libremente. **La verdadera gratitud ilumina el yo, pero también lo amplía.** Hace que una mujer sea más capaz de bendecir.",
+            "El Salmo 126 muestra el mismo movimiento. La bondad de Dios se convierte en alegría, y la alegría se convierte en testigo. La gracia nunca fue destinada a permanecer sellada dentro de la experiencia privada. A menudo se mueve hacia afuera a través de la bondad ordinaria, el discurso más cálido, el amor paciente, o una mano más abierta.",
+            "Una vida bendecida no es una que atesora lo que ha recibido. Es una que deja que la gracia siga moviéndose. Incluso la generosidad pequeña puede convertirse en testimonio cuando fluye de la gratitud."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre generoso, gracias porque la gracia que das raramente es solo lo suficiente. A menudo das más, para que el calor pueda seguir moviéndose a través de una vida. Eres el Dios que bendice, y te deleitas cuando el amor continúa a través de manos humanas. Guárdame de convertir la gratitud en autosatisfacción, y no dejes que mantenga la gracia cerrada dentro de mí. Si quieres, dame un corazón abierto hoy, para que lo que he recibido pueda convertirse tranquilamente en consuelo y bendición para otro. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "2 Corintios 9:8-11",
+              "book_code": "2CO",
+              "chapter": 9,
+              "verses": "8-11",
+              "translation": "Reina-Valera 1909",
+              "text": "Y poderoso es Dios para hacer que abunde en vosotros toda gracia… a fin de que, teniendo siempre en todas las cosas lo suficiente, abundéis para toda buena obra… siendo enriquecidos en todo para toda generosidad, la cual produce por medio nuestro acción de gracias a Dios."
+            },
+            {
+              "display": "Salmo 126:2-3",
+              "book_code": "PSA",
+              "chapter": 126,
+              "verses": "2-3",
+              "translation": "Reina-Valera 1909",
+              "text": "Entonces nuestra boca se llenó de risa, y nuestra lengua de alabanza… Jehová ha hecho grandes cosas con nosotros; estamos alegres. Haz volver nuestra cautividad, oh Jehová, como los arroyos del Neguev."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

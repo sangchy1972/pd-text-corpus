@@ -1,0 +1,461 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG18",
+    "slug": "joy-gratitude-daily-life",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardín de las Emociones",
+      "secondary": "joy-gratitude",
+      "secondary_label": "Gozo y Gratitud"
+    },
+    "tags": [
+      "gozo",
+      "gratitud",
+      "asombro",
+      "alabanza",
+      "atencion",
+      "agradecimiento"
+    ],
+    "title": "Deja que la Alegría y la Gratitud Habiten en Tu Vida Diaria",
+    "subtitle": "Estos siete días te ayudan a redescubrir la gracia y a recibir de nuevo la alegría y la gratitud en tu vida cotidiana.",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "redescubriendo el gozo",
+        "agradecida",
+        "reflexiva"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Estos siete días te ayudan a redescubrir la gracia y a recibir de nuevo la alegría y la gratitud en tu vida cotidiana.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_morning_sunlight_garden_joy",
+      "icon": "small-flower-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 145:1-7",
+        "book_code": "PSA",
+        "chapter": 145,
+        "verses": "1-7"
+      },
+      {
+        "display": "Salmo 34:1-8",
+        "book_code": "PSA",
+        "chapter": 34,
+        "verses": "1-8"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "La Alabanza Comienza por Ver la Bondad de Dios",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 145:1-7",
+            "book_code": "PSA",
+            "chapter": 145,
+            "verses": "1-7",
+            "translation": "Reina-Valera 1909",
+            "text": "Te exaltaré, mi Dios, mi Rey... Cada día te bendeciré... Grande es Jehová, y digno de suprema alabanza... Celebrarán la memoria de tu gran bondad, y cantarán tu justicia."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Cuando muchas personas piensan en \"alabar a Dios\", suelen imaginarse música, reuniones, cierta atmósfera espiritual. Pero los Salmos frecuentemente ofrecen algo diferente: ofrecen una perspectiva. ¿Por qué alaba el salmista? No es porque cada día sea fácil, sino porque primero ha visto quién es Dios, ha visto cómo ha tratado con él. El Salmo 145 reitera una y otra vez la grandeza, la benignidad, la compasión y la paciencia de Dios. Esto nos enseña que la alabanza no comienza solo con los sentimientos; comienza con el conocimiento.",
+            "Esto es muy importante para el mundo moderno, porque nuestro corazón se deja llevar fácilmente por las cosas superficiales. Si hoy va bien, es más fácil sentir gratitud; si hoy va mal, sentimos que no hay nada de qué hablar. Pero si la alabanza depende únicamente de las emociones, será muy inestable. Una persona que verdaderamente alaba a Dios no necesariamente tiene buenos días, pero tiene un conocimiento más profundo en el corazón: Dios es intrínsecamente bueno. **La verdadera alabanza no comienza en la atmósfera, sino en reconocer la bondad de Dios.**",
+            "Por eso la alabanza estabiliza el corazón. Cuando vuelves a poner tu vista en quién es Dios, en lugar de solo en si hoy fue favorable, el corazón encuentra una clase de paz. La vida sigue siendo vida, los problemas no desaparecen necesariamente de inmediato, pero hay un lugar que ya ha sido sostenido. No estás obligándote a ser positiva; estás volviendo a la realidad.",
+            "Una persona que alaba a Dios frecuentemente es alguien que recuerda a Dios. Ella no solo recuerda lo que Dios hizo por ella, sino también quién es Dios en esencia. Así su vida comienza a tener una clase diferente de brillo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Mi Dios, mi Rey, vengo ante ti diciendo primero que eres bueno. No porque me sienta especialmente elevada hoy, sino porque tu bondad no cambia. Gracias por tratarme con misericordia y por sostenerme con paciencia. Si mi corazón ha estado preocupado consigo mismo y rara vez levanta la vista hacia ti, ten compasión de mí y tráeme nuevamente a un conocimiento verdadero de quién eres. Que la alabanza no comience en la tensión, sino en verte nuevamente. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 145:1-7",
+              "book_code": "PSA",
+              "chapter": 145,
+              "verses": "1-7",
+              "translation": "Reina-Valera 1909",
+              "text": "Te exaltaré, mi Dios, mi Rey... Cada día te bendeciré... Grande es Jehová, y digno de suprema alabanza... Celebrarán la memoria de tu gran bondad, y cantarán tu justicia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Los Días Ordinarios Merecen Gratitud",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 118:24",
+            "book_code": "PSA",
+            "chapter": 118,
+            "verses": "24",
+            "translation": "Reina-Valera 1909",
+            "text": "Este es el día que hizo Jehová; nos gozaremos y alegraremos en él."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas establecen inconscientemente el umbral de la gratitud muy alto. Sienten que solo deben dar gracias cuando sucede algo impresionante: buenas noticias, un avance, la realización de un deseo. Pero el Salmo 118 dice: \"Este es el día que hizo Jehová.\" No habla de un día dramático, sino de este día. Este día merece alegría. Santiago agrega que cada buen regalo viene de arriba. Eso significa que incluso el día ordinario puede estar lleno de gracia.",
+            "La belleza de la vida ordinaria frecuentemente se revela solo para un corazón más lento. La luz de la mañana, un árbol abajo, una comida preparada sin prisa, una hora de paz, la risa en la mesa, un cuerpo que resistió, una noche tranquila. Ninguna de estas cosas se ve grande, pero sostienen una vida. **Los días ordinarios no están espiritualmente vacíos.**",
+            "Una mujer que da gracias por lo ordinario no es ingenua. Ha aprendido simplemente que la bondad de Dios rara vez aparece solo en los picos. Frecuentemente está esperando en el medio desapercibido. Cuanto más recibe esto, menos pospone la alegría a una estación futura.",
+            "Hay sabiduría en dar gracias a Dios por la gracia de hoy mientras aún es hoy. Ese tipo de gratitud mantiene el corazón brillante."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre, antes de que este día termine, quiero darte gracias por él. Gracias por poner un día ordinario en mis manos y por esconder más bondad dentro de lo que plenamente he visto. Eres tú quien das todo don excelente, e incluso el tiempo ordinario puede brillar en tu cuidado. Líbrame del hábito de tratar hoy como demasiado pequeño para la gratitud. Que aprenda, aquí en este día, a reconocer tu presencia con alegría. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 118:24",
+              "book_code": "PSA",
+              "chapter": 118,
+              "verses": "24",
+              "translation": "Reina-Valera 1909",
+              "text": "Este es el día que hizo Jehová; nos gozaremos y alegraremos en él."
+            },
+            {
+              "display": "Santiago 1:17",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "17",
+              "translation": "Reina-Valera 1909",
+              "text": "Toda buena dádiva y todo don perfecto desciende de lo alto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "La Gracia Recordada Ilumina el Corazón",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 34:1-8",
+            "book_code": "PSA",
+            "chapter": 34,
+            "verses": "1-8",
+            "translation": "Reina-Valera 1909",
+            "text": "Bendeciré a Jehová en todo tiempo; su alabanza estará de continuo en mi boca... Engrandecid a Jehová conmigo... Gustad y ved que es bueno Jehová."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Las personas olvidan fácilmente. No siempre por elección, sino por presión. Las nuevas ansiedades cubren las antiguas misericordias. Las decepciones recientes pueden eclipsar años de fidelidad. Por eso la Escritura frecuentemente se vuelve hacia el recuerdo. El Salmo 34 no es solo alabanza. Es alabanza recordada.",
+            "Recordar la gracia no es vivir en el pasado. Es traer la fidelidad pasada de Dios a la incertidumbre de hoy. Cuando una mujer recuerda cómo ha sido sostenida, su corazón se vuelve menos gobernado por el miedo inmediato. **La gracia recordada ilumina el corazón porque nos recuerda que no hemos llegado hasta aquí solos.**",
+            "Esta es una razón por la que el pueblo de Dios continúa contando historias, cantando canciones y repitiendo lo que el Señor ha hecho. La memoria es parte de la fortaleza espiritual. Mantiene el alma de colapsar en lo que sea más reciente.",
+            "Una vida que recuerda la gracia frecuentemente se vuelve más estable y más cálida. No está viviendo solo dentro de la presión de hoy. También está viviendo dentro del recuerdo de la fidelidad de Dios."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor fiel, traigo también mi memoria ante ti. Gracias porque no solo me ayudaste en un momento, sino que dejaste tus huellas todo el camino. Has escuchado mis oraciones y me has sostenido en mis momentos más débiles. Te alabo porque quién eras ayer, sigues siendo hoy. Sana mi olvido. No dejes que una pequeña presión actual cubra tu largo cuidado. Cuando recuerde cómo me has llevado, que la estabilidad vuelva a levantarse en mi corazón. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 34:1-8",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "1-8",
+              "translation": "Reina-Valera 1909",
+              "text": "Bendeciré a Jehová en todo tiempo; su alabanza estará de continuo en mi boca... Engrandecid a Jehová conmigo... Gustad y ved que es bueno Jehová."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "La Gratitud Hace que el Amor Sea Más Gentil",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Colosenses 3:12-17",
+            "book_code": "COL",
+            "chapter": 3,
+            "verses": "12-17",
+            "translation": "Reina-Valera 1909",
+            "text": "Vestíos, pues, como escogidos de Dios... de entrañas de misericordia, de benignidad, de humildad, de mansedumbre, de paciencia... y sea la paz de Dios árbitro en vuestros corazones... y hacedlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por medio de él."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A veces, la actitud de una persona hacia otros se vuelve más apresurada y más dura, no necesariamente porque es de mala naturaleza, sino porque hay poco agradecimiento en el corazón. Una persona que durante mucho tiempo solo ve problemas, defectos y presión, naturalmente se vuelve más crítica y menos paciente. Por el contrario, una persona cuyo corazón frecuentemente recuerda la gracia, típicamente encuentra más fácil ver lo bueno en otros y tratar a las personas con mayor gentileza.",
+            "Colosenses es interesante porque coloca la gratitud, la paz, la paciencia, la amabilidad, y la tolerancia juntas. Es decir, la gratitud no es solo una \"emoción entre yo y Dios\". Fluye hacia las relaciones. **La gratitud no solo cambia mi relación con Dios, también cambia mi actitud hacia las personas.**",
+            "Una mujer que agradece una palabra considerada del esposo, que agradece un mensaje de un amigo, que agradece una pequeña cooperación de su hijo, su corazón se vuelve más suave en esas relaciones. Ella no ignora los problemas, sino que se rehúsa a dejar que los problemas sean la única perspectiva. Esa persona se vuelve cada vez más como un árbol en primavera: no es que no hay viento, pero cuando el viento sopla, las ramas aún tienen flexibilidad.",
+            "Mucha claridad en las relaciones en realidad comienza con la gratitud. No es hacer que otros sean perfectos primero, sino aprender a ver: también en estas personas con quienes he convivido, hay mucho por lo que estar agradecido."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre, confieso que fácilmente me acostumbro al bien que otros me dan, y con el tiempo hago que la gracia se sienta ordinaria y esperada. Gracias porque no me has tratado así. Eres paciente y amable conmigo una y otra vez. Eres un Señor gentil, digno de mi gratitud. Pon ese mismo espíritu dentro de mí. Enséñame en mis relaciones no solo a notar defectos, sino a apreciar; no solo a sentir decepción, sino a recordar la gratitud. Que la manera en que amo hoy lleve un poco de tu gentileza. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Colosenses 3:12-17",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "12-17",
+              "translation": "Reina-Valera 1909",
+              "text": "Vestíos, pues, como escogidos de Dios... de entrañas de misericordia, de benignidad, de humildad, de mansedumbre, de paciencia... y sea la paz de Dios árbitro en vuestros corazones... y hacedlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por medio de él."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "La Alegría Puede Ser Tranquila y Aún Así Profunda",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Juan 15:9-11",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "9-11",
+            "translation": "Reina-Valera 1909",
+            "text": "Como el Padre me ha amado, así también yo os he amado; permaneced en mi amor... para que mi gozo esté en vosotros, y vuestro gozo sea cumplido."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Algunos piensan que la alegría debe ser siempre expresiva, energética o fácilmente visible. Sin embargo, la alegría madura frecuentemente es más tranquila que eso. Puede sentirse como una luz interior constante más que un pico emocional ruidoso. Jesús habla de su alegría permaneciendo en nosotros y de que nuestra alegría se haga plena. Esa plenitud no es emoción superficial. Es suficiencia interior.",
+            "Esto importa porque muchas mujeres hoy no carecen de estimulación. Carecen de descanso, de espacio interior y de deleite establecido. El mundo ofrece muchos levantamientos rápidos, pero rara vez satisfacen por mucho tiempo. **La alegría espiritual puede ser tranquila, pero puede ser profunda, estable y maravillosamente real.**",
+            "Esa alegría no quita todo dolor o cada carga. Hace algo más sutil. Le da al corazón un lugar de plenitud bajo la incompletitud de la vida. Una mujer con este tipo de alegría tal vez no siempre parezca ruidosa, pero frecuentemente lleva un brillo tranquilo que otros pueden sentir.",
+            "Este es uno de los regalos de Cristo. Él no solo consuela al cansado. También enseña al alma cómo vivir iluminada desde adentro."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor Jesús, traigo ante ti también ese vacío que hay en mi interior que es difícil nombrar. Gracias porque sabes lo que verdaderamente necesito no es solo alivio breve, sino un lugar de descanso interior. Eres el Señor que da vida y el que llena el corazón, y te alabo. Si he estado persiguiendo brillo afuera de mí mismo, atráeme nuevamente a tu amor. Si he confundido el ruido con la alegría, enséñame de nuevo la plenitud profunda y estable que tú das. Que tu alegría habite en mí y perdure más que el ruido a mi alrededor. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Juan 15:9-11",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "9-11",
+              "translation": "Reina-Valera 1909",
+              "text": "Como el Padre me ha amado, así también yo os he amado; permaneced en mi amor... para que mi gozo esté en vosotros, y vuestro gozo sea cumplido."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "La Alabanza No Es un Estado de Ánimo sino un Ritmo",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Tesalonicenses 5:16-18",
+            "book_code": "1TH",
+            "chapter": 5,
+            "verses": "16-18",
+            "translation": "Reina-Valera 1909",
+            "text": "Regocijaos siempre. Orad sin cesar. Dad gracias en todo, porque esta es la voluntad de Dios para con vosotros en Cristo Jesús."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas entienden la alabanza como una reacción que surge naturalmente cuando el corazón se siente bien. Por eso cuando se sienten cansados, ocupados o apagados, sienten que es difícil alabar. Pero 1 Tesalonicenses dice: \"Regocijaos siempre. Orad sin cesar. Dad gracias en todo.\" Esto no suena como si se requiriera intensidad emocional constante, sino más bien un ritmo: continuamente vuelve el corazón hacia Dios, continuamente trae el alma ante Dios.",
+            "Por eso la alabanza puede convertirse en una forma de vida. Una palabra tranquila de gratitud al despertar, un momento de silencio antes de comer, un corazón que murmura \"Señor, gracias por estar conmigo hoy\" mientras caminas, recordar al anochecer lo que valió la pena agradecimiento ese día. Nada de esto es estruendoso, pero lentamente da forma al corazón de una persona. **La alabanza no es algo que esperes a sentir, es volver el corazón hacia Dios una y otra vez.**",
+            "Una persona con un ritmo de alabanza tal vez no viva una vida más fácil, pero típicamente no es arrastrada tan fácilmente por una sola emoción. Porque ya ha abierto un camino hacia Dios en los días ordinarios. Volverá, abrirá su boca, recordará y agradecerá. Así el corazón no será llevado al lugar más lejano por el mundo cada vez.",
+            "Si la alabanza se convierte en ritmo, la vida tendrá gradualmente un tipo de brillo estable. No necesitas sentirte bien cada día, solo necesitas volver el corazón una y otra vez. El Señor lentamente te llevará a la abundancia a través de ese ritmo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, te agradezco porque nunca esperas mi mejor condición antes de recibirme. Incluso cuando me siento ordinaria, tranquila, o un poco cansada, aún eres digno de alabanza, y aún recibes mi voz. Eres bueno en ti mismo, así que te bendigo no solo por tus dones, sino por quién eres. Construye dentro de mí un camino de regreso, para que siga aprendiendo a volver mi corazón hacia ti. Aunque la gratitud de hoy se sienta ligera y pequeña, acéptala con gusto. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Tesalonicenses 5:16-18",
+              "book_code": "1TH",
+              "chapter": 5,
+              "verses": "16-18",
+              "translation": "Reina-Valera 1909",
+              "text": "Regocijaos siempre. Orad sin cesar. Dad gracias en todo, porque esta es la voluntad de Dios para con vosotros en Cristo Jesús."
+            },
+            {
+              "display": "Hebreos 13:15",
+              "book_code": "HEB",
+              "chapter": 13,
+              "verses": "15",
+              "translation": "Reina-Valera 1909",
+              "text": "Así que, ofrezcamos siempre a Dios, por medio de él, sacrificio de alabanza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "Cuando la Vida Se Vuelve Más Como Alabanza, el Corazón Brilla Más",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 34:1-8",
+            "book_code": "PSA",
+            "chapter": 34,
+            "verses": "1-8",
+            "translation": "Reina-Valera 1909",
+            "text": "Bendeciré a Jehová en todo tiempo; su alabanza estará de continuo en mi boca... Engrandecid a Jehová conmigo... Gustad y ved que es bueno Jehová; dichoso el hombre que confía en él."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Dejar que la alegría y la gratitud habiten en tu vida no significa estar siempre en un estado elevado, ardiente y emocionante. Es más bien una forma de ser: reconozco cada vez más a Dios, agradezco cada vez más, veo la gracia en lo ordinario, y cada vez menos dejo que la oscuridad y la prisa me traguen completamente. Así la vida lentamente adquiere un brillo estable.",
+            "Ese brillo atrae porque no es actuado. Frecuentemente aparece en personas que han vivido una vida real y han conocido la fidelidad de Dios. Saben que las personas se cansan, se frustran, decepcionan, y tienen momentos difíciles; pero en su interior hay una dirección aún más profunda. Volverán a Dios, volverán su corazón a Dios, recordarán una y otra vez \"el Señor es bueno\". **La alegría y la gratitud eventualmente se vuelven una cualidad de vida, haciendo que toda la persona viva con más brillo.**",
+            "El Salmo 34 invita a otros a engrandecer al Señor juntos. Esto significa que la alabanza no es solo un sentimiento privado. Se convierte en testimonio. Una vida que vive cada vez más como alabanza típicamente no es la que ha evitado todo dolor, sino una que ha aprendido la bondad de Dios a través del tiempo. Su paz, su gratitud, y su valoración de las pequeñas bellezas en la vida, sin tratar de hacerlo, iluminan a otros.",
+            "Este es el destino al que esta semana quiere llevarte: no un levantamiento breve, sino una forma más luminosa de ser. Una mujer cuya vida crece en alabanza tal vez aún sepa dolor, pero también se convierte en alguien que lleva luz."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, si mi vida alguna vez se vuelve brillante, será porque tu gracia primero brilló en mí. Gracias porque no solo me consuelas en momentos, sino que me das forma a lo largo del tiempo. Eres un Señor bueno y un Dios digno de alabanza. Si mi adoración es real, es solo una pequeña respuesta a tu belleza. Continúa refinando mi corazón, para que recuerde más fácilmente, dé gracias más libremente, y te honre más naturalmente en la vida ordinaria. Que toda mi vida se vuelva no solo una canción que canto de vez en cuando, sino una canción lentamente vivida de regreso a ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 34:1-8",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "1-8",
+              "translation": "Reina-Valera 1909",
+              "text": "Bendeciré a Jehová en todo tiempo; su alabanza estará de continuo en mi boca... Engrandecid a Jehová conmigo... Gustad y ved que es bueno Jehová; dichoso el hombre que confía en él."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

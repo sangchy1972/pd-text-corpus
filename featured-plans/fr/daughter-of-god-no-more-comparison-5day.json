@@ -1,0 +1,382 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI02",
+    "slug": "no-more-comparison",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rôles et Identité",
+      "secondary": "daughter-of-god",
+      "secondary_label": "Fille de Dieu"
+    },
+    "tags": [
+      "identite",
+      "appartenance",
+      "fille-de-dieu",
+      "valeur-propre",
+      "etiquettes",
+      "comparaison"
+    ],
+    "title": "Ne Plus Vivre dans la Comparaison",
+    "subtitle": "Trouver la paix dans un monde qui ne cesse de vous mesurer",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "en quête d'identité",
+        "lasse de la comparaison",
+        "aspirant à être connue"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Lorsque l'apparence, les réalisations, les relations et le rythme de votre vie vous poussent constamment à vous comparer, Dieu conduit doucement votre cœur vers la stabilité.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#E8C5D8",
+      "color_secondary": "#5A2B47",
+      "image_key": "cover_woman_quiet_morning_window_belonging",
+      "icon": "open-hands-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Galates 6:4",
+        "book_code": "GAL",
+        "chapter": 6,
+        "verses": "4"
+      },
+      {
+        "display": "Hébreux 12:2",
+        "book_code": "HEB",
+        "chapter": 12,
+        "verses": "2"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Pourquoi suis-je si facilement ébranlée par la vie des autres",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Galates 6:4",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "4",
+            "translation": "Louis Segond 1910",
+            "text": "Que chacun examine ses propres œuvres, et alors il aura sujet de se glorifier en lui-même seulement, et non en autrui."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Parfois, la comparaison ne commence pas parce que nous voulons rivaliser.",
+            "Elle commence parce que la vie de quelqu'un d'autre trouble quelque chose en nous. Nous voyons sa beauté, sa relation, sa confiance, ses opportunités, ou même simplement sa sérénité, et soudain quelque chose change en nous. Extérieurement, nous continuons peut-être à regarder, sourire ou écouter, mais intérieurement nous mesurons déjà. Suis-je en retard ? Me manque-t-il quelque chose ? Ai-je fait quelque chose qui n'allait pas ? Pourquoi sa vie semble-t-elle porter une sorte de légèreté que la mienne ne possède pas ?",
+            "Ce qui rend la comparaison si épuisante, ce n'est pas seulement qu'elle détourne notre attention. C'est qu'elle commence aussi à réécrire l'histoire que nous nous racontons sur nous-mêmes. La bénédiction de quelqu'un d'autre commence à ressembler à une preuve de notre défaut. Mais ce n'est pas ainsi que Dieu nous enseigne à lire nos vies. Galates 6 nous dit d'examiner notre propre œuvre. C'est une instruction douce, presque comme être ramené sur un terrain solide. N'utilisez pas l'histoire de quelqu'un d'autre comme règle pour votre valeur.",
+            "Dieu ne nous honte pas d'être affectées. Il sait combien vite le cœur peut devenir instable. Mais il nous ramène constamment vers un lieu plus vrai. Nous ne vivons pas sous l'autorité des calendriers, de la beauté ou des résultats d'autres personnes. Nous vivons sous les soins de Dieu.",
+            "**Une fois que la comparaison commence, elle peut nous faire lire l'abondance de quelqu'un d'autre comme preuve de notre propre manque.** Aujourd'hui, prêtez attention à ce qui a été le plus souvent le déclencheur récent de ce sentiment chez vous. Le nommer clairement peut être le premier pas pour sortir du brouillard."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, tu sais combien je suis facilement ébranlée par la vie d'autres personnes. Parfois, je vois ce qui est bon chez quelqu'un d'autre, et presque immédiatement je commence à me douter de moi-même, de mon rythme, de ma valeur et de la question de savoir si quelque chose ne va pas dans mon histoire. Garde mon cœur de laisser la comparaison remodeler la façon dont je me vois. Donne-moi l'honnêteté de remarquer ce qui a été troublant pour moi récemment. Merci de ne pas être un Dieu qui me mesure par l'histoire de quelqu'un d'autre. Ramène-moi en ta présence, et remets-moi sur la vie que tu m'as donnée. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Galates 6:4",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "4",
+              "translation": "Louis Segond 1910",
+              "text": "Que chacun examine ses propres œuvres, et alors il aura sujet de se glorifier en lui-même seulement, et non en autrui."
+            },
+            {
+              "display": "Proverbes 4:23",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23",
+              "translation": "Louis Segond 1910",
+              "text": "Garde ton cœur plus que toute autre chose; car de lui jaillissent les sources de la vie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Le rythme de quelqu'un d'autre n'est pas la preuve que j'ai échoué",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 27:14",
+            "book_code": "PSA",
+            "chapter": 27,
+            "verses": "14",
+            "translation": "Louis Segond 1910",
+            "text": "Espère l'Éternel ! Sois courageux ! Fortifie ton cœur ! Et espère l'Éternel !"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certaines comparaisons font vraiment mal, non pas à cause de la beauté ou du succès, mais à cause du rythme.",
+            "D'autres personnes semblent avancer. Elles se marient, fondent des familles, trouvent leur direction, s'installent dans un travail qu'elles aiment, deviennent plus visibles, plus certaines, plus établies. Pendant ce temps, nous pouvons toujours être en train d'essayer, de prier, d'attendre et de nous montrer fidèlement, mais quelque chose en nous souffre de la question : pourquoi suis-je toujours ici ? Avec le temps, le « déjà » de quelqu'un d'autre peut commencer à ressembler à une accusation contre le « pas encore » de nos vies.",
+            "Mais l'Écriture ne traite pas l'attente comme un échec. Le Psaume 27 dit : « Espère l'Éternel ! Sois courageux ! Fortifie ton cœur ! Et espère l'Éternel ! » Dieu n'est pas absent pendant les saisons qui se sentent encore inachevées. Il ne travaille pas seulement dans ce qui est arrivé. Il travaille aussi dans ce qui n'a pas encore se dérouler. Nous supposons souvent que seuls les résultats visibles comptent comme progrès, mais Dieu fait fréquemment son travail le plus profond dans les lieux cachés.",
+            "L'attente est particulièrement douloureuse quand nous devons la vivre en regardant d'autres personnes avancer. Je crois que beaucoup d'entre nous connaissons cette souffrance. Mais l'attente n'est pas le vide, et ce n'est pas la honte. Votre histoire n'est pas inférieure parce qu'elle est toujours en cours. Le rythme de quelqu'un d'autre ne peut pas définir votre valeur, et le progrès visible d'autres ne signifie pas que Dieu se retient de vous.",
+            "**Le rythme de quelqu'un d'autre n'est pas le verdict de Dieu sur votre vie.** Aujourd'hui, si la question « Pourquoi pas encore ? » vous a poursuivie, apportez-la honnêtement à Dieu. Puis posez une deuxième question : qu'est-ce que je pourrais bien être en train de former en moi ici ? Parfois, le cœur commence à s'adoucir quand l'attente n'est plus traitée comme humiliation, mais comme un sol sacré."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'avoue que je suis souvent poursuivie par le temps. Quand je vois d'autres personnes avancer, je me demande rapidement si je suis en retard, si je ne suis pas assez bien, et si c'est pourquoi les bonnes choses ne sont pas encore venues. Délivre-moi de ce malentendu. Ne laisse pas le rythme d'autres personnes devenir une source de honte pour moi. Merci de ne pas traiter l'attente comme un échec, et de ne pas avoir arrêté de travailler simplement parce que je n'ai pas encore atteint. Fortifie mon cœur, et enseigne-moi à faire confiance à ton rythme même quand je ne le comprends pas. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "Louis Segond 1910",
+              "text": "Espère l'Éternel ! Sois courageux ! Fortifie ton cœur ! Et espère l'Éternel !"
+            },
+            {
+              "display": "Ecclésiaste 3:11",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "11",
+              "translation": "Louis Segond 1910",
+              "text": "Il a fait toute chose belle en son temps."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Dieu ne m'a pas demandé de vivre la vie de quelqu'un d'autre",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jean 21:21-22",
+            "book_code": "JHN",
+            "chapter": 21,
+            "verses": "21-22",
+            "translation": "Louis Segond 1910",
+            "text": "Pierre, voyant cet autre disciple, dit à Jésus : Et celui-ci, Seigneur, comment sera-t-il ? Jésus lui dit : S'il faut qu'il demeure jusqu'à ce que je vienne, que t'importe ? Toi, suis-moi."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Une des choses les plus épuisantes de la comparaison, c'est qu'elle nous fait oublier ce qu'on nous a confié.",
+            "Quand nos yeux restent fixés sur quelqu'un d'autre, nous commençons à vivre de manière fragmentée. Nous vivons notre propre vie tout en imaginant constamment : si j'étais elle, si j'avais cette opportunité, si j'avais sa personnalité, sa beauté, sa situation relationnelle, les choses seraient-elles différentes ? Lentement, nous ne sommes pas seulement insatisfaites, mais il nous devient de plus en plus difficile de rester engagées dans le chemin que nous avons reçu.",
+            "En Jean 21, Pierre demande à Jésus quel sera l'avenir d'un autre disciple. Jésus répond avec une clarté surprenante : « S'il faut qu'il demeure jusqu'à ce que je vienne, que t'importe ? Toi, suis-moi. » Ce n'est pas une réponse dure. C'est une libéatrice. Jésus rappelle à Pierre que le chemin de quelqu'un d'autre n'est pas son devoir. La même chose est vraie pour nous. Nous ne sommes pas responsables d'expliquer pourquoi d'autres personnes ont ce qu'elles ont, ou pourquoi leurs histoires se déroulent comme elles le font. Nous sommes appelés à suivre le Christ là où il nous conduit.",
+            "Je sais à quelle vitesse l'esprit peut dériver dans cette direction. La comparaison ressemble à de l'attention, mais elle est souvent une forme de déconnexion. Elle nous éloigne de la vie qui se tient devant nous et nous rend moins disponibles à la grâce que Dieu nous donne maintenant. Quand Jésus dit « Suis-moi », il ne réduit pas nos questions. Il rassemble notre attention au lieu où la vie peut vraiment être vécue.",
+            "**Toute vie que vous admirez n'est pas une vie que Dieu vous demande de vivre.** Aujourd'hui, demandez-vous si vous avez passé tant d'énergie à regarder les autres que vous êtes devenue fatiguée de répondre à ce que Dieu place dans vos propres mains. La paix commence souvent quand l'attention devient plus simple à nouveau."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'avoue que je passe souvent tant de temps à regarder d'autres personnes que je perde de vue ce que tu places devant moi. Pardonne-moi de laisser la comparaison disperser mon cœur et affaiblir mon engagement. Merci de me rappeler que la vie de quelqu'un d'autre n'est pas ma mission, et que le rythme de quelqu'un d'autre n'est pas mon commandement. Ramène mon attention vers toi, et vers le chemin que tu m'as donné. Garde-moi de passer tant d'énergie à admirer les autres vies que je rate la grâce qui se déploie dans la mienne. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jean 21:21-22",
+              "book_code": "JHN",
+              "chapter": 21,
+              "verses": "21-22",
+              "translation": "Louis Segond 1910",
+              "text": "Pierre, voyant cet autre disciple, dit à Jésus : Et celui-ci, Seigneur, comment sera-t-il ? Jésus lui dit : S'il faut qu'il demeure jusqu'à ce que je vienne, que t'importe ? Toi, suis-moi."
+            },
+            {
+              "display": "Hébreux 12:1",
+              "book_code": "HEB",
+              "chapter": 12,
+              "verses": "1",
+              "translation": "Louis Segond 1910",
+              "text": "Débarrassons-nous de tout fardeau, et du péché qui nous enveloppe si facilement, et courons avec persévérance l'épreuve qui nous est proposée."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Je n'ai pas besoin de surpasser quelqu'un pour être en paix",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Philippiens 2:3",
+            "book_code": "PHP",
+            "chapter": 2,
+            "verses": "3",
+            "translation": "Louis Segond 1910",
+            "text": "Ne faites rien par rivalité, par vaine gloire, mais avec humilité regardez chacun les autres comme supérieurs à vous-mêmes."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Si la comparaison dure assez longtemps, même devenir soi-même peut commencer à ressembler à une compétition.",
+            "Nous commençons à penser que nous devrions être plus jolies, plus réussies, plus désirables, plus visibles, plus certaines, plus accomplies. Extérieurement, cela peut sembler être de la croissance, mais intérieurement, cela peut simplement être entraîné par le désir de ne pas se sentir en arrière. Quand cela se produit, même notre ambition devient lourde. Nous ne sommes plus seulement en train d'essayer de s'épanouir. Nous essayons de dépasser le malaise de ne pas nous sentir assez.",
+            "Philippiens 2 avertit contre la « vaine gloire », cette faim inquiète d'autosuffisance par la preuve externe. Le passage n'enseigne pas l'auto-effacement. Il nous libère du besoin épuisant d'établir notre valeur par la comparaison. Dieu ne nous demande pas de vivre sans éclat. Il nous demande de ne pas construire notre paix sur le fait de surpasser quelqu'un d'autre.",
+            "Il existe une maturité plus profonde qui commence quand nous n'avons plus besoin de gagner pour nous sentir en sécurité. Alors nous pouvons admirer les autres sans nous rétrécir. Nous pouvons grandir sans panique. Nous pouvons devenir plus pleinement nous-mêmes sans que la force d'une autre femme ne nous semble menaçante. C'est une belle sorte de liberté.",
+            "**La paix ne vient pas de finalement surpasser quelqu'un d'autre. Elle vient de ne plus avoir besoin de la comparaison pour nous dire qui nous sommes.** Si vous sentez le besoin de prouver quelque chose aujourd'hui, faites une pause et demandez-vous ce qu'il y a dessous. Suis-je en train de répondre à Dieu, ou je suis en train d'essayer d'échapper au sentiment de perdre ? La réponse est importante, car deux sortes d'efforts peuvent sembler très similaires de l'extérieur tout en conduisant l'âme dans des directions très différentes."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'avoue que j'ai souvent le désir de prouver que je ne suis pas inférieure, pas oubliable, pas en arrière. Sauve-moi du besoin inquiet de gagner quelque chose en retour pour me sentir digne. Ne laisse pas ma croissance devenir une compétition, ou la luminosité d'une autre personne devenir une menace pour moi. Merci de me valoriser d'une manière qui ne diminue pas quand quelqu'un d'autre est doué, visible ou en train de s'épanouir. Donne-moi une liberté plus mature, afin que je puisse admirer les autres et vivre toujours paisiblement comme moi-même. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Philippiens 2:3",
+              "book_code": "PHP",
+              "chapter": 2,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "Ne faites rien par rivalité, par vaine gloire, mais avec humilité regardez chacun les autres comme supérieurs à vous-mêmes."
+            },
+            {
+              "display": "Romains 12:3",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "Par la grâce qui m'a été donnée, je dis à chacun de vous de ne pas avoir de lui-même une plus haute pensée qu'il ne doit en avoir ; mais de penser de lui-même avec modération."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Ramener mes yeux vers Dieu et vers ma propre vie",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Hébreux 12:2",
+            "book_code": "HEB",
+            "chapter": 12,
+            "verses": "2",
+            "translation": "Louis Segond 1910",
+            "text": "Regardant à Jésus, qui suscite la foi et la mène à la perfection."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Au cinquième jour, nous ne cessons peut-être pas soudainement de nous comparer complètement.",
+            "Certaines habitudes ne disparaissent pas en un moment propre. Certaines personnes, images, saisons et rappels peuvent toujours troubler quelque chose en nous. Mais peut-être que ce que Dieu construit n'est pas l'immunité instantanée. Peut-être qu'il nous donne une nouvelle façon de revenir. Une nouvelle façon de remarquer quand le cœur a été tiré loin, et de revenir à nouveau à sa présence, à sa vérité et à la vie qu'il nous a réellement donnée.",
+            "Hébreux 12 nous dit de regarder à Jésus, l'auteur et le perfectionnement de notre foi. Ce langage compte. Le cœur regardera toujours quelque chose. S'il ne se tourne pas régulièrement vers le Christ, il dériera souvent vers d'autres personnes. Le Psaume 121 demande : « D'où me vient du secours ? » Cette question est toujours profondément pertinente. La stabilité d'une personne ne vient souvent pas de ne pas voir le monde, mais de finir par savoir où elle doit diriger son regard.",
+            "J'aime penser à cela comme une discipline douce. Pas voir la comparaison et immédiatement s'effondrer dans la honte, mais la voir et apprendre à revenir. Seigneur, mon cœur a divagué à nouveau. Ramène-moi. Avec le temps, la comparaison peut toujours rendre visite, mais elle n'a plus le droit d'expliquer nos vies. Sa voix devient moins définitive parce que la voix de Dieu devient plus familière.",
+            "**La stabilité ne signifie pas que nous n'êtes jamais troublées à nouveau. Cela signifie que nous apprenons comment revenir quand nous le sommes.** Terminez ces cinq jours par un petit acte de retour. Fermez la page qui vous trouble. Éloignez-vous pour un moment de calme. Priez une phrase honnête. De nombreux changements profonds commencent par de petits retours répétés du cœur."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de m'avoir doucement ramené mon cœur ces derniers jours. Je sais que je ne pourrais ne jamais me comparer à nouveau ou ne jamais être troublée à nouveau, mais merci de m'enseigner quelque chose de plus profond : chaque fois que mon cœur devient instable, je peux revenir à toi. Rends ta voix plus familière pour moi, et laisse la vie d'autres personnes perdre le pouvoir de définir comment je me vois. Aide-moi à construire de nouveaux rythmes de retour dans la vie quotidienne, afin que mes yeux reviennent plus rapidement vers toi et vers la vie que tu m'as confiée. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Hébreux 12:2",
+              "book_code": "HEB",
+              "chapter": 12,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "Regardant à Jésus, qui suscite la foi et la mène à la perfection."
+            },
+            {
+              "display": "Psaume 121:1-2",
+              "book_code": "PSA",
+              "chapter": 121,
+              "verses": "1-2",
+              "translation": "Louis Segond 1910",
+              "text": "Je lève mes yeux vers les montagnes. D'où me viendra du secours ? Le secours me vient de l'Éternel, qui a fait les cieux et la terre."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG05",
+    "slug": "life-not-turn-out",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "grief-disappointment",
+      "secondary_label": "Tristesse et Déception"
+    },
+    "tags": [
+      "tristesse",
+      "deception",
+      "esperance-retardee",
+      "pleurs",
+      "consolation"
+    ],
+    "title": "Quand la vie n'a pas suivi le chemin espéré",
+    "subtitle": "Pour celle qui porte la déception, le désir non exaucé et la douleur d'une histoire qui ne s'est pas déroulée comme elle l'espérait.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "en deuil",
+        "déçue",
+        "éplorée"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour celle qui porte la déception, le désir non exaucé et la douleur d'une histoire qui ne s'est pas déroulée comme elle l'espérait.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_quiet_garden_soft_rain_grief",
+      "icon": "falling-leaf-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Proverbes 13:12",
+        "book_code": "PRO",
+        "chapter": 13,
+        "verses": "12"
+      },
+      {
+        "display": "Ruth 1:20-21",
+        "book_code": "RUT",
+        "chapter": 1,
+        "verses": "20-21"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "La déception blesse réellement le cœur",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 13:12",
+            "book_code": "PRO",
+            "chapter": 13,
+            "verses": "12",
+            "translation": "Louis Segond 1910",
+            "text": "L'espérance différée rend le cœur malade; mais le désir accompli est un arbre de vie."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Il y a une douleur qui ne vient pas de perdre ce que vous aviez, mais de ne jamais recevoir ce que vous espériez. Il existe une souffrance particulière qui naît de l'attente, de la prière et de la préparation pour quelque chose qui ne vient jamais. Ce peut être une relation qui n'a pas commencé, une opportunité qui s'est fermée, une guérison qui ne s'est pas produite, ou une direction de vie qui est restée hors de portée. Ce genre de déception peut être difficile à expliquer car elle n'est pas toujours liée à un moment dramatique unique. Parfois, elle s'accumule lentement.",
+            "Proverbes 13:12 dit : « L'espérance différée rend le cœur malade. » L'Écriture ne traite pas l'espérance différée comme une petite gêne. Elle nomme ce qu'elle fait au cœur. Elle peut rendre une personne prudente. Elle peut faire que la prière semble plus légère. Elle peut créer une résistance tranquille à vouloir quelque chose de profond à nouveau.",
+            "**Vous n'êtes pas trop fragile. Vous avez été véritablement blessée par la déception.** De nombreuses personnes se reprochent de tenir à quelque chose d'aussi profond, mais le désir n'est pas une faiblesse. La douleur ne vient pas de ce que vous avez espéré trop profondément. La douleur vient de ce que ce que vous espériez n'est pas venu.",
+            "Dieu ne vous demande pas de devenir gaie avant de devenir honnête. **Parfois, la guérison commence quand vous cessez de minimiser ce qui vous a blessée et que vous l'appelez par son vrai nom.** Aujourd'hui, écrivez une déception que vous portez et placez-la devant le Seigneur simplement.",
+            "Cette sorte d'honnêteté peut sembler exposante, mais c'est souvent le début de laisser Dieu prendre soin de la partie du cœur qui s'est tue. Dieu peut vous rencontrer là sans vous demander de la cacher d'abord. Il peut rencontrer un cœur déçu avec patience au lieu de pression, et l'honnêteté est une façon de le laisser commencer."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'admets que cette déception m'a véritablement blessée. Tu sais comment j'espérais profondément, et Tu sais comment une espérance différée pèse lentement sur le cœur. Merci de ne pas me demander de devenir positive avant de devenir honnête. Aujourd'hui, je mets ce désir non exaucé devant Toi sans le minimiser. Guéris la part de moi qui s'est fatiguée, blessée, et qui a peur d'espérer à nouveau. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 13:12",
+              "book_code": "PRO",
+              "chapter": 13,
+              "verses": "12",
+              "translation": "Louis Segond 1910",
+              "text": "L'espérance différée rend le cœur malade; mais le désir accompli est un arbre de vie."
+            },
+            {
+              "display": "Psaume 42:5",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "5",
+              "translation": "Louis Segond 1910",
+              "text": "Pourquoi t'abats-tu, mon âme, et pourquoi gémi-tu en moi? Espère en Dieu, car je le louerai encore; il est mon salut et mon Dieu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Quand la prière n'a pas reçu la réponse attendue",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Habacuc 3:17-18",
+            "book_code": "HAB",
+            "chapter": 3,
+            "verses": "17-18",
+            "translation": "Louis Segond 1910",
+            "text": "Bien que le figuier ne fleurisse pas, que les raisins manquent sur la vigne, que l'olivier ne produise rien, et que les champs ne donnent pas de produit, bien que le troupeau disparaisse de la bergerie, et qu'il n'y ait plus de boeufs dans les étables; cependant je me réjouirai en l'Éternel, je tressaillirai d'allégresse en Dieu, mon libérateur."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Parfois, ce qui rend la déception plus difficile à gérer n'est pas seulement que les choses n'ont pas fonctionné, mais que vous aviez sincèrement prié. Vous n'avez pas gardé Dieu à l'écart de la situation. Vous avez demandé sincèrement. Vous avez peut-être jeûné, pleuré et attendu. Peut-être croyiez-vous que Dieu se manifesterait d'une certaine manière. Et pourtant, la réponse n'a pas été celle que vous espériez. Ce genre de déception peut affecter la façon dont vous priez, la façon dont vous entendez les promesses de Dieu, et la façon dont vous interprétez le silence.",
+            "L'Écriture nous donne un chemin honnête. Habacuc parle le langage du « bien que » avant d'arriver au « cependant ». Il n'omet pas le champ aride. Il le nomme puis se tourne vers Dieu. La foi biblique ne consiste pas à prétendre que la douleur est petite. C'est d'apporter la douleur dans la présence de Dieu au lieu de s'éloigner.",
+            "Parfois cette déception surgit tranquillement. Vous priez encore, mais avec moins d'attente. Vous hésitez avant de demander à nouveau avec audace car une partie de vous se demande si l'espérance est simplement vous préparer à une nouvelle douleur.",
+            "**Vous êtes autorisée à dire à Dieu : « Ce n'est pas le résultat que j'espérais. »** Ce n'est pas un manque de respect. C'est une relation. **La nouvelle miséricorde n'est pas réservée aux gens qui comprennent déjà ce que Dieu fait.** Elle est donnée aux gens qui souffrent encore et qui sont toujours disposés à se tourner vers Lui.",
+            "Ramenez une prière sans réponse devant Dieu aujourd'hui, ainsi que la déception autour d'elle. Vous ne êtes peut-être pas prête à dire « cependant » avec force aujourd'hui, mais vous pouvez toujours apporter à Dieu votre « bien que » et faire confiance à sa proximité. Il est assez fort pour recevoir votre prière et votre déception. Vous n'avez pas besoin de résoudre le mystère avant de revenir à Lui. Parfois, la proximité continue est la miséricorde dont vous avez d'abord besoin. Il reste proche même quand votre prière semble encore blessée."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'admets que certaines déceptions font tellement mal car j'ai vraiment prié. Je croyais que Tu pourrais ouvrir le chemin comme je l'imaginais, et maintenant les choses n'ont pas suivi ce cours. Tu connais ma confusion, et Tu sais que parfois même prier à nouveau semble épuisant. Merci que je puisse apporter mon « bien que » devant Toi au lieu de prétendre que l'acceptation est facile. Aujourd'hui, je remets cette prière sans réponse dans Tes mains. Protège ma relation avec Toi même avant que Tu ne changes mes circonstances, et fortifie ceux qui sont près de perdre courage car leurs prières restent sans réponse. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Habacuc 3:17-18",
+              "book_code": "HAB",
+              "chapter": 3,
+              "verses": "17-18",
+              "translation": "Louis Segond 1910",
+              "text": "Bien que le figuier ne fleurisse pas, que les raisins manquent sur la vigne, que l'olivier ne produise rien, et que les champs ne donnent pas de produit, bien que le troupeau disparaisse de la bergerie, et qu'il n'y ait plus de boeufs dans les étables; cependant je me réjouirai en l'Éternel, je tressaillirai d'allégresse en Dieu, mon libérateur."
+            },
+            {
+              "display": "Lamentations 3:21-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "21-23",
+              "translation": "Louis Segond 1910",
+              "text": "Voici ce que mon cœur me remet en mémoire, ce qui me donne de l'espérance: c'est que les miséricordes de l'Éternel ne sont pas épuisées, que ses compassions ne prennent pas fin; elles se renouvellent chaque matin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Être réconfortée trop rapidement peut aussi faire mal",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Job 2:13",
+            "book_code": "JOB",
+            "chapter": 2,
+            "verses": "13",
+            "translation": "Louis Segond 1910",
+            "text": "Et ils s'assirent avec lui par terre pendant sept jours et sept nuits, et nul ne lui parla; car ils voyaient que sa souffrance était très grande."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Les gens dans la déception ne doivent souvent pas seulement affronter les événements eux-mêmes, mais aussi les réconforts que les autres offrent. Certains réconforts sont authentiques, d'autres viennent trop vite. Comme « ne pense pas trop », « Dieu a un plan merveilleux », « avec le temps ça ira ». Ces paroles n'ont pas nécessairement de mauvaises intentions, mais quand le cœur d'une personne saigne encore, une réponse trop rapide est comme un pansement sur une blessure profonde—elle ne traite pas vraiment la douleur et rend la personne encore moins disposée à parler à nouveau.",
+            "Dans le Livre de Job, les amis de Job ont fait ce qu'il y avait de mieux au début : ils se sont assis avec lui et ont pleuré. C'était sage. Plus tard, quand ils ont commencé à expliquer et à corriger, ils ont fait plus de mal qu'de bien. Le Psaume 147 dit que Dieu « guérit ceux qui ont le cœur brisé et panse leurs plaies ». Panser implique du soin, de la patience et de la tendresse. Dieu ne traite pas la douleur comme un problème à gérer rapidement.",
+            "Une mauvaise consolation peut vous faire demander si vous êtes trop sensible ou trop lente à guérir. C'est pourquoi la présence douce importe. L'âme guérit souvent mieux en compagnie de quelqu'un qui écoute avec patience qu'en compagnie de quelqu'un qui se hâte d'expliquer.",
+            "**Pas chaque phrase spirituelle est une phrase de guérison à chaque moment.** Le moment importe. La présence importe. **Parfois le confort le plus christique n'est pas l'explication immédiate, mais la compagnie silencieuse.**",
+            "Si le réconfort de quelqu'un vous a blessée récemment, apportez aussi cette blessure à Dieu. Il peut guérir non seulement la déception originale, mais aussi la douleur secondaire d'avoir été mal réconfortée. Il sait comment s'approcher sans forcer une blessure à se fermer avant qu'elle ne soit prête.",
+            "Si nécessaire, demandez à Dieu du discernement sur où partager plus librement et où protéger votre tendresse un peu plus soigneusement. Il honore les blessures en les soignant lentement. Il peut aussi vous enseigner à quoi ressemble un confort sage et doux pour que votre cœur ne se retrouve pas portant une nouvelle confusion par-dessus une vieille peine."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, Tu sais que parfois ce qui me blesse plus n'est pas seulement la déception elle-même, mais le réconfort qui vient trop vite, trop légèrement, ou trop brusque. Merci de ne pas être comme ça avec moi. Tu ne te hâtes pas de me gérer ou de me relever avant que je ne sois prête. Aujourd'hui, j'apporte la douleur d'être blessée par les paroles devant Toi. Guéris non seulement la déception originale, mais aussi la blessure qui a été ajoutée après. Donne-moi la sagesse de savoir à qui m'ouvrir en toute confiance, et la liberté de rester tranquillement avec Toi quand c'est ce dont j'ai le plus besoin. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Job 2:13",
+              "book_code": "JOB",
+              "chapter": 2,
+              "verses": "13",
+              "translation": "Louis Segond 1910",
+              "text": "Et ils s'assirent avec lui par terre pendant sept jours et sept nuits, et nul ne lui parla; car ils voyaient que sa souffrance était très grande."
+            },
+            {
+              "display": "Psaume 147:3",
+              "book_code": "PSA",
+              "chapter": 147,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "Il guérit ceux qui ont le cœur brisé, et il panse leurs plaies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Dieu guérit lentement au milieu de la déception",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 147:3",
+            "book_code": "PSA",
+            "chapter": 147,
+            "verses": "3",
+            "translation": "Louis Segond 1910",
+            "text": "Il guérit ceux qui ont le cœur brisé, et il panse leurs plaies."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'une des plus profondes peurs face à la déception prolongée n'est pas seulement la douleur actuellement, mais le changement. Après une saison de profonde déception, de nombreuses personnes commencent à se demander si elles ont été changées de façons qui pourraient ne pas s'inverser facilement. Vous pouvez faire confiance plus lentement maintenant. La joie peut sembler moins naturelle. Même quand les bonnes choses vous entourent, une partie de votre cœur peut rester en alerte. Cela peut être terrifiant.",
+            "Cette peur mérite de la tendresse. La déception peut vraiment remodeler le cœur. Mais l'Écriture offre une image différente de l'auto-réparation dure. Le Psaume 147 dit que Dieu guérit ceux qui ont le cœur brisé et panse leurs plaies. Panser est un travail attentionné. Ce n'est pas violent ou impatient. C'est une image de Dieu s'approchant avec des mains patientes.",
+            "Les Lamentations ajoutent une autre couche : Ses miséricordes sont nouvelles chaque matin. Cela signifie que la guérison ne doit pas arriver tout d'un coup pour être réelle. Une grande partie du travail le plus profond de Dieu entre tranquillement. Ce n'est peut-être pas dramatique, mais c'est toujours de la miséricorde.",
+            "**Le travail de Dieu en vous n'est pas une réparation rude. C'est une guérison douce.** Essayez de ne pas mépriser le rythme lent de la restauration. **La guérison n'est pas toujours un retour. Parfois c'est un renouvellement.**",
+            "Si vous pouvez, écrivez un petit signe que Dieu vous a déjà gardée. Peut-être priez-vous honnêtement à nouveau. Peut-être ne vous cachez-vous plus autant. La guérison lente est toujours une guérison, et le Seigneur travaille toujours, même où les progrès semblent tranquilles.",
+            "Certains matins, la nouvelle miséricorde peut sembler très petite, mais la petite miséricorde est toujours une miséricorde, et la guérison patiente est toujours l'œuvre de Dieu. La guérison tranquille est toujours une guérison sainte. Laissez cette miséricorde plus lente vous enseigner à ne pas mesurer la fidélité de Dieu uniquement par des moments dramatiques. Et Il est assez patient pour continuer à soigner ce qui semble encore meurtri."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'ai parfois très peur que ces déceptions m'aient changée si profondément que je ne peux jamais revenir à la douceur et à la luminosité que j'ai connues. Merci de me montrer dans Ta Parole que Tu ne me traites pas brutalement. Tu panses les blessures avec patience. Enseigne-moi à ne pas mépriser les petits signes de guérison, et garde-moi de désespoir quand le progrès semble lent. Dans Tes nouvelles miséricordes chaque matin, aide-moi à me regarder moi-même plus doucement et fais-moi confiance que Tu fais une guérison plus profonde que ce que je peux encore voir. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 147:3",
+              "book_code": "PSA",
+              "chapter": 147,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "Il guérit ceux qui ont le cœur brisé, et il panse leurs plaies."
+            },
+            {
+              "display": "Lamentations 3:22-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "22-23",
+              "translation": "Louis Segond 1910",
+              "text": "C'est par la miséricorde de l'Éternel que nous ne sommes pas consumés, car ses compassions ne prennent pas fin; elles se renouvellent chaque matin. Que ta fidélité est grande!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Je peux continuer à vivre avec espérance, même avec la déception",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ruth 1:20-21",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "20-21",
+            "translation": "Louis Segond 1910",
+            "text": "Elle leur dit: N'appelez-moi plus Naomi; appelez-moi Mara, car le Tout-Puissant m'a traitée amèrement. Je suis partie riche, et l'Éternel me ramène pauvre..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "De nombreuses personnes pensent que l'espérance ne peut revenir qu'après que la déception soit entièrement disparue. Elles supposent qu'en premier la douleur doit disparaître, puis la clarté doit venir, et seulement après cela l'espérance devient possible à nouveau. Mais Dieu travaille souvent d'une façon plus douce que cela. L'espérance commence fréquemment tandis que la blessure est toujours tendre. Elle grandit non parce que tout a été résolu, mais parce que le cœur n'a pas cessé de se tourner vers Dieu.",
+            "C'est une raison pour laquelle l'histoire de Naomi est si puissante. Elle ne cachait pas son amertume. Elle a dit clairement que le Tout-Puissant avait été amer envers elle. Pourtant son honnêteté ne l'a pas disqualifiée du travail continu de Dieu. Les paroles d'Ésaïe, « Voici, je fais une chose nouvelle », n'exigent pas un optimisme immédiat. Elles offrent une possibilité sainte : Dieu est toujours capable de créer la vie après la déception.",
+            "Pour de nombreuses personnes, la partie la plus difficile n'est pas seulement ce qui s'est passé. C'est la peur d'espérer à nouveau. Mais l'espérance ne revient pas toujours comme une grande émotion. Parfois, elle commence comme une petite volonté de croire que la déception n'est pas tout ce que Dieu écrira sur votre vie.",
+            "**La déception peut être réelle, mais elle n'a pas besoin d'être le dernier chapitre de votre vie.** **L'espérance s'annonce rarement de façon dramatique au début.** Portez une phrase d'espérance avec vous cette semaine : « Mon histoire n'est pas finie », ou, « Dieu peut encore faire une chose nouvelle. » Laissez cette phrase vous stabiliser quand la déception surgit à nouveau.",
+            "Un petit retour à l'espérance n'est pas une fausse espérance. Ce peut être le premier signe tranquille que Dieu crée toujours la vie où vous attendiez seulement une perte. Dieu peut protéger même une espérance prudente. Ce commencement tranquille importe car de nombreuses histoires sont lentement réouvertes par la grâce avant d'être visiblement changées. Cette possibilité mérite de l'espace pour respirer."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de ne pas exiger que je sois entièrement guérie avant d'espérer à nouveau. Tu sais que la déception vit encore en moi, ainsi que la douleur inachevée et les questions sans réponse. Pourtant, merci que Tu parles toujours de choses nouvelles sur ma vie. Aide-moi à ne pas traiter cette saison de perte comme la fin finale de mon histoire. Même avant de voir un grand changement, garde-moi ramenant moi-même devant Toi. Plante une espérance petite mais réelle dans mon cœur à nouveau. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ruth 1:20-21",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "20-21",
+              "translation": "Louis Segond 1910",
+              "text": "Elle leur dit: N'appelez-moi plus Naomi; appelez-moi Mara, car le Tout-Puissant m'a traitée amèrement. Je suis partie riche, et l'Éternel me ramène pauvre..."
+            },
+            {
+              "display": "Ésaïe 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "Louis Segond 1910",
+              "text": "N'invoquez plus la mémoire des premiers événements, ne pensez plus aux choses passées. Voici, je vais faire une chose nouvelle, qui naître maintenant, et vous la connaîtrez."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

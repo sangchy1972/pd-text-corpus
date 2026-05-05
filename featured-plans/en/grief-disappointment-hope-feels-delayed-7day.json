@@ -1,0 +1,507 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG06",
+    "slug": "hope-feels-delayed",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garden of Emotions",
+      "secondary": "grief-disappointment",
+      "secondary_label": "Grief & Disappointment"
+    },
+    "tags": [
+      "grief",
+      "disappointment",
+      "delayed-hope",
+      "weeping",
+      "comfort"
+    ],
+    "title": "When Hope Feels Delayed",
+    "subtitle": "These seven days walk gently through disappointment and long waiting, helping your heart return to the God who is still present and still merciful.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "grieving",
+        "disappointed",
+        "tearful"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "These seven days walk gently through disappointment and long waiting, helping your heart return to the God who is still present and still merciful.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_quiet_garden_soft_rain_grief",
+      "icon": "falling-leaf-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 13:1-2",
+        "book_code": "PSA",
+        "chapter": 13,
+        "verses": "1-2"
+      },
+      {
+        "display": "Romans 15:13",
+        "book_code": "ROM",
+        "chapter": 15,
+        "verses": "13"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "I Do Not Need to Be Strong Before I Come to God",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 13:1-2",
+            "book_code": "PSA",
+            "chapter": 13,
+            "verses": "1-2",
+            "translation": "KJV",
+            "text": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me? How long shall I take counsel in my soul, having sorrow in my heart daily?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many people meet grief by trying to hold themselves together. They keep functioning, keep helping others, and keep doing whatever is required to get through the day. Over time, it becomes easy to confuse survival with healing. But continuing to move is not the same as being comforted. A person can still show up for life outwardly while inwardly carrying great sorrow.",
+            "That is one reason grief can become hidden. You may feel pressure to remain composed not only because others need things from you, but because you no longer know how to stop. Psalm 13 is a gift to people in that condition. It begins with \"How long?\" before anything gets resolved. There is no polished introduction and no attempt to make the pain more manageable before bringing it to God.",
+            "Jesus also says, \"Blessed are they that mourn: for they shall be comforted.\" He does not bless only the strong, the resilient, or the self-controlled. He blesses mourners. That means grief is not a sign that you have stepped outside God’s care. It may be one of the places where His comfort becomes most personal.",
+            "**Continuing to function is not the same thing as being healed.** If you have been holding yourself together for everyone else, let today become an invitation to loosen your grip before God. **Lament is not weakness. It is one way the soul stops pretending.** The Lord does not need your sorrow to be neat before He receives it.",
+            "The Lord does not mistake composure for healing, and He does not overlook the sorrow hidden beneath a capable exterior. God receives grief that has not yet found words. God welcomes grief that still feels tangled, unfinished, and hard to explain, and He is not asking you to be less affected in order to be near Him."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, today I do not want to require strength from myself before I come to You. You know that I may still be functioning outwardly while feeling tired, empty, and deeply hurt inside. Thank You that You do not push mourners away, but promise them comfort. I come to You like this — without polishing, without pretending, without forcing quick understanding. If all I have is a sigh, hear it. If all I have is tears, receive them. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 13:1-2",
+              "book_code": "PSA",
+              "chapter": 13,
+              "verses": "1-2",
+              "translation": "KJV",
+              "text": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me? How long shall I take counsel in my soul, having sorrow in my heart daily?"
+            },
+            {
+              "display": "Matthew 5:4",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "4",
+              "translation": "KJV",
+              "text": "Blessed are they that mourn: for they shall be comforted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "What Have I Truly Lost",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Ruth 1:20-21",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "20-21",
+            "translation": "KJV",
+            "text": "And she said unto them, Call me not Naomi, call me Mara... I went out full, and the LORD hath brought me home again empty..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Grief is often larger than the event that caused it. Sometimes we assume we are grieving one thing, when in reality the loss has reached much deeper into the heart than we first realized. You may think you are grieving a relationship, a closed door, or a major life change. But under that visible loss may be another loss: safety, belonging, identity, confidence, or the feeling of being known.",
+            "Naomi’s story helps us here. She did not only lose people. She lost the life she recognized. When she said that she had gone out full and returned empty, she was describing more than circumstance. She was describing disorientation. Loss had unsettled not just her surroundings, but her sense of self and future.",
+            "That is why some grief lingers. Time alone does not touch what has not yet been named. A breakup may also feel like the loss of being chosen. A financial collapse may feel like the loss of safety. A delayed prayer may feel like the loss of trust in what life was supposed to become.",
+            "**God often heals not only the visible loss, but the deeper place inside you that was torn with it.** Ask gently today: what else did this loss take from me? **Naming the deeper layer is not overthinking. It is making room for more truthful prayer.** The Lord sees both the outer event and the inner wound that came with it.",
+            "As that deeper layer becomes clearer, prayer often does too. What once felt confusing starts becoming more speakable before God. The Lord is not confused by what grief has touched. When the inner loss becomes clearer, you may find that the Lord’s comfort also begins reaching places you could not previously name. There too, He is gentle. for you. with tenderness."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, help me see my grief more truthfully. So often I think I am only grieving one event, but something deeper inside me has been torn as well. You know what I lost, and You know how that loss shook my sense of safety, belonging, or future. Today I bring those deeper losses before You. Do not only comfort the surface of my emotions; come into the hidden places that keep aching underneath. Thank You for seeing more deeply than I do. Let my understanding and healing both grow slowly in Your light. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Ruth 1:20-21",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "20-21",
+              "translation": "KJV",
+              "text": "And she said unto them, Call me not Naomi, call me Mara... I went out full, and the LORD hath brought me home again empty..."
+            },
+            {
+              "display": "Psalm 42:3,5",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "3,5",
+              "translation": "KJV",
+              "text": "My tears have been my meat day and night... Why art thou cast down, O my soul?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "When Waiting Itself Becomes a Wound",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Proverbs 13:12",
+            "book_code": "PRO",
+            "chapter": 13,
+            "verses": "12",
+            "translation": "KJV",
+            "text": "Hope deferred maketh the heart sick..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some grief comes not from a final loss, but from long uncertainty. Waiting can be one of the hardest forms of sorrow because it does not offer a clean ending. There is no clear moment when you can say, \"This is over,\" and begin grieving accordingly. Instead, you live in suspension. You do not know whether to keep hoping, protect your heart, or start letting go.",
+            "Proverbs says, \"Hope deferred maketh the heart sick.\" Scripture recognizes that delay itself can wound. Repeatedly not knowing, repeatedly checking, and repeatedly waiting for change that does not come can wear down the spirit. You may not have formally lost what you long for, but part of you may already feel tired from carrying its absence.",
+            "Psalm 130 gives language to that ache. The psalmist waits for the Lord more than watchmen wait for the morning. That image shows waiting as active longing in darkness. It is not passive or shallow. It is costly hope.",
+            "**Uncertainty can become its own kind of grief.** If waiting has made your heart tired, let God hear that honestly today. **You do not need to pretend this in-between place is easy in order to remain faithful in it.** Sometimes faith looks like continuing to wait before God without denying how weary the waiting has made you.",
+            "Waiting may still remain painful, but you do not have to call it easy in order to keep bringing it to the Lord. The ache of delay still matters to Him. He can keep you company in the hallway of uncertainty and sustain a tired heart there. Even there, He does not withdraw from you. Even here, His faithfulness has not run out on you. He is still present in the long middle of it. And He will not abandon you there."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I admit that I am tired inside this waiting. Not every pain comes from a final loss. Some pain comes from the long absence of answers, change, or closure. You know how long I have lived in this in-between place, and You know how hard it is to tell whether I should keep hoping or begin letting go. Today I bring You the fatigue of waiting itself. See not only what I am waiting for, but how the waiting has wounded me. Before any answer arrives, hold my heart steady. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Proverbs 13:12",
+              "book_code": "PRO",
+              "chapter": 13,
+              "verses": "12",
+              "translation": "KJV",
+              "text": "Hope deferred maketh the heart sick..."
+            },
+            {
+              "display": "Psalm 130:5-6",
+              "book_code": "PSA",
+              "chapter": 130,
+              "verses": "5-6",
+              "translation": "KJV",
+              "text": "I wait for the LORD, my soul doth wait... My soul waiteth for the Lord more than they that watch for the morning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "How Jesus Walks with the Grieving",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "John 11:32-35",
+            "book_code": "JHN",
+            "chapter": 11,
+            "verses": "32-35",
+            "translation": "KJV",
+            "text": "Then when Mary was come where Jesus was... she said unto him, Lord, if thou hadst been here, my brother had not died... Jesus therefore saw her weeping... Jesus wept."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "In grief, it is easy to imagine God as distant - informed, powerful, and correct, but not emotionally near. When sorrow lasts, many people begin to picture Him as the One who knows the answer rather than the One who sits with them in the ache of not having it yet. That kind of distance can make prayer feel formal, even when the heart longs for comfort.",
+            "The story of Lazarus speaks directly against that fear. Jesus does not move around grief simply because He knows resurrection is coming. He sees sorrow, enters it, and weeps. That short verse, \"Jesus wept,\" carries enormous comfort. It tells us that divine knowledge does not cancel divine compassion.",
+            "Hebrews says that our great High Priest is able to be touched with the feeling of our infirmities. That means grief is not outside the reach of Christ’s sympathy. He is not emotionally detached from human suffering. He knows what sorrow feels like.",
+            "**Your sorrow is not a place where Jesus stands far away.** He comes near to it. **His first gift is not always explanation. Often it is compassionate presence.** If God feels distant today, bring that feeling to Him honestly. The Christ who wept is not offended by your grief. He meets it with His own tenderness.",
+            "His nearness may not always feel dramatic, but Scripture assures you that His compassion is real even when your emotions feel numb. His sympathy is not theoretical. It is personal. You do not need to force yourself into warmth before coming to Him. He is able to meet numbness with compassion too. His compassion does not wait for warmth before it comes close. He can stay close even when comfort feels delayed and quiet. He remains compassionate there too. Even when comfort feels far away. still."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, thank You that You are not a Lord who only knows my pain from a distance. You come near to it. You did not bypass human sorrow simply because You knew a larger ending. Let me experience Your nearness more truly today. If my heart still carries confusion, complaint, or the ache of “if only,” do not turn away from me because of it. Remind me that my grief is not beyond Your compassion. Let Your presence become my comfort, and quiet the voice inside me that keeps demanding I recover more quickly. And make me more like You in how I one day walk with others through sorrow. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "John 11:32-35",
+              "book_code": "JHN",
+              "chapter": 11,
+              "verses": "32-35",
+              "translation": "KJV",
+              "text": "Then when Mary was come where Jesus was... she said unto him, Lord, if thou hadst been here, my brother had not died... Jesus therefore saw her weeping... Jesus wept."
+            },
+            {
+              "display": "Hebrews 4:15",
+              "book_code": "HEB",
+              "chapter": 4,
+              "verses": "15",
+              "translation": "KJV",
+              "text": "For we have not an high priest which cannot be touched with the feeling of our infirmities..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "Let Your Body and Daily Life Join the Healing",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 23:1-3",
+            "book_code": "PSA",
+            "chapter": 23,
+            "verses": "1-3",
+            "translation": "KJV",
+            "text": "The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures... He restoreth my soul."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Grief does not live only in the soul. It often settles into the body and into daily rhythm. Sorrow has a physical life. It can alter sleep, appetite, attention, energy, and the felt weight of ordinary tasks. You may become more tired, less focused, or strangely overwhelmed by simple responsibilities. These are not always signs of failure. Often they are signs that the body, too, is carrying loss.",
+            "This matters because many people respond to grief only with ideas. They search for perspective while ignoring how deeply the body has been affected. Yet Psalm 23 presents the Lord as a Shepherd who leads beside still waters, makes His people lie down, and restores the soul. Restoration in that psalm is not hurried or abstract.",
+            "First Kings 19 shows something similar in Elijah’s collapse. God does not begin by giving a lecture. He gives food, sleep, and repeated care. Only then does further direction come.",
+            "**When God tends grief, He does not care only for your thoughts. He cares for your body and your daily life too.** **Simple acts of care can become part of your spiritual response to sorrow.** Resting, eating, and slowing down are not shallow substitutes for faith. They may be ways of receiving the Shepherd’s care in a season when your strength is low.",
+            "Sometimes the holiest thing you can do in grief is receive simple care without accusing yourself for needing it. Need is not a spiritual flaw. Receiving that kind of care is one way of letting grief be tended instead of merely managed. He knows how to care for tired bodies and guarded hearts together. And He does not ask your body to heal faster than grace is willing to shepherd it. His shepherding is patient and personal. He is gentle with slow recovery."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, help me not to dismiss the way grief has affected my whole self. You know my fatigue, my restless sleep, my low appetite, and the heaviness that makes ordinary things feel difficult. Thank You that You care not only about whether I think rightly, but also about whether I am being shepherded well. Teach me to look at myself more gently today. Help me receive rest, nourishment, quiet, and care without treating them as weakness. Lead me like a Shepherd to places of rest, and let both my body and my soul be slowly restored in You. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 23:1-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1-3",
+              "translation": "KJV",
+              "text": "The LORD is my shepherd; I shall not want. He maketh me to lie down in green pastures... He restoreth my soul."
+            },
+            {
+              "display": "1 Kings 19:5-8",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "5-8",
+              "translation": "KJV",
+              "text": "And as he lay and slept... Arise and eat... And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Day 6",
+      "title": "God Still Works in Broken Stories",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Ruth 1:20-21",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "20-21",
+            "translation": "KJV",
+            "text": "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "After deep disappointment, many people quietly decide never to hope so openly again. The decision is not always conscious. Sometimes it happens slowly. You become more cautious with desire. You hold back emotionally. You stop naming certain longings in prayer. Guardedness can feel safer than openness, and in the short term it often does protect you from some immediate vulnerability.",
+            "But over time, self-protection can become emotional closure. You are no longer only disappointed. You are also defended. That defense can begin to shape your whole posture toward God, people, and the future. You tell yourself not to expect much. Sometimes that is wisdom. Sometimes it is fear speaking in a wiser-sounding voice.",
+            "Naomi’s story matters here because she speaks her bitterness honestly, yet the story does not end there. She is not pushed into artificial positivity. And still, God continues working. Isaiah says, \"Behold, I will do a new thing.\" That promise does not erase the past. It reminds us that God’s creative faithfulness is not finished because our hearts have become cautious.",
+            "**Self-protection may feel safer, but it can also keep hope locked outside the door.** Ask God where disappointment has made you emotionally closed. **He is patient with guarded hearts, but He does not want fear to become their final shape.** Even a small willingness to reopen is a meaningful beginning.",
+            "Even a guarded heart can begin to soften again when it is met by the patient faithfulness of God rather than the pressure to recover quickly. He knows how to reopen what fear has closed. Even guarded hearts can relearn openness when they are given patient love instead of pressure to recover overnight. He can teach hope to breathe there again. more gently still. for your heart. That matters more than you know."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I admit that I am not always willing to expect new things anymore. After being hurt, closing my heart can feel safer. But You know that safety can also become isolation. Thank You that You do not stop working in a story because it has become bitter. Help me believe that brokenness is not the end and disappointment is not proof of Your absence. Even while I still carry pain, give me a little courage to notice the small signs of Your new work. If You are rebuilding quietly, give me a heart willing to be opened again by You. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Ruth 1:20-21",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "20-21",
+              "translation": "KJV",
+              "text": "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me..."
+            },
+            {
+              "display": "Isaiah 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "KJV",
+              "text": "Remember ye not the former things... Behold, I will do a new thing; now it shall spring forth..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Day 7",
+      "title": "Hope Can Return Slowly",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Romans 15:13",
+            "book_code": "ROM",
+            "chapter": 15,
+            "verses": "13",
+            "translation": "KJV",
+            "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Healing often does not arrive as a sudden feeling of being completely restored. More often, it looks like a heart that is slowly willing to open again. Questions may remain. Tender places may still ache. But something has changed. You are no longer only surviving the grief. You are beginning, however quietly, to live with it before God.",
+            "Romans calls God \"the God of hope.\" That matters because it locates hope outside your own emotional strength. Hope is not merely a positive mindset you must manufacture. It is something God gives. Revelation adds the future shape of that hope: God will wipe away every tear. That promise does not make your present sorrow unreal. It makes it temporary.",
+            "**Real hope does not deny that tears still exist. It trusts that tears will not speak the final word forever.** That distinction is crucial. Hope is not pretending the wound is gone. Hope is the quiet belief that God remains present, that your story remains held, and that sorrow will not reign indefinitely.",
+            "**Small hope is still real hope when it is held in the hands of God.** If despair has been loud, ask today not for forced optimism, but for the kind of hope that can breathe in the same room as grief. The God of hope is still able to meet you there and keep carrying your story forward.",
+            "Hope may still feel fragile, but fragile hope is not false hope when it is anchored in the character of God. And He is able to keep it alive. That kind of hope may feel quiet, but it can still keep a grieving heart from surrendering completely to despair. And He is strong enough to keep carrying it forward. for you today. in this season. Even now, He remains faithful. there."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You that through these seven days You have not been impatient with me, and You have not moved away because I still feel sorrow. Gently place hope back into my heart. It does not have to come dramatically, and it does not have to erase every ache at once. Let me know that I can open to You again. Thank You that You are the God of hope and the One who will one day wipe away every tear. Lead me slowly out of disappointment, and help me continue living with new tenderness, new trust, and new hope. And let the comfort I receive from You become, in time, comfort I can offer to others. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Romans 15:13",
+              "book_code": "ROM",
+              "chapter": 15,
+              "verses": "13",
+              "translation": "KJV",
+              "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost."
+            },
+            {
+              "display": "Revelation 21:4",
+              "book_code": "REV",
+              "chapter": 21,
+              "verses": "4",
+              "translation": "KJV",
+              "text": "And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

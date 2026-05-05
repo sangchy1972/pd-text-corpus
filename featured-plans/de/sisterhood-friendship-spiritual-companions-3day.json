@@ -1,0 +1,255 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI19",
+    "slug": "spiritual-companions",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "sisterhood-friendship",
+      "secondary_label": "Schwesternschaft und Freundschaft"
+    },
+    "tags": [
+      "freundschaft",
+      "schwesternschaft",
+      "gemeinschaft",
+      "eifersucht",
+      "unterstuetzung",
+      "schaerfen"
+    ],
+    "title": "Geistliche Begleiter",
+    "subtitle": "Die Freundschaft, die dich weitergehen lässt",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "sehnsüchtig nach Freundschaft",
+        "Eifersucht heilend",
+        "Gemeinschaft suchend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese drei Tage helfen dir zu erkennen, dass echte Freundschaft etwas ist, das die Seele wirklich stärkt und nährt.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#D8C8E0",
+      "color_secondary": "#4A2C5A",
+      "image_key": "cover_two_women_walking_warm_evening",
+      "icon": "two-hands-clasped-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Prediger 4:9-10",
+        "book_code": "ECC",
+        "chapter": 4,
+        "verses": "9-10"
+      },
+      {
+        "display": "Sprüche 27:17",
+        "book_code": "PRO",
+        "chapter": 27,
+        "verses": "17"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Wir alle brauchen Menschen, denen wir die Wahrheit sagen können",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Prediger 4:9-10",
+            "book_code": "ECC",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "Lutherbibel 1912",
+            "text": "Zwei sind besser denn einer; denn sie haben einen guten Lohn für ihre Arbeit. Denn so einer fällt, hilft ihm sein Geselle auf; wehe aber dem, der allein ist! Wenn er fällt, so ist kein anderer da, der ihm aufhelfe."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das Kostbarste an erwachsener Freundschaft ist nicht einfach, dass man jemanden zum Lachen hat, sondern dass man vor jemandem nicht vollkommen zurechtgemacht sein muss. Mit zunehmendem Alter werden viele von uns geschickt darin, zu funktionieren, zu erklären und uns selbst respektabel zu halten. Wir wissen, wie man nachdenklich, geistlich, witzig und nützlich ist. Aber diese Fähigkeiten können manchmal einen stillen Schmerz verbergen: es gibt sehr wenige Menschen, vor denen sich unsere wahre, unvollendete und zarte Seite sicher anfühlt.",
+            "Ich glaube, viele von uns kennen den Unterschied zwischen Gesellschaft und Sicherheit. Man kann von Menschen umgeben sein und sich doch tief einsam fühlen, wenn es keinen Platz gibt, an dem das wahre Selbst willkommen ist. Oft ist nicht der Rat das, was uns am meisten hält. Es ist die Erfahrung, aufgenommen zu werden, ohne vorher Stärke beweisen zu müssen. Gott trägt uns häufig durch diese Art von Begleitung. Er tröstet uns durch die Heilige Schrift und Gebet, ja, aber auch durch einen Freund, der zuhört, ohne zu eilen, bleibt, ohne Perfektion zu verlangen, und sich erinnert, was dir wichtig ist.",
+            "Der Prediger sagt, dass zwei besser sind als einer, und der Hebräerbrief fordert die Gläubigen auf, sich gegenseitig zur Liebe und zu guten Werken anzureizen. Geistliche Begleitung ist mehr als das Tun christlicher Dinge zusammen. Sie ist die Gnade, weniger allein in den tiefsten Teilen deines Lebens zu sein. Ein guter Freund macht Ehrlichkeit möglich. Er entfernt nicht das Bedürfnis nach Gott, aber er hilft dir oft, wahrer zu ihm zurückzukehren.",
+            "**Wahre Freundschaft macht Ehrlichkeit möglich.** Danke Gott heute für jeden, der diese Art von Gegenwart in deinem Leben war. Und wenn du nach einer solchen Freundschaft sehnst, bringe auch diese Sehnsucht zu Gott. Er weiß, wie sehr die Seele sichere Gesellschaft braucht."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke dir, dass du mich nicht allein gehen lässt. Hilf mir, die Freundschaften zu schätzen, die mich wirklich begleiten, und schenk mir mehr Beziehungen, die von Ehrlichkeit, Zärtlichkeit und gegenseitiger Stärke geprägt sind. Erleuchte auch die Vergleiche und Verletzungen in meinem Herzen, die ich lieber verbergen würde, damit ich mich nicht länger durch Unterdrückung selbst erhalte, sondern vor dir Ehrlichkeit und Reinigung lerne. Danke, dass du von meiner Schwachheit nicht abgestoßen wirst, sondern näher kommen, mich halten und mich unterrichten möchtest. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Prediger 4:9-10",
+              "book_code": "ECC",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "Lutherbibel 1912",
+              "text": "Zwei sind besser denn einer; denn sie haben einen guten Lohn für ihre Arbeit. Denn so einer fällt, hilft ihm sein Geselle auf; wehe aber dem, der allein ist! Wenn er fällt, so ist kein anderer da, der ihm aufhelfe."
+            },
+            {
+              "display": "Hebräer 10:24-25",
+              "book_code": "HEB",
+              "chapter": 10,
+              "verses": "24-25",
+              "translation": "Lutherbibel 1912",
+              "text": "Und laßt uns aufeinander Acht haben und reizen einander zur Liebe und zu guten Werken; und nicht verlassen unsere Versammlungen, wie etliche eine Gewohnheit haben, sondern einander ermuntern, und das um so viel mehr, je mehr ihr sehet, daß sich der Tag nahet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Verstanden zu sein tröstet tiefer als nur Gesellschaft",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Ruth 1:16",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "16",
+            "translation": "Lutherbibel 1912",
+            "text": "Ruth sprach: Treibe mich nicht, daß ich dich verlassen soll und von dir umkehren muß. Wo du hin gehst, da will ich hin gehen; wo du bleibst, da bleibe ich auch. Dein Volk ist mein Volk, und dein Gott ist mein Gott."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Nicht jede Art von Begleitung erreicht das Herz. Viele von uns haben erlebt, gesellschaftlich sehr beschäftigt zu sein und doch innerlich einsam zu sein. Es kann Gespräche, Treffen, Nachrichten und Aktivität geben, und doch bleibt etwas Wesentliches unberührt. Was die Seele am tiefsten tröstet, ist nicht einfach, dass jemand anwesend ist. Es ist, dass jemand versteht. Sie kennen den Unterschied zwischen deinen höflichen Antworten und deiner wirklichen Erschöpfung. Sie hören den Schmerz unter dem Satz. Sie erinnern sich, was für dich schwer war.",
+            "Das ist ein Teil dessen, was Ruths Begleitung so schön macht. Ihre Sorge war nicht auffällig. Sie blieb. Sie blieb in einer Zeit der Trauer und Unsicherheit nah. In der erwachsenen Freundschaft ist diese Art von Beständigkeit selten und wertvoll. Menschen können in Momenten der Freude auftauchen, aber nicht jeder weiß, wie man durch Müdigkeit, Trauer, Verwirrung oder Veränderung bleibt.",
+            "Verstanden zu werden tröstet die Seele auf eine Weise, wie Lärm es nie kann. Aktivität kann uns einen Abend lang ablenken, aber Verständnis gibt Ruhe. Es stellt das Gefühl wieder her, im Herzen einer anderen Person gehalten zu werden. Ich denke, das ist eines von Gottes stillen Geschenken in der Freundschaft. Er entfernt nicht immer unsere Einsamkeit sofort, aber manchmal antwortet er darauf, indem er uns jemanden gibt, der weiß, wie man nah genug bleibt, um zu verstehen.",
+            "Diese Art von Freundschaft löst nicht jeden Schmerz, aber sie lässt die Einsamkeit nicht das letzte Wort haben. Sie lässt die Seele wieder atmen.",
+            "**Die Schönheit von Freundschaft liegt nicht nur im Erscheinen, sondern im Bleiben.** Bitte Gott heute nicht nur um Spaß und Leichtigkeit, sondern um echte Beziehungen. Und bitte ihn, dass er auch in dir die Kraft zum Bleiben weckt, wenn andere dich brauchen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, schenk mir Freundschaften, die bleiben können, und mache mich selbst zu jemandem, der nicht leicht abzieht. Lass mich nicht nur Gesellschaft haben, sondern auch die Gnade, wirklich verstanden zu werden. Wenn ich mich danach sehne, jetzt auf diese Weise erkannt zu werden, erfülle mich. Und wenn du mich zuerst lehrst, diese Art von Freund zu werden, gib mir Geduld, Zärtlichkeit und den Willen zu bleiben. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Ruth 1:16",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "16",
+              "translation": "Lutherbibel 1912",
+              "text": "Ruth sprach: Treibe mich nicht, daß ich dich verlassen soll und von dir umkehren muß. Wo du hin gehst, da will ich hin gehen; wo du bleibst, da bleibe ich auch. Dein Volk ist mein Volk, und dein Gott ist mein Gott."
+            },
+            {
+              "display": "Sprüche 17:17",
+              "book_code": "PRO",
+              "chapter": 17,
+              "verses": "17",
+              "translation": "Lutherbibel 1912",
+              "text": "Ein Freund liebet allezeit, und ein Bruder ist für die Trübsal da."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Gott hält uns oft durch Freundschaft",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 27:17",
+            "book_code": "PRO",
+            "chapter": 27,
+            "verses": "17",
+            "translation": "Lutherbibel 1912",
+            "text": "Ein Schwert wettet das andere, und ein Mann wettet das Angesicht eines anderen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal sprechen wir so über Abhängigkeit von Gott, dass wenig Raum für menschliche Begleitung bleibt, als wäre das Bedürfnis nach anderen Menschen automatisch ein Zeichen geistlicher Schwäche. Doch die Heilige Schrift stellt das christliche Leben nicht so dar. Der Galaterbrief fordert uns auf, die Lasten voneinander zu tragen. Die Sprüche sprechen davon, dass Freunde sich gegenseitig schärfen. Gott wirkt manchmal direkt auf Menschen ein, aber er wirkt auch durch Menschen.",
+            "Geistliche Freundschaft konkurriert nicht mit Gott. Sie arbeitet mit seiner Sorge zusammen. Ein guter Freund sitzt bei Trauer, ohne sie wegzuraffen. Sie erinnert dich an Wahrheit, wenn dein eigenes Herz nebelig ist. Sie betet für dich, wenn du keine Worte mehr hast. Sie wird nicht dein Retter, aber sie wird einer der Wege, auf denen Gott dich davor bewahrt, dich verlassen zu fühlen.",
+            "Wenn wir diese Güte erkennen, kann Dankbarkeit selbst die Freundschaft vertiefen. Wir beginnen, Begleitung als eines von Gottes bewussten Geschenken zu sehen, nicht nur als angenehme Zugabe. Wir werden auch ein wenig demütiger, denn das Empfangen von Unterstützung ist seine eigene Art von Demut.",
+            "Viele von uns können sich an eine Zeit erinnern, die nicht sofort leichter wurde, aber erträglicher wurde, weil jemand in der Nähe blieb. Das ist kein Beweis dafür, dass unser Glaube schwach war. Es kann ein Beweis dafür sein, dass Gott durch menschliche Hände und menschliche Gegenwart gütig war. Wir wurden nicht dafür entworfen, nur durch private Stärke zu überleben.",
+            "**Manchmal erreicht Gottes Fürsorge uns im Gesicht eines Freundes.** Danke Gott heute für diese Gnade, wo du sie erfahren hast. Und frag ihn, ob er dich einlädt, diese Art von stärkendem Vorhandensein für jemand anderen zu werden."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke dir, dass du Menschen oft durch Freundschaft hältst. Danke, dass du mich nicht nur auf private Stärke allein anweist, und dass dein Trost so oft in menschlicher Form kommt. Hilf mir, diese Gnade zu schätzen, und mache mich zu jemandem, der andere wahrhaft unterstützt, in ihrer Nähe bleibt und sie zu dir zurückbringt. Wenn jemand um mich herum treue Begleitung braucht, gib mir Einfühlungsvermögen und Beständigkeit, um gut mit ihr zu gehen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 27:17",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "17",
+              "translation": "Lutherbibel 1912",
+              "text": "Ein Schwert wettet das andere, und ein Mann wettet das Angesicht eines anderen."
+            },
+            {
+              "display": "Galater 6:2",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "2",
+              "translation": "Lutherbibel 1912",
+              "text": "Einer trage des anderen Last, so werdet ihr das Gesetz Christi erfüllen."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

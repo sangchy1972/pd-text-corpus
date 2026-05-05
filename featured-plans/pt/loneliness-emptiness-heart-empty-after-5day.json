@@ -1,0 +1,379 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG11",
+    "slug": "heart-empty-after",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardim das Emoções",
+      "secondary": "loneliness-emptiness",
+      "secondary_label": "Solidão e Vazio"
+    },
+    "tags": [
+      "solidao",
+      "vazio",
+      "pertencimento",
+      "presenca-de-deus",
+      "comunhao"
+    ],
+    "title": "Por Que Meu Coração Ainda Se Sente Vazio Depois que Tudo Termina",
+    "subtitle": "Para a mulher cuja vida não é vazia por fora, mas ainda se sente estranhamente oca quando o dia fica quieto.",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "solitária",
+        "vazia",
+        "invisível"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para a mulher cuja vida não é vazia por fora, mas ainda se sente estranhamente oca quando o dia fica quieto.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#C8D2DA",
+      "color_secondary": "#4A5563",
+      "image_key": "cover_woman_quiet_room_lamp_evening_loneliness",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 25:16",
+        "book_code": "PSA",
+        "chapter": 25,
+        "verses": "16"
+      },
+      {
+        "display": "Salmo 68:6",
+        "book_code": "PSA",
+        "chapter": 68,
+        "verses": "6"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Uma Agenda Cheia Nem Sempre Enche um Coração Vazio",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 25:16",
+            "book_code": "PSA",
+            "chapter": 25,
+            "verses": "16",
+            "translation": "Almeida",
+            "text": "Volta-te para mim e tem misericórdia de mim; pois sou desolado e aflito."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Algumas solidões não desaparecem só porque há pessoas ao seu redor. Você pode passar horas falando, trabalhando, servindo, respondendo, comparecendo ou cuidando de outros e ainda se sentir profundamente sozinha quando o barulho se acalma. Isso acontece porque ocupação e conexão não são a mesma coisa. Ser necessária não é o mesmo que ser conhecida. Uma agenda cheia pode esconder a solidão sem curá-la.",
+            "Muitas mulheres são especialmente vulneráveis a esse tipo de isolamento oculto porque são hábeis em manter as coisas juntas para todos os outros. Elas mantêm a conversa fluindo, lembram do que precisa ser feito e permanecem emocionalmente disponíveis. Outros podem vê-las como cercadas e apoiadas, enquanto interiormente elas se sentem intocadas. Ninguém pode perceber como frequentemente estão executando conexão em vez de experimentá-la.",
+            "Os salmos ajudam ao fornecer linguagem direta: \"Sou desolada e aflita.\" A Escritura não pede que você renomeie a solidão como mero cansaço. Ela oferece permissão para chamar pelo que é. Essa honestidade é o início da liberdade.",
+            "**Uma vida ocupada nem sempre silencia a solidão, porque a solidão não é meramente a ausência de barulho. Frequentemente, é a ausência de conexão interior profunda.** Se você continuar tratando a solidão com mais estímulo, pode permanecer distraída sem nunca ser confortada.",
+            "Hoje, pergunte a si mesma gentilmente: o que você usa mais frequentemente para evitar se sentir sozinha? **Às vezes, a própria coisa que nos mantém de sentir solidão por um momento também nos impede de trazê-la honestamente diante de Deus.** Deixe-se ficar quieta tempo suficiente para notar o que emerge. Não se apresse em cobrir. O Senhor frequentemente começa Sua obra mais profunda nos lugares onde paramos de nos anestesiar."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, admito que minha vida pode parecer cheia e ainda se sentir sozinha por dentro. Obrigada por não exigir que eu mantenha a aparência de plenitude antes de você chegar perto. Ajude-me a parar de cobrir o vazio interior com barulho e ocupação. Se o silêncio revelar minha solidão, encontre-me lá. Evite que eu viva apenas no papel de ser necessária enquanto esqueço que também preciso ser vista e confortada. Torne-se para mim Aquele que não tenho medo no silêncio. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 25:16",
+              "book_code": "PSA",
+              "chapter": 25,
+              "verses": "16",
+              "translation": "Almeida",
+              "text": "Volta-te para mim e tem misericórdia de mim; pois sou desolado e aflito."
+            },
+            {
+              "display": "Salmo 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "Derrama o teu coração perante ele; Deus é nosso refúgio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Às Vezes a Ocupação Também É Uma Forma de Se Esconder",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Lucas 10:40-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "40-42",
+            "translation": "Almeida",
+            "text": "Marta estava ocupada com muito serviço... Jesus respondeu: Marta! Marta! Estás ansioso e perturbado com muitas coisas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Algum vazio vem não da falta de atividade, mas de dar muito de si mesmo por muito tempo. Você continua cuidando, respondendo, ajudando, compreendendo e mantendo espaço para outros até que um dia perceba que não tem mais certeza do que está acontecendo dentro de você. Você sabe o que as outras pessoas precisam, mas não sabe mais como responder à pergunta simples: \"Como eu realmente estou?\"",
+            "Muitas mulheres experimentam esse tipo de depleção porque foram treinadas a permanecer atentas externamente. Elas se tornam hábeis em trabalho emocional, responsabilidade e serviço invisível. O problema não é que essas coisas sejam ruins. O problema é que uma pessoa pode permanecer externamente fiel enquanto se torna interiormente estranha a si mesma.",
+            "A história de Marta é útil aqui. Ela não é repreendida por ser preguiçosa. Ela é perturbada por muitas coisas. Seu serviço se tornou desconectado da presença tranquila. Essa desconexão frequentemente leva ao vazio. Você continua se dando, mas nada está devolvendo vida ao mundo interior.",
+            "**Uma pessoa que passa muito tempo iluminando a sala para todos os outros pode lentamente parar de notar que sua própria alma se apagou.** Isso não é egoísmo. É uma descrição honesta de depleção.",
+            "Hoje, pergunte a si mesma gentilmente: o que tenho precisado por muito tempo? **Às vezes, o primeiro passo para sair do vazio não é fazer mais, mas ser honesta sobre há quanto tempo você vive sem cuidado interior.** Deus não o vê apenas como fonte de ajuda para outras pessoas. Ele o vê como alguém que também deseja ser pastor."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, admito que estou tão acostumada a cuidar de outros e virar minha atenção para fora que às vezes não noto mais como fico vazia por dentro. Obrigada por não me ver apenas como alguém que dá, mas como alguém que você deseja ser pastor. Ajude-me a voltar ao meu próprio coração e de volta à sua presença. Dê-me honestidade sobre meu cansaço, minhas necessidades e meus anseios em vez de me esconder atrás da responsabilidade. Restaure minha alma, e deixe-me não apenas continuar dando, mas começar a receber de você novamente. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Lucas 10:40-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "40-42",
+              "translation": "Almeida",
+              "text": "Marta estava ocupada com muito serviço... Jesus respondeu: Marta! Marta! Estás ansioso e perturbado com muitas coisas."
+            },
+            {
+              "display": "Salmo 23:1-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1-3",
+              "translation": "Almeida",
+              "text": "O Senhor é meu pastor... ele restaura minha alma."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Ser Necessária Não É o Mesmo que Estar Preenchida",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "João 4:13-14",
+            "book_code": "JHN",
+            "chapter": 4,
+            "verses": "13-14",
+            "translation": "Almeida",
+            "text": "Jesus respondeu: Quem beber desta água terá sede novamente; mas quem beber da água que eu der nunca mais terá sede."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Há algo muito familiar em ter uma vida que não parece vazia, mas ainda se sente oca por dentro. Você compra algo bonito, planeja uma refeição confortante, cria uma noite tranquila ou se oferece uma pequena recompensa após um dia difícil. Nenhuma dessas coisas é errada. Algumas delas são gentis e necessárias. Mas muitas mulheres conhecem o sentimento estranho que pode seguir: o conforto chega por um momento e então o vazio retorna.",
+            "Isso acontece porque presentes não podem suportar o peso da salvação. Uma refeição pode alimentá-la, a beleza pode revitalizá-la e o descanso pode ajudá-la a respirar, mas nenhuma delas pode se tornar a resposta final para a sede interior. Quando silenciosamente esperamos que as coisas criadas façam o que apenas Deus pode fazer, até mesmo confortos bons começam a nos decepcionar.",
+            "Jesus diz à mulher samaritana que quem bebe a água que Ele dá nunca terá sede da mesma forma novamente. Ele não está condenando prazeres ordinários. Ele está expondo uma necessidade mais profunda. Alguma sede não se trata do que você tem ao seu redor. É sobre o que sua alma está perdendo por dentro.",
+            "**Uma vida plena por fora pode confortá-la por um momento, mas não pode satisfazer completamente a fome mais profunda do coração.** Isso não é razão para vergonha. É um convite para a honestidade. A questão não é se você pode apreciar presentes. A questão é se você está silenciosamente pedindo aos presentes que se tornem seu deus.",
+            "Hoje, faça uma pausa antes da próxima coisa que instintivamente procura. **Às vezes, o início da plenitude real é simplesmente admitir que o que você tem fome é mais profundo do que prazer, barulho ou distração pode satisfazer.** Deus não está tentando privá-la de conforto. Ele está tentando levá-la para o tipo que não desaparece tão rápido."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada pelos presentes ordinários que você dá, e obrigada por não permitir que esses presentes fingir que podem substituir você. Você sabe como rapidamente procuro algo para preencher, confortar ou adormecer o vazio. Hoje, ajude-me a admitir mais honestamente que parte de minha fome é mais profunda do que o conforto externo pode satisfazer. Guarde meu coração de transformar presentes em salvadores. E conforme recebo as coisas boas que você dá, vire-me mais profundamente para você, porque apenas você pode realmente satisfazer o que está vazio em mim. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "João 4:13-14",
+              "book_code": "JHN",
+              "chapter": 4,
+              "verses": "13-14",
+              "translation": "Almeida",
+              "text": "Jesus respondeu: Quem beber desta água terá sede novamente; mas quem beber da água que eu der nunca mais terá sede."
+            },
+            {
+              "display": "Salmo 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "Almeida",
+              "text": "Na sua presença há plenitude de alegria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Deus Não Apenas Consola Meu Vazio; Ele Pode Preenchê-lo",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Efésios 3:17-19",
+            "book_code": "EPH",
+            "chapter": 3,
+            "verses": "17-19",
+            "translation": "Almeida",
+            "text": "Para que Cristo habite em vossos corações pela fé... e possais ser cheios de toda plenitude de Deus."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas pessoas esperam que Deus simplesmente as ajude a suportar o vazio. Essa esperança importa, mas a Escritura oferece algo maior. Deus não apenas fica ao lado do seu vazio em simpatia. Ele é capaz de preencher o que foi esvaziado. A oração de Paulo em Efésios é notável porque ele não ora meramente por alívio. Ele ora para que Cristo habite nos corações dos crentes e para que eles sejam preenchidos com toda a plenitude de Deus.",
+            "Isso significa que a plenitude espiritual não é uma frase de igreja abstrata. É um trabalho real de Deus dentro da vida interior. Muitas mulheres silenciosamente se veem como \"a que carece\". Elas comparam suas vidas com outros e assumem que se apenas tivessem o relacionamento certo, a estação certa, o círculo certo ou a segurança certa, o vazio finalmente terminaria. Mas o evangelho não começa dizendo para você montar tudo o que lhe falta. Começa dizendo que Cristo está disposto a habitar em você.",
+            "**Deus não apenas simpatiza com seu vazio. Ele é capaz de habitá-lo.** Isso muda toda a maneira como você entende a necessidade. Você ainda pode desejar relacionamentos saudáveis e companhia significativa, mas essas coisas não mais se sustentam como sua única esperança de se sentir inteira.",
+            "Hoje, nomeie o lugar mais vazio em você. **Não peça apenas pela sobrevivência. Peça pela plenitude da habitação.** O Senhor não se ofende com essa oração. Ele é Aquele que o ensinou a esperá-la."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada por não deixar meu vazio intocado. Você não apenas me consola; você começa a me reconstruir. Trabalhe em mim para que eu não me agarre tão desesperadamente, não me proteja tão rigidamente e não peça às pessoas que sejam minha fonte de vida final. Se você está me levando de volta à conexão, dê-me coragem para um pequeno passo e sabedoria para saber onde segurança e verdade podem ser encontradas. Deixe-me estar mais firme em seu amor, e a partir daí aprenda a amar novamente. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Efésios 3:17-19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "17-19",
+              "translation": "Almeida",
+              "text": "Para que Cristo habite em vossos corações pela fé... e possais ser cheios de toda plenitude de Deus."
+            },
+            {
+              "display": "Salmo 107:9",
+              "book_code": "PSA",
+              "chapter": 107,
+              "verses": "9",
+              "translation": "Almeida",
+              "text": "Porque satisfaz a alma anelante e enche de bens a alma faminta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "Quando Deus Enche o Coração, a Vida Fica Cheia Novamente",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 68:6",
+            "book_code": "PSA",
+            "chapter": 68,
+            "verses": "6",
+            "translation": "Almeida",
+            "text": "Deus faz habitar em casa os solitários."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O vazio prolongado frequentemente distorce a forma como nos relacionamos com as pessoas. Alguns começam a se agarrar muito, esperando que outra pessoa finalmente complete o que parece vazio. Outros se retiram quase completamente, convencidos de que ninguém realmente entenderá. A cura de Deus não nos deixa presos em nenhum dos padrões. Ele nos preenche primeiro para que o relacionamento se torne conexão em vez de desespero.",
+            "O Salmo 68 diz que Deus coloca o solitário em famílias. Esse tipo de pertencimento não é meramente uma colocação externa. Deus frequentemente constrói um sentimento de lar interior antes de nos ensinar como reconectar externamente. Quando o coração começa a descansar nele, ele não pede mais a cada relacionamento para carregar peso impossível.",
+            "**Quando Deus enche o coração, ele começa a amar mais livremente em vez de se agarrar mais temerariamente.** Isso não significa que você pare de desejar companhia. Significa que companhia não precisa mais funcionar como sua única fonte de vida. Você pode se mover em direção às pessoas com mais honestidade, mais estabilidade e menos desespero.",
+            "Hoje, peça a Deus por um pequeno passo em direção à conexão saudável. **Um coração preenchido não para de precisar de pessoas, mas para de torná-las responsáveis por ser Deus.** É aí que o amor se torna mais livre, mais gentil e mais real."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada por não deixar meu vazio intocado. Você não apenas me consola; você começa a me reconstruir. Trabalhe em mim para que eu não me agarre tão desesperadamente, não me proteja tão rigidamente e não peça às pessoas que sejam minha fonte de vida final. Se você está me levando de volta à conexão, dê-me coragem para um pequeno passo e sabedoria para saber onde segurança e verdade podem ser encontradas. Deixe-me estar mais firme em seu amor, e a partir daí aprenda a amar novamente. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 68:6",
+              "book_code": "PSA",
+              "chapter": 68,
+              "verses": "6",
+              "translation": "Almeida",
+              "text": "Deus faz habitar em casa os solitários."
+            },
+            {
+              "display": "1 João 4:19",
+              "book_code": "1JN",
+              "chapter": 4,
+              "verses": "19",
+              "translation": "Almeida",
+              "text": "Nós o amamos porque ele nos amou primeiro."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

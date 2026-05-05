@@ -1,0 +1,374 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS05",
+    "slug": "grace-on-balance-beam",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Saisons de la Vie",
+      "secondary": "full-bloom",
+      "secondary_label": "Pleine Floraison"
+    },
+    "tags": [
+      "mi-carriere",
+      "mariage",
+      "argent",
+      "maison",
+      "equilibre",
+      "responsabilite"
+    ],
+    "title": "Grâce sur la Poutre d'Équilibre",
+    "subtitle": "Tenir le travail, l'amour et la responsabilité sans perdre votre centre",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "trentaine-quarantaine",
+        "mi-carrière"
+      ],
+      "emotional_state": [
+        "responsable",
+        "tiraillée",
+        "cherchant l'équilibre"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour la femme qui essaie de soutenir le travail, l'amour, la responsabilité et les exigences quotidiennes sans perdre son centre spirituel.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_open_field_summer_balance",
+      "icon": "bouquet-of-wheat-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Proverbes 4:23,26",
+        "book_code": "PRO",
+        "chapter": 4,
+        "verses": "23,26"
+      },
+      {
+        "display": "Ésaïe 40:29,31",
+        "book_code": "ISA",
+        "chapter": 40,
+        "verses": "29,31"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "L'Équilibre n'est pas Poids Égal Partout",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 4:23,26",
+            "book_code": "PRO",
+            "chapter": 4,
+            "verses": "23,26",
+            "translation": "Louis Segond 1910",
+            "text": "Garde ton cœur plus que toute autre chose, car de lui viennent les sources de la vie. Examine la voie de tes pieds, et toutes tes voies seront sûres."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Pour beaucoup de femmes, le mot équilibre est déjà épuisant. La vie réelle ne se divise jamais équitablement. Le travail s'accélère. Les besoins familiaux changent. Les enfants tombent malades. Les parents demandent attention. Le corps réclame ce qui a été négligé. Les relations ne respectent pas le calendrier convenable. L'équilibre, alors, n'est généralement pas un rapport parfait. C'est un ajustement permanent du poids et de l'attention.",
+            "Le danger vient quand l'équilibre devient une autre norme impossible : je dois m'occuper de tout bien, tout à la fois, sans rien laisser tomber d'important. Cette version de l'équilibre écrase silencieusement l'âme.",
+            "Les Proverbes offrent une image plus profonde. Ils nous disent de garder le cœur avec diligence et d'affermir les chemins de nos pieds. Beaucoup de femmes en périodes pleines ne sont pas irresponsables ou spirituellement indifférentes. Elles sont étirées entre de nombreuses exigences légitimes. La question centrale devient non pas si elles servent, mais si elles demeurent ancrées en servant.",
+            "**Le premier pas vers l'équilibre n'est pas de gérer chaque part de la vie également. C'est de garder le cœur et d'affermir le chemin sous vos pieds.** Vous pouvez toujours avoir un emploi du temps complet aujourd'hui, mais vous pouvez vous poser une meilleure question : qu'est-ce qui a le plus besoin d'être affermi d'abord ? Ma vie intérieure ? Mon corps ? Une conversation ? Un fardeau dont j'ai besoin d'arrêter de porter ?",
+            "Dieu ne vous mesure pas selon l'équilibre sans faille. Il vous invite à vous souvenir où se trouve votre centre au milieu de nombreuses exigences."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'avoue que je suis souvent pressée non par de mauvaises choses, mais par beaucoup de bonnes et de nombreuses choses à la fois. Délivre-moi de la pression de gérer tout parfaitement, et garde-moi de transformer l'équilibre en une autre forme d'esclavage. Merci de me rappeler que ce qui doit d'abord être gardé est le cœur dedans. Ramène mon cœur face à Toi, pour qu'en une vie très pleine je retrouve d'abord mon centre. Montre-moi ce que je dois reposer, ce que je dois traiter, et où devenir quiet. Que Ta grâce non seulement m'aide à endurer la complexité, mais m'enseigne l'ordre intérieur en elle. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 4:23,26",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23,26",
+              "translation": "Louis Segond 1910",
+              "text": "Garde ton cœur plus que toute autre chose, car de lui viennent les sources de la vie. Examine la voie de tes pieds, et toutes tes voies seront sûres."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "La Charge Mentale est Aussi un Poids Réel",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 62:1-2",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "1-2",
+            "translation": "Louis Segond 1910",
+            "text": "Mon âme se repose en silence sur Dieu; de lui vient mon salut. Lui seul est mon rocher et mon salut..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Les femmes en périodes exigeantes portent souvent plus que les tâches visibles. Elles portent la charge mentale. Pendant qu'elles travaillent, elles pensent déjà au dîner. Pendant qu'elles conduisent, elles se souviennent des rendez-vous. Pendant qu'elles font la vaisselle, elles considèrent la santé d'un parent. Pendant qu'elles budgètent, elles anticipent la prochaine dépense inattendue. Pas tout se passe aujourd'hui, mais tout reste ouvert dedans.",
+            "D'autres peuvent ne pas voir ce type de poids, mais il est réel. Il épuise une personne de l'intérieur et rend le repos vrai difficile même quand elle s'assoit.",
+            "Le Psaume 62 donne une image différente. David dit que son âme attend silencieusement Dieu, et que Dieu seul est son rocher et son salut. La beauté de cette image est qu'elle ne dépend pas d'une vie simple. Elle décrit une stabilité intérieure qui retourne à Dieu au lieu de se resserrer autour de tout à la fois. Pour beaucoup de femmes, la partie la plus difficile n'est pas de compléter la liste. C'est d'apprendre à ne pas tenir toute la liste à l'intérieur de son corps tout le temps.",
+            "**La grâce commence parfois non en enlevant les tâches, mais en enseignant au cœur de ne pas saisir tout à la fois.** La responsabilité demeurera, mais l'étreinte intérieure n'a pas à régner. Certaines choses appartiennent au moment présent. D'autres peuvent être nommées et relâchées pour l'instant.",
+            "Demandez-vous honnêtement aujourd'hui : qu'est-ce que je porte mentalement qui n'a pas besoin d'être porté en ce moment ? Apportez ces choses devant Dieu une par une. Non pour éviter la responsabilité, mais pour être libérée de vivre dans un état constant de surcharge interne."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, Tu sais combien d'onglets sont ouverts à l'intérieur de moi tout le temps. Beaucoup de choses ne se sont pas encore produites, et pourtant je les porte déjà dans mon esprit. Beaucoup de responsabilités n'appartiennent pas à aujourd'hui, et pourtant j'ai déjà dépensé de la force sur elles. Merci de Te soucier non seulement de mon travail visible, mais aussi de la tension prolongée à l'intérieur de moi. Enseigne-moi comment calmer mon cœur, non en évitant ce qui est mien à faire, mais en ne saisissant plus tout à la fois. Aide-moi à nommer mes soucis devant Toi et à laisser ce qui n'appartient pas à ce moment. Que Ta grâce non seulement m'aide à continuer, mais m'enseigne aussi à devenir calme dedans. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 62:1-2",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "1-2",
+              "translation": "Louis Segond 1910",
+              "text": "Mon âme se repose en silence sur Dieu; de lui vient mon salut. Lui seul est mon rocher et mon salut..."
+            },
+            {
+              "display": "1 Pierre 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Louis Segond 1910",
+              "text": "Remettez-lui tous vos soucis, car il prend soin de vous."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Dire Assez peut être un Acte de Sagesse",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ecclésiaste 3:1",
+            "book_code": "ECC",
+            "chapter": 3,
+            "verses": "1",
+            "translation": "Louis Segond 1910",
+            "text": "Il y a un temps pour tout, un temps pour chaque chose sous le ciel."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Aux années pleines de la vie, beaucoup de femmes ne manquent pas de volonté. Elles ont simplement devenu surexposées par réflexe. Quand quelqu'un a besoin d'aide, elles interviennent. Quand une lacune apparaît, elles la comblent. Quand le travail laisse un peu de place, plus y est placé. Avec le temps, dire « je ne peux pas continuer à ajouter » devient plus difficile que de continuer à porter.",
+            "Nous mal interprétons souvent les limites. Nous les appelons égoïsme. Nous imaginons que s'arrêter signifie échouer. Nous traitons la finitude humaine comme une faille morale. Mais l'Ecclésiaste nous rappelle qu'il y a un temps pour les choses. Pas tout appartient au même laps de temps. Pas chaque saison ne peut tenir le même volume.",
+            "Même Jésus s'éloignait pour prier. Il ne laissait pas le besoin seul dicter tout son rythme. C'est important. Les limites ne sont pas la preuve que vous ne vous souciez pas. Souvent, elles sont la preuve que vous vous souciez de choses plus profondes : que votre cœur ne devienne pas dur, que votre corps ne s'effondre pas, que les relations ne deviennent pas purement fonctionnelles, et que votre vie intérieure ne reste pas négligée.",
+            "**La maturité n'est pas l'expansion personnelle sans fin. C'est d'apprendre à honorer vos limites données par Dieu comme partie de la gérance fidèle.** Dire assez n'est pas sans amour. C'est une façon de se souvenir que vous n'êtes pas Dieu.",
+            "Demandez-vous où vous avez le plus besoin de dire assez. Peut-être pas comme un retrait total, mais comme une limite plus sage autour du rythme, du volume ou de l'attente. La grâce ne vous dit pas toujours de porter plus. Parfois elle vous enseigne comment porter avec vérité."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'avoue que j'échange souvent l'indisponibilité sans fin pour de l'amour, et la capacité constante pour la responsabilité. Mais Tu sais où je suis déjà devenue mince, dure, et simplement fonctionnelle. Donne-moi la sagesse de faire face à mes vraies limites honnêtement, et le courage de dire assez où assez doit être dit. Garde-moi de tomber dans la culpabilité quand j'établis une limite, et garde-moi de me mépriser d'être finie. Merci que Tu aies Toi-même vécu avec ordre et rythme. Enseigne-moi non pas toujours à porter plus, mais à porter fidèlement, clairement et durablement devant Toi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ecclésiaste 3:1",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "1",
+              "translation": "Louis Segond 1910",
+              "text": "Il y a un temps pour tout, un temps pour chaque chose sous le ciel."
+            },
+            {
+              "display": "Marc 1:35,37-38",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35,37-38",
+              "translation": "Louis Segond 1910",
+              "text": "Le matin, avant le jour, il se leva, et sortit pour aller dans un lieu désert, où il pria... Tous te cherchent. Il leur dit : Allons ailleurs... Je dois aussi annoncer la bonne nouvelle dans les autres villes..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Parfois ce qui Doit être Réordonné n'est pas seulement l'Horaire, mais les Priorités",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Aggée 1:5,7",
+            "book_code": "HAG",
+            "chapter": 1,
+            "verses": "5,7",
+            "translation": "Louis Segond 1910",
+            "text": "Considérez maintenant comment vous allez. Écoutez bien..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de femmes aux charges élevées ont essayé de corriger leurs vies avec une meilleure planification. Se lever plus tôt. Utiliser un meilleur planificateur. Code couleur de la semaine. Tâches groupées. Bloquer le temps du travail. Partager les tâches ménagères. Ces choses peuvent aider. Mais parfois la question plus profonde n'est pas la technique. C'est les priorités dérivées.",
+            "Nous pouvons devenir très bons à préserver ce qui semble urgent, visible, mesurable ou publiquement nécessaire tout en sacrifiant lentement ce qui est fondamental : la prière, le repos, le soin du corps, la patience, l'attention, la tendresse, et la santé spirituelle. L'appel de l'Aggée à « examinez vos voies » parle à cela. Les gens peuvent être diligents et quand même désorganisés.",
+            "C'est un danger des saisons pleines. La vie continue, mais ce qui est central commence à s'affiner. Une femme peut rester très fonctionnelle tandis que sa vie plus profonde devient progressivement négligée.",
+            "**Parfois la sagesse que Dieu donne n'est pas une plus grande efficacité, mais un meilleur ordre.** Ce genre de sagesse pose des questions plus difficiles. Qu'est-ce que j'ai continué à protéger ? Qu'est-ce que j'ai continué à reporter ? Qu'est-ce qui est devenu silencieusement normal et ne devrait pas l'être ?",
+            "Vous n'avez peut-être pas besoin de tout reconstruire aujourd'hui. Mais vous avez peut-être besoin de laisser Dieu éclairer le lieu où vos priorités ont été mal alignées pendant trop longtemps. Réordonner n'est pas l'échec. Souvent c'est le début de la restauration."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, éclaire-moi, non seulement pour que je voie comme je suis occupée, mais aussi pour que je voie si je suis déjà devenue occupée de manière désorganisée. Si j'ai continué à protéger ce qui est urgent, visible, et extérieurement nécessaire tout en négligeant longtemps ce qui est plus fondamental, aie pitié de moi et réveille-moi. Enseigne-moi non pas simplement à poursuivre l'efficacité, mais à poursuivre les priorités justes. Donne-moi le courage d'examiner mes voies et d'avouer où le déséquilibre est devenu trop normal. Merci de ne pas m'exposer pour me condamner, mais pour me ramener à une vie qui est plus saine, plus vraie, et plus profondément ordonnée par Ta présence. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Aggée 1:5,7",
+              "book_code": "HAG",
+              "chapter": 1,
+              "verses": "5,7",
+              "translation": "Louis Segond 1910",
+              "text": "Considérez maintenant comment vous allez. Écoutez bien..."
+            },
+            {
+              "display": "Matthieu 6:33",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "33",
+              "translation": "Louis Segond 1910",
+              "text": "Cherchez premièrement le royaume et la justice de Dieu; et toutes ces choses vous seront données par surcroît."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "La Grâce n'est pas seulement l'Endurance, mais la Force Correctement Soutenue",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ésaïe 40:29,31",
+            "book_code": "ISA",
+            "chapter": 40,
+            "verses": "29,31",
+            "translation": "Louis Segond 1910",
+            "text": "Il donne de la force à celui qui est fatigué, et de la vigueur à celui qui chancelle... Mais ceux qui se confient en l'Éternel renouvellent leur force..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Les femmes en périodes exigeantes confondent souvent « je tiens toujours » avec « je vais bien actuellement ». Si la vie avance toujours, la maison fonctionne, et le travail n'a pas échoué, elles se disent de continuer et de penser plus tard. Mais beaucoup de ce que nous appelons force est vraiment compression. C'est l'effondrement différé. C'est ignorer le besoin et appeler cela la maturité.",
+            "L'Écriture offre une image différente de la force. Ésaïe dit que ceux qui attendent l'Éternel renouvellent leur force. La source de la force n'est pas une auto-pression sans fin, mais Dieu Lui-même. Paul dit que la puissance de Dieu s'accomplit dans la faiblesse. C'est particulièrement important pour les femmes qui ont appris à traiter le besoin comme une honte. L'Évangile ne met pas le besoin au-dessous. Il invite le besoin à la relation avec Dieu.",
+            "**La grâce ne vous transforme pas en une machine qui peut tout supporter sans coût. Elle vous enseigne à recevoir la force comme quelqu'un qui est vraiment fini et vraiment soutenu.** Ce genre de force contient de l'humilité. Elle sait où aller pour se ressourcer.",
+            "Donc si vous n'êtes plus simplement fatigué mais silencieusement épuisé, entendu cette invitation doucement. Dieu peut ne pas vous demander de serrer les dents plus fort. Il peut vous inviter à être renouvelé. Attendre, admettre, faire une pause, et recevoir ne sont pas des failles de la féminité forte. Ils font partie de la dépendance fidèle."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'avoue comme je traite facilement le fonctionnement continu comme la preuve que je vais toujours bien. Je traite aussi le besoin comme faiblesse et la limitation comme une gêne. Mais Tu sais où je ne suis plus juste fatigué, mais épuisé. Merci de ne pas me demander de prétendre que je vais bien ou de me préserver par la force de volonté. Enseigne-moi à T'attendre, à avouer mes vraies limites devant Toi, et à recevoir une force renouvelée. Garde-moi de confondre la grâce avec juste une autre poussée d'endurance. Laisse-moi comprendre la grâce comme Ta propre main me soutenant. Fais-moi non pas plus ressemblant à une machine, mais plus vraiment dépendante de Toi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ésaïe 40:29,31",
+              "book_code": "ISA",
+              "chapter": 40,
+              "verses": "29,31",
+              "translation": "Louis Segond 1910",
+              "text": "Il donne de la force à celui qui est fatigué, et de la vigueur à celui qui chancelle... Mais ceux qui se confient en l'Éternel renouvellent leur force..."
+            },
+            {
+              "display": "Psaume 73:26",
+              "book_code": "PSA",
+              "chapter": 73,
+              "verses": "26",
+              "translation": "Louis Segond 1910",
+              "text": "Mon cœur et ma chair peuvent défaillir; Dieu sera toujours le rocher de mon cœur et ma part à jamais."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS07",
+    "slug": "what-took-time-still-beautiful",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estações da Vida",
+      "secondary": "harvest-season",
+      "secondary_label": "Tempo de Colheita"
+    },
+    "tags": [
+      "meia-idade",
+      "mudancas-corporais",
+      "reorientacao",
+      "sabedoria",
+      "perimenopausa",
+      "menopausa"
+    ],
+    "title": "O Que Levou Tempo Ainda É Lindo",
+    "subtitle": "Honrando os presentes mais lentos do crescimento e da maturidade",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "quarenta-cinquenta",
+        "meia-idade"
+      ],
+      "emotional_state": [
+        "reflexiva",
+        "reorientando-se",
+        "abraçando a mudança"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para a mulher que está aprendendo a ver o crescimento mais lento, o fruto atrasado e a beleza que se formou durante muito tempo com olhos mais gentis e mais fiéis.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#E8B888",
+      "color_secondary": "#7A4A2C",
+      "image_key": "cover_woman_open_window_autumn_warm",
+      "icon": "ripening-fruit-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 27:13-14",
+        "book_code": "PSA",
+        "chapter": 27,
+        "verses": "13-14"
+      },
+      {
+        "display": "Gênesis 18:13-14",
+        "book_code": "GEN",
+        "chapter": 18,
+        "verses": "13-14"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "O Que Cresceu Devagar Pode Ter Crescido Mais Profundamente",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 27:13-14",
+            "book_code": "PSA",
+            "chapter": 27,
+            "verses": "13-14",
+            "translation": "Almeida",
+            "text": "Eu teria desfalecido, se não tivesse a certeza de ver a bondade do Senhor na terra dos viventes. Espera no Senhor; conforta-te, e ele fortalecerá o teu coração; espera, pois, no Senhor."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Chegando ao outono da vida, muitas mulheres começam a olhar para trás com uma nova honestidade. Elas se lembram do que veio mais tarde do que esperado, do que demorou mais tempo do que outros disseram que deveria, do que uma vez se sentiu como atraso, e do que parecia naquela época como estar para trás. Quando somos mais jovens, costumamos tratar rápido como bom, cedo como abençoado, e chegada visível como segurança. Mas na meia-idade, muitas mulheres começam a notar que o que realmente as sustenta nem sempre foi o que veio primeiro. Frequentemente foi o que levou tempo para crescer.",
+            "O Salmo 27 diz: \"Eu teria desfalecido, se não tivesse a certeza de ver a bondade do Senhor na terra dos viventes.\" Depois acrescenta: \"Espera no Senhor.\" Isso não é um clichê macio. É uma verdade que muitas vezes tem que ser vivida lentamente. O tempo de Deus nem sempre espelha o nosso. Algumas formas de estabilidade chegam tarde. Algumas percepções se aprofundam apenas depois de anos. Alguns frutos são invisíveis até muito mais tarde. A Escritura não trata isso como vida menor. Ela nos convida a uma medida mais sábia de beleza.",
+            "**A maturidade frequentemente não é sobre conseguir as coisas mais cedo, mas sobre se tornar capaz de carregá-las mais profundamente.** As coisas formadas através da espera, da decepção e da rendição repetida frequentemente têm raízes mais fortes. A gentileza após a perda, a contentamento após a falta, a discernimento após desvios, e a firmeza após a incerteza não são presentes de segunda categoria. Eles são sagrados.",
+            "Então se você ainda está carregando a dor de \"eu deveria ter estado lá mais cedo,\" traga essa dor diante de Deus. Ele pode estar curando não apenas sua linha do tempo, mas sua forma de medir a beleza. Uma história mais lenta não é automaticamente uma menor."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que parte de mim ainda dói com o que chegou mais tarde do que eu queria. Ainda olho para trás às vezes e me pergunto se a vida teria sido mais fácil ou melhor se algumas coisas tivessem acontecido mais cedo. Obrigada por não descartar essa dor ou me apressar a deixá-la para trás. Cure a parte de mim que ainda mede valor pela velocidade. Ensine-me a confiar que a beleza que Você forma nem sempre chega rapidamente. Se alguns frutos em minha vida só cresceram através da espera, desvios, luto e reordenação, mantenha-me de desprezá-los. Deixe-me aprender a dar graças pela profundidade que levou tempo, e a acreditar que Você não perdeu minhas estações. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 27:13-14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "13-14",
+              "translation": "Almeida",
+              "text": "Eu teria desfalecido, se não tivesse a certeza de ver a bondade do Senhor na terra dos viventes. Espera no Senhor; conforta-te, e ele fortalecerá o teu coração; espera, pois, no Senhor."
+            },
+            {
+              "display": "Tiago 5:7-8",
+              "book_code": "JAS",
+              "chapter": 5,
+              "verses": "7-8",
+              "translation": "Almeida",
+              "text": "Portanto, irmãos, tende paciência até à vinda do Senhor... Tende também vós paciência, e fortalecei os vossos corações; porque a vinda do Senhor está próxima."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Algumas Belezas Só Aparecem Com Os Anos",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 16:31",
+            "book_code": "PRO",
+            "chapter": 16,
+            "verses": "31",
+            "translation": "Almeida",
+            "text": "A cabeça grisalha é uma coroa de glória, quando se acha no caminho da justiça."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Quando somos mais jovens, tendemos a notar formas de beleza que são imediatamente visíveis. Frescor, velocidade, carisma, dureza, admiração, energia externa. Mas nos anos de colheita, Deus frequentemente começa a reformular a forma como uma mulher vê a beleza. Ela começa a notar qualidades que não brilham à primeira vista: moderação na fala, suavidade após o sofrimento, firmeza após a decepção, e a capacidade de permanecer grato sem se tornar ingênuo.",
+            "Provérbios diz que a cabeça grisalha é uma coroa de glória, se for encontrada no caminho da justiça. Essa é uma forma radicalmente diferente de ver a idade. O mundo frequentemente enquadra o envelhecimento como perda, declínio ou relevância desaparecida. Então muitas mulheres entram nos anos do meio e posteriores já se preparando para a defesa, como se tivessem que defender seu valor contra o tempo mesmo. A Escritura não fala dessa maneira. Ela honra a beleza que cresce através do tempo.",
+            "**O valor dos anos não é apenas que você sobreviveu a eles, mas que eles o moldaram em alguém mais ponderado, mais sábio e mais completo.** Há uma beleza que não luta contra o tempo fingindo ser intocada por ele. Ela recebe o tempo como um dos instrumentos de Deus para a formação.",
+            "Então hoje, não olhe apenas para o que mudou externamente. Olhe também para o que amadureceu internamente. Sabedoria, gentileza, firmeza e profundidade não são prêmios de consolação. Eles são parte da glória da maturidade."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, este mundo frequentemente me ensina a temer a idade e resistir à mudança, e é fácil treinar meus olhos para notarem apenas o que foi perdido. Obrigada por me dar outra maneira de ver. Você não trata a maturidade como desaparecimento, mas como um tipo de glória formada por Sua mão ao longo do tempo. Liberte-me da tensão de precisar provar que ainda tenho importância. Ensine-me a receber as marcas dos anos sem vergonha. Se a gentileza em mim cresceu através de lágrimas, se a sabedoria cresceu através de quedas, e se a moderação cresceu através de longa luta, mantenha-me de desprezar esses presentes. Ajude-me a honrar esta época diante de Você e a me tornar uma mulher cuja vida traz mais bênção para os outros. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 16:31",
+              "book_code": "PRO",
+              "chapter": 16,
+              "verses": "31",
+              "translation": "Almeida",
+              "text": "A cabeça grisalha é uma coroa de glória, quando se acha no caminho da justiça."
+            },
+            {
+              "display": "Tito 2:3-5",
+              "book_code": "TIT",
+              "chapter": 2,
+              "verses": "3-5",
+              "translation": "Almeida",
+              "text": "Do mesmo modo, as mulheres idosas sejam reverentes em seu procedimento... para que ensinem as mulheres jovens a amarem a seus maridos..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Nem Tudo Que Chega Tarde Foi Perdido",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Gênesis 18:13-14",
+            "book_code": "GEN",
+            "chapter": 18,
+            "verses": "13-14",
+            "translation": "Almeida",
+            "text": "Então disse o Senhor a Abraão: Por que se riu Sara, dizendo: Será verdade que haverei de dar à luz, sendo já velha? Porventura há coisa alguma difícil para o Senhor? Ao tempo marcado tornarei a ti, e Sara terá um filho."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Na meia-idade, muitas mulheres começam silenciosamente a se perguntar se algumas coisas são simplesmente muito tarde agora. Talvez seja estabilidade. Talvez um certo tipo de paz. Talvez um capítulo tão desejado que nunca chegou quando esperado. Os anos de colheita frequentemente carregam uma maior consciência do tempo, e o tempo pode começar a parecer um veredicto.",
+            "Mas a Escritura nos dá Sara. Quando ela ouve que terá um filho na velhice, ela ri, porque para ela soa muito tarde. Deus não concorda com sua conclusão. Ele não diz: \"Sim, o momento passou.\" Ele mantém Sua promessa em uma época que parecia impossível.",
+            "Nem toda história de mulher se desenrolará da mesma maneira, mas a história de Sara ensina algo essencial: Deus não é limitado pela nossa definição instintiva de muito tarde. Ele não trata os anos posteriores como espiritualmente fechados.",
+            "**Tarde não é o mesmo que desperdiçado. Atrasado não é o mesmo que morto.** Se há lugares em seu coração onde você já pronunciou a sentença: \"É muito tarde para mim,\" traga essas palavras diante de Deus. Deixe-o questioná-las. Algumas coisas ainda podem se desenrolar diferentemente do que você pensava. Outras podem não retornar da mesma forma, mas ainda assim produzir fruto real. A meia-idade não é apenas a estação do que passou. Também pode se tornar a estação do que amadurece tarde."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que em alguns lugares já pronunciei julgamento sobre minha própria história. Silenciosamente já disse: \"É muito tarde. Terminou. Essa parte provavelmente não acontecerá agora.\" Obrigada por não escrever minha vida de acordo com os veredictos que falo com medo. Você não despreça os capítulos posteriores da vida de uma mulher. Traga o desânimo que construí em torno do tempo à Sua presença, e coloque Sua verdade lá em seu lugar. Se ainda há fruto que Você tem a intenção de dar, mantenha-me de fechar meu coração em auto-proteção. E se algumas esperanças precisam ser renomeadas em vez de simplesmente restauradas, dê-me gentileza e confiança. Ensine-me não a equiparar atraso com falta de esperança. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Gênesis 18:13-14",
+              "book_code": "GEN",
+              "chapter": 18,
+              "verses": "13-14",
+              "translation": "Almeida",
+              "text": "Então disse o Senhor a Abraão: Por que se riu Sara, dizendo: Será verdade que haverei de dar à luz, sendo já velha? Porventura há coisa alguma difícil para o Senhor? Ao tempo marcado tornarei a ti, e Sara terá um filho."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

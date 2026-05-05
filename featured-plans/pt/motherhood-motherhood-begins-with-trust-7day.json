@@ -1,0 +1,508 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI12",
+    "slug": "motherhood-begins-with-trust",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Papéis e Identidade",
+      "secondary": "motherhood",
+      "secondary_label": "Maternidade"
+    },
+    "tags": [
+      "maternidade",
+      "criacao",
+      "confianca",
+      "perfeccionismo",
+      "graca",
+      "descanso"
+    ],
+    "title": "A Maternidade Começa com Confiança",
+    "subtitle": "Aprender a entregar seus filhos, seus medos e você mesma a Deus",
+    "audience": {
+      "life_stage": [
+        "mães",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "cansada",
+        "amorosa",
+        "confiante"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes sete dias exploram mais profundamente o controle, a preocupação, o sacrifício e a perda de identidade na maternidade, ensinando o trabalho lento da confiança.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#C8E0CC",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_mother_morning_window_quiet",
+      "icon": "cradle-and-leaves-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 56:3",
+        "book_code": "ISA",
+        "chapter": 41,
+        "verses": "10"
+      },
+      {
+        "display": "1 Samuel 1:27-28",
+        "book_code": "1SA",
+        "chapter": 1,
+        "verses": "27-28"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Quanto Mais Profundamente Amamos, Mais Facilmente Tememos",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 56:3",
+            "book_code": "ISA",
+            "chapter": 41,
+            "verses": "10",
+            "translation": "Almeida",
+            "text": "Quando tenho medo, coloco em ti a minha confiança."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muito do medo de uma mãe não vem da fraqueza, mas do amor profundo.",
+            "A partir do momento em que uma criança se torna preciosa para nós, o coração desenvolve novas maneiras de temer. Aquele bebê recém-nascido que você segura é frágil demais, e a responsabilidade pesa tanto que às vezes custa respirar. Cada escolha que você faz pode machucá-lo. Cada doença, cada queda, cada momento em que não está sob seus olhos suscita uma preocupação que não existia antes de ser mãe.",
+            "Mas quando esse medo nunca é trazido a Deus, raramente fica pequeno. Ele cresce em histórias que você cria, em piores cenários que você ensaia, em noites de sono perdido. Ele cresce em um endurecimento quieto do coração, um medo de que se você relaxar, alguma coisa terrível acontecerá. O medo não trazido a Deus torna-se a base para o controle.",
+            "Muitos de nós sabemos o que é parecer funcionalmente bem enquanto interiormente estamos à beira da dúvida e do pânico. Sabemos o que é manter as aparências mantendo a respiração presa e as mãos cerradas. Sabemos como viver em um estado de preparação constante, como se um desastre pudesse acontecer a qualquer momento.",
+            "**O medo dentro da maternidade deve ser trazido à presença de Deus, não deixado para crescer sozinho.** Deus quer que seu medo o leve a Ele, não que você o carregue sozinha."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, trago perante Você os medos mais profundos que carrego como mãe. Não deixe que eles cresçam em segredo. Dê-me coragem para entregar meu medo a Você.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 56:3",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "Almeida",
+              "text": "Quando tenho medo, coloco em ti a minha confiança."
+            },
+            {
+              "display": "Isaías 41:10",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "3",
+              "translation": "Almeida",
+              "text": "Não tenha medo, pois estou com você; não fique ansioso, pois sou o seu Deus. Vou fortalecê-lo, sim, vou ajudá-lo; vou sustentá-lo com a minha destra vitoriosa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "O Que Acontece Quando Entregamos Nosso Medo",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Almeida",
+            "text": "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento; reconheça-o em todos os seus caminhos, e ele endireitará as suas veredas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Entregar seu medo a Deus não o remove imediatamente. Mas muda sua qualidade.",
+            "Quando você traz seu medo à presença de Deus, você o chama por seu nome. Você o tira da sombra e o coloca à luz. Você admite, em voz alta, talvez pela primeira vez: \"Estou assustada\". Esse simples ato de falar muda algo dentro de você. Seu medo deixa de ser um segredo que o controla e torna-se uma carga que você pode entregar.",
+            "A entrega não é um ato único. É um ato que você repete, muitas vezes, em cada momento em que sente que o medo está a ponto de tomar conta. É dizer a Deus: não consigo carregar isso sozinha. E significativamente, não é você que faz a mudança—é Deus.",
+            "Quando você entrega seu medo, você não perde sua proteção materna. Você ganha clareza. Você pode responder como uma mãe sábia em vez de reagir como uma mãe assustada. Há uma diferença, e seus filhos sentirão essa diferença.",
+            "**Para toda mãe que está lendo isso, sua entrega é exatamente o tipo de força que seus filhos precisam ver.** Eles precisam aprender que confiança em Deus é mais seguro que controle materno."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, ensinai-me que entrega é confiança, não negligência. Mostrai-me como deixar ir e ao mesmo tempo guardar bem. Que eu possa ser uma mãe que confia.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Almeida",
+              "text": "Confie no Senhor de todo o seu coração e não se apoie em seu próprio entendimento; reconheça-o em todos os seus caminhos, e ele endireitará as suas veredas."
+            },
+            {
+              "display": "1 Pedro 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Almeida",
+              "text": "Lancem sobre ele toda a sua ansiedade, porque ele cuida de vocês."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "A Identidade Além da Maternidade",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 127:3",
+            "book_code": "PSA",
+            "chapter": 127,
+            "verses": "3",
+            "translation": "Almeida",
+            "text": "Os filhos são herança do Senhor, filhos gerados em sua força são uma recompensa dele."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas mães perdem a si mesmas na maternidade porque a identidade se torna sinônima de função.",
+            "Você é responsável pela vida de seu filho. Você o alimenta, o protege, o orienta. Essa responsabilidade é real e importante. Mas se toda a sua identidade está amarrada a isso, você não tem nada de si quando a criança cresce, quando ele não precisa de você do mesmo jeito, ou quando, por qualquer motivo, você não pode executar essa função.",
+            "Quando você sabe quem é em Deus—amado, visto, designado por propósito além da maternidade—você é gratuita. Livre para ser a mãe que você foi chamada a ser sem a carga de ser tudo para seu filho.",
+            "Seu filho não precisa de uma mãe que sacrificou tudo e agora o culpa por sua vida desaparecida. Seu filho precisa de uma mãe que conhece sua própria alegria, que tem sua própria esperança, que está perseguindo o seu próprio chama, e que o ama a partir do lugar da plenitude, não do vazio.",
+            "**Ser você mesma é a maior dádiva que você pode dar ao seu filho.** Não o dom de uma mãe que o fez tudo, mas o dom de uma mãe que sabe quem é."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, ajudai-me a descobrir quem sou para além da maternidade. Que eu não sacrifique a mim mesma na ilusão de que isso é amor. Ensinai-me que meu próprio crescimento é uma bênção para meus filhos.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 127:3",
+              "book_code": "PSA",
+              "chapter": 127,
+              "verses": "3",
+              "translation": "Almeida",
+              "text": "Os filhos são herança do Senhor, filhos gerados em sua força são uma recompensa dele."
+            },
+            {
+              "display": "Jeremias 29:11",
+              "book_code": "JER",
+              "chapter": 29,
+              "verses": "11",
+              "translation": "Almeida",
+              "text": "\"Pois conheço os planos que tenho para vocês\", declara o Senhor, \"planos de prosperar e não de prejudicá-los, planos de dar a vocês esperança e um futuro."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Quando a Confiança é Quebrada",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 139:14",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "14",
+            "translation": "Almeida",
+            "text": "Louvo-o porque a maneira como fui feito é tão admirável. Suas obras são maravilhosas, e bem o sei."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Às vezes, aqueles que deveriam nos proteger nos prejudicam. Às vezes, a vida prejudica nossos filhos não importa o quanto tentamos impedir.",
+            "Se você carrega uma história de não ter sido protegida quando criança, confiar a Deus com seus próprios filhos pode ser o ato mais difícil que você já fez. Não é falta de fé; é ferida. É a memória de uma vez em que confiar não foi seguro.",
+            "Mas aqui está a verdade que pode parecer improvável no começo: Deus não é aquele que quebrou sua confiança. Deus não abandona. Deus não fere. Seu trabalho não é forçar você a confiar novamente tão rápido, mas para reconstruir com você a noção de que confiar é possível, de que é seguro.",
+            "Quando você traz sua desconfiança para Deus, não está dizendo que confia instantaneamente. Você está dizendo: eu estou ferida, e não consigo fazer isso sozinha. Você está permitindo que Deus se torne o lugar onde sua confiança é restaurada.",
+            "**Suas feridas não descartam você da maternidade cheia de fé. Suas feridas a chamam a uma maternidade mais profunda e mais gentil com você mesma.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, se eu fui ferida quando deveria ter sido protegida, ajudai-me a ver que Você não sou aquele que me feriu. Restaurai minha confiança, não rapidamente, mas verdadeiramente. Que eu possa oferecer aos meus filhos a proteção que desejei ter.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 139:14",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "14",
+              "translation": "Almeida",
+              "text": "Louvo-o porque a maneira como fui feito é tão admirável. Suas obras são maravilhosas, e bem o sei."
+            },
+            {
+              "display": "Isaías 43:1",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "1",
+              "translation": "Almeida",
+              "text": "Mas assim diz o Senhor, que o criou, Jacó, que o formou, Israel: \"Não tema, pois eu o redimi; eu o chamei pelo seu nome; você é meu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "Transmitindo Confiança ao Próximo",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "2 Timóteo 1:5",
+            "book_code": "2TI",
+            "chapter": 1,
+            "verses": "5",
+            "translation": "Almeida",
+            "text": "Sou lembrado de sua fé sincera, que viveu primeiro em sua avó Lóide, depois em sua mãe Eunice, e agora, tenho certeza, também em você."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O que você constrói em seu próprio coração—confiança em Deus—não permanece com você. Flui para seus filhos.",
+            "Seus filhos não aprendem fé primariamente por serem falados sobre Deus. Eles a aprendem testemunhando você rezando em tempos de medo, rezando em tempos de alegria, rezando em tempos quando você não entende. Eles a aprendem vendo você trazer seus medos para Deus em vez de controlar tudo.",
+            "Quando você coloca seus filhos na cama à noite, você não está apenas protegendo seu corpo. Você está ensinando-lhes que há alguém maior do que ambos. Quando você não consegue resolver um problema e você admite para seu filho: vamos rezar sobre isso, você lhes está dando um presente que nenhuma quantidade de proteção parental pode dar.",
+            "Seus filhos não precisam de uma mãe que tem todas as respostas. Eles precisam de uma mãe que sabe a quem perguntaré. A maternidade cheia de fé é sobre passar adiante aquela confiança que você está lentamente aprendendo.",
+            "**A maior ação que você pode tomar como mãe é simplesmente confiar, alto e em voz alta, onde seus filhos possam ouvir.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, deixai minha confiança em Você ser tão evidente em minha vida que meus filhos aprendam a confiar também. Que eu não tenha medo de minha própria dependência de Você. Faça-me um exemplo vivo de fé.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "2 Timóteo 1:5",
+              "book_code": "2TI",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "Sou lembrado de sua fé sincera, que viveu primeiro em sua avó Lóide, depois em sua mãe Eunice, e agora, tenho certeza, também em você."
+            },
+            {
+              "display": "Deuteronômio 6:7",
+              "book_code": "DEU",
+              "chapter": 6,
+              "verses": "7",
+              "translation": "Almeida",
+              "text": "Ensine-as bem a seus filhos. Converse sobre elas quando estiver sentado em casa e quando estiver andando pela estrada, quando se deitar e quando se levantar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Dia 6",
+      "title": "Abraçando a Obra Lenta",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Romanos 5:3-4",
+            "book_code": "ROM",
+            "chapter": 5,
+            "verses": "3-4",
+            "translation": "Almeida",
+            "text": "Não apenas isso, mas também nos gloriamos em nossos sofrimentos, porque sabemos que o sofrimento produz perseverança; a perseverança, o caráter; e o caráter, a esperança."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Construir confiança é lento. Não é uma transformação de uma noite para a outra. Não há um momento em que você \"chegou\".",
+            "Todos os dias, você enfrentará a tentação de retomar o controle, de confiar em seus próprios poderes de proteção, de parar de rezar e começar a se preocupar. Todos os dias, você pode optar por colocar seu medo nos pés de Jesus novamente. Alguns dias você fará isso bem. Alguns dias você não.",
+            "A beleza da obra lenta é que ela não depende da perfeição. Depende da direção. Você está se movendo em direção a Deus? Você está aprendendo, aos poucos, a soltar? Você está permitindo que a confiança cresça em você, mesmo que não uniformemente?",
+            "A jornada de uma mãe de confiança é também uma jornada de alguém que aprende a sê-lo mesma em Deus. E isso não é feito em dias. É feito em anos, em pequenos atos de entrega, em fracassos e em graça.",
+            "**Sua luta para confiar não é uma falha. É a evidência de um coração que está crescendo, mudando, aprendendo a ser livre.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, dê-me paciência comigo mesma enquanto aprendo a confiar. Que eu não desista nos dias em que o medo retorna. Que eu seja gentil comigo mesma, sabendo que mesmo pequenos passos em sua direção importam.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Romanos 5:3-4",
+              "book_code": "ROM",
+              "chapter": 5,
+              "verses": "3-4",
+              "translation": "Almeida",
+              "text": "Não apenas isso, mas também nos gloriamos em nossos sofrimentos, porque sabemos que o sofrimento produz perseverança; a perseverança, o caráter; e o caráter, a esperança."
+            },
+            {
+              "display": "Filipenses 1:6",
+              "book_code": "PHP",
+              "chapter": 1,
+              "verses": "6",
+              "translation": "Almeida",
+              "text": "Sendo confiante nisto, que ele que começou uma boa obra em você a levará à perfeição até o dia de Cristo Jesus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Dia 7",
+      "title": "Maternidade Coroada com Confiança",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "1 Samuel 1:27-28",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "27-28",
+            "translation": "Almeida",
+            "text": "\"É por este filho que eu orava, e o Senhor atendeu a meu pedido. Agora dedico-o ao Senhor. Durante toda a vida dele, ele será dedicado ao Senhor.\" E adorou o Senhor ali."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Quando você chega ao sétimo dia, você não é uma mãe transformada. Você é uma mãe que pediu ajuda.",
+            "Uma mãe que pediu ajuda é uma mãe que se abre para a transformação. Ela admitiu que não poderia carregar isso sozinha. Ela trouxe seus medos, suas feridas, sua fraqueza, e os deixou aos pés de Deus. Ela começou a aprender que entrega é poder, que confiança é força, que vulnerabilidade é o lugar onde a graça entra.",
+            "Isso não significa que você nunca estará preocupada novamente. Isso significa que você não carregará essa preocupação sozinha. Significa que quando o medo bate, você sabe o caminho para levar isso a Deus. Significa que seus filhos, ao testemunharem isso, aprendem também.",
+            "Uma maternidade coroada com confiança não é uma vida sem medo. É uma vida em que você escolheu permitir que Deus entre no seu medo. É uma vida em que você não está mais endurecida contra a vida, mas aberta a ela, porque você sabe que você não está sozinha nela.",
+            "**Você é uma mãe cheia de amor profundo e uma alma que aprende a confiar. E isso, querida, é exatamente o que seu filho precisa ver.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, enquanto encerro estes sete dias, não deixei de aprender. Aqueles medos que trouxe nos primeiros dias não desapareceram, mas mudaram. Ensinai-me a viver com essa nova confiança e a manter essa porta aberta para Você. Que minha maternidade seja para sempre marcada pela graça de saber que você está comigo.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "1 Samuel 1:27-28",
+              "book_code": "1SA",
+              "chapter": 1,
+              "verses": "27-28",
+              "translation": "Almeida",
+              "text": "\"É por este filho que eu orava, e o Senhor atendeu a meu pedido. Agora dedico-o ao Senhor. Durante toda a vida dele, ele será dedicado ao Senhor.\" E adorou o Senhor ali."
+            },
+            {
+              "display": "Salmo 55:22",
+              "book_code": "PSA",
+              "chapter": 55,
+              "verses": "22",
+              "translation": "Almeida",
+              "text": "Deponha seus fardos no Senhor e ele o sustentará; nunca permitirá que o justo seja abalado."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS05",
+    "slug": "grace-on-balance-beam",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Lebensjahreszeiten",
+      "secondary": "full-bloom",
+      "secondary_label": "Volle Blüte"
+    },
+    "tags": [
+      "berufsmitte",
+      "ehe",
+      "geld",
+      "zuhause",
+      "gleichgewicht",
+      "verantwortung"
+    ],
+    "title": "Gnade auf dem Balancebalken",
+    "subtitle": "Arbeit, Liebe und Verantwortung halten, ohne dein Zentrum zu verlieren",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "dreißiger-vierziger",
+        "Berufsmitte"
+      ],
+      "emotional_state": [
+        "verantwortlich",
+        "gefordert",
+        "Gleichgewicht suchend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Für die Frau, die Arbeit, Liebe, Verantwortung und tägliche Anforderungen zusammenhält, ohne ihren geistlichen Mittelpunkt zu verlieren.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_open_field_summer_balance",
+      "icon": "bouquet-of-wheat-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Sprüche 4:23,26",
+        "book_code": "PRO",
+        "chapter": 4,
+        "verses": "23,26"
+      },
+      {
+        "display": "Jesaja 40:29,31",
+        "book_code": "ISA",
+        "chapter": 40,
+        "verses": "29,31"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Balance ist nicht überall gleiches Gewicht, sondern zu wissen, was zuerst stabil sein soll",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 4:23,26",
+            "book_code": "PRO",
+            "chapter": 4,
+            "verses": "23,26",
+            "translation": "Lutherbibel 1912",
+            "text": "Behüte dein Herz vor allem, das dich bewacht; denn daraus gehen die Quellen des Lebens aus... Wende deine Blicke weg von dem, was eitel ist, und richte deine Füße auf den rechten Weg."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Frauen werden müde, wenn sie das Wort Balance hören. Denn echte Balance im Leben ist fast nie fünfzig-fünfzig, und auch nicht, dass jeder Bereich gerade recht ist. Die Arbeit wird plötzlich dringend. Die Familie hat neue Bedürfnisse. Die Kinder werden krank. Die Eltern brauchen Aufmerksamkeit. Der Körper zeigt, was lange vernachlässigt wurde. Die Beziehungen warten nicht auf bequeme Zeiten. Was Balance genannt wird, ist gewöhnlich kein perfektes Verhältnis. Es ist eine ständige Anpassung der Gewichte und der Aufmerksamkeit.",
+            "Die Gefahr kommt, wenn Balance zu einem weiteren unmöglichen Maßstab wird: Ich muss alles gut handhaben, alles zur gleichen Zeit, ohne etwas Wichtiges fallen zu lassen. Diese Art von Balance erstickt leise die Seele.",
+            "Sprüche zeigt uns ein tieferes Bild. Es sagt uns, das Herz mit all deiner Sorgfalt zu bewahren und den Pfad unter deinen Füßen gerade zu machen. Viele Frauen in vollen Zeiten sind nicht unverantwortlich oder geistlich gleichgültig. Sie sind über viele legitime Anforderungen verteilt. Die zentrale Frage wird nicht, ob sie dienen, sondern ob sie noch verankert sind, während sie dienen.",
+            "**Der erste Schritt zur Balance ist nicht, jeden Teil des Lebens gleichmäßig in den Griff zu bekommen. Es ist, das Herz zu bewahren und den Pfad unter deinen Füßen zu festigen.** Du magst heute noch einen vollen Stundenplan haben, aber du kannst eine bessere Frage stellen: Was muss zuerst stabilisiert werden? Mein inneres Leben? Mein Körper? Ein Gespräch? Eine Last, die ich ablegen muss?",
+            "Gott misst dich nicht an fehlerlosem Gleichgewicht. Er lädt dich ein, dich an dein Zentrum inmitten vieler Anforderungen zu erinnern."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe ein, dass ich oft nicht von schlechten Dingen erdrückt werde, sondern von vielen guten und notwendigen Dingen, die alle zugleich drängen. Befreie mich vom Druck, alles vollkommen zu handhaben, und bewahre mich davor, Balance in eine andere Form von Knechtschaft zu verwandeln. Danke, dass du mich erinnerst, dass das, was zuerst bewahrt werden muss, das Herz darin ist. Ziehe mein Herz zurück zu dir, damit ich in einem sehr vollen Leben zuerst mein Zentrum wiederfinde. Zeige mir, was ich loslassen soll, worauf ich mich konzentrieren soll, und wo ich stille sein soll. Lass deine Gnade mich nicht nur helfen, Komplexität zu ertragen, sondern lehre mich innere Ordnung darin. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 4:23,26",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23,26",
+              "translation": "Lutherbibel 1912",
+              "text": "Behüte dein Herz vor allem, das dich bewacht; denn daraus gehen die Quellen des Lebens aus... Wende deine Blicke weg von dem, was eitel ist, und richte deine Füße auf den rechten Weg."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Mentale Last ist auch echtes Gewicht",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 62:1-2",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "1-2",
+            "translation": "Lutherbibel 1912",
+            "text": "Meine Seele harrt still auf Gott; von ihm kommt mein Heil. Er allein ist mein Fels und mein Heil, meine Burg..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Frauen in anspruchsvollen Zeiten tragen oft mehr als nur sichtbare Aufgaben. Sie tragen eine mentale Last. Während der Arbeit denken sie schon an das Abendessen. Während des Fahrens denken sie an Termine. Während des Abwaschen denken sie an die Gesundheit eines Elternteils. Während der Budgetplanung ahnen sie, welche unerwarteten Ausgaben noch kommen. Nicht alles findet heute statt, aber alles bleibt in deinem Inneren offen.",
+            "Andere sehen diese Art von Last vielleicht nicht, aber sie ist real. Sie erschöpft eine Person von innen heraus und macht echte Ruhe schwierig, auch wenn sie sitzt.",
+            "Psalm 62 zeigt ein anderes Bild. David sagt, dass seine Seele still auf Gott wartet und dass Gott allein sein Fels und sein Heil ist. Das Schöne an diesem Bild ist, dass es nicht von einem einfachen Leben abhängt. Es beschreibt eine innere Gefestigkeit, die zu Gott zurückkehrt, statt sich um alles zugleich zu verkrampfen. Für viele Frauen ist das Schwierigste nicht, die Liste zu erledigen. Es ist zu lernen, nicht die ganze Liste in ihrem Körper gleichzeitig zu halten.",
+            "**Gnade beginnt manchmal nicht damit, Aufgaben zu entfernen, sondern das Herz zu lehren, nicht alles zugleich zu ergreifen.** Die Verantwortung bleibt, aber inneres Verkrampfen muss nicht herrschen. Einiges gehört zu diesem Augenblick. Anderes kann benannt und für jetzt losgelassen werden.",
+            "Frage dich also ehrlich heute: Was halte ich geistig fest, das ich diesen Augenblick nicht tragen muss? Bringe diese Dinge eins nach dem anderen vor Gott. Nicht um Verantwortung zu vermeiden, sondern um befreit zu werden von der Existenz in einem ständigen Zustand innerer Überbelastung."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, du kennst, wie viele Fenster in mir die ganze Zeit offen sind. Viele Dinge sind noch nicht einmal geschehen, und ich trage sie trotzdem in meinen Gedanken. Viele Verpflichtungen gehören nicht zu heute, aber ich habe bereits meine Kraft daran aufgewendet. Danke, dass du nicht nur um meine sichtbare Arbeit sorgst, sondern auch um die lange Spannung in mir. Lehre mich, mein Herz zur Ruhe zu bringen, nicht indem ich vermeide, was meins ist, sondern indem ich nicht alles zugleich fasse. Hilf mir, meine Sorgen vor dir zu nennen und was nicht zu diesem Moment gehört, freizugeben. Lass deine Gnade mich nicht nur weitermachen lassen, sondern lehre mich auch, ruhig zu werden. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 62:1-2",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "1-2",
+              "translation": "Lutherbibel 1912",
+              "text": "Meine Seele harrt still auf Gott; von ihm kommt mein Heil. Er allein ist mein Fels und mein Heil, meine Burg..."
+            },
+            {
+              "display": "1. Petrus 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Lutherbibel 1912",
+              "text": "Alle eure Sorge werft auf ihn; denn er sorget für euch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Genug zu sagen kann ein Akt der Weisheit sein",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Prediger 3:1",
+            "book_code": "ECC",
+            "chapter": 3,
+            "verses": "1",
+            "translation": "Lutherbibel 1912",
+            "text": "Ein jegliches Ding hat seine Zeit, und alles Vorhaben unter dem Himmel hat seine Stunde."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "In den vollsten Jahren des Lebens mangelt es vielen Frauen nicht an Bereitschaft. Sie sind einfach reflexhaft über-verfügbar geworden. Wenn jemand Hilfe braucht, übernehmen sie. Wenn eine Lücke erscheint, füllen sie sie. Wenn die Arbeit noch Platz hat, wird mehr auf sie gelegt. Mit der Zeit wird es schwerer, \"ich kann nicht mehr hinzufügen\" zu sagen als weiterzumachen.",
+            "Wir missinterpretieren oft Grenzen. Wir nennen sie Egoismus. Wir stellen uns vor, dass Aufhören Versagen bedeutet. Wir behandeln menschliche Endlichkeit als moralischen Fehler. Aber der Prediger erinnert uns, dass es eine Zeit für Dinge gibt. Nicht alles passt in denselben Zeitraum. Nicht jede Saison kann das gleiche Volumen tragen.",
+            "Auch Jesus zog sich zurück zum Beten. Er ließ Bedarf allein nicht sein ganzes Werk bestimmen. Das ist wichtig. Grenzen sind nicht der Beweis, dass du nicht sorgst. Oft sind sie ein Zeichen, dass du um tiefere Dinge sorgst: dass dein Herz nicht hart wird, dass dein Körper nicht zusammenbricht, dass Beziehungen nicht nur funktional werden, und dass dein inneres Leben nicht vernachlässigt bleibt.",
+            "**Reife ist nicht endlose Selbsterweiterung. Es ist zu lernen, deine von Gott gegebenen Grenzen als Teil treuer Verwaltung zu ehren.** Genug zu sagen ist nicht lieblos. Es ist ein Weg zu erinnern, dass du nicht Gott bist.",
+            "Frage also, wo du zuerst \"genug\" sagen musst. Vielleicht nicht als totaler Rückzug, sondern als klügere Grenze um Tempo, Volumen oder Erwartung. Gnade sagt dir nicht immer, mehr zu tragen. Manchmal lehrt sie dich, truthafter zu tragen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe ein, dass ich oft endlose Verfügbarkeit mit Liebe verwechsele und ständige Kapazität mit Verantwortung. Aber du weißt, wo ich bereits dünn, hart und nur noch funktional geworden bin. Gib mir Weisheit, meine echten Grenzen ehrlich zu sehen, und Mut, \"genug\" zu sagen, wo \"genug\" gesagt werden muss. Halte mich davor ab, mich schuldig zu fühlen, wenn ich eine Grenze setze, und halte mich davor ab, mich selbst zu verachten, weil ich endlich bin. Danke, dass auch du mit Ordnung und Rhythmus gelebt hast. Lehre mich nicht immer, mehr zu tragen, sondern wahrheitsgetreu, deutlich und nachhaltig zu tragen. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Prediger 3:1",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Ein jegliches Ding hat seine Zeit, und alles Vorhaben unter dem Himmel hat seine Stunde."
+            },
+            {
+              "display": "Markus 1:35,37-38",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35,37-38",
+              "translation": "Lutherbibel 1912",
+              "text": "Und am Morgen, da es noch sehr dunkel war, stand er auf und ging hinaus an eine öde Stätte und betete daselbst... Und Simon und die andern folgten ihm nach. Und da sie ihn fanden, sprachen sie zu ihm: Jedermann sucht dich. Und er sprach zu ihnen: Laßt uns in die nächsten Flecken gehen..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Manchmal braucht nicht nur der Zeitplan Neuordnung, sondern die Prioritäten",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Haggai 1:5,7",
+            "book_code": "HAG",
+            "chapter": 1,
+            "verses": "5,7",
+            "translation": "Lutherbibel 1912",
+            "text": "So sagt nun der HERR Zebaoth: Bedenkt, wie es euch ergangen ist! ... So spricht der HERR Zebaoth: Bedenkt, wie es euch ergangen ist!"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Frauen in anspruchsvollen Zeiten haben versucht, ihr Leben mit besserem Zeitmanagement zu reparieren. Früher aufstehen. Einen besseren Planer benutzen. Die Woche farbig kennzeichnen. Aufgaben bündeln. Die Arbeit in Zeitblöcke einteilen. Die Hausarbeiten teilen. Das kann helfen. Aber manchmal ist das tiefere Problem nicht die Technik. Es sind abgerutschte Prioritäten.",
+            "Wir können sehr gut darin werden, das Dringende, Sichtbare, Messbare oder öffentlich Notwendige zu bewahren, während wir langsam das Grundlegende opfern: Gebet, Ruhe, Körperpflege, Geduld, Aufmerksamkeit, Zärtlichkeit und geistliche Gesundheit. Hagais Ruf, deine Wege zu überdenken, spricht in das. Menschen können fleißig und trotzdem in schlechter Ordnung sein.",
+            "Das ist eine Gefahr voller Jahreszeiten. Das Leben läuft weiter, aber das Wesentliche wird dünn. Eine Frau kann sehr funktionsfähig bleiben, während ihr tieferes Leben zunehmend vernachlässigt wird.",
+            "**Manchmal ist die Weisheit, die Gott gibt, nicht größere Effizienz, sondern bessere Ordnung.** Diese Art von Weisheit stellt härtere Fragen. Was habe ich weiterhin beschützt? Was habe ich weiterhin hinausgeschoben? Was ist leise normal geworden, was es nicht sein sollte?",
+            "Du musst nicht alles heute umbauen. Aber du kannst Gott das Licht scheinen lassen auf dem Ort, wo deine Prioritäten zu lange aus dem Gleichgewicht sind. Neuordnung ist kein Versagen. Oft ist sie der Anfang der Wiederherstellung."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lass dein Licht auf mich scheinen, nicht nur damit ich sehen kann, wie beschäftigt ich bin, sondern auch damit ich sehen kann, ob mein Leben aus der Ordnung geraten ist. Wenn ich das Dringende, Sichtbare und äußerlich Notwendige bewahrt habe, während ich das Grundlegendere vernachlässigt habe, erbarme dich meiner und wecke mich auf. Lehre mich nicht nur, Effizienz anzustreben, sondern richtige Prioritäten. Gib mir den Mut, meine Wege zu überdenken und zuzugeben, wo das Ungleichgewicht zu lange normal geworden ist. Danke, dass du nicht exposierst, um mich zu verdammen, sondern um mich in ein Leben zurückzubringen, das gesünder, wahrhafter und tiefer von deiner Gegenwart geordnet ist. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Haggai 1:5,7",
+              "book_code": "HAG",
+              "chapter": 1,
+              "verses": "5,7",
+              "translation": "Lutherbibel 1912",
+              "text": "So sagt nun der HERR Zebaoth: Bedenkt, wie es euch ergangen ist! ... So spricht der HERR Zebaoth: Bedenkt, wie es euch ergangen ist!"
+            },
+            {
+              "display": "Matthäus 6:33",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "33",
+              "translation": "Lutherbibel 1912",
+              "text": "Trachtet aber zuerst nach dem Reich Gottes und nach seiner Gerechtigkeit; so wird euch solches alles zufallen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Gnade ist nicht nur Ausdauer, sondern richtig gestützte Kraft",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jesaja 40:29,31",
+            "book_code": "ISA",
+            "chapter": 40,
+            "verses": "29,31",
+            "translation": "Lutherbibel 1912",
+            "text": "Er gibt dem Müden Kraft und Stärke genug dem Unvermögenden... Aber die auf den Herrn harren, kriegen neue Kraft..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Frauen in anspruchsvollen Zeiten verwechseln oft \"ich funktioniere noch\" mit \"mir geht es wirklich gut.\" Wenn das Leben noch läuft, das Haus noch funktioniert und die Arbeit nicht zusammenbricht, sagen sie sich, weiterzumachen und später zu denken. Aber viel von dem, was wir Kraft nennen, ist wirklich nur Kompression. Es ist verzögerte Zusammenbruch. Es ist, Bedarf zu ignorieren und das Reife zu nennen.",
+            "Die Schrift bietet ein anderes Bild von Kraft. Jesaja sagt, dass die, die auf den Herrn harren, neue Kraft bekommen. Die Quelle von Kraft ist nicht ständiges Selbstdruck, sondern Gott selbst. Paulus sagt, dass Gottes Kraft in Schwachheit vollendet wird. Das ist besonders wichtig für Frauen, die gelernt haben, Bedarf als Beschämung zu behandeln. Das Evangelium nennt Bedarf nicht schändlich. Es lädt Bedarf in Beziehung mit Gott ein.",
+            "**Gnade verwandelt dich nicht in eine Maschine, die alles ohne Kosten ertragen kann. Sie lehrt dich, Kraft als eine zu empfangen, die wirklich endlich ist und wirklich gestützt ist.** Diese Art von Kraft hat Demut in sich. Sie weiß, wohin man für Erneuerung geht.",
+            "Also wenn du nicht einfach nur müde bist, sondern leise erschöpft, höre diese Einladung sanft. Gott fragt dich vielleicht nicht, noch harder die Zähne zusammenzubeißen. Er kann dich sanft einladen, erneuert zu werden. Warten, zugeben, pausieren und empfangen sind nicht Versagen starker Weiblichkeit. Sie sind Teil treuer Abhängigkeit."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe ein, wie leicht ich andauernde Funktionsfähigkeit als Beweis behandle, dass mir noch alles gut geht. Ich behandle auch Bedarf als Schwachheit und Grenzen als Unannehmlichkeit. Aber du weißt, wo ich nicht einfach nur müde bin, sondern still leer. Danke, dass du nicht von mir fragst, so zu tun, als wäre ich okay, oder mich durch reine Willenskraft zu erhalten. Lehre mich, auf dir zu warten, meine echten Grenzen vor dir zuzugeben, und erneuerte Kraft zu empfangen. Halte mich davor ab, Gnade mit nur noch ein Bisschen mehr Ausdauer zu verwechseln. Lass mich verstehen, dass Gnade deine eigene Hand bin, die mich hält. Mach mich nicht mehr maschinenartig, sondern mehr wirklich abhängig von dir. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jesaja 40:29,31",
+              "book_code": "ISA",
+              "chapter": 40,
+              "verses": "29,31",
+              "translation": "Lutherbibel 1912",
+              "text": "Er gibt dem Müden Kraft und Stärke genug dem Unvermögenden... Aber die auf den Herrn harren, kriegen neue Kraft..."
+            },
+            {
+              "display": "Psalm 73:26",
+              "book_code": "PSA",
+              "chapter": 73,
+              "verses": "26",
+              "translation": "Lutherbibel 1912",
+              "text": "Wenn mir gleich Leib und Seele verschmachtet, so bist du doch Gott allezeit meines Herzens Trost und mein Teil."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

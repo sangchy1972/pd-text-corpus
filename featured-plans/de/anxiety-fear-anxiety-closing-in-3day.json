@@ -1,0 +1,257 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG01",
+    "slug": "anxiety-closing-in",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garten der Gefühle",
+      "secondary": "anxiety-fear",
+      "secondary_label": "Angst und Furcht"
+    },
+    "tags": [
+      "angst",
+      "furcht",
+      "ueberforderung",
+      "ruhe-in-gott",
+      "vertrauen"
+    ],
+    "title": "Wenn mich die Angst überwältigt",
+    "subtitle": "Für den, der sich jetzt überwältigt fühlt und Gottes Nähe mehr braucht als Erklärungen.",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "ängstlich",
+        "überfordert",
+        "furchtsam"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Für den, der sich jetzt überwältigt fühlt und Gottes Nähe mehr braucht als Erklärungen.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#B5C7E0",
+      "color_secondary": "#3B5775",
+      "image_key": "cover_woman_quiet_window_morning_light_anxiety",
+      "icon": "quiet-rock-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 61:1-2",
+        "book_code": "PSA",
+        "chapter": 61,
+        "verses": "1-2"
+      },
+      {
+        "display": "Jesaja 41:10",
+        "book_code": "ISA",
+        "chapter": 41,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Herr, ich bin jetzt völlig überfordert",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 61:1-2",
+            "book_code": "PSA",
+            "chapter": 61,
+            "verses": "1-2",
+            "translation": "Lutherbibel 1912",
+            "text": "Höre, Gott, mein Schreien; merke auf mein Gebet! Von der Erde fernehin rufe ich zu dir, wenn mein Herz verschmachtet. Leite mich auf den Felsen, der mir zu hoch ist;"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal kommt die Angst nicht langsam. Sie bricht herein. Eine Nachricht, ein Ergebnis oder eine plötzliche Möglichkeit kann alles in dir anspannen. Dein Verstand fängt an zu rasen, dein Körper folgt, und selbst einfache Aufgaben fühlen sich schwerer an als noch vor einer Stunde. In solchen Momenten werden viele Menschen zunächst hart mit sich selbst. Sie fragen sich: \"Warum reagiere ich schon wieder so?\" Aber die Schrift beginnt an einem sanfteren Ort.",
+            "Psalm 61 gibt Worte für genau den Moment, wenn deine innere Welt überfordert wirkt: \"Wenn mein Herz verschmachtet.\" David wartet nicht, bis er ruhig ist. Er schreit, während er immer noch überflutend wirkt. Das ist wichtig, denn es bedeutet, dass du kein poliertes Gebet brauchst, um zu Gott zu kommen. Du kannst zu ihm kommen - atemlos, zerstreut und angespannt. Der erste Petrusbrief 5,7 gibt den Grund an: \"denn er sorgt für euch.\" Du wirst nicht aufgefordert, deine Sorge auf Gott zu legen, weil du versagst. Du wirst eingeladen, sie auf ihn zu legen, weil er sich um dich sorgt.",
+            "**Der erste Schritt in einem angespannten Moment ist nicht, die Kontrolle über dich selbst zu bekommen. Es ist, dich dem Gott zuzuwenden, der bereit ist, dich zu halten.**",
+            "Heute beginne einfach. Lege deine Hand über deine Brust, atme langsamer und sage: \"Herr, ich fühle mich überfordert. Halt mich.\" **Du musst nicht warten, bis du dich friedlich fühlst, um anzufangen, Gott zu erreichen.** Auch wenn sich sofort nichts ändert, ist dieses Gebet bereits eine heilige Verschiebung. Du bist nicht mehr allein in der Angst gefangen.",
+            "Lass das für heute genug sein. Ein kurzer, ehrlicher Schrei zu Gott ist keine kleine Reaktion. Es ist bereits eine Bewegung hin zur Sicherheit."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Vater, ich komme zu dir, nicht so, als ob ich ruhig bin, sondern indem ich zugebe, dass ich mich überfordert fühle. Du kennst den plötzlichen Ansturm von Angst, die rasenzen Gedanken, die Anspannung in meinem Körper und die Hilflosigkeit darunter. Danke, dass du nicht verlangst, dass ich mich selbst zusammennehme, bevor ich zu dir schreie. Heute bitte ich dich einfach, mich zu halten. Wie der Psalmist sagt, führe mich zu dem Felsen, der höher ist als ich. Ziehe mich sanft aus der Panik näher zu deiner Gegenwart, und hilf mir zu glauben, dass deine Sorge realer ist als meine Angst. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 61:1-2",
+              "book_code": "PSA",
+              "chapter": 61,
+              "verses": "1-2",
+              "translation": "Lutherbibel 1912",
+              "text": "Höre, Gott, mein Schreien; merke auf mein Gebet! Von der Erde fernehin rufe ich zu dir, wenn mein Herz verschmachtet. Leite mich auf den Felsen, der mir zu hoch ist;"
+            },
+            {
+              "display": "1. Petrus 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Lutherbibel 1912",
+              "text": "alle eure Sorge werft auf ihn; denn er sorgt für euch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Der Sturm ist wirklich, aber Jesus ist noch immer hier",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Markus 4:37-40",
+            "book_code": "MRK",
+            "chapter": 4,
+            "verses": "37-40",
+            "translation": "Lutherbibel 1912",
+            "text": "Und es erhob sich ein großer Wirbelwind, und die Wellen trafen in das Schiff, daß es schon voll ward. Und er war hinten im Schiff und schlief auf einem Kissen. Und sie weckten ihn auf und sprachen zu ihm: Meister, fragst du nicht danach, daß wir umkommen? Und er stand auf und bedrohte den Wind und sprach zu dem Meer: Schweig, verstumme! Und der Wind legte sich, und es ward eine große Stille."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Oft ist der beängstigende Teil der Angst nicht das Problem selbst, sondern das Gefühl, damit allein gelassen zu werden. Die Situation hat sich nicht geändert, die Antwort ist nicht gekommen, und die Angst beginnt zu flüstern, dass dies vielleicht immer schlimmer werden wird. Darum kann sich Angst so isolierend anfühlen. Auch wenn andere Menschen in der Nähe sind, kann sich das Herz immer noch verlassen fühlen.",
+            "Markus 4 spricht direkt in diese Erfahrung. Die Jünger sind in einem echten Sturm gefangen. Der Wind ist stark, das Wasser steigt, und ihre Angst ist nicht übertrieben. Was die Geschichte tröstlich macht, ist nicht, dass sie ruhig bleiben. Das tun sie nicht. Sie geraten in Panik und wecken Jesus mit einer Frage, die viele angespannte Menschen immer noch in verschiedenen Worten stellen: \"Kümmert es dich nicht, dass wir umkommen?\"",
+            "**Bevor Jesus das Meer beruhigt, ist er bereits im Boot.** Seine Gegenwart beginnt nicht, nachdem der Sturm vorbei ist. Er ist da, während der Sturm immer noch laut ist. Johannes 14,27 hilft uns, das tiefer zu verstehen. Jesus gibt Frieden, aber nicht die Art, die die Welt gibt. Sein Frieden ist nicht Verleugnung. Er ist seine eigene Gegenwart und Autorität in der Mitte von dem, was immer noch unstabil wirkt.",
+            "Das bedeutet, dass deine Angst nicht beendet sein muss, bevor Gott nah ist. Die Beziehung mag sich immer noch brüchig anfühlen. Die Unsicherheit mag immer noch ungelöst sein. Aber der Herr ist von deinem Boot nicht abgetreten.",
+            "Heute benennen deine Stürme ehrlich. Sage: \"Herr, du siehst das, und du bist immer noch hier.\" **Diese Wahrheit mag nicht heute alles lösen, aber sie hält die Angst davon ab, die ganze Geschichte zu erzählen.** Frieden beginnt oft dort: nicht mit sofortigen Antworten, sondern mit der stabilisierenden Erkenntnis, dass du nicht aufgegeben wirst in der Mitte von dem, was dich erschreckt.",
+            "Wenn die Angst dir sagt, dass du allein bist, antworte ihr mit der Wahrheit von Christi Gegenwart. Er ist nicht spät zu deinem Sturm."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr Jesus, danke, dass du mich heute daran erinnerst, dass der Sturm wirklich ist, aber auch deine Gegenwart ist. Was ich oft am meisten fürchte, ist nicht nur die Situation selbst, sondern das Gefühl, in der Mitte davon allein gelassen zu werden. Doch heute zeigst du mir, dass du die Jünger in ihrem Sturm nicht verlassen hast, und du hast mich in meinem nicht verlassen. Sprich deinen Frieden in die Orte in mir, die sich turbulent und unruhig anfühlen. Wenn mein Verstand immer wieder zum Schlimmsten rast, erinnere mich daran, dass du immer noch Herr über das bist, was mich erschreckt. Und beschütze die Menschen, die ich liebe, dass auch sie deine Gegenwart in ihren eigenen Stürmen kennen würden. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Markus 4:37-40",
+              "book_code": "MRK",
+              "chapter": 4,
+              "verses": "37-40",
+              "translation": "Lutherbibel 1912",
+              "text": "Und es erhob sich ein großer Wirbelwind, und die Wellen trafen in das Schiff, daß es schon voll ward. Und er war hinten im Schiff und schlief auf einem Kissen. Und sie weckten ihn auf und sprachen zu ihm: Meister, fragst du nicht danach, daß wir umkommen? Und er stand auf und bedrohte den Wind und sprach zu dem Meer: Schweig, verstumme! Und der Wind legte sich, und es ward eine große Stille."
+            },
+            {
+              "display": "Johannes 14:27",
+              "book_code": "JHN",
+              "chapter": 14,
+              "verses": "27",
+              "translation": "Lutherbibel 1912",
+              "text": "Den Frieden laße ich euch, meinen Frieden gebe ich euch. Nicht gebe ich euch, wie die Welt gibt. Euer Herz erschrecke nicht und fürchte sich nicht."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Ich brauche nicht das Ergebnis zu kennen, bevor ich ruhen kann",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jesaja 41:10",
+            "book_code": "ISA",
+            "chapter": 41,
+            "verses": "10",
+            "translation": "Lutherbibel 1912",
+            "text": "Fürchte dich nicht, ich bin bei dir; weiche nicht, denn ich bin dein Gott; ich stärke dich; ich helfe dir auch; ich halte dich mit meiner gerechten Rechten."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Am dritten Tag sieht deine Situation möglicherweise nicht sehr anders aus. Die Antwort mag noch ausstehen, die Last mag immer noch real sein, und der Weg vorne mag sich immer noch unklar anfühlen. Das kann entmutigend sein. Angst tut oft am meisten weh, nicht weil du Schwierigkeiten nicht angehen kannst, sondern weil du nicht weißt, wie du dich weiterbewegen kannst, wenn sich nichts gefestigt anfühlt.",
+            "Jesaja 41 bietet eine andere Ordnung als die Angst. Die Angst sagt: \"Bekomme zuerst die Antwort, dann kannst du atmen.\" Gott sagt: \"Fürchte dich nicht; denn ich bin bei dir.\" Er gibt seine Gegenwart, bevor er Klarheit gibt. Das ist wichtig, denn das, was die Seele stabilisiert, ist oft nicht Erklärung, sondern Gesellschaft. Gott gibt dir oft sich selbst, bevor er dir Sicherheit gibt.",
+            "**Du brauchst nicht das Ergebnis, bevor du anfangen kannst, in Gottes Gegenwart zu ruhen.** Ruhe mag nicht bedeuten, dass all deine Fragen weg sind. Es mag einfach bedeuten, dass du nicht mehr versuchst, sie allein zu beantworten.",
+            "Psalm 46 vertieft diese Einladung. Er ruft Gott unsere Zuflucht und Stärke, eine gegenwärtige Hilfe in Bedrängnis, und sagt dann: \"Seid stille und erkennet, daß ich Gott bin.\" Das ist kein kalter Befehl zu stoppen, zu fühlen. Es ist eine barmherzige Unterbrechung der Panik. Es ist Gott, der dir sagt, dass Stille möglich ist, bevor die ganze Geschichte klar ist.",
+            "Trage einen Satz bei dir heute: \"Gott ist bei mir,\" oder \"Ich brauche nicht das Ergebnis, bevor ich ruhen kann.\" **Gottes Gegenwart kann dich halten, auch während die Zukunft noch unklar ist.** Wiederhole diese Wahrheit, wenn dein Verstand vorauseilt. Lass sie dein Herz aus der Spekulation in Vertrauen zurückrufen. Manchmal kommt Frieden nicht, indem man Unsicherheit löst, sondern indem man Gott in ihr trifft.",
+            "Stille mag sich anfangs fremd anfühlen, aber es ist eine Weise, wie die Seele wieder lernt, wo wahre Sicherheit lebt."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Treuer Herr, ich glaube oft, dass ich nur ruhen kann, wenn das Problem gelöst und das Ergebnis klar ist. Aber heute erinnerst du mich, dass dein erstes Geschenk für mich nicht immer Erklärung ist, sondern Gegenwart. Danke, dass du mir sagst: \"Fürchte dich nicht; denn ich bin bei dir.\" Lass dieses Versprechen tiefer in mich eindringen als meine eigenen angespannten Gedanken. Hilf mir, ruhig vor dir zu werden, während der Weg immer noch unklar ist. Lehre mich zu vertrauen, dass du mich auch ohne alle Antworten stärken und halten wirst. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jesaja 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Fürchte dich nicht, ich bin bei dir; weiche nicht, denn ich bin dein Gott; ich stärke dich; ich helfe dir auch; ich halte dich mit meiner gerechten Rechten."
+            },
+            {
+              "display": "Psalm 46:1-2,10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "1-2,10",
+              "translation": "Lutherbibel 1912",
+              "text": "Gott ist unsere Zuflucht und Stärke, eine Hilfe in Drangsalen, sehr erreichbar... Seid stille und erkennet, daß ich Gott bin;"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

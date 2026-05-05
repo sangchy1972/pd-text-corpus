@@ -1,0 +1,455 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS15",
+    "slug": "holy-work-of-beginning-again",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Lebensjahreszeiten",
+      "secondary": "threshold-seasons",
+      "secondary_label": "Schwellenzeiten"
+    },
+    "tags": [
+      "uebergang",
+      "neuanfang",
+      "neues-kapitel",
+      "dazwischen",
+      "berufung",
+      "neuausrichtung"
+    ],
+    "title": "Das heilige Werk des Neuanfangs",
+    "subtitle": "Gott an der Schwelle von Verlust, Wandel und neuem Leben begegnen",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "im Übergang",
+        "neu anfangend",
+        "Richtung suchend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Für Frauen, die an der Schwelle großer Veränderungen stehen und Gott nicht nur nach dem Übergang, sondern auch während desselben begegnen möchten.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#B0C8D5",
+      "color_secondary": "#3F5C70",
+      "image_key": "cover_woman_at_doorway_soft_light",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "2. Mose 3:4-5",
+        "book_code": "EXO",
+        "chapter": 3,
+        "verses": "4-5"
+      },
+      {
+        "display": "Sprüche 3:5-6",
+        "book_code": "PRO",
+        "chapter": 3,
+        "verses": "5-6"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Neuanfang ist heilig, weil Gott dort ist",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "2. Mose 3:4-5",
+            "book_code": "EXO",
+            "chapter": 3,
+            "verses": "4-5",
+            "translation": "Lutherbibel 1912",
+            "text": "Und der HERR sah, daß er hinzuging, um zu sehen. Und Gott rief ihm aus dem Dornbusch zu: Moses! Moses! Er antwortete: Hier bin ich. Er sprach: Tritt nicht herzu; ziehe deine Schuhe aus deinen Füßen; denn der Ort, darauf du stehst, ist heilig Land."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Neuanfang klingt manchmal wie ein ermutigender Satz, doch Frauen, die wirkliche Bruchstellen erlebt haben, wissen, wie teuer das sein kann. Es könnte durch Umzug, Jobverlust, Scheidung, Witwenschaft, Kinder, die das Haus verlassen, Genesung nach Krankheit oder das unerklärte Ende einer langen Lebensphase kommen. Wir nennen es heilige Arbeit nicht, weil es leicht oder romantisch ist, sondern weil Gott dort Menschen begegnet.",
+            "Er wartet nicht, bis der Wiederaufbau vollständig ist, bevor er sich naht. Er kommt, wenn du noch immer unter Trümmern stehst, noch unsicher bist, noch zurückblickst.",
+            "Als Moses den brennenden Dornbusch begegnet, wird die Wüste zu heiligem Boden, weil Gott dort gegenwärtig ist. Das ist entscheidend für den Übergang. Übergangsorte sehen selten heilig aus. Sie sehen chaotisch, unbequem und unvollkommen aus. Doch eines der Geheimnisse der Gnade ist, dass Gott solche Orte oft zur Selbstoffenbarung wählt.",
+            "**Neuanfang ist heilig nicht weil die Situation schon schön ist, sondern weil Gott bereit ist, sie zu bewohnen, bevor sie gelöst ist.** Wenn du also an einem Ort stehst, der sich überhaupt nicht wie ein wundervoller Neuanfang anfühlt, leugne das Chaos nicht. Denke einfach daran, dass Gott sich davon nicht abstoßen lässt. Er kann auch hier sprechen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich danke dir, daß du nicht wartest, bis ich alles in Ordnung gebracht habe, um mir nahe zu kommen. Du weißt, daß der Ort, an dem ich jetzt stehe, nicht ordentlich oder leicht ist. Er ist voll von Unvollkommenem, Fremdem und Verwirrung, die ich selbst nicht erklären kann. Und doch triffst du mich hier. Lehre mich, deine Gegenwart auch an Orten zu erkennen, die gewöhnlich oder zerbrochen aussehen. Wenn dieser Neuanfang heilig ist, weil du hier bist, lehre mich, mit Ehrfurcht zu stehen und mit Hoffnung zu hören. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "2. Mose 3:4-5",
+              "book_code": "EXO",
+              "chapter": 3,
+              "verses": "4-5",
+              "translation": "Lutherbibel 1912",
+              "text": "Und der HERR sah, daß er hinzuging, um zu sehen. Und Gott rief ihm aus dem Dornbusch zu: Moses! Moses! Er antwortete: Hier bin ich. Er sprach: Tritt nicht herzu; ziehe deine Schuhe aus deinen Füßen; denn der Ort, darauf du stehst, ist heilig Land."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Mancher Neuanfang beginnt mit Trauer um das Alte",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Joel 2:25",
+            "book_code": "JOL",
+            "chapter": 2,
+            "verses": "25",
+            "translation": "Lutherbibel 1912",
+            "text": "Ich will euch die Jahre ersetzen, die der Heuschreckenschwarm gefressen hat, die Laubheuschrecke und die Fressheuschrecke und die Nymphenheuschrecke und die Heuschrecke, meine große Heeresschar, die ich unter euch gesandt habe."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Neuanfang wird oft zu optimistisch dargestellt, als würde Mut und Positivität den schnellen Wechsel ermöglichen. Aber echte tiefe Neuanfänge beginnen normalerweise nicht mit Begeisterung. Sie beginnen mit Trauer. Eine Frau muss zugeben, daß etwas wirklich zu Ende gegangen ist. Ein ehemaliger Rhythmus, eine Beziehung, eine Stadt, eine Rolle oder eine Lebensversion ist ihr nicht mehr auf die gleiche Weise gehörig.",
+            "Ohne Trauer kann ein neuer Anfang zur Scharade werden. Der Körper bewegt sich nach vorn, während das Herz noch immer an der alten Türschwelle steht.",
+            "Joel spricht davon, daß Gott die Jahre wiederherstellt, die die Heuschrecke gefressen hat. Diese Verheißung ist mächtig, weil sie den Verlust nicht leugnet. Sie benennt ihn. Für Frauen, die neu anfangen, ist das tiefgreifend. Gott verlangt nicht von dir, das Verlorene zu verharmlosen oder so zu tun, als würde Hoffnung den Schmerz aufheben. Er erlaubt dir, beides zu sagen: das ist verloren, und ich bringe es dennoch zu dir.",
+            "**Manche Formen neuen Lebens entstehen erst nach aufrichtiger Trauer, die den Boden aufweicht.** Wenn du also noch immer um das alte Leben weinst, betrachte diese Tränen nicht als geistliche Niederlage. Sie könnten Teil dessen sein, wie Gott den Boden für das bereitet, was kommt."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe, daß ich nicht jeden Tag mit frohem Mut dem Neuanfang begegne. Einige Endungen tun noch weh, und manche Verluste sind noch schwierig zu benennen. Ich danke dir, daß du nicht verlangt, daß ich leicht werde, bevor du mich leitest. Empfange meine Trauer und lehre mich, daß diese Tränen nicht verschwendet sind. Wenn neues Leben wirklich oft erst nach aufrichtiger Trauer zu wachsen beginnt, gib mir Mut, nicht zu unterdrücken, was schmerzt, und gib mir Hoffnung, daß du Frucht aus Boden bringen kannst, der von Tränen bewässert ist. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Joel 2:25",
+              "book_code": "JOL",
+              "chapter": 2,
+              "verses": "25",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich will euch die Jahre ersetzen, die der Heuschreckenschwarm gefressen hat, die Laubheuschrecke und die Fressheuschrecke und die Nymphenheuschrecke und die Heuschrecke, meine große Heeresschar, die ich unter euch gesandt habe."
+            },
+            {
+              "display": "Psalm 126:5",
+              "book_code": "PSA",
+              "chapter": 126,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Die da mit Tränen säen, werden mit Freuden ernten."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Gott beginnt oft zu bauen, während die Trümmer noch sichtbar sind",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Nehemia 2:17-18",
+            "book_code": "NEH",
+            "chapter": 2,
+            "verses": "17-18",
+            "translation": "Lutherbibel 1912",
+            "text": "Da sprach ich zu ihnen: Ihr sehet das Elend, darinnen wir sind, daß Jerusalem verwüstet liegt und seine Tore verbrannt sind. Kommet, laßt uns die Mauern Jerusalems bauen, daß wir nicht länger eine Schande seien. Und ich sagte ihnen von der Hand meines Gottes, die mir wohltat, und auch von den Worten des Königs, die er zu mir geredet hatte. Da sprachen sie: Laßt uns aufstehen und bauen. Und sie stärkten ihre Hände zu diesem guten Werke."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Frauen wagen es nicht, wirklich neu zu beginnen, weil sie sich nicht ganz genug fühlen. Das Herz ist nicht vollkommen geheilt. Die Finanzen sind nicht ganz wiederhergestellt. Der Körper ist anders. Die Beziehungen sind ungelöst. Also sagen sie sich leise: wenn alles zusammenhängender aussieht, dann werde ich anfangen.",
+            "Aber Gott wirkt oft anders. Als Nehemia Jerusalems Mauern wiederaufbaut, ist die Ruine noch nicht verschwunden. Die Schande ist noch frisch. Der Widerstand ist noch gegenwärtig. Die Trümmer existieren noch. Der Wiederaufbau geschieht in der Gegenwart des Schadens, nicht erst nach seinem Verschwinden.",
+            "Das sollte die Frau beruhigen, die sich zu unvollkommen fühlt, um zu beginnen. Gott wartet nicht, bis dein Leben einem idealen Bild entspricht, bevor er dich auffordert zu bauen. Er lehrt dich, unter den Trümmern zu bauen.",
+            "**Wiederaufbau leugnet die Ruinen nicht ab. Er vertraut, daß Gott noch bauen kann, während die Ruinen sichtbar sind.** Wenn du Neuanfang aufgeschoben hast, weil du noch nicht vollständig wiederhergestellt bist, höre dies sanft: du musst nicht warten, bis die ganze Trümmerwüste verschwindet, um wieder zu bauen.",
+            "Gott schämt sich nicht für die Baustelle deines Neuaufbaus."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe oft, daß ich mich nicht ganz genug fühle, um wirklich zu beginnen. Ich denke, wenn ich ein bisschen vollständiger bin, ein bisschen stabiler, ein bisschen zusammenhängender, dann kann ich anfangen. Ich danke dir, daß du mich daran erinnerst, daß du nicht wartest, bis die Trümmer ganz verschwunden sind, um zu bauen zu beginnen. Gib mir Mut, dir zu vertrauen, während Bruch noch sichtbar ist. Halte mich davon ab, Treue aufzuschieben, weil ich nicht vollständig wiederhergestellt bin, und halte mich davon ab, dein Werk zu verachten, weil noch Trümmer da sind. Lehre mich, Stein auf Stein unter deiner Leitung neu zu bauen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Nehemia 2:17-18",
+              "book_code": "NEH",
+              "chapter": 2,
+              "verses": "17-18",
+              "translation": "Lutherbibel 1912",
+              "text": "Da sprach ich zu ihnen: Ihr sehet das Elend, darinnen wir sind, daß Jerusalem verwüstet liegt und seine Tore verbrannt sind. Kommet, laßt uns die Mauern Jerusalems bauen, daß wir nicht länger eine Schande seien. Und ich sagte ihnen von der Hand meines Gottes, die mir wohltat, und auch von den Worten des Königs, die er zu mir geredet hatte. Da sprachen sie: Laßt uns aufstehen und bauen. Und sie stärkten ihre Hände zu diesem guten Werke."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Kleine Anfänge können immer noch heilig sein",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sacharja 4:10",
+            "book_code": "ZEC",
+            "chapter": 4,
+            "verses": "10",
+            "translation": "Lutherbibel 1912",
+            "text": "Wer verachtet den Tag der kleinen Dinge?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wir stellen uns 'Neuanfang' oft als etwas Dramatisches vor. Ein Umzug. Eine neue Rolle. Eine öffentliche Umgestaltung. Eine tiefgreifende Veränderung. Aber viele heilige Anfänge sind viel kleiner. Das erste saubere Zimmer. Das erste ehrliche Budget. Das erste Essen, das du wieder für dich selbst machst. Das erste Gebet an einem neuen Ort. Das erste Zurückfinden in Gemeinschaft. Das erste Zugeben, daß ja, es Zeit ist, voranzugehen.",
+            "Sacharja fragt: Wer verachtet den Tag der kleinen Dinge? Diese Frage ist in Zeiten des Übergangs tiefgreifend, weil neues Leben selten laut beginnt. Es beginnt oft als ein kleines Licht, ein wenig Ordnung, ein wenig Bereitschaft, wieder am Leben teilzunehmen.",
+            "Wenn eine Frau nur dramatischen Wandel würdigt, könnte sie die heilige Arbeit verpassen, die Gott durch kleine Taten des Gehorsams tut. Die Schrift sagt uns, solche Anfänge nicht zu verachten. Sie sind oft die echtesten Anfangspunkte größerer Wiederherstellung.",
+            "**Gott übersieht die kleinen Anfänge nicht, die selbst du vielleicht zu verachten geneigt bist.** Wenn du heute nur einen kleinen Schritt gehen kannst, nenn's nicht Nichts. Für eine Frau, die aus Verlust, Entwurzelung oder langem Warten aufsteht, kann ein kleiner Schritt tiefgreifend heilig sein."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich danke dir, daß du nicht nur in großen Wendepunkten wirken wirst, sondern auch in sehr kleinen, stillen, leicht übersehenen Anfängen. Rette mich aus der Denkweise, die nur großen Fortschritt anerkennt. Halte mich davon ab, den einen kleinen Schritt, den ich heute machen kann, zu verachten. Wenn mein Neuanfang langsam, verborgen oder unbeeindruckend aussieht, laß mich dennoch wissen, daß du ihn siehst und mein Herz nicht ohne Hoffnung sein muss. Lehre mich, den Tag der kleinen Dinge nicht zu verachten, sondern in jedem kleinen Gehorsam zu sehen, daß du etwas Neues tust. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sacharja 4:10",
+              "book_code": "ZEC",
+              "chapter": 4,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Wer verachtet den Tag der kleinen Dinge?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Neues Leben bringt oft zuerst Richtung, nicht Gewißheit",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Hebräer 11:8",
+            "book_code": "HEB",
+            "chapter": 11,
+            "verses": "8",
+            "translation": "Lutherbibel 1912",
+            "text": "Durch den Glauben war Abraham gehorsam, als er berufen wurde, an einen Ort zu gehen, den er zum Erbteil empfangen sollte; und er ging hin, ohne zu wissen, wohin er gehen würde."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Menschen meinen, daß sie selbstbewußt sein sollten, bevor sie neu anfangen. Das wirkliche Leben wirkt oft umgekehrt. Richtung kommt zuerst; Selbstbewußtsein wächst später. Eine Frau weiß vielleicht nur, daß sie nicht länger da bleiben kann, daß eine bestimmte Tür geschlossen werden muss, oder daß ein neuer Rhythmus beginnen muss. Das ist Richtung. Es ist nicht dasselbe wie Selbstbewußtsein.",
+            "Was den Übergang schwierig macht, ist dieses Mißverhältnis: die Füße fangen an sich zu bewegen, während das Herz noch aufholt.",
+            "Der Hebräerbrief sagt, daß Abraham ausging und nicht wußte, wohin er ging. Die Schrift behandelt das nicht als schwachen Glauben. Sie behandelt es als echten Glauben. Gott verlangt nicht, daß du dich vollständig sicher fühlst, bevor du gehorchst. Viele heilige Anfänge beginnen mit einer Frau, der es an Gewißheit mangelt, die aber Gottes Ruf stark genug spürt, um trotzdem den nächsten Schritt zu gehen.",
+            "**In Gottes Leitung kommt Richtung oft vor Selbstbewußtsein.** Das sollte dich beruhigen. Du musst nicht warten, bis deine Gefühle mit deinem Gehorsam übereinstimmen. Du kannst zitternd gehen und trotzdem treu gehen.",
+            "Standfestigkeit wächst oft auf dem Weg, nicht davor."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich danke dir, daß du nicht erwartest, daß ich sehr sicher bin, bevor du mich zum Gehorsam einlädst. Du weißt, daß ich jetzt vielleicht nur ein wenig Richtung habe, aber nicht viel Selbstvertrauen. Halte mich davon ab zu meinen, daß Zittern Mangel an Leitung bedeutet. Wie du Abraham geleitet hast, führe mich in Gehorsam, selbst wenn meine Sicht unklar bleibt. Lehre mich, Mangel an Selbstvertrauen nicht als Mangel an Leitung zu nehmen. Hilf mir zu vertrauen, daß Standfestigkeit oft wächst, während ich dir folge, nicht davor. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Hebräer 11:8",
+              "book_code": "HEB",
+              "chapter": 11,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Durch den Glauben war Abraham gehorsam, als er berufen wurde, an einen Ort zu gehen, den er zum Erbteil empfangen sollte; und er ging hin, ohne zu wissen, wohin er gehen würde."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Neue Kapitel kommen mit neuen Gnaden",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jesaja 43:18-19",
+            "book_code": "ISA",
+            "chapter": 43,
+            "verses": "18-19",
+            "translation": "Lutherbibel 1912",
+            "text": "Gedenket des Früheren nicht und achtet des Vorigen nicht! Denn siehe, ich will ein Neues schaffen; nunmehr wird es aufwachsen, erkennet ihr es nicht? Ja, ich will einen Weg durch die Wüste machen und Flüsse durch öde Land."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Frauen, die neu anfangen, fürchten sich oft, alte Wunden in ein neues Kapitel zu tragen. Sie wissen, daß sie nicht vollständig geheilt sind. Sie wissen, daß manche Ängste noch in ihnen leben. Manche Unsicherheiten flammen noch auf. Also wundern sie sich: wenn ich das Alte in das Neue trage, wird das auch das Neue verderben?",
+            "Die Schrift antwortet auf diese Angst nicht mit: Werde erst ganz. Sie antwortet mit: Gott kann eine neue Sache tun und einen Weg auch in öden Orten schaffen. Diese Verheißung ist nicht für Menschen, die schon ganz geheilt sind. Sie ist für Menschen, die noch unterwegs sind.",
+            "Übergang bedeutet oft, neues Leben zu betreten, während man noch alte Verletzlichkeit trägt. Aber Gott sendet dich nicht in ein neues Kapitel nur mit alten Wunden. Er sendet auch frische Gnade mit dir.",
+            "**Ein neues Kapitel verlangt nicht, daß du wundlos bist. Es verlangt Gottes Gnade für die Version von dir, die heute geht.** Das ist profund tröstlich. Du musst dich nicht in Sorge aufreiben, ob du ganz bereit bist. Du brauchst Gnade für den heutigen Tag, und Gott hat verheißen, dich dort nicht zu verlassen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe, daß ich Angst davor habe, alte Wunden, alte Ängste und alte Verletzlichkeiten in ein neues Kapitel zu tragen. Ich fürchte, daß die ungelösten Teile von mir verderben, was kommt. Ich danke dir für die Hoffnung, die du mir gibst: nicht 'Werde erst ganz,' sondern 'Ich kann immer noch eine neue Sache tun, während du mit Narben gehst.' Halte mich davon ab, heute unter ängstlicher Überprüfung meiner eigenen Bereitschaft zu leben. Laß mich stattdessen innerhalb der Gnade leben, die du mir heute gibst. Wenn ich noch zart bin, gehe nicht weg von mir. Wenn ich noch leicht zu treffen bin, treffe mich dort zuerst. Laß mich in dieses neue Kapitel gehen, nicht nur meine Vergangenheit tragend, sondern auch den Weg, den du in Öden machst. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jesaja 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "Lutherbibel 1912",
+              "text": "Gedenket des Früheren nicht und achtet des Vorigen nicht! Denn siehe, ich will ein Neues schaffen; nunmehr wird es aufwachsen, erkennet ihr es nicht? Ja, ich will einen Weg durch die Wüste machen und Flüsse durch öde Land."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Die heilige Arbeit endet in tieferem Gehorsam",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Lutherbibel 1912",
+            "text": "Vertrau auf den Herrn von ganzem Herzen und verlaß dich nicht auf deinen Verstand; sondern gedenk an ihn in allen deinen Wegen, so wird er dich recht führen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Diese Reise des Neuanfangs soll nicht mit 'Ich habe schön wiederaufgebaut' enden, und auch nicht mit 'Ich verstehe endlich die ganze Zukunft.' Sein tieferes Ende ist einfacher und heiliger: Nach Verlust, Wandel, Unsicherheit und Wiederaufbau wird eine Frau mehr in der Lage, zu sagen: Herr, ich werde dir folgen.",
+            "Das ist nicht passive Ergebung. Es ist Vertrauen, das aus gelebter Unsicherheit geformt wurde.",
+            "Der Spruch sagt: Vertrau auf den Herrn von ganzem Herzen und verlaß dich nicht auf deinen Verstand. Erkenne ihn in deinen Wegen, so wird er dich recht führen. Das ist oft, wohin heilige Anfänge führen. Nicht zu größerer Kontrolle, sondern zu tieferem Gehorsam. Nicht zur vollständigen Beherrschung der Zukunft, sondern zu stetiger Bereitschaft, mit Christus hineinzugehen.",
+            "**Die tiefste Frucht des Neuanfangs ist oft nicht bessere Selbstverwaltung, sondern tiefere Nachfolge.** Endet also hier mit einem einfachen Gebet: Herr, ich weiß nicht alles, aber ich bin bereit, mit dir zu gehen. Für eine Frau an einer Schwelle ist das bereits tiefgreifender Glaube."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich danke dir, daß diese heilige Arbeit nicht zu größerer Kontrolle führt, sondern zu tieferem Gehorsam. Du weißt, daß ich noch viel nicht weiß, und du weißt, daß mein Verständnis der Zukunft noch unvollständig ist. Und doch wartest du nicht auf vollkommenes Verständnis, bevor du mich rufst. Heute biete ich mich dir wieder an und sage: Herr, ich werde dir folgen. Halte mich davon ab, Glaube als Besitz vollständiger Antworten zu sehen. Lehre mich stattdessen, Glaube als Bereitschaft zu verstehen, mit dir zu gehen, bevor alle Antworten kommen. Laß das Ende dieses Neuanfangs nicht sein, daß ich beeindruckend geworden bin, sondern daß ich bereiter geworden bin, dir zu folgen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Lutherbibel 1912",
+              "text": "Vertrau auf den Herrn von ganzem Herzen und verlaß dich nicht auf deinen Verstand; sondern gedenk an ihn in allen deinen Wegen, so wird er dich recht führen."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

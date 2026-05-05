@@ -1,0 +1,508 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI12",
+    "slug": "motherhood-begins-with-trust",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles e Identidad",
+      "secondary": "motherhood",
+      "secondary_label": "Maternidad"
+    },
+    "tags": [
+      "maternidad",
+      "crianza",
+      "confianza",
+      "perfeccionismo",
+      "gracia",
+      "descanso"
+    ],
+    "title": "La Maternidad Comienza con Confianza",
+    "subtitle": "Un devocional de 7 días explorando cómo la confianza en Dios es el fundamento de la maternidad",
+    "audience": {
+      "life_stage": [
+        "madres",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "cansada",
+        "amorosa",
+        "confiando"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "La maternidad es tanto una bendición profunda como una responsabilidad significativa. Como madres, somos llamadas a nutrir, guiar y amar a nuestros hijos. Sin embargo, este viaje sagrado no puede ser recorrido solo. En el corazón de la maternidad yace la confianza—confianza en el plan de Dios, confianza en Su provisión y confianza en Su amor inquebrantable. Este devocional te invita a explorar cómo la fe y la confianza transforman nuestro papel como madres. Durante los próximos siete días, reflexionaremos sobre verdades bíblicas acerca de la fidelidad de Dios, Su guía y Su promesa de caminar con nosotros en cada etapa de la maternidad. Ya sea que te estés preparando para la maternidad, en los primeros días, o navegando las complejidades de criar hijos, que encuentres renovación y aliento mientras profundizas tu confianza en Aquel que es la fuente de toda sabiduría y amor.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#C8E0CC",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_mother_morning_window_quiet",
+      "icon": "cradle-and-leaves-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Isaías 41:10",
+        "book_code": "ISA",
+        "chapter": 41,
+        "verses": "10"
+      },
+      {
+        "display": "1 Samuel 1:27-28",
+        "book_code": "1SA",
+        "chapter": 1,
+        "verses": "27-28"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Confianza en las Promesas de Dios",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Isaías 41:10",
+            "book_code": "ISA",
+            "chapter": 41,
+            "verses": "10",
+            "translation": "Reina-Valera 1909",
+            "text": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sostendré con la diestra de mi justicia."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Cuando descubrimos que vamos a ser madres, nuestros corazones se inundan de alegría y a veces de ansiedad. Nos preguntamos: ¿Seré una buena madre? ¿Podré manejar esta responsabilidad? Estas preguntas son naturales y revelan la profundidad de nuestro amor y compromiso hacia nuestros hijos. Pero también destacan nuestra necesidad de algo mayor que nosotras mismas.",
+            "Dios entiende nuestras preocupaciones porque es el Padre supremo. En Isaías 41:10, Él nos asegura: \"No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sostendré con la diestra de mi justicia.\" **Esta promesa no es solo para momentos de crisis, sino para cada etapa de la maternidad.**",
+            "La confianza en Dios comienza cuando reconocemos nuestras limitaciones y colocamos nuestra confianza en Su sabiduría e poder infinitos. Como madres, no tenemos todas las respuestas, pero servimos a un Dios que las tiene. Él ha prometido guiarnos, fortalecernos y sustentarnos con Su mano justa.",
+            "Cuando confiamos en las promesas de Dios, nos liberamos del miedo paralizante al fracaso. Podemos abrazar la maternidad con valor, sabiendo que nuestra suficiencia no viene de nosotras mismas, sino de nuestra relación con Dios. Esta confianza se convierte en el fundamento sobre el cual construimos nuestras vidas como madres.",
+            "Hoy, tómate un momento para reflexionar sobre las promesas de Dios para ti. Escribe una promesa de las Escrituras que hable a tu corazón como madre. Que esta promesa sea tu ancla en los días venideros."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, traigo ante ti los miedos más profundos que cargo como madre. No permitas que crezcan sin control en mi corazón. Que sean calmados en tu presencia. Sostenme especialmente donde más soy tentada hacia la culpa, el agotamiento y la pérdida de mí misma. Que mi amor no venga de una tensión interna constante, sino de recibir la fuerza renovada de tu misericordia, para que tanto mi hijo como yo vivamos bajo tu cuidado. Gracias porque no te repele mi debilidad, sino que estás dispuesto a acercarte, sostenerme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Isaías 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sostendré con la diestra de mi justicia."
+            },
+            {
+              "display": "Salmo 56:3",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "3",
+              "translation": "Reina-Valera 1909",
+              "text": "En el día que temo, yo en ti confío."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Echa tus Cargas sobre Él",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Proverbios 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Reina-Valera 1909",
+            "text": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia inteligencia. Reconócele en todos tus caminos, y él enderezará tus sendas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Las responsabilidades de la maternidad pueden parecer abrumadoras. Desde el momento en que traemos a nuestros hijos al mundo, tenemos la tarea de cuidar su bienestar físico, emocional y espiritual. Nos preocupamos por su salud, su desarrollo, su futuro. El peso de estas preocupaciones puede crecer, y podemos encontrarnos despiertos por la noche, ansiosas por decisiones que hemos tomado o desafíos que nos esperan.",
+            "Pero no tenemos que llevar estas cargas solas. En 1 Pedro 5:7, se nos invita a hacer algo hermoso: \"Echad toda vuestra ansia sobre él, porque él tiene cuidado de vosotros.\" **Dios nos invita a soltar nuestras ansiedades y confiar nuestras preocupaciones a Su cuidado amoroso.** Esto no es escapismo; es sabiduría.",
+            "Cuando echamos nuestras cargas sobre Dios, no negamos nuestras responsabilidades. Más bien, reconocemos que mientras nosotras tenemos nuestra parte que cumplir, Dios tiene la Suya. Somos finitas; Él es infinito. Somos limitadas; Él es omnisciente. Amamos a nuestros hijos; pero Su amor es perfecto y eterno.",
+            "Soltar nuestras preocupaciones ante Dios no sucede de una vez. Es una práctica diaria, a veces de hora en hora, de elegir confiar. Cuando la ansiedad se filtra, hacemos una pausa y nos recordamos: Dios se preocupa por mí y por mis hijos más de lo que yo jamás podría. Él está velando por nosotros.",
+            "Esta semana, cuando la preocupación amenace consumirte, haz una pausa y conscientemente echa esa carga sobre Dios. Dilo en voz alta si lo necesitas: 'Dios, te doy esta preocupación. Confío en ti con mis hijos y mi maternidad.'"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, enséñame a confiar sin retirarme de mi responsabilidad. Guárdame de vivir como si fuera la salvadora. Coloco mi hijo, el futuro y los lugares donde he estado apretando demasiado de nuevo en tus manos. Enséñame, incluso mientras amo a mi hijo, a no dejar mi propia alma fuera de tu presencia, porque no soy solo un papel que cumplir, sino una mujer a la que aún ves con ternura. Gracias porque no te repele mi debilidad, sino que estás dispuesto a acercarte, sostenerme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Proverbios 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Reina-Valera 1909",
+              "text": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia inteligencia. Reconócele en todos tus caminos, y él enderezará tus sendas."
+            },
+            {
+              "display": "1 Pedro 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Reina-Valera 1909",
+              "text": "Echad toda vuestra ansia sobre él, porque él tiene cuidado de vosotros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "Los Hijos son Bendición de Jehová",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 127:3",
+            "book_code": "PSA",
+            "chapter": 127,
+            "verses": "3",
+            "translation": "Reina-Valera 1909",
+            "text": "He aquí, herencia de Jehová son los hijos; cosa de estima el fruto del vientre."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "En nuestra cultura, la maternidad a veces se presenta como algo que debemos equilibrar junto a nuestro verdadero trabajo, nuestro verdadero llamado, nosotras mismas auténticas. Pero esta perspectiva disminuye el significado profundo de la maternidad. Cuando nos convertimos en madres, participamos en la obra creativa de Dios. Se nos confían almas humanas.",
+            "El Salmo 127:3 nos recuerda esta verdad sagrada: \"He aquí, herencia de Jehová son los hijos; cosa de estima el fruto del vientre.\" Los hijos no son cargas que soportamos; son bendiciones que recibimos. No son obstáculos para nuestra realización; son oportunidades para nuestra transformación.",
+            "Esto no significa que la maternidad sea fácil o que no requiera sacrificio. Lo hace. Pero cuando entendemos a nuestros hijos como bendiciones en lugar de obstáculos, nuestra perspectiva cambia. Comenzamos a ver las noches largas y los días difíciles como oportunidades para amar sacrificadamente, para crecer en paciencia y para reflejar el amor de Dios a nuestros hijos.",
+            "**Cuando reconocemos a nuestros hijos como dones de Dios, nos acercamos a la maternidad con gratitud en lugar de resentimiento.** Aún podemos enfrentar agotamiento y desafíos, pero estos se experimentan dentro del contexto de un privilegio sagrado, no como cargas indeseadas.",
+            "Tómate tiempo hoy para expresar gratitud por tus hijos. Dale gracias a Dios por cada hijo que ha confiado a tu cuidado. Considera cómo tus hijos te han moldeado, desafiado y acercado más a Dios."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, te doy gracias por permitirme participar en la vida de mi hijo, y te agradezco por recordarme que no soy la única autora de esa historia. Mientras soy fiel en la crianza, profundiza mi confianza de que tu mano ya está allí. Enséñame, incluso mientras amo a mi hijo, a no dejar mi propia alma fuera de tu presencia, porque no soy solo un papel que cumplir, sino una mujer a la que aún ves con ternura. Gracias porque no te repele mi debilidad, sino que estás dispuesto a acercarte, sostenerme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 127:3",
+              "book_code": "PSA",
+              "chapter": 127,
+              "verses": "3",
+              "translation": "Reina-Valera 1909",
+              "text": "He aquí, herencia de Jehová son los hijos; cosa de estima el fruto del vientre."
+            },
+            {
+              "display": "Jeremías 29:11",
+              "book_code": "JER",
+              "chapter": 29,
+              "verses": "11",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Formadas por las Manos de Dios",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 139:14",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "14",
+            "translation": "Reina-Valera 1909",
+            "text": "Te alabaré; porque formidablemente he sido maravillado; maravillosas son tus obras; y mi alma lo sabe bien."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "¿Alguna vez miras a tus hijos y te maravillas de su singularidad? Desde su primer aliento, cada hijo es distinto—diferentes huellas dactilares, diferentes características, diferentes personalidades, diferentes dones. Esta diversidad no es accidental; refleja el genio creativo de Dios.",
+            "El Salmo 139:14 celebra esta verdad: \"Te alabaré; porque formidablemente he sido maravillado; maravillosas son tus obras; y mi alma lo sabe bien.\" Cada uno de nuestros hijos—y nosotras mismas como madres—somos formidablemente creadas y maravillosamente hechas. Somos obras de arte, diseñadas por la mano del Maestro Artesano.",
+            "Cuando entendemos que nuestros hijos son la obra de Dios, nos acercamos a ellos con mayor reverencia. Reconocemos que nuestro papel no es rehacerlos a nuestra imagen, sino ayudarles a descubrir y desarrollar el diseño único que Dios ya ha colocado en ellos.",
+            "**Como madres, nosotras también somos obras en progreso, moldeadas por las manos de Dios.** Así como guiamos a nuestros hijos para que se conviertan en quienes Dios los creó que sean, debemos permitir que Dios nos forme a nosotras en las madres que Él envísiona. Esto requiere confianza, humildad y disposición para ser transformadas.",
+            "Reflexiona sobre las cualidades únicas de cada uno de tus hijos. ¿Qué hace a cada uno especial? ¿Qué dones y talentos ves desarrollándose en ellos? ¿Cómo puedes nutrir estos dones mientras confías en Dios con su futuro?"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, si lentamente me he perdido a mí misma dentro de la maternidad, tráeme de vuelta. Recuérdame que incluso como madre, sigo siendo alguien que conoces por nombre. Reúne las partes dispersas de mí que han vivido demasiado tiempo solo en modo de respuesta. Muéstrame qué en mí necesita descanso, atención y ternura, y guárdame de llamar a esa necesidad egoísmo. Ayúdame a volver a ti como una persona completa, no solo como alguien que sostiene todo para otros. Enséñame, incluso mientras amo a mi hijo, a no dejar mi propia alma fuera de tu presencia, porque no soy solo un papel que cumplir, sino una mujer a la que aún ves con ternura. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 139:14",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "14",
+              "translation": "Reina-Valera 1909",
+              "text": "Te alabaré; porque formidablemente he sido maravillado; maravillosas son tus obras; y mi alma lo sabe bien."
+            },
+            {
+              "display": "Isaías 43:1",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "1",
+              "translation": "Reina-Valera 1909",
+              "text": "Ahora, así dice Jehová, creador tuyo, oh Jacob, y formador tuyo, oh Israel: No temas, porque yo te redimí; te llamé por tu nombre, mío eres tú."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "La Fe Transmitida",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "2 Timoteo 1:5",
+            "book_code": "2TI",
+            "chapter": 1,
+            "verses": "5",
+            "translation": "Reina-Valera 1909",
+            "text": "Trayendo a la memoria la fe no fingida que hay en ti, la cual habitó primero en tu abuela Loida, y en tu madre Eunice, y estoy persuadido que en ti también."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una de las responsabilidades más sagradas de la maternidad es transmitir la fe a nuestros hijos. Esto no es principalmente sobre instrucción religiosa, aunque eso es importante. Se trata de demostrar a través de nuestras vidas, nuestras decisiones y nuestra confianza que Dios es real, que es confiable y que nos ama profundamente.",
+            "En 2 Timoteo 1:5, Pablo le habla a Timoteo sobre la fe genuina que ve en él, la clase de fe que \"habitó primero en tu abuela Loida, y en tu madre Eunice.\" La fe de Timoteo fue transmitida de una generación a otra a través del testimonio auténtico de las mujeres en su vida.",
+            "Nuestros hijos nos están observando. Ven cómo respondemos a los desafíos, cómo manejamos la decepción, cómo confiamos en Dios cuando las circunstancias son difíciles. Más que cualquier cosa que digamos, nuestras acciones les enseñan sobre la fe. Cuando ven que nos dirigimos a Dios en oración, confiamos en Él en la dificultad y lo alabamos en la abundancia, aprenden que la fe es real.",
+            "**No tenemos que ser perfectas para transmitir fe; tenemos que ser auténticas.** Podemos compartir nuestras luchas, nuestras dudas y nuestro viaje de aprender a confiar. De hecho, cuando nuestros hijos ven que luchamos con la fe y elegimos confiar de todas formas, aprenden que la fe no es optimismo ciego—es una elección real hecha frente a desafíos reales.",
+            "¿Cómo está impactando tu viaje de fe a tus hijos? ¿Qué estás modelando sobre la confianza, la oración y la dependencia de Dios? Comprométete a ser un ejemplo de fe genuina y auténtica para tus hijos."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, ayúdame a permanecer fiel en días ordinarios. Que mi hijo te vea no solo en lo que enseño, sino también en cómo dependo de ti. Enséñame, incluso mientras amo a mi hijo, a no dejar mi propia alma fuera de tu presencia, porque no soy solo un papel que cumplir, sino una mujer a la que aún ves con ternura. Gracias porque no te repele mi debilidad, sino que estás dispuesto a acercarte, sostenerme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "2 Timoteo 1:5",
+              "book_code": "2TI",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "Reina-Valera 1909",
+              "text": "Trayendo a la memoria la fe no fingida que hay en ti, la cual habitó primero en tu abuela Loida, y en tu madre Eunice, y estoy persuadido que en ti también."
+            },
+            {
+              "display": "Deuteronomio 6:7",
+              "book_code": "DEU",
+              "chapter": 6,
+              "verses": "7",
+              "translation": "Reina-Valera 1909",
+              "text": "Y las repetirás a tus hijos, y hablarás de ellas sentado en tu casa, y andando por el camino, y acostándote, y levantándote."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "Perseverancia a Través de las Estaciones",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Romanos 5:3-4",
+            "book_code": "ROM",
+            "chapter": 5,
+            "verses": "3-4",
+            "translation": "Reina-Valera 1909",
+            "text": "Y no solo esto, sino que también nos gloriamos en las tribulaciones, sabiendo que la tribulación produce paciencia; y la paciencia, prueba; y la prueba, esperanza."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La maternidad no es una sola estación; es una serie de estaciones, cada una con sus propios desafíos y alegrías. La estación de la infancia es diferente a la de los pequeños, que es diferente a los años escolares, los años de adolescencia y más allá. Cada estación demanda algo diferente de nosotras, y cada estación nos transforma de nuevas formas.",
+            "En Romanos 5:3-4, Pablo escribe: \"Y no solo esto, sino que también nos gloriamos en las tribulaciones, sabiendo que la tribulación produce paciencia; y la paciencia, prueba; y la prueba, esperanza.\" A través de las estaciones difíciles de la maternidad—las noches sin dormir, las ansiedades, los conflictos con nuestros hijos—desarrollamos perseverancia, paciencia y sabiduría.",
+            "Esta perspectiva no minimiza la dificultad de estaciones difíciles. Más bien, nos ayuda a entender que los desafíos no son sufrimiento sin sentido; son oportunidades para el crecimiento. Cuando persistimos a través de estaciones difíciles, nos convertimos en madres más fuertes, más pacientes, más compasivas.",
+            "**Dios promete que completará la obra que comienza en nosotras.** En Filipenses 1:6, Pablo nos asegura: \"Estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo.\" Dios no ha terminado con nosotras ni con nuestros hijos. Sigue trabajando, sigue moldeando, sigue transformando.",
+            "¿En qué estación de la maternidad estás ahora? ¿Qué desafíos presenta esta estación? Confía en que Dios está usando esta estación para desarrollar paciencia, sabiduría y perseverancia en ti. No estás sola en este viaje."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, ayúdame a ver que en la maternidad no solo me estás usando, sino también moldeándome. Guárdame de enfocarme solo en lo que mi hijo está llegando a ser. Que yo también llegue a ser más plenamente lo que estás formando en mí. Sostenme especialmente donde más soy tentada hacia la culpa, el agotamiento y la pérdida de mí misma. Que mi amor no venga de una tensión interna constante, sino de recibir la fuerza renovada de tu misericordia, para que tanto mi hijo como yo vivamos bajo tu cuidado. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Romanos 5:3-4",
+              "book_code": "ROM",
+              "chapter": 5,
+              "verses": "3-4",
+              "translation": "Reina-Valera 1909",
+              "text": "Y no solo esto, sino que también nos gloriamos en las tribulaciones, sabiendo que la tribulación produce paciencia; y la paciencia, prueba; y la prueba, esperanza."
+            },
+            {
+              "display": "Filipenses 1:6",
+              "book_code": "PHP",
+              "chapter": 1,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Estando persuadido de esto, que el que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "Una Oración de Dedicación",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Samuel 1:27-28",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "27-28",
+            "translation": "Reina-Valera 1909",
+            "text": "Por este niño oraba, y Jehová me dio lo que le pedí. Yo pues lo dedico también a Jehová; todos los días que viviere, será de Jehová."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Mientras llegamos al último día de este devocional, reflexionamos sobre Ana, una mujer en la Biblia cuya fe y confianza en Dios se convirtió en el fundamento de su vida como madre. Ana anhelaba desesperadamente un hijo, y cuando Dios finalmente concedió su oración, dedicó a su hijo Samuel al servicio de Dios.",
+            "En 1 Samuel 1:27-28, Ana expresa su gratitud: \"Por este niño oraba, y Jehová me dio lo que le pedí. Yo pues lo dedico también a Jehová; todos los días que viviere, será de Jehová.\" La confianza de Ana era tan completa que estaba dispuesta a dedicar su regalo más precioso de vuelta a Dios.",
+            "Esto no significa que debamos ceder a nuestros hijos o negar nuestro papel como madres. Más bien, significa reconocer que nuestros hijos en última instancia pertenecen a Dios, y somos administradoras privilegiadas de sus vidas. Nuestro papel es nutrirlos, guiarlos, amarlos y dirigirlos hacia Dios.",
+            "**Cuando soltamos nuestro agarre y confiamos nuestros hijos a Dios, encontramos libertad y paz.** Somos liberadas de la carga de creer que todo depende de nosotras. Podemos confiar en que Dios ama a nuestros hijos aún más que nosotras, y Él tiene buenos planes para sus futuros.",
+            "Hoy, ofrece tus hijos a Dios en oración. Dedícalos a Su servicio y Su propósito. Suelta tu necesidad de controlar cada movimiento suyo, y comprométete a confiar en Dios con sus vidas. En esta rendición, encontrarás la paz más profunda y el fundamento más fuerte para la maternidad."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, coloco a mi hijo en tus manos, y coloco también mi persona como madre en tus manos. Que mi amor ya no sea algo que lleve sola con tensión, sino algo que encuentra descanso en tu presencia. Guarda que los resultados externos no me definan más rápidamente que tu paz. Hazme fiel en mi trabajo y despierta en mi espíritu. Gracias porque no te repele mi debilidad, sino que estás dispuesto a acercarte, sostenerme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Samuel 1:27-28",
+              "book_code": "1SA",
+              "chapter": 1,
+              "verses": "27-28",
+              "translation": "Reina-Valera 1909",
+              "text": "Por este niño oraba, y Jehová me dio lo que le pedí. Yo pues lo dedico también a Jehová; todos los días que viviere, será de Jehová."
+            },
+            {
+              "display": "Salmo 55:22",
+              "book_code": "PSA",
+              "chapter": 55,
+              "verses": "22",
+              "translation": "Reina-Valera 1909",
+              "text": "Echa tu carga sobre Jehová, y él te sustentará; no permitirá que el justo sea removido para siempre."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

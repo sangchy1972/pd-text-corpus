@@ -1,0 +1,518 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "FA01",
+    "slug": "fasting-women-who-fasted",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Caminhando com Deus",
+      "secondary": "draw-near",
+      "secondary_label": "Aproximar-se de Deus"
+    },
+    "tags": [
+      "aproximar-se-de-deus",
+      "disciplina-espiritual",
+      "intimidade-com-deus",
+      "pratica-antiga",
+      "jejum",
+      "mulheres-biblicas",
+      "ester",
+      "ana"
+    ],
+    "title": "Mulheres que Jejuaram: 7 Dias para Redescobrir a Fome de Deus",
+    "subtitle": "Em 7 dias, redescobriremos o jejum bíblico através das mulheres, orações, lágrimas e pontos de virada da Escritura, e aprenderemos como a fome, a carga e o anseio podem ser levados honestamente diante de Deus.",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "buscando a Deus",
+        "espiritualmente curiosa",
+        "desejando intimidade"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Em 7 dias, redescobriremos o jejum bíblico através das mulheres, orações, lágrimas e pontos de virada da Escritura, e aprenderemos como a fome, a carga e o anseio podem ser levados honestamente diante de Deus.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture_focus → teaching → additional_scriptures → prayer",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#E6D9C2",
+      "color_secondary": "#5A4A3A",
+      "image_key": "cover_woman_quiet_table_open_bible_bread",
+      "icon": "open-hands-and-cross-circle"
+    },
+    "hook": {
+      "heading": "Por que este plano",
+      "paragraphs": [
+        "Para muitas mulheres, o corpo é já o lugar onde a pressão primeiro cai. É uma razão pela qual o jejum bíblico deve ser retomado com cuidado. Não é dieta, autoflagelo ou severidade espiritual. Na Escritura, é um modo de nos humilharmos diante de Deus, buscá-lo com maior foco e esperar nele com intenção.",
+        "Nestes 7 dias, redescubriremos o jejum através das mulheres, orações, tristezas e esperanças da Escritura. **O jejum não é teatro espiritual. É uma pequena fome voltada para o Pai.**"
+      ]
+    },
+    "key_verses": [
+      {
+        "display": "Mateus 6:16-18",
+        "book_code": "MAT",
+        "chapter": 6,
+        "verses": "16-18"
+      },
+      {
+        "display": "Apocalipse 19:9",
+        "book_code": "REV",
+        "chapter": 19,
+        "verses": "9"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "O que o Jejum Realmente É",
+      "subtitle": "O jejum não é dieta. É a fome voltada para Deus.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Mateus 6:16-18",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "16-18",
+            "translation": "Almeida",
+            "text": "E quando jejuardes, não sejais como os hipócritas, de rosto triste; porque desfiguram os seus rostos, para que aos homens apareça que jejuam. Em verdade vos digo que já receberam o seu galardão. Tu, porém, quando jejuares, unge a tua cabeça e lava o teu rosto, para não parecer aos homens que jejuas, mas a teu Pai, que vê em secreto; e teu Pai, que vê em secreto, te recompensará."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O caminho mais rápido para mal-entender o jejum é fazê-lo parecer mais bonito do que é. Um estômago vazio não torna automaticamente ninguém sagrado. Na verdade, muitas vezes revela quão distraídos, impacientes ou autopreservadores realmente somos. É exatamente por isso que o jejum pode se tornar uma graça tão útil: expõe o que a plenitude ordinária tende a esconder.",
+            "Leia Mateus 6:16-18 devagar.",
+            "**\"Teu Pai, que vê em secreto, te recompensará.\"**",
+            "Jesus não diz: \"Se jejuarem,\" mas: \"Quando jejuarem.\" Ele assume que seus discípulos um dia aprenderão esta prática. Porém ele imediatamente volta a conversa para longe da performance externa e em direção ao Pai que vê em secreto. Depois Isaías 58 aprofunda ainda mais o ponto. Deus não fica impressionado com fome que deixa o coração intocado. O verdadeiro jejum não é sobre provar seriedade. É sobre se tornar mais disponível a Deus, mais verdadeiro diante dele, e muitas vezes mais misericordioso para com outras pessoas.",
+            "Anos atrás, uma moça em nossa igreja me perguntou: \"Pastor, o jejum é apenas para pessoas muito espirituais?\" Eu lhe disse que não. O jejum pertence não a especialistas, mas a crentes ordinários que querem trazer um pequeno apetite sob a senhoria de Cristo. Ela começou simplesmente pulando um almoço de quarta-feira e usando aquela hora para orar em seu carro. Poucas semanas depois ela me disse: \"A fome me interrompia continuamente e me mandava de volta à oração.\" Este é um início muito melhor do que intensidade dramática. Se você jejua, faça-o gentilmente, honestamente e sem prejudicar seu corpo. **O jejum começa quando a fome física não é mais a manchete, e Deus se torna o desejo mais profundo.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Isaías 58:6-7",
+              "book_code": "ISA",
+              "chapter": 58,
+              "verses": "6-7",
+              "translation": "Almeida",
+              "text": "Porventura não é este o jejum que escolhi: que soltes as ligaduras da impiedade, que desfaças as coyundas do jugo, e que deixes ir livres os que estão quebrantados, e despedaces todo o jugo? Porventura não é que repartas o teu pão com o faminto, e traga para casa os pobres desterrados; e quando vires o nu, o cubras, e não te escondas da tua carne?"
+            },
+            {
+              "display": "Joel 2:12",
+              "book_code": "JOL",
+              "chapter": 2,
+              "verses": "12",
+              "translation": "Almeida",
+              "text": "Por isso ainda agora, diz o Senhor, convertei-vos a mim com todo o vosso coração; e isso com jejuns, e com choro, e com pranto."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Gracioso Pai, obrigado porque o jejum que dás não é dado como um fardo, mas como um modo santo pelo qual teus filhos podem retornar mais deliberadamente à tua presença. Guarda-nos de transformar esta prática sagrada em algo que pareça ser visto por outros, e guarda-nos também de imprudência, ignorância e orgulho espiritual. Ensina-nos que nossa necessidade mais profunda não é maior controle sobre a vida, mas uma fome mais profunda por ti. Se nos levares ao jejum, santifica nossos corações em secreto, para que te busquemos sozinhos, esperemos em ti com reverência, e desejemos acima de tudo a proximidade da tua presença. Por Jesus Cristo nosso Senhor. Amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "O Jejum de Ester: Intercedendo pelos Outros",
+      "subtitle": "O jejum muitas vezes torna a intercessão mais focada.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Ester 4:16",
+            "book_code": "EST",
+            "chapter": 4,
+            "verses": "16",
+            "translation": "Almeida",
+            "text": "Vai, ajunta todos os judeus que se acharem em Susã, e jejuai por mim, e não comais nem bebereis em três dias, nem de noite nem de dia; eu e as minhas criadas também jejuaremos assim; e assim entrarei à presença do rei, ainda que não é segundo a lei; e se perecer, pereço."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O jejum de Ester se coloca no meio do perigo político, risco pessoal e medo comunal. Nada na cena é privado ou sentimental. Um povo pode ser destruído. Uma rainha jovem deve entrar em perigo. Antes que ela fale na corte do rei, ela pede que o povo jejue.",
+            "Leia Ester 4:16 com cuidado. Ester não começa com inteligência, mas com consagração. Seu primeiro movimento não é reunir argumentos melhores, mas reunir o povo diante de Deus. Esta é uma das lições mais importantes que o jejum pode nos ensinar. Há épocas quando o amor pelos outros se torna tão pesado que a oração ordinária não parece suficiente; o coração deseja orar com maior foco, maior sobriedade, maior esquecimento de si. Na Escritura, o jejum frequentemente aparece aí, em momentos de intercessão.",
+            "Eu uma vez caminhei com uma mãe cuja filha adulta havia entrado em uma longa e escura época. Ela me disse: \"Não sei mais o que fazer.\" Lemos Ester juntas, e ela reservou uma hora de almoço cada semana para jejuar e orar especificamente por seu filho. Ela não recebeu respostas instantâneas, mas recebeu firmeza. Meses depois ela disse: \"Não posso mapear cada resultado, mas sei que o Senhor me encontrou ali.\" Assim é muitas vezes que o jejum funciona. Não nos torna soberanos sobre os resultados. Torna-nos mais sinceros em carregar o nome de outro diante de Deus. **Um jejum de intercessão é o amor recusando-se a permanecer passivo.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "2 Crônicas 20:3",
+              "book_code": "2CH",
+              "chapter": 20,
+              "verses": "3",
+              "translation": "Almeida",
+              "text": "Então Josafá temeu, e se dispôs a buscar ao Senhor, e proclamou jejum em todo o Judá."
+            },
+            {
+              "display": "Atos 13:2-3",
+              "book_code": "ACT",
+              "chapter": 13,
+              "verses": "2-3",
+              "translation": "Almeida",
+              "text": "E servindo eles ao Senhor, e jejuando, disse o Espírito Santo: Separai-me a Barnabé e a Saulo para a obra a que os tenho chamado. Então, jejuando e orando, e impondo as mãos sobre eles, os despediram."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor nosso Deus, obrigado porque os fardos demasiado pesados para nossas mãos nunca são demasiado pesados para serem colocados diante de teu trono de graça. Dá-nos o espírito de Ester, para que em épocas de medo não sejamos primeiro governados pela circunstância, mas sejamos trazidos primeiro à tua presença. Deixa nosso jejum nascer não de controle ansioso, mas de fé em tua regra soberana e de sagrado amor pelos que carregamos diante de ti. Torna-nos firmes em intercessão, humildes na espera, e confiantes de que ainda ouves os clamores de teu povo. Por Jesus Cristo nosso Senhor. Amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Ana: Fiel Através dos Anos",
+      "subtitle": "Alguns jejuns não são sobre respostas rápidas, mas sobre fidelidade longa.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 2:36-38",
+            "book_code": "LUK",
+            "chapter": 2,
+            "verses": "36-38",
+            "translation": "Almeida",
+            "text": "E havia uma profetisa, Ana, filha de Fanuel, da tribo de Aser; e era de idade bem avançada, e havia vivido com marido sete anos desde a sua virgindade; E era viúva há uns oitenta e quatro anos, e não se afastava do templo, servindo a Deus em jejuns e orações, de noite e de dia. E sobrevindo ela naquela mesma hora, dava graças a Deus, e falava dele a todos os que esperavam a redenção em Jerusalém."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Ana não aparece na Escritura como uma líder pública celebrada. Ela aparece como uma viúva idosa cuja vida foi moldada por longa devoção, longa perda e longa espera. Porém quando a criança Cristo é trazida ao templo, ela está pronta. Sua vida oculta a tornou perspicaz.",
+            "Leia Lucas 2:36-38 devagar.",
+            "**\"Com jejuns e orações, de noite e de dia.\"**",
+            "O texto não trata o jejum e oração de Ana como detalhes decorativos. Eles são parte da razão pela qual ela reconhece o que outros perdem. Anos de adoração a haviam treinado sua atenção. Longa fidelidade a tornara sensível ao movimento de Deus. Vivemos em uma idade que admira o que é visível, mensurável e imediato. Ana nos lembra que o céu frequentemente mede diferentemente. Alguns dos trabalhos mais consequentes no reino são feitos por aqueles que permanecem invistos.",
+            "Uma viúva idosa em nossa igreja uma vez me perguntou: \"Ainda há algo útil que eu possa fazer pelo Senhor?\" Abrimos Lucas 2 e lemos Ana juntas. Eu lhe disse que uma vida de oração nunca é uma vida restante. Ela começou guardando uma hora tranquila cada semana para orar por mulheres jovens, netos e famílias na igreja. Com o tempo, muitas dessas mesmas pessoas testificariam portas que o Senhor havia aberto. A fidelidade oculta não significa fidelidade sem fruto. **Na economia de Deus, uma vida de oração paciente pode levar mais peso do que a utilidade pública jamais poderia.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 2:25",
+              "book_code": "LUK",
+              "chapter": 2,
+              "verses": "25",
+              "translation": "Almeida",
+              "text": "E eis que havia um homem em Jerusalém, cujo nome era Simeão; e este homem era justo e piedoso, esperando a consolação de Israel; e o Espírito Santo estava sobre ele."
+            },
+            {
+              "display": "Salmo 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "Almeida",
+              "text": "Espera pelo Senhor; sê forte e corajoso o teu coração; sim, espera pelo Senhor."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai nosso, obrigado porque nenhuma fidelidade oculta é esquecida diante de ti. Guarda-nos de desânimo quando os anos se fazem longos, e de desprezo à oração simplesmente porque seu fruto não é imediatamente visto. Se nosso serviço passa despercebido por outros, deixa que ainda seja precioso à tua vista. Se nos designas épocas mais tranquilas, mantém-nos firmes e piedosos. Concede que, como Ana, possamos perseverar na adoração pelos anos que passam, permaneçamos perto de tua presença na espera, e sejamos encontrados prontos quando te aprouver agir. Por Jesus Cristo nosso Senhor. Amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Hana: Trazendo Luto Diante de Deus",
+      "subtitle": "Às vezes, perda de apetite não é fracasso, mas luto no corpo.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "1 Samuel 1:7-18",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "7-18",
+            "translation": "Almeida",
+            "text": "E assim fazia ela cada ano; porém, ainda que Elcana oferecia, ela chorava e não comia... E ela, com amargura de alma, orou ao Senhor, e chorou abundantemente. E fez um voto, dizendo: Senhor dos exércitos, se benignamente olhares para a aflição da tua serva, e te lembrares de mim, e não te esqueceres da tua serva, e deres à tua serva um filho homem, então o darei ao Senhor todos os dias da sua vida... E a mulher foi seu caminho, e comeu; e o seu semblante não foi mais triste."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Hana não aparece na Escritura como uma mulher fazendo um plano espiritual. Ela aparece como uma mulher tão ferida pelo luto que até mesmo a comida perdeu seu lugar.",
+            "Leia 1 Samuel 1:7-18 sem pressa em passar pela dor. As lágrimas de Hana não são uma nota lateral. Sua cultura lhe pesou com vergonha, sua esperança se estendeu por anos, e seu corpo agora traz a marca do luto. Até Eli inicialmente a mal-interpreta. Porém uma vez que sua angústia é compreendida, ela não é repreendida por fraqueza. Ela é encontrada com bênção. Isto importa. A Escritura faz espaço não apenas para jejum escolhido, mas também para o jejum involuntário que o luto pode trazer.",
+            "Lembro de uma mulher que veio falar comigo depois de uma perda devastadora. Ela disse, quase desculpando-se: \"Realmente não consigo comer.\" Lemos Hana juntas, e o que ela mais precisava naquele dia não era uma palestra sobre resiliência, mas liberdade da vergonha. Há épocas quando a alma sofre tão profundamente que o corpo fala primeiro. Se é aí onde você está, não confunda luto com fracasso espiritual. Receba cuidado. Aceite a refeição que uma amiga traz. Sente-se diante do Senhor como você é. **O Deus que ouviu Hana não desdenha a fome que o luto cria.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Salmo 42:3",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "3",
+              "translation": "Almeida",
+              "text": "As minhas lágrimas me servem de alimento dia e noite, enquanto me dizem continuamente: Onde está o teu Deus?"
+            },
+            {
+              "display": "Salmo 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "Tu contas os meus passos incertos; guarda tu as minhas lágrimas no teu odre; porventura não estão elas no teu livro?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor misericordioso, se nosso luto desceu tão profundamente que o corpo também é portador disso, age com graça e sustém-nos, para que a vergonha não seja acrescentada à tristeza. Tu viste as lágrimas de Hana, e também conheces o peso oculto que as palavras não conseguem carregar; portanto, de igual modo, sê compassivo conosco. Deixa-nos não confundir quebrantamento com desgraça, ou fraqueza com abandono. Aproxima-te de todo coração ferido, e concede cuidado tranquilo em meio ao sofrimento. Que aqueles que choram saibam com certeza que tu te lembras, tens compaixão, e não desprezes um espírito ferido e contrito. Por Jesus Cristo nosso Senhor. Amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "Como Começar o Jejum Sabiamente",
+      "subtitle": "Há mais de um modo de jejuar sabiamente.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Daniel 10:2-3",
+            "book_code": "DAN",
+            "chapter": 10,
+            "verses": "2-3",
+            "translation": "Almeida",
+            "text": "Naqueles dias eu, Daniel, estava pranteando por três semanas inteiras. Não comi pão desejável, nem carne nem vinho entraram na minha boca; nem me ungi com ungüento, até que se cumpriram as três semanas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Mais cedo ou mais tarde, toda mulher interessada em jejum chega à pergunta prática: que tipo de jejum é realmente apropriado? A própria Escritura nos ajuda aqui recusando-se a reduzir o jejum a um único método. Daniel se abstém de alimentos ricos. Ester chama por um jejum severo em um momento de crise. Outras passagens assumem padrões mais curtos e simples. A Bíblia nos dá princípio antes de uniformidade.",
+            "Leia Daniel 10:2-3 devagar.",
+            "**\"Não comi pão desejável.\"**",
+            "O exemplo de Daniel mostra que o jejum pode tomar mais de uma forma. Ainda assim, a Escritura normalmente coloca alimento no centro do jejum, porque o jejum está vinculado ao apetite corporal, dependência criatura, e a escolha de trazer até mesmo a fome sob a senhoria de Deus. O que importa não é encontrar a versão mais impressionante, mas escolher uma forma que seja verdadeira, reverente e sábia para sua época da vida. Para uma pessoa, isso pode ser uma refeição perdida unida à oração. Para outra, pode ser alimentação mais simples por vários dias.",
+            "Uma mãe jovem uma vez me perguntou se ela poderia jejuar enquanto amamentava e esgotada. Eu lhe disse que sabedoria, não culpa, deve governar tal pergunta. Seu corpo estava alimentando uma criança; alimento não era o lugar para começar. Em vez disso, ela reservou seu telefone por uma hora à noite após as crianças dormirem e deu aquele tempo à Escritura e oração. Esse tipo de abstenção não é o centro bíblico do jejum, mas ainda pode servir o mesmo propósito espiritual em uma época quando o jejum de comida seria indevido. Depois ela disse: \"Não percebi quanto aquela pequena tela estava comendo minha atenção.\" **O objetivo não é provar severidade, mas criar espaço para fome mais clara por Deus.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Zacarias 7:5-6",
+              "book_code": "ZEC",
+              "chapter": 7,
+              "verses": "5-6",
+              "translation": "Almeida",
+              "text": "Fala a todo o povo da terra e aos sacerdotes, dizendo: Quando jejuastes e vos lamentastes no quinto e sétimo mês durante estes setenta anos, porventura jejuastes para mim, para mim? E quando comeis e bebeis, porventura não comeis e bebeis para vós mesmos?"
+            },
+            {
+              "display": "Êxodo 34:28",
+              "book_code": "EXO",
+              "chapter": 34,
+              "verses": "28",
+              "translation": "Almeida",
+              "text": "E esteve ali com o Senhor quarenta dias e quarenta noites; não comeu pão, nem bebeu água; e escreveu nas tábuas as palavras do concerto, os dez mandamentos."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai sábio, concede-nos um espírito de discernimento, para que no jejum não imitemos outros cegamente nem nos indulgiemos indiferentemente, mas façamos escolhas apropriadas e santas moldadas pela verdade, pelas realidades de nossos corpos, e por teu gracioso guiar. Restringe toda severidade que surge de vaidade, e toda esquiva que surge de negligência espiritual. Que todo pequeno ato de negação a si mesmo se torne ocasião para busca mais profunda por ti, e que cada reconhecimento de nossos limites se torne uma lição em dependência mais humilde de tua graça. Por Jesus Cristo nosso Senhor. Amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Dia 6",
+      "title": "Quando o Jejum Vai Mal",
+      "subtitle": "O jejum vai mal quando perde humildade e misericórdia.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Isaías 58:3-7",
+            "book_code": "ISA",
+            "chapter": 58,
+            "verses": "3-7",
+            "translation": "Almeida",
+            "text": "Eis que no dia do vosso jejum achais prazer, e quereis oprimir todos os vossos devedores... Eis que jejuais para contendas e para ferirdes com punho iníquo; não jejuais como hoje para fazer ouvir a vossa voz no alto. Porventura é este o jejum que escolhi? um dia em que o homem aflija a sua alma? Porventura é curvar a cabeça como o junco, e estender saco e cinza? Porventura a isto chamais jejum e dia aceitável ao Senhor? Porventura o jejum que escolhi não é este: que soltes as ligaduras da impiedade, que desfaças as coyundas do jugo, e que deixes livres os oprimidos, e despedaces todo o jugo?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Toda prática espiritual tem suas sombras, e o jejum não é exceção. Pode se tornar quietly auto-congratulador. Pode ficar teatral. Pode permanecer intensamente privado enquanto nos deixa estranhamente intocados pelas necessidades dos outros. É por isso que a Escritura coloca avisos fortes ao seu redor.",
+            "Leia Isaías 58:3-7 e deixe sua agudeza ficar. O povo estava jejuando, mas suas vidas ainda eram marcadas por aspereza, injustiça e auto-interesse. Deus está dizendo, em efeito, Não me traga seu apetite enquanto retém sua obediência. Depois Jesus em Mateus 6 acrescenta um segundo aviso: não use o jejum para ser visto. Tomados juntos, estas passagens protegem a alma de duas corrupções profundas, vaidade pública e dureza privada.",
+            "Uma mulher uma vez me disse, entre riso e vergonha, que se sentia orgulhosa de ter jejuado duas vezes em uma semana. Essa pequena confissão foi mais importante do que parecia, porque o orgulho muitas vezes entra na prática espiritual pela porta lateral. Com o tempo, ela escolheu manter seu jejum oculto e dar o dinheiro que teria gasto em almoço. Aquele era um jejum mais sábio. **O jejum mais seguro é aquele que torna uma pessoa menos impressionada consigo mesma e mais pronta a amar seu próximo.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Zacarias 7:5-6",
+              "book_code": "ZEC",
+              "chapter": 7,
+              "verses": "5-6",
+              "translation": "Almeida",
+              "text": "Fala a todo o povo da terra e aos sacerdotes, dizendo: Quando jejuastes e vos lamentastes no quinto e sétimo mês durante estes setenta anos, porventura jejuastes para mim, para mim? E quando comeis e bebeis, porventura não comeis e bebeis para vós mesmos?"
+            },
+            {
+              "display": "Lucas 18:11-12",
+              "book_code": "LUK",
+              "chapter": 18,
+              "verses": "11-12",
+              "translation": "Almeida",
+              "text": "O fariseu, pé ante pé, orava assim consigo mesmo: Ó Deus, graças te dou porque não sou como os outros homens, roubadores, injustos, adúlteros, nem ainda como este publicano; Jejuo duas vezes na semana, e dou os dízimos de tudo quanto possuo."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor santo, preserva nosso jejum da corrupção do orgulho e da vaidade de autossatisfação espiritual. Guarda-nos de autopreservação espiritual, e de nos aproximarmos de forma religiosa enquanto permanecemos longe de misericórdia e justiça. Concede que enquanto buscamos a ti em secreto, possamos nos tornar mais humildes de coração; e enquanto nos negamos diante de ti, possamos nos tornar mais prontos a amar os necessitados. Deixa todo nosso ato ser verdadeiramente oferecido a ti, para que o jejum caminhe junto com a caridade, e a devoção com compaixão. Por Jesus Cristo nosso Senhor. Amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Dia 7",
+      "title": "O Jejum Termina em uma Festa",
+      "subtitle": "A última palavra da Escritura sobre a fome não é privação, mas um banquete.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Apocalipse 19:9",
+            "book_code": "REV",
+            "chapter": 19,
+            "verses": "9",
+            "translation": "Almeida",
+            "text": "E disse-me: Bem-aventurados aqueles que são chamados à ceia das bodas do Cordeiro. E acrescentou: Estas são as verdadeiras palavras de Deus."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A Bíblia não termina com privação. Termina com uma festa de casamento. Isso deve evitar que o jejum se torne severo, sem alegria ou autossealado. O jejum cristão sempre traz uma nota escatológica. Nos lembra que ainda não estamos em casa, que nossa verdadeira satisfação ainda está adiante, e que a fome mais profunda da alma finalmente será saciada em Cristo.",
+            "Leia Apocalipse 19:9 devagar.",
+            "**\"Bem-aventurados aqueles que são chamados à ceia das bodas do Cordeiro.\"**",
+            "A história da Escritura se move da fome no deserto em direção à abundância nupcial. Isaías viu o banquete em avanço. Jesus falou de comer e beber de novo no reino de seu Pai. A imaginação cristã final não é escassez, mas comunhão. Por essa razão, o jejum não é um fim em si mesmo. Treina o desejo. Ensina o coração a não se contentar muito rapidamente com o que não pode finalmente satisfazê-lo.",
+            "Uma mulher idosa uma vez me disse, perto do fim de uma vida marcada por jejum fiel: \"Cada pequeno jejum me fez ansiar mais pela ceia de bodas do Cordeiro.\" Depois ela sorriu e acrescentou: \"Tudo isto foi um abridor de apetite.\" Não era uma linha inteligente. Era sólida teologia falada simplesmente. **Se o jejum não desperta anseio por Cristo e seu reino, encolheu em algo muito pequeno demais.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Isaías 25:6",
+              "book_code": "ISA",
+              "chapter": 25,
+              "verses": "6",
+              "translation": "Almeida",
+              "text": "E neste monte o Senhor dos exércitos fará a todos os povos um banquete de fatos gordos, um banquete de vinhos envelhecidos, de fatos gordos e ricos, de vinhos envelhecidos e purificados."
+            },
+            {
+              "display": "Mateus 26:29",
+              "book_code": "MAT",
+              "chapter": 26,
+              "verses": "29",
+              "translation": "Almeida",
+              "text": "Porém vos digo que, desde agora, não beberei deste fruto da vide, até àquele dia em que o beber convosco de novo no reino de meu Pai."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus Cristo, obrigado porque o fim preparado por teu povo não é privação eterna, mas glória na ceia do Cordeiro. Concede que todo jejum terrestre sirva um propósito mais profundo do que disciplina sozinha, ampliando dentro de nós uma fome mais verdadeira por ti. Em cada ato de abstenção, ensina-nos que nossa satisfação final é encontrada em ti; em toda fome menor, aprofunda nosso anseio pelo reino ainda a vir. Guarda nossa esperança de encolher em mero método, e treina nossos corações a esperar por ti até o dia daquele banquete abençoado. Por Jesus Cristo nosso Senhor. Amém.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

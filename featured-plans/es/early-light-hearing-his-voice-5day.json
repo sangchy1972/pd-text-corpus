@@ -1,0 +1,350 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS02",
+    "slug": "hearing-his-voice",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estaciones de la Vida",
+      "secondary": "early-light",
+      "secondary_label": "Luz Temprana"
+    },
+    "tags": [
+      "mujeres jovenes",
+      "primer trabajo",
+      "llamado",
+      "identidad",
+      "ambicion",
+      "adultez-temprana"
+    ],
+    "title": "Escuchando Su Voz en un Mundo Ruidoso",
+    "subtitle": "Encontrando dirección en silencio cuando la vida se vuelve ruidosa",
+    "audience": {
+      "life_stage": [
+        "mujeres jóvenes",
+        "veintitantos",
+        "inicio de carrera"
+      ],
+      "emotional_state": [
+        "esperanzada",
+        "incierta",
+        "buscando dirección"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Para la mujer que intenta encontrar dirección en un mundo lleno de opiniones, opciones y ruido, y que ansía escuchar a Dios más claramente.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#A8D8B9",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_woman_morning_window_spring_light",
+      "icon": "young-tree-with-blossoms-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Juan 10:3-5",
+        "book_code": "JHN",
+        "chapter": 10,
+        "verses": "3-5"
+      },
+      {
+        "display": "1 Samuel 3:9-10",
+        "book_code": "1SA",
+        "chapter": 3,
+        "verses": "9-10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "No Toda Voz Fuerte Merece Mi Obediencia",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Juan 10:3-5",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "3-5",
+            "translation": "Reina-Valera 1909",
+            "text": "Las ovejas oyen su voz... y llama a sus ovejas por nombre y las saca... Y las ovejas lo siguen, porque conocen su voz. Al extraño no lo seguirán..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una de las formas más profundas de agotamiento en la temprana adultez no es siempre tener demasiado que hacer. Es tener demasiadas voces diciéndote cómo vivir. Antes de que el día comience, ya alguien te está enseñando cómo construir una carrera, optimizar tus hábitos, manejar tu cuerpo, mejorar tus relaciones y evitar desperdiciar tus veinte años. Mucho de esto suena sabio. Mucho de esto suena urgente. Pero cuando todas esas voces se apresuran juntas, el alma a menudo se vuelve menos clara, no más.",
+            "En Juan 10, Jesús dice que las ovejas reconocen la voz del pastor, y que no seguirán a un extraño porque no reconocen su voz. Esa imagen es profundamente reconfortante. Discernir la voz de Dios no se presenta como un don reservado para creyentes extraordinariamente avanzados. Se describe como una relación de familiaridad. Las ovejas conocen al pastor porque le pertenecen y permanecen cerca de él.",
+            "Eso importa en un mundo ruidoso. La voz más fuerte no es automáticamente la más verdadera. La voz más pulida no siempre es la guía más segura. Muchas mujeres jóvenes se extravían no porque sean negligentes, sino porque sinceramente desean dirección y comienzan a confundir la urgencia con la sabiduría.",
+            "**La voz de Dios tal vez no sea siempre la más fuerte, pero te llevará hacia una verdad más profunda, más estabilidad y paz.** No simplemente inflamará tu miedo ni adularà tu ambición. Te llamará de nuevo hacia una forma de vida más clara y más anclada.",
+            "Hoy, haz una pregunta sencilla sobre las voces que te moldean: ¿esta voz me hace más frenética o más fiel? ¿Más agitada por dentro o más clara ante Dios? Esa pregunta no lo resolverá todo, pero puede ayudarte a reentrenar tu audición. La voz más digna de reconocer sigue siendo la del Pastor."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, el mundo es ruidoso y mi corazón es fácilmente arrastrado en diferentes direcciones. A veces quiero respuestas tan rápidamente que absorbo la urgencia de otras personas antes de haber hecho espacio para Tu sabiduría. Ten piedad de mí y adiéstrame para reconocer Tu voz de nuevo. Mantenme de tratar el volumen como verdad, la popularidad como sabiduría, o la presión como guía. Construye un discernimiento más silencioso en mí, para que me vuelva más familiarizado con lo que viene de Ti y menos fácilmente gobernado por lo que solo llena mi mente. Gracias porque no me diriges desde la distancia, sino que me conoces como un pastor conoce a sus ovejas. Enséñame a seguirte en medio de muchas voces. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Juan 10:3-5",
+              "book_code": "JHN",
+              "chapter": 10,
+              "verses": "3-5",
+              "translation": "Reina-Valera 1909",
+              "text": "Las ovejas oyen su voz... y llama a sus ovejas por nombre y las saca... Y las ovejas lo siguen, porque conocen su voz. Al extraño no lo seguirán..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "La Dirección de Dios No Siempre Llega de Una Vez",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Hechos 16:6-10",
+            "book_code": "ACT",
+            "chapter": 16,
+            "verses": "6-10",
+            "translation": "Reina-Valera 1909",
+            "text": "El Espíritu Santo les impedía predicar la palabra en Asia... intentaban ir a Bitinia, pero el Espíritu no se lo permitía... Se le apareció a Pablo una visión de noche: Un hombre macedonio se le presentaba..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Cuando muchos adultos jóvenes piden dirección a Dios, lo que a menudo quieren es no solo Su presencia, sino un mapa completo. ¿Qué trabajo debo tomar? ¿Debo mudarme? ¿Debo quedarme e intentar de nuevo, o es tiempo de cambiar de dirección? ¿Estoy siendo fiel o estoy desperdiciando tiempo? La presión de la temprana adultez no es siempre una falta de deseo. A menudo es el peso de demasiadas posibilidades.",
+            "Tendemos a asumir que si Dios realmente nos guía, hará todo obvio de una vez. Pero Hechos 16 cuenta una historia más realista. Pablo y sus compañeros no reciben la visión macedónica al principio. Primero se ven impedidos. Intentan un camino, luego otro. Se ven redirigidos antes de que el camino se haga más claro. La dirección de Dios se despliega mientras se mueven, escuchan, se ajustan y permanecen disponibles.",
+            "Eso importa porque muestra que la dirección espiritual no siempre es lineal. Dios no siempre entrega el cuadro final al inicio. A veces guía por etapas. Cierra un camino, inquieta otro, y luego, en el tiempo, da suficiente luz para el siguiente paso obediente.",
+            "**A veces Dios no está ausente. Simplemente te está guiando de una manera que requiere confianza en lugar de control total.** Para una mujer joven rodeada de opciones, eso puede sentirse profundamente incómodo. Pero la incertidumbre no siempre es prueba de que estés fuera de curso. Puede simplemente significar que aún estás siendo guiado en tiempo real.",
+            "Así que hoy, no preguntes solo, \"¿Por qué todavía no lo sé todo?\" Pregunta también, \"¿Qué ha hecho ya claro Dios para hoy?\" La dirección a menudo llega de esa manera: no como un anuncio completo, sino como un camino que lentamente se abre."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, a menudo deseo que me expliques el camino de una vez para no tener que moverme a través de la incertidumbre. Sabes que estoy viviendo en una temporada llena de opciones y miedo a elegir mal. Ayúdame a no confundir claridad parcial con Tu ausencia. Dame un corazón dispuesto cuando cierres una puerta, ralentices otro camino, o decidas no revelar todo aún. Gracias porque no esperas solo en el destino. Estás conmigo en los giros, las pausas, los ajustes y los nuevos intentos. Enséñame a desearte no solo a un mapa. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Hechos 16:6-10",
+              "book_code": "ACT",
+              "chapter": 16,
+              "verses": "6-10",
+              "translation": "Reina-Valera 1909",
+              "text": "El Espíritu Santo les impedía predicar la palabra en Asia... intentaban ir a Bitinia, pero el Espíritu no se lo permitía... Se le apareció a Pablo una visión de noche: Un hombre macedonio se le presentaba..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "Dios a Menudo Habla en Silencio, No en Ruido",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Isaías 30:15",
+            "book_code": "ISA",
+            "chapter": 30,
+            "verses": "15",
+            "translation": "Reina-Valera 1909",
+            "text": "Porque así dijo el Señor Dios, el Santo de Israel: En el retorno y el descanso seráis salvos; en el silencio y la confianza estará vuestra fortaleza..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Nuestro tiempo confunde fácilmente la intensidad con la claridad. Si algo se siente fuerte, emocionante, urgente, o emocionalmente cargado, asumimos que debe importar más. Pero la temprana adultez ya es suficientemente ruidosa por sí sola. Las redes sociales, las opiniones, la velocidad urbana, los cuerpos cansados, la estimulación digital y la presión futura pueden mantener a una persona en un estado constante de reacción. En esa clase de vida, la voz de Dios puede parecer demasiado silenciosa para notarse.",
+            "Por eso las palabras de Isaías importan aquí. En Isaías 30, el Señor dice a Su pueblo que en el retorno y el descanso serán salvos, y que en el silencio y la confianza estará su fortaleza. La Escritura nos enseña algo importante: Dios no siempre guía a través del espectáculo. A menudo estabiliza y guía a través del silencio, la receptividad, y un corazón que se ha desacelerado lo suficiente para recibirlo.",
+            "Muchas mujeres jóvenes no están ignorando a Dios a propósito. Simplemente se han acostumbrado a prestar atención solo a lo que es fuerte. Pero no todo lo fuerte es profundo, ni todo lo silencioso es débil.",
+            "**Si el alma nunca se aquieta, la dirección sutil pero real a menudo se perderá.** El silencio no es tiempo desperdiciado. Es uno de los lugares donde la vida interior vuelve a ser audible. Puede que no recibas una respuesta dramática cada vez que te aquietes ante Dios, pero con el tiempo te vuelves más perspicaz. Comienzas a notar qué simplemente amplifica tu emoción y qué suavemente reordena tu dirección.",
+            "Hoy, haz un pequeño espacio para ese tipo de escucha. Deja el ruido de fondo por unos minutos. Guarda el teléfono. Deja que tu corazón se aquiete ante el Señor. No estás actuando espiritualidad. Te estás haciendo disponible de nuevo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, reconozco cuán acostumbrado he llegado a estar a las cosas fuertes. Estoy acostumbrado a vivir en medio de velocidad, estimulación y reacción constante. Ten piedad de mí y no me dejes buscarte solo en la intensidad. No me dejes asumir que si Tu dirección no es dramática, no debe ser real. Adiestra mi corazón para aquietarse, desacelerarse y esperar por Ti en lugares más pequeños. Si he estado rodeado de ruido demasiado tiempo, haz espacio dentro de mí de nuevo para poder escuchar la voz que estabiliza y redirige. Gracias porque no solo hablas a tormentas externas. También hablas suavemente en los lugares amontonados dentro de mí. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Isaías 30:15",
+              "book_code": "ISA",
+              "chapter": 30,
+              "verses": "15",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque así dijo el Señor Dios, el Santo de Israel: En el retorno y el descanso seráis salvos; en el silencio y la confianza estará vuestra fortaleza..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "La Voz de Dios Lleva Verdad y Produce Fruto",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Mateo 7:16-18",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "16-18",
+            "translation": "Reina-Valera 1909",
+            "text": "Por sus frutos los conoceréis... Un árbol bueno produce buen fruto; pero un árbol malo produce mal fruto."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Discernir la voz de Dios no es solo preguntar, \"¿Me siento movido?\" También es preguntar, \"¿Qué tipo de vida está produciendo esta dirección en mí?\" Algunas voces crean entusiasmo pero también hacen a una persona más inquieta. Algunas oportunidades se ven impresionantes pero lentamente debilitan la honestidad, la plegaria, o la paz. En la temprana adultez, es fácil ser arrastrado fuera de curso por cosas que no se ven obviamente mal. De hecho, pueden verse admirables, estratégicas, o enviables.",
+            "Jesús enseña que los árboles se conocen por su fruto. Ese principio nos ayuda aquí. Una voz que consistentemente te hace más vanidoso, apurado, performativo, sin oración, o interiormente fragmentado no debe confiarse simplemente porque suena ambicioso o exitoso. La dirección de Dios puede estirarte, corregirte, o incluso pedirte dejes algo atrás, pero con el tiempo producirá fruto diferente. Te moverá hacia una mayor integridad, motivos más limpios, obediencia más firme, y paz más profunda.",
+            "**La voz de Dios no solo influye dónde vas. También moldea quién te vuelves mientras llegas allí.** Por eso el discernimiento debe profundizar más allá de solo la oportunidad. La verdadera pregunta no es solo, \"¿Puedo hacer esto?\" sino, \"¿Qué está haciendo esto a mi alma?\"",
+            "Si estás considerando una dirección ahora, pregúntate honestamente: ¿qué está alimentando en mí? ¿Vanidad? ¿Miedo? ¿Comparación? ¿Pánico? ¿O paciencia, honestidad y reverencia? Dios raras veces está interesado en ser impresionante por su propio bien. Busca fruto que perdure."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, líbrame de ese tipo de discernimiento que solo mira apariencias, oportunidades, o lo que otros admiran. Enséñame a no preguntar solo qué suena bien, sino qué produce buen fruto. Si hay direcciones que se ven brillantes pero están drenando silenciosamente mi paz, mi honestidad, o mi dependencia de Ti, dame luz para ver claramente y valor para soltar. Y si hay caminos que parecen menos impresionantes pero crecerían fidelidad, auto-control, gentileza y verdad en mí, mantenme de pasar por alto. Gracias porque Te importa no solo dónde termino, sino quién me vuelvo. Que lo que siga sea verdaderamente Tú. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Mateo 7:16-18",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "16-18",
+              "translation": "Reina-Valera 1909",
+              "text": "Por sus frutos los conoceréis... Un árbol bueno produce buen fruto; pero un árbol malo produce mal fruto."
+            },
+            {
+              "display": "Gálatas 5:22-23",
+              "book_code": "GAL",
+              "chapter": 5,
+              "verses": "22-23",
+              "translation": "Reina-Valera 1909",
+              "text": "Pero el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre, templanza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Escuchar a Dios También Significa Responderle",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Samuel 3:9-10",
+            "book_code": "1SA",
+            "chapter": 3,
+            "verses": "9-10",
+            "translation": "Reina-Valera 1909",
+            "text": "Si él te llama, dirás: Habla, Señor, que tu siervo escucha... Entonces Samuel respondió: Habla, que tu siervo escucha."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A menudo cuando decimos que queremos escuchar a Dios, lo que realmente queremos es una respuesta reconfortante. Pero en la Escritura, escuchar a Dios raramente es solo recibir información. Usualmente es una invitación a responder. Cuando el joven Samuel escuchó a Dios llamando en la noche, al principio no reconoció la voz. Con la ayuda de Elí, aprendió a responder, \"Habla, que tu siervo escucha.\" Esa postura importa. El discernimiento comienza no con dominio, sino con disposición.",
+            "Esto es especialmente importante en la temprana adultez, porque la vida espiritual puede convertirse en otra forma de ansiedad de información. ¿Estoy perdiendo el plan de Dios? ¿Estoy fallando en encontrar la versión correcta de mi futuro? Pero lo que madura el corazón no es solo escuchar algo nuevo. Es responder fielmente a lo que ya ha sido hecho claro.",
+            "A veces Dios no dice más porque aún estamos siendo invitados a obedecer lo que ya hemos escuchado. Una vida de escucha no se construye persiguiendo novedad constante. Se construye por un corazón que permanece disponible, enseñable, y listo para responder.",
+            "**Aquellos que verdaderamente aprenden a escuchar a Dios a menudo se vuelven la misma gente que aprende a responderle.** Esa respuesta puede ser callada. Puede ser una decisión honesta, un hábito entregado, un pequeño acto de obediencia, o un ritmo diario restaurado con Dios. Pero cada respuesta profundiza la relación.",
+            "Así que hoy, no busques primero una palabra más dramática. Pregunta en cambio: ¿qué ha estado haciendo ya claro Dios en mí? ¿Dónde ya ha estado invitando una respuesta? La escucha se agudiza cuando la obediencia se simplifica. \"Habla, Señor\" es una oración bella, pero también lo es esta: \"Estoy listo para responder.\""
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias porque no solo estás dispuesto a hablar, sino también a enseñarme cómo escuchar. Perdóname porque a menudo quiero respuestas que me calmen más que palabras que me transformen. Dame un corazón como el de Samuel, no fingiendo entender todo, no apresurándome a controlar, sino simplemente diciendo ante Ti, \"Habla, Señor; que tu siervo escucha.\" Si ya has estado señalando lugares en mi vida que necesitan ajuste, rendición, comienzo, o parada, dame el valor de responder. Mantenme de coleccionar información espiritual sin vivirla. Que crezca más familiarizado con Tu voz y más dispuesto a dejar que esa voz moldee mis pasos. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Samuel 3:9-10",
+              "book_code": "1SA",
+              "chapter": 3,
+              "verses": "9-10",
+              "translation": "Reina-Valera 1909",
+              "text": "Si él te llama, dirás: Habla, Señor, que tu siervo escucha... Entonces Samuel respondió: Habla, que tu siervo escucha."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

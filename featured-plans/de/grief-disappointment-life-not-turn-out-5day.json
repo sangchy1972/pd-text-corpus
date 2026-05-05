@@ -1,0 +1,383 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG05",
+    "slug": "life-not-turn-out",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garten der Gefühle",
+      "secondary": "grief-disappointment",
+      "secondary_label": "Trauer und Enttäuschung"
+    },
+    "tags": [
+      "trauer",
+      "enttaeuschung",
+      "verzoegerte-hoffnung",
+      "weinen",
+      "trost"
+    ],
+    "title": "Wenn das Leben nicht so verlief, wie erhofft",
+    "subtitle": "Geschrieben für diejenige, die immer sagt \"es ist okay\", deren Herz aber die Enttäuschung nicht loslässt.",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "trauernd",
+        "enttäuscht",
+        "tränenreich"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Geschrieben für diejenige, die immer sagt \"es ist okay\", deren Herz aber die Enttäuschung nicht loslässt.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_quiet_garden_soft_rain_grief",
+      "icon": "falling-leaf-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Sprüche 13:12",
+        "book_code": "PRO",
+        "chapter": 13,
+        "verses": "12"
+      },
+      {
+        "display": "Ruth 1:20-21",
+        "book_code": "RUT",
+        "chapter": 1,
+        "verses": "20-21"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Enttäuschung tut dem Herz wirklich weh",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 13:12",
+            "book_code": "PRO",
+            "chapter": 13,
+            "verses": "12",
+            "translation": "Lutherbibel 1912",
+            "text": "Aufgeschobene Hoffnung macht das Herz matt; aber erfüllte Sehnsucht ist ein Baum des Lebens."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Es gibt einen Schmerz, der nicht daher kommt, dass etwas Besessenes plötzlich verloren geht, sondern dass etwas Ersehntes niemals kommt. Vielleicht ist es eine Beziehung, die nicht begann, eine Gelegenheit, die vertan wurde, eine Familie, die sich nicht änderte, oder etwas, das du viele Male gebetet hast, für das aber keine Antwort kam. Solche Enttäuschung ist oft nicht wie plötzliche Trauer. Sie sinkt langsam ins Herz, bis du nicht mehr davon sprechen magst, nicht mehr warten willst und nicht mehr glauben kannst.",
+            "Sprüche 13 sagen: \"Aufgeschobene Hoffnung macht das Herz matt.\" Die Bibel nimmt das ernst. Sie macht es nicht leicht, sie sagt nicht schnell \"du solltest positiv bleiben\". Sie sagt zuerst: das tut dem Herz weh.",
+            "**Du bist nicht zu zerbrechlich, du bist nicht zu dramatisch, du bist wirklich von Enttäuschung verletzt worden.** Manchmal sind wir zu schnell hart zu uns selbst, als würde Weiterschmerzen bedeuten, nicht reif zu sein. Aber Gottes Wort lässt dich erst stehen und zugeben: ja, das tut wirklich sehr weh.",
+            "Gott fragt dich nicht zuerst nach Optimismus, Gott lädt dich zuerst zur Ehrlichkeit ein. **Manchmal beginnt echte Heilung, wenn du aufhörst, das Leid zu beschönigen und es beim Namen nennst.** Heute kannst du eine Enttäuschung aufschreiben und dann schreiben: \"Herr, das tut meinem Herzen wirklich weh.\" Das klingt vielleicht schwer, aber echte Heilung beginnt oft, wenn du aufhörst zu beschönigen und das beim Namen nennst.",
+            "Diese Art von Ehrlichkeit kann sich entblößend anfühlen, aber sie ist oft der Anfang, dass Gott den Teil des Herzens, der still geworden ist, heilt. Gott kann dir begegnen, ohne dich zuerst verstecken zu lassen. Er kann ein enttäuschtes Herz mit Geduld statt Druck treffen, und Ehrlichkeit ist eine Weise, wie du ihm erlaubst, anzufangen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gebe zu, dass mich diese Enttäuschung wirklich verletzt hat. Du weißt, wie sehr ich gehofft habe, und du weißt, wie das Herz schwer wird, wenn die Hoffnung immer wieder vergeblich ist. Danke, dass du nicht von mir verlangst, schnell wieder positiv zu werden, sondern dass du mich zuerst ehrlich sein lässt. Heute bringe ich diese unerfüllte Hoffnung vor dich, nicht beschönigt, nicht so als sei es unwichtig. Heile den Teil von mir, der müde, verletzt und verängstigt ist, jemals wieder zu hoffen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 13:12",
+              "book_code": "PRO",
+              "chapter": 13,
+              "verses": "12",
+              "translation": "Lutherbibel 1912",
+              "text": "Aufgeschobene Hoffnung macht das Herz matt; aber erfüllte Sehnsucht ist ein Baum des Lebens."
+            },
+            {
+              "display": "Psalm 42:5",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Was betrübst du dich, meine Seele, und bist so unruhig in mir? Harre auf Gott; denn ich werde ihm noch danken für die Hilfe seines Angesichts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Wenn Gebete nicht so erhört werden, wie ich erhoffte",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Habakuk 3:17-18",
+            "book_code": "HAB",
+            "chapter": 3,
+            "verses": "17-18",
+            "translation": "Lutherbibel 1912",
+            "text": "Obwohl der Feigenbaum nicht blüht und kein Ertrag an den Reben ist ... so will ich mich dennoch des HERRN freuen und frohlocken in Gott, meinem Heiland."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal ist die Enttäuschung am tiefsten, weil du wirklich gebetet hast. Du hast Gott nicht ausgeschlossen. Du hast aufrichtig gebetet. Vielleicht hast du gefastet, hast geweint, hast gewartet. Vielleicht glaubtest du, dass Gott so handeln würde. Und doch kam die Antwort nicht wie erhofft. Solche Enttäuschung kann die Art verändern, wie du betest, wie du Gottes Verheißungen hörst und wie du Stille deutest.",
+            "Die Bibel gibt uns einen ehrlichen Weg. Habakuk spricht von \"obwohl\" bevor er zum \"dennoch\" kommt. Er überspringt nicht das traurige Feld. Er nennt es, dann wendet er sich Gott zu. Echter Glaube ist nicht zu tun, als ob der Schmerz klein ist. Es ist, den Schmerz vor Gott zu bringen, statt sich abzuwenden.",
+            "Manchmal zeigt sich diese Enttäuschung still. Du betest noch, aber mit weniger Hoffnung. Du zögerst, mutig zu bitten, weil du fragst, ob Hoffnung nur neue Verletzung bringt.",
+            "**Es ist erlaubt, Gott zu sagen: \"Das ist nicht das Ergebnis, das ich erhofft habe.\"** Das ist nicht Verachtung. Das ist Beziehung. **Frische Gnade ist nicht nur für jene bestimmt, die bereits verstehen, was Gott tut.** Sie wird jenen gegeben, die noch schmerzen und sich dennoch Gott zuwenden. Bringe heute ein unbeantwortetes Gebet vor Gott, zusammen mit der Enttäuschung darum.",
+            "Du musst heute nicht stark \"dennoch\" sagen, aber du kannst Gott dein \"obwohl\" bringen und ihm vertrauen, dich dort zu treffen. Er ist stark genug, dein Gebet und deine Enttäuschung zu empfangen. Du musst das Geheimnis nicht lösen, bevor du zu ihm zurückkehrst. Manchmal ist andauernde Nähe die erste Gnade, die du brauchst. Er bleibt nah, auch wenn dein Gebet noch wund klingt."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gebe zu, dass manche Enttäuschungen so tief schmerzen, weil ich wirklich gebetet habe. Ich glaubte, du würdest so handeln wie ich hoffte, und nun ist nicht geschehen, was ich ersehnte. Du kennst meine Verwirrung, und du weißt, dass selbst wieder zu beten manchmal ermüdend ist. Danke, dass ich mein \"obwohl\" vor dich bringen kann, statt Annahme zu erzwingen. Heute gebe ich dieses unbeantwortete Gebet zurück in deine Hände. Bewahre meine Beziehung zu dir, noch bevor du die Umstände änderst, und stärke jene, die nahe daran sind, die Hoffnung zu verlieren, weil ihr Gebet nicht beantwortet wurde. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Habakuk 3:17-18",
+              "book_code": "HAB",
+              "chapter": 3,
+              "verses": "17-18",
+              "translation": "Lutherbibel 1912",
+              "text": "Obwohl der Feigenbaum nicht blüht und kein Ertrag an den Reben ist ... so will ich mich dennoch des HERRN freuen und frohlocken in Gott, meinem Heiland."
+            },
+            {
+              "display": "Klagelieder 3:21-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "21-23",
+              "translation": "Lutherbibel 1912",
+              "text": "Das will ich mir zu Herzen nehmen, darum hoffe ich: Die Gnade des HERRN ist's, daß wir nicht gar aus sind, seine Erbarmen haben noch kein Ende; sie erneuern sich alle Morgen; deine Treue ist groß."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Zu schnell getröstet zu werden tut auch weh",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Hiob 2:13",
+            "book_code": "JOB",
+            "chapter": 2,
+            "verses": "13",
+            "translation": "Lutherbibel 1912",
+            "text": "Und sie saßen bei ihm auf der Erde sieben Tage und sieben Nächte, und keiner redete ein Wort mit ihm; denn sie sahen, daß sein Schmerz sehr groß war."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Enttäuschte Menschen müssen nicht nur mit der Sache selbst umgehen, sondern auch mit dem Trost anderer. Manche Tröstungen sind echt, manche kommen zu schnell. Wie \"denk nicht zuviel\" oder \"Gott hat sicher einen Grund\" oder \"mit der Zeit geht's vorbei\". Das ist nicht böse gemeint, aber wenn das Herz noch blutet, kann eine schnelle Antwort wie ein Pflaster auf einer tiefen Wunde wirken. Sie heilt nicht wirklich und macht dich unwilliger, wieder zu sprechen.",
+            "In Hiob saßen Hiobs Freunde am Anfang richtig: sie weinten mit ihm. Später, als sie mehr sprachen, schadeten sie mehr als halfen. Psalm 147 sagt, Gott \"verbindet ihre Wunden\". Verbinden bedeutet Sorgfalt, Geduld und Zartheit. Gott behandelt Trauer nicht wie ein Problem, das man schnell löst.",
+            "Schlechter Trost kann dich fragen lassen, ob du zu empfindlich bist oder zu langsam heilst. Das ist, warum sanfte Gegenwart zählt. Die Seele heilt oft besser in der Gesellschaft von jemandem, der mit Geduld zuhört, als von jemandem, der beeilt zu erklären.",
+            "**Nicht jeder geistliche Satz ist in jedem Moment ein heilender Satz.** Zeitpunkt zählt. Gegenwart zählt. **Manchmal ist der christlichste Trost nicht sofortige Erklärung, sondern stille Begleitung.**",
+            "Wenn dich kürzlich jemands \"Trost\" mehr verletzt hat, bring auch diese Verletzung zu Gott. Er kann nicht nur die ursprüngliche Enttäuschung heilen, sondern auch den sekundären Schmerz, schlecht geantwortet zu werden. Er weiß, wie man sich nähert, ohne eine Wunde zu schließen, bevor sie bereit ist.",
+            "Wenn nötig, bitte Gott um Unterscheidung darüber, wo du freier teilen kannst und wo du deine Zartheit vorsichtiger schützen solltest. Er ehrt Wunden, indem er sie langsam heilt. Er kann dich auch lehren, wie weiser, sanfter Trost klingt, damit dein Herz nicht zusätzliche Verwirrung neben alter Trauer trägt."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, du weißt, dass mich manchmal nicht nur die Enttäuschung verletzt, sondern auch Trost, der zu schnell kam, zu leicht, zu ungeduldig. Danke, dass du nicht so bist. Du drängelst mich nicht weg und reißt mich nicht voreilig auf. Heute bringe ich auch die Verletzung durch Worte vor dich. Heile nicht nur die ursprüngliche Enttäuschung, sondern auch den Schmerz, der später hinzukam. Gib mir Weisheit zu wissen, wem ich öffnen kann, und die Freiheit, still bei dir zu sein, wenn das nötig ist. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Hiob 2:13",
+              "book_code": "JOB",
+              "chapter": 2,
+              "verses": "13",
+              "translation": "Lutherbibel 1912",
+              "text": "Und sie saßen bei ihm auf der Erde sieben Tage und sieben Nächte, und keiner redete ein Wort mit ihm; denn sie sahen, daß sein Schmerz sehr groß war."
+            },
+            {
+              "display": "Psalm 147:3",
+              "book_code": "PSA",
+              "chapter": 147,
+              "verses": "3",
+              "translation": "Lutherbibel 1912",
+              "text": "Er heilt, die zerbrochenen Herzens sind, und verbindet ihre Wunden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Gott heilt mich langsam in der Enttäuschung",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 147:3",
+            "book_code": "PSA",
+            "chapter": 147,
+            "verses": "3",
+            "translation": "Lutherbibel 1912",
+            "text": "Er heilt, die zerbrochenen Herzens sind, und verbindet ihre Wunden."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wenn Menschen lange Enttäuschung durchleben, fürchten sie oft nicht die gegenwärtige Schwere, sondern dass sie nie zurück können, wie sie waren. Du merkst vielleicht, dass du nicht mehr so leicht glauben kannst, nicht mehr so leicht froh sein kannst, dein Herz nicht mehr so leicht öffnest. Enttäuschung rauhes das Herz auf und macht dir Angst, dass es nach einer Heilung wieder verletzt wird.",
+            "Diese Furcht verdient Zartheit. Enttäuschung kann das Herz wirklich umgestalten. Aber die Schrift bietet ein anderes Bild als harsche Selbstreparatur. Psalm 147 sagt, Gott heilt die mit gebrochenem Herzen und verbindet ihre Wunden. Verbinden ist sorgfältige Arbeit. Es ist nicht gewaltsam oder ungeduldig. Es ist ein Bild von Gott, der mit geduldigen Händen nahe kommt.",
+            "Klagelieder fügt eine weitere Schicht hinzu: Seine Gnaden sind jeden Morgen neu. Das bedeutet, Heilung muss nicht auf einmal kommen, um echt zu sein. Gottes tiefste Arbeit geht manchmal still ein. Sie sieht vielleicht nicht dramatisch aus, aber sie ist dennoch Gnade.",
+            "**Gottes Werk in dir ist keine raue Reparatur. Es ist sanfte Heilung.** Versuche, das langsame Tempo der Heilung nicht zu verachten. **Heilung ist nicht immer eine Rückkehr. Manchmal ist es eine Erneuerung.**",
+            "Wenn du kannst, schreib ein kleines Zeichen auf, das Gott bereits in dir bewahrt hat. Vielleicht betest du wieder ehrlich. Vielleicht versteckst du dich nicht mehr so sehr. Langsame Heilung ist immer noch Heilung, und der Herr arbeitet immer noch, auch wo Fortschritt still ist.",
+            "Manche Morgen könnte die neue Gnade sich sehr klein anfühlen, aber kleine Gnade ist immer noch Gnade, und geduldige Heilung ist immer noch Gottes Werk. Stille Heilung ist immer noch heilige Heilung. Lass diese langsamere Gnade dich lehren, Gottes Treue nicht nur an dramatischen Momenten zu messen. Und er ist geduldig genug, um zu pfegen, was sich noch verletzt anfühlt."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, manchmal fürchte ich, dass diese Enttäuschungen mich zu tief verändert haben, dass ich nie zu der Zartheit und Helligkeit zurückkehre, die ich einmal kannte. Danke, dass dein Wort mir zeigt, dass du mich nicht grob reparierst. Du verbindest Wunden mit Geduld. Lehr mich, kleine Heilungszeichen nicht zu verachten, und halte mich von Verzweiflung zurück, wenn Fortschritt langsam ist. In deinen neuen Gnaden jeden Morgen lerne ich, mich selbst sanfter anzusehen und zu vertrauen, dass du tiefere Heilung wirkkst als ich sehe. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 147:3",
+              "book_code": "PSA",
+              "chapter": 147,
+              "verses": "3",
+              "translation": "Lutherbibel 1912",
+              "text": "Er heilt, die zerbrochenen Herzens sind, und verbindet ihre Wunden."
+            },
+            {
+              "display": "Klagelieder 3:22-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "22-23",
+              "translation": "Lutherbibel 1912",
+              "text": "Die Gnade des HERRN ist's, daß wir nicht gar aus sind, seine Erbarmen haben noch kein Ende; sie erneuern sich alle Morgen; deine Treue ist groß."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Ich kann mit Enttäuschung weiterleben und Hoffnung haben",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Ruth 1:20-21",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "20-21",
+            "translation": "Lutherbibel 1912",
+            "text": "Sie sprach zu ihnen: Nennt mich nicht Noemi (Lieblich), nennt mich Mara (Bitter); denn der Allmächtige hat mir sehr Bitteres angetan. Ich bin voll weggegangen, und der HERR hat mich leer heimgebracht ..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele denken, dass echte Hoffnung erst möglich ist, wenn die Enttäuschung ganz vorbei ist. Sie nehmen an, dass zuerst der Schmerz verschwinden muss, dann Klarheit kommen muss, und nur danach wird Hoffnung möglich. Aber Gott arbeitet oft sanfter. Hoffnung beginnt häufig, während die Wunde noch zart ist. Sie wächst nicht weil alles gelöst wurde, sondern weil das Herz nicht aufgehört hat, sich Gott zuzuwenden.",
+            "Das ist ein Grund, warum Naomis Geschichte so kraftvoll ist. Sie versteckte ihre Bitterkeit nicht. Sie sagte deutlich, dass der Allmächtige sehr bitter mit ihr umgegangen war. Doch ihre Ehrlichkeit disqualifizierte sie nicht von Gottes weiterer Arbeit. Jesajas Worte: \"Siehe, ich will ein Neues schaffen\", verlangen nicht sofortige Optimismus. Sie bieten eine heilige Möglichkeit: Gott kann weiter Leben nach Enttäuschung schaffen.",
+            "Für viele Menschen ist der schwierigste Teil nicht nur, was geschah. Es ist die Furcht, wieder zu hoffen. Aber Hoffnung kommt nicht immer als große Emotion zurück. Manchmal beginnt sie als kleine Bereitschaft zu glauben, dass Enttäuschung nicht alles ist, was Gott über deinem Leben schreibt.",
+            "**Enttäuschung mag real sein, aber sie muss nicht das letzte Kapitel deines Lebens sein.** **Hoffnung kündigt sich selten dramatisch anfangs an.** Trag einen Hoffnungssatz diese Woche mit dir: \"Meine Geschichte ist nicht vorbei\", oder: \"Gott kann immer noch ein Neues tun.\" Lass diesen Satz dich halten, wenn Enttäuschung wieder steigt.",
+            "Eine kleine Rückkehr zu Hoffnung ist keine falsche Hoffnung. Es mag das erste leise Zeichen sein, dass Gott noch Leben an dem Ort schafft, wo du nur Verlust erwartest. Gott kann sogar zögernde Hoffnung beschützen. Dieser stille Anfang zählt, weil viele Geschichten langsam von Gnade erneuert werden, bevor sie sichtbar sich ändern. Diese Möglichkeit verdient Platz zum Atmen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du nicht verlangst, dass ich ganz heil bin, bevor ich wieder hoffe. Du weißt, dass Enttäuschung noch in mir lebt, mit unverabeitetem Schmerz und unbeantworteten Fragen. Aber danke, dass du trotzdem Neues über mein Leben sprichst. Hilf mir, diese Zeit des Verlusts nicht als das Ende meiner Geschichte zu sehen. Auch bevor ich große Veränderung sehe, halte mich, damit ich mich weiter vor dir bringe. Pflanze kleine und echte Hoffnung wieder in mein Herz. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Ruth 1:20-21",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "20-21",
+              "translation": "Lutherbibel 1912",
+              "text": "Sie sprach zu ihnen: Nennt mich nicht Noemi (Lieblich), nennt mich Mara (Bitter); denn der Allmächtige hat mir sehr Bitteres angetan. Ich bin voll weggegangen, und der HERR hat mich leer heimgebracht ..."
+            },
+            {
+              "display": "Jesaja 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "Lutherbibel 1912",
+              "text": "Gedenket nicht an das Frühere und achtet nicht auf das Vorige! Siehe, ich will ein Neues schaffen; jetzt wird es sprießen. Werdet ihr es nicht gewahr?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG04",
+    "slug": "tears-become-prayer",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garden of Emotions",
+      "secondary": "grief-disappointment",
+      "secondary_label": "Grief & Disappointment"
+    },
+    "tags": [
+      "grief",
+      "disappointment",
+      "delayed-hope",
+      "weeping",
+      "comfort"
+    ],
+    "title": "Let Your Tears Become Prayer",
+    "subtitle": "For the woman who is still functioning on the outside, but inwardly feels tired, fragile, and close to tears.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "grieving",
+        "disappointed",
+        "tearful"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "For the woman who is still functioning on the outside, but inwardly feels tired, fragile, and close to tears.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_quiet_garden_soft_rain_grief",
+      "icon": "falling-leaf-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Matthew 5:4",
+        "book_code": "MAT",
+        "chapter": 5,
+        "verses": "4"
+      },
+      {
+        "display": "John 11:33-36",
+        "book_code": "JHN",
+        "chapter": 11,
+        "verses": "33-36"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "Admit That Something Real Was Lost",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Matthew 5:4",
+            "book_code": "MAT",
+            "chapter": 5,
+            "verses": "4",
+            "translation": "KJV",
+            "text": "Blessed are they that mourn: for they shall be comforted."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "One of the hardest parts of grief is how quickly life keeps moving. There are messages to answer, practical needs to manage, and routines that do not pause just because your heart is hurting. That can make sorrow feel strangely hidden. Outwardly, you may still be doing what needs to be done. Inwardly, something may feel torn open.",
+            "Many people become harsh with themselves in that gap. They say, \"Do not be dramatic,\" or, \"You should be doing better by now.\" But grief does not become smaller because you force yourself to keep moving. Jesus speaks with tenderness when He says, \"Blessed are they that mourn: for they shall be comforted.\" He does not praise quick recovery. He names mourners as people who need comfort.",
+            "Psalm 34 says, \"The LORD is nigh unto them that are of a broken heart.\" That means grief is not an embarrassing interruption in the spiritual life. It is one of the places where God especially draws near.",
+            "**Grief is not spiritual failure. It is often the echo of having loved, hoped, trusted, or invested deeply.** If something matters enough to wound you, that does not make you weak. It makes you human.",
+            "Today’s invitation is simple: do not rush past the loss. Name it before God. **Scripture does not teach us to perform strength before God. It teaches us to bring reality into His presence.** You can pray, \"Lord, this is what I lost,\" even if that is all you can say. That honesty is not the opposite of faith. It is often the beginning of being comforted.",
+            "If tears come more easily than words today, let them come. God is not asking you to translate grief perfectly before He receives it. He is not embarrassed by sorrow that still feels unfinished. Today too."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, today I do not want to minimize my loss. You know what I have lost, and You know how quietly it has been pressing on my heart. Thank You that You do not ask me to recover before You come near. Help me admit this pain instead of pretending it is smaller than it is. If all I can do today is cry before You, receive me like that. You said You are near to the brokenhearted. Come close to the emptiest, heaviest, most wordless parts of me. And comfort those who are also grieving, saying goodbye, or weeping alone today. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Matthew 5:4",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "4",
+              "translation": "KJV",
+              "text": "Blessed are they that mourn: for they shall be comforted."
+            },
+            {
+              "display": "Psalm 34:18",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "18",
+              "translation": "KJV",
+              "text": "The LORD is nigh unto them that are of a broken heart; and saveth such as be of a contrite spirit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "When No One Fully Understands",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "1 Samuel 1:12-16",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "12-16",
+            "translation": "KJV",
+            "text": "And it came to pass, as she continued praying before the LORD, that Eli marked her mouth... therefore Eli thought she had been drunken... And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit... but have poured out my soul before the LORD."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some grief feels especially lonely because it is not well understood. There are losses people quickly recognize, and then there are losses that leave you alone in your own heart. Maybe others think you should be over it by now. Maybe they reduce your pain with advice or compare it to something else. When that happens, grief gains a second layer. You are not only hurting because of what happened. You are also hurting because you do not feel accurately seen.",
+            "That kind of loneliness can make people withdraw. After a while, you may stop trying to explain. You may smile, change the subject, or say, \"I’m okay,\" because it feels easier than trying to translate something others keep getting wrong. Silence can become heavy too.",
+            "Hannah’s story speaks tenderly into that experience. She came before the Lord with a \"sorrowful spirit,\" and Eli misunderstood what he saw. Yet God did not. Psalm 56 says that He keeps our tears in His bottle. That image is intimate and careful. It means your sorrow is not blurry in His sight.",
+            "**Even when people cannot fully understand your grief, God does.** That does not erase the ache of being misunderstood, but it means you are not abandoned inside it. **You do not have to find perfect language before coming to Him. You can simply pray, \"Lord, You know.\"**",
+            "If one sentence from someone else has stayed with you painfully, bring that sentence before God today. Ask Him to place His truth over it. He sees your tears, knows your story, and does not misread what is most painful in you.",
+            "Being known by God does not remove every ache of loneliness, but it keeps grief from becoming a place where you feel erased. That prayer is small, but it is not shallow."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You that You do not misread my tears. Others may not know why I am hurting so deeply. They may have spoken quickly or lightly, and it has made me feel even more tired. But You know. You see what is rising inside me when I look quiet on the outside. You hear the sighs I no longer want to explain to people. Today I bring You the pain of being misunderstood, the wounds of being minimized, and the fatigue of not wanting to speak anymore. Comfort me with the peace of being fully known by You, and let Your voice become stronger than the voices that have hurt me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "1 Samuel 1:12-16",
+              "book_code": "1SA",
+              "chapter": 1,
+              "verses": "12-16",
+              "translation": "KJV",
+              "text": "And it came to pass, as she continued praying before the LORD, that Eli marked her mouth... therefore Eli thought she had been drunken... And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit... but have poured out my soul before the LORD."
+            },
+            {
+              "display": "Psalm 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Tears and Hope Can Exist Together",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "John 11:33-36",
+            "book_code": "JHN",
+            "chapter": 11,
+            "verses": "33-36",
+            "translation": "KJV",
+            "text": "When Jesus therefore saw her weeping... he groaned in the spirit, and was troubled... Jesus wept. Then said the Jews, Behold how he loved him!"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many people feel sorrow and then judge themselves for still feeling it. They assume that if they truly trusted God, they would not ache this much. Because of that, grieving people often carry two burdens at once. The first burden is the actual sorrow. The second is self-judgment: \"Why am I still hurting?\" That second burden can be especially cruel because it turns the heart against itself.",
+            "John 11 gives us a different picture. Jesus stood before Lazarus’s tomb knowing resurrection was coming, and still \"Jesus wept.\" He did not bypass grief because He possessed hope. He entered grief while still holding hope. That matters for anyone who has ever felt guilty for still hurting.",
+            "Future hope does not erase present pain. Tears are not proof that faith has failed. Jesus shows us that grief and love belong together, and that hope does not always look emotionally triumphant.",
+            "**Hope and sorrow are not enemies. They can live in the same heart.** You can say, \"Lord, I know You are here, and I still hurt.\" **Honest faith does not deny pain. It brings pain into the presence of God without pretending it is smaller than it is.**",
+            "Today, speak to yourself more gently when sorrow rises. Instead of saying, \"I should be over this,\" try saying, \"The Lord knows why this hurts.\" That gentler truth often becomes part of healing. You do not need to choose between being a person of hope and a person who weeps. In Christ, you are allowed to be both.",
+            "The Lord’s tenderness makes room for that complexity. He is not unsettled by the fact that your grief still has a voice. Christ’s compassion makes room for both. His tenderness can hold both your tears and your trust without forcing either one to disappear."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, thank You for showing me that tears do not push me outside of hope. You Yourself wept in the face of sorrow, so You fully understand what it is like to believe and still hurt. Help me today not to condemn myself for grieving, and not to demand immediate calm from my own heart. Teach me to say honestly before You: I know You are here, and I still ache. Let Your tenderness hold me, so that hope does not silence my tears, but stays with me inside them. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "John 11:33-36",
+              "book_code": "JHN",
+              "chapter": 11,
+              "verses": "33-36",
+              "translation": "KJV",
+              "text": "When Jesus therefore saw her weeping... he groaned in the spirit, and was troubled... Jesus wept. Then said the Jews, Behold how he loved him!"
+            },
+            {
+              "display": "Hebrews 4:15",
+              "book_code": "HEB",
+              "chapter": 4,
+              "verses": "15",
+              "translation": "KJV",
+              "text": "For we have not an high priest which cannot be touched with the feeling of our infirmities..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

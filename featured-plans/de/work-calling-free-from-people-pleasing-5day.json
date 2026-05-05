@@ -1,0 +1,389 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI14",
+    "slug": "free-from-people-pleasing",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "work-calling",
+      "secondary_label": "Arbeit und Berufung"
+    },
+    "tags": [
+      "arbeit",
+      "berufung",
+      "karriere",
+      "gefallen",
+      "erfolg",
+      "glaube-am-arbeitsplatz"
+    ],
+    "title": "Befreit vom Bedürfnis, alle zufriedenzustellen",
+    "subtitle": "Grenzen für Frauen, die müde sind vom Überengagement und der Überleistung",
+    "audience": {
+      "life_stage": [
+        "berufstätige Frauen",
+        "Fachkräfte"
+      ],
+      "emotional_state": [
+        "verantwortlich",
+        "gefordert",
+        "Erfolg neu definierend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese fünf Tage helfen dir, dich aus dem Druck des Menschengefallens in der Arbeit zu befreien und einen ehrlicheren, freieren Weg zu entdecken, wie du dich zeigst.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#B8C8D8",
+      "color_secondary": "#2C4A6B",
+      "image_key": "cover_woman_at_desk_morning_calm",
+      "icon": "open-book-and-light-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Galater 1:10",
+        "book_code": "GAL",
+        "chapter": 1,
+        "verses": "10"
+      },
+      {
+        "display": "Johannes 8:32",
+        "book_code": "JHN",
+        "chapter": 8,
+        "verses": "32"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Menschengefallen kann wie Verantwortung aussehen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Galater 1:10",
+            "book_code": "GAL",
+            "chapter": 1,
+            "verses": "10",
+            "translation": "Lutherbibel 1912",
+            "text": "Suche ich jetzt nach der Gunst von Menschen oder von Gott?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Menschengefallen am Arbeitsplatz ist nicht immer offensichtlich oder bedürftig.",
+            "Sehr oft sieht es bewundernswert aus. Es sieht aus wie hohe Reaktionsfähigkeit, endlose Zuverlässigkeit, Zustimmung unter Druck und bereitschaft, etwas mehr zu tun, damit niemand durch dich belastet wird. Es sieht aus wie eine Verantwortung, aber manchmal ist der tiefere Antrieb Angst. Du versuchst nicht nur, die Aufgabe gut zu erledigen. Du versuchst, Menschen nicht zu enttäuschen, nicht unhöflich zu wirken, nicht die Zustimmung zu verlieren, nicht die Frau zu sein, die man zu viel Umstand ist.",
+            "Die Galater-Brief stellt eine durchdringende Frage: Suche ich nach der Billigung von Menschen oder von Gott? Die Sprüche erinnern uns, dass die Menschenfurcht ein Netz mit sich bringt. Dieses Wort Netz ist wichtig, denn Angst verkleidet sich oft als Tugend. Du magst die zuverlässigste Person im Zimmer aussehen, während du dir insgeheim nicht erlauben kannst zu stoppen, weil dein Wert mit anderen Menschen Reaktionen verwoben ist. In diesem Zustand ist Mühe nicht länger sauber. Die Verantwortung vermischt sich mit Selbstschutz.",
+            "Viele gewissenhafte Frauen kennen diese Spannung. Wir sind nicht faul. Wir kümmern uns. Aber wir werden oft nicht gelehrt, zwischen echter Hingabe und angstgetriebenem Überengagement zu unterscheiden. Das Wachstum beginnt, wenn wir anfangen, diesen Unterschied zu bemerken, ohne uns selbst zu schämen. Gott ruft dich nicht in Gedankenlosigkeit. Er ruft deine Treue aus der Angst heraus.",
+            "**Nicht jede Form von 'Verantwortung' ist reine Treue.** Achte heute darauf, ob dein Streben mehr von Hingabe oder von Angst vor Enttäuschung anderer getrieben wurde. Bringe diese Angst vor Gott und lass ihn anfangen, sie zu entwirren."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, zeige mir das Herz unter meinem Streben. Wenn ein großer Teil meines Handelns wirklich von Menschenfurcht getrieben wurde, führe mich aus dieser Falle. Führe mich weg von den Gewohnheiten des Menschengefallens, der Besorgnis und dem Beweis meiner selbst durch Leistung. Lass mich unter Druck gefestigt bleiben, frei in der Verantwortung, und wisse in jedem Arbeitstag, dass ich letztendlich dir gegenüber verantwortlich bin. Ersetze meine Angst vor Missbilligung mit dem tieferen Verlangen, wahr und treu vor dir zu sein. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Galater 1:10",
+              "book_code": "GAL",
+              "chapter": 1,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Suche ich jetzt nach der Gunst von Menschen oder von Gott?"
+            },
+            {
+              "display": "Sprüche 29:25",
+              "book_code": "PRO",
+              "chapter": 29,
+              "verses": "25",
+              "translation": "Lutherbibel 1912",
+              "text": "Die Menschenfurcht bringt ein Netz mit sich..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Nein zu sagen fällt schwer und wird einen Menschen auszehren",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Markus 1:35",
+            "book_code": "MRK",
+            "chapter": 1,
+            "verses": "35",
+            "translation": "Lutherbibel 1912",
+            "text": "Er stand auf und ging hinaus... und betete dort."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Frauen am Arbeitsplatz haben nicht mangelnde Fähigkeit. Sie haben mangelnde Erlaubnis zu stoppen.",
+            "Sie kämpfen damit, abzulehnen, zu verzögern oder zuzugeben, dass sie am Ende ihrer Kapazität sind. In dem Moment, in dem jemand etwas braucht, kommt Schuldgefühl. Doch Jesus selbst zog sich zurück, verlangsamte sich und war nicht endlos für jeden Anspruch verfügbar.",
+            "Sehr oft wissen wir, dass wir nahe unserer Grenze sind. Was wir nicht wissen, ist, wie wir diese Grenze ehren können, ohne uns zu schämen. Kapazität zu begrenzen kann sich riskant anfühlen. Wir fürchten, untätig zu wirken, weniger kompetent zu wirken oder schwieriger zu arbeiten. Also sagen wir ja, nehmen Anfragen auf und teilen unsere Aufmerksamkeit auf, bis wir keine ganze Person mehr haben, um sie an irgendetwas heranzubringen. Was auf der Außenseite wie Großzügigkeit aussieht, kann auf der Innenseite zu Erschöpfung werden.",
+            "Jesus war nicht regiert durch jeden dringenden Anspruch um ihn herum. Er zog sich zurück, betete und handelte nach dem Timing des Vaters. Das war nicht Gleichgültigkeit. Das war heilige Klarheit. Auf die gleiche Weise ist nicht jeder Bedarf um dich herum automatisch deine Aufgabe. Nein zu sagen zu dem, das du nicht gut tragen kannst, ist manchmal Teil des Ja zu Treue.",
+            "**Wenn du niemals nein sagst, verlierst du letztendlich die Kraft, ein ganzherziges Ja zu dem zu sagen, was wichtig ist.** Bitte Gott heute um Ehrlichkeit und Grenzen rund um eine Anfrage, die du nicht gut tragen kannst.",
+            "Ein treues Nein kann viele wahrere Jasse später schützen.",
+            "Weise Grenzen bewahren oft viel mehr Liebe als erschöpftes Überengagement je könnte.",
+            "Weniger Ja zu Panik zu sagen kann zu einem tieferem Ja zu Frieden werden.",
+            "Gott kann dein Nein lehren, Teil deiner Treue zu sein, nicht eine Bedrohung dafür."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lehre mich, nicht alle Aufgaben anzunehmen, um mich selbst zu beweisen. Wenn ich ständig Angst hatte vor Missverständnis, nicht ganz gut genug zu wirken und Leute zu enttäuschen und deshalb meine Grenzen nicht zugeben wollte, heile das in mir. Hilf mir, meine Kapazität ehrlich in dir zu sehen, und gib mir Mut, weise Grenzen zu sprechen. Erinnere mich daran, dass das Ablehnen von etwas nicht immer lieblos ist, und das Stoppen nicht immer untreu. Lehre mich, meine Kraft für das, das du mir wirklich anvertraut hast, zu bewahren. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Markus 1:35",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35",
+              "translation": "Lutherbibel 1912",
+              "text": "Er stand auf und ging hinaus... und betete dort."
+            },
+            {
+              "display": "Prediger 3:1",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Für alles Geschehen unter dem Himmel gibt es eine bestimmte Zeit..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Übermäßiges Erklären kann eine Form der Selbstschutz sein",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Matthäus 5:37",
+            "book_code": "MAT",
+            "chapter": 5,
+            "verses": "37",
+            "translation": "Lutherbibel 1912",
+            "text": "Eure Rede sei: Ja, ja; Nein, nein..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal sprechen wir zu viel, nicht weil die Angelegenheit komplex ist, sondern weil wir Angst haben, missverstanden zu werden.",
+            "Jede Grenze, Uneinigkeit oder Verzögerung kommt mit zusätzlicher Rechtfertigung. Wir wollen beweisen, dass wir nicht faul, unkind, schwierig oder inkompetent sind. Aber Freiheit ist nicht von allen perfekt verstanden zu werden. Freiheit ist, das Verständnis aller nicht zu brauchen, um gefestigt zu bleiben.",
+            "Viele von uns kennen das Gefühl, uns selbst harmlos zu erklären, bevor wir ehrlich klingen. Ein einfaches Nein wird eine lange Erklärung. Eine vernünftige Verzögerung wird eine Entschuldigung, die in Selbstschutz gewickelt ist. Wir sprechen nicht immer so viel, weil die Angelegenheit kompliziert ist. Wir sprechen so viel, weil wir fürchten, was die andere Person über uns schließen könnte, wenn wir kurz angebunden wären. Mit der Zeit trägt jedes Gespräch das Gewicht der Identitätsschutz.",
+            "Jesus lehrt einen saubereren Weg: Lass dein Ja ja sein, und dein Nein nein. Diese Art von Klarheit ist nicht Rauhheit. Es ist innere Gefestigt. Das bedeutet, dass die Fakten nicht immer die Last des Beweises deiner Güte tragen müssen. Das Wachstum sieht manchmal so aus, dass man einer Grenze erlaubt, eine Grenze zu bleiben, ohne sie in eine Gerichtsverteidigung deines Charakters zu verwandeln.",
+            "Diese Gefestigtheit macht die Kommunikation einfacher und die Seele leichter. Du brauchst nicht weitermachen, das Recht zu verdienen, direkt zu sein.",
+            "**Wenn wir weitermachen zu übererklären, verteidigen wir oft unseren Wert mehr als wir die Angelegenheit klären.** Bemerke heute einen Moment, in dem du diesen Drang spürst. Frage dich selbst, ob du Tatsachen kommunizierst oder versuchst, deinen Wert zu schützen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, heile den Teil von mir, der so Angst vor Missverständnis hat, dass er sich ständig selbst verteidigt. Wenn jeder wahre Satz sich anfühlt wie ein Beweis meiner selbst, befreie mich von diesem Druck. Lehre mich, klar ohne Panik zu sein, ehrlich ohne Selbstschutz und kurz ohne Schuldgefühl. Erinnere mich daran, dass mein Wert nicht durch perfekt mich selbst erklären aufrechterhalten wird, sondern dass ich sicher in dir gehalten bin. Halte Außenergebnisse davon ab, mich schneller zu definieren als dein Frieden. Mache mich treu in meiner Arbeit und wach in meinem Geist. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Matthäus 5:37",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "37",
+              "translation": "Lutherbibel 1912",
+              "text": "Eure Rede sei: Ja, ja; Nein, nein..."
+            },
+            {
+              "display": "Psalm 62:1",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Meine Seele wartet still auf Gott..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Nicht alle Zufriedenheit anderer liegt in meiner Verantwortung",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Römer 12:18",
+            "book_code": "ROM",
+            "chapter": 12,
+            "verses": "18",
+            "translation": "Lutherbibel 1912",
+            "text": "Wenn es möglich ist, soweit es in euch liegt, lebt mit allen Menschen in Frieden."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Es gibt eine unsichtbare Last am Arbeitsplatz, die aus dem Gefühl kommt, für das emotionale Wohlbefinden aller verantwortlich zu sein.",
+            "Wenn der Raum angespannt ist, versuchst du ihn zu beruhigen. Wenn jemand enttäuscht ist, fragst du dich sofort, ob du es verursacht hast. Wenn ein Kollege frustriert ist, bewegst du dich instinktiv zum Glätten, Klären, Absorbieren oder Reparieren. Viele Frauen wurden implizit oder explizit trainiert, um emotionale Stoßdämpfer in professionellen Räumen zu werden. Mit der Zeit kann sich das normal genug anfühlen, dass wir nicht mehr bemerken, wie schwer es ist.",
+            "Aber diese Last ist nicht das gleiche wie Treue. Der Römerbrief sagt, dass wir, soweit in uns liegt, mit allen Menschen in Frieden leben sollen; der Galaterbrief erinnert uns, dass jede Person ihre eigene Last tragen muss. Zusammen bieten diese Verse Freiheit: Wir sind zu Liebe, Ehrlichkeit und Frieden aufgerufen, wo wir es möglich machen können, aber wir sind nicht aufgerufen, jede Reaktion um uns herum zu bewältigen. Die Enttäuschung anderer ist nicht automatisch unsere Aufgabe.",
+            "Dies ist ein bedeutungsvoller Wachstumspunkt für viele Frauen, weil das Tragen von emotionaler Atmosphäre tugendhaft wirken kann. Doch manchmal sind wir nicht so sehr liebevoll wie überverantwortlich. Reife bedeutet nicht, alles emotionale Wetter um sich herum absorbieren zu können. Es bedeutet, zu wissen, was in deine Obhut gehört und was nicht.",
+            "Diese Unterscheidung kann eine überraschende Menge Frieden zurückgeben. Sobald nicht alles dein ist zu tragen, werden auch deine echten Verantwortungen klarer.",
+            "**Reife bedeutet nicht, alles emotionale Wetter anderer Menschen zu tragen.** Entlasse heute ein Stück, das nicht wirklich in deine Hände gehört. Lass Gott dich den Unterschied zwischen Mitgefühl und Überverantwortung lehren."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, hilf mir zu unterscheiden, was mein ist zu tragen und was nicht. Lass mich nicht weitermachen, alle Reaktionen, Gefühle und Zufriedenheit anderer Menschen auf meine Schultern zu legen. Hilf mir, liebevoll zu sein ohne Grenzen zu verlieren. Halte mich und lass nicht zu, dass Außenergebnisse mich schneller definieren als dein Frieden. Mache mich treu in meiner Arbeit und wach in meinem Geist. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Römer 12:18",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "18",
+              "translation": "Lutherbibel 1912",
+              "text": "Wenn es möglich ist, soweit es in euch liegt, lebt mit allen Menschen in Frieden."
+            },
+            {
+              "display": "Galater 6:5",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn jeder wird seine eigene Last tragen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Echte Freiheit ist, ehrlich als mich selbst arbeiten zu können",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Johannes 8:32",
+            "book_code": "JHN",
+            "chapter": 8,
+            "verses": "32",
+            "translation": "Lutherbibel 1912",
+            "text": "Und ihr werdet die Wahrheit erkennen, und die Wahrheit wird euch frei machen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Gott hat dich nicht dazu berufen, dich selbst so zu machen, dass alle zufrieden sind.",
+            "Er hat dich zu Treue, Ehrlichkeit, Weisheit und größerer Ganzheit berufen. Menschengefallen fragmentiert die Seele. Wahrheit sammelt sie langsam wieder. Du kannst weiterhin beruflicher und gnädiger wachsen, ohne unter ständiger Approbationshunger zu leben.",
+            "Ganzheit ist eines der besten Worte für diese Art von Freiheit. Menschengefallen erschöpft nicht nur. Es spaltet uns auf. Wir werden eine Version unserer selbst in einem Zimmer, eine andere Version in einem anderen Zimmer, ständig angepasst, um Genehmigung zu bewahren. Mit der Zeit wird das innere Leben verstreut. Wir funktionieren, aber nicht integriert. Gottes Wahrheit wirkt in die entgegengesetzte Richtung. Sie sammelt das Selbst. Sie lehrt uns aufzuhören zu überleben durch Leistung und anfangen zu stehen mehr gefestigt in Ehrlichkeit.",
+            "Das bedeutet nicht, dass wir gedankenlos, steif oder desinteressiert an Wachstum werden. Es bedeutet, dass unser Wachstum sauberer wird. Wir können immer noch bessere Kommunikation, tiefere Professionalität und weisere Zusammenarbeit lernen, ohne diese Dinge zu verwenden, um das Recht zu existieren zu verdienen. Freiheit ist nicht Egozentrismus. Es ist nicht länger das Vergnügen aller zu brauchen, um in Frieden zu bleiben.",
+            "Und dieser Frieden gibt dir ein gefestigteres Selbst zurück, um es in deine Arbeit zu bringen. Du wirst weniger von Billigung verwaltet und mehr für echte Berufung verfügbar.",
+            "**Freiheit ist nicht, von allen gemocht zu werden. Es ist, nicht länger die Billigung aller zu brauchen, um zu leben.** Bringe eine Lektion aus diesen fünf Tagen heute in deine Arbeit, vielleicht ein gefestigteres Nein oder ein einfacheres Ja."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, mache mich bei der Arbeit freier. Nicht härter, aber ehrlicher. Nicht losgelöst, sondern ganz. Wenn ich andere Billigung, Zufriedenheit und Lob benutzt habe, um meinen Wert zu beweisen, führe mich langsam aus dieser Gefangenschaft. Hilf mir, bei meiner Arbeit treu, gnädig und lernbereit zu bleiben, ohne meine Seele über andere Leute Reaktionen zu übergeben. Lehre mich, ruhig zu bleiben, wenn andere mich missverstehen, gefestigt, wenn Erwartungen mich ziehen, und aufrichtig, wenn es leichter wäre zu spielen. Lass mich stiller in deiner Wahrheit und wahrer als die Person leben, die du mich gemacht hast. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Johannes 8:32",
+              "book_code": "JHN",
+              "chapter": 8,
+              "verses": "32",
+              "translation": "Lutherbibel 1912",
+              "text": "Und ihr werdet die Wahrheit erkennen, und die Wahrheit wird euch frei machen."
+            },
+            {
+              "display": "Kolosser 3:23",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "23",
+              "translation": "Lutherbibel 1912",
+              "text": "Und alles, was ihr tut, tut es von ganzem Herzen, als würdet ihr es für den Herrn tun..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

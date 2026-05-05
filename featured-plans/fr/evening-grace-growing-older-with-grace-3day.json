@@ -1,0 +1,248 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS10",
+    "slug": "growing-older-with-grace",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Saisons de la Vie",
+      "secondary": "evening-grace",
+      "secondary_label": "Grâce du Soir"
+    },
+    "tags": [
+      "femmes-agees",
+      "vieillissement",
+      "sagesse",
+      "heritage",
+      "presence",
+      "devenir-encore"
+    ],
+    "title": "Vieillir dans un monde obsédé par la jeunesse",
+    "subtitle": "Recevoir l'âge comme une grâce, non comme une perte",
+    "audience": {
+      "life_stage": [
+        "femmes âgées",
+        "soixantaine et plus",
+        "vie tardive"
+      ],
+      "emotional_state": [
+        "réflexive",
+        "en paix",
+        "encore en devenir"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour la femme qui apprend à recevoir l'âge non comme une disparition, mais comme une forme de grâce dans une culture qui idolâtre la jeunesse.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_evening_lamp_quiet_window",
+      "icon": "lit-candle-circle"
+    },
+    "key_verses": [
+      {
+        "display": "1 Pierre 3:3-4",
+        "book_code": "1PE",
+        "chapter": 3,
+        "verses": "3-4"
+      },
+      {
+        "display": "Psaume 46:10",
+        "book_code": "PSA",
+        "chapter": 46,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Le monde récompense la jeunesse ; Dieu honore la maturité",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Pierre 3:3-4",
+            "book_code": "1PE",
+            "chapter": 3,
+            "verses": "3-4",
+            "translation": "Louis Segond 1910",
+            "text": "Que votre parure ne soit pas extérieure, avec des cheveux tressés et des ornements d'or, ou des vêtements de prix; mais que ce soit la personne cachée du cœur, l'incorruptibilité d'un esprit doux et paisible, qui est d'un grand prix devant Dieu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Le monde est très habile à rendre les femmes anxieuses face au vieillissement. La publicité leur dit ce qu'il faut cacher, ce qu'il faut réparer, ce qu'il faut retrouver. Les réseaux sociaux les encouragent silencieusement à poursuivre une version d'elles-mêmes qui semble encore assez jeune pour être félicitée. Même les encouragements bienveillants peuvent donner à entendre qu'une femme n'a de valeur que si elle continue de ressembler à ce qu'elle était auparavant.",
+            "L'Écriture sainte ne parle pas ainsi. Elle ne lie pas la valeur d'une femme à la fraîcheur, à la douceur ou à la vitalité extérieure. Pierre parle de la beauté d'un esprit doux et pacifique, qui est précieux aux yeux de Dieu. Ce genre de beauté n'est pas une tentative de nier l'âge. Elle devient souvent plus claire avec l'âge. Elle se forme à travers la perte, la fidélité, la patience et une longue communion avec Dieu.",
+            "**L'âge ne diminue pas automatiquement la gloire. Entre les mains de Dieu, il peut en devenir l'une des voies d'approfondissement.** Cela importe profondément pour les femmes des années tardives, car la peur sous-jacente au changement du corps n'est souvent pas simplement le déclin physique. C'est la peur de devenir moins visible, moins estimée, moins significative.",
+            "Mais Dieu ne regarde pas une femme et ne lui demande pas avec quel succès elle a résisté au temps. Il regarde la vie qui se forme en elle. La beauté ultérieure n'est pas une beauté de second ordre. Elle est souvent plus honnête, plus solidement ancrée et plus difficile à contrefaire.",
+            "Aujourd'hui, laissez Dieu desserrer votre emprise sur la nécessité de ressembler ou de vous sentir comme vous le faisiez autrefois. Il vous enseigne peut-être à recevoir une forme de rayonnement plus tranquille, plus stable et plus saint."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, ce monde m'enseigne souvent à craindre l'âge et à traiter la ressemblance avec le passé comme une preuve de valeur. Aie pitié de moi et ramène mes yeux vers toi. Je te remercie que ce qui compte pour toi n'est pas la façon dont j'ai résisté au temps, mais comment tu me façonnes véritablement. Apprends-moi à recevoir la beauté de cette saison sans appeler la maturité une fadeur ou la transformation une honte. Si mon cœur est encore plein de comparaison, de tension ou de chagrin face au vieillissement, console-moi doucement et redéfinis la beauté pour moi encore une fois. Que mon cœur devienne plus tranquille en toi et ma vie plus rayonnante en ta présence. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Pierre 3:3-4",
+              "book_code": "1PE",
+              "chapter": 3,
+              "verses": "3-4",
+              "translation": "Louis Segond 1910",
+              "text": "Que votre parure ne soit pas extérieure, avec des cheveux tressés et des ornements d'or, ou des vêtements de prix; mais que ce soit la personne cachée du cœur, l'incorruptibilité d'un esprit doux et paisible, qui est d'un grand prix devant Dieu."
+            },
+            {
+              "display": "Proverbes 31:30",
+              "book_code": "PRO",
+              "chapter": 31,
+              "verses": "30",
+              "translation": "Louis Segond 1910",
+              "text": "La grâce est trompeuse, et la beauté est vaine; mais la femme qui craint l'Éternel, celle-là sera louée."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Vieillir n'est pas quitter la scène",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 92:13-14",
+            "book_code": "PSA",
+            "chapter": 92,
+            "verses": "13-14",
+            "translation": "Louis Segond 1910",
+            "text": "Les justes se multiplieront comme le palmier, Ils s'élèveront comme le cèdre du Liban. Plantés dans la maison de l'Éternel, Ils prospéreront dans les parvis de notre Dieu. Ils porteront encore du fruit dans la vieillesse, Ils seront pleins de sève et de verdure."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de femmes craignent les années tardives, non seulement en raison des changements physiques, mais d'une peur plus profonde : devient-on progressivement moins pertinente ? Quand les rôles professionnels changent, que les enfants grandissent, que la structure familiale se transforme et que l'attention publique diminue, beaucoup de femmes se demandent si la part la plus importante de la vie est déjà passée. C'est ainsi que le monde décrit souvent le vieillissement. Ce n'est pas ainsi que Dieu le décrit.",
+            "Le Psaume 92 dit que ceux qui sont plantés dans la maison de l'Éternel produiront encore du fruit dans la vieillesse. C'est une si belle promesse parce qu'elle ne force pas le fruit tardif à imiter le fruit antérieur. Elle ne demande pas à une femme de revivre sa forme plus jeune. Elle dit que la fécondité reste possible, bien qu'elle puisse prendre une forme différente.",
+            "Le fruit ultérieur peut ressembler moins à la rapidité et plus à la constance. Moins à la visibilité et plus à la nourriture. Moins à l'acuité et plus à la bénédiction. Certaines formes d'influence les plus durables émergent non pas du dynamisme extérieur, mais de décennies de fidélité, de perfectionnement et de communion avec Dieu.",
+            "**Dans le royaume de Dieu, les années tardives ne sont pas des années de reste. Elles sont souvent une autre saison de fécondité.** Si vous avez silencieusement craint que votre importance s'amenuise, laissez Dieu remettre en question cette crainte. Il n'est pas seulement le Dieu des pics publics. Il est aussi le Dieu d'une utilité plus tranquille, plus lente et plus profonde."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je confesse que je redoute parfois que les années tardives ne soient que pour l'entretien, la perte et la disparition silencieuse. Je te remercie de m'avoir rappelé qu'en toi, la vieillesse peut encore porter du fruit. Libère-moi du mensonge selon lequel la partie la plus significative de ma vie est déjà derrière moi. Garde-moi de mesurer mon importance par l'attention changeante du monde. Si tu as l'intention de produire un nouveau fruit dans ces années tardives, aide-moi à recevoir ce fruit sans exiger qu'il ressemble à nouveau à la jeunesse. Garde-moi plantée en toi et laisse-moi encore m'épanouir en ta présence. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 92:13-14",
+              "book_code": "PSA",
+              "chapter": 92,
+              "verses": "13-14",
+              "translation": "Louis Segond 1910",
+              "text": "Les justes se multiplieront comme le palmier, Ils s'élèveront comme le cèdre du Liban. Plantés dans la maison de l'Éternel, Ils prospéreront dans les parvis de notre Dieu. Ils porteront encore du fruit dans la vieillesse, Ils seront pleins de sève et de verdure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Un certain calme peut aussi être une profondeur sainte",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 46:10",
+            "book_code": "PSA",
+            "chapter": 46,
+            "verses": "10",
+            "translation": "Louis Segond 1910",
+            "text": "Arrêtez, et sachez que je suis Dieu..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La vie ultérieure est souvent plus tranquille. La maison n'est pas aussi bruyante. L'emploi du temps est moins chargé. Les besoins immédiats des autres peuvent diminuer. L'urgence publique s'estompe. Pour certaines femmes, ce calme est un soulagement. Pour d'autres, il semble exposant. Il rend la perte, l'absence et les questions sur le but qui reste plus visibles.",
+            "Quand une femme a passé des décennies à réagir, à soigner, à s'organiser et à porter, le silence peut sembler étrange. Elle peut ne pas savoir comment l'habiter sans inquiétude.",
+            "Mais l'Écriture sainte ne traite pas toujours le silence comme un vide. « Arrêtez, et sachez que je suis Dieu » n'est pas une phrase d'exil. C'est une invitation à entrer dans une plénitude différente. Le silence entre les mains de Dieu peut devenir non pas moins de vie, mais plus de vie. Certaines formes de proximité avec Dieu exigent précisément l'espace que les décennies antérieures ne pouvaient pas fournir.",
+            "**Quand le silence est habité avec Dieu, il n'a pas besoin d'être interprété comme un vide.** Il peut devenir une autre forme de plénitude. Ainsi, si votre vie est devenue plus tranquille, ne demandez pas seulement ce qui a été enlevé. Demandez aussi quelle profondeur nouvelle peut maintenant être possible.",
+            "Les années tardives peuvent ne pas être plus bruyantes qu'auparavant, mais elles peuvent être plus riches intérieurement que vous l'aviez autrefois imaginé."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, quand la vie devient silencieuse, je ne sais pas toujours si je dois recevoir ce silence comme un don ou comme une perte. Tu connais le vide qui peut surgir quand les rythmes ralentissent, et tu sais avec quelle facilité je commence à me demander ce qu'il me reste. Je te remercie de m'avoir rappelé que le silence n'est pas automatiquement un vide. Il peut aussi devenir un lieu de profondeur. Apprends-moi à ne pas fuir ce silence ou à me précipiter pour le remplir de bruit. Si tu utilises cette saison de silence pour m'attirer dans une connaissance plus profonde de toi, aide-moi à y entrer de bon gré. Que les années tardives de ma vie soient non seulement moins occupées, mais aussi plus pleines de toi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Arrêtez, et sachez que je suis Dieu..."
+            },
+            {
+              "display": "Luc 10:39",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "39",
+              "translation": "Louis Segond 1910",
+              "text": "Elle avait une sœur, appelée Marie, qui, s'étant assise aux pieds du Seigneur, écoutait sa parole."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

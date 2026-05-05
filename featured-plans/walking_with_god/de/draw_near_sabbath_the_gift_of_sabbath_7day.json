@@ -1,0 +1,514 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "SB01",
+    "slug": "gift-of-sabbath",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Mit Gott gehen",
+      "secondary": "draw-near",
+      "secondary_label": "Sich Gott nähern"
+    },
+    "tags": [
+      "sich-gott-naehern",
+      "geistliche-disziplin",
+      "innigkeit-mit-gott",
+      "alte-praxis",
+      "sabbat",
+      "ruhe",
+      "schoepfung",
+      "grenzen"
+    ],
+    "title": "Lernen Sie, wieder auszuruhen: 7 Tage, um Gottes Ruhe zu empfangen",
+    "subtitle": "Über 7 Tage lang lernen Sie, den Sabbat wieder zu empfangen - nicht als Regelwerk oder bloße Entspannung, sondern als Rhythmus des Vertrauens, der Anbetung und der heiligen Ruhe, die Gott für Menschen gab, die vergessen haben, wie man innehält.",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "Gott suchend",
+        "geistlich neugierig",
+        "sehnsüchtig nach Innigkeit"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Über 7 Tage lang lernen Sie, den Sabbat wieder zu empfangen - nicht als Regelwerk oder bloße Entspannung, sondern als Rhythmus des Vertrauens, der Anbetung und der heiligen Ruhe, die Gott für Menschen gab, die vergessen haben, wie man innehält.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture_focus → teaching → additional_scriptures → prayer",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#A3C8B5",
+      "color_secondary": "#355945",
+      "image_key": "cover_woman_resting_couch_warm_light",
+      "icon": "quiet-tea-and-rest-circle"
+    },
+    "hook": {
+      "heading": "Warum dieser Plan",
+      "paragraphs": [
+        "Nur wenige Frauen widerstehen der Ruhe, weil sie sie nicht mögen. Häufiger widerstehen sie ihr, weil das Innehalten sich anfühlt, als würde man aufgeben, scheitern oder egoistisch sein. Die moderne Frau hat gelernt, dass ihr Wert in ihrer Produktivität liegt. Dass die Seele ruhen muss, ist für viele von uns unbequem oder sogar beschämend.",
+        "Diese Woche werden wir den Sabbat wiedererkennen, wie Gott ihn beabsichtigte. **Der Sabbat ist keine Belohnung, die wir uns verdienen. Er ist ein Geschenk, das an die grundlegende Ordnung der Schöpfung eingewebt ist.**"
+      ]
+    },
+    "key_verses": [
+      {
+        "display": "1. Mose 2:3",
+        "book_code": "GEN",
+        "chapter": 2,
+        "verses": "2-3"
+      },
+      {
+        "display": "Hebräer 4:9-11",
+        "book_code": "HEB",
+        "chapter": 4,
+        "verses": "9-11"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Gott ruhte am siebenten Tage",
+      "subtitle": "Der Sabbat ist kein Notfall-Plan für Erschöpfung, sondern ein in der Schöpfung eingewebter Rhythmus.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "1. Mose 2:3",
+            "book_code": "GEN",
+            "chapter": 2,
+            "verses": "2-3",
+            "translation": "Lutherbibel 1912",
+            "text": "Und Gott segnete den siebenten Tag und heiligte ihn, denn an ihm ruhte Gott von all seinen Werken, die er schuf."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Der Sabbat beginnt nicht als Bewältigungsstrategie für Erschöpfung. Er beginnt in der Schöpfung. In 1. Mose 2:2-3 sehen wir, dass Gott nach sechs Tagen Schöpfung ruhte. Diese Ruhe war nicht eine Erholung von Müdigkeit. Gott wird nicht müde. Es war ein heiliger Akt - ein Moment, in dem Gott innehielt, anschaute und sah, dass es gut war.",
+            "Lesen Sie 1. Mose 2:2-3 langsam.",
+            "**\"Und Gott segnete den siebenten Tag und heiligte ihn.\"**",
+            "Gott ruht nicht, weil er erschöpft ist, sondern weil er einen Rhythmus schafft, eine Struktur, die dem menschlichen Leben heilig ist. Der Sabbat ist Teil der ursprünglichen guten Schöpfung, nicht eine Anpassung an die Sünde. Dann, in 2. Mose 20:8-11, wird der Sabbat dem Volk Israel gegeben - nicht als Regelwerk oder Belastung, sondern als Geschenk, als Zeichen des Bundes mit einem Gott, der weiß, dass Menschen ruhen müssen.",
+            "Eine junge Frau sagte mir einmal, dass es sich wie Sünde anfühlte, einen Tag pro Woche auszuruhen. Sie war so daran gewöhnt, ständig produktiv zu sein, dass jede Minute, in der sie nicht arbeitete, Schuld hervorrief. Ich sagte zu ihr: \"Dein Wert ist nicht in deiner Produktion. Dein Schöpfer, der du nachbildest, ruhte auch. Und er heiligte diese Ruhe. Die Fähigkeit zu ruhen ist ein Segen, nicht ein Fehler.\" **Den Sabbat zu empfangen bedeutet, wieder einer Kreatur zuzustimmen, nicht dem tragenden Zentrum der Welt.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "2. Mose 20:8-11",
+              "book_code": "EXO",
+              "chapter": 20,
+              "verses": "8-11",
+              "translation": "Lutherbibel 1912",
+              "text": "Gedenke des Sabbattages, daß du ihn heiligest. Sechs Tage sollst du arbeiten und alle deine Werke tun; aber am siebenten Tage ist Sabbat des HERRN, deines Gottes. Da sollst du keine Werke tun, auch nicht dein Sohn, deine Tochter, dein Knecht, deine Magd, dein Vieh, noch dein Fremdling, der in deinen Toren ist. Denn in sechs Tagen hat der HERR Himmel und Erde gemacht und das Meer und alles, was darin ist, und ruhte am siebenten Tage. Darum segnete der HERR den Sabbattag und heiligte ihn."
+            },
+            {
+              "display": "Hebräer 4:10",
+              "book_code": "HEB",
+              "chapter": 4,
+              "verses": "9-11",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn wer in seine Ruhe eingegangen ist, der ruhet auch von seinen Werken, wie Gott von den seinen."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Gott, mein Vater, ich danke dir, dass der Sabbat keine Strafe ist, sondern ein Segen. Ich danke dir, dass du selbst geruht hast und mich damit zeigst, dass Ruhe heilig ist. Befreie meine Seele von dem Irrglauben, dass ich nur wertvoll bin, wenn ich produktiv bin. Lehre mich, darauf zu vertrauen, dass ich begehrt bin um meiner selbst willen, nicht um meiner Werke willen. Wenn ich mich dieser Woche dem Sabbat öffne, heile meinen Geist von Angst, Scham und rastlosem Treiben. Im Namen Jesu Christi, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Warum uns das Innehalten so schwer fällt",
+      "subtitle": "Unruhe ist nicht nur ein Zeitproblem. Es ist ein Vertrauensproblem.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Psalm 127:1",
+            "book_code": "PSA",
+            "chapter": 127,
+            "verses": "2",
+            "translation": "Lutherbibel 1912",
+            "text": "Ein Lied im höheren Chor, von Salomo. Wo der HERR nicht das Haus baut, arbeiten umsonst, die daran bauen. Wo der HERR die Stadt nicht behütet, wacht der Wächter umsonst."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Warum ist es so schwierig zu stoppen? Normalerweise ist das Problem nicht nur äußerlich - es ist nicht allein die Menge an Dingen, die getan werden müssen. Das tiefere Problem ist innere Angst. Viele von uns handeln, als ob die Welt zusammenbricht, wenn wir aufhören. Wir arbeiten aus einem Ort der Angst, nicht aus einem Ort der Freude oder des Auftrags.",
+            "Psalm 127 nennt dieses Streben \"vergeblich\", nicht weil Arbeit selbst falsch ist, sondern weil es ein Werk aus Selbstvertrauen ist, nicht aus Vertrauen in Gott. Das Psalm sagt es klar: Wenn Gott die Stadt nicht baut, arbeiten die Baumeister vergeblich. Das ist nicht eine Entschuldigung für Faulheit. Das ist eine Einladung, unseren Mut auf das zu richten, das Bestand hat - auf Gott, nicht auf unsere unaufhörliche Anstrengung.",
+            "Psalm 127 nennt dieses Streben \"vergeblich\", nicht weil Arbeit selbst falsch ist, sondern weil es ein Werk aus Selbstvertrauen ist, nicht aus Vertrauen in Gott. Das Psalm sagt es klar: Wenn Gott die Stadt nicht baut, arbeiten die Baumeister vergeblich. Das ist nicht eine Entschuldigung für Faulheit. Das ist eine Einladung, unseren Mut auf das zu richten, das Bestand hat - auf Gott, nicht auf unsere unaufhörliche Anstrengung. **Manchmal ist der schwierigste Teil der Ruhe nicht körperliche Stille, sondern die Aufgabe der Illusion, dass die Welt ohne meine Anstrengung zusammenbricht.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Matthäus 6:11",
+              "book_code": "ISA",
+              "chapter": 30,
+              "verses": "15",
+              "translation": "Lutherbibel 1912",
+              "text": "Unser täglich Brot gib uns heute;"
+            },
+            {
+              "display": "Philipper 4:6-7",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "Lutherbibel 1912",
+              "text": "Seid um nichts besorgt; sondern in allem lasset durch Gebet und Flehen mit Danksagung eure Anliegen vor Gott kund werden. Und der Friede Gottes, welcher höher ist als alle Vernunft, wird eure Herzen und eure Sinne bewahren in Christus Jesus."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Vater, ich bekenne vor dir, dass ich oft nicht vertraue. Ich handele, als ob das Universum auf meinen Schultern ruht. Ich handele, als ob mein Wert davon abhängt, wie viel ich schaffe. Heile mich von dieser Lüge. Lehre mich, dass du Gott bist und ich nicht. Lehre mich, dass mein Leben in deinen Händen ist, nicht in meinen. Wenn ich diese Woche Sabbat halte, hilf mir, nicht aus Erschöpfung zu ruhen, sondern aus Vertrauen. Im Namen Jesu Christi, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Der Sabbat ist keine weitere Belastung",
+      "subtitle": "Ruhe ist kein Leistungsakt. Sie ist ein Empfangen.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Markus 2:27",
+            "book_code": "MRK",
+            "chapter": 2,
+            "verses": "27",
+            "translation": "Lutherbibel 1912",
+            "text": "Und er sprach zu ihnen: Der Sabbat ist um des Menschen willen gemacht, und nicht der Mensch um des Sabbats willen;"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Frauen hören das Wort Sabbat und fühlen Erleichterung. Andere fühlen unmittelbaren Druck. Sie denken: \"Noch etwas, das ich richtig machen muss.\" Noch eine Praxis, noch eine Disziplin, noch etwas, in dem ich versagen kann. Das ist bereits eine Verzerrung des Ganzen.",
+            "Lesen Sie Markus 2:27 sorgfältig: \"Der Sabbat ist um des Menschen willen gemacht, und nicht der Mensch um des Sabbats willen.\" Das ist bemerkenswert. Der Sabbat existiert nicht, um dich zu beurteilen. Er existiert, um dir zu dienen. Er ist ein Geschenk an dich, nicht eine Test für dich.",
+            "Das bedeutet, dass die erste Haltung des Sabbats Empfang sein sollte, nicht Selbstüberwachung. Nicht: \"Mache ich das richtig?\" Sondern: \"Kann ich hier einfach empfangen?\" Das ist schwer für diejenigen von uns, die daran gewöhnt sind, alles in unserem Leben zu verwalten. Aber die Ruhe Gottes ist nicht etwas, das du verdienen musst. Es ist etwas, das dir bereits gegeben wurde. **Der Sabbat wird am besten nicht durch Perfektionismus gelernt, sondern durch dankbares, bußfertiges, wiederholtes Empfangen.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Jesaja 30:15",
+              "book_code": "COL",
+              "chapter": 2,
+              "verses": "16-17",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn also spricht der Herr, der Heilige Israels: Durch Umkehr und Stille würdet ihr selig sein; durch Stille und Vertrauen würde eure Kraft sein. Aber ihr wollt nicht hören"
+            },
+            {
+              "display": "Matthäus 11:28",
+              "book_code": "ROM",
+              "chapter": 14,
+              "verses": "5-6",
+              "translation": "Lutherbibel 1912",
+              "text": "Kommet her zu mir, alle, die ihr mühselig und beladen seid; ich will euch erquicken."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Gott mein Vater, ich bekenne, dass ich nicht weiß, wie man einfach empfängt. Ich habe mein ganzes Leben damit verbracht, zu tun, zu schaffen, zu verbessern. Der Gedanke, einfach zu sein und zu empfangen, macht mich nervös. Gib mir diese Woche die Gnade des Empfangens. Lehre meine Seele, dass Deine Nähe das höchste Gut ist. Befreie mich von der Illusion, dass ich etwas hinzufügen muss, um wertvoll zu sein. Im Namen Jesu Christi, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Wie man Sabbat praktiziert",
+      "subtitle": "Kleine, einfache Handlungen der Unterbrechung.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Nehemia 13:19",
+            "book_code": "NEH",
+            "chapter": 13,
+            "verses": "15-22",
+            "translation": "Lutherbibel 1912",
+            "text": "Und es begab sich, daß, als die Tore Jerusalems dunkeln wollten, vor dem Sabbat, gebot ich, daß die Tore zugeschlossen würden, und befahl, daß sie nicht aufgemacht würden bis nach dem Sabbat."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Gute Theologie schließlich muss den Kalender berühren. Wenn der Sabbat nur eine abstrakte Idee bleibt, kann er dein Leben nicht wirklich berühren. Du brauchst ein tatsächliches Loch in deinem Kalender, einen realen Raum, in dem die Praxis passieren kann.",
+            "Nehemia 13 ist ein lebendiges Beispiel. Er schließt die Tore, weil Handel immer eine Entschuldigung hat, immer einen Grund, weiterzumachen. Die physische Grenze - geschlossene Tore - schuf einen Raum, in dem der Sabbat tatsächlich lebend gemacht wurde. Du kannst nicht alle Tore deines Lebens schließen. Aber du kannst einige Grenzen setzen. Du kannst sagen: \"Keine E-Mails nach 18 Uhr.\" \"Mein Telefon wird nach 20 Uhr ausgeschaltet.\" \"Freitag Abend, ich bin nicht verfügbar.\"",
+            "Die weisesten Anfänge sind normalerweise bescheiden. Ich ermutigte einmal eine Frau, nicht zu versuchen, einen ganzen Tag Sabbat zu schaffen. Stattdessen sagte ich: \"Beginne mit zwei Stunden am Samstagmorgen. Schalte dein Telefon aus. Lass kein E-Mail, keine Besorgungen, keine Pläne zu.\" Sie tat es. Nach einem Monat sagte sie mir: \"Diese zwei Stunden haben meine Woche völlig verändert. Ich kenne meine eigene Seele wieder.\" **Ruhe kehrt oft nicht durch eine dramatische Geste zurück, sondern durch kleine treue Grenzen, die allmählich heilen.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Exodus 31:16-17",
+              "book_code": "ISA",
+              "chapter": 58,
+              "verses": "13-14",
+              "translation": "Lutherbibel 1912",
+              "text": "Darum sollen die Kinder Israel den Sabbat halten und ihm ein Gedächtnis machen bei ihren Nachkommen für einen ewigen Bund. Denn es ist ein Zeichen zwischen mir und den Kindern Israel in Ewigkeit; denn der HERR hat in sechs Tagen den Himmel und die Erde gemacht, und am siebenten Tage ruhte er und erquickte sich."
+            },
+            {
+              "display": "Levitikus 23:3",
+              "book_code": "EXO",
+              "chapter": 16,
+              "verses": "23",
+              "translation": "Lutherbibel 1912",
+              "text": "Sechs Tage soll Werk getan werden; aber am siebenten Tage ist Sabbat der Ruhe, eine heilige Versammlung. Kein Werk soll getan werden; denn es ist Sabbat des HERRN in allen euren Wohnungen."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Gott, Vater, gib mir die Weisheit und den Mut, einen Raum für Sabbat in meinem Leben zu schaffen. Hilf mir, nicht zu denken, dass es perfekt oder komplett sein muss. Lehre mich, mit kleinen Akten der Unterbrechung zu beginnen. Gib mir Gnade, um Grenzen zu setzen und auch zu halten. Im Namen Jesu Christi, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Den Sabbat nach Hause bringen",
+      "subtitle": "Einige Wege, um heilige Ruhe in dein tägliches Leben zu weben.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "5. Mose 5:14",
+            "book_code": "DEU",
+            "chapter": 5,
+            "verses": "14",
+            "translation": "Lutherbibel 1912",
+            "text": "aber am siebenten Tage ist Sabbat des HERRN, deines Gottes; da sollst du keine Werke tun, auch nicht du, noch dein Sohn, deine Tochter, dein Knecht, deine Magd, noch dein Rind, noch dein Esel, noch all dein Vieh, noch der Fremdling, der in deinen Toren ist; auf daß dein Knecht und deine Magd ruhet, wie du."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Der Sabbat in der Schrift ist niemals nur privat. Er breitet sich nach außen aus. Kinder, Diener, Fremde - sie alle teilen in dieser Ruhe. Dies ist bemerkenswert. Der Sabbat ist kein exklusives Vergnügen für diejenigen, die sich ausruhen können. Es ist eine kommunale Ordnung, die auch den schwächsten Mitgliedern der Gemeinschaft Ruhe gibt.",
+            "Lesen Sie 5. Mose 5:14 und beachten Sie die Weite des Befehls. Gott fordert nicht nur den Arbeiter auf, sondern auch seinen Sklaven, sein Vieh und den Fremden in deinen Toren. Die Ruhe ist umfassend. Das bedeutet, dass dein Sabbat, wenn du einen hältst, nicht selbstverständlich sein kann - es bedeutet, dass die Menschen um dich herum auch atmen können.",
+            "Eine Familie, die ich kannte, begann nicht mit etwas Aufwändigem. Sie brauchten nur eine wöchentliche Mahlzeit mit ausgeschalteten Telefonen. Sie aßen zusammen. Sie redeten. Es war einfach. Aber es schuf einen Raum, in dem die ganze Familie die Ruhe des Sabbats kannte - nicht als Luxus, sondern als etwas Gemeinsames, etwas, auf das sie sich freuten. **Es beginnt selten als polierte Tradition; es beginnt als wiederholte Handlung, Raum für einander zu schaffen.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Matthäus 12:11-12",
+              "book_code": "GEN",
+              "chapter": 18,
+              "verses": "1-8",
+              "translation": "Lutherbibel 1912",
+              "text": "Er sprach zu ihnen: Wer unter euch ist ein Mensch, der ein einziges Schaf hat, und wenn dieses am Sabbat in eine Grube fällt, wird er es nicht ergreifen und herausheben? Wieviel ist nun ein Mensch besser denn ein Schaf! So ist es denn erlaubt, am Sabbat Gutes zu tun."
+            },
+            {
+              "display": "Kolosser 2:16-17",
+              "book_code": "LUK",
+              "chapter": 24,
+              "verses": "30",
+              "translation": "Lutherbibel 1912",
+              "text": "So laßt euch nun von niemand richten über Speise oder Trank oder in Frage von Fest oder Mond oder Sabbat; dies ist nur ein Schatten der zukünftigen Dinge, das Wesen ist in Christus."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Gott, Vater, zeige mir, wie Ruhe in meinem besonderen Leben aussieht. Ich weiß nicht immer, was ich brauche, aber du tust. Hilf mir diese Woche, einen praktischen Weg zu entdecken, den Sabbat zu halten, der für meine besondere Situation passt. Und gib mir Gnade, diese Praxis zu schützen, auch wenn das Leben beschäftigt ist. Im Namen Jesu Christi, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Christus in der Ruhe finden",
+      "subtitle": "Der Sabbat war immer ein Hinweis auf die vollkommene Ruhe Christi.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Matthäus 11:28-30",
+            "book_code": "MAT",
+            "chapter": 11,
+            "verses": "28-30",
+            "translation": "Lutherbibel 1912",
+            "text": "Kommet her zu mir, alle, die ihr mühselig und beladen seid; ich will euch erquicken. Nehmet auf euch mein Joch und lernet von mir; denn ich bin sanftmütig und von Herzen demütig; so werdet ihr Ruhe finden für eure Seelen. Denn mein Joch ist sanft, und meine Last ist leicht."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Bis jetzt haben wir hauptsächlich über den Sabbat als Praxis gesprochen. Heute müssen wir darüber sprechen, zu wem der Sabbat hindeutet. Der Sabbat war nie das Endziel. Der Sabbat war immer ein Schatten, ein Zeichen auf etwas Größeres hin.",
+            "Lesen Sie Matthäus 11:28-30 langsam.",
+            "**\"Kommet her zu mir... ich will euch Ruhe geben.\"**",
+            "Jesus gibt nicht nur Ratschläge über Ruhe; Er nennt sich selbst als ihren Geber und ihre Quelle. Das ist von grundlegender Bedeutung. Der Sabbat lehrt uns über Ruhe. Aber nur Christus gibt uns wahre Ruhe - nicht nur physische Erholung, sondern die tiefe Ruhe der Seele, die kommt, wenn wir endlich aufhören, unsere eigene Gerechtigkeit aufzubauen und stattdessen seine Gerechtigkeit empfangen.",
+            "Ich hörte einmal eine Frau sagen, dass der Sabbat sie \"das Herr machen ließ mir holen\". Der Satz war wunderbar. Es ging nicht darum, dass sie hinter Dinge kam, die sie tun musste, sondern dass der Herr hinter sie kam - dass Er ihre Ruhe war. **Die tiefste Ruhe ist nicht leere Zeit, sondern Zeit, die Christus wieder zur Verfügung gestellt wird.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Römer 3:24-25",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "38-42",
+              "translation": "Lutherbibel 1912",
+              "text": "da sie alle Sünder sind und ermangeln der Herrlichkeit Gottes und werden gerecht aus Gnade durch die Erlösung, die in Christus Jesus ist,"
+            },
+            {
+              "display": "1. Petrus 2:9-10",
+              "book_code": "JHN",
+              "chapter": 4,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Ihr aber seid das auserwählte Geschlecht, das königliche Priestertum, das heilige Volk, das Volk zum Eigenthum, daß ihr die Tugenden dessen ausrufen sollt, der euch berufen hat von der Finsternis zu seinem wunderbaren Lichte; ihr seid daran nicht geliebt worden, jetzt aber seid ihr Gottes Volk."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Vater, ich danke dir, dass der Sabbat mich zu Christus hinweist. Danke dir, dass ich in ihm Ruhe finden kann - nicht nur physische Ruhe, sondern die tiefe Ruhe der Seele, die kommt, wenn ich aufhöre, zu kämpfen und einfach empfange, was er für mich getan hat. Heile meinen Geist von dem Irrglauben, dass ich erlöst werde durch meine Anstrengungen. Lehre mich, dass ich erlöst bin durch sein Werk und sein Blut. Gib mir diese Woche die tiefe Ruhe, die kommt, wenn ich endlich erkennen kann, dass ich genug bin, denn ich bin geliebt. Im Namen Jesu Christi, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Ein Vorgeschmack der ewigen Ruhe",
+      "subtitle": "Der Sabbat ist nicht nur eine Praxis für heute. Es ist ein Vorgeschmack auf ein kommendes Alter.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Hebräer 4:9-11",
+            "book_code": "HEB",
+            "chapter": 4,
+            "verses": "9-11",
+            "translation": "Lutherbibel 1912",
+            "text": "So bleibet eine Ruhe dem Volke Gottes. Denn wer in seine Ruhe eingegangen ist, der ruhet auch von seinen Werken, wie Gott von den seinen. Laßt uns nun eifrig danach trachten, in diese Ruhe einzugehen, auf daß nicht jemand in denselben Fall des Unglaubens falle."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Hebräer 4 verhindert, dass der Sabbat zu einer Lebensweise schrumpft. Sie sagt uns, dass es eine ewige Ruhe gibt, die noch kommt. Eine Ruhe, die nicht nur eine Unterbrechung ist, sondern ein Ort - ein Ziel, für das Gottes Volk auf dem Weg ist. Der wöchentliche Sabbat ist real und wertvoll, aber er deutet auf etwas Größeres hin: eine Welt, in der wir nicht mehr arbeiten müssen, nicht mehr kämpfen, nicht mehr weinen.",
+            "Lesen Sie Hebräer 4:9-11 zusammen mit Offenbarung 14:13. Der irdische Sabbat ist real, aber er ist auch eine Probe, ein Vorgeschmack auf ewige Ruhe. \"Selig sind die Toten, die im Herrn sterben von nun an. Ja, spricht der Geist, auf daß sie von ihren Mühen ausruhen; denn ihre Werke folgen ihnen nach.\"",
+            "Hebräer 4 verhindert, dass der Sabbat zu einer Lebensweise schrumpft. Sie sagt uns, dass es eine ewige Ruhe gibt, die noch kommt. Eine Ruhe, die nicht nur eine Unterbrechung ist, sondern ein Ort - ein Ziel, für das Gottes Volk auf dem Weg ist. Der wöchentliche Sabbat ist real und wertvoll, aber er deutet auf etwas Größeres hin: eine Welt, in der wir nicht mehr arbeiten müssen, nicht mehr kämpfen, nicht mehr weinen. **Der Sabbat lehrt den Körper, den Haushalt und das Herz, eine letzte Ruhe zu erwarten, die noch kommen wird.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Offenbarung 14:13",
+              "book_code": "REV",
+              "chapter": 14,
+              "verses": "13",
+              "translation": "Lutherbibel 1912",
+              "text": "Und ich hörte eine Stimme aus dem Himmel zu mir sagen: Schreibe: Selig sind die Toten, die im Herrn sterben, von nun an. Ja, spricht der Geist, auf daß sie von ihren Mühen ausruhen; denn ihre Werke folgen ihnen nach."
+            },
+            {
+              "display": "Hebräer 12:1-2",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Darum, da wir auch eine so große Wolke von Zeugen um uns haben, laßt uns ablegen die Sünde, die uns so leicht umstrickt, und laßt uns mit Geduld laufen den Kampf, der uns vorgesetzt ist, und aufblicken zu Jesu, dem Fürsten und Vollender des Glaubens, welcher, um der vor ihm gesetzten Freude willen, das Kreuz erduldete und die Schande nicht achtete, und sich zur Rechten des Thrones Gottes gesetzt hat."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Gott, mein Vater, ich danke dir für den Himmel. Ich danke dir, dass du bereitet hast, was über meine Fassungskraft hinausgeht. Danke dir, dass eines Tages die Arbeit vorbei ist. Dass ich endlich nicht länger kämpfen muss. Diese Woche, wenn ich ruhe, hilf mir, einen Moment lang zu schmecken und zu sehen, dass du gut bist. Hilf mir, endlich noch zu werden. Hilf mir, zu vertrauen, dass mein Leben in deinen Händen ist, in dieser Zeit und in jener. Und bis jener Tag kommt, gib mir die Gnade, diese Welt der Ruhe zu pflegen, um meine Seele zu heilen und mich auf die Ewigkeit vorzubereiten. Im Namen Jesu Christi, amen.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

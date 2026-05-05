@@ -1,0 +1,374 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS05",
+    "slug": "grace-on-balance-beam",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estações da Vida",
+      "secondary": "full-bloom",
+      "secondary_label": "Plena Floração"
+    },
+    "tags": [
+      "meio-de-carreira",
+      "matrimonio",
+      "dinheiro",
+      "casa",
+      "equilibrio",
+      "responsabilidade"
+    ],
+    "title": "Graça na Corda Bamba",
+    "subtitle": "Segurando trabalho, amor e responsabilidade sem perder seu centro",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "trinta-quarenta",
+        "meio de carreira"
+      ],
+      "emotional_state": [
+        "responsável",
+        "sobrecarregada",
+        "buscando equilíbrio"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para a mulher que tenta segurar trabalho, amor, responsabilidade e as demandas diárias sem perder seu centro espiritual.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_open_field_summer_balance",
+      "icon": "bouquet-of-wheat-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Provérbios 4:23,26",
+        "book_code": "PRO",
+        "chapter": 4,
+        "verses": "23,26"
+      },
+      {
+        "display": "Isaías 40:29,31",
+        "book_code": "ISA",
+        "chapter": 40,
+        "verses": "29,31"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Equilíbrio Não É Peso Igual em Todo Lugar",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 4:23,26",
+            "book_code": "PRO",
+            "chapter": 4,
+            "verses": "23,26",
+            "translation": "Almeida",
+            "text": "Guarda teu coração mais do que a tudo; porque dele procedem as fontes da vida... Faz retos os teus caminhos, e encaminha bem as tuas sendas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Para muitas mulheres, a palavra 'equilíbrio' já soa cansativa. A vida real raramente é dividida de forma igual. O trabalho avança em picos. As necessidades da família mudam. As crianças ficam doentes. Os pais precisam de atenção. O corpo pede aquilo que foi negligenciado. Os relacionamentos não esperam por momentos convenientes. O equilíbrio, portanto, geralmente não é uma proporção perfeita. É um ajuste contínuo de peso e foco.",
+            "O perigo vem quando o equilíbrio se torna outro padrão impossível: devo lidar com tudo bem, tudo de uma vez, sem deixar nada importante cair. Essa versão do equilíbrio quietly esmaga a alma.",
+            "Provérbios oferece uma visão mais profunda. Nos diz para guardar o coração com toda diligência e para fazer retos os caminhos sob nossos pés. Muitas mulheres em épocas plenas não são irresponsáveis ou espiritualmente indiferentes. Estão estendidas por muitas demandas legítimas. A pergunta central se torna não se servem, mas se ainda estão ancoradas enquanto servem.",
+            "**O primeiro passo para o equilíbrio não é conseguir que cada parte da vida seja igualmente gerenciada. É guardar o coração e firmar o caminho sob teus pés.** Você ainda pode ter uma agenda plena hoje, mas pode fazer uma pergunta melhor: o que mais precisa ser firme primeiro? Minha vida interior? Meu corpo? Uma conversa? Um fardo que preciso parar de carregar?",
+            "Deus não está medindo você por equilíbrio impecável. Ele está te convidando a lembrar onde seu centro está no meio de muitas demandas."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que frequentemente não sou esmagada por coisas ruins, mas por muitas coisas boas e necessárias todas pressionando de uma vez. Salva-me da pressão de gerenciar tudo perfeitamente e mantém-me de transformar equilíbrio em outra forma de escravidão. Obrigada por me lembrares que o que deve primeiro ser guardado é o coração dentro. Atrai meu coração de volta para Ti, para que em uma vida muito plena eu possa primeiro recuperar meu centro. Mostra-me o que colocar de lado, o que abordar e onde ficar quieta. Deixa Tua graça não apenas me ajudar a continuar, mas também me ensinar a ordem interior dentro disso. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 4:23,26",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23,26",
+              "translation": "Almeida",
+              "text": "Guarda teu coração mais do que a tudo; porque dele procedem as fontes da vida... Faz retos os teus caminhos, e encaminha bem as tuas sendas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "A Carga Mental Também É Peso Real",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 62:1-2",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "1-2",
+            "translation": "Almeida",
+            "text": "Minha alma repousa somente em Deus; dele vem minha salvação. Só ele é minha rocha e minha salvação..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Mulheres em épocas exigentes frequentemente carregam mais do que tarefas visíveis. Carregam carga mental. Enquanto trabalham, já estão pensando no jantar. Enquanto dirigem, estão se lembrando de compromissos. Enquanto lavam louça, consideram a saúde de um pai. Enquanto fazem orçamento, antecipam a próxima despesa inesperada. Nem tudo está acontecendo hoje, mas tudo permanece aberto dentro.",
+            "Outros podem não ver esse tipo de peso, mas é real. Exaure uma pessoa de dentro e torna o verdadeiro repouso difícil mesmo quando ela se senta.",
+            "O Salmo 62 oferece uma imagem diferente. Davi diz que sua alma espera silenciosamente por Deus e que Deus sozinho é sua rocha e salvação. A beleza desse quadro é que não depende de uma vida simples. Descreve uma firmeza interior que retorna a Deus em vez de apertar-se em torno de tudo de uma vez. Para muitas mulheres, a parte mais difícil não é completar a lista. É aprender não manter a lista inteira dentro de seu corpo o tempo todo.",
+            "**A graça às vezes começa não removendo tarefas, mas ensinando o coração não apertar-se em todas elas de uma vez.** A responsabilidade permanecerá, mas o aperto interior não precisa governar. Algumas coisas pertencem ao momento presente. Outras podem ser nomeadas e liberadas por enquanto.",
+            "Então pergunte honestamente hoje: o que estou mantendo mentalmente que não precisa ser carregado neste minuto? Traga essas coisas diante de Deus uma a uma. Não para evitar responsabilidade, mas para se libertar de viver em um estado contínuo de sobre-gerenciamento interior."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, Tu sabes quantas abas estão abertas dentro de mim o tempo todo. Muitas coisas ainda não aconteceram e ainda estou carregando-as em minha mente. Muitas responsabilidades não pertencem a hoje e já gastei força nelas. Obrigada por cuidares não apenas do meu trabalho visível mas também do longo tempo de tensão dentro de mim. Ensina-me como quietar meu coração, não evitando o que é meu fazer, mas não mais agarrando tudo de uma vez. Ajuda-me nomear meu cuidados diante de Ti e liberar o que não pertence a este momento. Deixa Tua graça não apenas me ajudar a continuar mas também me ensinar a calma interior dentro disso. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 62:1-2",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "1-2",
+              "translation": "Almeida",
+              "text": "Minha alma repousa somente em Deus; dele vem minha salvação. Só ele é minha rocha e minha salvação..."
+            },
+            {
+              "display": "1 Pedro 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Almeida",
+              "text": "Lançai toda a vossa ansiedade sobre ele, porque ele cuidado tem de vós."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Dizer Bastante Pode Ser um Ato de Sabedoria",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Eclesiastes 3:1",
+            "book_code": "ECC",
+            "chapter": 3,
+            "verses": "1",
+            "translation": "Almeida",
+            "text": "Tudo tem seu tempo determinado, e há tempo para todo propósito debaixo do céu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Nos anos plenos da vida, muitas mulheres não carecem de disposição. Simplesmente se tornaram super-disponíveis por reflexo. Quando alguém precisa de ajuda, elas entram. Quando uma lacuna aparece, elas a preenchem. Quando o trabalho deixa um pouco de espaço, mais é colocado nelas. Com o tempo, dizer 'não posso continuar adicionando' se torna mais difícil do que continuar carregando.",
+            "Frequentemente lemos mal os limites. Chamamo-los egoísmo. Imaginamos que parar significa falhar. Tratamos a finitude humana como um defeito moral. Mas Eclesiastes nos lembra que há uma estação para as coisas. Nem tudo pertence ao mesmo período de tempo. Nem toda estação pode suportar o mesmo volume.",
+            "Até Jesus se afastava para orar. Ele não deixava a necessidade sozinha ditar seu ritmo inteiro. Isso importa. Os limites não são prova de que você não se importa. Frequentemente são evidência de que você se importa com coisas mais profundas: que seu coração não se torne duro, que seu corpo não desabe, que os relacionamentos não se tornem puramente funcionais e que sua vida interior não permaneça negligenciada.",
+            "**Maturidade não é auto-expansão infinita. É aprender a honrar seus limites dados por Deus como parte da mordomia fiel.** Dizer bastante não é sem amor. É uma maneira de lembrar que você não é Deus.",
+            "Então pergunte onde você mais precisa dizer bastante. Talvez não como uma retirada total, mas como um limite mais sábio em torno do ritmo, volume ou expectativa. A graça nem sempre diz para você carregar mais. Às vezes ensina como carregar com verdade."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que frequentemente confundo disponibilidade sem fim com amor e capacidade contínua com responsabilidade. Mas Tu sabes onde já me tornei fina, dura e meramente funcional. Dá-me sabedoria para enfrentar meus limites reais honestamente e coragem para dizer bastante onde bastante precisa ser dito. Mantém-me de cair em culpa quando estabeleço um limite e mantém-me de desprezar-me por ser finita. Obrigada por também viveres com ordem e ritmo. Ensina-me não sempre carregar mais mas carregar com verdade, clareza e sustentabilidade diante de Ti. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Eclesiastes 3:1",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "1",
+              "translation": "Almeida",
+              "text": "Tudo tem seu tempo determinado, e há tempo para todo propósito debaixo do céu."
+            },
+            {
+              "display": "Marcos 1:35,37-38",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35,37-38",
+              "translation": "Almeida",
+              "text": "De madrugada, muito cedo, Jesus se levantou, saiu e foi para um lugar deserto, onde orava... Disseram-lhe: Todos te procuram. Ele respondeu: Vamos para as aldeias vizinhas... pois para isso eu vim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Às Vezes o que Precisa ser Reordenado Não É Apenas a Agenda Mas as Prioridades",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Ageu 1:5,7",
+            "book_code": "HAG",
+            "chapter": 1,
+            "verses": "5,7",
+            "translation": "Almeida",
+            "text": "Agora, pois, assim diz o Senhor dos Exércitos: Considerai bem os vossos caminhos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas mulheres em épocas exigentes tentaram consertar suas vidas com um melhor agendamento. Acordar mais cedo. Usar um planejador melhor. Código de cor na semana. Tarefas em lote. Blocos de tempo no trabalho. Compartilhar as tarefas. Essas coisas podem ajudar. Mas às vezes a questão mais profunda não é técnica. É prioridades desviadas.",
+            "Podemos nos tornar muito bons em preservar o que se sente urgente, visível, mensurável ou publicamente necessário enquanto lentamente sacrificamos o que é fundamental: oração, repouso, cuidado corporal, paciência, atenção, ternura e saúde espiritual. O chamado de Ageu para 'considerar seus caminhos' fala nisso. As pessoas podem ser diligentes e ainda estar desordenadas.",
+            "Esse é um perigo das épocas plenas. A vida continua se movimentando mas o que é central começa a se afinar. Uma mulher pode permanecer altamente funcional enquanto sua vida mais profunda se torna cada vez mais negligenciada.",
+            "**Às vezes a sabedoria que Deus dá não é maior eficiência mas melhor ordem.** Esse tipo de sabedoria faz perguntas mais difíceis. O que tenho mantido protegendo? O que tenho mantido postergando? O que silenciosamente se tornou normal que não deveria ser?",
+            "Você pode não precisar reconstruir tudo hoje. Mas pode precisar deixar Deus brilhar luz no lugar onde suas prioridades estão desalinhadas há muito tempo. Reordenar não é fracasso. Frequentemente é o começo da restauração."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, alumeia-me não apenas para que eu veja como estou ocupada mas também para que veja se a ocupação não me afastou da ordem. Se tenho estado protegendo o que é urgente, visível e externamente necessário enquanto negligencio o que é mais fundamental tem misericórdia de mim e desperta-me. Ensina-me não apenas buscar eficiência mas buscar prioridades corretas. Dá-me coragem para examinar meus caminhos e admitir onde o desequilíbrio se tornou muito normal. Obrigada por não me expores para condenar-me mas para me trazer de volta a uma vida mais saudável, mais verdadeira e mais profundamente ordenada por Tua presença. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Ageu 1:5,7",
+              "book_code": "HAG",
+              "chapter": 1,
+              "verses": "5,7",
+              "translation": "Almeida",
+              "text": "Agora, pois, assim diz o Senhor dos Exércitos: Considerai bem os vossos caminhos."
+            },
+            {
+              "display": "Mateus 6:33",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "33",
+              "translation": "Almeida",
+              "text": "Mas buscai primeiro o reino de Deus e a sua justiça, e todas essas coisas vos serão acrescentadas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "A Graça Não É Apenas Resistência mas Força Bem Suportada",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Isaías 40:29,31",
+            "book_code": "ISA",
+            "chapter": 40,
+            "verses": "29,31",
+            "translation": "Almeida",
+            "text": "Ele dá força ao cansado e multiplica as forças do fraco... mas os que esperam no Senhor renovam suas forças..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Mulheres em épocas exigentes frequentemente confundem 'ainda estou funcionando' com 'realmente estou bem'. Se a vida ainda está se movendo, a casa ainda está funcionando e o trabalho não desabou elas se dizem para continuar e pensar depois. Mas muito do que chamamos força é realmente compressão. É colapso atrasado. É ignorar necessidade e chamar isso maturidade.",
+            "A Escritura oferece uma imagem diferente de força. Isaías diz que os que esperam no Senhor renovarão sua força. A fonte de força não é auto-pressão sem fim mas o próprio Deus. Paulo diz que o poder de Deus é perfeito na fraqueza. Isso é especialmente importante para mulheres que aprenderam a tratar necessidade como constrangimento. O evangelho não chama necessidade de vergonhosa. Convida necessidade ao relacionamento com Deus.",
+            "**A graça não o transforma em uma máquina que pode suportar qualquer coisa sem custo. Ensina você a receber força como um que é verdadeiramente finito e verdadeiramente sustentado.** Esse tipo de força tem humildade nela. Sabe onde ir para renovação.",
+            "Então se você não está apenas simplesmente cansada mas silenciosamente esgotada ouça este convite gentilmente. Deus pode não estar pedindo para você apertar os dentes mais. Pode estar convidando-a ser renovada. Esperar admitir pausar e receber não são falhas de mulheres fortes. São parte da dependência fiel."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor confesso como facilmente trato funcionamento contínuo como prova de que ainda estou bem. Também trato necessidade como fraqueza e limitação como inconveniente. Mas Tu sabes onde não estou apenas cansada mas esgotada. Obrigada por não pedires que eu fingia estar bem ou por preservar-me através da pura força de vontade. Ensina-me esperar por Ti admitir meus limites reais diante de Ti e receber força renovada. Mantém-me de confundir graça com apenas mais um empurrão de resistência. Deixa-me entender graça como Tua própria mão me sustentando. Torna-me não mais semelhante a máquina mas mais verdadeiramente dependente de Ti. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Isaías 40:29,31",
+              "book_code": "ISA",
+              "chapter": 40,
+              "verses": "29,31",
+              "translation": "Almeida",
+              "text": "Ele dá força ao cansado e multiplica as forças do fraco... mas os que esperam no Senhor renovam suas forças..."
+            },
+            {
+              "display": "Salmo 73:26",
+              "book_code": "PSA",
+              "chapter": 73,
+              "verses": "26",
+              "translation": "Almeida",
+              "text": "Ainda que minha carne e meu coração desfaleçam a rocha do meu coração e a minha porção é Deus para sempre."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

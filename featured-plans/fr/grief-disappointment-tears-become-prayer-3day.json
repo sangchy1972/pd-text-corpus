@@ -1,0 +1,258 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG04",
+    "slug": "tears-become-prayer",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "grief-disappointment",
+      "secondary_label": "Tristesse et Déception"
+    },
+    "tags": [
+      "tristesse",
+      "deception",
+      "esperance-retardee",
+      "pleurs",
+      "consolation"
+    ],
+    "title": "Que Tes Larmes Deviennent Une Prière",
+    "subtitle": "Écrit pour celle qui continue à fonctionner en apparence, mais qui intérieurement se sent fatiguée, fragile et au bord des larmes.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "en deuil",
+        "déçue",
+        "éplorée"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Écrit pour celle qui continue à fonctionner en apparence, mais qui intérieurement se sent fatiguée, fragile et au bord des larmes.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_quiet_garden_soft_rain_grief",
+      "icon": "falling-leaf-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Matthieu 5:4",
+        "book_code": "MAT",
+        "chapter": 5,
+        "verses": "4"
+      },
+      {
+        "display": "Jean 11:33-36",
+        "book_code": "JHN",
+        "chapter": 11,
+        "verses": "33-36"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Reconnaître que quelque chose d'important a vraiment été perdu",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Matthieu 5:4",
+            "book_code": "MAT",
+            "chapter": 5,
+            "verses": "4",
+            "translation": "Louis Segond 1910",
+            "text": "Heureux ceux qui pleurent, car ils seront consolés."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Une des choses les plus difficiles du deuil, c'est la rapidité avec laquelle la vie continue. Il y a des messages à répondre, des besoins pratiques à gérer, et des routines qui ne s'arrêtent pas simplement parce que ton cœur souffre. Cela peut rendre la tristesse étrangement cachée. En apparence, tu peux continuer à faire ce qui doit être fait. Intérieurement, quelque chose peut se sentir déchiré.",
+            "Beaucoup de gens deviennent durs avec eux-mêmes dans cet écart. Ils se disent : « Ne sois pas dramatique », ou « Tu devrais aller mieux maintenant ». Mais le chagrin ne devient pas plus petit parce que tu te forces à continuer à avancer. Jésus parle avec tendresse quand il dit : « Heureux ceux qui pleurent, car ils seront consolés. » Il ne loue pas la récupération rapide. Il nomme les pleureuses comme des gens qui ont besoin de consolation.",
+            "Le Psaume 34 dit : « L'Éternel est près de ceux qui ont le cœur brisé. » Cela signifie que le chagrin n'est pas une interruption embarrassante dans la vie spirituelle. C'est l'un des endroits où Dieu se rapproche particulièrement.",
+            "**Le chagrin n'est pas un échec spirituel. C'est souvent l'écho d'avoir aimé, espéré, fait confiance ou investi profondément.** Si quelque chose importe assez pour te blesser, cela ne te rend pas faible. Cela te rend humain.",
+            "L'invitation d'aujourd'hui est simple : ne te précipite pas au-delà de la perte. Nomme-la devant Dieu. **L'Écriture ne nous enseigne pas à performer la force devant Dieu. Elle nous enseigne à amener la réalité en sa présence.** Tu peux prier : « Seigneur, c'est ce que j'ai perdu », même si c'est tout ce que tu peux dire. Cette honnêteté n'est pas l'opposé de la foi. C'est souvent le début d'être consolée.",
+            "Si les larmes viennent plus facilement que les paroles aujourd'hui, laisse-les venir. Dieu ne te demande pas de traduire le chagrin parfaitement avant de le recevoir. Il n'est pas gêné par la tristesse qui se sent inachevée. Pas aujourd'hui non plus."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, je viens devant toi aujourd'hui, non pas en prétendant être calme, mais en admettant que je me sens submerged. Tu sais la montée soudaine de peur, les pensées qui s'accélèrent, la tension dans mon corps, et l'impuissance qui la sous-tend. Merci de ne pas me demander de me composer avant de crier à toi. Aujourd'hui je te demande simplement de me tenir. Comme le psaume l'a dit, conduis-moi au rocher plus haut que moi. Tire-moi doucement de la panique et plus près de ta présence, et aide-moi à croire que ton soin est plus réel que ma peur. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Matthieu 5:4",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "4",
+              "translation": "Louis Segond 1910",
+              "text": "Heureux ceux qui pleurent, car ils seront consolés."
+            },
+            {
+              "display": "Psaume 34:18",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "18",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel est près de ceux qui ont le cœur brisé, et il sauve ceux qui ont l'esprit contrit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Quand personne ne comprend vraiment",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Samuel 1:12-16",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "12-16",
+            "translation": "Louis Segond 1910",
+            "text": "Anne continuait à prier devant l'Éternel ; Éli observait sa bouche. Or Anne parlait dans son cœur ; ses lèvres seules se mouvaient, mais on n'entendait pas sa voix, et Éli la prit pour une femme ivre... Anne répondit et dit : Non, mon seigneur, je suis une femme à l'âme malheureuse... c'est dans l'amertume de mon âme que je me suis répandue devant l'Éternel."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certains chagrins se sentent particulièrement solitaires parce qu'ils ne sont pas bien compris. Il y a des pertes que les gens reconnaissent rapidement, et puis il y a les pertes qui te laissent seule dans ton propre cœur. Peut-être que d'autres pensent que tu devrais être passée à autre chose maintenant. Peut-être qu'ils réduisent ta douleur avec des conseils ou la comparent à autre chose. Quand cela se produit, le chagrin gagne une deuxième couche. Tu ne souffres pas seulement à cause de ce qui s'est passé. Tu souffres aussi parce que tu ne te sens pas précisément vu.",
+            "Ce type de solitude peut faire que les gens se retirent. Après un certain temps, tu peux arrêter d'essayer d'expliquer. Tu peux sourire, changer de sujet, ou dire : « Je vais bien », parce que cela semble plus facile que d'essayer de traduire quelque chose que les autres ne cessent de mal comprendre. Le silence peut aussi devenir lourd.",
+            "L'histoire d'Anne parle tendrement dans cette expérience. Elle est venue devant le Seigneur avec un « esprit affligé », et Éli a mal compris ce qu'il a vu. Pourtant Dieu ne l'a pas mal compris. Le Psaume 56 dit qu'il conserve nos larmes dans son outre. Cette image est intime et attentionnée. Elle signifie que ta tristesse n'est pas floue à sa vue.",
+            "**Même quand les gens ne peuvent pas comprendre pleinement ton deuil, Dieu le peut.** Cela ne fait pas disparaître la douleur d'être mal compris, mais cela signifie que tu n'es pas abandonnée en elle. **Tu n'as pas besoin de trouver un langage parfait avant de venir à lui. Tu peux simplement prier : « Seigneur, tu sais. »**",
+            "Si une phrase de quelqu'un d'autre t'a marquée douloureusement, apporte cette phrase devant Dieu aujourd'hui. Demande-lui de placer sa vérité par-dessus. Il voit tes larmes, connaît ton histoire, et ne mésinterprète pas ce qui est le plus douloureux en toi.",
+            "Être connue de Dieu ne supprime pas chaque douleur de solitude, mais cela empêche le chagrin de devenir un endroit où tu te sens effacée. Cette prière est petite, mais elle n'est pas superficielle."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci que tu ne mésinterprètes pas mes larmes. Les autres ne savent peut-être pas pourquoi je souffre si profondément. Peut-être ont-ils parlé rapidement ou légèrement, et cela m'a fait sentir encore plus fatiguée. Mais tu sais. Tu vois ce qui se lève en moi quand je semble calme de l'extérieur. Tu entends les soupirs que je ne veux plus expliquer aux gens. Aujourd'hui je t'apporte la douleur d'être mal comprise, les blessures d'être minimisée, et la fatigue de ne plus vouloir parler. Console-moi par la paix d'être complètement connue de toi, et que ta voix devienne plus forte que les voix qui m'ont blessée. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Samuel 1:12-16",
+              "book_code": "1SA",
+              "chapter": 1,
+              "verses": "12-16",
+              "translation": "Louis Segond 1910",
+              "text": "Anne continuait à prier devant l'Éternel ; Éli observait sa bouche. Or Anne parlait dans son cœur ; ses lèvres seules se mouvaient, mais on n'entendait pas sa voix, et Éli la prit pour une femme ivre... Anne répondit et dit : Non, mon seigneur, je suis une femme à l'âme malheureuse... c'est dans l'amertume de mon âme que je me suis répandue devant l'Éternel."
+            },
+            {
+              "display": "Psaume 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Tu comptes mes douleurs ; mets mes larmes dans ton outre ; ne les as-tu pas inscrites dans ton livre?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Les larmes et l'espérance peuvent coexister",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jean 11:33-36",
+            "book_code": "JHN",
+            "chapter": 11,
+            "verses": "33-36",
+            "translation": "Louis Segond 1910",
+            "text": "Jésus, les voyant pleurer, elle et les Juifs qui l'accompagnaient, frémit en esprit et se troubla... Jésus pleura. Les Juifs dirent alors : Voyez comme il l'aimait!"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens ressentent du chagrin et puis se jugent eux-mêmes de continuer à le ressentir. Ils supposent que s'ils faisaient vraiment confiance à Dieu, ils ne feraient pas autant mal. À cause de cela, les gens en deuil portent souvent deux fardeaux à la fois. Le premier fardeau est la tristesse réelle. Le deuxième est l'auto-jugement : « Pourquoi suis-je toujours en train de souffrir ? » Ce deuxième fardeau peut être particulièrement cruel parce qu'il tourne le cœur contre lui-même.",
+            "Jean 11 nous donne une image différente. Jésus se tenait devant le tombeau de Lazare sachant que la résurrection venait, et pourtant « Jésus pleura. » Il n'a pas contourné le chagrin parce qu'il possédait l'espérance. Il est entré dans le chagrin tout en tenant l'espérance. Cela importe pour quiconque a jamais ressenti coupable de continuer à souffrir.",
+            "L'espérance future n'efface pas la douleur présente. Les larmes ne sont pas la preuve que la foi a échoué. Jésus nous montre que le chagrin et l'amour vont ensemble, et que l'espérance n'a pas toujours l'air triomphant émotionnellement.",
+            "**L'espérance et la tristesse ne sont pas des ennemis. Elles peuvent vivre dans le même cœur.** Tu peux dire : « Seigneur, je sais que tu es ici, et je souffre toujours. » **La foi honnête ne nie pas la douleur. Elle amène la douleur en la présence de Dieu sans prétendre qu'elle est plus petite qu'elle ne l'est.**",
+            "Aujourd'hui, parle-toi à toi-même plus gentiment quand la tristesse monte. Au lieu de dire : « Je devrais être au-delà de cela », essaye de dire : « Le Seigneur sait pourquoi cela me fait mal. » Cette vérité plus tendre devient souvent une partie de la guérison. Tu n'as pas besoin de choisir entre être une personne d'espérance et une personne qui pleure. En Christ, tu es autorisée à être les deux.",
+            "La tendresse du Seigneur fait de la place pour cette complexité. Il n'est pas troublé par le fait que ton chagrin a encore une voix. La compassion du Christ fait de la place pour les deux. Sa tendresse peut tenir tes larmes et ta confiance sans forcer l'un ou l'autre à disparaître."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, merci de m'avoir montré que les larmes ne me poussent pas en dehors de l'espérance. Tu as aussi pleuré face au chagrin, alors tu comprends complètement à quoi ressemble le fait de croire et de souffrir en même temps. Aide-moi aujourd'hui à ne pas me condamner pour mon deuil, et à ne pas exiger la paix immédiate de mon propre cœur. Enseigne-moi à dire honnêtement devant toi : je sais que tu es ici, et je souffre toujours. Que ta tendresse me soutienne, pour que l'espérance ne fasse pas taire mes larmes, mais reste avec moi au-dedans d'elles. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jean 11:33-36",
+              "book_code": "JHN",
+              "chapter": 11,
+              "verses": "33-36",
+              "translation": "Louis Segond 1910",
+              "text": "Jésus, les voyant pleurer, elle et les Juifs qui l'accompagnaient, frémit en esprit et se troubla... Jésus pleura. Les Juifs dirent alors : Voyez comme il l'aimait!"
+            },
+            {
+              "display": "Hébreux 4:15",
+              "book_code": "HEB",
+              "chapter": 4,
+              "verses": "15",
+              "translation": "Louis Segond 1910",
+              "text": "Car nous n'avons pas un souverain sacrificateur qui ne puisse compatir à nos faiblesses ; au contraire, il a été tenté comme nous en toutes choses, sans commettre de péché."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

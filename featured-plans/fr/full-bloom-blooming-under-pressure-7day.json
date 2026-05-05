@@ -1,0 +1,473 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS06",
+    "slug": "blooming-under-pressure",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Saisons de la Vie",
+      "secondary": "full-bloom",
+      "secondary_label": "Pleine Floraison"
+    },
+    "tags": [
+      "mi-carriere",
+      "mariage",
+      "argent",
+      "maison",
+      "equilibre",
+      "responsabilite"
+    ],
+    "title": "Florissant sous la Pression",
+    "subtitle": "Comment Dieu cultive la beauté, la force et la profondeur dans les saisons exigeantes",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "trentaine-quarantaine",
+        "mi-carrière"
+      ],
+      "emotional_state": [
+        "responsable",
+        "tiraillée",
+        "cherchant l'équilibre"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour les femmes dans des saisons exigeantes qui ont besoin de plus que la survie, et qui veulent voir comment Dieu peut cultiver la profondeur, la beauté et la force sous la pression.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_open_field_summer_balance",
+      "icon": "bouquet-of-wheat-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psaume 1:1-3",
+        "book_code": "PSA",
+        "chapter": 1,
+        "verses": "1-3"
+      },
+      {
+        "display": "Jean 15:4-5",
+        "book_code": "JHN",
+        "chapter": 15,
+        "verses": "4-5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "La Pression Révèle à la Fois nos Racines et notre Dépendance",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 1:1-3",
+            "book_code": "PSA",
+            "chapter": 1,
+            "verses": "1-3",
+            "translation": "Louis Segond 1910",
+            "text": "Heureux l'homme qui ne marche pas selon le conseil des méchants, qui ne s'arrête pas sur la voie des pécheurs, et qui ne s'assied pas en compagnie des moqueurs, mais qui trouve son plaisir dans la loi de l'Éternel, et qui la médite jour et nuit! Il est comme un arbre planté près d'un cours d'eau, qui donne son fruit en sa saison, et dont le feuillage ne se flétrit point: tout ce qu'il fait lui réussit."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La pression est difficile non seulement parce qu'il y a beaucoup à faire, mais parce qu'elle expose ce qui est caché. L'impatience devient plus bruyante. Le contrôle semble plus nécessaire. Le besoin d'approbation s'intensifie. La peur de l'échec s'accentue. Beaucoup de femmes découvrent sous la pression que ce qu'elles craignent le plus n'est pas simplement les tâches inachevées, mais la perte de contrôle, de crédibilité ou de sang-froid.",
+            "La pression agit comme un miroir. Elle montre sur quoi une personne s'est vraiment appuyée.",
+            "Le Psaume 1 nous donne un contraste entre les racines peu profondes et les racines profondes. La pression ne donne pas automatiquement à une femme des racines, mais elle révèle si des racines sont présentes. Si votre vie intérieure s'est appuyée surtout sur la performance, l'efficacité, la louange ou l'autosuffisance, la pression vous secouera profondément. Mais si votre vie apprend à s'enraciner en Dieu, la pression peut encore être intense sans devenir ultimement déterminante.",
+            "**Il y a des saisons où Dieu permet la pression non pas pour vous détruire, mais pour vous montrer où vos racines se trouvent vraiment.** Ce n'est pas facile, mais c'est miséricordieux. Beaucoup de gens ne découvrent leur vraie dépendance que lorsque la vie devient assez exigeante pour la révéler.",
+            "Donc aujourd'hui, ne priez pas seulement pour un soulagement. Priez aussi pour la clarté. Demandez à Dieu de vous montrer ce que votre pression révèle sur vos racines. Il n'est pas fasciné par la difficulté pour elle-même. Il est disposé à l'utiliser pour une formation plus profonde que la simple survie."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, Tu sais comment je suis sous la pression. Les choses qui restent cachées dans les temps plus faciles deviennent évidentes quand la vie devient exigeante. Merci de ne pas m'abandonner quand la faiblesse est exposée. Au lieu de cela, Tu l'utilises pour me rendre plus honnête devant Toi. Montre-moi sur quoi je me suis vraiment appuyée dans cette saison. Si mes racines sont trop peu profondes, trop dépendantes de l'efficacité, du contrôle ou des opinions d'autres personnes, aie pitié de moi et plante-moi plus profondément en Toi. Garde-moi de ne me soucier que de survivre. Que la pression devienne aussi un lieu où Tu approfondis et stabilises ma vie. En Jésus' nom, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 1:1-3",
+              "book_code": "PSA",
+              "chapter": 1,
+              "verses": "1-3",
+              "translation": "Louis Segond 1910",
+              "text": "Heureux l'homme qui ne marche pas selon le conseil des méchants, qui ne s'arrête pas sur la voie des pécheurs, et qui ne s'assied pas en compagnie des moqueurs, mais qui trouve son plaisir dans la loi de l'Éternel, et qui la médite jour et nuit! Il est comme un arbre planté près d'un cours d'eau, qui donne son fruit en sa saison, et dont le feuillage ne se flétrit point: tout ce qu'il fait lui réussit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Comprendre l'Intention de Dieu pour la Pression",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Pierre 1:6-7",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "1-2",
+            "translation": "Louis Segond 1910",
+            "text": "C'est là ce qui fait votre joie, bien que présentement, si cela est nécessaire, vous soyez attristés par diverses épreuves, afin que l'épreuve de votre foi, plus précieuse que l'or périssable, bien qu'elle soit éprouvée par le feu, tourne à votre honneur, à votre gloire et à votre immortalité, lorsque Jésus Christ apparaîtra."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La pression n'est jamais le but ultime de Dieu pour vous. Elle est toujours un outil, jamais la destination. Mais Dieu permet la pression pour accomplir quelque chose de profond dans votre formation spirituelle. Il veut cultiver en vous quelque chose que vous ne pourriez pas développer dans les temps faciles.",
+            "Dans nos sociétés modernes, nous partons du principe que la vie devrait être relativement confortable, prévisible et gérable. Mais les Écritures peignent une image différente. Dieu utilise les saisons exigeantes pour affiner notre foi, approfondir notre dépendance, et nous rapprocher de Lui.",
+            "Quand vous acceptez que la pression fait partie de la formation que Dieu permet—plutôt que quelque chose qui s'est mal passé—vous commencez à voir avec des yeux spirituels. Vous remarquez comment Dieu travaille, comment il vous renforce graduellement, comment il vous rend plus dépendante de Lui plutôt que de vos propres ressources.",
+            "**La pression n'est pas seulement un lieu où vous êtes dépensée. C'est aussi un lieu où Dieu fait un travail fin et soigneux en vous.** La pression ne fabrique jamais une femme plus sage simplement par sa présence. Mais quand vous réagissez à la pression en cherchant Dieu, en priant fidèlement, et en permettant à Votre Esprit de vous former—alors la pression devient un catalyseur pour la maturité spirituelle.",
+            "Ce recentrage de la pression comme outil plutôt que comme punition ne la rend pas moins difficile, mais cela transforme votre relation avec elle. Vous ne cherchez plus seulement à vous en échapper. Vous cherchez à y répondre d'une manière qui correspond à ce que Dieu fait en vous."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, j'ai longtemps vu la pression comme quelque chose qui s'est mal passé, un problème à résoudre ou une punition à endurer. Aide-moi à voir les saisons exigeantes à travers Tes yeux—comme des occasions pour une formation plus profonde. Je veux abandonner l'illusion que je peux contrôler le confort de ma vie. Augmente ma foi en Toi et en Tes intentions pour moi. Quand la pression vient, donne-moi le discernement de voir ce que Tu veux accomplir et la grâce d'y répondre avec soumission. Seigneur, je ne peux pas prétendre aimer la pression, mais je peux choisir de faire confiance à Celui qui l'utilise pour mon bien. En Jésus' nom, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Pierre 1:6-7",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "1-2",
+              "translation": "Louis Segond 1910",
+              "text": "C'est là ce qui fait votre joie, bien que présentement, si cela est nécessaire, vous soyez attristés par diverses épreuves, afin que l'épreuve de votre foi, plus précieuse que l'or périssable, bien qu'elle soit éprouvée par le feu, tourne à votre honneur, à votre gloire et à votre immortalité, lorsque Jésus Christ apparaîtra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Racines Profondes: Comment Faire Grandir la Capacité à Endurer",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jean 15:1-2",
+            "book_code": "EPH",
+            "chapter": 3,
+            "verses": "16",
+            "translation": "Louis Segond 1910",
+            "text": "Je suis le vrai cep, et mon Père est le vigneron. Tout sarment qui est en moi et qui ne porte pas de fruit, il le retranche; et tout sarment qui porte du fruit, il le purifie, afin qu'il porte encore plus de fruit."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Les racines profondes ne se forment pas en un jour. Un arbre ne peut pas pousser des racines fortes sans temps, sans eau régulière, sans terre riche, et sans les éléments qui renforcent et solidifient ses fondations. De même, votre capacité à rester stable sous la pression est le fruit d'années de pratiques spirituelles, de confiance progressive en Dieu, et de communion nourrie.",
+            "Quand vous entrez dans une saison exigeante, vous ne créez pas soudainement des racines. Vous découvrez simplement celles que vous avez cultivées—ou celles qui vous manquent. C'est pourquoi les femmes sages investissent dans leur vie spirituelle pendant les temps plus faciles, sachant qu'une saison de pression viendra.",
+            "**Dieu ne tente pas de vous rendre insensible. Il est en train de cultiver la capacité en vous.** La capacité est différente de l'endurcissement. L'endurcissement est ce qui arrive à un cœur qui subit beaucoup de pression et s'enferme. Mais la capacité—la capacité à rester souple, aimante, et ouverte même sous la pression—c'est ce que Dieu cultive. C'est une beauté rare et précieuse.",
+            "Pour développer cette capacité, vous devez nourrir votre vie spirituelle de manière régulière et intentionnelle. Cela signifie mettre à part du temps pour la prière, la lecture des Écritures, la communion avec Dieu, et la recherche du conseil d'autres femmes spirituellement saines. Ces pratiques ne sont pas des luxes—elles sont le fondement sur lequel vous vous tiendrez quand la vie devient exigeante."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Dieu, je reconnais que ma capacité à rester entière sous la pression dépend de la profondeur de ma connection à Toi maintenant. Aide-moi à valoriser la prière, l'étude de Ta Parole, et la communion avec Toi, non comme des éléments supplémentaires, mais comme ce qu'il y a de plus fondamental. Donne-moi la discipline et la joie pour enraciner ma vie plus profondément en Toi jour après jour. Et puisque je suis dans une saison exigeante maintenant, renforce les racines que j'ai, même si elles sont jeunes. Rends-moi une femme avec une capacité croissante à rester douce, fidèle, et aimante—même quand tout en moi veut devenir dure. En Jésus' nom, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jean 15:1-2",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "16",
+              "translation": "Louis Segond 1910",
+              "text": "Je suis le vrai cep, et mon Père est le vigneron. Tout sarment qui est en moi et qui ne porte pas de fruit, il le retranche; et tout sarment qui porte du fruit, il le purifie, afin qu'il porte encore plus de fruit."
+            },
+            {
+              "display": "Éphésiens 3:16",
+              "book_code": "PRO",
+              "chapter": 24,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "afin qu'il vous donne, selon la richesse de sa gloire, d'être puissamment fortifiés par son Esprit dans l'homme intérieur,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Transformer la Pression en Persévérance",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 24:10",
+            "book_code": "1PE",
+            "chapter": 1,
+            "verses": "6-7",
+            "translation": "Louis Segond 1910",
+            "text": "Si tu faiblissais au jour de la détresse, ta force en serait réduite."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La persévérance n'est pas quelque chose que nous naissons avec. C'est quelque chose que nous construisons à travers l'expérience, particulièrement à travers les expériences difficiles. Chaque fois que vous êtes pressée mais que vous choisissez de rester fidèle, chaque fois que vous êtes écrasée mais que vous faites un autre pas en avant, vous construisez la persévérance.",
+            "La persévérance est la force qui vous permet de continuer à avancer quand continuer semble impossible. Elle n'est pas l'absence d'épuisement ou de doute. C'est la capacité à continuer malgré eux. Et cette capacité grandit, paradoxalement, à travers l'expérience d'être poussée au-delà de ce que vous aviez pensé pouvoir supporter.",
+            "Chaque expérience de pression que vous surmontez par la foi est une pierre de fondation pour la persévérance. Vous découvrez que vous êtes plus forte que vous ne le pensiez. Vous découvrez que Dieu vous soutient de manières qui vous surprennent. Vous découvrez que vous pouvez rester fidèle même quand tout en vous veut abandonner.",
+            "**Quand la pression affine une personne, le résultat n'est pas simplement une vie plus efficace, mais un cœur plus libre.** Une femme affinée par la pression—si elle a permis à Dieu de l'utiliser—n'est pas une machine bien huilée. Elle est une femme avec moins d'anxiété, moins de rigidité, et plus de paix. Elle a découvert que les choses qu'elle pensait être les plus importantes n'étaient peut-être pas aussi importantes qu'elle le croyait. Elle a appris à lâcher prise. Et dans ce lâcher prise, elle a trouvé la liberté."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je n'aime pas la sensation d'être poussée au-delà de ce que je pensais pouvoir supporter. Mais je vois dans Tes Écritures que la persévérance vient de l'expérience de surmonter des difficultés. Aide-moi à cesser de voir la pression que j'endure maintenant simplement comme quelque chose à terminer. Aide-moi à voir comment Tu l'utilises pour me construire une persévérance que je porterai toute ma vie. Donne-moi la grâce de continuer quand continuer me semble impossible. Renforce mon cœur. Élargis ma foi. Et montre-moi que de l'autre côté de cette saison difficile, je serai une femme avec des racines plus profondes, une persévérance plus forte, et un cœur plus libre. En Jésus' nom, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 24:10",
+              "book_code": "1PE",
+              "chapter": 1,
+              "verses": "6-7",
+              "translation": "Louis Segond 1910",
+              "text": "Si tu faiblissais au jour de la détresse, ta force en serait réduite."
+            },
+            {
+              "display": "Romains 5:3-5",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "23-24",
+              "translation": "Louis Segond 1910",
+              "text": "Bien plus, nous nous glorifions même des afflictions, sachant que l'affliction produit la persévérance, la persévérance produit l'approbation éprouvée, et l'approbation éprouvée produit l'espérance. Or, l'espérance ne confond point, parce que l'amour de Dieu est versé dans nos cœurs par le Saint-Esprit qui nous a été donné."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Beauté Cultivée à travers la Souffrance",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Colossiens 3:12",
+            "book_code": "JAS",
+            "chapter": 3,
+            "verses": "17",
+            "translation": "Louis Segond 1910",
+            "text": "Revêtez-vous donc, comme des élus de Dieu sanctifiés et bien-aimés, d'entrailles de miséricorde, de bonté, d'humilité, de douceur, de patience."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Une certaine beauté ne peut être cultivée que par la souffrance. Ce n'est pas la beauté surfacique d'apparence ou de présentation. C'est la beauté plus profonde de l'âme—la beauté de la sagesse, de la miséricorde, de la compréhension, et de la grâce gagnée par l'expérience.",
+            "Quand vous traversez une pression sans devenir amère, vous cultivez une beauté. Quand vous souffrez et restez douce, quand vous êtes brisée mais pas brisée, quand vous êtes épuisée mais pas endurcissante—cette beauté est remarquable. Elle n'a pas d'imitation. Aucune quantité d'apparence physique ou de présentations polies ne peut créer cette beauté.",
+            "**La pression ne doit pas vous entraîner à devenir une version plus aiguisée et plus dure de vous-même.** Dieu peut cultiver en vous une beauté qui n'est pas dure, mais douce. Pas amère, mais miséricordieuse. Pas fermée, mais ouverte. Pas moins vous, mais une version plus vraie et plus pleine de vous—celle que Dieu voyait en vous depuis le début.",
+            "Si vous pouviez voir le produit fini—la femme que vous deviendrez si vous permettez à Dieu d'utiliser cette saison pour vous former—je pense que vous verriez quelque chose qui vaut chaque larme, chaque moment d'épuisement, chaque lutte pour croire. Pas parce que la souffrance en elle-même est bonne. Mais parce que Dieu est bon et Il raccroche Sa bonté à votre douleur pour créer quelque chose de beau."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, aide-moi à voir au-delà de ce moment. Je suis trop enfoncée dans la pression pour voir ce que Tu es en train de faire en moi. Mais je prie pour la foi de croire que Tu cultives quelque chose de beau à travers cela. Remplace ma tendance à l'amertume par la miséricorde. Quand je veux devenir dure, rends-moi tendre. Quand je veux juger, donne-moi de la compréhension. Montre-moi comment les femmes qui Vous ont connu les plus profondément ont aussi souffert les plus profondément. Aide-moi à accepter cette formation avec un cœur ouvert. Et un jour, puisse-je regarder en arrière et voir la beauté que Tu as cultivée en moi dans ces saisons difficiles. En Jésus' nom, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Colossiens 3:12",
+              "book_code": "JAS",
+              "chapter": 3,
+              "verses": "17",
+              "translation": "Louis Segond 1910",
+              "text": "Revêtez-vous donc, comme des élus de Dieu sanctifiés et bien-aimés, d'entrailles de miséricorde, de bonté, d'humilité, de douceur, de patience."
+            },
+            {
+              "display": "Jacques 3:17",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "12",
+              "translation": "Louis Segond 1910",
+              "text": "Mais la sagesse d'en haut est premièrement pure, ensuite pacifique, douce, bienveillante, pleine de miséricorde et de bons fruits, exempte de duplicité et d'hypocrisie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Dépendance: Le Fruit Secret de la Pression",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 139:23-24",
+            "book_code": "ROM",
+            "chapter": 5,
+            "verses": "3-5",
+            "translation": "Louis Segond 1910",
+            "text": "Sonde-moi, ô Dieu, et connais mon cœur; éprouve-moi, et connais mes pensées. Vois si je suis sur une mauvaise voie, et conduis-moi sur la voie de l'éternité."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La dépendance n'est pas une faiblesse—c'est le résultat de voir clairement la réalité. C'est reconnaître que vous ne pouvez pas vous soutenir vous-même. C'est accepter que vous avez besoin de quelque chose, de quelqu'un, de Quelqu'un plus grand que vous. Et quand cette dépendance est dirigée vers Dieu, c'est exactement ce qu'il a prévu.",
+            "Avant la pression, il est facile de se cacher dans l'auto-suffisance. Il est facile de croire que si vous travaillez dur, organisez assez bien, et planifiez suffisamment, vous pouvez contrôler votre vie. La pression casse cette illusion. Elle vous démontre que vous ne pouvez pas tout manager. Et dans ce moment de perte de pouvoir, Dieu crie: \"Maintenant vous êtes libre pour dépendre de Moi.\"",
+            "**L'espérance ne nie pas la pression. Elle fait confiance à ce que la pression n'est pas la fin de l'histoire et ne sera pas gaspillée.** L'espérance est un acte de foi radicale—la conviction que Dieu est bon même quand les circonstances ne le montrent pas, que vous êtes aimée même quand vous vous sentez délaissée, que votre vie a du sens même quand elle semble insignifiante.",
+            "Quand vous cessez de dépenser votre énergie à essayer de contrôler, vous avez enfin de l'énergie pour vivre, aimer, et servir. Quand vous acceptez votre besoin de Dieu, vous trouvez la vraie paix. La pression qui vous enseigne cette dépendance est un cadeau, même si cela ne se sent pas comme cela maintenant."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'ai passé tant de temps essayant d'être auto-suffisante et en contrôle. J'ai cru que Votre approbation dépendait de ce que je pouvais accomplir. Mais la pression m'a brisée en morceaux—et j'ai soudainement réalisé que je ne peux pas tout manager, et que Vous n'aviez jamais prévu que je le sois. Merci pour cette leçon, même si c'était douloureux. Aide-moi à abandonner la façade de contrôle. Aide-moi à dépendre de Toi avec un cœur ouvert et reconnaissant. Remplissez le vide laissé par l'auto-suffisance avec une connaissance plus profonde de Ta suffisance pour moi. Jésus, Tu es tout ce dont j'ai besoin. Apprends-moi à Te faire confiance, à reposer en Toi, et à chercher ta force plutôt que ma propre. En Ton nom, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 139:23-24",
+              "book_code": "ROM",
+              "chapter": 5,
+              "verses": "3-5",
+              "translation": "Louis Segond 1910",
+              "text": "Sonde-moi, ô Dieu, et connais mon cœur; éprouve-moi, et connais mes pensées. Vois si je suis sur une mauvaise voie, et conduis-moi sur la voie de l'éternité."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "Du Surviving au Florissant: Une Transformation Complète",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jean 15:4-5",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "4-5",
+            "translation": "Louis Segond 1910",
+            "text": "Demeurez en moi, et je demeurerai en vous. Comme le sarment ne peut porter du fruit de lui-même, s'il ne demeure attaché au cep, ainsi vous ne le pouvez non plus, si vous ne demeurez en moi. Je suis le cep, vous êtes les sarments. Celui qui demeure en moi et en qui je demeure porte beaucoup de fruit, car sans moi vous ne pouvez rien faire."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Vous avez commencé ce plan dans une saison de pression. Peut-être étiez-vous en train de survivre, de compter les jours jusqu'à ce que les choses s'améliorent, de faire exactement ce qu'il fallait pour traverser. Peut-être aviez-vous perdu de vue ce que cela signifiait de vraiment vivre, d'être enracinée, d'avoir de la joie.",
+            "Mais au cours de ces sept jours, quelque chose a changé. Vous avez commencé à voir la pression à travers les yeux de Dieu—non pas comme une punition ou une erreur, mais comme un outil pour vous former. Vous avez commencé à enraciner votre vie plus profondément en Lui. Vous avez commencé à construire la persévérance et la beauté. Vous avez commencé à accepter votre dépendance envers Lui.",
+            "À partir de maintenant, vous n'avez pas besoin d'attendre que la pression disparaisse pour commencer à fleurir. Florissant n'est pas un lieu que vous atteindrez un jour. C'est une manière de vivre—en acceptant la pression, en restant enracinée en Dieu, en permettant à Lui de continuer à vous former. Vous pouvez fleurir même dans les saisons difficiles parce que vous florissez à travers une connection plus profonde à Dieu, non pas par l'absence de difficultés.",
+            "**Le vrai florissant n'est pas de maintenir les apparences sous une tension maximale. C'est de rester en Christ sous n'importe quelle pression, sachant que vous êtes aimée, acceptée, et formée par Celui qui vous tient dans Ses mains.** Cela signifie que vous pouvez lâcher prise sur l'image de la femme qui \"a tout ensemble\" et embrassez la femme que vous devenez réellement—une femme enracinée en Dieu, capable de persévérer, cultivée en beauté, et profondément dépendante de sa grâce.",
+            "La saison ne durera pas pour toujours. Mais votre enracinement en Dieu le fera. Et cela, ma chère, est ce qui signifie de fleurir sous la pression."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je viens à Toi à la fin de ces sept jours changée. Je ne suis pas sûre d'être totalement transformée—cette saison est toujours difficile et je dois encore chercher un soulagement. Mais quelque chose en moi s'est décalé. Je vois comment Tu travailles en moi. Je sens Tes racines croissant plus profondément dans mon âme. Je reconnais la beauté que Tu cultives. Et je sens, pour la première fois, une paix au sujet de ma dépendance de Toi. Merci. Tu sais comment ma vie regarde à l'avenir. Tu sais si cette saison continuera plus longtemps ou si elle s'adoucira bientôt. Quoi qu'il en soit, Je Vous demande de continuer à me maintenir. Continuez à m'enraciner. Continuez à me former. Faites de moi une femme qui fleurit sous la pression parce que mes racines sont en Vous. Et un jour, quand cette saison se terminera, puisse-je regarder en arrière et voir comment Vous m'avez cultivée à travers elle. Merci pour Votre bonté. Pour Votre patience. Pour Votre amour miséricordieux. Je suis Votre fille, et Je Vous fais confiance. En Jésus' nom, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jean 15:4-5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "4-5",
+              "translation": "Louis Segond 1910",
+              "text": "Demeurez en moi, et je demeurerai en vous. Comme le sarment ne peut porter du fruit de lui-même, s'il ne demeure attaché au cep, ainsi vous ne le pouvez non plus, si vous ne demeurez en moi. Je suis le cep, vous êtes les sarments. Celui qui demeure en moi et en qui je demeure porte beaucoup de fruit, car sans moi vous ne pouvez rien faire."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

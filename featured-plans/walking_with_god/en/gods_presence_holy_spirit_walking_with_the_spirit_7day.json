@@ -1,0 +1,522 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "HS01",
+    "slug": "walking-with-the-spirit",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Walking with God",
+      "secondary": "gods-presence",
+      "secondary_label": "God's Presence"
+    },
+    "tags": [
+      "gods-presence",
+      "spiritual-life",
+      "intimacy",
+      "holy-spirit",
+      "holy-spirit",
+      "spirit-filled",
+      "guidance",
+      "fruit-of-spirit"
+    ],
+    "title": "Walking with the Holy Spirit: 7 Days to Know, Hear, and Follow Him",
+    "subtitle": "Over 7 days, return to the promises of Jesus and the teaching of the apostles to rediscover who the Holy Spirit is, how He works, and what it looks like to walk with Him in everyday life.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "seeking-presence",
+        "praying",
+        "grieving"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "Over 7 days, return to the promises of Jesus and the teaching of the apostles to rediscover who the Holy Spirit is, how He works, and what it looks like to walk with Him in everyday life.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture_focus → teaching → additional_scriptures → prayer",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_morning_dove_warm_light",
+      "icon": "dove-and-flame-circle"
+    },
+    "hook": {
+      "heading": "Why This Plan",
+      "paragraphs": [
+        "A woman may love Christ deeply and still feel unsure how to describe life with the Holy Spirit in the middle of ordinary days. We associate Him with power, comfort, and guidance, yet often in ways that remain blurry. Scripture never places the Spirit at the edges of the Christian life.",
+        "This week, we will not chase atmosphere or reduce the Spirit to a vague idea. **To know the Holy Spirit is not to chase a mystical feeling. It is to live more deeply in the presence of God.**"
+      ]
+    },
+    "key_verses": [
+      {
+        "display": "John 14:16-17",
+        "book_code": "JHN",
+        "chapter": 14,
+        "verses": "16-17"
+      },
+      {
+        "display": "Galatians 5:25",
+        "book_code": "GAL",
+        "chapter": 5,
+        "verses": "25"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "The Helper Jesus Promised",
+      "subtitle": "The Holy Spirit is not a vague force, but the Helper Jesus promised.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "John 14:16-17",
+            "book_code": "JHN",
+            "chapter": 14,
+            "verses": "16-17",
+            "translation": "KJV",
+            "text": "And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever; Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "There are women who have walked with Christ for years and still feel uncertain when the conversation turns to the Holy Spirit. He may seem important in doctrine and yet strangely hard to name in ordinary life, especially in seasons when faithfulness feels more quiet than dramatic. That is one reason the words of Jesus in John 14 matter so much. Christ does not speak about the Spirit as an abstract possibility. He gives Him as a promise.",
+            "Read John 14:16-17 slowly.",
+            "**\"He shall give you another Comforter.\"**",
+            "Jesus says the Father will give \"another Comforter\" or \"another Helper.\" The language is precise. Not a lesser substitute. Not a distant influence. Another of the same kind. Christ is telling His disciples that His departure will not leave them spiritually abandoned. The Spirit comes as the continued presence and ministry of God among His people. That is why Romans 8 can speak so strongly: to belong to Christ is to have the Spirit.",
+            "This matters pastorally as much as doctrinally. Many sincere believers, including many women carrying homes, work, ministry, and hidden fatigue, quietly assume the Spirit is for a more dramatic category of Christian than themselves. Scripture never permits that division. The Spirit is not for a spiritual upper class. He is God's gift to the church. **You do not begin to know the Holy Spirit by manufacturing a feeling. You begin by trusting the promise Jesus made.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "John 16:13",
+              "book_code": "JHN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "KJV",
+              "text": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come."
+            },
+            {
+              "display": "Acts 1:8",
+              "book_code": "ACT",
+              "chapter": 1,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Faithful Lord, we thank You that You have not left Your people in desolation or distance, but according to Your promise have given the Comforter to remain with all who belong to You. Illuminate every shallow, uncertain, or confused thought we have held concerning the Holy Spirit. Establish us first in Your revealed Word, so that we may know the Spirit not as a marginal experience, but as Your gracious gift and abiding presence. Grant that, knowing this, we may fear You more, love You more, and rest more securely in Your promise. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "The Holy Spirit Is Personal",
+      "subtitle": "The Holy Spirit is not a something, but Someone.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Romans 8:14-16",
+            "book_code": "ROM",
+            "chapter": 8,
+            "verses": "14-16",
+            "translation": "KJV",
+            "text": "For as many as are led by the Spirit of God, they are the sons of God. For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father. The Spirit itself beareth witness with our spirit, that we are the children of God."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "In many churches, it is easier to talk about the Spirit's power than about His personhood. Yet Scripture refuses to let us keep Him at the level of atmosphere or influence. The Spirit can be grieved. That single truth changes the whole conversation.",
+            "Read Romans 8:14-16 and Ephesians 4:30 together. The Spirit leads, bears witness, draws us into filial confidence, and may be grieved by sin. These are not the actions of a vague force. They are the actions of Someone who knows, loves, and acts. The New Testament does not treat the Spirit as religious electricity. It speaks of Him as divine Person.",
+            "That changes the Christian life at a practical level. Sin is not merely the breaking of an abstract rule; it is resistance to the holy presence of God in us. Obedience is not mere moral self-improvement; it is responsive love toward the One who indwells us. **To confess that the Spirit is personal is to admit that our whole way of living takes place before Someone, not merely before something.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Ephesians 4:30",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "30",
+              "translation": "KJV",
+              "text": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption."
+            },
+            {
+              "display": "Acts 5:3-4",
+              "book_code": "ACT",
+              "chapter": 5,
+              "verses": "3-4",
+              "translation": "KJV",
+              "text": "But Peter said, Ananias, why hath Satan filled thine heart to lie to the Holy Ghost, and to keep back part of the price of the land? ... thou hast not lied unto men, but unto God."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Holy Spirit, forgive us for every careless and shallow way in which we have regarded You, as though You were merely help, feeling, or power, and not the Lord Himself. We thank You that You are no cold and impersonal force, but the One who personally guides, convicts, comforts, and bears witness that we are God's children. Make our hearts tender before You. Keep us from resisting Your light or despising Your gracious work, and teach us in all things to honor You as holy. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Hearing His Voice",
+      "subtitle": "His guidance does not produce confusion, but truth.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "John 10:27",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "27",
+            "translation": "KJV",
+            "text": "My sheep hear my voice, and I know them, and they follow me."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Few desires sound more spiritual than wanting God's guidance, and few desires become more confused when Scripture is not allowed to steady them. Many believers say they want to hear the Spirit while quietly imagining something spectacular, immediate, and unmistakably dramatic. The Bible gives us a more durable picture.",
+            "Read John 16:13 slowly.",
+            "**\"He will guide you into all truth.\"**",
+            "The Spirit is called the Spirit of truth, and that title tells us a great deal. He does not flatter whim, baptize impulse, or lead us away from the written Word He Himself inspired. He guides us into truth. That guidance often comes through Scripture opening with unusual clarity, through inward conviction, through the wise correction of the church, through providential restraint, and through doors that close as obedience continues forward.",
+            "Acts 16 is especially instructive. Paul and his companions were already moving in mission when the Spirit redirected them. Guidance came in the path of obedience, not in passivity. **To recognize the Spirit's voice is not to become skilled at decoding private impressions. It is to become a person whose instincts are increasingly shaped by Scripture, humility, and obedience.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Acts 16:6-10",
+              "book_code": "ACT",
+              "chapter": 16,
+              "verses": "6-10",
+              "translation": "KJV",
+              "text": "Now when they had gone throughout Phrygia and the region of Galatia, and were forbidden of the Holy Ghost to preach the word in Asia, After they were come to Mysia, they assayed to go into Bithynia: but the Spirit suffered them not. ... And after he had seen the vision, immediately we endeavoured to go into Macedonia, assuredly gathering that the Lord had called us for to preach the gospel unto them."
+            },
+            {
+              "display": "Psalm 32:8",
+              "book_code": "PSA",
+              "chapter": 32,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Spirit of truth, guide us into all truth. Forgive us for the times we have wanted clear answers while resisting the path of obedience; and forgive us also when we have sought guidance while neglecting Scripture, the fellowship of the church, and the call to holiness. Teach us by Your Word, correct us by Your light, and grant us discernment in the ordinary passages of life. Save us from chasing vague impressions, and form in us instead a humble, obedient, and truth-governed readiness to hear Your voice. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "A Life Filled with the Spirit",
+      "subtitle": "Being filled with the Spirit is not a moment, but a way of living.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Ephesians 5:18-21",
+            "book_code": "EPH",
+            "chapter": 5,
+            "verses": "18-21",
+            "translation": "KJV",
+            "text": "And be not drunk with wine, wherein is excess; but be filled with the Spirit; Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord; Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ; Submitting yourselves one to another in the fear of God."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Few biblical phrases are more familiar and more misunderstood than \"be filled with the Spirit.\" Some hear it and think of a rare spiritual peak. Others hear it and think of emotional intensity. Paul means something steadier and more searching than either.",
+            "Read Ephesians 5:18-21 slowly.",
+            "**\"Be filled with the Spirit.\"**",
+            "The contrast with drunkenness is striking. One influence disorders the person; the other orders the person under the gracious rule of God. Spirit-filling is not the loss of true self, but the liberation of a life into worship, gratitude, and holy mutuality. The effects Paul names are communal and moral before they are dramatic. A Spirit-filled church sings, gives thanks, and learns humility toward one another.",
+            "Luke 11 and Acts 4 help guard the passage from distortion. The Spirit is gladly given by the Father, and believers may seek fresh filling again and again. Yet the fruit of that filling is not self-display. It is renewed courage, renewed holiness, renewed gladness. **To be filled with the Spirit is not merely to feel uplifted. It is to be freshly brought under the living influence of God.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Acts 4:31",
+              "book_code": "ACT",
+              "chapter": 4,
+              "verses": "31",
+              "translation": "KJV",
+              "text": "And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness."
+            },
+            {
+              "display": "Luke 11:13",
+              "book_code": "LUK",
+              "chapter": 11,
+              "verses": "13",
+              "translation": "KJV",
+              "text": "If ye then, being evil, know how to give good gifts unto your children: how much more shall your heavenly Father give the Holy Spirit to them that ask him?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Heavenly Father, we come before You confessing that we have too often been content with outward religious habit while knowing too little of a life truly ruled, renewed, and filled by the Spirit. Have mercy on us, so that we do not remain at the level of form or carry the Christian life as an empty shell. Teach us to ask daily and to receive daily. Let our speech, our thoughts, our affections, and our conduct bear clearer marks of the Spirit's gracious work. Cleanse us, renew us, and fill us, so that we may live in worship, thanksgiving, and mutual humility before You. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "The Fruit He Grows in You",
+      "subtitle": "The fruit of the Spirit is not forced. It is formed.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Galatians 5:22-23",
+            "book_code": "GAL",
+            "chapter": 5,
+            "verses": "22-23",
+            "translation": "KJV",
+            "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, Meekness, temperance: against such there is no law."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "The fruit of the Spirit is one of the gentlest passages in the New Testament, and also one of the most searching. It asks not what gifts impress people, but what kind of person the gospel is actually forming.",
+            "Read Galatians 5:22-23 slowly.",
+            "**\"The fruit of the Spirit is love, joy, peace...\"**",
+            "Paul does not speak of spiritual performance, but of fruit. Fruit takes time. It cannot be shouted into existence. It grows from life shared with the vine. That is why John 15 is so important here. Abiding in Christ is not passivity, but steady dependence. Prayer, Scripture, repentance, worship, and returning to Christ after failure are not impressive acts. They are the ordinary conditions in which the Spirit forms a different kind of person.",
+            "Notice too that this fruit is profoundly relational. Patience matters only where there are difficult people. Gentleness matters only where power could be used harshly. Self-control matters only where desire threatens to rule. **The Spirit is not trying to decorate us. He is conforming us to the character of Christ.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "John 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "KJV",
+              "text": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing."
+            },
+            {
+              "display": "Psalm 1:3",
+              "book_code": "PSA",
+              "chapter": 1,
+              "verses": "3",
+              "translation": "KJV",
+              "text": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, deliver us from the life that tries to polish the outer person by mere effort while refusing to be deeply rooted in You. We confess how readily we try to manufacture godliness by willpower, forgetting that fruit is the Spirit's work. Teach us to abide in Christ, to remain in Your love, to continue in prayer, to draw near to Your Word, and when we fall, to return quickly in repentance. May what is seen in us be not religious appearance, but love, joy, peace, longsuffering, and a character increasingly conformed to Christ. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Day 6",
+      "title": "The Gifts the Spirit Gives",
+      "subtitle": "Spiritual gifts are for building up the church, not the self.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "1 Corinthians 12:4-11",
+            "book_code": "1CO",
+            "chapter": 12,
+            "verses": "4-11",
+            "translation": "KJV",
+            "text": "Now there are diversities of gifts, but the same Spirit. And there are differences of administrations, but the same Lord. And there are diversities of operations, but it is the same God which worketh all in all. But the manifestation of the Spirit is given to every man to profit withal. ... But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Conversations about spiritual gifts often go wrong in two opposite directions. Some Christians become fascinated with visibility and rank. Others quietly assume they have little to offer at all. First Corinthians 12 corrects both errors.",
+            "Read 1 Corinthians 12:4-11 slowly.",
+            "**\"Given to every man to profit withal.\"**",
+            "Paul repeats the same truth from different angles: there are varieties of gifts, but one Spirit; varieties of service, but one Lord; varieties of workings, but one God. The emphasis falls not on spiritual status, but on divine generosity and ecclesial purpose. \"To every man is given...\" Those words cut against both pride and insecurity. No believer is meant to boast, and no believer is meant to withdraw.",
+            "First Peter 4 helps us hear the pastoral edge of this doctrine. Gifts are entrusted to be used. They are stewardships, not ornaments. Some are public and easily noticed. Others are quiet and indispensable. **A spiritual gift is not first a badge of identity. It is a form of responsibility within the body of Christ.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "1 Peter 4:10-11",
+              "book_code": "1PE",
+              "chapter": 4,
+              "verses": "10-11",
+              "translation": "KJV",
+              "text": "As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God. If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen."
+            },
+            {
+              "display": "Romans 12:3-8",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "3-8",
+              "translation": "KJV",
+              "text": "For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith. ... Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith; Or ministry, let us wait on our ministering: or he that teacheth, on teaching."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Holy Spirit, we thank You that according to Your wise pleasure You distribute gifts throughout the church, and to every member of the body. Keep us from despising what You have given, and keep us equally from misusing it. Let us not be cast down because a gift is quiet, or exalt ourselves because a gift is visible. Teach us to receive all such grace as stewardship from Your hand, so that we may serve faithfully, seek not our own honor, but the good of others, the strengthening of the church, and the exaltation of the name of Christ. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Day 7",
+      "title": "Daily Life with the Spirit",
+      "subtitle": "Walking with the Spirit is not occasional. It is daily.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Galatians 5:25",
+            "book_code": "GAL",
+            "chapter": 5,
+            "verses": "25",
+            "translation": "KJV",
+            "text": "If we live in the Spirit, let us also walk in the Spirit."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "There is something wonderfully unglamorous about the New Testament's vision of life in the Spirit. It is not built on occasional peaks, but on a daily walk. Paul's language in Galatians 5:25 is concrete, almost earthy: if we live by the Spirit, we are to keep in step with the Spirit.",
+            "Read the verse slowly.",
+            "**\"Let us also walk in the Spirit.\"**",
+            "It holds together gift and responsibility. Life in the Spirit has already been given; now the believer is called to move in a manner consistent with that life. The image is not of a dramatic leap, but of a rhythm, a pace, a pattern of existence increasingly governed by the Spirit's presence. This happens in ordinary places: morning surrender, mid-day repentance, small obediences, resisted temptations, quick returns to prayer, and grateful review at the close of the day.",
+            "That is why walking with the Spirit is so deep and so demanding. It asks not for one memorable moment, but for a lifetime that gradually becomes permeable to God. **The clearest evidence of the Spirit's work is often not spectacle, but sustained, holy, ordinary faithfulness.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "John 16:13",
+              "book_code": "JHN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "KJV",
+              "text": "Howbeit when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatsoever he shall hear, that shall he speak: and he will shew you things to come."
+            },
+            {
+              "display": "Romans 8:11",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "11",
+              "translation": "KJV",
+              "text": "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Holy Spirit, keep us from treating the spiritual life as a succession of brief and noisy heights. Teach us instead to walk with You in the common days appointed to us. Let the beginning of each day, every decision, every repentance, and every conflict become an occasion for closer obedience to Your leading. Form us patiently through the years, so that we do not chase passing excitement, but grow in holiness, faithfulness, and meekness. Continue Your gracious work within us until the likeness of Christ is more plainly seen. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

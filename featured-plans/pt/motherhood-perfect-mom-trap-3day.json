@@ -1,0 +1,258 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI10",
+    "slug": "perfect-mom-trap",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Papéis e Identidade",
+      "secondary": "motherhood",
+      "secondary_label": "Maternidade"
+    },
+    "tags": [
+      "maternidade",
+      "criacao",
+      "confianca",
+      "perfeccionismo",
+      "graca",
+      "descanso"
+    ],
+    "title": "Libertando-se da Armadilha da Mãe Perfeita",
+    "subtitle": "Graça para mães que carregam demais",
+    "audience": {
+      "life_stage": [
+        "mães",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "cansada",
+        "amorosa",
+        "confiante"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes três dias ajudam as mães a afrouxarem o domínio da perfeição e retornar à graça.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#C8E0CC",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_mother_morning_window_quiet",
+      "icon": "cradle-and-leaves-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Mateus 11:28",
+        "book_code": "MAT",
+        "chapter": 11,
+        "verses": "28"
+      },
+      {
+        "display": "Isaías 40:29",
+        "book_code": "ISA",
+        "chapter": 40,
+        "verses": "29"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "O Ideal da Mãe Perfeita é Exaustivo",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Mateus 11:28",
+            "book_code": "MAT",
+            "chapter": 11,
+            "verses": "28",
+            "translation": "Almeida",
+            "text": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Depois que você se torna mãe, é fácil sentir que tem que cuidar de tudo.",
+            "As emoções de seu filho, suas rotinas, saúde, aprendizado, futuro e senso de segurança começam a parecer conectados ao seu desempenho. Adicione pressão social, conselhos infinitos e o medo silencioso de cometer algo errado, e a maternidade pode se tornar um estado contínuo de tensão. O amor permanece real, mas fica misturado com pressão. Você começa a sentir que se for gentil o suficiente, sábia o suficiente, informada o suficiente, presente o suficiente e emocionalmente estável o suficiente, talvez seu filho fique seguro e sua maternidade finalmente se sinta legítima.",
+            "Mas a imagem da mãe perfeita não é algo que Deus criou para você se tornar. É um fardo costurado por medo, comparação e a obsessão moderna pela otimização. Ela pede que você seja morna mas nunca cansada, intencional mas nunca incerta, sacrificial mas nunca necessitada. Esse padrão é exaustivo não apenas porque é alto, mas porque não deixa espaço para a limitação da criatura. Ele pede que você seja mãe como se fosse mais do que humana.",
+            "Jesus convida os cansados e pesadamente carregados a vir a Ele. A maternidade carrega responsabilidade real, mas a perfeição não faz parte do chamado. Deus nos pede que amemos, alimentemos e permaneçamos fiéis. Ele não nos pede que nos tornemos mulheres que não precisam mais de misericórdia. A verdadeira maturidade na maternidade não é se tornar impecável. É aprender quando trabalhar, quando se arrepender, quando descansar e quando admitir que a graça ainda é necessária aqui também.",
+            "Penso que esse é um dos pontos de crescimento delicado para mães: posso amar profundamente sem usar a perfeição como prova de que amo bem? A resposta de Deus é sim. O amor pode ser sério sem ser frenético. A responsabilidade pode ser real sem se tornar autossalvação.",
+            "**O amor de uma mãe pode ser profundo sem ser perfeito.** Deixe-se colocar de lado o padrão impossível por um momento hoje. Venha a Cristo primeiro não como uma gerenciadora das necessidades de todos, mas como uma filha cansada que precisa ser abraçada."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que coloquei pressão demais em mim mesma. Liberte-me da armadilha de acreditar que tenho que ser perfeita. Lembre-me de que também preciso de misericórdia, descanso e da experiência de ser abraçada por Você. Ensine-me, mesmo enquanto amo meu filho, a não deixar minha própria alma fora de Sua presença, porque não sou apenas um papel a cumprir, mas uma mulher que Você ainda ternamente vê. Obrigada por ser gentil com mães cansadas e por continuar se aproximando mesmo quando sinto que tenho pouco a oferecer. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Mateus 11:28",
+              "book_code": "MAT",
+              "chapter": 11,
+              "verses": "28",
+              "translation": "Almeida",
+              "text": "Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei."
+            },
+            {
+              "display": "Salmo 103:13-14",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "13-14",
+              "translation": "Almeida",
+              "text": "Como o pai se compadece dos filhos, assim o Senhor se compadece dos que o temem. Pois ele conhece a nossa estrutura; lembra-se de que somos pó."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "A Culpa Materna Pode Pesar Mais do que a Realidade",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Romanos 8:1",
+            "book_code": "ROM",
+            "chapter": 8,
+            "verses": "1",
+            "translation": "Almeida",
+            "text": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A culpa na maternidade tem uma voz muito persuasiva.",
+            "Você não estava presente o suficiente, paciente o suficiente, gentil o suficiente, organizada o suficiente. Você repassa momentos, questiona decisões e discretamente assume que se algo parece fora do lugar, você deve ser a razão. Muitas mães não lutam porque amam pouco, mas porque amam tanto que cada imperfeição se torna pessoal. Um dia difícil não permanece um dia difícil. Ele se torna evidência contra você.",
+            "É isso que torna a culpa tão pesada. Ela não apenas aponta para uma ação. Ela começa a interpretar sua identidade. Um momento que poderia ter levado ao reparo se torna, em sua mente, prova de que você está falhando em tudo. Mas Romanos diz que não há condenação para aqueles que estão em Cristo Jesus. Deus nos corrige e nos ensina. Ele convida ao arrependimento onde é necessário. Mas Ele não mantém mães vivendo sob acusação constante. Seu amor não produz autocondenaçao sem fim.",
+            "Há uma diferença significativa entre convicção e condenação. Convicção é específica e redentora. Leva à confissão, reparação e mudança. Condenação é global e esmagadora. Ela te diz que porque você falhou em um lugar, você é um fracasso em todos os lugares. Deus não fala dessa forma para Suas filhas.",
+            "Penso que muitas mães precisam de ajuda para aprender a discernir a diferença. Às vezes, o que chamamos de humildade é apenas autoacusação crônica. A graça não pede que você finaja que nada aconteceu. Ela pede que você não construa toda sua identidade a partir do que aconteceu.",
+            "**A culpa pode nos alertar, mas não deve se tornar o governante permanente do coração.** Traga um lugar de auto-repreensão a Deus hoje. Peça-Lhe arrependimento honesto onde é necessário e o tipo de libertação que permite que você continue sendo mãe sem viver sob uma sentença."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, trago perante Você os lugares onde continuo me culpando. Se há algo que preciso confessar ou mudar, mostre-me claramente. Mas se simplesmente tenho vivido sob culpa demais, leve-me para longe dela. Deixe Sua graça ser maior do que minha autocondenaçao. Ensine-me, mesmo enquanto amo meu filho, a não deixar minha própria alma fora de Sua presença, porque não sou apenas um papel a cumprir, mas uma mulher que Você ainda ternamente vê. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Romanos 8:1",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "1",
+              "translation": "Almeida",
+              "text": "Portanto, agora nenhuma condenação há para os que estão em Cristo Jesus..."
+            },
+            {
+              "display": "Lamentações 3:22-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "22-23",
+              "translation": "Almeida",
+              "text": "As misericórdias do Senhor são a causa de não sermos consumidos... Novas são cada manhã; grande é a tua fidelidade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Deus Cuida do Meu Filho, e Também Cuida de Mim",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Isaías 40:29",
+            "book_code": "ISA",
+            "chapter": 40,
+            "verses": "29",
+            "translation": "Almeida",
+            "text": "Ele dá poder ao cansado e multiplica as forças do fraco."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Depois que você se torna mãe, é fácil se lembrar de que deve cuidar de seu filho, enquanto esquece de que Deus também cuida de você.",
+            "Você inconscientemente coloca todo seu esforço para fora. Uma criança está com fome, cansada, chorando, doente ou simplesmente precisando de você, e o coração da mãe sempre se move primeiro. Com o tempo, cuidar de si mesma começa a parecer opcional, adiável ou de alguma forma menos urgente do que as necessidades de todos os outros. Nós sabemos que estamos cansadas, mas continuamos dizendo: vou lidar com isso depois desta semana, depois desta estação, depois que as coisas se acalmarem. Muitas mães vivem nesse depois por muito tempo.",
+            "Isaías diz que Deus dá poder aos fracos e força aos enfraquecidos. 1 Pedro diz para lançar toda nossa ansiedade sobre Ele porque Ele cuida de nós. Essas promessas não são reservadas para os calmos e disponíveis. Elas são escritas precisamente para quem está desgastado, esticado e carregando muito. Deus não está interessado apenas na criança em seus cuidados. Ele também está preocupado com a mulher que tem feito os cuidados. Ele não o removeu silenciosamente da categoria daqueles que são pastoreados.",
+            "Penso que muitas mães precisam de permissão para receber novamente. Não para se tornar menos amorosa, mas para parar de viver como se o amor tivesse que sempre se mover em uma única direção. Uma alma que nunca é reabastecida eventualmente começa a servir a partir da secura. Deus quer mais para você do que depleção santa.",
+            "**Deus não apenas confiou uma criança a você e depois parou de cuidar de você.** Antes de este dia terminar, reserve um tempo para vir perante Ele não apenas como uma mãe, mas como Sua filha. Receba, não apenas dê. Deixe ser cuidada se tornar parte de sua obediência também."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada por não apenas ver meu filho, mas também me ver. Quando me sinto cansada, vazia e necessitada, cuide de mim pessoalmente. Lembre-me de que não sou apenas alguém que continua dando, mas alguém que pode ser preenchida novamente em Você. Ensine-me, mesmo enquanto amo meu filho, a não deixar minha própria alma fora de Sua presença, porque não sou apenas um papel a cumprir, mas uma mulher que Você ainda ternamente vê. Obrigada por Seu cuidado não parar na borda da maternidade, mas alcançar até o fundo do meu coração cansado. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Isaías 40:29",
+              "book_code": "ISA",
+              "chapter": 40,
+              "verses": "29",
+              "translation": "Almeida",
+              "text": "Ele dá poder ao cansado e multiplica as forças do fraco."
+            },
+            {
+              "display": "1 Pedro 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Almeida",
+              "text": "Lancem sobre ele toda a sua ansiedade, porque ele tem cuidado de vocês."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

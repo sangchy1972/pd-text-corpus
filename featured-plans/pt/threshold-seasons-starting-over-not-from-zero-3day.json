@@ -1,0 +1,248 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS13",
+    "slug": "starting-over-not-from-zero",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estações da Vida",
+      "secondary": "threshold-seasons",
+      "secondary_label": "Estações de Limiar"
+    },
+    "tags": [
+      "transicao",
+      "recomecar",
+      "novo-capitulo",
+      "entre",
+      "chamado",
+      "reorientacao"
+    ],
+    "title": "Recomeçar Sem Começar do Zero",
+    "subtitle": "Deus não desperdiça o que você já viveu, apenas o que está à sua frente",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "em transição",
+        "recomeçando",
+        "buscando direção"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para a mulher que está recomeçando e precisa se lembrar de que Deus não desperdiçará o que ela já viveu.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#B0C8D5",
+      "color_secondary": "#3F5C70",
+      "image_key": "cover_woman_at_doorway_soft_light",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Josué 1:1-2,5,9",
+        "book_code": "JOS",
+        "chapter": 1,
+        "verses": "1-2,5,9"
+      },
+      {
+        "display": "Salmo 37:5,23-24",
+        "book_code": "PSA",
+        "chapter": 37,
+        "verses": "5,23-24"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Deus Não Virou a Página Sem Mim",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Josué 1:1-2,5,9",
+            "book_code": "JOS",
+            "chapter": 1,
+            "verses": "1-2,5,9",
+            "translation": "Almeida",
+            "text": "Depois da morte de Moisés, servo do Senhor, o Senhor falou a Josué, filho de Num, assistente de Moisés, e disse: Moisés, meu servo, é morto; levanta-te agora, passa este Jordão, tu e todo este povo. Como fui com Moisés, serei contigo; não te deixarei nem te desampararei. Não te deixei este mandamento? Esforça-te e tem bom ânimo; porque o Senhor teu Deus é contigo, por onde quer que fores."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O que torna o recomeço tão difícil não é apenas o futuro. É a sensação inacabada do passado. Uma mudança de cidade, o término de uma ocupação, o colapso de uma rotina familiar, uma mudança dolorosa na vida familiar, ou a lenta reconstrução que se segue à doença ou perda pode deixar a mulher em pé em um lugar estranho. As pessoas ao seu redor talvez já estejam perguntando o que vem a seguir, mas dentro de si ela ainda sente proximidade do capítulo que acabou de terminar. Ela não nomeou completamente o que foi perdido, o que foi carregado, ou o que mudou em si mesma.",
+            "O livro de Josué 1 começa em exatamente esse tipo de momento de limiar. Moisés se foi. Os anos de deserto estão atrás deles, mas a terra prometida ainda não está em mãos. Deus não apresa Josué a passar pelo término. Ele o nomeia: \"Moisés, meu servo, está morto.\" Somente então Ele diz: \"Portanto, levanta-te agora.\" Essa ordem importa. Deus não pede que seu povo finja que nada terminou. Ele reconhece o capítulo encerrado antes de levá-los para o próximo.",
+            "É assim que os inícios verdadeiros frequentemente funcionam. Deus não é ameaçado pelo seu luto pelo que terminou, nem pela sua relutância em chamar uma estação de completa. Ele não pede que você aplaine o passado para se mover para frente com fidelidade. Em vez disso, Ele o encontra honestamente no lugar da transição. Então Ele dá o que você mais precisa: não um mapa completo, mas a Sua presença. \"Como estive com Moisés, assim estarei contigo.\"",
+            "**Um novo capítulo não exige que você negue o antigo.** Você tem permissão para trazer seus sentimentos inacabados, sua ternura e sua memória para a presença de Deus. Recomeçar não é fingir que nada aconteceu. É confiar que Deus não se afastou simplesmente porque algo mudou.",
+            "Hoje, nomeie a página que está achando mais difícil virar. Diga isto claramente diante de Deus. Ele não está pedindo que você seja menos afetada. Ele está o convidando a caminhar para frente com Ele, honestamente e sem vergonha."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que recomeçar não me parece fácil. Alguns términos ainda doem. Algumas perdas não estão completamente nomeadas. Parte de mim ainda está de pé na porta do que costumava ser. Obrigada por ser um Deus que não me apresa a seguir em frente. Você vê minha relutância, minha ternura e as partes de mim que ainda estão se ajustando à mudança. Fale comigo no lugar do término, e esteja comigo no lugar do começo, assim como esteve com Josué. Ajude-me a não tratar o passado como vergonha nem a mudança como sinal de Sua ausência. Dê-me a coragem de que preciso para hoje, não para entender toda a estrada de uma vez, mas para continuar caminhando com você enquanto ela se desdobra. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Josué 1:1-2,5,9",
+              "book_code": "JOS",
+              "chapter": 1,
+              "verses": "1-2,5,9",
+              "translation": "Almeida",
+              "text": "Depois da morte de Moisés, servo do Senhor, o Senhor falou a Josué, filho de Num, assistente de Moisés, e disse: Moisés, meu servo, é morto; levanta-te agora, passa este Jordão, tu e todo este povo. Como fui com Moisés, serei contigo; não te deixarei nem te desampararei. Não te deixei este mandamento? Esforça-te e tem bom ânimo; porque o Senhor teu Deus é contigo, por onde quer que fores."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Deus Frequentemente Começa de Novo com o Que Já Está em Suas Mãos",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Rute 1:21-22",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "21-22",
+            "translation": "Almeida",
+            "text": "Partido cheio, porém o Senhor me fez voltar vazia. Por que me chamais Noemi, visto que o Senhor testemunhou contra mim, e o Todo-Poderoso me afligiu? Assim voltou Noemi com Rute, a moabita, sua nora, a qual voltava dos campos de Moabe; e chegaram a Belém, no começo da sega da cevada."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Algumas mulheres temem recomeçar porque acreditam que já se perderam demais, vaguearam demasiadamente, ou complicaram a história além do reparo. Novos inícios parecem reservados para pessoas com histórias limpas e cronogramas simples. Mas a vida real raramente é assim. Entramos na próxima estação carregando o que já aconteceu: escolhas feitas, feridas recebidas, habilidades aprendidas, responsabilidades ainda presentes, e perguntas que permanecem sem resposta.",
+            "O livro de Rute oferece um retrato profundamente honesto disso. Noemi e Rute não chegam a Belém com vidas arrumadas. Elas vêm carregando fome, realocação, luto, pobreza e incerteza. A Escritura não apaga a dor antes que Deus comece a prover. Em vez disso, o novo capítulo se desdobra no meio do que elas estão carregando. Rute entra no campo com sua fidelidade, sua coragem, e as habilidades de sobrevivência de um caminho difícil. Noemi retorna amargada, mas não abandonada. Deus encontra ambas as mulheres dentro da história que já têm.",
+            "Isso importa porque corrige uma mentira profunda: que você deve se tornar uma versão \"limpa\" de si mesma antes que Deus possa começar algo novo. Mas Deus frequentemente trabalha diferentemente. Ele não apaga sua história para recomeçar. Frequentemente Ele começa de novo redimindo-a. **Deus frequentemente não nos transforma em outra pessoa antes de começar um novo caminho, mas reordena a graça em nossa história verdadeira.** As coisas que você carrega podem não ser apenas fardos. Algumas delas são sementes. Resistência, ternura, sabedoria prática, discernimento e resiliência são frequentemente formados em estações que você nunca teria escolhido.",
+            "Hoje é apropriado fazer uma contagem mais suave de sua vida. Pergunte não apenas o que terminou, mas o que permanece. Que graça Deus já colocou em suas mãos que pode viajar para o próximo capítulo? Ele sabe melhor do que você o que ainda preserva a vida.",
+            "Recomeçar não é começar do nada. É aprender a ver o que a graça já colocou em suas mãos. O que você possui agora talvez não seja tão pouco quanto pensa. Você pode ter perdido um relacionamento, mas não perdeu a capacidade de amar; perdeu um trabalho, mas não perdeu a experiência e habilidade; deixou um velho papel, mas não perdeu a maturidade que Deus formou em você durante esse tempo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, às vezes quando olho para o meu passado, vejo principalmente desvios, perdas e lugares inacabados. Isso torna difícil acreditar que um bom começo ainda pode vir daqui. Corrija a forma como vejo minha própria história. Ensine-me não apenas a contar o que se foi, mas também a notar o que você formou e preservou em mim através dos anos. Obrigada por não esperar até que eu esteja polida e sem cicatrizes antes de me levar para frente. Como você fez com Rute e Noemi, encontre-me no meio de minha história real, minhas limitações reais e minha esperança real. Ajude-me a acreditar que você não desperdiçou o caminho atrás de mim e que você não despreza o que permanece em minhas mãos. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Rute 1:21-22",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "21-22",
+              "translation": "Almeida",
+              "text": "Partido cheio, porém o Senhor me fez voltar vazia. Por que me chamais Noemi, visto que o Senhor testemunhou contra mim, e o Todo-Poderoso me afligiu? Assim voltou Noemi com Rute, a moabita, sua nora, a qual voltava dos campos de Moabe; e chegaram a Belém, no começo da sega da cevada."
+            },
+            {
+              "display": "Rute 2:11-12",
+              "book_code": "RUT",
+              "chapter": 2,
+              "verses": "11-12",
+              "translation": "Almeida",
+              "text": "Tem-me sido plenamente relatado tudo quanto fizeste a tua sogra depois da morte de teu marido, e como deixaste teu pai e tua mãe, e a terra onde nasceste, e vieste para um povo que não conhecias dantes. O Senhor te recompense por tua obra, e o Senhor Deus de Israel, sob cujas asas vieste para te abrigares, te dê o seu galardão plenamente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Deus Frequentemente Dá o Próximo Passo Antes da Imagem Inteira",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 37:5,23-24",
+            "book_code": "PSA",
+            "chapter": 37,
+            "verses": "5,23-24",
+            "translation": "Almeida",
+            "text": "Entrega o teu caminho ao Senhor, confia nele, e ele agirá. Bem-vindo é o homem cujos passos são ordenados pelo Senhor; e ele se deleita no seu caminho. Ainda que caia, não fica prostrado, porque o Senhor o sustém com a sua mão."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Chegando ao terceiro dia, uma das tensões mais profundas da transição frequentemente se torna mais clara: queremos saber para onde tudo isso vai. O novo trabalho durará? Esta nova cidade se sentirá como lar? Esta reconstrução se sustentará? A próxima estação será segura, estável ou significativa? Frequentemente amarramos nossa disposição de avançar à nossa capacidade de ver o resultado primeiro.",
+            "Mas a Escritura oferece um quadro diferente. O Salmo 37 diz: \"Entrega o teu caminho ao Senhor, confia nele, e ele agirá\", e também, \"Os passos de um homem bom são ordenados pelo Senhor.\" Provérbios 3 nos diz para não nos apoiarmos em nossa própria compreensão, mas para reconhecer Deus em todos os nossos caminhos e confiar nele para dirigir nossos caminhos. A linguagem é marcantemente prática. Deus frequentemente não desdobra o mapa inteiro de uma vez. Ele ordena passos. Ele dirige caminhos. Ele ensina confiança ao ritmo de uma caminhada.",
+            "Isso é libertador para qualquer pessoa em transição. Você não precisa de clareza completa antes de poder ser fiel. Você não precisa que todos os seus medos sejam resolvidos antes de poder obedecer ao próximo convite de Deus. Frequentemente o próximo passo é menor do que esperamos: tomar uma decisão honesta, ter uma conversa necessária, aceitar uma realidade inacabada, ou simplesmente cuidar do que está bem à nossa frente hoje.",
+            "**Deus não lhe pede para ver a imagem inteira antes de lhe dar o próximo passo.** Ele lhe pede para confiar nele o suficiente para hoje. Essa confiança pode parecer não impressionante, mas é sagrada. Grande parte da maturidade espiritual é construída não em saltos dramáticos, mas em caminhada constante e rendida.",
+            "Pergunte a Deus hoje: qual é o próximo passo fiel diante de mim? Não o plano inteiro. Não os próximos dez anos. Apenas o passo de hoje. Ele não é descuidado com luz parcial. Ele sabe como levar as pessoas através de limiares um passo por vez."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, frequentemente quero toda a imagem antes de me sentir pronta para seguir em frente. Você sabe como é difícil para mim viver com perguntas sem resposta. Obrigada por não exigir compreensão completa antes de me convidar a seguir. Ensine-me a trazer minha atenção de volta do mapa inteiro para o próximo passo fiel. Mantenha-me de ser consumida pelo que não sei ou impulsionada por minha própria imaginação assustada. Se eu precisar esperar, dê-me um coração tranquilo. Se eu precisar avançar, dê-me coragem disposta. E se eu tropeçar, sustente-me com sua mão, assim como sua Palavra promete. Ajude-me a confiar que luz parcial ainda é suficiente para o caminho de hoje. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 37:5,23-24",
+              "book_code": "PSA",
+              "chapter": 37,
+              "verses": "5,23-24",
+              "translation": "Almeida",
+              "text": "Entrega o teu caminho ao Senhor, confia nele, e ele agirá. Bem-vindo é o homem cujos passos são ordenados pelo Senhor; e ele se deleita no seu caminho. Ainda que caia, não fica prostrado, porque o Senhor o sustém com a sua mão."
+            },
+            {
+              "display": "Provérbios 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Almeida",
+              "text": "Confia no Senhor de todo o teu coração, e não te apoies na tua própria compreensão. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

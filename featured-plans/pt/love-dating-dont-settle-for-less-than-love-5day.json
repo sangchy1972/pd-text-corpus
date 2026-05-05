@@ -1,0 +1,384 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI05",
+    "slug": "dont-settle-for-less-than-love",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Papéis e Identidade",
+      "secondary": "love-dating",
+      "secondary_label": "Amor e Namoro"
+    },
+    "tags": [
+      "amor",
+      "namoro",
+      "relacionamentos",
+      "limites",
+      "namoro-cristao",
+      "amor-piedoso"
+    ],
+    "title": "Não Se Contente com Menos Que o Verdadeiro Amor",
+    "subtitle": "Limites para mulheres cansadas de relacionamentos incertos",
+    "audience": {
+      "life_stage": [
+        "mulheres jovens",
+        "em relacionamento",
+        "antes do casamento"
+      ],
+      "emotional_state": [
+        "esperançosa",
+        "cautelosa",
+        "buscando clareza"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes cinco dias o acompanham diante dos relacionamentos que são difíceis de abandonar mas nunca foram verdadeiramente estáveis, e ensinam você a guardar seu coração com sabedoria.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#F4B6B6",
+      "color_secondary": "#7A2C42",
+      "image_key": "cover_woman_quiet_garden_evening_warm_light",
+      "icon": "anchor-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Tiago 1:8",
+        "book_code": "JAS",
+        "chapter": 1,
+        "verses": "8"
+      },
+      {
+        "display": "Filipenses 4:7",
+        "book_code": "PHP",
+        "chapter": 4,
+        "verses": "7"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Por Que Nos Apegamos ao Que Não É Claro",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Tiago 1:8",
+            "book_code": "JAS",
+            "chapter": 1,
+            "verses": "8",
+            "translation": "Almeida",
+            "text": "O homem de duas mentes é instável em todos os seus caminhos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Geralmente não é ignorância que nos mantém em um relacionamento incerto. Na maior parte do tempo, em algum nível, já sabemos que algo está perturbado.",
+            "O que nos mantém lá é o apego à possibilidade. Um relacionamento incerto pode parecer estranhamente poderoso porque oferece calor suficiente para manter a esperança viva sem dar verdade suficiente para deixar o coração descansar. Ficamos em um espaço intermediário, não totalmente escolhidos e não totalmente liberados. E porque ainda há momentos de ternura, continuamos imaginando se a paciência poderia eventualmente transformar a incerteza em compromisso.",
+            "Tiago fala sobre a instabilidade de ser duplo de ânimo. Esse versículo muitas vezes parece desconfortavelmente perto nessas situações. Parte de nós quer paz. Outra parte não quer deixar ir o que esse relacionamento ainda poderia se tornar. Estamos cansados, mas ainda emocionalmente leais a uma possibilidade que nunca se tornou sólida. Com o tempo, essa tensão drena mais que o romance. Drena clareza, firmeza e autoconfiança.",
+            "Frequentemente o que nos mantém no lugar não é apenas o afeto pela pessoa, mas o pesar da ideia de perder o futuro que construímos ao redor dela em nossa imaginação. Deus não nos envergonha por nos sentirmos apegados. Ele nos encontra lá e faz uma pergunta gentil: do que você realmente tem medo de se soltar? Às vezes não é o relacionamento em si, mas a história que esperava que ele se tornasse.",
+            "**Às vezes o que não podemos liberar não é a pessoa, mas o futuro que imaginamos ao redor dela.** Leve esse apego honestamente a Deus hoje. Você não precisa forçar uma conclusão rápida. Peça primeiro por clareza, porque a verdadeira libertação muitas vezes começa quando o coração finalmente consegue dizer a verdade."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, você conhece a parte de mim que acha difícil soltar. Não é que eu não saiba como esse relacionamento tem sido incerto. É que ainda estou segurando esperanças, futuros imaginados e possibilidades que não liberei. Não deixe-me viver para sempre nessa instabilidade. Dê-me clareza e dê-me honestidade. Ajude-me a ver o que estou realmente segurando e por quê. Dê-me discernimento e limites saudáveis, para que minha gentileza não se torne auto-traição e meu amor não me custe minha própria integridade. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Tiago 1:8",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "O homem de duas mentes é instável em todos os seus caminhos."
+            },
+            {
+              "display": "Salmo 25:4-5",
+              "book_code": "PSA",
+              "chapter": 25,
+              "verses": "4-5",
+              "translation": "Almeida",
+              "text": "Faze-me conhecer os teus caminhos, Senhor, ensina-me as tuas veredas. Guia-me na tua verdade, e ensina-me..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Atenção Não É o Mesmo Que Ser Querida",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Cantares 2:7",
+            "book_code": "SNG",
+            "chapter": 2,
+            "verses": "7",
+            "translation": "Almeida",
+            "text": "Não desperta nem acordes meu amor, enquanto não quiser."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Às vezes o que mais nos toca rapidamente não é o amor em si, mas a sensação de finalmente ser notada.",
+            "Alguém se lembra dos detalhes, entra em contato no momento certo, diz algo terno, ou nos dá um tipo de atenção que cai exatamente em um lugar solitário. Claro que nossos corações respondem. Ser visto importa. Mas atenção e carinho não são a mesma coisa. Uma pessoa pode saber como fazer você se sentir especial em momentos e ainda não ter firmeza, clareza e disposição de carregar o peso do cuidado real.",
+            "O Cântico dos Cânticos nos avisa para não despertar o amor antes de seu tempo adequado. Essa sabedoria não é apenas sobre moderação no comportamento. É também sobre o ritmo do coração. Quando alguém toca nosso desejo de ser visto, podemos avançar emocionalmente além do que é realmente verdadeiro. Podemos começar a confiar antes de haver evidência de confiabilidade, esperando antes de haver direção honesta, nos apegando antes que o relacionamento tenha mostrado que pode nos sustentar bem.",
+            "Deus não nos repreende por querer ser estimados. Ele entende esse desejo. Mas porque o honra, quer protegê-lo de ser alimentado pela inconsistência. Ele quer mais para você do que calor disperso que nunca se torna amor confiável. É por isso que a discernimento importa. Às vezes o que nos mantém apegados não é apenas a pessoa, mas o alívio de finalmente se sentir visível.",
+            "**A atenção de alguém não significa necessariamente que está pronto para cuidar de você.** Pergunte-se hoje o que o tem atraído mais fortemente. É verdadeiramente o caráter dessa pessoa, ou o conforto de ser notada? Deixe essa pergunta abrir um pequeno espaço em seu coração."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, guarde o desejo em mim de ser estimado. Não deixe-me confundir um pouco de atenção com amor profundo e constante. Dê-me discernimento para distinguir entre o que meramente me move e o que é verdadeiramente confiável. Ajude-me a não entregar meu coração todo muito rapidamente, mas a amar de forma mais constante e sábia em você. Dê-me um coração mais claro, para que o medo de perder amor não fale mais alto que a sabedoria, e emoção passageira não abafe a paz que você me dá. Se há um lugar onde preciso parar, dê-me coragem. Se há um lugar onde preciso esperar, dê-me paciência. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Cantares 2:7",
+              "book_code": "SNG",
+              "chapter": 2,
+              "verses": "7",
+              "translation": "Almeida",
+              "text": "Não desperta nem acordes meu amor, enquanto não quiser."
+            },
+            {
+              "display": "Provérbios 19:2",
+              "book_code": "PRO",
+              "chapter": 19,
+              "verses": "2",
+              "translation": "Almeida",
+              "text": "Também a alma sem conhecimento não é boa, e quem se apressa com os pés peca."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Limites Não São Frieza, mas Auto-Respeito",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Marcos 1:35",
+            "book_code": "MRK",
+            "chapter": 1,
+            "verses": "35",
+            "translation": "Almeida",
+            "text": "E pela manhã, bem cedo, ainda sendo noite escura, levantou-se e saiu, e retirou-se a um lugar deserto, e ali orava."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitos de nós nos preocupamos que limites nos façam parecer distantes, difíceis ou menos amorosos.",
+            "Mas se um relacionamento pode continuar apenas porque você continua suprimindo seu desconforto, alongando além da sua paz e se tornando menor, então o problema não é simplesmente seus limites. É a forma do relacionamento. Jesus nunca foi sem limites. Ele se retirou, disse a verdade, disse não e não permaneceu endlessly disponível simplesmente porque as pessoas queriam mais dele.",
+            "Limites não são o oposto do amor. Eles ajudam a proteger o amor de se tornar misturado com ressentimento, medo, culpa e esgotamento. Um relacionamento saudável não trata seus limites como traição. Se um relacionamento se torna instável no momento em que você fica honesto, vale a pena perguntar se a conexão tem dependido muito de seu silêncio.",
+            "Comecei a pensar em limites como um tipo de ternura madura. Eles não fecham cada porta. Eles simplesmente nos ajudam a saber como abrir a porta honestamente. Deus não está nos pedindo para ficar guarda de forma dura. Ele está nos ensinando a não confundir ser amoroso com estar endlessly disponível às nossas custas.",
+            "**O amor real não perde o respeito por você simplesmente porque você tem limites.** Considere hoje qual \"não\" foi mais difícil para você dizer nesse relacionamento. Esse pode ser exatamente o lugar onde Deus quer ajudá-lo a ficar mais firme.",
+            "Se você perceber que é difícil manter seus limites sem se sentir culpada, talvez esse seja exatamente o sinal de que precisa deles mais do que pensa."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, ensine-me novamente o que limites realmente são. Não deixe-me confundir honestidade com frieza, ou auto-apagamento com amor. Dê-me coragem para falar a verdade quando a verdade é necessária, e para parar quando parar é sábio. Cure a parte de mim que teme que vou perder amor se estabelecer limites. Em seu amor, ensine-me a guardar meu coração com maturidade e paz. Dê-me discernimento e limites saudáveis, para que minha gentileza não se torne auto-traição e meu amor não me custe minha própria integridade. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Marcos 1:35",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35",
+              "translation": "Almeida",
+              "text": "E pela manhã, bem cedo, ainda sendo noite escura, levantou-se e saiu, e retirou-se a um lugar deserto, e ali orava."
+            },
+            {
+              "display": "Efésios 4:15",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "15",
+              "translation": "Almeida",
+              "text": "Antes, seguindo a verdade em amor, cresçamos em tudo naquele que é a cabeça, Cristo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "A Solidão É Real, Mas Não Deveria Decidir o Que Aceito",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 68:6",
+            "book_code": "PSA",
+            "chapter": 68,
+            "verses": "6",
+            "translation": "Almeida",
+            "text": "Deus faz que os solitários habitem em casa; conduz os presos para fora, em prosperidade..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Às vezes nos mantemos em um relacionamento não porque é bom, mas porque a solidão se sente mais pesada.",
+            "A solidão pode ser alta, especialmente quando parece que todos os outros estão se movendo para romance, companheirismo e pertencimento enquanto permanecemos na incerteza. Nesse tipo de dor, podemos começar a baixar nossos padrões, fazer desculpas, ou nos dizer que um pouco de conexão é melhor que vazio. Mas quando a solidão se torna a principal força que molda nossas decisões, nos tornamos mais vulneráveis a aceitar o que realmente não é bom para nós.",
+            "O Salmo 68 diz que Deus coloca o solitário em famílias. Isso não significa que ele preenche nosso vazio com apenas qualquer relacionamento. Significa que a solidão não é algo que somos destinados a resolver ao nos contentarmos com menos que o amor. Deus vê a dor de querer proximidade. Ele vê como pode parecer assustador liberar algo e enfrentar o espaço que deixa para trás. Mas ele é demasiado gentil para responder essa dor entregando-nos ao que nos diminui lentamente.",
+            "Ajuda dizer isso claramente: solidão não é vergonhosa. Querer amor não é vergonhoso. Mas se não enfrentarmos nossa solidão honestamente, ela pode começar a tomar decisões para nós. Deus quer nos encontrar lá primeiro. Quando a solidão é mantida por ele, somos menos propensos a agarrar-nos à proximidade pouco saudável apenas para evitar sentir-se sozinhos.",
+            "**A solidão pode nos fazer querer segurar algo, mas Deus não quer que o medo de estar sozinho decida o que aceitamos.** Hoje, pergunta-se a si mesmo se realmente o que você está se apegando é verdadeiramente a essa pessoa, ou a necessidade de não se sentir vazio novamente. Às vezes essa pergunta abre a porta para um tipo mais profundo de cuidado."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, você sabe como a solidão pode ser pesada. Você sabe que às vezes é difícil soltar não apenas porque gosto, mas porque tenho muito medo de ficar vazio, de enfrentar novamente a perda de estar sozinha. Encontre-me nessa solidão primeiro. Não deixe que o medo de estar sozinha me coloque nas mãos de um relacionamento que não é saudável. Obrigado por ver meu desejo e saber melhor do que eu o que o verdadeiro amor parece. Dê-me um coração mais claro, para que o medo de perder amor não fale mais alto que a sabedoria, e emoção passageira não abafe a paz que você me dá. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 68:6",
+              "book_code": "PSA",
+              "chapter": 68,
+              "verses": "6",
+              "translation": "Almeida",
+              "text": "Deus faz que os solitários habitem em casa; conduz os presos para fora, em prosperidade..."
+            },
+            {
+              "display": "Salmo 34:18",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "18",
+              "translation": "Almeida",
+              "text": "O Senhor é perto dos que têm o coração quebrantado, e salva os de espírito contrito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "A Paz Não É Apenas Tê-lo, É Não Se Perder a Si Mesma",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Filipenses 4:7",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "7",
+            "translation": "Almeida",
+            "text": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "No quinto dia, talvez a pergunta mais importante não seja simplesmente se você deveria ficar ou partir, mas se começou a se perder a si mesma.",
+            "Alguns relacionamentos são difíceis de abandonar porque realmente contêm calor, esperança e sentimento real. Mas se ao longo do caminho você se tornou menos pacífica, menos honesta e menos enraizada em quem é, então algo importante precisa ser enfrentado. Uma conexão pode tocar seu coração e ainda lentamente desfazer sua firmeza.",
+            "Filipenses diz que a paz de Deus guardará nossos corações e mentes através de Cristo Jesus. Essa paz não sempre remove o pesar imediatamente. Você ainda pode se sentir triste, saudade e perda. Mas a paz de Deus ainda pode protegê-lo de continuar a viver em algo que continua dispersando seu coração. Ele se importa não apenas se um relacionamento acontece, mas com o que está acontecendo com você dentro dele.",
+            "Acho isso profundamente consolador. Deus não está apenas interessado em resultados. Ele está interessado na condição de sua alma. Se um relacionamento pode continuar apenas pedindo-lhe para trair sua própria clareza, limites ou dignidade, então proteger seu coração não é fracasso. É sabedoria.",
+            "**O amor que realmente vale a pena ter não exigirá que você troque sua integridade por sua sobrevivência.** Traga tudo o que esses cinco dias descobriram de volta a Deus. Se você já sabe o que precisa ser liberado, peça por coragem. Se você ainda não sabe claramente, peça por luz. De qualquer forma, deixe isso permanecer verdadeiro: Deus se importa não apenas que você seja amado, mas que não se perca a si mesma enquanto anseia ser."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigado por me ajudar a olhar mais honestamente para esse relacionamento e para meu próprio coração ao longo desses cinco dias. Se perdi minha paz, meus limites ou a mim mesma dentro dele, não deixe-me continuar fingindo que está tudo bem. Guarde meu coração e mente, e mantenha-me através da dor de anseio e do trabalho de discernimento. Se algo precisa ser liberado, dê-me coragem. Se algo ainda está incerto, dê-me luz. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Filipenses 4:7",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "7",
+              "translation": "Almeida",
+              "text": "E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus."
+            },
+            {
+              "display": "Salmo 119:105",
+              "book_code": "PSA",
+              "chapter": 119,
+              "verses": "105",
+              "translation": "Almeida",
+              "text": "Lâmpada para os meus pés é a tua palavra, e luz para o meu caminho."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

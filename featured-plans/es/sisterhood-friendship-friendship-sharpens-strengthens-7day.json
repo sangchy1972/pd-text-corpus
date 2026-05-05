@@ -1,0 +1,509 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI21",
+    "slug": "friendship-sharpens-strengthens",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles e Identidad",
+      "secondary": "sisterhood-friendship",
+      "secondary_label": "Hermandad y Amistad"
+    },
+    "tags": [
+      "amistad",
+      "hermandad",
+      "comunidad",
+      "celos",
+      "apoyo",
+      "afilarse"
+    ],
+    "title": "La Amistad Que Aguza y Fortalece",
+    "subtitle": "Construir una hermandad honesta y vivificante",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "anhelando amistad",
+        "sanando celos",
+        "buscando comunidad"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Estos siete días te ayudan a construir una hermandad más madura explorando la honestidad, la seguridad, los límites y la reparación en la amistad adulta.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#D8C8E0",
+      "color_secondary": "#4A2C5A",
+      "image_key": "cover_two_women_walking_warm_evening",
+      "icon": "two-hands-clasped-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Proverbios 27:9",
+        "book_code": "PRO",
+        "chapter": 27,
+        "verses": "9"
+      },
+      {
+        "display": "Hebreos 10:24",
+        "book_code": "HEB",
+        "chapter": 10,
+        "verses": "24"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "La Buena Amistad Ayuda a una Persona a Ser Más Ella Misma",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Proverbios 27:9",
+            "book_code": "PRO",
+            "chapter": 27,
+            "verses": "9",
+            "translation": "Reina-Valera 1909",
+            "text": "La dulzura del consejo de un amigo..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Algunas amistades nos hacen más tensa. Otras nos dejan exhalar.",
+            "Probablemente conoces la diferencia. En un tipo de relación, te mantienes constantemente monitoreando. ¿Eres lo suficientemente interesante, lo suficientemente fácil, lo suficientemente sabia, lo suficientemente alegre, lo suficientemente descomplicada? Te mantienes ligeramente controlada, ligeramente editada, ligeramente en guardia. En el otro tipo, algo más suave sucede. No tienes que seguir ofreciendo la versión más pulida de ti misma para pertenecer. Puedes estar tranquila, cansada, incierta, poco impresionante, y aun así sentirte recibida.",
+            "Esa es una gracia rara en la vida adulta. Muchas de nosotras pasamos tanto tiempo demostrando competencia, estabilidad o simpatía que casi olvidamos cuán profundamente el alma anhela ser conocida sin manejar cada impresión. Una buena amiga puede convertirse en uno de los regalos más gentiles de Dios de esa manera. No porque nunca te desafíe, y no porque siempre diga lo correcto, sino porque en su presencia te encuentras siendo más honesta, no menos.",
+            "Proverbios habla de la dulzura del consejo de un amigo, y Romanos nos llama hacia el afecto tierno. La amistad madura a menudo sostiene juntos el calor y la verdad. No solo te hace cómoda. Te hace lo suficientemente segura para ser real y lo suficientemente estable para seguir creciendo.",
+            "**La amistad que te ayuda a ser más tú misma es una gracia rara.** Agradece a Dios hoy por cualquiera que te haya dado ese tipo de espacio. Y si aún anhelas esa amistad, lleva también ese anhelo a Él. Él sabe que necesitamos más que compañía. Necesitamos relaciones donde el alma pueda asentarse."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias por las amistades que nos hacen más reales. Hazme el tipo de persona que crea esa seguridad para otros también. Si hay un lugar donde necesito arrepentirme, hablar, esperar o aprender a amar de nuevo, llévame allá Tú mismo, y no permitas que el orgullo impida que la gracia entre. Enséñame no solo a anhelar buenos amigos, sino a convertirme en el tipo de amiga en cuya presencia otros pueden respirar más honestamente. Que haya más gracia y menos defensa en la forma en que amo. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Proverbios 27:9",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "9",
+              "translation": "Reina-Valera 1909",
+              "text": "La dulzura del consejo de un amigo..."
+            },
+            {
+              "display": "Romanos 12:10",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "Sed afectuosos los unos con los otros..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "La Seguridad Hace Posible la Honestidad",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Santiago 1:19",
+            "book_code": "JAS",
+            "chapter": 1,
+            "verses": "19",
+            "translation": "Reina-Valera 1909",
+            "text": "Sed prontos para oír, lentos para hablar..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A menudo las personas no están dispuestas a ser honestas. Simplemente no se sienten lo suficientemente seguras.",
+            "Todos decimos que queremos amistades veraces, pero la verdad rara vez crece bajo presión. Cuando una relación responde demasiado rápido con juicio, corrección, consejo, o retiro emocional, la honestidad aprende a retroceder. Una persona puede seguir compartiendo las partes aceptables de sí misma, pero las partes que están confundidas, avergonzadas, enojadas, celosas, o profundamente tiernas permanecen ocultas. Con el tiempo, la amistad permanece activa en la superficie mientras se vuelve más delgada debajo.",
+            "La seguridad no significa estar de acuerdo con todo. No significa la ausencia de desafío. Significa que hay paciencia suficiente en la relación para que la verdad llegue antes que las soluciones. Santiago nos dice que seamos prontos para oír y lentos para hablar. Proverbios nos advierte contra responder antes de escuchar. Esos versículos no solo moldean buenos modales. Ayudan a crear el tipo de atmósfera donde el alma puede desplegarse sin prepararse inmediatamente para el impacto.",
+            "Creo que esto importa profundamente en las amistades entre mujeres porque muchas de nosotras somos rápidas para aconsejar pero más lentas para acompañar. Sabemos cómo arreglar, interpretar y redirigir. No siempre estamos tan practicadas en sostener tranquilamente la verdad inacabada de otra persona. Pero una compañera espiritual no es solo alguien que te ayuda a dar sentido a la vida. Es alguien en cuya presencia puedes admitir que la vida aún no tiene sentido.",
+            "**Mucha honestidad crece no de la presión, sino de la seguridad.** Pídele a Dios hoy no solo amigas que puedan sostener la verdad suavemente, sino también hacerte en alguien que es ese tipo de amiga para otra persona."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, enséñame a escuchar antes de hablar en la amistad. Hazme alguien en cuya presencia otros puedan ser honestos sin miedo, y enséñame a ser primero honesta ante Ti mismo, sin apresurarrme a explicar o defenderme. Sana los lugares en mí que se mueven rápidamente hacia la autoprotección, para que pueda escuchar más suavemente y hablar verdad más claramente. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Santiago 1:19",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "19",
+              "translation": "Reina-Valera 1909",
+              "text": "Sed prontos para oír, lentos para hablar..."
+            },
+            {
+              "display": "Proverbios 18:13",
+              "book_code": "PRO",
+              "chapter": 18,
+              "verses": "13",
+              "translation": "Reina-Valera 1909",
+              "text": "El que responde palabra antes de oír, le es fatuidad y oprobio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "Los Límites Protegen la Amistad",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Proverbios 25:17",
+            "book_code": "PRO",
+            "chapter": 25,
+            "verses": "17",
+            "translation": "Reina-Valera 1909",
+            "text": "Sea rara tu entrada en casa de tu prójimo..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas escuchan la palabra límites e inmediatamente se preocupan de que la amistad se vuelva más fría.",
+            "Especialmente en relaciones cercanas, podemos asumir que el amor profundo significa acceso ilimitado, disponibilidad constante y carga emocional infinita. Al principio, incluso eso puede parecer hermoso. Pero la amistad adulta no puede sostenerse solo en calidez. Sin límites, la cercanía a menudo comienza a colapsar bajo el desequilibrio, las expectativas poco claras, la dependencia excesiva y el resentimiento silencioso. Una persona se cansa. La otra se siente abandonada. Y eventualmente ambas están confundidas sobre cómo algo que una vez se sintió íntimo comenzó a sentirse pesado.",
+            "La Escritura no debilita la cercanía cuando habla de límites. Proverbios advierte contra la excesiva familiaridad, y Gálatas le recuerda a cada persona llevar su propia carga. Estos no son versículos fríos. Protegen la dignidad de la relación. Los límites son simplemente una manera de decir: te amo, pero no soy tu salvadora. Quiero estar presente, pero también soy una persona finita con responsabilidades, ritmos y necesidades propias.",
+            "Creo que este es un área de crecimiento especialmente significativa en las amistades entre mujeres, porque muchas de nosotras fuimos enseñadas que decir sí prueba amor, mientras que decir no arriesga el rechazo. Pero el amor maduro no se prueba por el auto-abandono infinito. Se fortalece por la honestidad sobre los límites. Los límites no destruyen la intimidad. La protegen.",
+            "**Los límites no son enemigos de la cercanía. La protegen.** Pídele a Dios hoy dónde la amistad en tu vida necesita más ritmo, más claridad, o más responsabilidad mutua para que el amor pueda durar más y respirar más libremente."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, enséñame a sostener la amistad con calidez y límites juntos. Mantenme de temer que el ritmo saludable me costará amor. Sana lo que es sensible, orgulloso, protegido, o herido en mí dentro de la amistad. Ayúdame a hablar honestamente y escuchar suavemente, para que esta relación sea más completamente un lugar a través del cual Tu gracia pueda moverse. Dame discernimiento y límites saludables, para que mi gentileza no se convierta en auto-traición y mi amor no me custe mi propia integridad. Que la honestidad y la estabilidad crezcan juntas en mí. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Proverbios 25:17",
+              "book_code": "PRO",
+              "chapter": 25,
+              "verses": "17",
+              "translation": "Reina-Valera 1909",
+              "text": "Sea rara tu entrada en casa de tu prójimo..."
+            },
+            {
+              "display": "Gálatas 6:5",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "5",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque cada uno llevará su propia carga."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Decir la Verdad es una Forma de Amor",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Efesios 4:15",
+            "book_code": "EPH",
+            "chapter": 4,
+            "verses": "15",
+            "translation": "Reina-Valera 1909",
+            "text": "Hablando verdad en amor..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Algunas amistades se ven pacíficas solo porque nadie se atreve a decir la verdad.",
+            "Muchas de nosotras somos muy hábiles en proteger la atmósfera. No queremos torpeza. No queremos herir a la otra persona. No queremos ser malinterpretadas. Así que la conversación necesaria es retrasada, suavizada más allá de su utilidad, redirigida a bromas, o enterrada tranquilamente. En la superficie la relación permanece agradable. Debajo, la decepción y la distancia comienzan a acumularse. Si una amistad solo sabe cómo consolar y nunca cómo hablar honestamente, puede mantenerse agradable, pero rara vez se vuelve profunda.",
+            "Efesios nos dice que hablemos la verdad en amor, y Proverbios dice que fieles son las heridas del amigo. La verdad importa en la amistad no porque nos dé el poder de corregir, sino porque muestra que la relación es lo suficientemente valiosa como para manejar la sinceridad. El amor maduro no confunde el silencio con la amabilidad, y no confunde la brutalidad con el coraje. Aprende el camino más difícil: cómo mantener el amor dentro de la verdad, y la verdad dentro del amor.",
+            "Creo que esta es una de las formas más hermosas de amistad femenina cuando se hace bien. Una amiga que puede confortarte y también confrontarte suavemente es un regalo raro. No te avergüenza, pero tampoco te deja atrapada en patrones que te están lastimando.",
+            "**La amistad sin honestidad puede permanecer agradable, pero rara vez se vuelve profunda.** Pídele a Dios hoy si hay una verdad que necesitas sabiduría para hablar, o una verdad que has estado evitando porque la paz se sentía más fácil que el amor."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, enséñame a no evitar la verdad en la amistad, y tampoco a hablarla bruscamente. Muéstrame cuándo confortar y cuándo ser honesta. Sana lo que es sensible, orgulloso, protegido, o herido en mí dentro de la amistad. Ayúdame a hablar honestamente y escuchar suavemente, para que esta relación sea más completamente un lugar a través del cual Tu gracia pueda moverse. Gracias por no estar repelido por mi debilidad, sino dispuesto a acercarte, apoyarme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Efesios 4:15",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "15",
+              "translation": "Reina-Valera 1909",
+              "text": "Hablando verdad en amor..."
+            },
+            {
+              "display": "Proverbios 27:6",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Fieles son las heridas del que ama..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "La Reparación a Menudo Requiere Más Coraje Que la Distancia",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Mateo 5:23-24",
+            "book_code": "MAT",
+            "chapter": 5,
+            "verses": "23-24",
+            "translation": "Reina-Valera 1909",
+            "text": "Primero reconcíliate..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Cuando la amistad se lesiona, la distancia a menudo se siente más limpia que la reparación.",
+            "La distancia nos pide menos. Nos protege de explicaciones incómodas, del riesgo de ser heridas de nuevo, y de la vulnerabilidad de admitir que aún nos importa. Las mujeres adultas pueden volverse muy hábiles en desaparecer con dignidad. En la superficie puede parecer maduro. Debajo, puede simplemente ser duelo que nunca encontró su voz. No toda amistad debería ser reconstruida, y no todo daño puede ser revisitado de manera segura. Pero a veces una relación permanece pesada en tu corazón porque Dios no ha terminado con ella.",
+            "Jesús habla de buscar la reconciliación, y Pablo dice que en lo que depende de nosotras, deberíamos vivir en paz. La reparación es rara vez fácil. Requiere humildad, honestidad, tiempo, y disposición a aceptar que el resultado puede no ser ordenado. A menudo la parte más difícil no es saber qué decir. Es cruzar el umbral interior de: ¿y si extiendo la mano y ella no me recibe? Esa vulnerabilidad es real. Sin embargo, muchas relaciones que vale la pena mantener solo pueden ser recuperadas pasando a través de ella.",
+            "Creo que la reparación es una de las formas más maduras de coraje. No niega la herida. No fuerza un falso regreso al pasado. Simplemente dice: esta amistad fue lo suficientemente importante que estoy dispuesta a dejar que el amor sea más pesado que el orgullo o la apariencia. A veces la reparación tiene éxito. A veces aclara que se necesita liberación. Pero incluso entonces, a menudo es más verdadero que la desaparición silenciosa.",
+            "**A veces el coraje más espiritual no es la retirada elegante, sino la reparación.** Si una amistad sigue volviendo a tu corazón, pídele a Dios hoy si te está invitando hacia una reconciliación sabia en lugar de una distancia tranquila."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, si hay una amistad en la que aún quieres que me enfrente y busque reparación, dame coraje. No permitas que el miedo a la torpeza o al daño me mantenga en silencio para siempre. Si hay un lugar donde necesito arrepentirme, hablar, esperar o aprender a amar de nuevo, llévame allá Tú mismo, y no permitas que el orgullo impida que la gracia entre. Gracias por no estar repelido por mi debilidad, sino dispuesto a acercarte, apoyarme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Mateo 5:23-24",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "23-24",
+              "translation": "Reina-Valera 1909",
+              "text": "Primero reconcíliate..."
+            },
+            {
+              "display": "Romanos 12:18",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "18",
+              "translation": "Reina-Valera 1909",
+              "text": "Procurad vivir en paz con todos..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "La Fricción No Siempre Significa Que la Amistad es Errónea",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Proverbios 27:17",
+            "book_code": "PRO",
+            "chapter": 27,
+            "verses": "17",
+            "translation": "Reina-Valera 1909",
+            "text": "Como el hierro se aguza con el hierro..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La amistad adulta no puede permanecer sin fricción para siempre.",
+            "Venimos a la relación cargando diferentes historias, temperamentos, estilos de comunicación, heridas, expectativas y ritmos. Una amiga necesita más contacto; otra necesita más espacio. Una habla rápidamente; otra procesa lentamente. Una nombra la decepción inmediatamente; otra se retira primero. Con todo eso en la sala, alguna tensión es inevitable. Sin embargo, muchas de nosotras asumimos que si la amistad se vuelve incómoda, algo debe ser fundamentalmente malo.",
+            "Proverbios dice que el hierro aguza al hierro. Esa imagen no es suave ni sin esfuerzo. Incluye contacto, resistencia y ajuste. La pregunta real no es si existe fricción, sino qué está produciendo la fricción. Algunos conflictos profundizan la lesión y señalan que se necesitan límites más fuertes. Pero otra tensión, sin embargo, invita al crecimiento. Puede hacer a ambas personas más verdaderas, más humildes, más claras y más capaces de amor. Una amistad que vale la pena puede no siempre sentirse fácil, pero debería seguir siendo edificante en lugar de crónicamente disminuidora.",
+            "Creo que esta es una de las discernimiento más maduro que necesitamos. No queremos romantizar cada relación dolorosa. Pero tampoco queremos huir de toda incomodidad. Dios no nos pide que nos mantengamos en el daño, pero tampoco nunca prometió que la cercanía sería sin tensión. Algo del amor que más valoramos se forja a través del contacto imperfecto.",
+            "Algunas tensiones no necesitan pánico. Necesitan discernimiento, paciencia, y disposición a dejar que el amor sea más sabio a través de la tensión.",
+            "**No toda tensión significa que la amistad es errónea. Algunas tensiones moldean el amor.** Pídele a Dios hoy si la fricción que estás sintiendo está destruyendo la relación o refinándola. La sabiduría puede ayudarte a ver la diferencia."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, dame discernimiento para saber cuándo apartarme del daño y cuándo permanecer en el amor a través de la fricción necesaria. Que mis amistades no solo se sientan fáciles, sino que verdaderamente nos construyamos mutuamente. Sana lo que es sensible, orgulloso, protegido, o herido en mí dentro de la amistad. Ayúdame a hablar honestamente y escuchar suavemente, para que esta relación sea más completamente un lugar a través del cual Tu gracia pueda moverse. Mantenme de confundir toda incomodidad con peligro, y enséñame cómo permanecer suave sin volverme ingenua. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Proverbios 27:17",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "17",
+              "translation": "Reina-Valera 1909",
+              "text": "Como el hierro se aguza con el hierro..."
+            },
+            {
+              "display": "Romanos 15:2",
+              "book_code": "ROM",
+              "chapter": 15,
+              "verses": "2",
+              "translation": "Reina-Valera 1909",
+              "text": "Cada uno de nosotros agrade a su prójimo... para su bien, para edificación."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "La Hermandad Madura Nos Acerca a Dios y a la Verdad",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Hebreos 10:24",
+            "book_code": "HEB",
+            "chapter": 10,
+            "verses": "24",
+            "translation": "Reina-Valera 1909",
+            "text": "Considerémonos el uno al otro para estimularnos al amor y a las buenas obras."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Llegando al final de esta semana, quizás la amistad se vea más rica que la simple compañía.",
+            "La verdadera buena amistad no es solo tener a alguien a tu lado. Es tener a alguien que te ayuda a moverte más cerca de Dios y más cerca de la verdad. Ese tipo de relación lleva ternura, pero también lleva honestidad. Crea seguridad, pero también respeta límites. Ofrece consuelo, pero también deja espacio para el crecimiento. En la hermandad madura, no tienes que seguir actuando, y no simplemente te dejan dentro de tus puntos ciegos tampoco. Cuando surge la dificultad, ambas personas aún están dispuestas a traer la relación de vuelta a la luz, de vuelta ante Dios, y de vuelta bajo el amor.",
+            "Creo que este es uno de los regalos tranquilos de Dios para las mujeres. Algunos caminos pueden caminarse solos, pero no están destinados a serlo. Una amiga sabia y amorosa puede ayudarnos a no derivar, no colapsar bajo la autocrítica, o no perder el contacto con nuestras propias almas en estaciones ocupadas. Hebreos nos llama a considerarnos mutuamente y estimularnos hacia el amor y las buenas obras. Jesús nos ordena amarnos los unos a los otros. Cuando ese amor toma forma en la amistad femenina, se vuelve tanto refugio como formación.",
+            "La amistad madura no es perfecta. Aún incluye malentendidos, temporadas cambiantes, ritmos desiguales, y la necesidad de reparación. Pero con Dios en el centro, se vuelve más que un vínculo agradable. Se vuelve una relación que estabiliza el alma y fortalece la vida.",
+            "**La hermandad madura ayuda a una mujer a convertirse en más de quien Dios la está moldeando para ser.** Agradece a Dios hoy por las amistades que Ha dado, y pídele que continúe preparando, guardando y profundizando la hermandad en tu vida."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias por el regalo de la amistad. Guarda la hermandad en mi vida, y hazme un tipo de amiga más madura, más honesta, y más centrada en Dios. Si aún cargo viejos hábitos de cautela, orgullo, o miedo dentro de la cercanía, sigue podándome. Enséñame no solo a recibir compañía, sino a ofrecerla bien; no solo a querer comprensión, sino a extenderla con gracia. Que las amistades en mi vida se conviertan en lugares donde la verdad es segura, la ternura es fuerte, y Tu presencia es bienvenida. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Hebreos 10:24",
+              "book_code": "HEB",
+              "chapter": 10,
+              "verses": "24",
+              "translation": "Reina-Valera 1909",
+              "text": "Considerémonos el uno al otro para estimularnos al amor y a las buenas obras."
+            },
+            {
+              "display": "Juan 15:12",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "12",
+              "translation": "Reina-Valera 1909",
+              "text": "Que os améis los unos a los otros, como yo os he amado."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

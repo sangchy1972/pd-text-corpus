@@ -1,0 +1,455 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS15",
+    "slug": "holy-work-of-beginning-again",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estações da Vida",
+      "secondary": "threshold-seasons",
+      "secondary_label": "Estações de Limiar"
+    },
+    "tags": [
+      "transicao",
+      "recomecar",
+      "novo-capitulo",
+      "entre",
+      "chamado",
+      "reorientacao"
+    ],
+    "title": "O Trabalho Sagrado de Começar de Novo",
+    "subtitle": "Encontrando Deus no limiar da perda, da mudança e da vida nova",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "em transição",
+        "recomeçando",
+        "buscando direção"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para mulheres que estão à beira de uma transformação e desejam encontrar Deus não apenas após a transição, mas dentro dela.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#B0C8D5",
+      "color_secondary": "#3F5C70",
+      "image_key": "cover_woman_at_doorway_soft_light",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Êxodo 3:4-5",
+        "book_code": "EXO",
+        "chapter": 3,
+        "verses": "4-5"
+      },
+      {
+        "display": "Provérbios 3:5-6",
+        "book_code": "PRO",
+        "chapter": 3,
+        "verses": "5-6"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Começar de Novo É Santo Porque Deus Está Lá",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Êxodo 3:4-5",
+            "book_code": "EXO",
+            "chapter": 3,
+            "verses": "4-5",
+            "translation": "Almeida",
+            "text": "Quando o Senhor viu que Moisés se aproximava para olhar, Deus o chamou do meio da sarça, dizendo: Moisés! Moisés! Respondeu ele: Eis-me aqui. Disse Deus: Não chegues para cá; tira os sapatos dos pés, porque o lugar em que estás é terra santa."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "\"Começar de novo\" às vezes soa como uma frase de encorajamento, mas as mulheres que viveram uma ruptura real sabem quanto custa. Pode vir através de mudança de endereço, perda de emprego, divórcio, viuvez, filhos deixando a casa, recuperação após doença, ou o fim de uma longa estação sem encerramento emocional. Chamamos isto de trabalho sagrado não porque seja fácil ou romântico, mas porque Deus encontra as pessoas lá.",
+            "Ele não espera até que a reconstrução esteja completa antes de se aproximar. Ele vem quando você ainda está de pé entre os fragmentos, ainda incerta, ainda olhando para trás.",
+            "Quando Moisés encontra a sarça ardente, a terra deserta se torna sagrada porque Deus está presente ali. Isso importa para a transição. Os lugares de passagem raramente parecem santos. Parecem confusos, inconvenientes e inacabados. Mas um dos mistérios da graça é que Deus frequentemente escolhe tais lugares para se revelar.",
+            "**Começar de novo é santo não porque a situação seja bonita ainda, mas porque Deus está disposto a habitar nela antes que seja resolvida.** Portanto, se você está de pé num lugar que não parece nada com um início bonito, não negue a confusão. Simplesmente lembre-se de que Deus não é repelido por isso. Ele pode falar aqui também."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada porque você não espera até que eu arrume tudo antes de se aproximar. Você sabe que o lugar onde estou agora não é organizado nem fácil. Contém incompletude, estranheza e formas de confusão que não consigo explicar completamente. E ainda assim você me encontra aqui. Ensine-me a reconhecer sua presença mesmo em lugares que parecem comuns ou quebrados. Se este começo é terra sagrada porque você está aqui, ensine-me a ficar de pé com reverência e a ouvir com esperança. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Êxodo 3:4-5",
+              "book_code": "EXO",
+              "chapter": 3,
+              "verses": "4-5",
+              "translation": "Almeida",
+              "text": "Quando o Senhor viu que Moisés se aproximava para olhar, Deus o chamou do meio da sarça, dizendo: Moisés! Moisés! Respondeu ele: Eis-me aqui. Disse Deus: Não chegues para cá; tira os sapatos dos pés, porque o lugar em que estás é terra santa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Algumas Vidas Novas Começam com Luto pela Vida Antiga",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Joel 2:25",
+            "book_code": "JOL",
+            "chapter": 2,
+            "verses": "25",
+            "translation": "Almeida",
+            "text": "Restituir-vos-ei os anos que a locusta comeu, o gafanhoto, o grilho e a lagarta, minha grande hoste que enviei contra vós."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Começar de novo é frequentemente descrito com demasiado otimismo, como se coragem e positividade permitissem uma transição rápida. Mas os verdadeiros começos profundos geralmente não começam com entusiasmo. Começam com luto. Uma mulher deve admitir que algo realmente terminou. Um ritmo anterior, relacionamento, cidade, papel, ou versão da vida não é mais sua da mesma forma.",
+            "Sem luto, novos começos podem se tornar performativos. O corpo se move para a frente enquanto o coração permanece à porta antiga.",
+            "Joel fala de Deus restaurar os anos que a locusta comeu. Aquela promessa é poderosa porque não nega a perda. Ela a nomeia. Para mulheres começando de novo, isso importa profundamente. Deus não exige que você minimize o que foi tirado ou que finija que a esperança cancela a tristeza. Ele permite que você diga ambas as coisas: isto foi perdido, e ainda assim o trago a você.",
+            "**Algumas formas de vida nova emergem apenas após o luto honesto ter amolecido o solo.** Então, se você ainda está chorando pela vida antiga, não trate aquelas lágrimas como fracasso espiritual. Elas podem ser parte de como Deus prepara a terra para o que vem a seguir."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que nem sempre encaro o começo de novo com força alegre a cada dia. Alguns términos ainda dói, e algumas perdas ainda são difíceis nem mesmo de nomear. Obrigada por não me exigir que eu fico leve antes de me guiar. Receba meu luto, e ensine-me que estas lágrimas não são desperdiçadas. Se nova vida realmente costuma começar apenas após luto honesto, dê-me coragem para não suprimir o que dói, e dê-me esperança de que você pode trazer fruto de terra regada por lágrimas. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Joel 2:25",
+              "book_code": "JOL",
+              "chapter": 2,
+              "verses": "25",
+              "translation": "Almeida",
+              "text": "Restituir-vos-ei os anos que a locusta comeu, o gafanhoto, o grilho e a lagarta, minha grande hoste que enviei contra vós."
+            },
+            {
+              "display": "Salmo 126:5",
+              "book_code": "PSA",
+              "chapter": 126,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "Os que semeiam com lágrimas colhem com alegria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Deus Frequentemente Começa a Reconstruir Antes das Ruínas Desaparecerem",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Neemias 2:17-18",
+            "book_code": "NEH",
+            "chapter": 2,
+            "verses": "17-18",
+            "translation": "Almeida",
+            "text": "Então lhes disse: Vós vedes o apuro em que estamos; Jerusalém está desolada e suas portas queimadas. Vinde, e reconstruamos o muro de Jerusalém... E pôs em seus corações a coragem de fazer este trabalho."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Algumas mulheres não ousam realmente começar porque se sentem insuficientemente inteiras. O coração não está totalmente curado. As finanças não estão totalmente restauradas. O corpo é ainda diferente. Os relacionamentos permanecem sem resolver. Assim elas discretamente se dizem: uma vez que tudo pareça mais organizado, então começarei.",
+            "Mas Deus frequentemente trabalha diferentemente. Quando Neemias reconstrói os muros de Jerusalém, a ruína não desapareceu primeiro. A vergonha ainda é fresca. A oposição ainda está presente. O entulho ainda existe. A reconstrução acontece na presença do dano, não apenas depois que ele se foi.",
+            "Isto deveria confortar a mulher que se sente demasiado inacabada para começar. Deus não espera que sua vida se pareça com uma versão ideal antes de chamá-la a reconstruir. Ele a ensina a construir entre os escombros.",
+            "**Reconstrução não nega as ruínas. Ela confia que Deus ainda pode construir enquanto as ruínas são visíveis.** Portanto, se você tem adiado nova fidelidade porque não está totalmente restaurada ainda, ouça isto com ternura: você não precisa esperar até que todo o entulho desapareça antes de começar de novo.",
+            "Deus não se envergonha do local onde você está reconstruindo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, com frequência sinto-me demasiado inacabada para realmente começar. Penso que uma vez que eu seja mais inteira, mais estável, ou mais organizada, então começarei. Obrigada por me lembrar que você não espera que todas as ruínas desapareçam antes que a reconstrução comece. Dê-me coragem para confiar em você enquanto o quebranto ainda é visível. Mantenha-me de adiar fidelidade porque não estou totalmente restaurada ainda, e mantenha-me de desprezar seu trabalho porque entulho permanece. Ensine-me a reconstruir uma pedra por vez sob sua orientação. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Neemias 2:17-18",
+              "book_code": "NEH",
+              "chapter": 2,
+              "verses": "17-18",
+              "translation": "Almeida",
+              "text": "Então lhes disse: Vós vedes o apuro em que estamos; Jerusalém está desolada e suas portas queimadas. Vinde, e reconstruamos o muro de Jerusalém... E pôs em seus corações a coragem de fazer este trabalho."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Pequenos Começos Ainda Podem Ser Sagrados",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Zacarias 4:10",
+            "book_code": "ZEC",
+            "chapter": 4,
+            "verses": "10",
+            "translation": "Almeida",
+            "text": "Pois quem desprezou o dia das pequenas coisas?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Frequentemente imaginamos começar de novo como algo dramático. Uma mudança. Um novo papel importante. Uma reinvenção pública. Uma mudança varrida. Mas muitos começos sagrados são muito mais pequenos do que isso. A primeira sala limpa. O primeiro orçamento honesto. A primeira refeição feita para si mesma novamente. A primeira oração num novo lugar. O primeiro retorno à comunidade. A primeira admissão de que sim, é hora de seguir adiante.",
+            "Zacarias pergunta: \"Quem desprezou o dia das pequenas coisas?\" Aquela pergunta importa profundamente na transição porque a vida nova raramente é barulhenta no início. Frequentemente começa como uma pequena luz, uma pequena ordem, uma pequena disposição de re-entrar na vida.",
+            "Se uma mulher valoriza apenas mudança dramática, ela pode perder o trabalho sagrado que Deus está fazendo através de pequenos atos de obediência. A Escritura nos diz para não desprezar aqueles começos. Eles são frequentemente os verdadeiros pontos de partida da restauração maior.",
+            "**Deus não ignora os pequenos começos que mesmo você pode ser tentada a desprezar.** Portanto, se tudo o que você pode fazer hoje é um pequeno passo, não o chame de nada. Para uma mulher se levantando da perda, deslocação, ou longa espera, um pequeno passo pode ser profundamente santo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada porque você não trabalha apenas através de dramáticas reversões, mas também através de pequenos, quietos, facilmente desprezados começos. Resgate-me da mentalidade de que apenas grande progresso conta. Mantenha-me de desprezar o único pequeno passo que sou capaz de tomar hoje. Se meu começo parece lento, escondido, ou desimpressionante, ainda assim deixe-me saber que você o vê e que meu coração não precisa perder coragem. Ensine-me a não desprezar o dia das pequenas coisas, mas a ver em cada pequena obediência que você está fazendo algo novo. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Zacarias 4:10",
+              "book_code": "ZEC",
+              "chapter": 4,
+              "verses": "10",
+              "translation": "Almeida",
+              "text": "Pois quem desprezou o dia das pequenas coisas?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "Vida Nova Frequentemente Traz Direção Antes de Confiança",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Hebreus 11:8",
+            "book_code": "HEB",
+            "chapter": 11,
+            "verses": "8",
+            "translation": "Almeida",
+            "text": "Pela fé Abraão, quando chamado, obedeceu, indo para um lugar que havia de receber por herança; e saiu sem saber para onde ia."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas pessoas assumem que deveriam se sentir confiantes antes de começar de novo. A vida real frequentemente funciona na ordem oposta. A direção vem primeiro; a confiança cresce depois. Uma mulher pode saber apenas que ela não pode mais permanecer onde está, que uma certa porta deve fechar, ou que um novo ritmo deve começar. Isto é direção. Não é o mesmo que confiança.",
+            "O que torna a transição difícil é esta incompatibilidade: os pés começam a se mover enquanto o coração ainda está se recuperando.",
+            "Hebreus diz que Abraão saiu, não sabendo para onde ia. A Escritura não trata isso como fé fraca. Trata como fé real. Deus não o exige que você se sinta totalmente segura antes de obedecer. Muitos começos sagrados começam com uma mulher que carece de certeza mas sente o chamado de Deus fortemente o bastante para dar o próximo passo mesmo assim.",
+            "**Na liderança de Deus, a direção frequentemente vem antes da confiança.** Isto deveria a confortar. Você não precisa esperar até que suas emoções combinem com sua obediência. Você pode caminhar tremendo e ainda estar caminhando fielmente.",
+            "A estabilidade frequentemente cresce na estrada, não antes dela."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada porque você não exige forte confiança antes de convidá-lo à obediência. Você sabe que agora eu talvez tenha um pouco de direção mas não muita confiança. Mantenha-me de assumir que porque ainda tremo, não posso avançar. Como você liderou Abraão, lidere-me a obedecer mesmo dentro de clareza incompleta. Ensine-me a não tratar falta de confiança como falta de orientação. Ajude-me a confiar que estabilidade frequentemente cresce enquanto o sigo, não antes. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Hebreus 11:8",
+              "book_code": "HEB",
+              "chapter": 11,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "Pela fé Abraão, quando chamado, obedeceu, indo para um lugar que havia de receber por herança; e saiu sem saber para onde ia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Dia 6",
+      "title": "Novos Capítulos Vêm com Novas Misericórdias",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Isaías 43:18-19",
+            "book_code": "ISA",
+            "chapter": 43,
+            "verses": "18-19",
+            "translation": "Almeida",
+            "text": "Não vos lembreis das coisas passadas, nem considereis as antigas. Eis que faço coisas novas... e abro caminho no deserto e rios no ermo."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Mulheres que começam de novo frequentemente temem carregar antigas feridas para o novo capítulo. Elas sabem que não estão totalmente curadas. Elas sabem que alguns medos ainda vivem nelas. Algumas inseguranças ainda se inflamam. Então elas se perguntam se o passado não resolvido sabotará o que vem a seguir.",
+            "A Escritura não responde àquele medo dizendo, \"Fique completamente inteira primeiro.\" Ela responde dizendo que Deus é capaz de fazer algo novo e criar um caminho mesmo em lugares desertos. Aquela promessa não é para pessoas que já estão completamente curadas. É para pessoas ainda caminhando.",
+            "A transição frequentemente significa entrar em vida nova enquanto ainda se carrega alguma ternura antiga. Mas Deus não lhe envia para um novo capítulo apenas com feridas antigas. Ele também lhe envia graça fresca com você.",
+            "**Um novo capítulo não exige uma versão de você sem feridas. Exige a graça de Deus para a versão de você que está entrando em hoje.** Isto é profundamente reconfortante. Você não precisa se obcecar sobre se está totalmente pronta. Você precisa de graça para o dia em que está, e Deus prometeu não abandoná-la ali."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que tenho medo de trazer feridas antigas, medos antigos, e vulnerabilidades antigas para um novo capítulo. Temo que as partes de mim não ainda curadas estraguem o que vem a seguir. Obrigada de que a esperança que você me dá não é, \"Espere até estar completamente inteira,\" mas, \"Ainda sou capaz de fazer algo novo enquanto você caminha com cicatrizes.\" Mantenha-me de viver hoje sob escrutínio ansioso de minha própria prontidão. Deixe-me viver em vez dentro da graça que você está me dando hoje. Se ainda sou fraca, não se mova para longe de mim. Se ainda sou facilmente desencadeada, encontre-me ali primeiro. Deixe-me entrar neste novo capítulo carregando não apenas meu passado, mas também o caminho que você faz em lugares desertos. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Isaías 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "Almeida",
+              "text": "Não vos lembreis das coisas passadas, nem considereis as antigas. Eis que faço coisas novas... e abro caminho no deserto e rios no ermo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Dia 7",
+      "title": "O Trabalho Sagrado Termina em Rendição Mais Profunda",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Almeida",
+            "text": "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Esta jornada de começar de novo não se propõe terminar com, \"Agora tenho reconstruído lindamente,\" ou, \"Agora finalmente entendo o futuro inteiro.\" Seu término mais profundo é mais simples e mais santo: após perda, mudança, incerteza, e reconstrução, uma mulher se torna mais capaz de dizer, Senhor, te seguirei.",
+            "Isto não é resignação passiva. É confiança formada através de incerteza vivida.",
+            "Provérbios diz, \"Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.\" É frequentemente aí que os começos sagrados levam. Não para maior controle, mas para maior rendição. Não para domínio total do futuro, mas para disposição mais firme de caminhar com Cristo dentro dele.",
+            "**O fruto mais profundo de começar de novo frequentemente não é melhor autogestão, mas discipulado mais profundo.** Portanto, termine aqui com uma oração simples: Senhor, não conheço tudo, mas estou disposta a ir com você. Para uma mulher no limiar, isto já é fé profunda."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada porque este trabalho sagrado não termina em maior controle, mas em seguimento mais profundo. Você sabe quanto ainda não conheço, e sabe como minha sensação do futuro permanece incompleta. Ainda assim você não espera por compreensão perfeita antes de me chamar. Hoje me ofereço a você novamente e digo, Senhor, te seguirei. Mantenha-me de imaginar fé como possessão de respostas completas. Ensine-me em vez a entender fé como disposição de caminhar com você antes de todas as respostas chegarem. Deixe o fim deste novo começo não ser que eu tenho ficado impressionante, mas que tenho ficado mais pronta a segui-lo. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Almeida",
+              "text": "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento. Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

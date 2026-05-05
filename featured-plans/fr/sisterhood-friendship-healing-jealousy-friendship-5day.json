@@ -1,0 +1,382 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI20",
+    "slug": "healing-jealousy-friendship",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rôles et Identité",
+      "secondary": "sisterhood-friendship",
+      "secondary_label": "Sororité et Amitié"
+    },
+    "tags": [
+      "amitie",
+      "sororite",
+      "communaute",
+      "jalousie",
+      "soutien",
+      "aiguiser"
+    ],
+    "title": "Guérir la Jalousie dans l'Amitié",
+    "subtitle": "Quand la comparaison s'insinue silencieusement dans la relation",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "aspirant à l'amitié",
+        "guérison de la jalousie",
+        "cherchant la communauté"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces cinq jours vous aident à affronter la jalousie, le déséquilibre et la sensibilité dans l'amitié afin que l'amour redevienne plus pur.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#D8C8E0",
+      "color_secondary": "#4A2C5A",
+      "image_key": "cover_two_women_walking_warm_evening",
+      "icon": "two-hands-clasped-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Jacques 3:16",
+        "book_code": "JAS",
+        "chapter": 3,
+        "verses": "16"
+      },
+      {
+        "display": "Philippiens 2:3",
+        "book_code": "PHP",
+        "chapter": 2,
+        "verses": "3"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "La Jalousie Est Souvent Plus une Blessure qu'une Haine",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jacques 3:16",
+            "book_code": "JAS",
+            "chapter": 3,
+            "verses": "16",
+            "translation": "Louis Segond 1910",
+            "text": "Où il y a de la jalousie et de la chicane, là il y a du désordre..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Ce qui rend la jalousie difficile en amitié, ce n'est pas seulement qu'elle crée de l'amertume, c'est qu'elle crée de la honte. Nous aimons sincèrement notre amie et nous lui souhaitons du bien, pourtant quand elle réussit vraiment, que tout le monde la voit, qu'elle possède exactement ce que nous désirions, notre cœur se resserre. Le moment le plus troublant n'est souvent pas « elle a » mais « comment puis-je réagir comme cela ». Alors beaucoup de gens commencent par se culpabiliser, se reprochant de ne pas être assez spirituelle, pas assez généreuse.",
+            "Mais bien souvent, la jalousie n'est pas d'abord une méchanceté. C'est une blessure, une pénurie, et la peur d'être surpassée. Le succès de votre amie a peut-être touché un endroit fragile en vous. Dieu n'a pas peur de cette réaction cachée. Il n'a pas besoin que vous vous présentiez comme une personne émotionnellement équilibrée avant de vous écouter. En vérité, la guérison commence souvent quand nous cessons de nier la blessure sous la jalousie.",
+            "Jacques nous avertit que la jalousie crée le désordre, ce qui signifie que la jalousie ne doit pas rester cachée et grandir. Mais la première étape pour s'en occuper n'est pas de prétendre ne pas la ressentir. C'est de la nommer honnêtement afin que Dieu puisse atteindre la blessure plus profonde qu'elle révèle. Parfois, l'acuité que vous ressentez envers la bénédiction d'une autre personne n'est vraiment que du chagrin concernant votre propre manque.",
+            "**Être blessée par la luminosité d'une amie ne signifie pas automatiquement que vous êtes cruelle.** Apportez cet inconfort à Dieu aujourd'hui. Laissez-le toucher non seulement l'envie, mais la douleur qui la soutient. Vous n'avez pas besoin de vous présenter comme « quelqu'un sans jalousie » pour que Dieu veuille bien écouter votre prière."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je vous présente la jalousie et l'inconfort dans l'amitié que j'ai à peine envie d'admettre. Ne les laissez pas rester cachés et se développer. Guérissez-moi avec douceur à cet endroit. Faites aussi briller votre lumière sur la comparaison et la blessure que j'aimerais plutôt cacher, afin que je n'essaie pas de me gérer par la suppression, mais que j'apprenne l'honnêteté et la pureté devant vous. Merci de ne pas être rebutée par ma faiblesse, mais de vouloir bien m'approcher, me soutenir et continuer à me enseigner. Apprenez-moi non seulement à vous présenter mon besoin, mais aussi à reposer mon cœur dans votre grâce et votre vérité. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jacques 3:16",
+              "book_code": "JAS",
+              "chapter": 3,
+              "verses": "16",
+              "translation": "Louis Segond 1910",
+              "text": "Où il y a de la jalousie et de la chicane, là il y a du désordre..."
+            },
+            {
+              "display": "Psaume 139:23",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "23",
+              "translation": "Louis Segond 1910",
+              "text": "Ô Dieu, sonde-moi..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "La Comparaison Rend l'Amitié Oppressante",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Galates 5:26",
+            "book_code": "GAL",
+            "chapter": 5,
+            "verses": "26",
+            "translation": "Louis Segond 1910",
+            "text": "Ne soyons pas désireux de vaine gloire... envieux les uns des autres."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Une fois que la comparaison entre dans l'amitié, l'espace dans la relation devient oppressant.",
+            "En surface, nous continuons à discuter, à nous voir, à nous soucier l'une de l'autre, mais intérieurement, quelque chose s'est décalé. Qui semble plus admirée, plus sûre d'elle, plus heureuse, plus aimée, plus établie? Ces pensées ne deviennent pas toujours des phrases complètes. Elles viennent sous forme d'une légère contraction quand votre amie partage une bonne nouvelle, ou d'une subtile pression à vous assurer que vous aussi avez l'air bien. On rivalise inconsciemment.",
+            "C'est pourquoi la comparaison endommage silencieusement l'amitié. Elle crée non seulement de l'envie, mais elle rend le cœur circonspect. Vous devenez plus consciente de votre apparence devant elle. Vous commencez à protéger votre image dans la relation. Et quand cela arrive, l'amitié perd sa liberté. L'amour était censé circuler librement, mais la comparaison l'interrompt constamment avec cette question cachée: suis-je en train de perdre du terrain?",
+            "Galates nous avertit de ne pas désirer vainement et d'être rongés d'envie l'un envers l'autre. Philippiens parle aussi contre la vaine gloire. Ces versets révèlent quelque chose d'important: ce que nous appelons parfois la douleur de l'amitié est aussi de la douleur d'image. Nous avons peur non seulement de perdre la proximité. Nous avons peur d'avoir l'air moins bien.",
+            "Parfois, le cœur peut tenir à la fois la gratitude et l'inconfort. Dieu est capable de traiter les deux, et avec le temps, il peut détacher le nœud entre eux.",
+            "**La comparaison rend l'amour moins libre.** Demandez à Dieu aujourd'hui si une compétition silencieuse s'est glissée dans votre amitié. Non pas pour que vous vous blâmiez, mais pour que la relation puisse à nouveau respirer dans la vérité."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, si j'ai secrètement commencé à comparer ou à rivaliser avec mon amie, montrez-moi. Faites sortir mon cœur de la vanité et de la défensive. Purifiez ce qui est sensible, orgueilleux, sur ses gardes ou blessé en moi dans cette amitié. Aidez-moi à parler honnêtement et à écouter avec douceur, afin que cette relation devienne plus pleinement un lieu par lequel votre grâce peut circuler. Merci de ne pas être rebutée par ma faiblesse, mais de vouloir bien m'approcher, me soutenir et continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Galates 5:26",
+              "book_code": "GAL",
+              "chapter": 5,
+              "verses": "26",
+              "translation": "Louis Segond 1910",
+              "text": "Ne soyons pas désireux de vaine gloire... envieux les uns des autres."
+            },
+            {
+              "display": "Philippiens 2:3",
+              "book_code": "PHP",
+              "chapter": 2,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "Ne faites rien par vanité..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "L'Honnêteté Guérit Plus que la Suppression",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Jean 1:7",
+            "book_code": "1JN",
+            "chapter": 1,
+            "verses": "7",
+            "translation": "Louis Segond 1910",
+            "text": "Si nous marchons dans la lumière..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Face à la jalousie, au déséquilibre et à la blessure dans l'amitié, notre première réaction n'est souvent pas l'honnêteté, mais la suppression.",
+            "Cela vient en partie parce que nous ne nous aimons pas quand nous sommes comme cela. Nous voulons être généreux, mature spirituellement, sincèrement heureux pour nos amies. Nous ne voulons pas admettre que nous pouvons aussi être sensibles, possessifs, resentants ou intérieurement froids. La suppression semble plus propre. Si nous ne l'exprimons pas, peut-être disparaîtra-t-elle. Mais la douleur non exprimée disparaît rarement. Elle s'installe généralement dans la relation d'une autre manière: la distance, l'acuité, le retrait émotionnel, des commentaires passifs, ou une lente réticence à rester ouverte.",
+            "L'Écriture nous encourage rarement à vivre dans ce genre de relation « comme si de rien n'était ». 1 Jean dit que si nous marchons dans la lumière, nous avons communion les uns avec les autres. Le Psaume 62 nous invite à répandre notre cœur devant Dieu. La lumière ne signifie pas arriver impeccable. Elle signifie refuser de continuer à vivre caché. Pour l'amitié, c'est particulièrement important, car beaucoup de relations ne se brisent pas par une crise manifeste. Elles s'érodent par de longues saisons de vérité non exprimée.",
+            "Cela peut devenir un point de croissance important pour nous aussi. Au lieu de simplement dire « je ne devrais pas ressentir cela », nous commençons à nous demander: pourquoi cela me fait-il tellement mal? Suis-je jalouse, ou je me sens-je oubliée? Suis-je menacée par sa bénédiction, ou cela expose-t-il un manque que je n'ai jamais apporté à Dieu? Les questions honnêtes créent de l'espace pour la guérison que le déni ne pourra jamais créer.",
+            "**Être blessée qui est vue est une blessure qui peut être guérie.** Dites clairement à Dieu aujourd'hui où l'amitié est devenue douloureuse pour vous. Apporter votre désordre à la lumière peut être la première étape pour rendre l'amour pur à nouveau."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, ne me laissez pas simplement réprimer ma jalousie et ma blessure. Donnez-moi l'honnêteté et la lumière, afin que je puisse être mise en ordre et guérie devant vous. Purifiez ce qui est sensible, orgueilleux, sur ses gardes ou blessé en moi dans cette amitié. Aidez-moi à parler honnêtement et à écouter avec douceur, afin que cette relation devienne plus pleinement un lieu par lequel votre grâce peut circuler. Merci de ne pas être rebutée par ma faiblesse, mais de vouloir bien m'approcher, me soutenir et continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Jean 1:7",
+              "book_code": "1JN",
+              "chapter": 1,
+              "verses": "7",
+              "translation": "Louis Segond 1910",
+              "text": "Si nous marchons dans la lumière..."
+            },
+            {
+              "display": "Psaume 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Répandez devant lui votre cœur..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "L'Amour Véritable Apprend à Se Réjouir du Bien de son Amie",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Corinthiens 13:4-6",
+            "book_code": "1CO",
+            "chapter": 13,
+            "verses": "4-6",
+            "translation": "Louis Segond 1910",
+            "text": "La charité n'est pas envieuse... elle se réjouit de la vérité."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Se réjouir sincèrement du bien d'une amie demande souvent plus de travail spirituel que nous ne l'imaginons.",
+            "Non pas parce que nous ne l'aimons pas, mais parce que nos cœurs ne sont pas toujours complètement libres de la pénurie. Quand votre amie reçoit quelque chose que vous avez profondément désiré pour vous-même, la célébration devient plus qu'une bonne manière. Elle devient une formation. Peut-être est-elle entrée dans une relation pendant que vous attendez encore. Peut-être que son travail prospère pendant que le vôtre semble stagnant. Peut-être qu'elle semble naturellement aimée et choisie d'une manière qui vous fait silencieusement souffrir. À ces moments, le cœur peut se serrer avant de s'ouvrir.",
+            "Romains nous dit de nous réjouir avec ceux qui se réjouissent, et 1 Corinthiens dit que l'amour n'est pas jaloux. Ces versets ne sont pas destinés à nous faire honte en prétendant. Ils sont des invitations vers un amour plus libre. La bénédiction d'une autre femme ne diminue pas votre portion devant Dieu. La luminosité de votre amie ne rend pas sa sollicitude pour vous moins brillante. Nous apprenons à nous réjouir non pas parce que nous ne souffrons pas, mais parce que nous commençons à faire confiance au fait que la bonté de Dieu n'est pas une provision limitée.",
+            "J'aime voir cela comme une expansion de l'amour. Au début, le cœur peut n'avoir de place que pour sa propre déception. Mais Dieu peut lentement l'élargir afin que nous puissions tenir les deux vérités à la fois: je désire toujours quelque chose, et je peux aussi vous remercier pour ce que mon amie a reçu. C'est un amour formé, non faux.",
+            "**La luminosité d'une amie ne rend pas le don de Dieu pour vous moins brillant.** Remerciez Dieu aujourd'hui pour une bonne chose dans la vie de votre amie, même si vos sentiments ne vous suivent pas encore tout à fait. Laissez la gratitude devenir l'une des façons dont il détache l'emprise de la comparaison."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, rendez mon amour pur à nouveau. Aidez-moi à ne pas voir la bénédiction de mon amie comme une menace, et enseignez-moi à me réjouir avec sincérité au fil du temps. Donnez-moi du discernement et des limites saines, afin que ma douceur ne devienne pas une auto-trahison et que mon amour ne coûte pas mon intégrité. Merci de ne pas être rebutée par ma faiblesse, mais de vouloir bien m'approcher, me soutenir et continuer à m'enseigner. Purifiez ce qui est sensible, orgueilleux, sur ses gardes ou blessé en moi dans cette amitié. Aidez-moi à parler honnêtement et à écouter avec douceur, afin que cette relation devienne plus pleinement un lieu par lequel votre grâce peut circuler. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Corinthiens 13:4-6",
+              "book_code": "1CO",
+              "chapter": 13,
+              "verses": "4-6",
+              "translation": "Louis Segond 1910",
+              "text": "La charité n'est pas envieuse... elle se réjouit de la vérité."
+            },
+            {
+              "display": "Romains 12:15",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "15",
+              "translation": "Louis Segond 1910",
+              "text": "Réjouissez-vous avec ceux qui se réjouissent..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "L'Humilité Laisse l'Amitié Respirer à Nouveau",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Philippiens 2:3",
+            "book_code": "PHP",
+            "chapter": 2,
+            "verses": "3",
+            "translation": "Louis Segond 1910",
+            "text": "Avec humilité..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup des endroits les plus serrés dans l'amitié ne sont finalement pas desserrés par l'argumentation, mais par l'humilité.",
+            "L'humilité importe parce qu'elle commence à éloigner la relation de l'orbite constante du moi: ma blessure, ma réputation, ma position, ma peur de perdre, mon besoin d'être comprise en premier. Quand l'amitié est déjà devenue douloureuse, le moi se place naturellement au centre. Nous rejoignons notre propre blessure, notre propre défensive, notre propre version de ce qui s'est passé. C'est un peu humain. Mais si l'amour doit jamais respirer à nouveau, quelqu'un doit finalement s'adoucir devant Dieu.",
+            "L'Écriture dit que Dieu donne sa grâce aux humbles. Philippiens nous appelle à l'humilité. L'humilité ne signifie pas effacer votre douleur ou prétendre que vous ne comptez pas. Cela signifie descendre du trône intérieur et admettre que vos sentiments, bien que réels, peuvent ne pas être la vérité entière. Cela signifie être disposée à laisser Dieu réorganiser la façon dont vous aimez. Un cœur humble n'est pas un cœur sans émotion. C'est un cœur qui n'est plus gouverné par l'émotion seule.",
+            "Je pense que c'est particulièrement nécessaire dans l'amitié adulte, où les relations s'effondrent souvent non pas à cause d'une trahison dramatique, mais parce que les deux personnes deviennent de plus en plus incapables de céder, de s'adoucir ou de revisiter l'histoire avec grâce. L'humilité ne garantit pas la réparation, mais elle fait place à la miséricorde, à une vision plus claire et à la liberté de l'autoprotection sans fin.",
+            "**L'humilité ne vous rend pas plus petite. Elle rend l'amour plus libre.** Apportez devant Dieu l'endroit le plus serré de votre amitié aujourd'hui, et demandez-lui ce genre de douceur qui ne diminue pas la vérité, mais libère l'amour de l'emprise de l'orgueil."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, accordez-moi de l'humilité. Ne me laissez pas vivre seulement de ma propre douleur, de mes propres comparaisons et de ma propre position. Ramenez-moi et cette amitié vers la liberté en vous. Purifiez ce qui est sensible, orgueilleux, sur ses gardes ou blessé en moi dans cette amitié. Aidez-moi à parler honnêtement et à écouter avec douceur, afin que cette relation devienne plus pleinement un lieu par lequel votre grâce peut circuler. Merci de ne pas être rebutée par ma faiblesse, mais de vouloir bien m'approcher, me soutenir et continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Philippiens 2:3",
+              "book_code": "PHP",
+              "chapter": 2,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "Avec humilité..."
+            },
+            {
+              "display": "Jacques 4:6",
+              "book_code": "JAS",
+              "chapter": 4,
+              "verses": "6",
+              "translation": "Louis Segond 1910",
+              "text": "Dieu s'oppose aux orgueilleux, mais il accorde sa grâce aux humbles."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG08",
+    "slug": "unspoken-hurt-hardens-heart",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "anger-bitterness",
+      "secondary_label": "Colère et Amertume"
+    },
+    "tags": [
+      "colere",
+      "amertume",
+      "pardon",
+      "limites",
+      "guerison"
+    ],
+    "title": "Quand la blessure silencieuse commence à durcir le cœur",
+    "subtitle": "Pour celui dont la douleur enfouie s'est peu à peu refermée sur elle-même, et dont le cœur commence à se protéger.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "en colère",
+        "amère",
+        "blessée"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour celui dont la douleur enfouie s'est peu à peu refermée sur elle-même, et dont le cœur commence à se protéger.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#E0BCA0",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_open_field_evening_anger_softening",
+      "icon": "softening-stone-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Éphésiens 4:26-27",
+        "book_code": "EPH",
+        "chapter": 4,
+        "verses": "26-27"
+      },
+      {
+        "display": "Ézéchiel 36:26",
+        "book_code": "EZK",
+        "chapter": 36,
+        "verses": "26"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "La colère enfouie ne disparaît pas simplement",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Éphésiens 4:26-27",
+            "book_code": "EPH",
+            "chapter": 4,
+            "verses": "26-27",
+            "translation": "Louis Segond 1910",
+            "text": "Irascez-vous et ne péchez point; que le soleil ne se couche point sur votre colère, et ne donnez pas accès au diable."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Il y a des moments où la colère n'est pas une explosion soudaine, mais quelque chose qui s'accumule lentement. Quelqu'un dit une parole blessante, ou omet ce qui vous importe, ou trahit une confiance, et vous apprenez à sourire plutôt que de dire comment vous vous sentez vraiment. Peut-être que montrer sa blessure semblait dangereux. Peut-être que vous aviez peur de déranger la paix. Ou peut-être que vous pensiez que la colère disparaîtrait si vous la gardez simplement suffisamment longtemps en silence. Mais la colère silencieuse ne s'en va pas. Elle change de forme. Elle descend plus profondément à l'intérieur.",
+            "À la surface, vous pouvez sembler à peu près normal. Vous riez quand il faut. Vous faites les choses. Mais à l'intérieur, quelque chose commence à se durcir. Vous remarquez que votre cœur répond plus rapidement aux petites choses maintenant. Vous vous trouvez à relire une conversation, ou à préparer une réponse que vous ne donnerez jamais. La blessure qui a été gardée enfouie commence à teinter tout le reste—les conversations, les relations, même votre prière. **Ce n'est pas la douleur elle-même qui vous pèse le plus, mais d'avoir dû la garder.**",
+            "L'Écriture reconnaît cela avec gentillesse. Éphésiens dit : « Irascez-vous et ne péchez point. » Cela ne dit pas ne pas être fâché. Cela dit être honnête à ce sujet. « Que le soleil ne se couche point sur votre colère. » Le Psaume 39 est encore plus tendre. Le psalmiste dit qu'il gardait le silence, ne parlant pas de sa douleur, et en conséquence « ma douleur s'accroissait ». Il y a une sagesse là-dedans—le fait que retenir la douleur ne la résout pas, cela l'accumule.",
+            "**Le premier pas pour que le cœur se réchauffe à nouveau est souvent très simple : dire la vérité à quelqu'un d'autre.** Pas pour accuser. Pas pour blesser en retour. Simplement pour que votre cœur ne soit plus seul avec la blessure. Cela peut être à un ami de confiance, à un conseiller, ou finalement à Dieu. Mais la colère enfouie a besoin de lumière—non pas pour être jugée, mais pour commencer à guérir."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, j'ai gardé ma douleur enfouie en silence pendant si longtemps que je commence à peine à sentir combien elle a affecté mon cœur. Je pensais que retenir la colère était une forme de maturité ou de paix, mais je vois maintenant que cela m'a seulement durcie. Pardonne-moi de choisir le silence au lieu de la sincérité. Donne-moi le courage de nommer ma douleur—non pas pour blesser, mais pour que mon cœur puisse commencer à se détendre à nouveau. Aide-moi à voir que l'honnêteté est le premier chemin vers la guérison. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Éphésiens 4:26-27",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "26-27",
+              "translation": "Louis Segond 1910",
+              "text": "Irascez-vous et ne péchez point; que le soleil ne se couche point sur votre colère, et ne donnez pas accès au diable."
+            },
+            {
+              "display": "Psaume 39:2-3",
+              "book_code": "PSA",
+              "chapter": 39,
+              "verses": "2-3",
+              "translation": "Louis Segond 1910",
+              "text": "Je gardais le silence; je restais muet, sans consolation; ma douleur s'accroissait. Mon cœur s'échauffait au dedans de moi, et en méditation le feu s'allumait."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Je repasse cela en revue parce que la blessure est toujours à vif",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Hébreux 12:15",
+            "book_code": "HEB",
+            "chapter": 12,
+            "verses": "15",
+            "translation": "Louis Segond 1910",
+            "text": "Veillez à ce que personne ne se prive de la grâce de Dieu; à ce qu'aucune racine d'amertume ne pousse et ne cause du trouble, et à ce que plusieurs n'en soient souillés."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Quand la douleur n'a pas été accueillie, elle trouve des façons de rester. Vous repassez la conversation en revue—non pas une fois, mais encore et encore. Chaque fois que vous replongez dedans, vous remarquez quelque chose de nouveau. La façon dont il vous a regardé. Le ton qu'il a utilisé. Les paroles que vous auriez pu dire. C'est comme si votre esprit pensait que si seulement vous pouviez bien comprendre ce qui s'est passé, vous pourriez le rendre moins réel.",
+            "Mais c'est une piste qui ne mène nulle part. **La raison pour laquelle vous repassez cela en revue n'est pas que vous avez besoin de mieux comprendre. C'est que la blessure elle-même n'a pas été adressée.** Pendant ce temps, chaque fois que vous replongez, vous vous y infligez à nouveau. La douleur qui devrait s'atténuer avec le temps reste fraîche. La cicatrice n'a pas de chance de se former.",
+            "Hébreux met en garde contre « une racine d'amertume ». Une racine grandit sous la surface. On ne la voit pas tous les jours, mais elle se nourrit, s'étend, et finalement elle affecte l'arbre entier. C'est ce qu'une blessure non traitée fait dans le cœur. Elle commence à colorer la façon dont vous voyez les gens, dont vous confiez, dont vous aimez. Vous devenez plus prudent. Moins généreux. Un peu plus froid.",
+            "**Votre cœur a besoin d'être « gardé », comme le dit Proverbes, car de lui viennent les sources de la vie.** Cela signifie parfois arrêter de revasser dans la douleur et commencer à chercher la guérison. Parfois, cela signifie pardonner, même si la blessure est encore réelle. Pas pour excuser ce qui s'est passé, mais pour libérer votre cœur de porter le poids seul."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je vois comment cette douleur s'est enracinée en moi. Je la replasse en revue encore et encore, espérant que cela me la rendra plus supportable—mais elle ne fait que devenir plus fraîche, plus vive. Aide-moi à cesser de nourrir cette blessure par la rumination et à commencer à la laisser guérir. Donne-moi la grâce de pardonner—non pas parce que ce qui a été fait était juste, mais parce que mon cœur ne peut pas rester sain s'il reste enfermé avec la colère. Protège mon cœur. Guéris ses racines. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Hébreux 12:15",
+              "book_code": "HEB",
+              "chapter": 12,
+              "verses": "15",
+              "translation": "Louis Segond 1910",
+              "text": "Veillez à ce que personne ne se prive de la grâce de Dieu; à ce qu'aucune racine d'amertume ne pousse et ne cause du trouble, et à ce que plusieurs n'en soient souillés."
+            },
+            {
+              "display": "Proverbes 4:23",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23",
+              "translation": "Louis Segond 1910",
+              "text": "Garde ton cœur plus que toute autre chose, car de lui viennent les sources de la vie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Parfois, la colère me dit que ma limite a été franchie",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Matthieu 10:16",
+            "book_code": "MAT",
+            "chapter": 10,
+            "verses": "16",
+            "translation": "Louis Segond 1910",
+            "text": "Voici, je vous envoie comme des brebis au milieu des loups; soyez donc prudents comme les serpents, et simples comme les colombes."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Toute la colère n'est pas une douleur enterrée qu'il faut relâcher. Parfois, la colère vous dit quelque chose de plus vrai : que votre limite a été croisée, ou que vous avez été traité de manière injuste, ou que quelqu'un que vous aimiez a abusé de votre confiance. La colère, dans ces moments-là, n'est pas un péché. C'est un signal. C'est votre âme vous disant qu'il y a quelque chose ici qui a besoin de changer.",
+            "**La sagesse consiste à savoir la différence entre la colère qui vous protège et la colère qui vous détruit.** Matthieu dit être « sage comme les serpents »—assez prudents pour voir les menaces, assez courageux pour les nommer. Un cœur qui a appris à ignorer ses propres limites peut sembler doux, mais ce n'est pas de la douceur. C'est de l'abandon de soi. C'est de la peur.",
+            "Si la colère que vous ressentez naît d'une limite réelle franchie, alors cette colère mérite une réponse honnête. Cela ne signifie pas faire du mal en retour. « Une réponse douce apaise la fureur », dit Proverbes. Cela signifie nommer ce qui s'est passé, établir ce dont vous avez besoin pour que cela ne se reproduise pas, et peut-être même établir une limite clairement. Pardonner ne signifie pas permettre à quelqu'un de vous traiter sans respect.",
+            "**La colère que vous refusez de nommer peut vous écraser. Mais la colère que vous accueillez avec honnêteté peut vous redresser.** Elle peut vous enseigner à vous respecter à nouveau. Elle peut vous montrer où vous aviez abandonné votre propre bien-être pour une paix qui n'était pas vraie. Écoutez ce que votre colère essaie de vous enseigner."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, j'ai appris à refuser ma propre colère pour rester en paix avec les autres. Mais aujourd'hui tu me montres que parfois la colère est juste—qu'elle me dit où ma limite a été franchie, où je me suis abandonné. Aide-moi à écouter ma colère sans la laisser me diriger. Donne-moi la sagesse de savoir quand dire non, quand protéger mon cœur, et quand établir une limite avec amour. Enseigne-moi que respecter moi-même est aussi une forme de respect pour toi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Matthieu 10:16",
+              "book_code": "MAT",
+              "chapter": 10,
+              "verses": "16",
+              "translation": "Louis Segond 1910",
+              "text": "Voici, je vous envoie comme des brebis au milieu des loups; soyez donc prudents comme les serpents, et simples comme les colombes."
+            },
+            {
+              "display": "Proverbes 15:1",
+              "book_code": "PRO",
+              "chapter": 15,
+              "verses": "1",
+              "translation": "Louis Segond 1910",
+              "text": "Une réponse douce apaise la fureur, mais une parole dure excite la colère."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Le pardon ne rend pas la douleur plus petite",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Colossiens 3:13",
+            "book_code": "COL",
+            "chapter": 3,
+            "verses": "13",
+            "translation": "Louis Segond 1910",
+            "text": "Supportez-vous les uns les autres, et, si l'un a sujet de se plaindre de l'autre, pardonnez-vous réciproquement... de même que Christ vous a pardonné, pardonnez-vous aussi."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Quelque part en chemin, beaucoup de gens ont entendu dire que le pardon signifie que la douleur disparaît—ou qu'il devrait disparaître. Comme si pardonner était un sortilège qui rendait la blessure insignifiante, ou non essentiellement vraie. Mais ce n'est pas ce qu'est le pardon. **Le pardon ne rend pas la douleur plus petite. Cela vous permet juste de cesser d'y être attaché.**",
+            "C'est important parce qu'ils beaucoup de gens restent avec leurs blessures non pardonnées, en attendant que la douleur s'amoindrisse avant de pardonner. Ils attendent les excuses. Ils attendent la compréhension. Ils attendent de se sentir mieux à ce sujet. Mais ce qui rend généralement la douleur plus petite n'est pas le temps ou les excuses—c'est de poser finalement celle-ci. Et le pardon est la façon de le poser.",
+            "Colossiens parle de « supporter l'un l'autre et de se pardonner les uns les autres »—comme si le pardon était un acte de soutien, pas de condamnation de ce qui s'est passé. Puis il dit « de même que Christ vous a pardonné ». Jésus nous pardonne non pas parce que nous ne nous sommes pas fait de mal à nous-mêmes et aux autres, mais malgré cela. Sa mort prend nos péchés. Son pardon ne nie pas ce que nous avons fait; il nous libère du poids de le porter.",
+            "**Le pardon n'est pas l'oubli. Ce n'est pas un rêve que ce n'est pas arrivé. C'est quelque chose de plus courageux—c'est nommer ce qui s'est passé et choisir de ne plus y être lié.** Cela signifie cesser de chercher une réparation qui ne viendra peut-être jamais. Cela signifie arrêter de nourrir l'histoire de la façon dont vous avez été mal traité. Cela signifie redresser votre colère et l'offrir à Dieu. Et quelque part en chemin, vous commencez à respirer à nouveau."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, tu as pardonné à ceux qui t'ont fait du mal avant même qu'ils ne demandent. Mais le pardon que je dois donner semble si difficile. Je veux que celui qui m'a blessé comprenne à quel point cela m'a affecté. Je veux que ma douleur lui importe. Mais je vois que je suis en train d'attendre quelque chose qui peut ne jamais venir. Aide-moi à pardonner—non pas parce que ce qui s'est passé ne compte pas, mais parce que mon cœur ne peut pas rester libre s'il reste attaché à ma blessure. Montre-moi comment lâcher prise. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Colossiens 3:13",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "13",
+              "translation": "Louis Segond 1910",
+              "text": "Supportez-vous les uns les autres, et, si l'un a sujet de se plaindre de l'autre, pardonnez-vous réciproquement... de même que Christ vous a pardonné, pardonnez-vous aussi."
+            },
+            {
+              "display": "Luc 23:34",
+              "book_code": "LUK",
+              "chapter": 23,
+              "verses": "34",
+              "translation": "Louis Segond 1910",
+              "text": "Jésus dit: Père, pardonne-leur, car ils ne savent ce qu'ils font."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Dieu peut ramener un cœur durci à la douceur",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ézéchiel 36:26",
+            "book_code": "EZK",
+            "chapter": 36,
+            "verses": "26",
+            "translation": "Louis Segond 1910",
+            "text": "Je vous donnerai un cœur nouveau, et je mettrai en vous un esprit nouveau; j'ôterai de votre corps le cœur de pierre, et je vous donnerai un cœur de chair."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Si vous avez suivi cette semaine, il se peut que vous regardiez votre propre cœur et voyiez un peu de ce durcissement. Peut-être qu'au cours des années, garder la douleur enfouie a endurci votre cœur plus que vous ne l'aviez réalisé. Peut-être que la colère que vous aviez supprimée s'est transformée en une sorte de méfiance. Peut-être que le pardon que vous tendiez vers s'est senti trop grand à parcourir. Et maintenant votre cœur semble plus distant, plus caché, plus difficile à atteindre—même pour vous.",
+            "Mais voici la grâce : **ce n'est pas votre cœur durci qui a le dernier mot.** Ézéchiel dit quelque chose de miraculeusement tendre : « Je vous donnerai un cœur nouveau... j'ôterai de votre corps le cœur de pierre, et je vous donnerai un cœur de chair. » Remarquez qu'il ne dit pas que vous le ferez. Remarquez qu'il ne dit pas que le durcissement doit d'abord disparaître. Dieu offre simplement de le prendre—de le retirer—et de donner quelque chose de plus doux à la place.",
+            "Ce processus ne se termine généralement pas en un seul jour. Un cœur de pierre peut prendre du temps à adoucir. Mais Dieu ne demande pas à un cœur durci de simplement « faire mieux ». Il offre de transformer la chose elle-même. À partir de l'intérieur. Philippiens dit de « penser à ces choses qui sont vraies, honorables, justes, pures, aimables ». Cela n'enlève pas votre histoire. Cela signifie lentement, votre cœur commence à repérer de meilleures choses à quoi s'accrocher.",
+            "**Vous êtes autorisé à laisser Dieu faire ce travail.** Vous n'avez pas à être assez fort pour forcer votre cœur à s'ouvrir. Vous n'avez pas à résoudre complètement votre douleur ou guérir complètement votre blessure pour commencer à vous détendre à nouveau. Dieu voit votre cœur durci, et il n'a pas besoin que vous le cachiez ou l'expliquiez. Il demande juste : « Me laisseras-tu le retirer et donner quelque chose de plus doux? »"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, je suis venu si loin—du silence à la conscience, de l'enfouissement à l'honnêteté, du refus au pardon. Mais je vois que mon cœur, même maintenant, peut être difficile, prudent, un peu froid. Toutes ces défenses que j'ai construites—elles m'ont protégé une fois, mais maintenant elles me gardent aussi emprisonné. Je ne peux pas simplement me forcer à m'ouvrir à nouveau. Donc je te demande, Seigneur, fais ce que tu as promis : enlève mon cœur de pierre et donne-moi un cœur de chair. Enseigne-moi à nouveau comment sentir profondément, faire confiance doucement, aimer largement. Ramène-moi à la douceur. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ézéchiel 36:26",
+              "book_code": "EZK",
+              "chapter": 36,
+              "verses": "26",
+              "translation": "Louis Segond 1910",
+              "text": "Je vous donnerai un cœur nouveau, et je mettrai en vous un esprit nouveau; j'ôterai de votre corps le cœur de pierre, et je vous donnerai un cœur de chair."
+            },
+            {
+              "display": "Philippiens 4:8",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Au reste, frères, que tout ce qui est vrai, tout ce qui est honorable, tout ce qui est juste, tout ce qui est pur, tout ce qui est aimable, tout ce qui mérite l'approbation, soit l'objet de vos pensées."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

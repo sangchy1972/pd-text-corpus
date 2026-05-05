@@ -1,0 +1,501 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG15",
+    "slug": "slow-to-hear-god",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "weariness-burnout",
+      "secondary_label": "Lassitude et Épuisement"
+    },
+    "tags": [
+      "lassitude",
+      "epuisement",
+      "repos",
+      "berger",
+      "limites",
+      "sabbat"
+    ],
+    "title": "Ralentir assez pour entendre Dieu",
+    "subtitle": "Ces sept jours vous aident à ralentir assez pour entendre Dieu à nouveau et confier le rythme de votre vie entre Ses mains.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "lasse",
+        "épuisée",
+        "vidée"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces sept jours vous aident à ralentir assez pour entendre Dieu à nouveau et confier le rythme de votre vie entre Ses mains.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#A3C8B5",
+      "color_secondary": "#355945",
+      "image_key": "cover_woman_resting_pillow_morning_burnout",
+      "icon": "quiet-tea-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psaume 46:10",
+        "book_code": "PSA",
+        "chapter": 46,
+        "verses": "10"
+      },
+      {
+        "display": "Exode 20:8-10",
+        "book_code": "EXO",
+        "chapter": 20,
+        "verses": "8-10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Pourquoi l'immobilité me met-elle mal à l'aise ?",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 46:10",
+            "book_code": "PSA",
+            "chapter": 46,
+            "verses": "10",
+            "translation": "Louis Segond 1910",
+            "text": "Soyez tranquilles, et sachez que Je suis Dieu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certaines personnes ne résistent pas au repos parce qu'elles le détestent. Elles y résistent parce que l'immobilité est devenue étrangère. Au moment où la vie ralentit, les pensées deviennent plus fortes. L'anxiété monte. Les émotions différées remontent à la surface. L'agitation agit alors comme une anesthésie. Elle empêche les parties plus profondes du cœur d'être ressenties.",
+            "Le Psaume 46 dit : « Soyez tranquilles, et sachez que Je suis Dieu. » Le Psaume 131 offre l'image d'une âme apaisée comme un enfant reposant près de sa mère. Ensemble, ils montrent que l'immobilité n'est pas une simple inactivité. C'est un lieu de réorientation. **La lenteur est difficile non seulement parce que la vie est pleine, mais parce que le silence révèle à quel point nous sommes devenus agités.**",
+            "Beaucoup de femmes se connaissent elles-mêmes principalement en mouvement. Elles savent comment réagir, organiser, réconforter, se souvenir et porter. Elles connaissent moins qui elles sont quand rien n'est produit. C'est pourquoi le silence peut sembler étrangement vulnérable. Mais Dieu ne nous rencontre pas seulement dans l'élan. Il nous rencontre aussi dans l'immobilité.",
+            "Une partie de la guérison consiste à avoir moins peur du silence. C'est apprendre que le cœur n'a pas besoin de remplir chaque instant pour rester en sécurité. En présence de Dieu, l'immobilité n'est pas du vide. C'est l'un des lieux où l'âme commence à revenir à elle-même."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, Tu restes Dieu quand j'arrête de faire, et je T'adore pour cela. Le monde ne se tient pas par mon agitation, et ma valeur ne se maintient pas par le mouvement constant. Pardonne-moi de remplir chaque espace silencieux parce que l'immobilité est inconfortable. Apprends-moi aujourd'hui à ne pas fuir le silence, et à ne pas me presser à me réparer en lui, mais simplement à rester devant Toi. Si l'inquiétude, le vide, ou une fatigue cachée monte en moi, que Ta lumière y repose doucement. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Soyez tranquilles, et sachez que Je suis Dieu."
+            },
+            {
+              "display": "Psaume 131:2",
+              "book_code": "PSA",
+              "chapter": 131,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "Assurément, j'ai rendu mon âme tranquille et silencieuse; mon âme est en moi comme l'enfant sevré; elle est en moi comme l'enfant sevré."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Parfois la vitesse n'est pas diligence ; c'est la peur",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Luc 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "Louis Segond 1910",
+            "text": "Marthe, Marthe, tu t'inquiètes et tu te tourmentes pour beaucoup de choses ; une seule est nécessaire."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La vitesse est souvent admirée parce qu'elle ressemble à la compétence. Mais tout rythme rapide n'est pas une diligence saine. Parfois, la vitesse est la peur en vêtements respectables. Peur de prendre du retard. Peur de décevoir quelqu'un. Peur de se sentir moins utile. Peur de ce que le silence pourrait découvrir.",
+            "L'esprit pressé de Marthe est lié à un trouble intérieur, non seulement à un emploi du temps surchargé. Les Proverbes avertissent que la hâte a ses propres dangers. **Une certaine vitesse vient de l'appel, mais certaines viennent de l'anxiété. Quand la peur devient le moteur, l'épuisement n'est jamais loin.**",
+            "Cela importe parce qu'une femme peut passer des années à être louée pour des habitudes qui la creusent lentement. Elle peut sembler productive tout en vivant sous une pression discrète de continuer à prouver sa valeur. Dans ce cas, ralentir devient émotionnellement difficile parce que cela ressemble à perdre du terrain, même si le terrain n'a jamais été solide.",
+            "La paix de Dieu rejoint sous le horaire la peur qui se cache dessous. Il ne nous demande pas seulement de faire moins. Il nous enseigne à vivre sans utiliser la vitesse comme preuve que nous comptons. Quand cette peur commence à se détendre, la lenteur ne ressemble plus à l'échec. Elle commence à ressembler à la liberté."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, montre-moi les vraies forces qui me poussent. Merci de ne pas me mesurer par la vitesse, mais par le fait que je marche en vérité. Je Te loue parce que Tu ne conduis pas Tes enfants par la peur ; Tu les conduis par l'amour et la vérité. Si la peur, l'auto-protection, ou le besoin de me prouver se cache dans mon agitation, ne me laisse pas continuer à me précipiter aveuglément. Tire-moi de la servitude du besoin de rester utile à tout moment, et rends ma diligence plus libre et plus calme. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Luc 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "Louis Segond 1910",
+              "text": "Marthe, Marthe, tu t'inquiètes et tu te tourmentes pour beaucoup de choses ; une seule est nécessaire."
+            },
+            {
+              "display": "Proverbes 19:2",
+              "book_code": "PRO",
+              "chapter": 19,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "Celui qui se précipite pèche."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Ralentir n'est pas du gaspillage ; c'est se réaligner",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ésaïe 30:15",
+            "book_code": "ISA",
+            "chapter": 30,
+            "verses": "15",
+            "translation": "Louis Segond 1910",
+            "text": "C'est dans le repos et dans la tranquillité que sera votre force."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens entendent « ralentis » et pensent immédiatement à l'élan perdu. La lenteur semble inefficace, peu sérieuse, ou indulgente. Mais l'Écriture présente la lenteur différemment. Ésaïe dit que la force se trouve dans la tranquillité et la confiance. Jésus parle de demeurer. Dans les deux cas, la question plus profonde n'est pas l'inactivité. C'est l'alignement.",
+            "Nous ne nous éloignons pas toujours de Dieu par rébellion. Souvent, nous nous éloignons par l'élan. Nous continuons à avancer, à finir, à réagir, et finalement découvrons que nos cœurs ne sont plus centrés même si nos vies fonctionnent encore. **Ralentir n'est pas du temps perdu quand cela aide vos motifs, direction et énergie à revenir à l'ordre de Dieu.**",
+            "Ce genre de réalignement n'a pas besoin d'être dramatique. Cela arrive parfois dans de petits seuils : une pause entre les tâches, un midi plus tranquille, une promenade sans bruit, une soirée assez honnête pour admettre que la vie vous a poussée plus dur que la grâce ne vous a menée. Ces moments peuvent sembler petits, mais ils recalibrent la vie intérieure.",
+            "La lenteur, alors, n'est pas un style. C'est une façon de revenir. Une femme qui apprend à revenir souvent ne sera pas emportée aussi facilement par l'urgence. Elle peut encore avoir beaucoup à faire, mais sa vie commencera à se mouvoir d'un centre plus stable."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je Te loue parce que la force que Tu donnes se trouve non seulement dans le mouvement, mais dans le retour. Merci qu'en dérivant, Tu me permets de revenir plutôt que de m'abandonner à la confusion. Réaligne mon cœur, et réaligne mon rythme. Si j'ai été poussée par les exigences trop longtemps, ramène-moi à Ton centre. Que je devienne une femme qui ne fait pas simplement accomplir les tâches, mais demeure en Toi même pendant qu'elle travaille. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ésaïe 30:15",
+              "book_code": "ISA",
+              "chapter": 30,
+              "verses": "15",
+              "translation": "Louis Segond 1910",
+              "text": "C'est dans le repos et dans la tranquillité que sera votre force."
+            },
+            {
+              "display": "Jean 15:4",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "4",
+              "translation": "Louis Segond 1910",
+              "text": "Demeurez en moi, et je demeurerai en vous."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Mon corps n'est pas un problème à ignorer",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Rois 19:7-8",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "7-8",
+            "translation": "Louis Segond 1910",
+            "text": "Lève-toi, et mange ; car le chemin est trop long pour toi... il se leva, mangea et but, et, fortifié par cette nourriture, il marcha quarante jours."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Il est facile de traiter le corps comme un instrument de rendement, utile seulement tant qu'il fonctionne. Mais l'Écriture ne parle pas de cette façon. Élie est nourri et autorisé à dormir. Paul dit que le corps est le temple du Saint-Esprit. Pour la personne épuisée, c'est profondément rassurant. Votre corps n'est pas un désagrément mineur entravant la vie spirituelle. C'est une partie de la vie que Dieu soigne.",
+            "Beaucoup de femmes ne négligent pas leur corps parce qu'elles le méprisent. Elles le négligent parce que quelque chose d'autre semble toujours plus urgent. Le sommeil est raccourci. Les repas deviennent bâclés. La douleur est reportée. L'épuisement est géré au lieu d'être compris. Pourtant, le corps continue de dire la vérité. **Quand le corps continue de parler par la fatigue, la douleur, l'irritabilité et l'épuisement, la maturité n'est pas l'ignorer plus habilement. C'est apprendre à l'écouter.**",
+            "Le soin de Dieu est souvent profondément ordinaire. Il soigne par la nourriture, par le sommeil, par le traitement, par les médicaments, par la lumière du soleil, par une attention médicale judicieuse, et par des gens qui nous aident à arrêter de prétendre que nous sommes moins finis que nous l'étions. Recevoir ce soin n'est pas devenir moins spirituel. C'est devenir plus honnête au sujet d'être humain.",
+            "La femme qui commence à honorer son corps ne devient pas nécessairement fragile. Elle devient authentique. Elle refuse de prouver la dévouement par l'auto-effacement. Elle permet à la bonté de Dieu de l'atteindre de manières incarnées."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Dieu créateur, merci de m'avoir donné un corps, et merci de ne pas traiter légèrement sa fatigue. Je Te loue parce que Tu prends soin des gens non seulement en esprit, mais aussi en sommeil, douleur, faim et récupération. Pardonne-moi d'avoir utilisé mon corps comme un outil jusqu'à ce qu'il soit presque usé. Apprends-moi à honorer les limites d'être créée, et laisse mon corps recevoir des soins dans Ta grâce. Si j'ai besoin d'aide, donne-moi l'humilité pour la recevoir. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Rois 19:7-8",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "7-8",
+              "translation": "Louis Segond 1910",
+              "text": "Lève-toi, et mange ; car le chemin est trop long pour toi... il se leva, mangea et but, et, fortifié par cette nourriture, il marcha quarante jours."
+            },
+            {
+              "display": "1 Corinthiens 6:19-20",
+              "book_code": "1CO",
+              "chapter": 6,
+              "verses": "19-20",
+              "translation": "Louis Segond 1910",
+              "text": "Ne savez-vous pas que votre corps est le temple du Saint-Esprit... glorifiez donc Dieu dans votre corps."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Ma valeur ne dépend pas de la production constante",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Luc 12:6-7",
+            "book_code": "LUK",
+            "chapter": 12,
+            "verses": "6-7",
+            "translation": "Louis Segond 1910",
+            "text": "Cinq moineaux ne se vendent-ils pas deux sous ? Cependant, aucun d'eux n'est oublié devant Dieu... Ne craignez donc point ; vous valez plus que beaucoup de moineaux."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup d'épuisement cache une croyance très profonde : je dois rester utile pour rester sécurisée. L'agitation devient alors plus qu'un horaire. Elle devient une preuve que vous comptez toujours. Quand vous êtes nécessaire, en train de produire, et de maintenir les choses en mouvement, vous vous sentez en sécurité. Quand vous ralentissez, l'anxiété apparaît parce que la valeur s'est liée à la production.",
+            "Jésus dit que tu vaux plus que beaucoup de moineaux. Paul dit que tu es l'ouvrage de Dieu. L'ordre est essentiel. **Les bonnes œuvres peuvent couler de votre vie, mais elles n'établissent pas votre valeur. Votre valeur commence dans la façon dont Dieu vous voit.**",
+            "C'est pourquoi le repos peut sembler si émotionnellement compliqué. Ce n'est pas toujours seulement une question de fatigue. Parfois, cela expose à quel point l'identité s'est attachée à être utile, impressionnant, ou constamment disponible. Dans ce genre de vie, s'arrêter ressemble moins au repos qu'à la disparition.",
+            "La guérison de Dieu rejoint sous la productivité à la personne. Il enseigne au cœur à se tenir dans le bien-aimé avant de se tenir dans l'utilité. La femme qui reçoit cette vérité ne devient pas paresseuse. Elle devient plus libre. Elle peut travailler avec plus de paix parce qu'elle n'essaie plus de gagner la valeur qu'elle a déjà aux yeux de Dieu."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, avant que j'accomplisse quoi que ce soit, Tu m'aimes déjà, et je T'en remercie. Je Te loue parce que ma valeur ne se décide pas par la performance, mais par le fait que je T'appartiens. Sauve-moi de la vie qui se sent sûre seulement quand je suis utile et nécessaire. Si l'agitation est devenue partie de mon identité, détruis cette illusion. Apprends-moi à me tenir d'abord comme Ton enfant bien-aimée, et ensuite à aller et à travailler fidèlement. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Luc 12:6-7",
+              "book_code": "LUK",
+              "chapter": 12,
+              "verses": "6-7",
+              "translation": "Louis Segond 1910",
+              "text": "Cinq moineaux ne se vendent-ils pas deux sous ? Cependant, aucun d'eux n'est oublié devant Dieu... Ne craignez donc point ; vous valez plus que beaucoup de moineaux."
+            },
+            {
+              "display": "Éphésiens 2:10",
+              "book_code": "EPH",
+              "chapter": 2,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Car nous sommes son ouvrage, ayant été créés en Jésus-Christ pour de bonnes œuvres."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Dieu parle souvent dans les lieux plus lents",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Rois 19:11-12",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "11-12",
+            "translation": "Louis Segond 1910",
+            "text": "L'Éternel passa, et voici, il y eut un vent fort et violent... mais l'Éternel n'était pas dans le vent... et après le feu, un murmure doux et léger."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Nous supposons souvent que Dieu parle le plus clairement à travers ce qui est dramatique. Pour cette raison, beaucoup de gens vivent dans un niveau de bruit qui ne laisse presque pas de place pour l'écoute tranquille. Pourtant, Élie rencontre Dieu non pas dans le vent, le tremblement de terre, ou le feu, mais dans une voix douce et tranquille. Pour une personne fatiguée, c'est profondément instructif. Dieu n'est peut-être pas absent. Il se peut que nos vies soient devenues trop encombrées pour bien entendre.",
+            "Jésus prend Ses disciples dans un lieu tranquille non pour qu'ils disparaissent du monde, mais pour qu'ils deviennent réceptifs à nouveau. **Certaines formes d'épuisement viennent non seulement du manque de sommeil, mais de la perte de lieux plus lents où le cœur peut vraiment écouter.**",
+            "Une femme peut continuer à lire l'Écriture, à prier et à servir tout en se déplaçant trop vite pour vraiment recevoir ce que Dieu dit. Le problème n'est pas toujours la sincérité. Parfois, c'est le rythme. Quand la vie n'a pas de marge, même la voix de Dieu peut être réduite à un bruit de fond.",
+            "La lenteur crée l'espace intérieur. Elle entraîne l'attention. Elle donne à l'âme une chance de remarquer ce qui est saint, ce qui est bruyant, et ce qui a tiré trop dur trop longtemps. Dans ce lieu plus tranquille, beaucoup de choses commencent à se mettre en ordre, non parce que la vie devient simple, mais parce que le cœur devient plus capable d'entendre."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur qui parlez, merci de ne pas vous révéler seulement dans ce qui est bruyant, mais aussi de vous rapprocher dans la tranquillité. Je Te loue parce que Tu es le Dieu du feu et le Dieu de la voix douce et tranquille. Pardonne-moi d'avoir rempli ma vie si complètement que Ta parole est étouffée par d'autres sons. Donne-moi un cœur qui écoute, et donne-moi une vie qui te laisse de la place. Apprends-moi à reconnaître ta voix à nouveau dans les lieux plus lents. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Rois 19:11-12",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "11-12",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel passa, et voici, il y eut un vent fort et violent... mais l'Éternel n'était pas dans le vent... et après le feu, un murmure doux et léger."
+            },
+            {
+              "display": "Marc 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "Louis Segond 1910",
+              "text": "Venez à l'écart dans un lieu désert, et reposez-vous un peu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "Le repos peut devenir une façon de vivre",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Exode 20:8-10",
+            "book_code": "EXO",
+            "chapter": 20,
+            "verses": "8-10",
+            "translation": "Louis Segond 1910",
+            "text": "Souviens-toi du jour du repos, pour le sanctifier... le septième jour est le jour du repos de l'Éternel, ton Dieu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens traitent le repos comme quelque chose qui appartient à un chapitre ultérieur. Après cette date limite, après cette saison, après que les enfants soient plus grands, après que la vie se calme, alors ils se rétabliront. Mais l'Écriture ne présente pas le repos comme une pensée secondaire. Le Sabbat est tissé dans la vie sainte. Jésus dit que les branches ne peuvent pas porter de fruit en dehors de la vigne, ce qui signifie que la connexion est plus fondamentale que la production.",
+            "C'est particulièrement important pour le cœur épuisé. Un soulagement temporaire peut aider, mais il ne crée pas une vie différente. **Si le repos reste quelque chose que vous espérez atteindre après que tout le reste soit fini, il ne deviendra jamais stable. Le repos devient une force quand il est incorporé à la structure de votre vie.**",
+            "Cela nous demande quelque chose de difficile. Cela nous demande d'admettre que certaines choses resteront inachevées quand nous arrêtons. Cela nous demande de faire confiance à ce que Dieu est toujours Dieu quand nos mains ne bougent plus. Pour beaucoup de femmes, cette confiance semble plus exigeante que la productivité ne l'a jamais été. Pourtant, c'est du travail saint.",
+            "Au fil du temps, une vie de Sabbat devient moins une récupération d'urgence et plus un ordre. La présence de Dieu commence à façonner la semaine. Les limites deviennent moins apologétiques. La tranquillité devient moins accidentelle. Le repos devient non pas simplement une pause de la vie, mais une partie de la forme que la vie prend sous le soin de Dieu."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de donner le repos non pas comme un luxe, mais comme une façon de vivre que Tes enfants sont invités à entrer. Je Te loue parce que Tu sais que j'ai besoin de plus qu'une récupération temporaire ; j'ai besoin de rythmes qui me gardent près de Toi. Aide-moi à arrêter de repousser le repos et de repousser la communion avec Toi. Apprends-moi à construire de vraies structures de Sabbat dans mes jours, mes semaines et mes saisons, afin que je puisse vivre sous Ta présence et Ton ordre avec plus de paix. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Exode 20:8-10",
+              "book_code": "EXO",
+              "chapter": 20,
+              "verses": "8-10",
+              "translation": "Louis Segond 1910",
+              "text": "Souviens-toi du jour du repos, pour le sanctifier... le septième jour est le jour du repos de l'Éternel, ton Dieu."
+            },
+            {
+              "display": "Jean 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "Louis Segond 1910",
+              "text": "Je suis le cep, vous êtes les sarments... car sans moi vous ne pouvez rien faire."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

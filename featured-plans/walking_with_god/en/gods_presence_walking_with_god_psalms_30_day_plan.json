@@ -1,0 +1,2173 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "PS01",
+    "slug": "walking-through-psalms",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Walking with God",
+      "secondary": "gods-presence",
+      "secondary_label": "God's Presence"
+    },
+    "tags": [
+      "gods-presence",
+      "spiritual-life",
+      "intimacy",
+      "holy-spirit",
+      "psalms",
+      "praise",
+      "prayer",
+      "worship",
+      "rhythm",
+      "30-day"
+    ],
+    "title": "Walking with God Through the Psalms",
+    "subtitle": "Learn to listen to God and respond to Him through the Psalms, bringing every season of life into worship.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "seeking-presence",
+        "praying",
+        "grieving"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "这是一份为想更深认识神、也想学会用诗篇祷告与敬拜的女性读者预备的 30 天计划。它适合正在忙碌、疲惫、渴慕、等候、感恩或需要重新把心带回神面前的人；借着 30 篇精选诗篇，帮助读者更懂诗篇怎样说话，更懂如何在真实处境中向神开口，并慢慢建立一种以聆听、祷告与颂赞为中心的属灵节奏。\n\nThis 30-day plan is for women who want more than a few comforting verses. Through 30 carefully chosen psalms, it helps readers learn how to pray honestly, worship deeply, and bring every season of life back into the presence of God. Whether you are weary, thankful, waiting, or simply longing to draw near again, this journey will help you understand the Psalms more personally and build a steadier rhythm of listening, prayer, and praise.",
+    "duration_days": 30,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → opening → teaching → today_as_you_read → additional_scriptures → prayer",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#B8C8D8",
+      "color_secondary": "#2C4A6B",
+      "image_key": "cover_woman_open_bible_morning_water",
+      "icon": "harp-and-light-circle"
+    },
+    "phases": [
+      {
+        "phase_num": 1,
+        "title": "Part One: Bringing the Heart Back to God",
+        "day_range": [
+          1,
+          7
+        ]
+      },
+      {
+        "phase_num": 2,
+        "title": "Part Two: Speaking to God in Real Circumstances",
+        "day_range": [
+          8,
+          15
+        ]
+      },
+      {
+        "phase_num": 3,
+        "title": "Part Three: Letting God Reorder the Rhythm of Life",
+        "day_range": [
+          16,
+          23
+        ]
+      },
+      {
+        "phase_num": 4,
+        "title": "Part Four: From Personal Prayer to a Life of Worship",
+        "day_range": [
+          24,
+          30
+        ]
+      }
+    ],
+    "key_verses": [
+      {
+        "display": "Psalm 1:1-3",
+        "book_code": "PSA",
+        "chapter": 1,
+        "verses": "1-3"
+      },
+      {
+        "display": "Psalm 150:1",
+        "book_code": "PSA",
+        "chapter": 150,
+        "verses": "1"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-04"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "Two Ways",
+      "subtitle": "The Psalms begin not with a song, but with a choice.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 1:1-3",
+            "book_code": "PSA",
+            "chapter": 1,
+            "verses": "1-3",
+            "translation": "KJV",
+            "text": "Blessed is the man that walketh not in the counsel of the ungodly... And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "The first day of the Psalms does not rush you into action. It brings you back to the river and teaches your heart to be planted in the Word of God."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "The Psalms do not begin with a triumphant anthem or with a desperate cry. They begin with a quiet but decisive question: which way are you walking? That matters because worship is not first a mood. It is the direction of a life. Before the Psalms teach us how to cry out, rejoice, or sing, they teach us where to stand.",
+            "Psalm 1 describes the blessed person by what she does not settle into. She does not walk in one path, stand in another, and finally sit down in a place that pulls her away from God. Instead, she delights in the law of the Lord and meditates on it day and night. Then the image changes. She becomes like a tree planted by rivers of water. Notice the word planted. Not passing by. Not visiting occasionally. Planted. Rooted deeply enough to draw life from a hidden source.",
+            "It is easy to read fruitfulness as outward success, as though faithfulness should immediately produce visible results. But Psalm 1 is more interested in rootedness than appearance. A tree bears fruit in season because it is continually nourished. It does not create life by striving. It receives life because it is planted in the right place. Psalm 1 is teaching us the first posture of a worshiper: to dwell long enough near the Word of God that His truth becomes our hidden source of life.",
+            "**What most shapes a life is not occasional effort, but the place where the heart has been planted over time.**",
+            "So the opening of the Psalms does not first hand you a spiritual to-do list. It gives you a worshiper's orientation. Before trying to say many things to God, come back and let His Word speak first. Let the river run deeper than the noise around you."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 1:6",
+              "book_code": "PSA",
+              "chapter": 1,
+              "verses": "6",
+              "translation": "KJV",
+              "text": "For the Lord knoweth the way of the righteous: but the way of the ungodly shall perish."
+            },
+            {
+              "display": "Psalm 92:12-13",
+              "book_code": "PSA",
+              "chapter": 92,
+              "verses": "12-13",
+              "translation": "KJV",
+              "text": "The righteous shall flourish like the palm tree... Those that be planted in the house of the Lord shall flourish in the courts of our God."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, You are my true source and the place where my life can finally be planted in peace. Thank You that You do not ask me to prove my fruitfulness before You welcome me near. You invite me first to come back, to be rooted again in Your Word. I confess that I often look elsewhere for steadiness. I reach for approval, control, and visible success, hoping they will hold me together. Gently bring me back to the deep water of Your presence. Teach my heart not merely to visit You, but to remain in You. Let Your Word become life to me again, and grow in me the kind of fruit that only Your grace can bring. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "What Is Man",
+      "subtitle": "Under the heavens, we see both our smallness and God's tender regard.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 8:3-5",
+            "book_code": "PSA",
+            "chapter": 8,
+            "verses": "3-5",
+            "translation": "KJV",
+            "text": "When I consider thy heavens, the work of thy fingers... What is man, that thou art mindful of him? and the son of man, that thou visitest him?"
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 8 teaches us to look up, so that in God's vastness we not only see our smallness, but also learn the astonishment of worship."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 8 feels like a pause beneath the night sky. David looks up at the moon and the stars, and suddenly the human voice becomes quieter while the glory of God becomes larger. This is one of the ways the Psalms train us to worship: not by beginning with ourselves, but by lifting our eyes first.",
+            "David looks at the moon and the stars and then asks, “What is man, that thou art mindful of him?” This is not self-hatred. It is honest scale. In the presence of a God who stretched out the heavens, human life feels small. Yet David does not end there. The wonder of the psalm is that the same God who made the night sky also remembers people, visits them, and crowns them with dignity. Our smallness is real, but so is His regard.",
+            "Psalm 8 does not steady us by making us feel larger. It steadies us by revealing God as larger. We are not the center of everything, and yet we are not forgotten. Our smallness is real, but so is His regard. And because His majesty is so great, His mindfulness of humanity becomes even more wondrous.",
+            "**Worship does not erase our limits. It teaches us how to rest inside them while being fully held by God.**",
+            "This psalm also reminds us that human dignity is received before it is achieved. Honor, calling, and worth are given by the Creator. But the deeper destination of the psalm is still worship: “O Lord our Lord, how excellent is thy name in all the earth!” When we truly see His greatness, we do not merely feel comforted. We begin to adore Him. Today, do not hurry past the sky. Look up long enough to let wonder become worship."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 8:9",
+              "book_code": "PSA",
+              "chapter": 8,
+              "verses": "9",
+              "translation": "KJV",
+              "text": "O Lord our Lord, how excellent is thy name in all the earth!"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, how excellent is Your name in all the earth. The heavens bear witness to Your glory, and yet You are still mindful of me. Thank You that Your greatness does not make me less seen, but more deeply held. Forgive me for the ways I keep looking to performance, recognition, or control to feel significant. Set my heart in order again beneath Your majesty. Teach me that I do not need to enlarge myself in order to matter. I am remembered because You remember me. Let my smallness become a place of rest rather than fear, and let my heart return to worship today. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "My Portion",
+      "subtitle": "When the Lord Himself becomes our portion, the heart no longer has to wander.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 16:5-6",
+            "book_code": "PSA",
+            "chapter": 16,
+            "verses": "5-6",
+            "translation": "KJV",
+            "text": "The Lord is the portion of mine inheritance and of my cup: thou maintainest my lot."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 16 brings the heart back to its deepest center: when God Himself becomes our portion, praise is no longer reserved for easy seasons."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 16 is quiet, but it is deeply precious. It does not try to persuade us with dramatic language. It lets us overhear the confession of a heart that has been brought back to its true center: “The Lord is the portion of mine inheritance and of my cup.” That is not a decorative spiritual sentence. It is the language of worship.",
+            "Inheritance speaks to security, belonging, and future. Cup speaks to what has been assigned, what has been placed in your hands. David says that beneath everything else, God Himself is his deepest possession. When that becomes true, praise is no longer dependent on whether life feels abundant by earthly standards. God is not merely the giver of gifts. He is Himself the treasure.",
+            "That is why verse 11 carries such weight: “In thy presence is fulness of joy; at thy right hand there are pleasures for evermore.” Notice where that joy is found. Not after life becomes easier. Not after every longing is resolved. In Thy presence. Psalm 16 is not simply about emotional contentment. It is about worship being re-centered in the presence of God.",
+            "**When God Himself becomes a person's deepest portion, life no longer has to be ruled by the feeling that something essential is still missing.**",
+            "This does not mean desire disappears. It means desire is no longer allowed to sit on the throne. Today, before counting what feels absent, join the psalmist in saying to God, “My goodness extendeth not to thee.” Let your heart be taught again that God Himself is beautiful enough to praise, even before every question is answered."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "KJV",
+              "text": "In thy presence is fulness of joy; at thy right hand there are pleasures for evermore."
+            },
+            {
+              "display": "Psalm 73:25-26",
+              "book_code": "PSA",
+              "chapter": 73,
+              "verses": "25-26",
+              "translation": "KJV",
+              "text": "Whom have I in heaven but thee?... God is the strength of my heart, and my portion for ever."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, thank You that You do not merely send small comforts into my life and then remain distant. You give me Yourself as my portion and my cup. I confess how quickly my heart drifts toward comparison, toward someone else's lot, someone else's timing, someone else's visible security. I keep imagining that if I had a little more, moved a little faster, or felt a little safer, then I would finally be content. But You know what my soul truly lacks is not simply a better outcome. I need a deeper nearness to You. Draw me back from restlessness, from envy, and from the weariness of always feeling that something is still missing. Teach my heart to say with honesty that You are my portion. In Your presence, let me learn the slow steadiness of true joy. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "The Heavens Declare",
+      "subtitle": "Creation speaks without words, yet day after day it proclaims His glory.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 19:1",
+            "book_code": "PSA",
+            "chapter": 19,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "The heavens declare the glory of God; and the firmament sheweth his handywork."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 19 reminds us that God speaks not only through Scripture, but also through the world His hands have made, awakening the heart to worship."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 19 unfolds like a song in three movements. First it lifts our eyes to the heavens. Then it turns our attention to the Word of God. Finally, it brings our own words and thoughts back before the Lord. That movement matters, because worship often begins the same way: we behold His glory, we receive His voice, and then we learn how to answer Him.",
+            "“The heavens declare the glory of God.” This is not merely poetic ornament. It is a way of seeing. The sky, the light, the pattern of the days, the steady course of the sun, the beauty and order of creation are not empty scenery. They bear witness. Creation does not speak in human language, yet it never stops speaking of God. Often the problem is not that God has hidden Himself, but that we have become hurried and dull. We use the world without listening to the testimony it is always giving.",
+            "But Psalm 19 does not stop with wonder. It moves from the glory of creation to the perfection of the law of the Lord. The same God who stretched out the heavens has also spoken clearly to human hearts. Creation awakens awe; Scripture gives light. The sky humbles us; the Word restores us. Worship that has wonder without truth becomes shallow. Truth without wonder becomes dry. Psalm 19 reunites them.",
+            "**Mature worship is not only being moved by beauty. It is allowing both God's world and God's Word to bring the soul back under His glory.**",
+            "That is why the psalm ends so fittingly with prayer: “Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight.” When we have truly seen His glory and heard His voice, we do not merely admire Him. We offer ourselves back to Him."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 19:7",
+              "book_code": "PSA",
+              "chapter": 19,
+              "verses": "7",
+              "translation": "KJV",
+              "text": "The law of the Lord is perfect, converting the soul."
+            },
+            {
+              "display": "Psalm 19:14",
+              "book_code": "PSA",
+              "chapter": 19,
+              "verses": "14",
+              "translation": "KJV",
+              "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O Lord."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, the heavens declare Your glory, and all that You have made bears witness to who You are. Thank You that You have not hidden Yourself. You awaken wonder through creation, and You make Yourself known through Your Word. Forgive me for the times I have seen much without worshiping, and read much without being changed. Open my eyes again, and open my heart as well. Let Your glory humble me, and let Your truth restore me. May the words of my mouth and the meditation of my heart be acceptable in Your sight, O Lord, my strength and my redeemer. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "The Lord Is My Shepherd",
+      "subtitle": "The psalm we know best is often the one we most need to read slowly again.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 23:1",
+            "book_code": "PSA",
+            "chapter": 23,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "The Lord is my shepherd; I shall not want."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 23 is not meant to be hurried through from memory, but to teach us again, line by line, how to trust the Lord who personally shepherds us."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some passages become so familiar that we stop really hearing them. Psalm 23 is one of them. The words come easily to memory, and because they do, we can rush past them without letting them enter us again. Yet this psalm has been cherished for generations not because it is merely comforting, but because it tells the truth about the Lord's shepherding care.",
+            "Everything begins with the opening confession: “The Lord is my shepherd.” Not a vague guardian. Not a distant ruler. My shepherd. The rest of the psalm unfolds through His actions: He maketh me to lie down, leadeth me, restoreth me, guideth me, is with me, prepares a table before me, anoints my head, and causes my cup to overflow. The center of the psalm is not the sheep's skill, but the shepherd's faithfulness. Worship often begins there: not with what we are doing for God, but with finally noticing what God is doing for us.",
+            "Psalm 23 is also honest enough to include the valley of the shadow of death. It does not pretend that life is all still waters and green pastures. There is darkness, threat, and the presence of enemies. Yet the deepest assurance of the psalm is not that the valley disappears, but that the Shepherd remains. “For thou art with me.” That is why the psalm has steadied so many souls in sorrow. It does not deny the valley. It places the valley inside the presence of God.",
+            "**Psalm 23 teaches not only that God provides, but that God Himself is the place where His people rest.**",
+            "And the psalm does not end merely with survival. It ends with dwelling: “I will dwell in the house of the Lord for ever.” The Shepherd is not only carrying us through one difficult day. He is leading us home to Himself."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 23:4",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "4",
+              "translation": "KJV",
+              "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, You are my Shepherd. Thank You that You do not watch me from a distance, but lead me, restore me, accompany me through dark valleys, and prepare a table before me. So often I confess that You are my Shepherd while still trying to steer my own life, judge my own path, and secure my own peace. Forgive my restlessness and my resistance to trust. Let Psalm 23 become more than familiar words to me today. Let it become the path by which I learn to rest in You again. Teach me to praise You in green pastures and to fear no evil in the valley because You are with me. Let Your rod and Your staff comfort me, and keep my life near Your house all my days. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Day 6",
+      "title": "My Light",
+      "subtitle": "The darkness has not yet disappeared, but the light is already here.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 27:1",
+            "book_code": "PSA",
+            "chapter": 27,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "The Lord is my light and my salvation; whom shall I fear?"
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 27 does not deny fear. It lets the presence of God redefine the heart while fear is still near."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 27 opens with a sentence full of light: “The Lord is my light and my salvation; whom shall I fear?” But if you keep reading, you quickly realize this is not the psalm of a woman untouched by pressure. There are enemies, opposition, waiting, and the possibility of a heart that could faint. That is exactly why the opening declaration carries such force. It is not optimism. It is worship in the midst of struggle.",
+            "David does not call the Lord his light after the darkness has passed. He speaks that truth while the darkness is still real. Light does not always remove trouble at once. Often it changes what trouble is allowed to mean. Fear may still knock at the door, but it no longer has the final word when the presence of God fills the room.",
+            "The most beautiful turn in the psalm comes in verse 4. In the middle of tension and threat, David says that he asks one thing above all else: to dwell in the house of the Lord, to behold His beauty, and to inquire in His temple. That is the instinct of a worshiper. When difficulty comes, we usually want quick answers. But deeper than answers is the desire to be near the Lord Himself.",
+            "**True light does not only help us see the road ahead. It draws us toward the beauty of God.**",
+            "That is why the psalm ends with waiting: “Wait on the Lord.” Waiting is not emptiness. It is standing in the light before the outcome has arrived. Today, you do not need to pretend that you are fearless. You may simply begin by naming who God is. If He is your light, then darkness is no longer the only thing in front of you."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 27:4",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "4",
+              "translation": "KJV",
+              "text": "One thing have I desired of the Lord... that I may dwell in the house of the Lord all the days of my life."
+            },
+            {
+              "display": "Psalm 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "KJV",
+              "text": "Wait on the Lord: be of good courage, and he shall strengthen thine heart."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, You are my light, my salvation, and the strength of my life. Thank You that You do not wait for the darkness to clear before drawing near to me. You come while fear is still real, and You place Yourself before it. Forgive me for how quickly I seek relief before I seek Your face. Teach me today to wait in Your light and to behold Your beauty. If my heart begins to faint, strengthen it. If my spirit becomes restless, steady me with Your presence. Let the first thing I see today not be the darkness around me, but the Lord who stands within it as light. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Day 7",
+      "title": "The Blessedness of Forgiveness",
+      "subtitle": "When hiding ends, grace begins to flow in.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 32:1",
+            "book_code": "PSA",
+            "chapter": 32,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "Blessed is he whose transgression is forgiven, whose sin is covered."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 32 shows us that confession is not the opposite of worship. It is often the doorway by which the heart returns to God."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 32 opens by declaring a surprising kind of blessedness: “Blessed is he whose transgression is forgiven, whose sin is covered.” David does not begin by calling the strong blessed, or the successful, or the morally untroubled. He calls the forgiven blessed. That matters because it changes the entire posture of worship. We do not come to God because we have kept ourselves spotless. We come because mercy has made a way for us to return.",
+            "David is painfully honest in this psalm. He remembers what it was like to keep silent, to hide, to carry his sin without bringing it into the light. That silence affected even his body and spirit. Hidden sin does not remain tucked away in one corner of life. It drains strength, withers joy, and steals freedom in worship. A heart that is always covering itself cannot sing freely before God.",
+            "Then comes the turning point: “I acknowledged my sin unto thee... and thou forgavest.” The swiftness is almost shocking. David confesses, and God forgives. The psalm does not linger on humiliation. It moves quickly into refuge, song, and guidance. “Thou art my hiding place.” The God who would not let David keep hiding his sin becomes the very place where David may now safely hide himself.",
+            "**What often blocks worship is not that God is unwilling to receive us, but that we are still unwilling to step fully into His light.**",
+            "Psalm 32 leads us back into the joy of a cleansed conscience. Confession is not the end of worship. It is often the beginning of it."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 32:5",
+              "book_code": "PSA",
+              "chapter": 32,
+              "verses": "5",
+              "translation": "KJV",
+              "text": "I acknowledged my sin unto thee... and thou forgavest the iniquity of my sin."
+            },
+            {
+              "display": "Psalm 32:7-8",
+              "book_code": "PSA",
+              "chapter": 32,
+              "verses": "7-8",
+              "translation": "KJV",
+              "text": "Thou art my hiding place... I will instruct thee and teach thee in the way which thou shalt go."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, thank You that You do not demand that I repair myself before I come near. You receive the repentant with mercy and forgiveness. I confess how often I still want to hide, to cover, to appear untroubled before You and before others. Yet You know me fully, and You know that hiding only makes the heart heavier. Give me honesty today. Bring into the light whatever I have tried to keep buried. Thank You that You do not answer with shame, but with pardon, covering, and songs of deliverance. Let me stop fleeing from Your presence and begin again to worship You with a clean and grateful heart. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "day_label": "Day 8",
+      "title": "Continual Praise",
+      "subtitle": "True praise does not belong only to easy days.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 34:1",
+            "book_code": "PSA",
+            "chapter": 34,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "I will bless the Lord at all times: his praise shall continually be in my mouth."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 34 teaches us that even between fear and deliverance, our lips may still begin to bless the Lord."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "“I will bless the Lord at all times: his praise shall continually be in my mouth.” Those words carry weight because they were not written in comfort. Psalm 34 rises out of fear, escape, and humiliation. That is why it does not read like easy poetry. It is praise chosen in the middle of distress.",
+            "David does not say, “Once I feel calm, I will praise.” He says, “I will bless.” That does not mean fear is unreal. It means fear will not be allowed to become the ruling voice of the soul. The Psalms often train us this way. We do not always wait until our emotions are settled before we worship. Sometimes worship is how they begin to settle.",
+            "The psalm then widens outward: “O magnify the Lord with me.” Praise becomes shared testimony. It also becomes experience: “O taste and see that the Lord is good.” Worship is not merely agreeing with a doctrine. It is receiving the goodness of God for oneself and answering Him with gladness.",
+            "**Praise begins when the worthiness of God's name is allowed to stand in our mouths before the outcome stands in our hands.**",
+            "If your life still feels unfinished today, Psalm 34 does not tell you to pretend everything is fine. It invites you to let blessing rise first, even before clarity comes."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 34:8",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "O taste and see that the Lord is good."
+            },
+            {
+              "display": "Psalm 34:18",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "18",
+              "translation": "KJV",
+              "text": "The Lord is nigh unto them that are of a broken heart."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I bless You today not because everything has already become easy, but because You are still worthy. Thank You that You do not withdraw when fear rises or when sorrow presses near. Teach my mouth to praise You first, and let my heart be led back to You through that praise. If fear still lingers in me, drive it back with Your goodness. If heaviness remains, let songs of deliverance rise again. Let me not only speak of Your goodness today, but truly taste and see that You are good. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "day_label": "Day 9",
+      "title": "Quiet Trust",
+      "subtitle": "Some waiting looks quiet, yet it is a profound act of surrender.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 37:5",
+            "book_code": "PSA",
+            "chapter": 37,
+            "verses": "5",
+            "translation": "KJV",
+            "text": "Commit thy way unto the Lord; trust also in him; and he shall bring it to pass."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 37 teaches us that before circumstances turn, the soul can still learn to rest, commit its way, and delight itself in the Lord."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 37 is written for those moments when looking at reality makes the heart agitated. The wicked prosper, crooked paths seem successful, and what should not stand appears to stand firmly. The psalm does not deny any of that. It simply keeps drawing the soul back from what is visible to the God who remains sovereign.",
+            "The key verbs of the psalm are worth hearing slowly: trust, do good, delight, commit, rest, wait. None of them are dramatic. Yet together they form a deeply worshipful posture. Worship is not always loud song. Sometimes it is the quiet act of placing our urgency, envy, and demand for quick results into the hands of God.",
+            "“Commit thy way unto the Lord; trust also in him.” That is hard because we usually want the opposite. We want to see how things will turn out first, and then decide whether we can rest. Psalm 37 reverses the order. Trust first. Commit first. Rest first. Delight in the Lord while the outcome is still hidden.",
+            "**Waiting in faith is not empty time. It is the surrender of the heart to God before the evidence has arrived.**",
+            "This psalm does not teach passivity. It teaches worshipful steadiness in a restless world. Today, you may need less striving and more entrusting."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 37:7",
+              "book_code": "PSA",
+              "chapter": 37,
+              "verses": "7",
+              "translation": "KJV",
+              "text": "Rest in the Lord, and wait patiently for him."
+            },
+            {
+              "display": "Psalm 37:23-24",
+              "book_code": "PSA",
+              "chapter": 37,
+              "verses": "23-24",
+              "translation": "KJV",
+              "text": "The steps of a good man are ordered by the Lord... Though he fall, he shall not be utterly cast down."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, You know how quickly I become impatient and how deeply I want to see results. Thank You that You do not abandon me in my restlessness, but keep inviting me to trust You, commit my way to You, and delight in You. Teach me to rest in You, not because I understand everything, but because You still reign. If my heart has become fixed on comparison, draw my eyes back. If I keep trying to force what only You can bring to pass, teach me to be still. Let waiting become worship in me, and let surrender become peace. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "day_label": "Day 10",
+      "title": "Longing for God",
+      "subtitle": "The soul's deepest thirst often becomes the road back to God.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 42:1",
+            "book_code": "PSA",
+            "chapter": 42,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "As the hart panteth after the water brooks, so panteth my soul after thee, O God."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 42 teaches us that spiritual dryness does not always mean God has gone far; sometimes it reveals that we were made for Him."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 42 does not treat thirst as something embarrassing. “As the hart panteth after the water brooks, so panteth my soul after thee, O God.” This is not mild desire. It is deep necessity. The psalm does not first tell the soul to quiet its need. It lets longing become prayer.",
+            "Many of us respond to inner dryness by trying to fill it quickly with noise, activity, distraction, or even religious performance. But Psalm 42 suggests that thirst is not always the problem. Sometimes it is the sign that the soul still remembers what it was made for. The psalmist is discouraged, restless, tearful, and spiritually disoriented, yet he still knows what he truly wants: the living God.",
+            "Another vital movement in the psalm is the way the writer speaks to his own heart: “Why art thou cast down, O my soul? ... hope thou in God.” This is not shallow self-talk. It is worshipful resistance. Before the feelings have changed, truth is spoken into them. The heart is not allowed to preach hopelessness forever without being answered.",
+            "**Longing for God is itself a sign that worship is beginning to breathe again in the soul.**",
+            "If you feel dry today, do not stop at naming the dryness. Follow the direction of your thirst. Let it bring you back to the God who still gives songs in the night."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 42:5",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "5",
+              "translation": "KJV",
+              "text": "Why art thou cast down, O my soul?... hope thou in God: for I shall yet praise him."
+            },
+            {
+              "display": "Psalm 42:11",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "11",
+              "translation": "KJV",
+              "text": "Hope thou in God: for I shall yet praise him."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Living God, thank You that You do not despise the dryness and longing within me. So often, when I do not feel strong or fervent, I assume You must be far away. But teach me today that if I still thirst for You, that longing itself is evidence of Your drawing grace. Do not let me numb my thirst with lesser things. Lead me back to You. If my soul is cast down, teach it to hope. If the night feels long, let Your song remain with me. Awaken my worship again in Your presence. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "day_label": "Day 11",
+      "title": "God Is Our Refuge",
+      "subtitle": "Though the earth be removed, He remains a very present help in trouble.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 46:1",
+            "book_code": "PSA",
+            "chapter": 46,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "God is our refuge and strength, a very present help in trouble."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 46 does not first command the storm to cease. It first brings us before the God who is still exalted within the storm."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 46 opens with instability on every side: the earth removed, mountains carried into the sea, waters roaring, nations raging, kingdoms trembling. Scripture is not embarrassed by a shaking world. Yet right in the middle of that shaking comes the great confession: “God is our refuge and strength, a very present help in trouble.”",
+            "The force of the psalm lies not in denying upheaval, but in placing upheaval beneath the unchanging reality of God. Mountains may move. Waters may roar. Kingdoms may tremble. Human hearts may panic. None of that alters who God is. That is why worship matters so deeply here. Worship does not remove us from reality. It teaches reality to stand again under the sovereignty of God.",
+            "“Be still, and know that I am God.” In the psalm, those words are not spoken in peaceful circumstances. They are spoken into turmoil. Stillness is not pretending everything is solved. It is relinquishing the illusion that we must hold the world together ourselves. It is allowing the exalted God to occupy the center once more.",
+            "**Rest is not the absence of shaking. It is the knowledge of God in the middle of it.**",
+            "That is why the psalm repeats its refrain: “The Lord of hosts is with us; the God of Jacob is our refuge.” In worship, truth is repeated until the soul begins to stand inside it again."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 46:7",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "7",
+              "translation": "KJV",
+              "text": "The Lord of hosts is with us; the God of Jacob is our refuge."
+            },
+            {
+              "display": "Psalm 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "KJV",
+              "text": "Be still, and know that I am God."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord of hosts, You are my refuge, my strength, and a very present help in trouble. Thank You that You do not withdraw when the world shakes, but reveal Your steadiness all the more. I confess how quickly I am unsettled by change and how often I try to hold things together by myself. Teach me to be still before You, not because every problem has been resolved, but because You remain God. Let this truth stand firmly within me again: You are with us. May worship take root in me even while things tremble, and may my heart remember that You are exalted above it all. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "day_label": "Day 12",
+      "title": "Create in Me a Clean Heart",
+      "subtitle": "Repentance is not self-hatred, but a return to the God of mercy.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 51:1-2",
+            "book_code": "PSA",
+            "chapter": 51,
+            "verses": "1-2",
+            "translation": "KJV",
+            "text": "Have mercy upon me, O God, according to thy lovingkindness... wash me throughly from mine iniquity."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 51 is not a speech of despair after failure. It is a prayer for cleansing, renewal, and restored worship before God."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 51 is heavy because it tells the truth about sin. It is precious because it refuses to leave the soul there. David does not defend himself. He does not begin by repairing his image. He comes to God asking first for mercy, then for cleansing, then for restoration. That movement is itself an act of worship.",
+            "“Create in me a clean heart, O God.” The force of that prayer lies in David's awareness that he needs more than surface repair. He needs God to act. This is not the language of self-improvement. It is the language of a sinner who knows that only God can make something clean out of what has been corrupted.",
+            "The psalm also tells us what God truly desires: “a broken spirit: a broken and a contrite heart.” God is not pleased by polished appearances, shallow excuses, or endless self-condemnation. He is pleased by a heart that no longer resists His light. Repentance is therefore not merely moral correction. It is the return of the heart into truthful fellowship with God.",
+            "**True repentance does not end with exposing sin. It allows God to restore worship within the heart.**",
+            "That is why David eventually asks for the joy of salvation to be restored. Cleansing leads to praise. Mercy opens the mouth again. Psalm 51 does not end in collapse. It ends in renewed belonging before God."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 51:10",
+              "book_code": "PSA",
+              "chapter": 51,
+              "verses": "10",
+              "translation": "KJV",
+              "text": "Create in me a clean heart, O God; and renew a right spirit within me."
+            },
+            {
+              "display": "Psalm 51:17",
+              "book_code": "PSA",
+              "chapter": 51,
+              "verses": "17",
+              "translation": "KJV",
+              "text": "The sacrifices of God are a broken spirit."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Merciful God, thank You that You do not despise the one who truly turns back to You. I come before You today not to explain myself, and not to replace repentance with a little self-accusation. Have mercy on me according to Your lovingkindness. Wash me, cleanse me, and create in me a clean heart. If there is hardness in me, break it. If there is self-righteousness in me, remove it. Do not let me stop at confession alone. Restore to me the joy of Your salvation, and let my heart gladly return to You. Open my mouth again in praise. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "day_label": "Day 13",
+      "title": "God Alone",
+      "subtitle": "When every other support grows lighter, God alone remains sure.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 62:1",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "Truly my soul waiteth upon God."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 62 teaches a quiet but weighty form of worship: in the presence of many possible supports, the soul still says, “He only.”"
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 62 feels quiet from the first lines. It is not dramatic, yet it has a steady force because it keeps drawing the soul back to one center. Again and again David says “only” and “truly.” This is the narrowing work of worship. Worship often does not expand our options. It teaches the heart to know who cannot be replaced.",
+            "There are many things we may lean on in ordinary life: affection, competence, plans, progress, visible stability. None of these are necessarily evil. They are simply too light to carry the full weight of a soul. Psalm 62 repeatedly says, “He only is my rock and my salvation.” That is the discernment worship produces. God is not meant to be one support among many. He is the foundation beneath all the rest.",
+            "Yet the psalm is not emotionally cold. It says both, “My soul waiteth upon God,” and “pour out your heart before him.” Stillness and honesty belong together. The heart may empty itself freely because it is being poured out before a Rock, not before something that will collapse.",
+            "**Worship gathers the heart back from scattered dependencies until it learns again to rest in God alone.**",
+            "Psalm 62 may not solve everything at once, but it re-teaches the soul where to stand."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 62:5-6",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "5-6",
+              "translation": "KJV",
+              "text": "My soul, wait thou only upon God... He only is my rock and my salvation."
+            },
+            {
+              "display": "Psalm 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "Trust in him at all times... pour out your heart before him."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, You alone are my rock, my salvation, and my high tower. Thank You that You are not merely one option among many, but the true ground on which my heart can stand. Forgive me for giving too much weight to things that cannot hold me. Teach my soul to wait quietly before You, and teach me also to pour out my heart honestly before You. Gather all my scattered trust back to this one confession: You only. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "day_label": "Day 14",
+      "title": "Better Than Life",
+      "subtitle": "In the wilderness, His lovingkindness remains better than life.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 63:1",
+            "book_code": "PSA",
+            "chapter": 63,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "O God, thou art my God; early will I seek thee: my soul thirsteth for thee."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 63 shows us that some of the deepest praise is not learned in abundance, but in the wilderness where God becomes the soul's nourishment again."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 63 is a wilderness psalm, and that setting matters. In the wilderness the body is weary, the soul is exposed, and the instinct is often to search for anything that might quickly satisfy. Yet it is there that David says, “Because thy lovingkindness is better than life, my lips shall praise thee.”",
+            "“Better than life” is an astonishing phrase. Life itself already carries so much: safety, future, possibility, beloved gifts. Yet David says that the lovingkindness of God is better still. He is not belittling life. He is reordering it. When the love of God becomes more precious than life itself, worship is no longer a pleasant addition to good circumstances. It becomes the deepest orientation of the soul.",
+            "The psalm also shows us that praise does not wait for the wilderness to end. David remembers God, meditates on Him, and blesses Him while still in a dry and weary land. In the Psalms, remembrance is often an act of worship. To remember God's help, His faithfulness, His sheltering wings, is to resist letting the wilderness become the only interpreter of reality.",
+            "**One of the deepest lessons of the wilderness is not only endurance, but learning again that God Himself is enough to satisfy the soul.**",
+            "If you are in a dry place today, Psalm 63 does not shame your need. It teaches your need where to turn."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 63:3",
+              "book_code": "PSA",
+              "chapter": 63,
+              "verses": "3",
+              "translation": "KJV",
+              "text": "Because thy lovingkindness is better than life, my lips shall praise thee."
+            },
+            {
+              "display": "Psalm 63:8",
+              "book_code": "PSA",
+              "chapter": 63,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "My soul followeth hard after thee."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "God, You are my God. Thank You that You do not abandon me in the wilderness, but often make Your lovingkindness known there most deeply. I confess that I often want the dry place to end before I learn to praise. Yet today You teach me that Your lovingkindness is better than life. Help my heart to remember You, meditate on You, and follow hard after You. If my soul feels empty, feed me with Yourself. If the night is long, let Your right hand uphold me. Let my lips praise You even in dryness, because You Yourself are worthy. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "day_label": "Day 15",
+      "title": "In Your House",
+      "subtitle": "One day with God is better than a thousand elsewhere.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 84:2",
+            "book_code": "PSA",
+            "chapter": 84,
+            "verses": "2",
+            "translation": "KJV",
+            "text": "My soul longeth, yea, even fainteth for the courts of the Lord."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 84 turns worship from a duty into the homesickness of the soul for the presence of God."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 84 reads like a homesick song. The psalmist speaks of the courts of the Lord with longing that reaches both body and soul: “My heart and my flesh crieth out for the living God.” This is not cool religious reflection. It is desire. Worship is not described merely as obligation, but as the soul being drawn toward the place where it belongs.",
+            "One of the beauties of the psalm is that it speaks not only of God's house, but also of the road toward it. Those whose strength is in God pass through the valley of Baca and find it transformed into a place of springs. In other words, the ones who long for God's presence are not the ones with tearless lives. They are often the ones still carrying weariness, unfinished burdens, and real sorrow, yet still moving toward Him. Worship begins before the destination is reached.",
+            "“A day in thy courts is better than a thousand.” That is not empty exaggeration. It is a declaration of value. Many things can be found elsewhere, but nothing can replace God Himself. Even the humblest place near Him is better than outward fullness without Him.",
+            "**The deepest attraction of worship is not what it quickly fixes, but that God Himself is the true home of the soul.**",
+            "Psalm 84 gathers longing, weariness, and joy into one movement. It reminds us that what we are ultimately seeking is not only relief, but the Lord Himself."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 84:10",
+              "book_code": "PSA",
+              "chapter": 84,
+              "verses": "10",
+              "translation": "KJV",
+              "text": "For a day in thy courts is better than a thousand."
+            },
+            {
+              "display": "Psalm 84:11",
+              "book_code": "PSA",
+              "chapter": 84,
+              "verses": "11",
+              "translation": "KJV",
+              "text": "For the Lord God is a sun and shield: the Lord will give grace and glory."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord of hosts, thank You that Your presence is not a heavy demand, but the true home of the soul. Forgive me for the times I have treated worship only as duty and forgotten that You Yourself are lovely and worthy to be desired. If I am passing through a valley of tears, keep my heart set toward You. If I am weary, let my strength be renewed in You. Teach me again to say that one day in Your courts is better than a thousand elsewhere. Draw my heart back to the joy of Your presence. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "day_label": "Day 16",
+      "title": "Our Dwelling Place",
+      "subtitle": "Our days are brief, yet God remains our dwelling place through all generations.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 90:1",
+            "book_code": "PSA",
+            "chapter": 90,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "Lord, thou hast been our dwelling place in all generations."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 90 teaches us that the brevity of life is not meant to make us frantic, but to make us wise before God."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 90 places human life before time and then places time before God. Moses knows how brief our days are, and he knows that God is from everlasting to everlasting. That is why the psalm feels so sober and yet so worshipful.",
+            "“Teach us to number our days.” Numbering our days is not a call to anxious living. It is the end of pretending that we are eternal. Worship restores proportion. God remains forever; we do not. And strangely, that truth brings steadiness rather than despair.",
+            "The psalm then asks to be satisfied early with God's mercy. Wisdom is not only knowing that life is short. It is learning to be filled with God within that shortness. When the soul is satisfied with His lovingkindness, the pressure to wring permanence out of temporary things begins to loosen. Work, responsibility, and ordinary hours no longer need to carry ultimate meaning by themselves. They can be received again as gifts placed beneath the gaze of an eternal God.",
+            "Psalm 90 therefore does something deeply pastoral. It does not merely humble us with mortality. It teaches us to pray through mortality. It asks for wisdom, for satisfaction, for joy, and for the beauty of the Lord to rest upon our labor. The psalm refuses two opposite errors at once: the illusion that we have endless time, and the despair that our brief time does not matter. In the presence of God, both are corrected.",
+            "**When God becomes our dwelling place, time is no longer only something that passes. It becomes something offered back to Him in worship.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 90:12",
+              "book_code": "PSA",
+              "chapter": 90,
+              "verses": "12",
+              "translation": "KJV",
+              "text": "So teach us to number our days, that we may apply our hearts unto wisdom."
+            },
+            {
+              "display": "Psalm 90:14,17",
+              "book_code": "PSA",
+              "chapter": 90,
+              "verses": "14,17",
+              "translation": "KJV",
+              "text": "O satisfy us early with thy mercy... And let the beauty of the Lord our God be upon us: and establish thou the work of our hands upon us."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Eternal God, You have been our dwelling place in all generations. Thank You that my finiteness does not need to lead to panic, because You remain forever. Teach me to number my days, not so that I become anxious, but so that I may become wise before You. Satisfy me early with Your mercy, and establish the work of my hands. Let my time be gathered into worship in Your presence. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "day_label": "Day 17",
+      "title": "The Secret Place of the Most High",
+      "subtitle": "True security is found not outside trouble, but beneath His wings.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 91:1",
+            "book_code": "PSA",
+            "chapter": 91,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 91 does not teach borrowed courage. It invites us to dwell under the shadow of the Most High."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 91 is filled with sheltering images: secret place, shadow, refuge, fortress, feathers, wings, shield. These are not decorative phrases. They build a world of safety around the soul, and that safety is God Himself.",
+            "The heart of the psalm is not a promise that nothing difficult will ever happen. It is an invitation to dwell. Where does the soul live? Under whose shadow does it remain? Worship becomes tangible here because to praise God is also to say, “He is my refuge.”",
+            "One of the gentlest lines in the psalm is that He will cover us with His feathers. The Most High is not only exalted. He is tender. That tenderness matters because many people know how to speak of God as powerful, yet struggle to believe that His power bends down in care toward them. Psalm 91 keeps those two truths together. He is high above all, and He is near enough to shelter.",
+            "The psalm also moves beyond atmosphere into trust. It gives the soul words to confess: “He is my refuge and my fortress: my God; in him will I trust.” Worship here is not passive admiration. It is personal entrusting. To dwell under His shadow means that fear is no longer allowed to define the whole inner world. The threat may remain real, but it is no longer ultimate.",
+            "**The secret place of the Most High is not an escape from reality. It is the place where reality is reinterpreted by the presence of God.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 91:4",
+              "book_code": "PSA",
+              "chapter": 91,
+              "verses": "4",
+              "translation": "KJV",
+              "text": "He shall cover thee with his feathers."
+            },
+            {
+              "display": "Psalm 91:14-15",
+              "book_code": "PSA",
+              "chapter": 91,
+              "verses": "14-15",
+              "translation": "KJV",
+              "text": "Because he hath set his love upon me, therefore will I deliver him... He shall call upon me, and I will answer him."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Most High God, Almighty One, thank You that You are not only exalted above me, but also near enough to cover me. Teach me not merely to ask You for protection, but to dwell in You. Let me rest under Your wings and be steadied by Your faithfulness. If fear still rises within me, answer it with Your presence. Let my security become worship today because of who You are. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "day_label": "Day 18",
+      "title": "Come, Let Us Sing",
+      "subtitle": "If today you hear His voice, come before Him.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 95:1",
+            "book_code": "PSA",
+            "chapter": 95,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "O come, let us sing unto the Lord."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 95 wakes the heart from dullness and invites us to come before God with both joy and holy fear."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 95 opens with invitation: “O come, let us sing unto the Lord.” Worship here is not accidental. It is a summons. God is worthy, and His people are called to draw near with thanksgiving and song.",
+            "Then the psalm turns: “O come, let us worship and bow down.” Singing and kneeling belong together. True worship is joyful and reverent at once. The Lord is the Rock of our salvation, and He is also the One who made us.",
+            "The warning in the second half is just as important: “To day if ye will hear his voice.” Worship is incomplete if it is only outward expression without inward obedience. To come before God is also to become teachable before Him.",
+            "Psalm 95 also reminds us that worship does not begin with our own spiritual energy. It begins with God's call. He summons, and His people answer. Because He is our Maker and our Shepherd, coming before Him is not religious performance. It is a return to where we belong. The one who truly hears His voice will not treat obedience as something separate from praise."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 95:6",
+              "book_code": "PSA",
+              "chapter": 95,
+              "verses": "6",
+              "translation": "KJV",
+              "text": "O come, let us worship and bow down."
+            },
+            {
+              "display": "Psalm 95:7-8",
+              "book_code": "PSA",
+              "chapter": 95,
+              "verses": "7-8",
+              "translation": "KJV",
+              "text": "To day if ye will hear his voice, harden not your heart."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Rock of my salvation and Lord who made me, since You call me to come, I come before You. Do not let my worship remain only in song and sound; bring my heart as well beneath the authority of Your voice. If there is dullness or hardness in me, soften me today by what You speak. Let me come with joy, reverence, and a willingness to hear. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "day_label": "Day 19",
+      "title": "All the Earth Shall Praise",
+      "subtitle": "When the eyes are lifted toward Him, the heart is no longer trapped in itself.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 96:1",
+            "book_code": "PSA",
+            "chapter": 96,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "O sing unto the Lord a new song: sing unto the Lord, all the earth."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 96 lifts worship from personal experience into a wider horizon, showing us that God is worthy of the glory of all the earth."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 96 keeps widening the horizon: “O sing unto the Lord a new song... all the earth.” The psalm is full of nations, peoples, heavens, sea, field, and trees. Worship is no longer kept inside personal experience. It opens outward toward the universal worthiness of God.",
+            "This does not weaken private devotion. It strengthens it. When worship remains confined to how I currently feel, it easily rises and falls with my condition. But when I see that God is worthy of glory from all the earth, praise becomes larger than my mood. The psalm keeps returning to His greatness, His honor, His majesty, and His strength. He is worthy because He is who He is.",
+            "The closing vision of creation rejoicing before the Lord also gives worship an eschatological hope. God comes to judge the earth in righteousness. His rule restores what is disordered. Worship becomes expectation as well as praise.",
+            "That is also why the psalm keeps urging God's people to declare His glory among the nations. Those who have truly seen His worth cannot be content to keep worship folded inward. Praise becomes witness. The heart that has been lifted toward God begins to long for others to know Him too."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 96:9",
+              "book_code": "PSA",
+              "chapter": 96,
+              "verses": "9",
+              "translation": "KJV",
+              "text": "O worship the Lord in the beauty of holiness."
+            },
+            {
+              "display": "Psalm 96:11-13",
+              "book_code": "PSA",
+              "chapter": 96,
+              "verses": "11-13",
+              "translation": "KJV",
+              "text": "Let the heavens rejoice, and let the earth be glad... for he cometh, for he cometh to judge the earth."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord of all the earth, glory, honor, and strength belong to You. Draw my heart out of the narrow circle of self and set it again beneath the wideness of Your glory. Do not let my praise remain small or self-enclosed. Join it to the larger song of Your people and of all that You have made. Humble me by Your greatness, and fill me with joy at Your righteous reign. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "day_label": "Day 20",
+      "title": "Bless the Lord, O My Soul",
+      "subtitle": "Remember His benefits, and remember His mercy.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 103:1",
+            "book_code": "PSA",
+            "chapter": 103,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "Bless the Lord, O my soul."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 103 teaches the soul to praise through remembrance, naming the mercies of God one by one and setting His compassion again at the center."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "“Bless the Lord, O my soul.” Psalm 103 sounds like the soul being summoned back to worship. David does not wait for gratitude to arise on its own. He addresses his own heart and commands it to turn toward the Lord.",
+            "The psalm is precious because it teaches us how to remember God's benefits. Forgiveness, healing, redemption, lovingkindness, mercy, satisfaction, renewal—David names them one by one. This is not poetic excess. It is spiritual memory. One of the great enemies of worship is forgetfulness. When mercy is forgotten, praise becomes thin.",
+            "But Psalm 103 is not only about gifts. It is about the God who gives them. He is compassionate, gracious, slow to anger, and mindful that we are dust. Worship deepens when it moves from gratitude for benefits to adoration of the One whose heart is so merciful.",
+            "That is why this psalm feels like a holy act of recollection. The soul gets scattered by care, fatigue, and forgetfulness, and then David calls it back. He rehearses mercy until the heart is gathered again. Praise here is not merely spontaneous feeling. It is the soul being reordered by remembered truth."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 103:8",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "The Lord is merciful and gracious."
+            },
+            {
+              "display": "Psalm 103:13-14",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "13-14",
+              "translation": "KJV",
+              "text": "Like as a father pitieth his children, so the Lord pitieth them that fear him. For he knoweth our frame."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Merciful Father, I bring my scattered soul back before You and ask You to teach it to bless Your name. You forgive, heal, redeem, and show compassion, and You remember that I am dust. Save me from spiritual forgetfulness. Do not let my heart treat Your mercies as common things. Let me worship You today not only for what You give, but for who You are in Your gracious heart. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "day_label": "Day 21",
+      "title": "I Love the Lord",
+      "subtitle": "We love Him not only because He is great, but because He hears.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 116:1",
+            "book_code": "PSA",
+            "chapter": 116,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "I love the Lord, because he hath heard my voice."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 116 lets worship become personal testimony: the great God has also heard my voice in distress."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 116 begins tenderly: “I love the Lord, because he hath heard my voice.” Many psalms praise the greatness of God, but this one draws worship close to personal experience. The psalmist loves the Lord not only because God is worthy in Himself, but because His worthiness has been felt in answered prayer.",
+            "The psalm remembers cords of death, sorrow, and trouble. Then comes the cry: “I called upon the name of the Lord.” The rescue that follows turns theology into testimony. Love becomes the fitting response of a heard and delivered soul.",
+            "The psalm then moves outward into visible gratitude: “I will take the cup of salvation, and call upon the name of the Lord.” Worship is not only inward warmth. It becomes thanksgiving that is spoken, remembered, and offered before others. This matters because private rescue is never meant to terminate in private feeling alone. Deliverance ripens into public praise.",
+            "There is also something spiritually healthy in the psalmist's simplicity. He does not apologize for loving the Lord because the Lord heard him. Personal mercy does not cheapen worship; it often deepens it. The God of majesty is also the God who bends low enough to listen. That is why love can speak here without embarrassment. It is not sentimental. It is grateful, reverent, and true.",
+            "**Some of the strongest praise in Scripture rises from the meeting place between God's greatness and God's nearness.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 116:12",
+              "book_code": "PSA",
+              "chapter": 116,
+              "verses": "12",
+              "translation": "KJV",
+              "text": "What shall I render unto the Lord for all his benefits toward me?"
+            },
+            {
+              "display": "Psalm 116:13-14",
+              "book_code": "PSA",
+              "chapter": 116,
+              "verses": "13-14",
+              "translation": "KJV",
+              "text": "I will take the cup of salvation, and call upon the name of the Lord. I will pay my vows unto the Lord now in the presence of all his people."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I love You because You have heard my voice. Thank You that You are not distant, but One who inclines Your ear to the cries of Your people. Keep me from forgetting the ways You have dealt with me in mercy. Do not let the memory of grace fade into something small. Let gratitude become praise in my mouth today, and let my life return glory to You. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "day_label": "Day 22",
+      "title": "Oh How I Love Thy Law",
+      "subtitle": "His Word does more than instruct; it gives light and life to the soul.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 119:97",
+            "book_code": "PSA",
+            "chapter": 119,
+            "verses": "97",
+            "translation": "KJV",
+            "text": "O how love I thy law!"
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 119 shows us that loving God's Word is not a dry obligation, but the worshiper's delight in the voice of God."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 119 is long, but its center is clear: the Word of God is precious. Again and again the psalmist delights in it, hides it, meditates on it, obeys it, and loves it. This is not mechanical repetition. It is the rhythm of a worshiper returning again and again to the voice of God.",
+            "“Thy word is a lamp unto my feet, and a light unto my path.” We often quote that line for guidance, and rightly so. But Psalm 119 goes beyond usefulness. The Word is not only helpful; it is beloved. The psalmist values it above riches and tastes its sweetness. The more mature worship becomes, the more the soul loves not only God's gifts, but God's speech.",
+            "And the psalm is not written in ease. There is sorrow, pressure, humiliation, and opposition. That only makes the light of the Word more necessary.",
+            "The psalmist also calls God's testimonies his heritage forever. That means the Word is not merely emergency guidance. It is lasting treasure. The soul that loves God's voice does not turn to it only in crisis, but learns to live from it in ordinary time as well."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 119:103-105",
+              "book_code": "PSA",
+              "chapter": 119,
+              "verses": "103-105",
+              "translation": "KJV",
+              "text": "How sweet are thy words unto my taste!... Thy word is a lamp unto my feet, and a light unto my path."
+            },
+            {
+              "display": "Psalm 119:111",
+              "book_code": "PSA",
+              "chapter": 119,
+              "verses": "111",
+              "translation": "KJV",
+              "text": "Thy testimonies have I taken as an heritage for ever: for they are the rejoicing of my heart."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord who speaks, Your voice is not a burden but life to the soul. Do not let me remember Your Word only when I feel lost; make me love it more deeply because I love You. Let it become sweeter to me, and let it shine more clearly within me. If the path ahead is dark, light it by Your Word. If my heart has grown dull, awaken it again. Let me treasure Your voice and gladly walk in what You say. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "day_label": "Day 23",
+      "title": "I Will Lift Up Mine Eyes",
+      "subtitle": "All the keeping we need on the journey comes from the Maker of heaven and earth.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 121:2",
+            "book_code": "PSA",
+            "chapter": 121,
+            "verses": "2",
+            "translation": "KJV",
+            "text": "My help cometh from the Lord, which made heaven and earth."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 121 is a pilgrim song for the road, reminding us that all true help for the journey is found in God."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 121 sounds like a pilgrim song sung while walking. “I will lift up mine eyes unto the hills.” The question that follows is not pure uncertainty; it is the beginning of remembered truth. Help does not come from the landscape itself, but from the Lord who made heaven and earth.",
+            "The comfort of the psalm lies in its repeated language of keeping. God keeps the feet from slipping. He neither slumbers nor sleeps. He keeps by day and by night. He keeps the going out and the coming in. The journey is not self-managed. It is God-kept.",
+            "This psalm does not present help as a single dramatic intervention only. It portrays a lifelong guardianship. Worship on the road means remembering that every step depends upon the Lord.",
+            "That is what makes this pilgrim song so beautiful. The traveler has not yet arrived, and yet praise has already begun. Worship is not postponed until the destination is reached. It rises in the middle of the journey, because the Lord's keeping is already at work."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 121:3-4",
+              "book_code": "PSA",
+              "chapter": 121,
+              "verses": "3-4",
+              "translation": "KJV",
+              "text": "He will not suffer thy foot to be moved... behold, he that keepeth Israel shall neither slumber nor sleep."
+            },
+            {
+              "display": "Psalm 121:8",
+              "book_code": "PSA",
+              "chapter": 121,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "The Lord shall preserve thy going out and thy coming in."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Keeper of my life, the road is still before me, so I lift my eyes to You. My help is not in the hills, nor in myself, but in You, the Maker of heaven and earth. Lift my eyes toward You again. Do not let me become so aware of the road that I forget the Lord who walks with me. If I am weak, keep my feet. If I am anxious, remind me that You never slumber nor sleep. Let my journey be sustained by Your help and filled with worship to Your name. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "day_label": "Day 24",
+      "title": "As Them That Dream",
+      "subtitle": "When the Lord restores what was lost, joy can feel almost like a dream.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 126:1",
+            "book_code": "PSA",
+            "chapter": 126,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "When the Lord turned again the captivity of Zion, we were like them that dream."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 126 teaches us to praise in restoration and to keep praying while restoration is still unfinished."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 126 begins in astonishment: “We were like them that dream.” Restoration can arrive with that kind of wonder. God's goodness is sometimes so tangible that laughter and singing break out almost before we know how to explain them.",
+            "Yet the psalm does not end with memory alone. After celebrating what God has done, it turns immediately into prayer for what is still unfinished. This is one of the strengths of biblical worship: gratitude and longing are allowed to stand together. We do not have to choose between thankful remembrance and honest petition. The psalm gives us room for both.",
+            "That movement is especially important in seasons of partial restoration. Sometimes God has clearly acted, yet not everything has been made whole. Psalm 126 teaches the worshiper not to become cynical in that tension. Instead, it teaches her to say, “The Lord has done great things,” and then, without contradiction, “Turn again our captivity, O Lord.” Hope is not embarrassed by incompletion.",
+            "The final image of sowing in tears and reaping in joy also protects the soul from haste. God's restoration is sometimes sudden, and sometimes it grows through patient, tearful obedience. Either way, the field still belongs to Him.",
+            "**Praise remembers what God has done and still asks Him to continue His work.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 126:4",
+              "book_code": "PSA",
+              "chapter": 126,
+              "verses": "4",
+              "translation": "KJV",
+              "text": "Turn again our captivity, O Lord, as the streams in the south."
+            },
+            {
+              "display": "Psalm 126:5",
+              "book_code": "PSA",
+              "chapter": 126,
+              "verses": "5",
+              "translation": "KJV",
+              "text": "They that sow in tears shall reap in joy."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You for the great things You have done and for the ways You bring restoration to Your people. Keep me from forgetting Your past mercies, and keep me praying for what is not yet complete. If I am still sowing in tears, preserve hope within me. Let remembrance become praise, and let waiting remain full of trust. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "day_label": "Day 25",
+      "title": "Out of the Depths",
+      "subtitle": "God hears the prayer that rises from the deepest place.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 130:1",
+            "book_code": "PSA",
+            "chapter": 130,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "Out of the depths have I cried unto thee, O Lord."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 130 reminds us that the depths are not places where God abandons us, but places from which we may cry, wait, and hope in Him."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "“Out of the depths have I cried unto thee, O Lord.” Psalm 130 does not decorate the depths. It names them. The psalmist is not standing in confidence. He is calling for mercy.",
+            "What is precious is how the cry begins to become waiting. “I wait for the Lord... and in his word do I hope.” The depths remain, but hope is born there. Forgiveness with God makes reverent waiting possible. The psalmist is not only desperate; he is teachable. He does not merely shout into darkness. He waits for the God whose mercy he has learned to trust.",
+            "This gives the psalm its unusual strength. It is a deep prayer, but not a collapsing prayer. It is sorrowful, but not hopeless. The soul in the depths still knows something essential about God: with Him there is forgiveness, and with Him there is plenteous redemption. That knowledge does not remove the night immediately, but it changes the way the night is endured.",
+            "**The one who cries from the depths is already facing in the right direction when her cry is turned toward the Lord.**",
+            "**The depths are not always where worship ends. They may be where hope begins most truthfully.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 130:5",
+              "book_code": "PSA",
+              "chapter": 130,
+              "verses": "5",
+              "translation": "KJV",
+              "text": "I wait for the Lord, my soul doth wait."
+            },
+            {
+              "display": "Psalm 130:7",
+              "book_code": "PSA",
+              "chapter": 130,
+              "verses": "7",
+              "translation": "KJV",
+              "text": "Let Israel hope in the Lord: for with the Lord there is mercy, and with him is plenteous redemption."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, if I am in the depths, hear my voice. Thank You that with You there is forgiveness and abundant redemption. Teach me not only to cry out, but also to wait. Let Your Word keep my hope alive. Do not let darkness swallow expectation. In the deep place, let me still know that Your mercy endures. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "day_label": "Day 26",
+      "title": "A Heart Not Proud",
+      "subtitle": "To grow quiet before God is a form of gentle maturity.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 131:1",
+            "book_code": "PSA",
+            "chapter": 131,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "Lord, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 131 is brief as a sigh, yet it brings worship into profound quietness and humility."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 131 is very short, yet it feels like deep water. The psalmist says his heart is not proud and his eyes are not lofty. Then he describes his soul as quieted like a weaned child with its mother. This is a remarkable image. Worship here is not intensity, but peace.",
+            "Spiritual maturity is often imagined as greater reach, greater grasp, or greater clarity. Psalm 131 offers another picture: humility, limits embraced, and the soul settled before God. The psalmist is no longer trying to occupy a place too high for him. He is no longer feverishly stretching toward things beyond his measure. That release is not defeat. It is freedom.",
+            "The image of the weaned child is especially beautiful because it speaks of trust after demandingness has quieted. The child is no longer clinging in restless hunger, but resting in nearness. So too the worshiping heart learns, over time, not only to ask much of God, but to be still with God. There is a maturity that grows not by grasping harder, but by yielding more deeply.",
+            "**Peace in God's presence is not spiritual smallness. It is often one of the clearest signs that the soul has learned reverence.**",
+            "**Some of the deepest worship is not loud declaration, but the quietness of a heart finally resting in God.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 131:2",
+              "book_code": "PSA",
+              "chapter": 131,
+              "verses": "2",
+              "translation": "KJV",
+              "text": "Surely I have behaved and quieted myself, as a child that is weaned of his mother."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, deliver me from pride, restlessness, and the need to grasp what is beyond me. Quiet my soul before You. Teach me to rest like a weaned child held close. Let my worship be true not only in strong emotion, but also in holy stillness. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "day_label": "Day 27",
+      "title": "Thou Hast Searched Me",
+      "subtitle": "To be fully known by Him is to find a place to stand without fear.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 139:1",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "O Lord, thou hast searched me, and known me."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 139 brings worship into a deep place: the God who knows all things is also the God who is present everywhere with me."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 139 holds reverence and comfort together. God searches, knows, understands, and sees. Such knowledge would be terrifying in the hands of another human being. Yet in God's hands it becomes safety.",
+            "The psalm goes on to declare that there is nowhere we can flee from His presence. Heaven, Sheol, the uttermost sea—He is there. Worship deepens here because truth becomes personal: I cannot hide from God, but I also do not need to hide from God.",
+            "The psalm ends with prayer: “Search me, O God.” Adoration becomes surrender.",
+            "What makes this psalm consoling is that God's searching knowledge is not detached observation. He knows, and yet He stays near. He searches, not to shame, but to lead. That is why honesty before Him becomes safety rather than terror. The soul begins to understand that hiding is not its refuge. God Himself is."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 139:7-10",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "7-10",
+              "translation": "KJV",
+              "text": "Whither shall I go from thy spirit?... even there shall thy hand lead me, and thy right hand shall hold me."
+            },
+            {
+              "display": "Psalm 139:23",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "23",
+              "translation": "KJV",
+              "text": "Search me, O God, and know my heart."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Searching Lord, before You I have nowhere to hide, and I no longer need to hide. You know me completely, yet You have not cast me away; You draw near, and You are willing to lead me. Keep me from bringing only polished fragments of myself into Your presence. Search me, know me, and guide me today. Let Your all-knowing, ever-present love deepen both my reverence and my comfort, and make my worship more true. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "day_label": "Day 28",
+      "title": "Teach Me the Way",
+      "subtitle": "When the way ahead is unclear, we may still ask Him to lead us step by step.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 143:4-6",
+            "book_code": "PSA",
+            "chapter": 143,
+            "verses": "4-6",
+            "translation": "KJV",
+            "text": "My spirit is overwhelmed within me... I stretch forth my hands unto thee: my soul thirsteth after thee, as a thirsty land."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 143 shows that worship does not eliminate confusion; it teaches the soul to keep asking God for the way."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "In Psalm 143 the spirit faints and the heart is overwhelmed. Yet the psalmist still remembers God's works and still asks for direction. Worship does not remove every moment of bewilderment. It gives bewilderment a place to kneel.",
+            "“Teach me to do thy will; for thou art my God.” The deepest strength of that line is not merely the request for direction, but the confession that God is God. Guidance is finally rooted in worship. The psalmist is not only asking for information. He is offering allegiance. He wants a path because he belongs to a Lord.",
+            "That is why this psalm remains so helpful in confused seasons. It does not tell us to pretend clarity has already arrived. It teaches us what to do while clarity is still withheld: remember, lift empty hands, ask for mercy in the morning, and seek to be taught. The soul is not left passive in uncertainty; it becomes prayerful within it.",
+            "**The truest guidance is not merely knowing what comes next, but learning to walk the next step in communion with God.**",
+            "**To be led by God is not only to know a path, but to remain His upon the path.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 143:8",
+              "book_code": "PSA",
+              "chapter": 143,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "Cause me to hear thy lovingkindness in the morning... cause me to know the way wherein I should walk."
+            },
+            {
+              "display": "Psalm 143:10",
+              "book_code": "PSA",
+              "chapter": 143,
+              "verses": "10",
+              "translation": "KJV",
+              "text": "Teach me to do thy will; for thou art my God."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "My God, if the way ahead feels unclear today, let me hear of Your lovingkindness in the morning. Thank You that You do not wait for me to understand everything before You begin to lead me. Teach me the way I should walk, and teach me also to do Your will. Let confusion not pull me away from worship, but deeper into listening. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "day_label": "Day 29",
+      "title": "Daily Praise",
+      "subtitle": "Praise is not only a moment of uplift, but a daily discipline of the soul.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 145:2",
+            "book_code": "PSA",
+            "chapter": 145,
+            "verses": "2",
+            "translation": "KJV",
+            "text": "Every day will I bless thee."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "Psalm 145 brings worship into ordinary days, making “I will bless thee every day” a sustained rhythm of life."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 145 flows like a river of blessing. “Every day will I bless thee,” says the psalmist, and then he anchors that daily praise in the greatness of God. He is greatly to be praised, therefore praise belongs not only to exceptional moments, but to ordinary days as well.",
+            "The psalm names God's mighty acts, compassion, provision, faithfulness, and nearness. Praise becomes concrete because it is filled with truth. It is not vague uplift. It is the deliberate rehearsal of who God is. And because it is daily praise, it refuses to let worship remain reserved for moments that already feel dramatic. Ordinary time becomes one of the chief places where God is honored.",
+            "The psalm also reminds us that one generation tells another of His works. Worship is larger than the individual. Daily praise joins the long testimony of God's people. When the soul blesses God day after day, it is not merely sustaining a private habit. It is learning to live inside the ongoing praise of the saints.",
+            "**To bless God every day is to let worship become a pattern strong enough to hold both feast days and ordinary days alike.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 145:8",
+              "book_code": "PSA",
+              "chapter": 145,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "The Lord is gracious, and full of compassion; slow to anger, and of great mercy."
+            },
+            {
+              "display": "Psalm 145:18",
+              "book_code": "PSA",
+              "chapter": 145,
+              "verses": "18",
+              "translation": "KJV",
+              "text": "The Lord is nigh unto all them that call upon him."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "My God and King, I bless Your name. Thank You that You reveal Yourself not only in great moments, but in daily mercies, compassion, and faithful care. Teach me to praise You every day, not only when my emotions are lifted. Let remembrance fill ordinary life with worship, and let my mouth continue the testimony of Your works. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "day_label": "Day 30",
+      "title": "Let Everything That Hath Breath",
+      "subtitle": "The end of the Psalms is all creation returning glory to God.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Psalm 150:1",
+            "book_code": "PSA",
+            "chapter": 150,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "Praise ye the Lord. Praise God in his sanctuary."
+          }
+        },
+        {
+          "type": "one_line_intro",
+          "ui_hint": "card.callout",
+          "heading": "In a Sentence",
+          "body": "The Psalms do not end with the self. They end by gathering everything that has breath into praise, closing the whole book in hallelujah."
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Psalm 150 gives almost no explanation. It gives summons after summons: “Praise ye the Lord.” By the end of the Psalter, all the cries, confessions, longings, thanksgivings, and songs of trust are gathered into one final movement—praise.",
+            "The psalm names sanctuary and firmament, mighty acts and excellent greatness. It names trumpet, psaltery, harp, timbrel, dance, strings, organs, and cymbals. This is not merely noise. It is abundance of response. Everything capable of answering God is called to answer Him.",
+            "The last line is the perfect ending: “Let every thing that hath breath praise the Lord.” This is not only for a few strong worshipers. It is for every creature sustained by the breath of God. The Psalms begin with the blessed person and end with all breathing creation.",
+            "**The true end of this journey is not merely that we feel more settled, but that our whole lives are gathered into hallelujah.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 150:3-5",
+              "book_code": "PSA",
+              "chapter": 150,
+              "verses": "3-5",
+              "translation": "KJV",
+              "text": "Praise him with the sound of the trumpet... praise him upon the loud cymbals."
+            },
+            {
+              "display": "Psalm 150:6",
+              "book_code": "PSA",
+              "chapter": 150,
+              "verses": "6",
+              "translation": "KJV",
+              "text": "Let every thing that hath breath praise the Lord."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Hallelujah. Lord, thank You for leading me through the Psalms—through rootedness, awe, repentance, waiting, longing, remembrance, and gratitude—and bringing my heart at last into simple praise. You are great, and You are worthy of all glory, honor, and worship. Let me not praise You today only with words, but with breath, with daily life, with ordinary obedience, and with the whole direction of my soul. Gather my life into this final confession: Praise ye the Lord. In Jesus' name, amen.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG13",
+    "slug": "right-to-disconnect",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "weariness-burnout",
+      "secondary_label": "Lassitude et Épuisement"
+    },
+    "tags": [
+      "lassitude",
+      "epuisement",
+      "repos",
+      "berger",
+      "limites",
+      "sabbat"
+    ],
+    "title": "Le Droit de se déconnecter",
+    "subtitle": "Pour celle qui est tellement fatiguée qu'elle voudrait tout éteindre, rester silencieuse et cesser de répondre pour un moment.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "lasse",
+        "épuisée",
+        "vidée"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour celle qui est tellement fatiguée qu'elle voudrait tout éteindre, rester silencieuse et cesser de répondre pour un moment.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#A3C8B5",
+      "color_secondary": "#355945",
+      "image_key": "cover_woman_resting_pillow_morning_burnout",
+      "icon": "quiet-tea-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Marc 6:31",
+        "book_code": "MRK",
+        "chapter": 6,
+        "verses": "31"
+      },
+      {
+        "display": "Matthieu 11:28-30",
+        "book_code": "MAT",
+        "chapter": 11,
+        "verses": "28-30"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Je ne suis pas distante ; j'ai été en ligne trop longtemps",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Marc 6:31",
+            "book_code": "MRK",
+            "chapter": 6,
+            "verses": "31",
+            "translation": "Louis Segond 1910",
+            "text": "Et il leur dit : Venez à l'écart dans un lieu désert, et reposez-vous un peu. Car il y avait beaucoup de gens qui allaient et venaient, et ils n'avaient pas même le temps de manger."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'épuisement commence souvent bien avant qu'une femme trouve les mots pour le décrire. Il commence par l'habitude de ne jamais vraiment s'éloigner. Tu réponds au travail, puis à la famille, puis aux messages, puis à la tension émotionnelle, puis aux préoccupations de demain. Même le silence est encombré. Beaucoup de femmes savent ce que c'est d'être accessible toute la journée et de se sentir coupables de vouloir une heure tranquille où personne n'a besoin de rien.",
+            "C'est pourquoi l'invitation de Jésus en Marc 6 semble si tendre. Il voit Ses disciples épuisés par une demande constante et leur dit de s'éloigner et de se reposer. L'Écriture dit même qu'ils n'avaient pas le temps de manger. Dieu ne ignore pas ce genre d'épuisement. Le Psaume 23 donne le même réconfort sous une autre forme. Le Berger non seulement conduit ; Il fait coucher Ses brebis et restaure leurs âmes. **Parfois, le désir de se déconnecter n'est pas de l'égoïsme. C'est un signe que ton âme a vécu sans assez de pâturage.**",
+            "Certains épuisements ne se résolvent pas en essayant d'être plus aimable, accessible ou efficace. Ils s'apaisent quand tu cesses de traiter l'accès constant comme de la sainteté. Beaucoup de femmes ont tranquillement appris à confondre être digne de confiance avec être perpétuellement ouverte. Mais ce ne sont pas la même chose. L'amour offert par l'épuisement commence à perdre sa chaleur. L'attention dispersée dans toutes les directions ne peut rester profonde longtemps.",
+            "Peut-être que la vraie question spirituelle n'est pas « Pourquoi veux-je m'éloigner ? » mais « Combien de temps ai-je vécu sans repos ? » Il y a de la sagesse à apprendre quand ranger le téléphone, quand répondre plus tard, et quand laisser le silence rester silence. **Une vie fidèle n'est pas une vie où tu es accessible à chaque moment. C'est une vie où ton âme reste conduite par Dieu.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, je viens vers Toi et j'avoue que je suis fatiguée. J'ai souvent traité la disponibilité constante comme de la fidélité, et j'ai oublié que j'ai aussi besoin de repos. Merci d'être mon Berger, non seulement quand je suis forte, mais aussi quand je suis épuisée. Pardonne-moi de confondre la nécessité avec la maturité. Conduis-moi auprès des eaux tranquilles et enseigne-moi à ne pas craindre la pause. Que mon cœur devienne silencieux devant Toi, et que des limites plus sages commencent à se former dans ma vie. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Marc 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "Louis Segond 1910",
+              "text": "Et il leur dit : Venez à l'écart dans un lieu désert, et reposez-vous un peu. Car il y avait beaucoup de gens qui allaient et venaient, et ils n'avaient pas même le temps de manger."
+            },
+            {
+              "display": "Psaume 23:1-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1-3",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel est mon berger : je ne manquerai de rien. Il me fait reposer dans de verts pâturages, il me conduit auprès des eaux paisibles. Il restaure mon âme, il me conduit dans les sentiers de la justice, à cause de son nom."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Dieu ne s'éloigne pas quand j'ai besoin de faire une pause",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Rois 19:5-6,8",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "5-6,8",
+            "translation": "Louis Segond 1910",
+            "text": "Il se coucha et s'endormit sous un genêt ; et voici, un ange le toucha et lui dit : Lève-toi, mange. …Il se leva, mangea et but ; et, fortifié par cette nourriture, il marcha quarante jours et quarante nuits jusqu'à la montagne de Dieu, l'Horeb."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens ne craignent pas tant la fatigue elle-même. Ils craignent ce que l'arrêt pourrait découvrir. Si tu as passé longtemps à tenir la vie ensemble, la pause peut sembler dangereuse. Une douleur insensible peut émerger. La colère peut surgir. Tu dois peut-être admettre que tu ne copes pas aussi bien que tous le supposent. Pour une femme habituée à être fiable, même cet aveu peut sembler une perte.",
+            "L'histoire d'Élie est magnifique parce que Dieu ne répond pas à l'effondrement par le reproche. Il répond par l'attention. Élie dort. Il mange. Il est soigné avant d'être redirigé. Le Psaume 103 dit que Dieu se souvient que nous sommes poussière. Ce n'est pas une déclaration de rejet. C'est une déclaration compatissante. **Dieu ne s'attend pas à ce que tu sois moins humaine pour être plus spirituelle.**",
+            "Cela compte dans les saisons d'épuisement. Certaines femmes ont appris à ignorer chaque signal d'épuisement jusqu'à ce que le corps ou l'âme force finalement un arrêt. Puis la honte envahit, comme si avoir besoin de soin était un échec de caractère. Mais le Seigneur qui nous a créées n'est pas scandalisé par nos limites. Il ne s'éloigne pas quand nous les reconnaissons. Très souvent, Il se rapproche.",
+            "Vivre avec fidélité n'est pas de prétendre que tu n'as besoin de rien. C'est d'être honnête sur ce que la restauration exige et de le recevoir sans mépris. Le sommeil, la nourriture, le calme, les larmes, l'amitié, l'aide, les soins médicaux et les rythmes plus doux appartiennent tous à la même vie avec la prière. **Parfois, la grâce ressemble moins à une force soudaine qu'à être soignée par Dieu de manière très ordinaire.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur miséricordieux, Tu sais que je ne suis que poussière, et Tu sais à quelle vitesse je me blâme quand je ralentis. Merci de ne pas être aussi dur avec moi que je le suis avec moi-même. Quand Tu me vois épuisée, Tu n'accours pas d'abord pour condamner. Tu montres de la compassion. Guéris la part de moi qui craint les limites, et donne-moi l'humilité pour recevoir l'aide et l'assistance. Si je me pousse trop fort, arrête-moi dans l'amour. Conduis-moi vers un repos sincère et enseigne-moi à vivre comme un être humain, pas comme une machine. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Rois 19:5-6,8",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "5-6,8",
+              "translation": "Louis Segond 1910",
+              "text": "Il se coucha et s'endormit sous un genêt ; et voici, un ange le toucha et lui dit : Lève-toi, mange. …Il se leva, mangea et but ; et, fortifié par cette nourriture, il marcha quarante jours et quarante nuits jusqu'à la montagne de Dieu, l'Horeb."
+            },
+            {
+              "display": "Psaume 103:13-14",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "13-14",
+              "translation": "Louis Segond 1910",
+              "text": "Comme un père a de la compassion pour ses enfants, l'Éternel a de la compassion pour ceux qui le craignent. Car il connaît notre nature ; il se souvient que nous sommes poussière."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "La vrai restauration commence en se reconnectant à Dieu, non aux exigences",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Matthieu 11:28-30",
+            "book_code": "MAT",
+            "chapter": 11,
+            "verses": "28-30",
+            "translation": "Louis Segond 1910",
+            "text": "Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos. …Car mon joug est bon et mon fardeau est léger."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens pensent à la récupération comme un moyen de devenir efficace à nouveau. Ils se reposent afin de retourner plus fort au même cycle épuisant. Dans cette sorte de vie, même le repos devient un instrument de performance. Il n'a de valeur que s'il t'aide à produire davantage.",
+            "Jésus offre quelque chose de mieux. Il dit aux fatigués de venir à Lui. Il parle d'un joug plus léger, pas seulement d'une récupération plus rapide. Jean 15 approfondit cette invitation en utilisant le langage de la communion. Cela signifie que le renouvellement n'est pas principalement un problème de planification. C'est un problème relationnel. Une femme peut s'éloigner du bruit un moment et retourner au même effort intérieur si elle ne revient jamais véritablement à Dieu.",
+            "**La vraie restauration ne commence pas quand tu es à nouveau productive. Elle commence quand ton cœur est réuni à Celui qui décide ce qui est vraiment tien à porter.** Cela change l'esprit de toute une journée. Cela change ce qui semble urgent, ce qui est libéré, et ce qui ne mérite plus de vivre dans tes épaules et tes nerfs comme une pression constante.",
+            "L'objectif plus profond n'est pas de redevenir toi-même telle qu'avant avec ta haute capacité. C'est de devenir une femme qui vit plus étroitement connectée à Christ qu'à la demande. Une telle vie travaille encore, serve encore, aime encore. Mais elle ne tire plus toute sa force de la pression. Elle commence à puiser sa force dans la communion, le discernement et la paix."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, je Te remercie parce que Tu n'es pas un maître qui me pousse plus fort, mais le Sauveur qui m'invite à venir et à me reposer. Je veux souvent une récupération rapide seulement pour retourner à la même tension. Délivre-moi de ce cycle. Montre-moi quels fardeaux viennent de Toi et quels sont ceux que j'ai refusé de lâcher. Laisse-moi retourner à Toi avant de retourner à la demande. Sans Toi, même mes efforts me laissent vide. Garde-moi en communion avec Toi, et que la force surgisse de la communion plutôt que de la tension. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Matthieu 11:28-30",
+              "book_code": "MAT",
+              "chapter": 11,
+              "verses": "28-30",
+              "translation": "Louis Segond 1910",
+              "text": "Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos. …Car mon joug est bon et mon fardeau est léger."
+            },
+            {
+              "display": "Jean 15:4-5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "4-5",
+              "translation": "Louis Segond 1910",
+              "text": "Demeurez en moi, et je demeurerai en vous. …Car sans moi, vous ne pouvez rien faire."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

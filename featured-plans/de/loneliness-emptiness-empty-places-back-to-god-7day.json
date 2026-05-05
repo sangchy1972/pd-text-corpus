@@ -1,0 +1,503 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG12",
+    "slug": "empty-places-back-to-god",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garten der Gefühle",
+      "secondary": "loneliness-emptiness",
+      "secondary_label": "Einsamkeit und Leere"
+    },
+    "tags": [
+      "einsamkeit",
+      "leere",
+      "zugehoerigkeit",
+      "gegenwart-gottes",
+      "gemeinschaft"
+    ],
+    "title": "Das Leere meines Herzens vor Gott bringen",
+    "subtitle": "Diese sieben Tage führen dich sanft tiefer in die Einsamkeit und Leere, und leiten dein Herz zurück zur Fülle und Gegenwart Gottes.",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "einsam",
+        "leer",
+        "ungesehen"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese sieben Tage führen dich sanft tiefer in die Einsamkeit und Leere, und leiten dein Herz zurück zur Fülle und Gegenwart Gottes.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#C8D2DA",
+      "color_secondary": "#4A5563",
+      "image_key": "cover_woman_quiet_room_lamp_evening_loneliness",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "1. Mose 16:13",
+        "book_code": "GEN",
+        "chapter": 16,
+        "verses": "13"
+      },
+      {
+        "display": "Psalm 68:6",
+        "book_code": "PSA",
+        "chapter": 68,
+        "verses": "6"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Die schärfste Einsamkeit ist der Schmerz, nicht wirklich verstanden zu werden",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Mose 16:13",
+            "book_code": "GEN",
+            "chapter": 16,
+            "verses": "13",
+            "translation": "Lutherbibel 1912",
+            "text": "Da rief sie den Namen des Herrn an, der mit ihr redete: Du bist ein Gott, der mich sieht."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Einsamkeit hat wenig damit zu tun, physisch allein zu sein. Sie wächst in Räumen, wo du anwesend bist, aber dich noch immer tiefgreifend unbekannt fühlst. Viele Frauen kennen diesen Schmerz gut. Sie sind nützlich, verantwortungsvoll, präsent und beziehungsorientiert, doch der wahrste Teil von ihnen bleibt unberührt. Menschen nehmen vielleicht deine Kraft, deine Rolle oder deine Wärme wahr, ohne den Schmerz, die Müdigkeit oder die unerfüllte Sehnsucht darunter zu sehen.",
+            "Diese Art der Einsamkeit ist besonders schmerzhaft, weil sie sich unsichtbar anfühlen kann. Du könntest dir selbst sagen, dass du sie nicht Einsamkeit nennen solltest, weil dein Leben technisch voller Menschen ist. Aber die Heilige Schrift schafft Platz für genau diese Art von Schmerz. Der Psalmist sagt einfach: \"Ich bin trostlos und bedrübt.\" Hagar begegnet Gott in der Verlassenheit und nennt Ihn den Gott, der sieht. Diese Verse drängen Menschen nicht, an der Einsamkeit vorbeizueilen. Sie erlauben, dass sie Gott ehrlich gesagt wird.",
+            "**Die schärfste Einsamkeit ist oft nicht das Fehlen von Menschen, sondern der Schmerz, nicht wirklich verstanden zu werden.** Diese Wahrheit auszusprechen kann klärend wirken. Das bedeutet, du bist nicht schwach oder undankbar, wenn du dich in einem vollen Leben einsam fühlst. Das bedeutet, du trägst einen echten Hunger.",
+            "Bringe heute einen einsamen Moment ehrlich vor Gott. **Heilung beginnt oft, wenn verborgene Einsamkeit nicht länger heruntergespielt, sondern in die Gegenwart des Gottes gebracht wird, der sieht.** Er schämt sich nicht für dein Bedürfnis, gekannt zu werden. Er begegnet es mit Mitgefühl."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gebe zu, dass es in mir eine tiefe Einsamkeit gibt, nicht einfach, weil ich ohne Menschen bin, sondern weil ich mich oft nicht wirklich verstanden fühle. Danke, dass ich diese Einsamkeit vor dir bringen kann, ohne sie erst zu verharmlosen. Sieh die Bedürfnisse, die ich nicht ausgesprochen habe, und lass mich aufhören, in deiner Gegenwart eine starke Fassade zu bewahren. Lass diese Reise damit beginnen, von dir gesehen zu werden, und lehre mein Herz, wie es in deinem Licht stabiler wird. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Mose 16:13",
+              "book_code": "GEN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "Lutherbibel 1912",
+              "text": "Da rief sie den Namen des Herrn an, der mit ihr redete: Du bist ein Gott, der mich sieht."
+            },
+            {
+              "display": "Psalm 25:16",
+              "book_code": "PSA",
+              "chapter": 25,
+              "verses": "16",
+              "translation": "Lutherbibel 1912",
+              "text": "Wende dich zu mir und erbarme dich meiner; denn ich bin elend und bedrübt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Gott sieht die Einsamkeit, die ich nicht ausspreche",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "5. Mose 31:8",
+            "book_code": "DEU",
+            "chapter": 31,
+            "verses": "8",
+            "translation": "Lutherbibel 1912",
+            "text": "Der Herr selbst geht vor dir her; er wird bei dir sein und dich nicht verlassen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Einsamkeit ist schwer zu beschreiben, weil es sich zu anfällig anfühlt, sie in Worte zu fassen. Du könntest Angst haben, dass Menschen dich missverstehen, zu schnell antworten oder sie nicht ernst nehmen, wenn du sie aussprichst. Also behältst du sie verborgen und funktionierst weiter. Doch Gott erfordert keine perfekte emotionale Sprache, um dir zu begegnen. Er sieht die Einsamkeit, die du nicht vollständig erklären kannst.",
+            "Die Heilige Schrift spricht mit ungewöhnlicher Zärtlichkeit zu dieser Angst. Gott verspricht, sein Volk nicht zu verlassen oder zu verstoßen. Der Psalmist sagt, dass auch wenn die engsten menschlichen Bindungen fehlschlagen, der Herr ihn aufnehmen wird. Diese Verheißungen sind wichtig, denn unter vielen Formen der Einsamkeit liegt eine tiefere Angst: Was ist, wenn ich nicht die Art von Person bin, die behalten wird? Was ist, wenn ich immer die bin, die für andere auftaucht, aber selbst kaum wirklich getragen wird?",
+            "**Gott sieht die Einsamkeit, die du nie aussagst, und er hat dich nicht losgelassen.** Diese Wahrheit ist nicht sentimentalisch. Sie ist grundlegend. Menschliche Gegenwart kann inkonsistent sein. Gottes Gegenwart ist es nicht.",
+            "Wiederhole heute einen einfachen Satz vor Ihm: \"Herr, du bist noch immer bei mir.\" **Manchmal wird das Herz nicht durch sofortige emotionale Erleichterung beruhigt, sondern dadurch, dass man immer wieder zur unwandelbaren Gegenwart Gottes zurückkehrt.** Lass diese Beständigkeit beginnen, die Orte in dir zu erreichen, die am meisten Angst vor Verlassenheit haben."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du die Einsamkeit siehst, die ich nie vollständig ausgesprochen habe. Danke, dass du nicht von mir weggegangen bist, nur weil ich mich nicht klar ausdrücken kann. Pflanze diese Wahrheit tief in mir ein: Du bist noch immer bei mir. Bewahre mich davor, meinen Wert nur an menschlichen Reaktionen zu messen, und bewahre mich davor, mich selbst als jemanden zu sehen, der nie wirklich aufgefangen wird. Lass deine Beständigkeit ein neuer Ort der Sicherheit in mir werden. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "5. Mose 31:8",
+              "book_code": "DEU",
+              "chapter": 31,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Herr selbst geht vor dir her; er wird bei dir sein und dich nicht verlassen."
+            },
+            {
+              "display": "Psalm 27:10",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Wenn auch mein Vater und meine Mutter mich verlassen würden, so nimmt der Herr mich auf."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Wir versuchen, die Leere mit vielem zu füllen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Lukas 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "Lutherbibel 1912",
+            "text": "Martha, Martha, du machst dir viel Mühe und Unruhe; es gehört aber nur eins Not."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Die Leere täuscht sich am meisten, weil sie selten direkt sagt: \"Ich bin leer.\" Oft versteckt sie sich in Gewohnheiten, die harmlos oder sogar vernünftig wirken. Du greifst nach Geschäftigkeit, Komfort, Lärm, Online-Ablenkung, Produktivität oder danach, von jemandem gebraucht zu werden. Keine dieser Dinge sind automatisch falsch. Die Frage ist, was sie für deine Seele tun sollen.",
+            "Viele Frauen versuchen, Leere zu bewältigen, indem sie außen voll bleiben. Sie planen, scrollen, dienen, kaufen, antworten und halten sich in Bewegung. Eine Weile funktioniert es. Der Schmerz wird ruhiger. Aber schließlich kehrt die innere Leere zurück, weil äußere Erfüllung innere Hunger nicht heilen kann.",
+            "Marthas Geschichte ist hilfreich, denn ihr Problem war nicht Faulheit. Es war, in so viele Richtungen gezogen zu werden, bis sie das Zentrum verlor. Der Prediger fügt hinzu, dass Gott die Ewigkeit ins Herz des Menschen gelegt hat. Es gibt eine Tiefe der Sehnsucht in uns, die begrenzte Dinge nicht vollständig befriedigen können.",
+            "**Wir versuchen oft, die Leere mit vielem zu füllen, aber tiefere Hunger verschwindet nicht einfach, weil das Leben voller aussieht.** Das zu erkennen ist kein Versagen. Es ist Weisheit. Es bedeutet, dass du ehrlich wirst über die Grenzen dessen, was geschaffene Dinge tun können.",
+            "Frage dich heute, worauf du am meisten hingreifst, wenn die Leere lauter wird. **Du musst dich nicht selbst beschämen wegen deiner Bewältigungsgewohnheiten, um damit zu beginnen, deinen Hunger vor Gott zu bringen.** Du brauchst nur genug Ehrlichkeit, um zuzugeben, dass das Herz nach etwas Dauerhafterem fragt."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gebe zu, dass ich oft viel gebrauche, um die Leere in mir zu füllen. Danke, dass du nicht mit Vorwurf darauf hinweist, sondern mit Wahrheit und Sanftheit mein Herz aufweckst. Zeige mir, worauf ich mich am meisten verlasse, um Leere zu betäuben, und hilf mir langsam zu verstehen, dass meine tiefste Sehnsucht größer ist als diese Dinge. Lass mich nicht endlos die Außenseite füllen, während ich das Innere hinausschiebe. Bringe mich zu dir zurück und lehre mich, wahre Erfüllung in deiner Gegenwart zu finden. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Lukas 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "Lutherbibel 1912",
+              "text": "Martha, Martha, du machst dir viel Mühe und Unruhe; es gehört aber nur eins Not."
+            },
+            {
+              "display": "Prediger 3:11",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "11",
+              "translation": "Lutherbibel 1912",
+              "text": "Er hat auch die Ewigkeit in ihr Herz gelegt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Manche Leere ist geistlicher Durst",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Johannes 4:13-14",
+            "book_code": "JHN",
+            "chapter": 4,
+            "verses": "13-14",
+            "translation": "Lutherbibel 1912",
+            "text": "Wer von diesem Wasser trinkt, wird wieder Durst bekommen; wer aber von dem Wasser trinkt, das ich ihm geben werde, wird in Ewigkeit nicht mehr Durst haben."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wenn Leere lange bei uns bleibt, schauen wir normalerweise zuerst nach äußeren Lösungen. Aber Jesus führt die samaritanische Frau zu einer tieferen Wahrheit: Ein Durst ist geistig. Er kann nicht allein durch mehr äußere Versorgung gelöst werden. Sie kehrt immer wieder zum Brunnen zurück, um Wasser zu holen, und ihre Geschichte spiegelt wider, wie leicht das menschliche Leben an vertraute Orte zurückkehrt, um Erfüllung zu suchen, während es innerlich durstig bleibt.",
+            "Für eine moderne Frau ist der \"Brunnen\" vielleicht nicht wörtlich. Es könnte eine bestimmte Beziehung sein, ein Muster der Aufmerksamkeit, eine Art zu beweisen, dass man wertvoll ist, oder ein stetiger Strom von Ablenkung. Du behältst die Hoffnung, dass dieser Durst diesmal länger stille bleiben wird. Manchmal geschieht das für kurze Zeit. Dann kehrt der Durst zurück.",
+            "Jesus schämt sich nicht für Durst. Er antwortet darauf mit lebendigem Wasser. Psalm 16 sagt, dass in Gottes Gegenwart Fülle der Freude ist. Zusammen deuten diese Wahrheiten darauf hin, dass manche Formen der Leere nicht Zeichen sind, dass du das Leben schlecht lebst. Sie sind Zeichen, dass deine Seele viel zu lange ohne tiefe Erquickung in Gott ging.",
+            "**Manche Leere ist nicht durch mangelnde Anstrengung verursacht, sondern durch geistlichen Durst.** Diese Erkenntnis kann Selbstverurteilung mildern. Du könntest nicht mehr Druck brauchen. Du könntest lebendes Wasser brauchen.",
+            "Bete heute einfach: \"Herr, ich bin durstig.\" **Einer der tiefsten Wendepunkte im geistlichen Leben ist, wenn wir aufhören, unseren ganzen Durst zu geringeren Brunnen zu tragen, und anfangen, ihn ehrlich zu Christus zu bringen.** Er ist nicht beleidigt, wie viel du brauchst. Er ist derjenige, der dir beibrachte, zu kommen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gebe zu, dass es in mir einen tieferen Durst gibt, den ich nicht durch Geschäftigkeit, Beziehung oder Bestätigung stillen kann. Danke, dass du menschlichen Durst nicht beschämst, sondern mit lebendem Wasser antwortest. Heute möchte ich meinen ganzen Durst nicht mehr zu anderen Brunnen bringen; ich möchte vor dir kommen. Lehre mich, aus deiner Gegenwart zu trinken, und wecke die Teile von mir auf, die viel zu lange ohne wirkliche geistliche Erquickung gegangen sind. Bewahre mich davor, nur zu überleben, und lass mich anfangen, wirklich voller in dir zu leben. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Johannes 4:13-14",
+              "book_code": "JHN",
+              "chapter": 4,
+              "verses": "13-14",
+              "translation": "Lutherbibel 1912",
+              "text": "Wer von diesem Wasser trinkt, wird wieder Durst bekommen; wer aber von dem Wasser trinkt, das ich ihm geben werde, wird in Ewigkeit nicht mehr Durst haben."
+            },
+            {
+              "display": "Psalm 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "Lutherbibel 1912",
+              "text": "Du wirst mich der Fülle der Freuden zeigen vor deinem Angesicht."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Nach Verletzung wagt das Herz nicht mehr, sich Menschen zu nähern",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Prediger 4:9-10",
+            "book_code": "ECC",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "Lutherbibel 1912",
+            "text": "Zwei sind besser als einer allein; denn wenn sie fallen, richtet einer seinen Gefährten auf. Wehe aber dem Einsamen, wenn er fällt; denn es ist keiner da, der ihm aufhilft."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Einsamkeit besteht nicht, weil du keine Gelegenheit zur Verbindung hast, sondern weil du nicht mehr wagst, dich zu nähern. Du bist verletzt worden, missverstanden, übersehen, enttäuscht. Dein Herz lernt deshalb Selbstschutz: Nicht zu viel sagen, nicht zu nah kommen, nicht zu tief erwarten. Oberflächlich betrachtet, lässt dich das unabhängiger, ruhiger und weniger störbar wirken. Aber innen wirst du oft immer einsamer. Denn Menschen sind nicht so geschaffen, dass sie sich völlig verschließen. Gott hat Menschen geschaffen und heilt, tröstet und stützt oft durch menschliche Verbindung.",
+            "Aber Gott weiß auch, dass sich neu zu nähern nicht einfach ist. Besonders für viele Frauen beeinflusst eine Enttäuschung in einer Beziehung oft viele zukünftige Beziehungen. Du wirst unbewusst vergleichen, voraussehen, schützen, zurückweichen und dein wahres Selbst sogar hinter Höflichkeit verstecken. Der Prediger sagt, dass zwei Menschen besser sind als einer; Hebräer sagt auch, dass Gläubige einander ermutigen und aufeinander achten sollen. Nicht, weil Gemeinschaft immer vollkommen ist, sondern weil Gott weiß, dass wenn ein Mensch sein Herz für lange Zeit verschlossen hält, es schwerer heilen kann.",
+            "**Manchmal hält mich nicht nur die Abwesenheit von Menschen einsam, sondern dass ich schon lange nicht mehr wage, mich wirklich zu nähern.** Das ist nichts, das man beschämen sollte. Es ist etwas, das man sanft erkennen kann.",
+            "Heute kannst du einen kleinen Schritt in Richtung sichere Verbindung betrachten. **Heilung beginnt normalerweise nicht mit totaler Offenheit. Sie beginnt oft mit einer ehrlichen Bewegung zu einer vertrauenswürdigen Person.** Gott kann diese kleine Handlung des Mutes mehr gebrauchen, als du erwartest."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, du weißt, dass ich mich nicht vollständig von Verbindung fernhalten möchte. Ich bin nur an einigen Orten verletzt worden und trau mich deshalb nicht mehr, mich zu nähern. Danke, dass du verstehst, warum das Herz sich zurückzieht. Gib mir Weisheit zu erkennen, wer sicher, reif und in der Lage ist, das Wahre zu halten; gib mir auch einen kleinen Mut, damit ich mein Herz nicht für immer verschlossen halte. Wenn du mich durch Menschen trösten willst, bereite geeignete Verbindung vor. Lehre mich unter deiner Leitung, mich wieder Menschen zu nähern, anstatt allein zu leiden. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Prediger 4:9-10",
+              "book_code": "ECC",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "Lutherbibel 1912",
+              "text": "Zwei sind besser als einer allein; denn wenn sie fallen, richtet einer seinen Gefährten auf. Wehe aber dem Einsamen, wenn er fällt; denn es ist keiner da, der ihm aufhilft."
+            },
+            {
+              "display": "Hebräer 10:24-25",
+              "book_code": "HEB",
+              "chapter": 10,
+              "verses": "24-25",
+              "translation": "Lutherbibel 1912",
+              "text": "Und lasst uns aufeinander achten, um uns zur Liebe und zu guten Werken anzureizen... indem wir uns gegenseitig ermahnen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Christus kann wirklich in mir wohnen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Epheser 3:17-19",
+            "book_code": "EPH",
+            "chapter": 3,
+            "verses": "17-19",
+            "translation": "Lutherbibel 1912",
+            "text": "auf dass Christus durch den Glauben in euren Herzen wohne... auf dass ihr erfüllt werdet mit aller Fülle Gottes."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Menschen lesen von \"Christus wohnt in deinem Herzen\" und behandeln es wie eine vertraute geistliche Redensart. Aber wenn du in Einsamkeit und Leere lebst, ist dieser Satz außerordentlich kostbar. Denn er sagt, dass du nicht eine Person bist, die nur von außen her davon abhängt, ob dein Leben erfüllt ist oder nicht. Gott tröstet dich nicht nur von außen; er möchte in dein Innerstes eindringen und dort wohnen. Für jemanden, der lange Leere empfunden hat, ist das eine große Hoffnung: Ich bin nicht jemand, der nur darauf warten kann, dass andere mich erfüllen.",
+            "Paulus' Gebet in Epheser ist nicht, dass Gläubige einfach besser zurechtkommen. Es ist, dass Christus in ihnen wohnt und dass sie von der Fülle Gottes erfüllt werden. Das bedeutet, dass geistliche Erfüllung nicht selbst hergestellt wird. Sie ist das Ergebnis von Gottes Einwohnung.",
+            "Du magst dir noch immer Gesellschaft, Zärtlichkeit und menschliches Verständnis wünschen. Diese Sehnsüchte bleiben menschlich und gut. Aber wenn Christus tiefer in dir wohnt, werden diese Sehnsüchte nicht wie endlose Bedürfnisse wirken. Das Herz beginnt, ein inneres Zuhause zu haben.",
+            "**Echte Erfüllung ist nicht nur, dass Gott mir von außen hilft, sondern dass Christus in mir lebt.** Diese Wahrheit ist besonders kraftvoll, wenn du leer fühlst. Es bedeutet, dass deine Geschichte nicht nur auf die Sehnsucht nach jemandes Erfüllung von dir beschränkt ist.",
+            "Bete heute einfach: \"Herr, wohne in den leeren Plätzen meines Herzens.\" **Einwohnung ist kein abstrakter Trost. Es ist der Anfang innerer Beheimatung.** Und Beheimatung verändert, wie sich Leere von innen anfühlt."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr Jesus, danke, dass du nicht nur außerhalb meiner Leere stehst und sie tröstest. Du verheißest auch, in mir zu wohnen. Heute gebe ich dir den Teil meines Herzens, der lange kein Zuhause hatte. Lass mich nicht nur vorübergehend besser fühlen; komm und wohne, siedle dich an und erfülle. Bewahre mich davor zu glauben, dass ich warten muss, bis sich alles außen arrangiert, bevor ich mich ganz fühle. Lehre mich, dass ich mit dir, der in mir wohnt, kein Mensch ohne Heimat bin. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Epheser 3:17-19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "17-19",
+              "translation": "Lutherbibel 1912",
+              "text": "auf dass Christus durch den Glauben in euren Herzen wohne... auf dass ihr erfüllt werdet mit aller Fülle Gottes."
+            },
+            {
+              "display": "Johannes 14:23",
+              "book_code": "JHN",
+              "chapter": 14,
+              "verses": "23",
+              "translation": "Lutherbibel 1912",
+              "text": "Wer mich liebt, wird mein Wort halten... und wir werden zu ihm kommen und bei ihm Wohnung nehmen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Wenn das Herz in Gott Heimat hat, hat die Leere nicht mehr das letzte Wort",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 68:6",
+            "book_code": "PSA",
+            "chapter": 68,
+            "verses": "6",
+            "translation": "Lutherbibel 1912",
+            "text": "Gott gibt den Einsamen ein Heim."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Die tiefste Hoffnung am Ende dieser Reise ist nicht, dass Einsamkeit über Nacht verschwindet oder dass jeder leere Platz sofort gelöst wird. Es ist, dass Leere nicht mehr als hätte sie das letzte Wort über deine Identität sprechen darf. Du magst manchmal noch den Schmerz des Missverstanden-Werdens spüren. Du magst auf leere Räume im gewöhnlichen Leben achten. Aber diese Erfahrungen sind nicht länger deine Enddefinition.",
+            "Die Heilige Schrift gibt eine stärkere Definition. Gott sieht dich. Gott vergibt dich nicht. Gott gibt dem Einsamen Heimat. Christus wohnt in dir. Diese Wahrheiten löschen Sehnsucht nicht aus, aber sie verändern ihre Autorität. Einsamkeit mag noch besuchen, aber sie bekommt nicht mehr, dir zu sagen, wer du bist.",
+            "**Wenn das Herz in Gott Heimat hat, ist die Leere nicht mehr endgültig.** Das ist ein tiefgreifender Wechsel. Du hörst auf, dich nur als jemanden zu sehen, dem etwas fehlt, und beginnst, dich als jemanden zu sehen, der von Gott gesammelt, erfüllt und gehalten wird.",
+            "Heute kehre zu der Wahrheit aus dieser Woche zurück, die dein Herz am meisten durchdrungen hat. **Einsamkeit mag noch anklopfen, aber sie muss nicht dein ganzes Leben erzählen.** Die Seele kann eine andere Geschichte lernen: die Geschichte des Gesehen-Werdens, des Bewohnt-Werdens und der Heimkehr in Gott."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du diese Woche nicht nur meine Einsamkeit und Leere sichtbar gemacht hast, sondern auch, wie du das Herz Schritt für Schritt nach Hause bringst. Pflanze die wichtigsten Wahrheiten dieser Reise tiefer in mir ein. Wenn ich mich leer oder nicht verstanden fühle, lass mich mich schneller daran erinnern, dass du schon hier bist. Du bist der Gott, der mich sieht, der Herr, der in mir wohnt, und derjenige, der dem Einsamen Heimat gibt. Lass mich nicht nur von Mangel definiert werden, sondern immer mehr von deiner Gegenwart, deiner Fülle und deiner Liebe. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 68:6",
+              "book_code": "PSA",
+              "chapter": 68,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Gott gibt den Einsamen ein Heim."
+            },
+            {
+              "display": "Epheser 3:19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "19",
+              "translation": "Lutherbibel 1912",
+              "text": "auf dass ihr erfüllt werdet mit aller Fülle Gottes."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

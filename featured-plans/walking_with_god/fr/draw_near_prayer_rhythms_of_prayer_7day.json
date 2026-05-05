@@ -1,0 +1,570 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "PR01",
+    "slug": "rhythms-of-prayer",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Marcher avec Dieu",
+      "secondary": "draw-near",
+      "secondary_label": "S'approcher de Dieu"
+    },
+    "tags": [
+      "s-approcher-de-dieu",
+      "discipline-spirituelle",
+      "intimite-avec-dieu",
+      "pratique-ancienne",
+      "priere",
+      "rythmes",
+      "notre-pere",
+      "intimite"
+    ],
+    "title": "Prier avec Authenticité",
+    "subtitle": "Une Étude de 7 Jours sur la Prière Significative",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "en quête de Dieu",
+        "spirituellement curieuse",
+        "aspirant à l'intimité"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "La prière est le battement du cœur de la vie chrétienne, mais elle peut aussi sembler être un combat. Cette étude explore comment abandonner la performance et entrer dans la prière authentique avec Dieu.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture_focus → teaching → additional_scriptures → prayer",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#D4C5E8",
+      "color_secondary": "#4A3A6B",
+      "image_key": "cover_woman_kneeling_morning_window_quiet",
+      "icon": "open-hands-and-light-circle"
+    },
+    "hook": {
+      "heading": "Pourquoi ce plan",
+      "paragraphs": [
+        "La plupart d'entre nous ont lutté contre la prière à un moment ou à un autre. Peut-être était-ce la difficulté à rester concentré, ou le sentiment que nos prières n'étaient pas assez bonnes.",
+        "Mais la racine du problème est souvent plus profonde. C'est une question de cœur, non de technique."
+      ]
+    },
+    "key_verses": [
+      {
+        "display": "Matthieu 6:5-8",
+        "book_code": "MAT",
+        "chapter": 6,
+        "verses": "5-8"
+      },
+      {
+        "display": "Jacques 5:16",
+        "book_code": "JAS",
+        "chapter": 5,
+        "verses": "16"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Jour 1: Relation, Non Performance",
+      "subtitle": "",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Matthieu 6:5-8",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "5-8",
+            "translation": "Louis Segond 1910",
+            "text": "Et quand tu pries, ne sois pas comme les hypocrites, qui aiment à prier debout dans les synagogues et aux coins des rues, pour être vus des hommes. Je vous le dis en vérité, ils ont reçu leur récompense. Mais toi, quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le secret; et ton Père, qui voit dans le secret, te le rendra. Et quand vous priez, n'usez pas de vaines redites, comme les païens, qui croient être exaucés parce qu'ils parlent beaucoup. Ne leur ressemblez pas; car votre Père sait de quoi vous avez besoin, avant que vous le lui demandiez."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La prière devient souvent difficile pour des raisons plus profondes que la simple occupation. Parfois, la fatigue vient du sentiment d'être examiné chaque fois que nous essayons de prier. L'esprit mesure tout: Ai-je été assez sincère? Ai-je prié assez longtemps? Ai-je été assez reconnaissant?",
+            "Il n'a pas commencé en exigeant la quantité. Il commence par exposer la performance. Lisez Matthieu 6:5-8 attentivement. Jésus ne critique pas la prière en tant que telle. Il critique la prière comme théâtre.",
+            "**\"Ton Père sait de quoi tu as besoin, avant que tu le lui demandes.\"**",
+            "Remarquez comment Jésus relocalise complètement la prière. Ce n'est plus un acte public pour montrer sa piété. C'est un acte privé entre toi et Dieu. C'est intime. Secret. Connu seulement du Père.",
+            "C'est pourquoi le Psaume 27 est important ici: \"C'est ta face, Éternel, que je cherche.\" Avant que la prière soit pétition, elle est orientation. Avant que ce soit langage, c'est relation. **L'opposé véritable de la prière n'est pas le silence, mais la performance consciente de soi devant Dieu.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Psaume 27:8",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Tu dis: Cherchez ma face! Et mon cœur te dit: C'est ta face, Éternel, que je cherche."
+            },
+            {
+              "display": "Jacques 4:8",
+              "book_code": "JAS",
+              "chapter": 4,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Approchez-vous de Dieu, et il s'approchera de vous. Nettoyez vos mains, pécheurs; purifiez vos cœurs, vous qui avez l'esprit double."
+            },
+            {
+              "display": "Matthieu 6:6",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "6",
+              "translation": "Louis Segond 1910",
+              "text": "Mais toi, quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le secret; et ton Père, qui voit dans le secret, te le rendra."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père aimant, nous te remercions que la prière soit d'abord l'approche des enfants vers leur Père, et non une performance pour être entendu. Aide-nous à abandonner nos prétentions et à venir simplement tels que nous sommes. Quand nous prions, rappelle-nous que tu nous connais déjà—nos pensées, nos craintes, nos désirs—et que tu nous aimes malgré tout. Donne-nous la liberté de prier avec sincérité. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Jour 2: Priez en Secret",
+      "subtitle": "",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Matthieu 6:6",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "6",
+            "translation": "Louis Segond 1910",
+            "text": "Mais toi, quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le secret; et ton Père, qui voit dans le secret, te le rendra."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Encore et encore, les Évangiles montrent Jésus s'écartant. Il se retire non pas parce qu'il était contre le service public, mais parce qu'il savait quelque chose que nous oublions: la vraie prière est d'abord une affaire entre toi et Dieu. Dans le secret. Quand nul ne regarde.",
+            "Lisez Matthieu 6:6, Marc 1:35 et Luc 5:16 ensemble. La prière en secret n'est pas romantique. C'est radical. C'est le cœur du Christ.",
+            "**C'est pourquoi tant de croyants trouvent la place secrète difficile. La prière cachée nous prive de la seule chose que beaucoup d'entre nous voulons vraiment: la confirmation que nous sommes assez bons.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Marc 1:35",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35",
+              "translation": "Louis Segond 1910",
+              "text": "Vers le matin, avant le jour, il se leva, et alla dans un lieu désert, où il pria."
+            },
+            {
+              "display": "Luc 5:16",
+              "book_code": "LUK",
+              "chapter": 5,
+              "verses": "16",
+              "translation": "Louis Segond 1910",
+              "text": "Et lui, il se retirait dans les déserts, et priait."
+            },
+            {
+              "display": "Psaume 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Notre Père, nous cherchons à comprendre ce que cela signifie de te prier comme tu es vraiment—non pas un juge distant, mais notre Père. Enseigne-nous à connaître la différence entre prier pour impressionner et prier pour être en relation. Donne-nous le courage de parler avec vérité dans nos prières. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Jour 3: Réalignez Votre Cœur",
+      "subtitle": "",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Matthieu 6:9-13",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "9-13",
+            "translation": "Louis Segond 1910",
+            "text": "Voici donc comment vous devez prier: Notre Père qui es aux cieux! Que ton nom soit sanctifié; que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel. Donne-nous aujourd'hui notre pain quotidien; pardonne-nous nos offenses, comme nous aussi nous pardonnons à ceux qui nous ont offensés; ne nous induis pas en tentation, mais délivre-nous du mal."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Quand les disciples ont demandé à Jésus de leur enseigner à prier, il ne leur a pas donné une liste de pétitions. Il leur a enseigné à prier comme il priait. Et ce que Jésus priait d'abord n'était pas pour lui-même—c'était pour Dieu.",
+            "Lisez-le lentement. Matthieu 6:9-13. Observez où Jésus place l'attention en premier.",
+            "**\"Que ton nom soit sanctifié. Que ton règne vienne.\"**",
+            "L'ordre est aussi important que les pétitions elles-mêmes. Le nom de Dieu. Le royaume de Dieu. La volonté de Dieu. Seulement après cela, le pain quotidien. Le pardon. La protection. Le cœur ordonné prie pour Dieu en premier.",
+            "C'est pourquoi cette prière a nourri l'église pendant des siècles. Ce n'est pas une liste de courses. C'est un réalignement du cœur. **Quand nous prions cette prière, nous nous replaçons dans la juste relation à Dieu: non pas le centre, mais un enfant du centre.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 11:1-4",
+              "book_code": "LUK",
+              "chapter": 11,
+              "verses": "1-4",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            },
+            {
+              "display": "Psaume 95:6",
+              "book_code": "PSA",
+              "chapter": 95,
+              "verses": "6",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            },
+            {
+              "display": "Matthieu 6:6",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "6",
+              "translation": "Louis Segond 1910",
+              "text": "Mais toi, quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le secret; et ton Père, qui voit dans le secret, te le rendra."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, nous cherchons à ordonner nos cœurs à l'ordre de ta prière. Aide-nous à nous placer correctement—non pas au centre, mais autour de toi. Que ton nom soit sanctifié. Que ton règne vienne. Que ta volonté soit faite. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Jour 4: Priez Sans Cesse",
+      "subtitle": "",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "1 Thessaloniciens 5:17",
+            "book_code": "1TH",
+            "chapter": 5,
+            "verses": "17",
+            "translation": "Louis Segond 1910",
+            "text": "Priez sans cesse."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "\"Priez sans cesse\" peut sembler impossible jusqu'à ce que nous comprenions que Paul ne décrit pas une intensité ininterrompue. Il décrit une dépendance constante. Une orientation du cœur vers Dieu, même au cœur des tâches ordinaires.",
+            "Néhémie offre une image simple de cela. En présence du roi, il ne cesse de travailler pour prier. Il prie même—juste pour un moment—au milieu de sa tâche. Telle est la prière qui dure sans cesse.",
+            "**La prière incessante n'est pas l'intensité sans repos. C'est la dépendance tissée dans les fibres de la vie quotidienne.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Nehemiah 2:4",
+              "book_code": "NEH",
+              "chapter": 2,
+              "verses": "4",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            },
+            {
+              "display": "Éphésiens 6:18",
+              "book_code": "EPH",
+              "chapter": 6,
+              "verses": "18",
+              "translation": "Louis Segond 1910",
+              "text": "Faites en tout temps par l'Esprit toutes sortes de prières et de supplications. Veillez à cela avec une persévérance et des supplications pour tous les saints."
+            },
+            {
+              "display": "Psaume 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Dieu, nous craignons que la prière soit un fardeau, quelque chose que nous devons ajouter à nos listes. Enseigne-nous que la vraie prière est une dépendance constante, une orientation du cœur même dans les tâches ordinaires. Montre-nous comment prier sans cesse. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Jour 5: Versez Votre Cœur",
+      "subtitle": "",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Psaume 62:8",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "8",
+            "translation": "Louis Segond 1910",
+            "text": "Peuple, confie-toi en lui en tout temps; verse ton cœur devant lui: Dieu est notre refuge."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "C'est une habitude étrange de la vie spirituelle que nous devenons souvent les plus édités dans la présence de Dieu. Nous élaborons les bons mots. Nous cachez les vrais sentiments. Nous prions comme si Dieu pouvait être impressionné par notre sainteté simulée.",
+            "Mais l'Écriture nous donne une grammaire différente. \"Verse ton cœur devant lui,\" dit le Psaume 62:8. Pas tes mots raffinés. Ton cœur. La chose vraie. Non filtrée.",
+            "**Appeler Dieu un refuge signifie qu'il est assez sûr pour la vérité. Le danger est généralement que nous sommes plus honnêtes avec un ami qu'avec Dieu, comme si Dieu était moins capable de nous gérer que notre ami.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Psaume 142:1-2",
+              "book_code": "PSA",
+              "chapter": 142,
+              "verses": "1-2",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            },
+            {
+              "display": "Lamentations 2:19",
+              "book_code": "LAM",
+              "chapter": 2,
+              "verses": "19",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            },
+            {
+              "display": "Psaume 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, nous approchons de toi avec nos culpabilités, nos doutes, nos faux mots. Nous ne sommes pas assez bons. Et pourtant tu nous dis que nous pouvons verser notre cœur vrai devant toi. Rends-nous capables de nous approcher avec notre vraie nature. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Jour 6: Écoutez en Silence",
+      "subtitle": "",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Jean 10:27",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "27",
+            "translation": "Louis Segond 1910",
+            "text": "[Texte biblique non fourni]"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Pour de nombreuses femmes, le silence dans la prière semble plus difficile que la parole car le silence semble vide. Nous avons dû apprendre qu'une chambre tranquille était un endroit sûr. Nous avons dû apprendre que notre voix valait la peine d'être entendue.",
+            "La réponse de Samuel, \"Parle; car ton serviteur écoute,\" reste une posture nécessaire. Samuel n'a pas supposé que parce qu'il avait entendu un bruit, il savait ce que Dieu disait. Il a attendu. Il a écouté. Il a permis à Dieu de parler.",
+            "**La prière d'écoute nécessite de la patience car elle n'est pas spectaculaire. Souvent ce qui vient dans le silence est juste l'assurance tranquille que nous sommes aimés.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "1 Samuel 3:9-10",
+              "book_code": "1SA",
+              "chapter": 3,
+              "verses": "9-10",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            },
+            {
+              "display": "Psaume 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            },
+            {
+              "display": "Matthieu 6:6",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "6",
+              "translation": "Louis Segond 1910",
+              "text": "Mais toi, quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le secret; et ton Père, qui voit dans le secret, te le rendra."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, nous trouvons le silence difficile en prière. Enseigne-nous à écouter. Apaise nos esprits affolés. Donne-nous la patience pour entendre ta voix tranquille d'assurance: tu es aimé. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "Jour 7: La Persévérance dans la Prière",
+      "subtitle": "",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Jacques 5:16",
+            "book_code": "JAS",
+            "chapter": 5,
+            "verses": "16",
+            "translation": "Louis Segond 1910",
+            "text": "[Texte biblique non fourni]"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Au septième jour, une vérité doit être énoncée sans l'atténuer: la prière n'est pas une technique qui fonctionne si vous faites juste les bonnes étapes. C'est une relation. Et les relations ne fonctionnent pas de cette façon.",
+            "Jacques 5 est remarquable car il démocratise le pouvoir de la prière. Élie est mentionné comme quelqu'un dont les prières ont changé le ciel. Mais alors Jacques ajoute: \"Élie était un homme de la même nature que nous.\" Il n'y a aucune indication qu'il priait mieux. Seulement qu'il priait vraiment.",
+            "**C'est pourquoi Jésus dit à son peuple de ne pas perdre courage. La persévérance dans la prière est le signe que nous en venons à Dieu avec notre cœur véritable, encore et encore, non pas parfait, juste vrai.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 18:1",
+              "book_code": "LUK",
+              "chapter": 18,
+              "verses": "1",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            },
+            {
+              "display": "Daniel 10:12",
+              "book_code": "DAN",
+              "chapter": 10,
+              "verses": "12",
+              "translation": "Louis Segond 1910",
+              "text": "[Texte biblique non fourni]"
+            },
+            {
+              "display": "1 Thessaloniciens 5:17",
+              "book_code": "1TH",
+              "chapter": 5,
+              "verses": "17",
+              "translation": "Louis Segond 1910",
+              "text": "Priez sans cesse."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Dieu, nous terminons cette semaine conscients que nous reviendrons à nos vieilles habitudes. Merci de nous rencontrer à nouveau, quand nous revenons, avec le même amour. Enseigne-nous la persévérance—non pas la perfection, juste la vérité, encore et encore. Amen.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

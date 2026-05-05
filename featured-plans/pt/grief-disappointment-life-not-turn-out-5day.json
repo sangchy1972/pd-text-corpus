@@ -1,0 +1,383 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG05",
+    "slug": "life-not-turn-out",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardim das Emoções",
+      "secondary": "grief-disappointment",
+      "secondary_label": "Tristeza e Desilusão"
+    },
+    "tags": [
+      "tristeza",
+      "desilusao",
+      "esperanca-tardia",
+      "pranto",
+      "consolo"
+    ],
+    "title": "Quando a vida não tomou o rumo que você esperava",
+    "subtitle": "Para quem carrega desapontamento, anseios sem resposta e a dor de uma história que não se desenrolou como se esperava.",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "em luto",
+        "desiludida",
+        "chorosa"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para quem carrega desapontamento, anseios sem resposta e a dor de uma história que não se desenrolou como se esperava.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_quiet_garden_soft_rain_grief",
+      "icon": "falling-leaf-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Provérbios 13:12",
+        "book_code": "PRO",
+        "chapter": 13,
+        "verses": "12"
+      },
+      {
+        "display": "Rute 1:20-21",
+        "book_code": "RUT",
+        "chapter": 1,
+        "verses": "20-21"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "O desapontamento realmente fere o coração",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 13:12",
+            "book_code": "PRO",
+            "chapter": 13,
+            "verses": "12",
+            "translation": "Almeida",
+            "text": "A esperança adiada deixa o coração enfermo; mas o desejo cumprido é uma árvore de vida."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Há uma dor que não vem de perder o que você tinha, mas de nunca receber o que esperava. Há um sofrimento particular que vem de esperar, orar e se preparar para algo que nunca chega. Pode ser um relacionamento que não começou, uma oportunidade que se fechou, uma cura que não veio, ou uma direção de vida que permaneceu fora do alcance. Este tipo de desapontamento é difícil de explicar porque não está sempre ligado a um único momento dramático. Às vezes ele se acumula lentamente.",
+            "Provérbios 13:12 diz: \"A esperança adiada deixa o coração enfermo.\" A Escritura não trata a esperança adiada como um pequeno incômodo. Ela nomeia o que isso faz ao coração. Pode fazer uma pessoa ficar cautelosa. Pode fazer a oração parecer mais fraca. Pode criar uma resistência silenciosa em querer algo muito profundamente novamente.",
+            "**Você não é frágil demais. Você foi genuinamente ferida pelo desapontamento.** Muitas pessoas se culpam por se importar tanto, mas o anseio não é fraqueza. A dor não é que você esperou muito profundamente. A dor é que o que você esperava não chegou.",
+            "Deus não está pedindo que você fique alegre antes de ficar honesta. **Às vezes a cura começa quando você deixa de minimizar o que a machucou e o chama pelo seu verdadeiro nome.** Hoje, escreva um desapontamento que você tem carregado e o coloque diante do Senhor com sinceridade. Falar isso em voz alta não é descrença. É uma maneira de trazer a ferida para Sua luz.",
+            "Este tipo de honestidade pode parecer exposto, mas frequentemente é o começo de deixar Deus cuidar da parte do coração que ficou silenciosa. Deus pode encontrá-la sem pedir que você a esconda primeiro. Ele pode encontrar um coração desapontado com paciência em vez de pressão, e a honestidade é uma maneira de deixá-Lo começar."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, admito que este desapontamento me feriu genuinamente. Você sabe o quanto eu esperava, e sabe como uma esperança adiada pesa lentamente no coração. Obrigada por não me pedir para ficar positiva antes de ser honesta. Hoje eu coloco este anseio não realizado diante de Você sem minimizá-lo. Cure a parte de mim que ficou cansada, ferida e com medo de esperar novamente. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 13:12",
+              "book_code": "PRO",
+              "chapter": 13,
+              "verses": "12",
+              "translation": "Almeida",
+              "text": "A esperança adiada deixa o coração enfermo; mas o desejo cumprido é uma árvore de vida."
+            },
+            {
+              "display": "Salmo 42:5",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "Por que você está abatida, ó minha alma? Por que está perturbada dentro de mim? Espere em Deus..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Quando a oração não é respondida do jeito que eu esperava",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Habacuque 3:17-18",
+            "book_code": "HAB",
+            "chapter": 3,
+            "verses": "17-18",
+            "translation": "Almeida",
+            "text": "Embora a figueira não floresça... porém eu me regozijo no SENHOR, eu me alegro no Deus da minha salvação."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Às vezes o desapontamento fere mais profundamente porque você realmente orou. Você não deixou Deus fora da situação. Você pediu sinceramente. Você pode ter jejuado, chorado e esperado. Talvez acreditasse que Deus se moveria de uma certa maneira. E mesmo assim, a resposta não veio como você esperava. Este tipo de desapontamento pode afetar a maneira como você ora, a maneira como ouve as promessas de Deus, e a maneira como interpreta o silêncio.",
+            "A Escritura nos dá um caminho honesto. Habacuque fala a linguagem do \"embora\" antes de chegar ao \"porém\". Ele não pula o campo árido. Ele o nomeia e depois se volta para Deus. A fé bíblica não é pretender que a dor é pequena. É trazer a dor para a presença de Deus em vez de se afastar.",
+            "Às vezes este desapontamento aparece silenciosamente. Você ainda ora, mas com menos expectativa. Você hesita antes de pedir com ousadia novamente porque parte de você se pergunta se a esperança simplesmente a prepararia para uma dor fresca.",
+            "**Você tem o direito de dizer a Deus, \"Este não é o resultado que eu esperava.\"** Isso não é irreverência. É relacionamento. **Misericórdia fresca não é reservada para pessoas que já entendem o que Deus está fazendo.** É dada a pessoas que ainda estão sofrendo e ainda dispostas a se voltarem para Ele. Traga uma oração sem resposta de volta a Deus hoje, juntamente com o desapontamento em torno dela.",
+            "Você pode não estar pronta para dizer \"porém\" com força hoje, mas ainda pode trazer a Deus seu \"embora\" e confiar que Ele a encontrará lá. Ele é forte o suficiente para receber tanto sua oração quanto seu desapontamento. Você não precisa resolver o mistério antes de retornar a Ele. Às vezes a proximidade contínua é a misericórdia de que você precisa primeiro. Ele permanece perto mesmo quando sua oração ainda soa ferida."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, admito que alguns desapontamentos doem tanto porque eu realmente orei. Acreditei que Você poderia abrir o caminho que imaginei, e agora as coisas não se desdobraram assim. Você conhece minha confusão, e sabe que às vezes até orar novamente é exaustivo. Obrigada por eu poder trazer meu \"embora\" a Você em vez de fingir que aceitar é fácil. Hoje eu coloco esta oração sem resposta novamente em Suas mãos. Guarde meu relacionamento com Você antes mesmo de mudar minhas circunstâncias, e fortaleça aqueles que estão perto de perder o coração porque suas orações permanecem sem resposta. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Habacuque 3:17-18",
+              "book_code": "HAB",
+              "chapter": 3,
+              "verses": "17-18",
+              "translation": "Almeida",
+              "text": "Embora a figueira não floresça... porém eu me regozijo no SENHOR, eu me alegro no Deus da minha salvação."
+            },
+            {
+              "display": "Lamentações 3:21-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "21-23",
+              "translation": "Almeida",
+              "text": "Isto relembro ao meu coração, portanto tenho esperança. As misericórdias do SENHOR são a razão de não sermos consumidos... são novas cada manhã."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Ser consolada muito rápido também pode doer",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Jó 2:13",
+            "book_code": "JOB",
+            "chapter": 2,
+            "verses": "13",
+            "translation": "Almeida",
+            "text": "Assim se sentaram com ele no chão durante sete dias e sete noites, e ninguém lhe falou palavra alguma, pois viam que era muito grande o seu sofrimento."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Luto e desapontamento não são apenas dolorosos pelo evento em si. Eles também podem ser feridos pelo tipo errado de consolo. Às vezes a segunda ferida vem depois da primeira. A perda original já era dolorosa, e então alguém tenta ajudar de uma maneira que a deixa sentindo-se menor, apressada, ou envergonhada de ainda estar sofrendo. Boa intenção nem sempre cria bom consolo.",
+            "Os amigos de Jó são uma imagem poderosa aqui. No início, eles se sentaram com ele em silêncio. Isso foi sábio. Depois, quando começaram a explicar e corrigir, se tornaram mais prejudiciais do que úteis. O Salmo 147 diz que Deus \"cura\" as feridas. Curar implica cuidado, paciência e ternura. Deus não trata o luto como um problema a ser gerenciado rapidamente.",
+            "Consolo ruim pode fazer você se perguntar se é muito sensível ou muito lenta para sarar. É por isso que a presença gentil é importante. A alma muitas vezes sara melhor na companhia de alguém que ouve com paciência do que na companhia de alguém que se apressa em explicar.",
+            "**Nem toda sentença espiritual é uma sentença de cura em cada momento.** Timing importa. Presença importa. **Às vezes o consolo mais semelhante a Cristo não é explicação imediata, mas companhia silenciosa.**",
+            "Se o consolo de alguém a machucou recentemente, traga essa dor a Deus também. Ele pode curar não apenas o desapontamento original, mas também a dor secundária de ser respondida mal. Ele sabe como se aproximar sem forçar uma ferida a fechar antes de estar pronta.",
+            "Se necessário, peça a Deus discernimento sobre onde compartilhar mais livremente e onde proteger sua ternura um pouco mais cuidadosamente. Ele honra feridas cuidando delas lentamente. Ele também pode ensiná-la como soa o consolo sábio e gentil para que seu coração não fique carregando confusão fresca em cima de tristeza antiga."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, Você sabe que às vezes o que me machuca mais não é apenas o desapontamento em si, mas o consolo que veio muito rápido, muito levemente, ou muito acentuadamente. Obrigada por não ser assim comigo. Você não se apressa comigo nem me puxa para cima antes de eu estar pronta. Hoje eu lhe trago a dor de ser ferida por palavras. Cure não apenas o desapontamento original, mas também a dor que foi adicionada depois. Dê-me sabedoria para saber com quem é seguro me abrir, e liberdade para permanecer silenciosamente com Você quando isso é o que eu mais preciso. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Jó 2:13",
+              "book_code": "JOB",
+              "chapter": 2,
+              "verses": "13",
+              "translation": "Almeida",
+              "text": "Assim se sentaram com ele no chão durante sete dias e sete noites, e ninguém lhe falou palavra alguma, pois viam que era muito grande o seu sofrimento."
+            },
+            {
+              "display": "Salmo 147:3",
+              "book_code": "PSA",
+              "chapter": 147,
+              "verses": "3",
+              "translation": "Almeida",
+              "text": "Ele cura os de coração quebrantado e liga as suas feridas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Deus cura lentamente no meio do desapontamento",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 147:3",
+            "book_code": "PSA",
+            "chapter": 147,
+            "verses": "3",
+            "translation": "Almeida",
+            "text": "Ele cura os de coração quebrantado e liga as suas feridas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Um dos medos mais profundos do desapontamento não é apenas a dor, mas a mudança. Depois de uma estação de desapontamento profundo, muitas pessoas começam a se perguntar se foram mudadas de maneiras que podem não reverter facilmente. Você pode confiar mais lentamente agora. A alegria pode parecer menos natural. Mesmo quando coisas boas estão ao seu redor, parte do seu coração pode permanecer tenso. Isso pode ser assustador.",
+            "Esse medo merece ternura. O desapontamento realmente pode remodelar o coração. Mas a Escritura oferece uma imagem diferente de reparo áspero de si mesma. O Salmo 147 diz que Deus cura os de coração quebrantado e liga as suas feridas. Curar é trabalho cuidadoso. Não é violento ou impaciente. É um quadro de Deus se aproximando com mãos pacientes.",
+            "Lamentações adiciona outra camada: Suas misericórdias são novas a cada manhã. Isso significa que a cura não precisa chegar de uma vez para ser real. Parte do trabalho mais profundo de Deus entra silenciosamente. Pode não parecer dramático, mas ainda é misericórdia.",
+            "**O trabalho de Deus em você não é reparo áspero. É cura gentil.** Procure não desprezar o ritmo lento da restauração. **A cura nem sempre é um retorno. Às vezes é uma renovação.**",
+            "Se puder, escreva um sinal pequeno que Deus já manteve você. Talvez você esteja orando com honestidade novamente. Talvez você não esteja mais se escondendo tanto. Cura lenta ainda é cura, e o Senhor ainda está trabalhando mesmo onde o progresso sente-se silencioso.",
+            "Algumas manhãs a nova misericórdia pode parecer muito pequena, mas misericórdia pequena ainda é misericórdia, e cura paciente ainda é obra de Deus. Cura silenciosa ainda é cura sagrada. Deixe essa misericórdia mais lenta ensiná-la a não medir a fidelidade de Deus apenas por momentos dramáticos. E Ele é paciente o suficiente para continuar cuidando do que ainda se sente ferido."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, às vezes tenho medo de que esses desapontamentos me tenham mudado muito profundamente, que eu nunca possa retornar à maciez e ao brilho que uma vez conheci. Obrigada por me mostrar em Sua Palavra que Você não me trata com dureza. Você liga feridas com paciência. Ensine-me a não desprezar pequenos sinais de cura, e me mantenha longe do desespero quando o progresso parece lento. Em Suas novas misericórdias a cada manhã, ajude-me a olhar para mim mesma mais gentilmente e confie que Você está fazendo cura mais profunda do que posso ver. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 147:3",
+              "book_code": "PSA",
+              "chapter": 147,
+              "verses": "3",
+              "translation": "Almeida",
+              "text": "Ele cura os de coração quebrantado e liga as suas feridas."
+            },
+            {
+              "display": "Lamentações 3:22-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "22-23",
+              "translation": "Almeida",
+              "text": "As misericórdias do SENHOR são a razão de não sermos consumidos... são novas cada manhã; grande é a tua fidelidade."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "Posso continuar vivendo com esperança, mesmo decepcionada",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Rute 1:20-21",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "20-21",
+            "translation": "Almeida",
+            "text": "E ela lhes disse: Não me chamem de Noemi, chamem-me de Mara, pois o Todo-Poderoso me tratou muito amargamente. Saí cheia, e o SENHOR me trouxe de volta vazia..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas pessoas pensam que a esperança só pode retornar depois que o desapontamento desapareceu completamente. Elas assumem que primeiro a dor deve desaparecer, depois a clareza deve vir, e somente depois a esperança se tornará possível novamente. Mas Deus frequentemente trabalha de maneira mais gentil que isso. A esperança frequentemente começa enquanto a ferida ainda é morna. Ela cresce não porque tudo foi resolvido, mas porque o coração não parou de se voltar para Deus.",
+            "Esta é uma razão pela qual a história de Noemi é tão poderosa. Ela não escondeu sua amargura. Ela disse claramente que o Todo-Poderoso a tinha tratado com amargura. Ainda assim, sua honestidade não a desqualificou do trabalho contínuo de Deus. As palavras de Isaías, \"Eis que farei uma coisa nova,\" não exigem otimismo imediato. Elas oferecem uma possibilidade sagrada: Deus ainda é capaz de criar vida depois do desapontamento.",
+            "Para muitas pessoas, a parte mais difícil não é apenas o que aconteceu. É o medo de esperar novamente. Mas a esperança nem sempre retorna como uma grande emoção. Às vezes começa como uma pequena disposição em acreditar que o desapontamento não é tudo que Deus escreverá sobre sua vida.",
+            "**O desapontamento pode ser real, mas não precisa ser o capítulo final da sua vida.** **A esperança raramente se anuncia dramaticamente no início.** Leve uma frase de esperança com você esta semana: \"Minha história não terminou,\" ou, \"Deus ainda pode fazer uma coisa nova.\" Deixe essa frase a manter firme quando o desapontamento surgir novamente.",
+            "Um pequeno retorno à esperança não é esperança falsa. Pode ser o primeiro sinal silencioso que Deus ainda está criando vida onde você esperava apenas perda. Deus pode abrigar até mesmo esperança cautelosa. Esse começo silencioso importa porque muitas histórias são lentamente reabertas pela graça antes de serem visivelmente mudadas. Essa possibilidade merece espaço para respirar."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada por não me exigir estar totalmente curada antes de esperar novamente. Você sabe que o desapontamento ainda vive em mim, junto com dor inacabada e perguntas sem resposta. Ainda assim, obrigada por ainda falar novidade sobre minha vida. Ajude-me a não tratar esta estação de perda como o final de minha história. Mesmo antes de ver grande mudança, mantenha-me trazendo a mim mesma de volta a Você. Plante esperança pequena mas real em meu coração novamente. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Rute 1:20-21",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "20-21",
+              "translation": "Almeida",
+              "text": "E ela lhes disse: Não me chamem de Noemi, chamem-me de Mara, pois o Todo-Poderoso me tratou muito amargamente. Saí cheia, e o SENHOR me trouxe de volta vazia..."
+            },
+            {
+              "display": "Isaías 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "Almeida",
+              "text": "Não se lembrem das coisas anteriores... Eis que faço uma coisa nova..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

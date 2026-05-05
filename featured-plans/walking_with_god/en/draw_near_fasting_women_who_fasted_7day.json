@@ -1,0 +1,519 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "FA01",
+    "slug": "fasting-women-who-fasted",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Walking with God",
+      "secondary": "draw-near",
+      "secondary_label": "Draw Near"
+    },
+    "tags": [
+      "draw-near",
+      "spiritual-discipline",
+      "intimacy-with-god",
+      "ancient-practice",
+      "fasting",
+      "biblical-women",
+      "esther",
+      "anna",
+      "hannah"
+    ],
+    "title": "Women Who Fasted: 7 Days to Rediscover Hunger for God",
+    "subtitle": "Over 7 days, rediscover biblical fasting through the women, prayers, tears, and turning points of Scripture, and learn how hunger, burden, and longing can be brought honestly before God.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "seeking-god",
+        "spiritually-curious",
+        "longing-for-intimacy"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "Over 7 days, rediscover biblical fasting through the women, prayers, tears, and turning points of Scripture, and learn how hunger, burden, and longing can be brought honestly before God.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture_focus → teaching → additional_scriptures → prayer",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#E6D9C2",
+      "color_secondary": "#5A4A3A",
+      "image_key": "cover_woman_quiet_table_open_bible_bread",
+      "icon": "open-hands-and-cross-circle"
+    },
+    "hook": {
+      "heading": "Why This Plan",
+      "paragraphs": [
+        "For many women, the body is already where pressure lands first. That is one reason biblical fasting must be recovered with care. It is not dieting, self-punishment, or spiritual harshness. In Scripture, it is a way of humbling ourselves before God, seeking Him with greater focus, and waiting on Him with intention.",
+        "Over these 7 days, we will rediscover fasting through the women, prayers, sorrows, and hopes of Scripture. **Fasting is not spiritual theatre. It is a small hunger turned toward the Father.**"
+      ]
+    },
+    "key_verses": [
+      {
+        "display": "Matthew 6:16-18",
+        "book_code": "MAT",
+        "chapter": 6,
+        "verses": "16-18"
+      },
+      {
+        "display": "Revelation 19:9",
+        "book_code": "REV",
+        "chapter": 19,
+        "verses": "9"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "What Fasting Really Is",
+      "subtitle": "Fasting is not dieting. It is hunger turned toward God.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Matthew 6:16-18",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "16-18",
+            "translation": "KJV",
+            "text": "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward. But thou, when thou fastest, anoint thine head, and wash thy face; That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "The quickest way to misunderstand fasting is to make it sound prettier than it is. An empty stomach does not automatically make anyone holy. In fact, it often reveals how distracted, impatient, or self-protective we really are. That is precisely why fasting can become such a useful grace: it exposes what ordinary fullness tends to hide.",
+            "Read Matthew 6:16-18 slowly.",
+            "**\"Thy Father, which seeth in secret, shall reward thee.\"**",
+            "Jesus does not say, \"If you fast,\" but, \"When ye fast.\" He assumes His disciples will one day learn this practice. Yet He immediately turns the conversation away from outward performance and toward the Father who sees in secret. Then Isaiah 58 deepens the point even further. God is not impressed by hunger that leaves the heart untouched. True fasting is not about proving seriousness. It is about becoming more available to God, more truthful before Him, and often more merciful toward other people.",
+            "Years ago, a young woman in our church asked me, \"Pastor, is fasting only for very spiritual people?\" I told her no. Fasting belongs not to experts, but to ordinary believers who want to bring one small appetite under the lordship of Christ. She began simply by skipping one Wednesday lunch and using that hour to pray in her car. A few weeks later she told me, \"The hunger kept interrupting me and sending me back to prayer.\" That is a far better beginning than dramatic intensity. If you fast, do so gently, honestly, and without harming your body. **Fasting begins when physical hunger is no longer the headline, and God becomes the deeper desire.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Isaiah 58:6-7",
+              "book_code": "ISA",
+              "chapter": 58,
+              "verses": "6-7",
+              "translation": "KJV",
+              "text": "Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke? Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?"
+            },
+            {
+              "display": "Joel 2:12",
+              "book_code": "JOL",
+              "chapter": 2,
+              "verses": "12",
+              "translation": "KJV",
+              "text": "Therefore also now, saith the LORD, turn ye even to me with all your heart, and with fasting, and with weeping, and with mourning."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Gracious Father, we thank You that fasting is not given as a burden, but as a holy way by which Your children may return more deliberately to Your presence. Keep us from turning this sacred practice into something meant to be seen by others, and guard us also from rashness, ignorance, and spiritual pride. Teach us that our deepest need is not greater control over life, but a deeper hunger for You. If You lead us into fasting, sanctify our hearts in secret, so that we may seek You alone, wait on You with reverence, and desire above all things the nearness of Your presence. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Esther's Fast: Interceding for Others",
+      "subtitle": "Fasting often makes intercession more focused.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Esther 4:16",
+            "book_code": "EST",
+            "chapter": 4,
+            "verses": "16",
+            "translation": "KJV",
+            "text": "Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which is not according to the law: and if I perish, I perish."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Esther's fast stands in the middle of political danger, personal risk, and communal fear. Nothing about the scene is private or sentimental. A people may be destroyed. A young queen must step into danger. Before she speaks in the king's court, she asks that the people fast.",
+            "Read Esther 4:16 carefully. Esther does not begin with cleverness, but with consecration. Her first move is not to gather better arguments, but to gather the people before God. That is one of the most important lessons fasting can teach us. There are seasons when love for others becomes so weighty that ordinary prayer does not feel enough; the heart wants to pray with greater focus, greater sobriety, greater self-forgetfulness. In Scripture, fasting often appears there, in moments of intercession.",
+            "I once walked with a mother whose adult daughter had entered a long and dark season. She told me, \"I do not know what else to do.\" We read Esther together, and she set aside one lunch hour each week to fast and pray specifically for her child. She did not receive instant answers, but she did receive steadiness. Months later she said, \"I cannot map every result, but I know the Lord met me there.\" That is often how fasting works. It does not make us sovereign over outcomes. It makes us more earnest in carrying someone else's name before God. **A fast of intercession is love refusing to remain passive.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "2 Chronicles 20:3",
+              "book_code": "2CH",
+              "chapter": 20,
+              "verses": "3",
+              "translation": "KJV",
+              "text": "And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah."
+            },
+            {
+              "display": "Acts 13:2-3",
+              "book_code": "ACT",
+              "chapter": 13,
+              "verses": "2-3",
+              "translation": "KJV",
+              "text": "As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them. And when they had fasted and prayed, and laid their hands on them, they sent them away."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord our God, we thank You that burdens too heavy for our hands are never too heavy to be laid before Your throne of grace. Give us the spirit of Esther, so that in seasons of fear we are not first ruled by circumstance, but are brought first into Your presence. Let our fasting rise not from anxious control, but from faith in Your sovereign rule and from holy love for those we carry before You. Make us steadfast in intercession, humble in waiting, and confident that You still hear the cries of Your people. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Anna: Faithful Through the Years",
+      "subtitle": "Some fasts are not about quick answers, but long faithfulness.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 2:36-38",
+            "book_code": "LUK",
+            "chapter": 2,
+            "verses": "36-38",
+            "translation": "KJV",
+            "text": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity; And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day. And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Anna does not appear in Scripture as a celebrated public leader. She appears as an elderly widow whose life has been shaped by long devotion, long loss, and long waiting. Yet when the Christ child is brought into the temple, she is ready. Her hidden life has made her perceptive.",
+            "Read Luke 2:36-38 slowly.",
+            "**\"With fastings and prayers night and day.\"**",
+            "The text does not treat Anna's fasting and prayer as decorative details. They are part of the reason she recognizes what others miss. Years of worship had trained her attention. Long fidelity had made her sensitive to the movement of God. We live in an age that admires what is visible, measurable, and immediate. Anna reminds us that heaven often measures differently. Some of the most consequential work in the kingdom is done by those who remain unseen.",
+            "An older widow in our church once asked me, \"Is there still anything useful I can do for the Lord?\" We opened Luke 2 and read Anna together. I told her that a praying life is never a leftover life. She began keeping one quiet hour each week to pray for younger women, grandchildren, and families in the church. Over time, many of those very people would testify to doors the Lord had opened. Hidden faithfulness does not mean fruitless faithfulness. **In the economy of God, a life of patient prayer may carry more weight than public usefulness ever could.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 2:25",
+              "book_code": "LUK",
+              "chapter": 2,
+              "verses": "25",
+              "translation": "KJV",
+              "text": "And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him."
+            },
+            {
+              "display": "Psalm 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "KJV",
+              "text": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Our Father, we thank You that no hidden faithfulness is forgotten before You. Keep us from growing weary when the years feel long, and from despising prayer simply because its fruit is not immediately seen. If our service passes unnoticed by others, let it still be precious in Your sight. If You appoint us quieter seasons, keep us steadfast and devout. Grant that, like Anna, we may persevere in worship through the passing years, remain near Your presence in waiting, and be found ready when You are pleased to act. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "Hannah: Bringing Grief Before God",
+      "subtitle": "Sometimes loss of appetite is not failure, but grief in the body.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "1 Samuel 1:7-18",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "7-18",
+            "translation": "KJV",
+            "text": "And as he did so year by year, when she went up to the house of the LORD, so she provoked her; therefore she wept, and did not eat… And she was in bitterness of soul, and prayed unto the LORD, and wept sore. And she vowed a vow, and said, O LORD of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the LORD all the days of his life… And the woman went her way, and did eat, and her countenance was no more sad."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Not every fast begins with a decision. Some begin in sorrow. Hannah does not arrive in 1 Samuel as a woman making a spiritual plan. She arrives as a woman so pierced by grief that even food has lost its place.",
+            "Read 1 Samuel 1:7-18 without rushing past the pain. Hannah's tears are not a side note. Her culture has pressed on her shame, her hope has been stretched for years, and her body now bears the mark of grief. Even Eli initially misreads her. Yet once her anguish is understood, she is not rebuked for weakness. She is met with blessing. That matters. Scripture makes room not only for chosen fasting, but also for the involuntary fasting that sorrow can bring.",
+            "I remember one woman who came to speak with me after a devastating loss. She said, almost apologetically, \"I can't really eat.\" We read Hannah together, and what she most needed that day was not a lecture on resilience, but freedom from shame. There are seasons when the soul suffers so deeply that the body speaks first. If that is where you are, do not confuse grief with spiritual failure. Receive care. Accept the meal a friend brings. Sit before the Lord as you are. **The God who heard Hannah does not despise the hunger that grief creates.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 42:3",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "3",
+              "translation": "KJV",
+              "text": "My tears have been my meat day and night, while they continually say unto me, Where is thy God?"
+            },
+            {
+              "display": "Psalm 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "Thou tellest my wanderings: put thou my tears into thy bottle: are they not in thy book?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Merciful Lord, if grief has reached even into the body, have compassion on us, and let not shame be added to sorrow. You who saw Hannah's tears also know the hidden weight that words cannot carry. Draw near to every wounded heart, and grant gentle keeping in the midst of distress. Keep us from mistaking brokenness for disgrace, or weakness for abandonment. Let those who mourn know with certainty that You remember, You have compassion, and You do not despise a bruised and contrite spirit. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "How to Begin Fasting Wisely",
+      "subtitle": "There is more than one way to fast wisely.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Daniel 10:2-3",
+            "book_code": "DAN",
+            "chapter": 10,
+            "verses": "2-3",
+            "translation": "KJV",
+            "text": "In those days I Daniel was mourning three full weeks. I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Sooner or later, every woman interested in fasting reaches the practical question: what kind of fast is actually fitting? Scripture itself helps us here by refusing to reduce fasting to a single method. Daniel abstains from rich foods. Esther calls for a severe fast in a moment of crisis. Other passages assume shorter, simpler patterns. The Bible gives us principle before uniformity.",
+            "Read Daniel 10:2-3 slowly.",
+            "**\"I ate no pleasant bread.\"**",
+            "Daniel's example shows that fasting can take more than one form. Still, Scripture normally places food at the center of fasting, because fasting is bound up with bodily appetite, creaturely dependence, and the choice to bring even hunger under the lordship of God. What matters is not finding the most impressive version, but choosing a form that is truthful, reverent, and wise for your season of life. For one person, that may be one missed meal joined to prayer. For another, it may be simpler eating for several days.",
+            "A young mother once asked me whether she could fast while nursing and exhausted. I told her that wisdom, not guilt, must govern such a question. Her body was feeding a child; food was not the place to begin. Instead, she set aside her phone for one evening hour after the children were asleep and gave that time to Scripture and prayer. That kind of abstinence is not the biblical center of fasting, but it can still serve the same spiritual purpose in a season when food fasting would be unwise. Later she said, \"I did not realize how much that little screen was eating my attention.\" **The goal is not to prove severity, but to create room for clearer hunger after God.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Zechariah 7:5-6",
+              "book_code": "ZEC",
+              "chapter": 7,
+              "verses": "5-6",
+              "translation": "KJV",
+              "text": "Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh month, even those seventy years, did ye at all fast unto me, even to me? And when ye did eat, and when ye did drink, did not ye eat for yourselves, and drink for yourselves?"
+            },
+            {
+              "display": "Exodus 34:28",
+              "book_code": "EXO",
+              "chapter": 34,
+              "verses": "28",
+              "translation": "KJV",
+              "text": "And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Wise and gracious Father, grant us discernment, so that in fasting we may neither imitate others blindly nor indulge ourselves carelessly, but make fitting and holy choices shaped by truth, by the realities of our bodies, and by Your gracious leading. Restrain every severity that springs from vanity, and every avoidance that springs from spiritual laziness. May every small act of self-denial become an occasion for deeper seeking after You, and every recognition of our limits become a lesson in humbler dependence on Your grace. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Day 6",
+      "title": "When Fasting Goes Wrong",
+      "subtitle": "Fasting goes wrong when it loses humility and mercy.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Isaiah 58:3-7",
+            "book_code": "ISA",
+            "chapter": 58,
+            "verses": "3-7",
+            "translation": "KJV",
+            "text": "Wherefore have we fasted, say they, and thou seest not? wherefore have we afflicted our soul, and thou takest no knowledge?… Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke? Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Every spiritual practice has its shadows, and fasting is no exception. It can quietly become self-congratulatory. It can turn theatrical. It can remain intensely private while leaving us strangely untouched by the needs of others. That is why Scripture places strong warnings around it.",
+            "Read Isaiah 58:3-7 and let its sharpness stand. The people were fasting, but their lives were still marked by harshness, injustice, and self-interest. God is saying, in effect, Do not bring Me your appetite while withholding your obedience. Then Jesus in Matthew 6 adds a second warning: do not use fasting to be seen. Taken together, these passages protect the soul from two deep corruptions, public vanity and private hardness.",
+            "One woman once told me, half laughing and half ashamed, that she felt proud of having fasted twice in one week. That small confession was more important than it sounded, because pride often enters spiritual practice through the side door. In time she chose to keep her fasting hidden and to give away the money she would have spent on lunch. That was a wiser fast. **The safest fasting is the kind that makes a person less impressed with herself and more ready to love her neighbor.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Zechariah 7:5-6",
+              "book_code": "ZEC",
+              "chapter": 7,
+              "verses": "5-6",
+              "translation": "KJV",
+              "text": "Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh month, even those seventy years, did ye at all fast unto me, even to me? And when ye did eat, and when ye did drink, did not ye eat for yourselves, and drink for yourselves?"
+            },
+            {
+              "display": "Luke 18:11-12",
+              "book_code": "LUK",
+              "chapter": 18,
+              "verses": "11-12",
+              "translation": "KJV",
+              "text": "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican. I fast twice in the week, I give tithes of all that I possess."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Holy Lord, preserve our fasting from the corruption of pride and from the emptiness of indifference. Keep us from spiritual self-admiration, and from drawing near to religious form while remaining far from mercy and justice. Grant that as we seek You in secret, we may become humbler in heart; and as we deny ourselves before You, we may become more ready to love those in need. Let all our practice be truly offered to You, so that fasting may walk together with charity, and devotion with compassion. Through Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Day 7",
+      "title": "Fasting Ends in a Feast",
+      "subtitle": "Scripture's last word on hunger is not deprivation, but a feast.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Revelation 19:9",
+            "book_code": "REV",
+            "chapter": 19,
+            "verses": "9",
+            "translation": "KJV",
+            "text": "And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "The Bible does not end with deprivation. It ends with a wedding feast. That should keep fasting from becoming severe, joyless, or self-enclosed. Christian fasting always carries an eschatological note. It reminds us that we are not yet home, that our truest satisfaction is still ahead, and that the deepest hunger of the soul will finally be met in Christ.",
+            "Read Revelation 19:9 slowly.",
+            "**\"Blessed are they which are called unto the marriage supper of the Lamb.\"**",
+            "The story of Scripture moves from wilderness hunger toward bridal abundance. Isaiah saw the feast in advance. Jesus spoke of eating and drinking anew in His Father's kingdom. The final Christian imagination is not scarcity, but fellowship. For that reason, fasting is not an end in itself. It trains desire. It teaches the heart not to settle too quickly for what cannot finally satisfy it.",
+            "An older woman once told me, near the end of a life marked by faithful fasting, \"Every small fast has made me long more for the marriage supper of the Lamb.\" Then she smiled and added, \"It has all been an appetizer.\" That was not a clever line. It was sound theology spoken simply. **If fasting does not awaken longing for Christ and His kingdom, it has shrunk into something far too small.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Isaiah 25:6",
+              "book_code": "ISA",
+              "chapter": 25,
+              "verses": "6",
+              "translation": "KJV",
+              "text": "And in this mountain shall the LORD of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined."
+            },
+            {
+              "display": "Matthew 26:29",
+              "book_code": "MAT",
+              "chapter": 26,
+              "verses": "29",
+              "translation": "KJV",
+              "text": "But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father's kingdom."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus Christ, we thank You that the end prepared for Your people is not endless deprivation, but glory at the supper of the Lamb. Grant that every earthly fast may serve a purpose greater than discipline alone, enlarging within us a truer hunger for You. In each act of abstinence, teach us that our final satisfaction is found in You; in every lesser hunger, deepen our longing for the kingdom yet to come. Keep our hope from shrinking into mere method, and train our hearts to wait for You until the day of that blessed feast. Through the same Jesus Christ our Lord, amen.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

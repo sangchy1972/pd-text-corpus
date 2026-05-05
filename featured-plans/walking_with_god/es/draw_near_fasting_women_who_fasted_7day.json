@@ -1,0 +1,518 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "FA01",
+    "slug": "fasting-women-who-fasted",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Caminando con Dios",
+      "secondary": "draw-near",
+      "secondary_label": "Acercarse a Dios"
+    },
+    "tags": [
+      "acercarse-a-dios",
+      "disciplina-espiritual",
+      "intimidad-con-dios",
+      "practica-antigua",
+      "ayuno",
+      "mujeres-biblicas",
+      "ester",
+      "ana"
+    ],
+    "title": "Mujeres Que Ayunaron: 7 Días para Redescubrir el Hambre de Dios",
+    "subtitle": "En 7 días, redescubre el ayuno bíblico a través de las mujeres, oraciones, lágrimas y giros de la Escritura, y aprende cómo el hambre, la carga y el anhelo pueden llevarse honestamente ante Dios.",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "buscando a Dios",
+        "con curiosidad espiritual",
+        "anhelando intimidad"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "En 7 días, redescubre el ayuno bíblico a través de las mujeres, oraciones, lágrimas y giros de la Escritura, y aprende cómo el hambre, la carga y el anhelo pueden llevarse honestamente ante Dios.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture_focus → teaching → additional_scriptures → prayer",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#E6D9C2",
+      "color_secondary": "#5A4A3A",
+      "image_key": "cover_woman_quiet_table_open_bible_bread",
+      "icon": "open-hands-and-cross-circle"
+    },
+    "hook": {
+      "heading": "Por qué este plan",
+      "paragraphs": [
+        "Para muchas mujeres, el cuerpo es ya donde cae primero la presión. Por esa razón el ayuno bíblico debe recuperarse con cuidado. No es dieta, no es castigo, no es dureza espiritual. En la Escritura, es una manera de humillarnos ante Dios, buscarlo con mayor enfoque, y esperarlo con intención.",
+        "En estos 7 días redescubriremos el ayuno a través de las mujeres, oraciones, tristezas y esperanzas de la Escritura. **El ayuno no es teatro espiritual. Es un pequeño hambre vuelta hacia el Padre.**"
+      ]
+    },
+    "key_verses": [
+      {
+        "display": "Mateo 6:16-18",
+        "book_code": "MAT",
+        "chapter": 6,
+        "verses": "16-18"
+      },
+      {
+        "display": "1 Pedro 1:13",
+        "book_code": "REV",
+        "chapter": 19,
+        "verses": "9"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Lo Que El Ayuno Realmente Es",
+      "subtitle": "El ayuno no es dieta. Es hambre vuelta hacia Dios.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Mateo 6:16-18",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "16-18",
+            "translation": "Reina-Valera 1909",
+            "text": "Además, cuando ayunéis, no seáis austeros, como los hipócritas; porque demudan sus rostros para que los hombres vean que ayunan. De cierto os digo, que ya tienen su recompensa. Pero tú, cuando ayunes, unge tu cabeza y lava tu rostro, para que no se vea a los hombres que ayunas, sino a tu Padre que está en lo secreto; y tu Padre que ve en lo secreto te recompensará en público."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hermana, el camino más rápido para malentender el ayuno es hacerlo sonar más bonito de lo que es. Un estómago vacío no hace automáticamente santo a nadie. De hecho, a menudo revela cuán distraídos, impacientes o autoprotegedores realmente somos. Precisamente por eso el ayuno puede convertirse en tal gracia útil: expone lo que la plenitud ordinaria tiende a esconder.",
+            "Lee Mateo 6:16-18 lentamente.",
+            "**\"Tu Padre, que ve en lo secreto, te recompensará.\"**",
+            "Jesús no dice, \"Si ayunas\", sino, \"Cuando ayunéis\". Asume que sus discípulos algún día aprenderán esta práctica. Sin embargo, inmediatamente aparta la conversación del desempeño exterior y la dirige hacia el Padre que ve en secreto. Luego Isaías 58 profundiza el punto aún más. Dios no se impresiona por un hambre que deja el corazón intacto. El ayuno verdadero no es acerca de probar seriedad. Es acerca de estar más disponible para Dios, más veraz ante Él, y a menudo más misericordioso hacia otras personas.",
+            "Hace años, una mujer joven en nuestra iglesia me preguntó, \"Pastor, ¿es el ayuno solo para personas muy espirituales?\" Le dije que no. El ayuno no pertenece a expertos, sino a creyentes ordinarios que quieren someter un pequeño apetito al señorío de Cristo. Comenzó simplemente saltándose un almuerzo de miércoles y usando esa hora para orar en su auto. Pocas semanas después me dijo, \"El hambre me interrumpía constantemente y me devolvía a la oración.\" Ese es un comienzo mucho mejor que la intensidad dramática. Si ayunas, hazlo suavemente, honestamente, y sin dañar tu cuerpo. **El ayuno comienza cuando el hambre física ya no es el titular, y Dios se convierte en el deseo más profundo.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Isaías 58:6-7",
+              "book_code": "ISA",
+              "chapter": 58,
+              "verses": "6-7",
+              "translation": "Reina-Valera 1909",
+              "text": "¿No es este el ayuno que yo escogí: desatar las ligaduras de impiedad, soltar los haces de opresión, y dejar ir libres a los quebrantados, y que rompáis todo yugo? ¿No es que partas tu pan con el hambriento, y a los pobres errantes albergues en casa; que cuando veas al desnudo, lo cubras, y no te escondas de tu hermano?"
+            },
+            {
+              "display": "Joel 2:12",
+              "book_code": "JOL",
+              "chapter": 2,
+              "verses": "12",
+              "translation": "Reina-Valera 1909",
+              "text": "Por eso pues, dice Jehová: Convertíos a mí con todo vuestro corazón, con ayunos, y llantos, y lamentos."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre gracioso, te damos gracias porque el ayuno no se da como carga, sino como una manera santa en que tus hijos pueden regresar más deliberadamente a tu presencia. Guárdanos de convertir esta práctica sagrada en algo destinado a ser visto por otros, y protégenos también de la temeridad, la ignorancia y el orgullo espiritual. Enséñanos que nuestra necesidad más profunda no es mayor control sobre la vida, sino un hambre más profunda de ti. Si nos guías al ayuno, santifica nuestros corazones en secreto, para que podamos buscarte solo a ti, esperarte con reverencia, y desear sobre todas las cosas la cercanía de tu presencia. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "El Ayuno de Ester: Intercediendo por Otros",
+      "subtitle": "El ayuno a menudo hace la intercesión más enfocada.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Ester 4:16",
+            "book_code": "EST",
+            "chapter": 4,
+            "verses": "16",
+            "translation": "Reina-Valera 1909",
+            "text": "Ve y reúne a todos los judíos que se hallan en Susa, y ayunad por mí, y no comáis ni bebáis en tres días, noche y día; yo también con mis doncellas ayunaré de la misma manera; y luego entraré a ver al rey, aunque no sea conforme a la ley; y si perezco, que perezca."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "El ayuno de Ester se encuentra en medio del peligro político, riesgo personal y miedo comunal. Nada en la escena es privado o sentimental. Un pueblo puede ser destruido. Una reina joven debe entrar en peligro. Antes de hablar en la corte del rey, pide que el pueblo ayune.",
+            "Lee Ester 4:16 cuidadosamente. Ester no comienza con astucia, sino con consagración. Su primer movimiento no es reunir mejores argumentos, sino reunir al pueblo ante Dios. Esa es una de las lecciones más importantes que el ayuno puede enseñarnos. Hay estaciones cuando el amor por otros se vuelve tan pesado que la oración ordinaria no parece suficiente; el corazón quiere orar con mayor enfoque, mayor sobriedad, mayor olvido de sí mismo. En la Escritura, el ayuno a menudo aparece ahí, en momentos de intercesión.",
+            "Una vez caminé con una madre cuya hija adulta había entrado en una estación larga y oscura. Me dijo, \"No sé qué más hacer.\" Leímos a Ester juntas, y ella apartó una hora de almuerzo cada semana para ayunar y orar específicamente por su hija. No recibió respuestas instantáneas, pero sí recibió firmeza. Meses después dijo, \"No puedo mapear cada resultado, pero sé que el Señor se encontró conmigo allí.\" Así es a menudo cómo funciona el ayuno. No nos hace soberanos sobre los resultados. Nos hace más serios en llevar el nombre de otra persona ante Dios. **Un ayuno de intercesión es amor que se niega a permanecer pasivo.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "2 Crónicas 20:3",
+              "book_code": "2CH",
+              "chapter": 20,
+              "verses": "3",
+              "translation": "Reina-Valera 1909",
+              "text": "Y Josafat tuvo miedo, y puso su rostro para buscar a Jehová, e hizo pregonar ayuno a todo Judá."
+            },
+            {
+              "display": "Hechos 13:2-3",
+              "book_code": "ACT",
+              "chapter": 13,
+              "verses": "2-3",
+              "translation": "Reina-Valera 1909",
+              "text": "Ministrando éstos al Señor, y ayunando, dijo el Espíritu Santo: Apartadme a Bernabé y a Saulo para la obra a que los he llamado. Entonces, ayunando y orando, y poniéndoles las manos encima, los despidieron."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor nuestro Dios, te damos gracias porque las cargas demasiado pesadas para nuestras manos nunca son demasiado pesadas para ser colocadas ante tu trono de gracia. Danos el espíritu de Ester, para que en estaciones de miedo no seamos primero gobernados por la circunstancia, sino llevados primero a tu presencia. Que nuestro ayuno no surja del control ansioso, sino de la fe en tu gobierno soberano y del amor santo por quienes llevamos ante ti. Fortalécenos en la intercesión, humildes en la espera, y confiados de que aún escuchas los clamores de tu pueblo. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "Ana: Fiel a Través de los Años",
+      "subtitle": "Algunos ayunos no son acerca de respuestas rápidas, sino de fidelidad larga.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 2:36-38",
+            "book_code": "LUK",
+            "chapter": 2,
+            "verses": "36-38",
+            "translation": "Reina-Valera 1909",
+            "text": "Había también una profetisa, Ana, hija de Fanuel, de la tribu de Aser, de edad muy avanzada, que había vivido con su marido siete años desde su virginidad, y era viuda hacía ochenta y cuatro años; y no se apartaba del templo, sino que servía a Dios con ayunos y oraciones noche y día. Y presentándose en la misma hora, daba gracias a Dios, y hablaba del niño a todos los que esperaban la redención en Jerusalén."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Ana no aparece en la Escritura como una lideresa pública celebrada. Aparece como una viuda anciana cuya vida ha sido formada por devoción larga, pérdida larga, y espera larga. Sin embargo, cuando el niño Cristo es traído al templo, ella está lista. Su vida oculta la ha hecho perspicaz.",
+            "Lee Lucas 2:36-38 lentamente.",
+            "**\"Con ayunos y oraciones noche y día.\"**",
+            "El texto no trata el ayuno y la oración de Ana como detalles decorativos. Son parte de la razón por la que reconoce lo que otros pierden. Años de adoración habían entrenado su atención. La fidelidad larga la había hecho sensible al movimiento de Dios. Vivimos en una era que admira lo visible, medible e inmediato. Ana nos recuerda que el cielo a menudo mide diferente. Algo del trabajo más consecuente en el reino es hecho por quienes permanecen invisible.",
+            "Una viuda mayor en nuestra iglesia una vez me preguntó, \"¿Hay todavía algo útil que pueda hacer por el Señor?\" Abrimos Lucas 2 y leímos a Ana juntas. Le dije que una vida de oración nunca es una vida sobrante. Comenzó guardando una hora tranquila cada semana para orar por mujeres más jóvenes, nietos y familias en la iglesia. Con el tiempo, muchas de esas mismas personas testificarían de puertas que el Señor había abierto. La fidelidad oculta no significa fidelidad sin fruto. **En la economía de Dios, una vida de oración paciente puede llevar más peso que la utilidad pública podría jamás.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Lucas 2:25",
+              "book_code": "LUK",
+              "chapter": 2,
+              "verses": "25",
+              "translation": "Reina-Valera 1909",
+              "text": "Y he aquí había un hombre en Jerusalén, llamado Simeón, y este hombre era justo y piadoso, esperando la consolación de Israel; y el Espíritu Santo era sobre él."
+            },
+            {
+              "display": "Salmo 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "Reina-Valera 1909",
+              "text": "Aguarda a Jehová; esfuérzate, y él fortalecerá tu corazón; sí, aguarda a Jehová."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre nuestro, te damos gracias porque toda fidelidad oculta es recordada ante ti. Guárdanos de desanimarnos cuando los años se sienten largos, y de despreciar la oración simplemente porque su fruto no es inmediatamente visto. Si nuestro servicio pasa desapercibido por otros, que siga siendo precioso ante ti. Si nos designas estaciones más tranquilas, manténnos firmes y devotos. Otorga que, como Ana, podamos perseverar en adoración a través de los años que pasan, permanezcamos cerca de tu presencia en espera, y seamos hallados listos cuando te agrades actuar. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Ana: Trayendo Dolor Ante Dios",
+      "subtitle": "A veces la pérdida de apetito no es fracaso, sino dolor en el cuerpo.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "1 Samuel 1:7-18",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "7-18",
+            "translation": "Reina-Valera 1909",
+            "text": "Y así hacía cada año; cuando subía a la casa de Jehová, así lo provocaba; por lo cual ella lloraba, y no comía. Y Elcana su marido le decía: Ana, ¿por qué lloras? ¿y por qué no comes? ¿y por qué está afligido tu corazón? ¿No te soy yo mejor que diez hijos?... Y Ana, con amargura de alma, oró a Jehová, y lloró abundantemente. E hizo voto, diciendo: Jehová de los ejércitos, si mirares la aflicción de tu sierva, y te acordares de mí, y no te olvidares de tu sierva, sino que dieres a tu sierva un hijo varón, yo lo dedicaré a Jehová todos los días de su vida... Y ella respondió: No, señor mío; yo soy una mujer de espíritu angustado; no he bebido vino ni licor, sino que he derramado mi alma delante de Jehová. No tengas a tu sierva por una mujer impía; porque por la magnitud de mis congojas y dolor he hablado hasta ahora. Entonces Elí respondió y dijo: Ve en paz, y el Dios de Israel te otorgue la petición que le has hecho. Y ella dijo: Halle tu sierva gracia delante de tus ojos. Y se fue la mujer por su camino, y comió, y no estuvo más triste."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "No todo ayuno comienza con una decisión. Algunos comienzan en dolor. Ana no aparece en 1 Samuel como una mujer haciendo un plan espiritual. Aparece como una mujer tan traspasada por el dolor que incluso la comida ha perdido su lugar.",
+            "Lee 1 Samuel 1:7-18 sin apresurarte más allá del dolor. Las lágrimas de Ana no son una nota al pie. Su cultura ha presionado sobre ella vergüenza, su esperanza ha sido estirada por años, y su cuerpo ahora lleva la marca del dolor. Incluso Elí inicialmente la malentiende. Sin embargo, una vez que su angustia es entendida, no es reprendida por debilidad. Es encontrada con bendición. Eso importa. La Escritura hace espacio no solo para el ayuno elegido, sino también para el ayuno involuntario que el dolor puede traer.",
+            "Recuerdo una mujer que vino a hablar conmigo después de una pérdida devastadora. Dijo, casi disculpándose, \"No puedo realmente comer.\" Leímos a Ana juntas, y lo que más necesitaba ese día no era una lección sobre resiliencia, sino libertad de la vergüenza. Hay estaciones cuando el alma sufre tan profundamente que el cuerpo habla primero. Si ese es tu lugar, no confundas el dolor con fracaso espiritual. Recibe cuidado. Acepta la comida que un amigo trae. Siéntate ante el Señor como eres. **El Dios que escuchó a Ana no desdeña el hambre que el dolor crea.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Salmo 42:3",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "3",
+              "translation": "Reina-Valera 1909",
+              "text": "Fueron mis lágrimas mi pan de día y de noche, mientras me dicen todos los días: ¿Dónde está tu Dios?"
+            },
+            {
+              "display": "Salmo 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Tú has contado mis huidas; pon mis lágrimas en tu redoma; ¿No están ellas en tu libro?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor misericordioso, si el dolor ha llegado incluso al cuerpo, ten compasión de nosotros, y no permitas que la vergüenza se añada al dolor. Tú que viste las lágrimas de Ana también conoces el peso oculto que las palabras no pueden llevar. Acércate a cada corazón herido, y otorga cuidado suave en medio de la angustia. Guárdanos de confundir la ruptura con el desgracia, o la debilidad con el abandono. Que quienes están de luto sepan con certeza que recuerdas, tienes compasión, y no desprecias un espíritu contrito y humillado. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Cómo Comenzar el Ayuno Sabiamente",
+      "subtitle": "Algunas preguntas prácticas para el que ayuna.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Mateo 6:16-17",
+            "book_code": "DAN",
+            "chapter": 10,
+            "verses": "2-3",
+            "translation": "Reina-Valera 1909",
+            "text": "Cuando ayunéis, no seáis austeros, como los hipócritas; porque demudan sus rostros para que los hombres vean que ayunan. De cierto os digo, que ya tienen su recompensa. Pero tú, cuando ayunes, unge tu cabeza y lava tu rostro."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hermana, hemos pasado cuatro días con mujeres cuyo ayuno fue requerido por circunstancia o llamado por decisión. Hoy queremos volvernos práctica. El ayuno es un acto sencillo, pero requiere algo de reflexión. ¿Cómo comienzo? ¿Cuánto tiempo? ¿Qué salto? Estos no son preguntas tontas. Son marcas de madurez espiritual.",
+            "Lee Mateo 6:16-17 nuevamente.",
+            "**\"Cuando ayunes, unge tu cabeza y lava tu rostro.\"**",
+            "Jesús asume que el ayuno será practicado, pero lo asume como algo que requiere cuidado. Una talla no le queda bien a todos. Si eres alguien cuya relación con la comida es complicada, habla con tu consejero o doctor. Si eres una madre con hijos pequeños, tal vez un ayuno completo no es el momento. Si eres alguien cuyo cuerpo quema energía rápidamente, podrías ayunar con una comida en lugar de dos. Algunos ayunan una comida. Algunos un día. Algunos una semana. Lo que importa no es la duración sino la intención. Comienza donde puedas, comienza pequeño, comienza honesto.",
+            "Hace años una joven madre me preguntó si podía ayunar mientras amamantaba y estaba exhausta. Le dije que la sabiduría, no la culpa, debe gobernar tal pregunta. Su cuerpo estaba alimentando a un niño; la comida no era el lugar para comenzar. En su lugar, apartó su teléfono por una hora de la tarde después de que los niños estuvieran dormidos y dio ese tiempo a la Escritura y la oración. Ese tipo de abstinencia no es el centro bíblico del ayuno, pero aún puede servir el mismo propósito espiritual en una estación cuando el ayuno de comida sería imprudente. Más tarde dijo, \"No me di cuenta cuánto ese pequeño pantalla estaba comiendo mi atención.\" **El objetivo no es probar severidad, sino crear espacio para un hambre más clara después de Dios.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "1 Corintios 9:24-27",
+              "book_code": "ZEC",
+              "chapter": 7,
+              "verses": "5-6",
+              "translation": "Reina-Valera 1909",
+              "text": "¿No sabéis que los que corren en el estadio, todos a la verdad corren, mas uno solo lleva el premio? Corred de tal manera que lo obtengáis. Todo aquel que lucha, de todo se abstiene; ellos, a la verdad, para recibir una corona corruptible; pero nosotros, una incorruptible. Así que, yo de esta manera corro, no como a la ventura; de esta manera peleo, no como quien golpea el aire, sino que golpeo mi cuerpo, y lo pongo en servidumbre, no sea que habiendo sido heraldo para otros, yo mismo venga a ser eliminado."
+            },
+            {
+              "display": "Colosenses 3:12-13",
+              "book_code": "EXO",
+              "chapter": 34,
+              "verses": "28",
+              "translation": "Reina-Valera 1909",
+              "text": "Vestíos, pues, como escogidos de Dios, santos y amados, de entrañas de misericordia, de benignidad, de humildad, de mansedumbre, de paciencia; soportándoos los unos a los otros, y perdonándoos los unos a los otros si alguno tuviere queja contra otro. De la manera que Cristo os perdonó, así también hacedlo vosotros."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor sabio, danos la sensatez que necesitamos para ayunar en formas que nos acerquen a ti, no formas que nos hieran. Mantén a los que ayunan de la vanidad de creer que la duración o la dramática seriedad nos gana tu atención; enséñanos que lo que te importa es el corazón que busca. Da a los que nunca han ayunado el coraje para intentarlo, y a los que ayunan regularmente la paciencia para mantener el ritmo simple. Danos a todos una profunda misericordia por aquellos cuya historia con la comida es complicada, y una disposición a ayunar de maneras que nos acercan a ti y a otros. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "Cuando el Ayuno Es Duro",
+      "subtitle": "Lo que hacer cuando el hambre se vuelve duro.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Juan 6:51",
+            "book_code": "ISA",
+            "chapter": 58,
+            "verses": "3-7",
+            "translation": "Reina-Valera 1909",
+            "text": "Yo soy el pan vivo que descendió del cielo; si alguno comiere de este pan, vivirá para siempre; y el pan que yo daré es mi carne, la cual yo daré por la vida del mundo."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Cada práctica espiritual tiene sus sombras, y el ayuno no es una excepción. Puede convertirse silenciosamente en algo que se complace a sí mismo. Puede volverse una forma de sentirse moralmente superior. Puede usarse como un arma contra otros o como una medida de tu propio progreso. Eso es precisamente por qué Isaías 58 es tan necesario. Es un pasaje que no nos deja en paz, ni nos permite convertir el ayuno en algo que no es.",
+            "Lee Isaías 58:3-7 y deja que su dureza se mantenga. El pueblo estaba ayunando, pero sus vidas eran aún despiadadas. Estaban ayunando, pero sus relaciones eran aún injustas. Estaban ayunando, pero su compasión se había quedado atrás. Isaías es cruel con esto porque el corazón de Dios es cruel con esto. Dios dice esencialmente: No me importa tu hambre si tu corazón no ha sido cambiado. Dios miró y vio ayunos que eran meramente externos. Nada había sucedido en el interior.",
+            "Una mujer una vez me dijo, medio riendo y medio avergonzada, que se sentía orgullosa de haber ayunado dos veces en una semana. Nos reímos juntas, pero luego le pregunté: \"¿Qué ha sucedido en tu corazón como resultado?\" Ella se detuvo. \"Bueno\", dijo lentamente, \"En realidad no sé\". Eso es la pregunta correcta. No es: ¿Cuánto tiempo ayuné? sino: ¿He vuelto a Dios? ¿He cambiado? **Si el ayuno no toca el corazón, es solo un estómago vacío, nada más.** Dios busca transformación, no actuación. Cuando el ayuno es solo una demostración de disciplina, cuando te hace sentir superior, cuando te mantiene alejado de la compasión—detente. La respuesta no es simplemente ayunar menos. La respuesta es retroceder y escuchar el susurro del Espíritu: ¿Por qué está haciendo esto? ¿Es realmente para mí?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Mateo 4:4",
+              "book_code": "ZEC",
+              "chapter": 7,
+              "verses": "5-6",
+              "translation": "Reina-Valera 1909",
+              "text": "Él respondió y dijo: Escrito está: No sólo de pan vivirá el hombre, mas de toda palabra que sale de la boca de Dios."
+            },
+            {
+              "display": "Salmo 42:1-2",
+              "book_code": "LUK",
+              "chapter": 18,
+              "verses": "11-12",
+              "translation": "Reina-Valera 1909",
+              "text": "Como el ciervo brama por las aguas de los arroyos, así clama por ti, oh Dios, el alma mía. Mi alma tiene sed de Dios, del Dios vivo; ¿Cuándo vendré, y me presentaré delante de Dios?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, cuando nuestro cuerpo protesta y nuestro espíritu flaqueó, permanece con nosotros. No permitas que el malestar físico anule el propósito espiritual. Enséñanos a escuchar lo que el hambre tiene que decir acerca de dónde está nuestro corazón. Cuando queramos renunciar, recuérdanos que incluso Jesús en el desierto fue puesto a prueba por el hambre. Guarda el ritmo de nuestro ayuno para que sea una invitación a buscarte más profundamente, no una prueba de fuerza o disciplina. Y cuando los días de ayuno terminen, danos un corazón agradecido por la comida que podemos comer. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "Después del Ayuno: Reflexión y Acción",
+      "subtitle": "Lo que vamos a hacer con lo que hemos aprendido.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "1 Pedro 1:13",
+            "book_code": "REV",
+            "chapter": 19,
+            "verses": "9",
+            "translation": "Reina-Valera 1909",
+            "text": "Por tanto, ceñid los lomos de vuestro entendimiento, sed sobrios, y esperad por completo en la gracia que os será traída cuando Jesucristo sea manifestado."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hermana, hemos caminado siete días con mujeres cuyo hambre fue hacia Dios. Hoy no estamos en un nuevo ayuno; estamos en un espacio de reflexión. ¿Qué ha pasado en ti? ¿Qué has visto? ¿Qué te ha cambiado la comprensión?",
+            "Lee 1 Pedro 1:13.",
+            "**\"Por tanto, ceñid los lomos de vuestro entendimiento.\"**",
+            "Un ayuno no es un fin en sí mismo; es un comienzo. Después que se completa un ayuno, la pregunta no es \"¿Cuándo ayuno de nuevo?\" sino \"¿Cómo vivo diferente?\". Ana no ayunaba solo por ayunar; su ayuno fluía de un corazón que había sido entrenado a esperar a Dios. El ayuno de Ester era una expresión de su amor y preocupación por su pueblo. El ayuno de Hannah no era acerca de probar qué tan espiritual era; era acerca de traer su dolor más profundo ante alguien que podía sanar.",
+            "Una mujer en mi iglesia pasó por esta serie, ayunó dos veces, y luego me vio después. Dijo: \"Esto no me hizo perfecto. Pero me enseñó algo. Ahora, cuando me siento ansiosa, mi primer pensamiento no es encontrar comida o distracción. Mi primer pensamiento es: ¿Dónde está mi hambre más profunda? ¿Debo llevar esto a Dios?\" Ese cambio pequeño cambió cosas. La enseñanza del ayuno, incluso después de terminar, permanecía con ella. Ahora vive diferente. No porque sea perfecta, sino porque su hambre ha sido reeducada. **Cuando el ayuno termina, el viaje de hambre más profunda apenas comienza.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Filipenses 3:14",
+              "book_code": "ISA",
+              "chapter": 25,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Prosigo a la meta, al premio de la soberanía de Dios en Cristo Jesús."
+            },
+            {
+              "display": "Hebreos 12:1-2",
+              "book_code": "MAT",
+              "chapter": 26,
+              "verses": "29",
+              "translation": "Reina-Valera 1909",
+              "text": "Por tanto, nosotros también, teniendo en derredor nuestro una gran nube de testigos, despojémonos de todo peso y del pecado que nos asedia, y corramos con paciencia la carrera que nos es propuesta, puestos los ojos en Jesús, el autor y consumador de la fe."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Dios eterno, te damos gracias por estos días. Gracias por las mujeres cuyos corazones hambrientos nos enseñaron. Gracias por una práctica antigua que todavía habla a los hambrientos modernos. Pero no permitas que terminemos aquí. Que el ayuno que hemos hecho o contemplado sea solo el comienzo de una vida de hambre redirigiida. Enséñanos a traer todos nuestros apetitos, todas nuestras ansiedades, toda nuestra necesidad ante ti. Que seamos un pueblo cuya hambre se vuelva cada vez más enfocada no en lo que falta, sino en lo que necesitamos. Que seamos como Ana—esperando pacientemente. Como Ester—intercediendo seriamente. Como Hannah—trayendo nuestro dolor honestamente. Y como la mujer joven en aquella iglesia—aprendiendo que un pequeño hambre transformado puede cambiar todo. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LM01",
+    "slug": "his-presence-in-lament",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Caminando con Dios",
+      "secondary": "gods-presence",
+      "secondary_label": "La Presencia de Dios"
+    },
+    "tags": [
+      "presencia-de-dios",
+      "vida-espiritual",
+      "intimidad",
+      "espiritu-santo",
+      "lamento",
+      "dolor",
+      "oracion-honesta",
+      "salmos-de-lamento",
+      "sufrimiento"
+    ],
+    "title": "Encuentro con Dios en la Lamentación: 7 Días de Oración en el Dolor",
+    "subtitle": "Una devoción pastoral para las mujeres que lloran",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "buscando la presencia",
+        "orando",
+        "en duelo"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Durante 7 días, descubriremos que el lamento es una forma legítima de oración, que Dios hace lugar para nuestro dolor, y que las lágrimas no son el final de la esperanza. A través de las lamentaciones bíblicas, aprenderemos cómo acercarnos a Dios con honestidad, incluso cuando no entendemos sus caminos.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture_focus → teaching → additional_scriptures → prayer",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#B8C8D8",
+      "color_secondary": "#2C4A6B",
+      "image_key": "cover_woman_quiet_window_evening_rain",
+      "icon": "tears-and-cradling-hands-circle"
+    },
+    "hook": {
+      "heading": "Por qué este plan",
+      "paragraphs": [
+        "Las mujeres muchas veces hemos aprendido que las lágrimas son un signo de debilidad. Pero en la Biblia, el llanto es un acto de valentía.",
+        "Durante estos 7 días, exploraremos las lamentaciones de la Biblia—los salmos de dolor, los lamentos de Jeremías, las preguntas sin respuesta de Job. Aprenderemos que **lamentarse ante Dios es más que ser honesto; es afirmar que Dios merece nuestra verdad, incluso nuestra verdad más oscura.** Porque Dios no teme nuestro dolor. Él lo vio primero, y lo conoce más profundamente que nosotras."
+      ]
+    },
+    "key_verses": [],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "El Lamento es Oración",
+      "subtitle": "Dios hizo lugar para '¿Hasta cuándo?' en la oración.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hermana, hoy comenzamos un camino que muchas iglesias han dejado en silencio durante demasiado tiempo. El lamento—la oración de las lágrimas, del dolor, de las preguntas sin respuesta—es tan bíblico como la adoración de alegría. De hecho, una de cada cinco oraciones en la Biblia es una lamentación. Dios no solo hace lugar para nuestro dolor. Él lo espera. Él sabe que llegará.",
+            "Lee lentamente el Salmo 13:1-5.",
+            "**\"¿Hasta cuándo, oh Jehová, me olvidarás para siempre?\"**",
+            "Observa que el Salmo no comienza con gratitud ni adoración. Comienza con una pregunta cruda, queja, dolor. Y esta oración está en la Biblia no como advertencia, sino como modelo. El salmista llora primero. Discute después. Y solo entonces, después de permanecer honestamente en su dolor, regresa a la confianza. Eso es lamentación. No es falta de fe. Es fe lo suficientemente fuerte como para traer la verdad a Dios, incluso la verdad que duele.",
+            "Hace años, una hermana de nuestra iglesia vino a verme con el corazón roto por una pérdida que no podía nombrar. Me dijo: \"Pastora, no sé cómo orar. Estoy demasiado enojada.\" Abrimos el Salmo 13 juntas. Y ella comprendió algo que la transformó: que su enojo no era una barrera para la oración, sino una forma de oración. Pasó los meses siguientes orando los Salmos de lamento cada mañana. Y aunque su dolor no desapareció de la noche a la mañana, ella encontró que cada lágrima era un acto de fe, porque estaba trayendo su verdad ante Alguien que no temía a las preguntas sin respuesta. **El lamento es la oración que dice: 'Dios, eres lo suficientemente grande para contener todo esto.'**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Salmo 42:1-5",
+              "book_code": "LAM",
+              "chapter": 1,
+              "verses": "12",
+              "translation": "Reina-Valera 1909",
+              "text": "Como el ciervo brama por las aguas de los arroyos, así clama por ti, oh Dios, el alma mía. Mi alma tiene sed de Dios, del Dios viviente; ¿Cuándo vendré, y me presentaré delante de Dios? Fueron mis lágrimas mi pan de día y de noche, mientras me decían cada día: ¿Dónde está tu Dios? Esto recordaré, y mi alma se derramará en mí: porque yo pasé con la multitud, iba con ellos a la casa de Dios, con voz de alegría y de alabanza, con multitud que hacía fiesta. ¿Por qué te abates, oh alma mía, y por qué te turbas en mí? Espera en Dios; porque aún he de alabarle, salvación mía y Dios mío."
+            },
+            {
+              "display": "Lamentaciones 1:2",
+              "book_code": "HAB",
+              "chapter": 1,
+              "verses": "2",
+              "translation": "Reina-Valera 1909",
+              "text": "Amargamente llora en la noche, y sus lágrimas están en sus mejillas; no tiene quien la consuele de todos sus amantes; todos sus amigos le faltaron, y se le tornaron en enemigos."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Dios de misericordia, te agradecemos que hagas lugar para nuestro llanto. Nos enseñaste a través de los salmos que la oración verdadera no evita el dolor, sino que lo trae ante ti con honestidad. Te pedimos que nos libres de la vergüenza de la lamentación. Si las lágrimas vienen, que vengan. Si las preguntas duelen, que les permitamos hacerse. Mantenemos el deseo de verte pronto, pero mientras esperas, sé cercano a nuestro dolor. Sé el Dios que escucha el grito de los afligidos. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Jeremías y el Lenguaje de las Lágrimas",
+      "subtitle": "La esperanza bíblica recuerda la misericordia en medio del dolor.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lamentaciones 3:21-26",
+            "book_code": "LAM",
+            "chapter": 3,
+            "verses": "19-26",
+            "translation": "Reina-Valera 1909",
+            "text": "Esto recapacitaré en mi corazón, por lo cual esperaré. Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias. Nuevas son cada mañana; grande es tu fidelidad. Mi porción es Jehová, dijo mi alma; por tanto, en él esperaré. Bueno es Jehová a los que en él esperan, al alma que le busca. Bueno es esperar en silencio la salvación de Jehová."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hermana, hoy conocemos a Jeremías, el profeta que lloró tanto que sus ojos se nublaron de lágrimas. Jeremías fue obligado a predicar que Jerusalén caería. Vio venir el desastre y fue rechazado por advertir. Su corazón se rompió no solo por Jerusalén, sino por saber que nadie le creería. Y sin embargo, incluso en sus lamentaciones más profundas, Jeremías encontró algo que no desapareció: la misericordia de Dios.",
+            "Lee lentamente Lamentaciones 3:21-26. Antes de que Jeremías diga la famosa línea \"por lo cual esperaré,\" antes de que llegue al recuerdo de la misericordia, él está en la oscuridad. Está describiendo los muros quebrados, la cautividad, el llanto. Pero observa la estructura del Libro de Lamentaciones. No está escrito como una línea recta de dolor. Está escrito como una espiral. Jeremías cae, llora, desespera—y luego, en mitad del desespero, recuerda algo. Recuerda que los primeros actos de Dios fueron actos de creación. Recuerda que Sus misericordias son nuevas cada mañana.",
+            "Eso no borra el dolor. Pero sí lo rodea con esperanza. **La verdadera esperanza bíblica no es la negación del dolor, sino la memoria de la fidelidad de Dios dentro del mismo dolor.** Esa es la profundidad del lamento bíblico. Permite que el dolor tenga todo su peso sin negar la bondad de Dios. Permite vivir en las preguntas sin perder la esperanza."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Jeremías 9:1",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "22-23",
+              "translation": "Reina-Valera 1909",
+              "text": "¡Oh, si mi cabeza fuera aguas, y mis ojos una fuente de lágrimas! Entonces lloraría día y noche por los muertos de la hija de mi pueblo."
+            },
+            {
+              "display": "Lamentaciones 3:31-33",
+              "book_code": "JER",
+              "chapter": 9,
+              "verses": "1",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque el Señor no desecha para siempre; antes bien, si aflige, también se compadece según la multitud de sus misericordias. Porque no aflige ni entristece de buen grado a los hijos de los hombres."
+            },
+            {
+              "display": "Romanos 12:15",
+              "book_code": "JER",
+              "chapter": 20,
+              "verses": "7-9",
+              "translation": "Reina-Valera 1909",
+              "text": "Gozaos con los que se gozan; llorad con los que lloran."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre, en estos días oscuros, enséñanos lo que Jeremías aprendió: que tu misericordia es suficiente incluso para el llanto sin fin. Aunque todo parezca perdido, tú sigues siendo Dios. Aunque no entendamos por qué permite el dolor, seguimos sabiendo que eres bueno. Guía nuestro corazón para recordar, en los momentos más duros, que tus compasiones son nuevas cada mañana, y que tu fidelidad es grande. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "Job: Adoración en los Escombros",
+      "subtitle": "A veces, la fe significa permanecer de pie en las ruinas.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Job 1:20-22",
+            "book_code": "JOB",
+            "chapter": 1,
+            "verses": "20-22",
+            "translation": "Reina-Valera 1909",
+            "text": "Entonces Job se levantó, y rasgó su manto, y afeitó su cabeza, y se postró en tierra y adoró, y dijo: Desnudo salí del vientre de mi madre, y desnudo volveré allá; Jehová dio, y Jehová quitó; sea el nombre de Jehová bendito. En todo esto no pecó Job, ni atribuyó a Dios despropósito alguno."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "El Libro de Job comienza casi de manera insoportable en su velocidad. Un mensajero sigue a otro. La pérdida llega antes de que el dolor pueda tomar aliento. Al final de la escena, el hombre que comenzó el día próspero está sentado en la devastación. Pero Job responde con algo que es tanto quebrantado como reverente.",
+            "Lee cuidadosamente Job 1:20-22. La Escritura se detiene en las acciones de Job: rasgó su ropa, se afeitó la cabeza, se postró en tierra, y adoró. Ninguno de esos movimientos cancela a los otros. La adoración aquí no es triunfo emocional. No es la supresión del dolor. Es la negativa a negar el señorío de Dios cuando la vida se ha vuelto incomprehensible. La primera respuesta de Job es tanto quebrantada como inclinada.",
+            "Ese cuadro es crucial porque muchos cristianos suponen silenciosamente que el dolor y la adoración pertenecen a lados opuestos de la habitación. Job dice lo contrario. Una persona puede temblar, llorar, y aún permanecer ante Dios. **La adoración que Dios recibe de los heridos frecuentemente está despojada de la actuación y hecha terriblemente pura.** A veces la fe significa mantenerse de pie en los escombros sin pretender que ya está reconstruido."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Salmo 139:14",
+              "book_code": "JOB",
+              "chapter": 2,
+              "verses": "11-13",
+              "translation": "Reina-Valera 1909",
+              "text": "Te alabaré; porque formidablemente, y de manera maravillosa he sido hecho; maravillosas son tus obras, y mi alma lo sabe muy bien."
+            },
+            {
+              "display": "2 Corintios 12:9",
+              "book_code": "JOB",
+              "chapter": 23,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "Y me dijo: Bástate mi gracia; porque mi poder se perfecciona en la debilidad. Por tanto, de buena gana me gloriaré más bien en mis debilidades, para que repose sobre mí el poder de Cristo."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Dios de Job, te pedimos que nos enseñes a estar en pie en los escombros sin pretender que ya está reconstruido. Si el dolor es profundo, que sea profundo. Si las preguntas duelen, que duelen. Pero en mitad de todo esto, mantenernos firmes en la esperanza de que tú eres Dios, de que conoces nuestro camino, y de que incluso en la noche más oscura, eres nuestro Dios. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Siete Días de Silencio",
+      "subtitle": "A veces, los amigos nos ayudan más cuando no hablan.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Job 2:11-13",
+            "book_code": "JOB",
+            "chapter": 2,
+            "verses": "13",
+            "translation": "Reina-Valera 1909",
+            "text": "Y oyendo los tres amigos de Job todo este mal que le había venido, vinieron cada uno de su lugar; Elifaz temanita, Bildad suhita, y Zofar naamatita; porque habían concertado de venir juntos para condolerse de él y para consolarle. Y alzando los ojos de lejos, no lo conocieron; y llorando a voz en grito, rasgaron sus mantos, y esparcieron polvo sobre sus cabezas hacia el cielo. Y se sentaron con él en tierra siete días y siete noches, y ninguno le hablaba palabra; porque veían que su dolor era muy grande."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hay una verdad liberadora en la historia de Job que fácilmente pasamos por alto. Cuando sus amigos llegan, lo primero que hacen es lo correcto. Se sientan con él en silencio durante siete días. No hay sermones. No hay explicaciones. Simplemente presencia.",
+            "Lee cuidadosamente Job 2:11-13. Los amigos vienen desde lejos. Lo ven en su sufrimiento. Y se sientan con él en tierra siete días y siete noches, y ninguno le hablaba palabra. Es solo cuando uno de ellos abre la boca—cuando comienza a ofrecer explicaciones, correcciones, sermones—que la situación empeora. Ese silencio inicial fue su verdadera compasión.",
+            "Vivimos en un mundo que adora las palabras. Las soluciones. Los sermones cortos. Las platitudes sobre todo para bien. Pero Job necesitaba algo más profundo: presencia. Necesitaba que alguien dijera tu dolor importa simplemente estando allí. **Cuando el dolor es lo suficientemente profundo, las palabras se quedan cortas. Lo que se necesita es la presencia de quien dice sin hablar: No estás solo en esto.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Romanos 12:15",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "15",
+              "translation": "Reina-Valera 1909",
+              "text": "Gozaos con los que se gozan; llorad con los que lloran."
+            },
+            {
+              "display": "Eclesiastés 3:4",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "4",
+              "translation": "Reina-Valera 1909",
+              "text": "Tiempo de llorar, y tiempo de reír; tiempo de endechar, y tiempo de bailar."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre, enséñanos el valor del silencio en mitad del dolor de alguien más. Cuando no tenemos palabras, danos la gracia de simplemente estar presentes. Y si nosotras estamos en el dolor, rodéanos de amigos que entienden que a veces la mayor ayuda es la compañía tranquila. Líbranos de la tentación de llenar el silencio con explicaciones cuando lo que se necesita es presencia. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Cuando Dios No Explica",
+      "subtitle": "La fe verdadera no requiere todas las respuestas.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Job 38:1-7",
+            "book_code": "JOB",
+            "chapter": 38,
+            "verses": "1-7",
+            "translation": "Reina-Valera 1909",
+            "text": "Y Jehová respondió a Job desde un torbellino, y dijo: ¿Quién es ese que oscurece el consejo con palabras sin sabiduría? Ahora ciñe como varón tus lomos; porque yo te preguntaré, y tú me responderás. ¿Dónde estabas tú cuando yo fundaba la tierra? Házmelo saber, si tienes inteligencia. ¿Quién ordenó sus medidas, si lo sabes? ¿O quién extendió sobre ella cordel? ¿Sobre qué se asientan sus bases? ¿O quién puso su piedra angular?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Llegamos a una pregunta que es tan antigua como el dolor mismo: ¿Por qué? Si Dios es bueno, ¿por qué permite el sufrimiento? La mayoría de nosotras hemos estado allí. Tal vez seguimos estándolo. Hemos hecho la pregunta una y otra vez, y no ha venido la respuesta clara que esperábamos.",
+            "Lee lentamente Job 38:1-7. Dios llega al final del libro de Job—después de todo el dolor, después de todas las preguntas—y no responde la pregunta. No dice permitiste este sufrimiento porque... No ofrece una ecuación moral que explique por qué sufren los inocentes. En su lugar, Dios hace una pregunta mucho más grande: ¿Dónde estabas tú cuando yo fundaba la tierra? ¿Entiendes el alcance de la creación? ¿Conoces los misterios que sostienen el universo?",
+            "Lo que Dios está diciendo es profundo: no todo puede ser explicado en las categorías que crees que son adecuadas. **Mi soberanía es más amplia que tu sufrimiento. Tu dolor es real, pero Yo soy más real aún.** La fe verdadera no requiere que tengamos todas las respuestas. Requiere que confiemos en el carácter de Dios incluso cuando Sus caminos permanecen misteriosos."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Habacuc 3:17-18",
+              "book_code": "ISA",
+              "chapter": 55,
+              "verses": "8-9",
+              "translation": "Reina-Valera 1909",
+              "text": "Aunque la higuera no florezca, ni en las vides haya frutos, aunque falle la cosecha del olivo, y los labrados no den mantenimiento, aunque las ovejas sean quitadas de la majada, y no haya vacas en los establos; Con todo, yo me alegraré en Jehová, y me gozaré en el Dios de mi salvación."
+            },
+            {
+              "display": "Isaías 55:8-9",
+              "book_code": "EXO",
+              "chapter": 33,
+              "verses": "19-23",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque mis pensamientos no son vuestros pensamientos, ni vuestros caminos mis caminos, dijo Jehová. Como son más altos los cielos que la tierra, así son mis caminos más altos que vuestros caminos, y mis pensamientos más que vuestros pensamientos."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Dios de misterio, te pedimos que nos des la gracia de vivir con preguntas sin resolver. Queremos respuestas claras, explicaciones que nos permitan entender y luego seguir adelante. Pero si tú no das esas respuestas, que seamos capaces de quedarnos contigo de todas formas. Que nuestra fe no dependa de nuestra comprensión, sino de tu carácter. Y cuando todo sea oscuro, que sepamos que tú eres digno de confianza incluso cuando no puedas ser completamente comprendido. Por Jesucristo nuestro Señor, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "Jesús También Oró un Lamento",
+      "subtitle": "El Hijo de Dios conoce el dolor de ser abandonado.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Mateo 27:45-46",
+            "book_code": "MAT",
+            "chapter": 27,
+            "verses": "46",
+            "translation": "Reina-Valera 1909",
+            "text": "Y desde la hora de sexta hubo tinieblas sobre toda la tierra hasta la hora de nona. Y cerca de la hora de nona, Jesús clamó a gran voz, diciendo: Elí, Elí, ¿lama sabactani? Esto es: Dios mío, Dios mío, ¿por qué me has desamparado?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hermana, hoy llegamos a una verdad que cambia todo lo que hemos estado diciendo: Jesús también lamentó. Cuando nos dicen que debemos ser alegres, victoriosos, que el sufrimiento es opcional para los lo suficientemente fuertes en la fe, deberíamos mirar la cruz. En su momento de mayor agonía, Jesús no oró una oración hermosa y paciente. Oró un Salmo de lamento.",
+            "Lee Mateo 27:45-46 lentamente. Alrededor de la hora de nona, Jesús clamó a gran voz, diciendo: Elí, Elí, ¿lama sabactani? Esto es: Dios mío, Dios mío, ¿por qué me has desamparado? Eso es Salmo 22:1. Pero no es un acto de falta de fe. Es el acto más profundo de fe que podemos imaginar. Jesús, en el momento de máxima agonía, se aferraba a la única oración que conocía: el lamento. No se fue fuera de la oración. Se fue más profundamente en la oración.",
+            "Y aquí está lo extraordinario: después de ese grito, después de ese lamento, viene la resurrección. **El lamento de Jesús valida el nuestro. Su dolor es la prueba de que Dios no es un Dios distante que mira nuestro sufrimiento desde lejos. Es un Dios que entró completamente en el sufrimiento.** Ahora, cuando lloramos, sabemos que no estamos solos. Él estaba allí primero."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Salmo 22:1",
+              "book_code": "PSA",
+              "chapter": 22,
+              "verses": "1",
+              "translation": "Reina-Valera 1909",
+              "text": "Dios mío, Dios mío, ¿por qué me has desamparado? ¿Por qué estás lejos de mi salvación, y de las palabras de mi clamor?"
+            },
+            {
+              "display": "Hebreos 5:7-9",
+              "book_code": "HEB",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Reina-Valera 1909",
+              "text": "Y Cristo, en los días de su carne, ofreciendo ruegos y súplicas con gran clamor y lágrimas al que podía librarle de la muerte, fue oído por su temor. Y aunque era Hijo, por lo que padeció aprendió la obediencia; y habiendo sido perfeccionado, vino a ser autor de eterna salvación para todos los que le obedecen."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Jesús, te agradecemos que hayas tomado nuestro dolor sobre ti. Que hayas gritado nuestras lamentaciones. Que no hayas venido como un ser distante que entiende el sufrimiento teóricamente, sino que hayas entrado en él completamente. Ahora, cuando lloramos, sabemos que no estamos solos. Tú estás aquí. Tú entiendes. Tú has estado donde estamos. Y aunque el dolor es real, la resurrección también lo es. Por tu nombre, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "Las Lágrimas No Son el Final",
+      "subtitle": "La resurrección es la respuesta de Dios a la lamentación.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Apocalipsis 21:3-4",
+            "book_code": "REV",
+            "chapter": 21,
+            "verses": "4",
+            "translation": "Reina-Valera 1909",
+            "text": "Y oí una gran voz del cielo que decía: He aquí el tabernáculo de Dios con los hombres, y él morará con ellos; y ellos serán su pueblo, y el mismo Dios será su Dios con ellos. Y Dios enjugará toda lágrima de los ojos de ellos; y no habrá más muerte, ni habrá más llanto, ni clamor, ni dolor; porque las primeras cosas pasaron."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hermana, llegamos al séptimo día, el día del descanso, el día en que todo se restaura. Durante esta semana, hemos viajado a través del dolor. Hemos aprendido que el lamento es oración. Hemos descubierto que Jesús mismo conoce las lágrimas. Pero ahora viene la pregunta más importante: ¿Es el dolor el final de la historia?",
+            "Lee lentamente Apocalipsis 21:3-4.",
+            "**\"Y Dios enjugará toda lágrima de los ojos de ellos.\"**",
+            "La Biblia no termina con la cruz. Termina con la resurrección. Termina con la promesa de que el dolor no es la última palabra. Las lágrimas serán enjugadas. El llanto será transformado en gozo. El lamento no será olvidado, pero será envuelto en la alegría. Por eso podemos lamentar ahora sin desesperación. Porque sabemos, por la fe en Jesús resucitado, que nuestro dolor tiene un propósito. Tiene un final. Tiene una redención.",
+            "Hace años, una hermana que había pasado a través de una pérdida que la rompió completamente me dijo algo que nunca olvidaré: Pastora, las lágrimas que derramé durante aquellos oscuros meses no fueron en vano. El dolor me enseñó a amar más profundamente. A orar con más honestidad. A saber que Dios estaba allí incluso en mitad de todo. Ella no estaba tratando de justificar el dolor. Simplemente estaba diciendo que el dolor no la rompió para siempre. Fue transformado. Y así será para nosotras también. Las lágrimas de hoy serán secadas. El lamento de hoy será canción. **El fin de toda la historia no es una pregunta sin respuesta. Es el banquete de la resurrección.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Isaías 25:8",
+              "book_code": "ISA",
+              "chapter": 25,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Destruirá a la muerte para siempre; y enjugará Jehová el Señor toda lágrima de todos los rostros; y quitará la afrenta de su pueblo de toda la tierra; porque Jehová lo ha dicho."
+            },
+            {
+              "display": "Romanos 8:18",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "18",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque tengo por cierto que las aflicciones del tiempo presente no son comparables con la gloria venidera que en nosotros ha de manifestarse."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Dios de la resurrección, te agradecemos que no nos dejes en el dolor. Que aunque las lágrimas son verdaderas ahora, que aunque el lamento es legítimo, que aunque el dolor es profundo, sabemos que no es el final. Tú estás aquí en el dolor. Y tú estás en el otro lado del dolor. Sosténos mientras esperamos. Sé cercano a nuestro lamento. Y ayúdanos a recordar que incluso ahora, incluso en medio del dolor, eres digno de alabanza porque sabes dónde terminará todo esto. Por Jesucristo nuestro Señor, quien murió y resucitó, amén.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

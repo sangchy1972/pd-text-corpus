@@ -1,0 +1,461 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG18",
+    "slug": "joy-gratitude-daily-life",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garden of Emotions",
+      "secondary": "joy-gratitude",
+      "secondary_label": "Joy & Gratitude"
+    },
+    "tags": [
+      "joy",
+      "gratitude",
+      "wonder",
+      "praise",
+      "noticing",
+      "thankfulness"
+    ],
+    "title": "Let Joy and Gratitude Dwell in Daily Life",
+    "subtitle": "These seven days help you rediscover grace and welcome joy and gratitude back into everyday life.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "recovering-joy",
+        "grateful",
+        "reflective"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "These seven days help you rediscover grace and welcome joy and gratitude back into everyday life.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_morning_sunlight_garden_joy",
+      "icon": "small-flower-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 145:1-7",
+        "book_code": "PSA",
+        "chapter": 145,
+        "verses": "1-7"
+      },
+      {
+        "display": "Psalm 34:1-8",
+        "book_code": "PSA",
+        "chapter": 34,
+        "verses": "1-8"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "Praise Begins by Seeing God’s Goodness",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 145:1-7",
+            "book_code": "PSA",
+            "chapter": 145,
+            "verses": "1-7",
+            "translation": "KJV",
+            "text": "I will extol thee, my God, O king… Every day will I bless thee… Great is the LORD, and greatly to be praised… They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many people associate praise mainly with music or spiritual atmosphere. Yet the Psalms often begin elsewhere. They begin with sight. The psalmist praises because he sees who God is—gracious, patient, faithful, and good. Praise is not merely a reaction to a feeling. It is first a response to reality.",
+            "That matters because feelings change quickly. A woman who praises only when she feels lifted will often find her praise thin and unstable. But when praise begins in the recognition of God’s character, it grows steadier. **Praise begins by seeing God’s goodness before it begins in our mood.**",
+            "This kind of praise grounds the soul. It lifts attention from the instability of the day to the stability of God. Problems may remain, but the heart is no longer interpreting everything only through pressure. It is remembering who the Lord has always been.",
+            "A praising life is rarely a life that has avoided difficulty. It is more often a life that has learned to remember God accurately. That remembrance becomes light."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "My God and my King, I come before You first to say that You are good. Not because I feel especially bright today, but because Your goodness does not change. Thank You for dealing with me in mercy and for sustaining me with patience. If my heart has been preoccupied with itself and slow to look up to You, have mercy on me and bring me back to a true sight of who You are. Let praise begin not in strain, but in seeing You again. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 145:1-7",
+              "book_code": "PSA",
+              "chapter": 145,
+              "verses": "1-7",
+              "translation": "KJV",
+              "text": "I will extol thee, my God, O king… Every day will I bless thee… Great is the LORD, and greatly to be praised… They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Ordinary Days Are Worthy of Thanks",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 118:24",
+            "book_code": "PSA",
+            "chapter": 118,
+            "verses": "24",
+            "translation": "KJV",
+            "text": "This is the day which the LORD hath made; we will rejoice and be glad in it."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many people quietly set the threshold for gratitude too high. They assume they should only give thanks when something impressive happens—good news, breakthrough, relief, answered longing. But Psalm 118 says, “This is the day which the LORD hath made.” Not a dramatic day. This day. James adds that every good gift comes from above. That means even the ordinary day may already be carrying grace.",
+            "Ordinary life often reveals its beauty only to a slower heart. Morning light, a meal, an hour of peace, laughter at the table, a body that held on, a quiet evening—none of these may look large, yet they steady a life. **Ordinary days are not spiritually empty days.**",
+            "A woman who gives thanks for the ordinary is not naive. She has simply learned that God’s kindness rarely appears only at the peaks. It is often waiting in the unnoticed middle. The more she receives that, the less she postpones joy to some future season.",
+            "There is wisdom in thanking God for today’s grace while it is still today. That kind of gratitude keeps the heart bright."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, before this day is even over, I want to thank You for it. Thank You for placing an ordinary day in my hands and for hiding more goodness inside it than I may have fully seen. You are the giver of every good gift, and even ordinary time can shine in Your care. Free me from the habit of treating today as too small for gratitude. Let me learn, right here in this day, to recognize Your presence with joy. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 118:24",
+              "book_code": "PSA",
+              "chapter": 118,
+              "verses": "24",
+              "translation": "KJV",
+              "text": "This is the day which the LORD hath made; we will rejoice and be glad in it."
+            },
+            {
+              "display": "James 1:17",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "17",
+              "translation": "KJV",
+              "text": "Every good gift and every perfect gift is from above."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Remembered Grace Brightens the Heart",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 34:1-8",
+            "book_code": "PSA",
+            "chapter": 34,
+            "verses": "1-8",
+            "translation": "KJV",
+            "text": "I will bless the LORD at all times… O magnify the LORD with me… I sought the LORD, and he heard me, and delivered me from all my fears… O taste and see that the LORD is good."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "People forget easily. Not always by choice, but by pressure. New anxieties cover old mercies. Recent disappointments can eclipse years of faithfulness. That is why Scripture so often turns toward remembrance. Psalm 34 is not only praise. It is remembered praise.",
+            "To remember grace is not to live in the past. It is to bring God’s past faithfulness into today’s uncertainty. When a woman remembers how she has been sustained, her heart becomes less ruled by immediate fear. **Remembered grace brightens the heart because it reminds us that we have not been carried this far by ourselves.**",
+            "This is one reason the people of God keep telling stories, singing songs, and repeating what the Lord has done. Memory is part of spiritual strength. It keeps the soul from collapsing into whatever is most recent.",
+            "A life that remembers grace often grows steadier and warmer. It is not living only inside today’s pressure. It is living also inside the memory of God’s faithfulness."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Faithful Lord, I bring even my memory before You. Thank You that You did not help me only once, but have left Your footprints all along the road. You have heard my prayers and upheld me in weak places. I praise You because who You were yesterday, You remain today. Heal my forgetfulness. Do not let one present pressure cover over Your long faithfulness. As I remember how You have carried me, let steadiness rise again in my heart. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 34:1-8",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "1-8",
+              "translation": "KJV",
+              "text": "I will bless the LORD at all times… O magnify the LORD with me… I sought the LORD, and he heard me, and delivered me from all my fears… O taste and see that the LORD is good."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "Gratitude Makes Love Gentler",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Colossians 3:12-17",
+            "book_code": "COL",
+            "chapter": 3,
+            "verses": "12-17",
+            "translation": "KJV",
+            "text": "Put on therefore… bowels of mercies, kindness, humbleness of mind, meekness, longsuffering… and be ye thankful… giving thanks to God and the Father by him."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Sometimes a woman grows sharper in relationships not because she is unloving, but because gratitude has thinned out. A heart trained mostly on problems becomes quicker to criticize and slower to cherish. By contrast, a heart that remembers grace often becomes more patient and gentle.",
+            "Colossians places thankfulness near peace, kindness, longsuffering, forgiveness, and love. That is a beautiful arrangement. It suggests that gratitude is not only an inward feeling toward God. It flows outward into the way we hold other people. **Gratitude changes love.**",
+            "When thankfulness grows, ordinary relational goodness becomes more visible. A thoughtful word, a patient gesture, a shared burden, a small kindness—these things stop disappearing into familiarity and begin to matter again. Gratitude does not deny real problems. It simply refuses to let problems become the only truth.",
+            "A grateful heart often becomes a gentler one. It sees more generously. It loves with more warmth. It notices the grace hidden inside familiar people."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, I confess that I easily grow used to the good others give me, until grace begins to feel ordinary and expected. Thank You that You have not treated me that way. You are patient and kind with me again and again. You are a gentle Lord, worthy of my thanks. Place that same spirit within me. Teach me in my relationships not only to notice flaws, but to appreciate; not only to feel disappointment, but to remember gratitude. Let the way I love today carry some of Your gentleness. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Colossians 3:12-17",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "12-17",
+              "translation": "KJV",
+              "text": "Put on therefore… bowels of mercies, kindness, humbleness of mind, meekness, longsuffering… and be ye thankful… giving thanks to God and the Father by him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "Joy Can Be Quiet and Still Deep",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "John 15:9-11",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "9-11",
+            "translation": "KJV",
+            "text": "Continue ye in my love… that my joy might remain in you, and that your joy might be full."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some people assume joy must always look expressive, energetic, or easily visible. Yet mature joy is often quieter than that. It can feel like a steady inner light rather than a loud emotional high. Jesus speaks of His joy remaining in us and our joy becoming full. That fullness is not shallow excitement. It is inward sufficiency.",
+            "This matters because many women today are not lacking stimulation. They are lacking rest, inward spaciousness, and settled delight. The world offers many quick lifts, but they rarely satisfy for long. **Spiritual joy may be quiet, but it can be deep, steady, and wonderfully real.**",
+            "Such joy does not remove all sorrow or every burden. It does something subtler. It gives the heart a place of fullness beneath the unfinishedness of life. A woman with this kind of joy may not always appear loud, but she often carries a peaceful brightness that others can feel.",
+            "This is one of Christ’s gifts. He does not only console the weary. He also teaches the soul how to live lit from within."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, I bring before You the emptiness in me that is hard to name. Thank You that You know what I truly need is not just brief relief, but a place of inward rest. You are the Lord who gives life and the One who fills the heart, and I praise You. If I have been chasing brightness outside myself, draw me back into Your love. If I have mistaken noise for joy, teach me again the deep and steady fullness You give. Let Your joy dwell in me and outlast the noise around me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "John 15:9-11",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "9-11",
+              "translation": "KJV",
+              "text": "Continue ye in my love… that my joy might remain in you, and that your joy might be full."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Day 6",
+      "title": "Praise Is Not a Mood but a Rhythm",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "1 Thessalonians 5:16-18",
+            "book_code": "1TH",
+            "chapter": 5,
+            "verses": "16-18",
+            "translation": "KJV",
+            "text": "Rejoice evermore. Pray without ceasing. In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many people think praise belongs only to brighter moods. If they feel tired, flat, or distracted, praise seems difficult or insincere. But 1 Thessalonians speaks of rejoicing, praying, and giving thanks as ongoing practices. This sounds less like emotional intensity and more like rhythm.",
+            "Praise becomes powerful when it stops depending entirely on mood and starts becoming part of daily return. A quiet thanks in the morning, a pause at a table, a prayer while walking, a remembered mercy before sleep—these small acts form a pattern. **Praise is not merely what happens when the heart feels high. It is one of the ways the heart keeps turning toward God.**",
+            "That rhythm matters. A woman whose life contains regular praise may still have hard days, but she is often less easily ruled by one emotion at a time. She has already made room for return. She knows how to come back.",
+            "Over time, praise becomes less of an event and more of an atmosphere. The heart learns the way home through repetition."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I thank You that You never wait for my best condition before welcoming me. Even when I feel ordinary, quiet, or a little tired, You are still worthy of praise, and You still receive my voice. You are good in Yourself, and so I bless You not only for Your gifts, but for who You are. Build within me a path of return, so that I keep learning how to turn my heart back toward You. Even if today’s gratitude feels light and small, be pleased to receive it. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "1 Thessalonians 5:16-18",
+              "book_code": "1TH",
+              "chapter": 5,
+              "verses": "16-18",
+              "translation": "KJV",
+              "text": "Rejoice evermore. Pray without ceasing. In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
+            },
+            {
+              "display": "Hebrews 13:15",
+              "book_code": "HEB",
+              "chapter": 13,
+              "verses": "15",
+              "translation": "KJV",
+              "text": "By him therefore let us offer the sacrifice of praise to God continually."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Day 7",
+      "title": "As Life Becomes More Like Praise, the Heart Grows Brighter",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 34:1-8",
+            "book_code": "PSA",
+            "chapter": 34,
+            "verses": "1-8",
+            "translation": "KJV",
+            "text": "I will bless the LORD at all times… O magnify the LORD with me… O taste and see that the LORD is good: blessed is the man that trusteth in him."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "A life of doxology is not a life of constant emotional intensity. It is a life whose shape is slowly changed by praise. Such a woman becomes more able to recognize grace, more ready to give thanks, and less easily swallowed by hurry or heaviness. Light begins to gather in her life.",
+            "What makes that kind of life beautiful is that it is not performed. It is usually found in people who have lived honestly and learned God’s faithfulness over time. They know disappointment, fatigue, and unfinished stories. Yet they keep returning to the goodness of God. **Over time, joy and gratitude become not only moments in a life, but part of the life’s character.**",
+            "Psalm 34 invites others to magnify the Lord together. That means praise is not merely private feeling. It becomes witness. A bright life often comforts other people without trying very hard to do so. Its steadiness, gentleness, and gratitude become a kind of song others can hear.",
+            "This is the destination of the chapter: not a brief uplift, but a more luminous way of being. A woman whose life grows in praise may still know sorrow, but she also becomes someone who carries light."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, if my life ever grows bright, it will be because Your grace first shone on me. Thank You that You do not only comfort me in moments, but shape me over time. You are a good Lord and a God worthy of praise. If my worship is real, it is only a small response to Your beauty. Keep refining my heart, so that I remember more readily, give thanks more freely, and honor You more naturally in ordinary life. Let my whole life become not just a song I sing now and then, but a song slowly lived back to You. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 34:1-8",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "1-8",
+              "translation": "KJV",
+              "text": "I will bless the LORD at all times… O magnify the LORD with me… O taste and see that the LORD is good: blessed is the man that trusteth in him."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

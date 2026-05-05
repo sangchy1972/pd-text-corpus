@@ -1,0 +1,389 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI14",
+    "slug": "free-from-people-pleasing",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles e Identidad",
+      "secondary": "work-calling",
+      "secondary_label": "Trabajo y Llamado"
+    },
+    "tags": [
+      "trabajo",
+      "llamado",
+      "carrera",
+      "complacer",
+      "exito",
+      "fe-en-el-trabajo"
+    ],
+    "title": "Liberarse de Complacer a las Personas",
+    "subtitle": "Límites para mujeres cansadas de dar demasiado y de exigirse al máximo",
+    "audience": {
+      "life_stage": [
+        "mujeres profesionales",
+        "trabajadoras"
+      ],
+      "emotional_state": [
+        "responsable",
+        "exigida",
+        "redefiniendo el éxito"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Estos cinco días te acompañarán para soltar poco a poco el hábito de complacer en el trabajo y aprender una manera más auténtica y liberadora de presentarte.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#B8C8D8",
+      "color_secondary": "#2C4A6B",
+      "image_key": "cover_woman_at_desk_morning_calm",
+      "icon": "open-book-and-light-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Gálatas 1:10",
+        "book_code": "GAL",
+        "chapter": 1,
+        "verses": "10"
+      },
+      {
+        "display": "Juan 8:32",
+        "book_code": "JHN",
+        "chapter": 8,
+        "verses": "32"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Complacer a las Personas Puede Parecer Responsabilidad",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Gálatas 1:10",
+            "book_code": "GAL",
+            "chapter": 1,
+            "verses": "10",
+            "translation": "Reina-Valera 1909",
+            "text": "¿Busco ahora la aprobación de los hombres, o la de Dios?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Complacer a la gente en el trabajo no siempre se ve como debilidad o inseguridad. Muy a menudo se ve admirable.",
+            "Se parece a ser altamente responsable, infinitamente confiable, agradable bajo presión y estar dispuesta a hacer un poco más para que nadie sea inconveniente para ti. Algo de eso puede genuinamente venir de la responsabilidad. Pero a veces el motor más profundo es el miedo. No solo estás tratando de hacer bien el trabajo. Estás tratando de evitar decepcionar a las personas, evitar parecer difícil, evitar perder aprobación, evitar ser la mujer que alguien encuentra demasiado problemática para confiar.",
+            "Gálatas nos hace una pregunta penetrante: ¿busco la aprobación de las personas, o de Dios? Proverbios dice que el temor a las personas trae una trampa. Esa palabra «trampa» importa porque el miedo a menudo se disfraza de virtud. Puedes parecer la persona más confiable en la sala mientras secretamente eres incapaz de parar porque tu valor se ha entrelazado con las reacciones de otros. En ese estado, el esfuerzo ya no es limpio. La responsabilidad se mezcla con la autoprotección.",
+            "Muchas mujeres reflexivas conocen bien esta tensión. No somos perezosas. Nos importa. Pero no siempre se nos enseña cómo discernir la diferencia entre devoción verdadera y sobreexigencia impulsada por la aprobación. El crecimiento comienza cuando empezamos a notar esa diferencia sin avergonzarnos. Dios no te está llamando a la negligencia. Te está llamando a que tu fidelidad salga del miedo.",
+            "**No toda forma de \"ser responsable\" es puramente fidelidad.** Presta atención hoy a si tu esfuerzo ha sido impulsado más por devoción o por miedo a desagradar a otros. Lleva ese miedo a la presencia de Dios y déjalo comenzar a desengañarlo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, muéstrame el corazón que hay debajo de mi esfuerzo. Si gran parte de mi esfuerzo ha sido realmente impulsado por el miedo a las personas, sácame de esa trampa. Sácame de los hábitos de complacer, la ansiedad y el demostrarme a través del desempeño. Déjame permanecer firme bajo presión, libre dentro de la responsabilidad, y consciente en cada día de trabajo de que finalmente soy responsable ante ti. Reemplaza mi miedo a la desaprobación con un deseo más profundo de ser veraz y fiel ante ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Gálatas 1:10",
+              "book_code": "GAL",
+              "chapter": 1,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "¿Busco ahora la aprobación de los hombres, o la de Dios?"
+            },
+            {
+              "display": "Proverbios 29:25",
+              "book_code": "PRO",
+              "chapter": 29,
+              "verses": "25",
+              "translation": "Reina-Valera 1909",
+              "text": "El temor de las personas trae una trampa..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Dificultad para Decir que No Desgastará a una Persona",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Marcos 1:35",
+            "book_code": "MRK",
+            "chapter": 1,
+            "verses": "35",
+            "translation": "Reina-Valera 1909",
+            "text": "Se levantó muy temprano, en la madrugada, y se fue a un lugar solitario a orar."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas mujeres en el trabajo no carecen de habilidad. Carecen de permiso para parar.",
+            "Luchan por declinar, demorar o admitir capacidad. En el momento en que alguien necesita algo, llega la culpa. Sin embargo, Jesús mismo se apartó, se desaceleró y no estuvo disponible sin fin a cada demanda.",
+            "A menudo sabemos que estamos cerca de nuestro límite. Lo que no sabemos hacer es honrar ese límite sin sentir vergüenza. Admitir capacidad puede parecer arriesgado. Tememos parecer poco servicial, menos competente o más difícil de trabajar. Así que seguimos diciendo que sí, seguimos absorbiendo solicitudes y seguimos dividiendo nuestra atención hasta que ya no tenemos un yo completo para llevar a nada. Lo que se ve como generosidad en el exterior puede convertirse en agotamiento en el interior.",
+            "Jesús no estaba gobernado por cada expectativa urgente a su alrededor. Se retiró, oró y se movió según el tiempo del Padre. Eso no era indiferencia. Era claridad santa. De la misma manera, no cada necesidad a tu alrededor es automáticamente tu responsabilidad. Decir que no a lo que no puedes llevar bien es a veces parte de decir que sí a la fidelidad.",
+            "**Si nunca dices que no, finalmente pierdes la fuerza para decir un sí de todo corazón a lo que importa.** Pídele a Dios hoy honestidad y límites alrededor de una solicitud que sabes que no puedes llevar bien.",
+            "Un no fiel puede proteger muchos síes más verdaderos más adelante.",
+            "Los límites sabios a menudo preservan mucho más amor que el exceso agotado jamás puede.",
+            "Decir menos síes al pánico puede convertirse en un sí más profundo a la paz.",
+            "Dios puede enseñar a tu no a convertirse en parte de tu fidelidad, no una amenaza para ella."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, enséñame a no demostrarme a través de síes sin fin. Si he tenido miedo de admitir mis límites porque temo ser mal entendida, decepcionar a las personas o parecer menos capaz, sana ese miedo en mí. Ayúdame a ver mi capacidad honestamente en ti, y dame valor para hablar límites sabios. Recuérdame que rechazar algo no siempre es falto de amor, y parar no siempre es infiel. Enséñame a guardar mi fuerza para lo que realmente me has encomendado. Sácame de los hábitos de complacer, la ansiedad y el demostrarme a través del desempeño. Déjame permanecer firme bajo presión, libre dentro de la responsabilidad, y consciente en cada día de trabajo de que finalmente soy responsable ante ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Marcos 1:35",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35",
+              "translation": "Reina-Valera 1909",
+              "text": "Se levantó muy temprano, en la madrugada, y se fue a un lugar solitario a orar."
+            },
+            {
+              "display": "Eclesiastés 3:1",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "1",
+              "translation": "Reina-Valera 1909",
+              "text": "Todo tiene su tiempo, y cada cosa su hora bajo el cielo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "El Exceso de Explicación Puede Ser una Forma de Autoprotección",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Mateo 5:37",
+            "book_code": "MAT",
+            "chapter": 5,
+            "verses": "37",
+            "translation": "Reina-Valera 1909",
+            "text": "Sea vuestro hablar: Sí, sí; No, no; porque lo que es más de esto, de mal procede."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A veces explicamos demasiado no porque el asunto sea complejo, sino porque tenemos miedo de ser malinterpretadas.",
+            "Así que cada límite, desacuerdo o demora viene con justificación adicional. Queremos probar que no somos perezosas, poco amables, difíciles o incompetentes. Pero libertad no es ser perfectamente entendida por todos. Libertad es no necesitar la comprensión de todos para mantenerse equilibrada.",
+            "Muchos de nosotros conocemos la sensación de tratar de sonar inofensivos antes de sonar honestos. Un simple no se convierte en una explicación larga. Un rechazo razonable se convierte en una disculpa envuelta en autodefensa. No siempre hablamos tanto porque el asunto sea complicado. Hablamos tanto porque tememos lo que la otra persona podría pensar de nosotras si somos breves. Con el tiempo, cada conversación comienza a llevar el peso de la protección de identidad.",
+            "Jesús enseña un camino más limpio: que tu sí sea sí, y tu no sea no. Ese tipo de claridad no es dureza. Es estabilidad interior. Significa que los hechos no siempre tienen que llevar la carga de probar tu bondad. El crecimiento a veces se parece a permitir que un límite permanezca como límite sin convertirlo en una defensa en la corte de tu carácter.",
+            "Esa estabilidad hace la comunicación más simple y el alma más ligera. No tienes que seguir ganando el derecho a ser directa.",
+            "**Cuando seguimos explicando en exceso, a menudo estamos defendiendo nuestro valor más que aclarando el asunto.** Nota un momento hoy cuando sientas ese impulso. Pregúntate si estás comunicando hechos o tratando de proteger tu valor."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, sana la parte de mí que tiene tanto miedo de ser malinterpretada que sigo definiéndome antes de poder simplemente ser honesta. Si cada oración veraz se siente como si necesitara evidencia de apoyo, libérame de esa presión. Enséñame a ser clara sin pánico, honesta sin autoprotección, y breve sin culpa. Recuérdame que mi valor no se mantiene explicándome perfectamente, sino por estar asegurada en ti. Mantén que los resultados externos no me definan más rápidamente que tu paz. Hazme fiel en mi trabajo y despierta en mi espíritu. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Mateo 5:37",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "37",
+              "translation": "Reina-Valera 1909",
+              "text": "Sea vuestro hablar: Sí, sí; No, no; porque lo que es más de esto, de mal procede."
+            },
+            {
+              "display": "Salmo 62:1",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "1",
+              "translation": "Reina-Valera 1909",
+              "text": "En Dios solamente reposa mi alma; de él viene mi salvación."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "No Es Mi Responsabilidad Cargar la Satisfacción de Todos",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Romanos 12:18",
+            "book_code": "ROM",
+            "chapter": 12,
+            "verses": "18",
+            "translation": "Reina-Valera 1909",
+            "text": "Si es posible, en cuanto dependa de vosotros, estad en paz con todos los hombres."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hay una carga invisible en el trabajo que viene de sentir responsabilidad por el confort emocional de todos.",
+            "Cuando la sala está tensa, intentas suavizarla. Cuando alguien está decepcionado, te preguntas inmediatamente si lo causaste. Cuando un colega está frustrado, instintivamente te mueves hacia suavizar, aclarar, absorber o reparar. Muchas mujeres han sido entrenadas, implícita o explícitamente, a convertirse en amortiguadores emocionales en espacios profesionales. Con el tiempo, eso puede parecer lo suficientemente normal como para que ya no notemos cuán pesado es.",
+            "Pero esa carga no es lo mismo que fidelidad. Romanos dice que si es posible, en lo que de nosotros dependa, debemos vivir en paz. Gálatas nos recuerda que cada persona lleva su propia carga. Juntos esos versículos ofrecen libertad: somos llamadas a bondad, honestidad y paz donde podemos crearla, pero no estamos llamadas a gestionar cada reacción a nuestro alrededor. La decepción de otras personas no es automáticamente nuestra responsabilidad.",
+            "Este es un punto de crecimiento significativo para muchas mujeres porque cargar con la atmósfera emocional puede parecer virtuoso. Sin embargo, a veces no estamos siendo amorosas tanto como sobre-responsables. La madurez no significa ser capaz de absorber el clima emocional de todos. Significa saber qué pertenece a tu cuidado y qué no.",
+            "Esa distinción puede devolverte una cantidad sorprendente de paz. Una vez que no todo es tuyo para llevar, tus verdaderas responsabilidades también se hacen más claras.",
+            "**La madurez no significa llevar el clima emocional de todos.** Libera hoy un pedazo que no realmente pertenece en tus manos. Deja que Dios te enseñe la diferencia entre compasión y sobrecargar."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, ayúdame a discernir qué es mío para llevar y qué no. No me dejes seguir poniendo las reacciones, emociones y satisfacción de otras personas sobre mis propios hombros. Ayúdame a ser amable sin perder límites. Mantén que los resultados externos no me definan más rápidamente que tu paz. Hazme fiel en mi trabajo y despierta en mi espíritu. Cuando sienta la tentación de sobrecargar, recuérdame que la obediencia es más ligera que la ansiedad, y que no tengo que convertirme en la respuesta de todos para ser fiel. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Romanos 12:18",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "18",
+              "translation": "Reina-Valera 1909",
+              "text": "Si es posible, en cuanto dependa de vosotros, estad en paz con todos los hombres."
+            },
+            {
+              "display": "Gálatas 6:5",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "5",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque cada uno llevará su propia carga."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "La Verdadera Libertad Es Poder Trabajar Honestamente como Yo Misma",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Juan 8:32",
+            "book_code": "JHN",
+            "chapter": 8,
+            "verses": "32",
+            "translation": "Reina-Valera 1909",
+            "text": "Y conoceréis la verdad, y la verdad os hará libres."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Dios no te ha llamado a convertirte en una versión de ti misma que mantiene a todos complacidos.",
+            "Te ha llamado a fidelidad, honestidad, sabiduría e integridad mayor. Complacer a las personas fragmenta el alma. La verdad lentamente la reúne. Puedes continuar creciendo en profesionalismo y gracia sin continuar viviendo bajo hambre constante de aprobación.",
+            "La integridad es una de las mejores palabras para este tipo de libertad. Complacer a las personas no solo nos agota. Nos divide. Somos una versión de nosotras mismas en una sala, otra versión en otra sala, siempre ajustando para preservar aprobación. Con el tiempo, la vida interior se dispersa. Estamos funcionando, pero no integradas. La verdad de Dios trabaja en la dirección opuesta. Reúne el yo. Nos enseña a dejar de sobrevivir por el desempeño y comenzar a estar más firmemente en honestidad.",
+            "Eso no significa que nos volvemos descuidadas, rígidas o desinteresadas en el crecimiento. Significa que nuestro crecimiento se vuelve más limpio. Podemos seguir aprendiendo mejor comunicación, profesionalismo más profundo y colaboración más sabia sin usar esas cosas para ganar el derecho a existir. Libertad no es egocentrismo. Es dejar de necesitar el placer de todos para permanecer en paz.",
+            "Y esa paz te devuelve un yo más firme para llevar a tu trabajo. Eres menos gobernada por la aprobación y más disponible para el verdadero llamado.",
+            "**Libertad no es ser agradada por todos. Es no necesitar la aprobación de todos para vivir.** Lleva una lección de estos cinco días a tu trabajo hoy, quizás un no más firme, o un sí más simple."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, hazme más libre en el trabajo. No más áspera, sino más honesta. No más desapegada, sino más completa. Si he estado usando la aprobación, satisfacción y alabanza de otros para probar mi valor, sácame lentamente de esa servidumbre. Ayúdame a permanecer fiel, graciosa y disponible a aprender en mi trabajo sin entregar mi alma a las reacciones de otros. Enséñame a permanecer calmada cuando otros me malinterpretan, firme cuando las expectativas tiran de mí, y sincera cuando sería más fácil actuar. Desde este día, déjame vivir más tranquilamente en tu verdad y más verazmente como la persona que me creaste. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Juan 8:32",
+              "book_code": "JHN",
+              "chapter": 8,
+              "verses": "32",
+              "translation": "Reina-Valera 1909",
+              "text": "Y conoceréis la verdad, y la verdad os hará libres."
+            },
+            {
+              "display": "Colosenses 3:23",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "23",
+              "translation": "Reina-Valera 1909",
+              "text": "Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

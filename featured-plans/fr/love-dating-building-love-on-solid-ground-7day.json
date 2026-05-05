@@ -1,0 +1,509 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI06",
+    "slug": "building-love-on-solid-ground",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rôles et Identité",
+      "secondary": "love-dating",
+      "secondary_label": "Amour et Relations"
+    },
+    "tags": [
+      "amour",
+      "relations",
+      "couple",
+      "limites",
+      "cour",
+      "amour-pieux"
+    ],
+    "title": "Construire l'amour sur une base solide",
+    "subtitle": "Une approche guidée par la foi dans les rencontres modernes",
+    "audience": {
+      "life_stage": [
+        "jeunes femmes",
+        "en relation",
+        "avant le mariage"
+      ],
+      "emotional_state": [
+        "pleine d'espérance",
+        "prudente",
+        "cherchant la clarté"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces sept jours vous guident plus profondément à travers la confusion, les tiraillements et l'incertitude des rencontres modernes, vous aidant à construire l'amour sur une base plus solide.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#F4B6B6",
+      "color_secondary": "#7A2C42",
+      "image_key": "cover_woman_quiet_garden_evening_warm_light",
+      "icon": "anchor-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Proverbes 14:15",
+        "book_code": "PRO",
+        "chapter": 14,
+        "verses": "15"
+      },
+      {
+        "display": "Matthieu 7:24",
+        "book_code": "MAT",
+        "chapter": 7,
+        "verses": "24"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Ne pas alimenter chaque émotion",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 14:15",
+            "book_code": "PRO",
+            "chapter": 14,
+            "verses": "15",
+            "translation": "Louis Segond 1910",
+            "text": "L'insensé croit tout ce qu'on lui dit; L'homme prudent prend garde à ses démarches."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'attraction a une façon de rendre la possibilité plus grande qu'elle ne l'est réellement.",
+            "Une fois qu'une étincelle apparaît, tout le monde émotionnel peut s'éclairer. Nous pensons plus, remarquons plus, attendons plus, et commençons tranquillement à attribuer une signification à de très petites choses. Il n'y a rien de mal à être touché. Mais pas chaque étincelle ne devrait être alimentée. L'attraction est un vrai début, mais ce n'est pas la même chose que la direction. Sentir peut ouvrir la porte, mais cela ne peut pas dire seul si ce qui est de l'autre côté est digne de confiance, sain ou capable de durer.",
+            "Les Proverbes disent que le simple croit toute parole, mais le prudent prend bien garde à ses pas. Ce genre de prudence importe dans les rencontres modernes car il est si facile de laisser l'émotion devancer la vérité. Parfois, le cœur ne tombe pas d'abord pour la personne elle-même, mais pour une version imaginée d'elle, construite par l'espoir, la chimie et le désir inaccompli. Dieu ne nous demande pas de devenir durs ou méfiants. Il nous enseigne à garder le discernement près de la tendresse.",
+            "**Celui qui émeut vos sentiments n'est pas automatiquement celui qui peut porter votre avenir.**",
+            "Aujourd'hui, ne vous pressez pas de rien définir. Demandez-vous plutôt si ce qui vous attire le plus fortement est la personne réelle devant vous, ou l'histoire que votre cœur a déjà commencé à construire autour d'elle."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de ne pas me faire honte pour avoir espéré, attendu ou voulu être aimée. Garde mon cœur à la fois tendre et clair. Ne me laisse pas agrandir un moment de sentiment en destinée trop rapidement. Donne-moi le discernement pour voir la vraie personne devant moi, et pour remarquer où je peux remplir les espaces flous par l'imagination. Si c'est un endroit où j'ai besoin de m'arrêter, donne-moi du courage. S'il y a un endroit où j'ai besoin d'attendre, donne-moi de la patience, et enseigne-moi que ta paix est plus fiable que l'intensité émotionnelle. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 14:15",
+              "book_code": "PRO",
+              "chapter": 14,
+              "verses": "15",
+              "translation": "Louis Segond 1910",
+              "text": "L'insensé croit tout ce qu'on lui dit; L'homme prudent prend garde à ses démarches."
+            },
+            {
+              "display": "Proverbes 4:26",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "26",
+              "translation": "Louis Segond 1910",
+              "text": "Considère le chemin par où tu passes, Et que toutes tes voies soient bien ordonnées."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Les drapeaux rouges ne sont pas un drame, mais une protection",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Matthieu 7:16",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "16",
+            "translation": "Louis Segond 1910",
+            "text": "Vous les reconnaîtrez à leurs fruits."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Souvent, nous ne sommes pas aveugles aux signaux d'alerte. Nous sommes simplement réticents à faire confiance à ce que nous sentons déjà.",
+            "Nous expliquons l'incohérence, excusons la volatilité émotionnelle, minimisons les signaux mixtes, et continuons à nous convaincre d'ignorer le malaise parce que nous ne voulons pas paraître dramatiques ou perdre la possibilité trop rapidement. Mais pas chaque sensation inconfortable est une surréaction. Parfois, le malaise est l'une des façons dont Dieu protège le cœur. La confusion répétée, la malhonnêteté, l'instabilité, la manipulation, ou le sentiment croissant que vous ne pouvez plus faire confiance à votre propre perception ne sont pas des choses petites à ignorer.",
+            "Jésus a dit que les gens sont connus par leurs fruits. Cela importe dans les rencontres car la chimie peut être brillante tandis que le caractère reste flou. Une personne digne de confiance n'est pas discernée simplement par l'attraction, les paroles aimables ou les moments intenses. Elle est connue par le modèle au fil du temps. L'amour sain peut supporter le poids de l'observation. Il ne vous demande pas d'éteindre votre discernement pour maintenir la connexion vivante.",
+            "**L'amour sain n'a pas peur d'être observé honnêtement.**",
+            "Écrivez les signes que vous avez hésité à nommer. La protection commence souvent quand nous cessons de faire des excuses pour ce qui continue à déranger la paix."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, si je minimise des signaux d'alerte, donne-moi de les voir clairement. Ne me laisse pas ignorer ce qui nuit à la paix simplement parce que j'ai peur de sembler trop sensible ou de perdre la possibilité. Donne-moi l'honnêteté et la protection. Donne-moi aussi le discernement et des limites saines, afin que ma douceur ne soit pas une capitulation et que mon amour ne me coûte pas mon intégrité. Merci de ne pas être repoussé par ma faiblesse, mais de vouloir venir près, me soutenir et continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Matthieu 7:16",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "16",
+              "translation": "Louis Segond 1910",
+              "text": "Vous les reconnaîtrez à leurs fruits."
+            },
+            {
+              "display": "Proverbes 27:12",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "12",
+              "translation": "Louis Segond 1910",
+              "text": "L'homme prudent voit le malheur et se cache; Les simples avancent et en souffrent."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "La clarté est aimante; la confusion n'est pas romantique",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Matthieu 5:37",
+            "book_code": "MAT",
+            "chapter": 5,
+            "verses": "37",
+            "translation": "Louis Segond 1910",
+            "text": "Que votre parole soit oui, oui, non, non..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certaines relations deviennent compulsantes non parce qu'elles sont claires, mais parce qu'elles ne sont pas résolues.",
+            "Le cœur continue de se pencher, espérant que la prochaine conversation, le prochain geste ou le prochain moment de chaleur expliquera enfin ce que tout signifie. Cela peut commencer à ressembler à un mystère qui est de la profondeur en soi. Mais une relation soutenue par des conjectures produit rarement la paix. Elle peut créer de l'intensité, mais l'intensité n'est pas la même chose que la sécurité. L'amour peut se dérouler lentement, pourtant la lenteur et la confusion ne sont pas la même chose. Une relation lente peut toujours être honnête. Une confuse garde souvent l'autre personne émotionnellement suspendue.",
+            "Jésus a enseigné que nos oui doivent être oui et notre non doivent être non. L'honnêteté appartient à l'intérieur de l'amour. Une personne qui valorise votre cœur se souciera de savoir si sa présence dans votre vie produit de la stabilité ou de la confusion. La clarté ne signifie pas une certitude instantanée ou un engagement immédiat. Elle signifie l'honnêteté sur la direction, l'intention et ce qui peut réalistement être offert.",
+            "**Une relation qui vous garde à deviner souvent vous laisse épuisée, pas en sécurité.**",
+            "Considérez si vous avez construit des explications autour de l'ambiguïté juste pour préserver l'espoir. Dieu ne peut pas répondre à chaque question en un moment, mais Il conduit les cœurs loin de la confusion et vers la vérité."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, sors mon cœur de la confusion. Si j'ai gardé l'espoir vivant par des conjectures, donne-moi du courage pour faire face à ce qui est vrai. Aide-moi à ne pas confondre la confusion avec la romance, ou l'instabilité avec la profondeur. Donne-moi le discernement et des limites saines, afin que ma douceur ne devienne pas une auto-trahison et mon amour ne me coûte pas mon propre intégrité. Merci de ne pas être repoussé par ma faiblesse, mais de vouloir venir près, me soutenir et continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Matthieu 5:37",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "37",
+              "translation": "Louis Segond 1910",
+              "text": "Que votre parole soit oui, oui, non, non..."
+            },
+            {
+              "display": "1 Corinthiens 14:33",
+              "book_code": "1CO",
+              "chapter": 14,
+              "verses": "33",
+              "translation": "Louis Segond 1910",
+              "text": "Car Dieu n'est pas un Dieu de confusion, mais de paix..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Les limites appartiennent à l'intérieur de l'amour, pas en dehors",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Thessaloniciens 4:3-4",
+            "book_code": "1TH",
+            "chapter": 4,
+            "verses": "3-4",
+            "translation": "Louis Segond 1910",
+            "text": "Ce que Dieu veut, c'est votre sanctification; c'est que chacun de vous sache garder son corps dans la sainteté et l'honneur."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Un malentendu courant dans les rencontres est la croyance que les limites signalent une distance émotionnelle.",
+            "Nous pouvons supposer que si nous étions véritablement ouverts, aimants et sérieux, nous n'aurions pas besoin de tant de limites. Mais l'amour fort n'est pas prouvé par des lignes floues. Les limites nous aident à nous mouvoir honnêtement. Elles nous disent quand ralentir, quand poser de meilleures questions, quand protéger la paix, et quand ne pas laisser le désir dépasser la réalité. La sagesse de Dieu n'est pas seulement à nous empêcher les erreurs évidentes. C'est aussi de permettre à l'amour de croître dans la vérité plutôt que dans la pression ou la confusion.",
+            "La première aux Thessaloniciens parle de sainteté comme la volonté de Dieu. Dans les relations, la sainteté inclut plus que la retenue morale. Elle signifie aussi de ne pas laisser l'attachement devancer la clarté, l'intégrité et la paix. L'amour réel n'a pas besoin d'obscurité, de secret ou de hâte pour se sentir vivant. Il peut survivre la patience.",
+            "**Plus une relation a de valeur, plus elle mérite d'être construite lentement dans la vérité.**",
+            "Considérez aujourd'hui la limite que vous savez que vous avez besoin mais que vous avez eu peur de nommer. Apportez ce lieu spécifique devant Dieu et demandez-lui de vous tenir ferme là."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, enseigne-moi quel genre de limites est aimant, sage et honorant pour moi-même et l'autre personne. Si j'ai peur que ralentir, parler clairement ou établir des limites ne me coûte quelque chose, tiens-moi dans cette peur. Aide-moi à ne pas me précipiter, mais à construire lentement dans la vérité. Donne-moi le discernement et des limites saines, afin que ma douceur ne devienne pas une auto-trahison et mon amour ne me coûte pas mon propre intégrité. Merci de ne pas être repoussé par ma faiblesse, mais de vouloir venir près, me soutenir et continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Thessaloniciens 4:3-4",
+              "book_code": "1TH",
+              "chapter": 4,
+              "verses": "3-4",
+              "translation": "Louis Segond 1910",
+              "text": "Ce que Dieu veut, c'est votre sanctification; c'est que chacun de vous sache garder son corps dans la sainteté et l'honneur."
+            },
+            {
+              "display": "Jacques 1:5",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "Louis Segond 1910",
+              "text": "Si quelqu'un d'entre vous manque de sagesse, qu'il la demande à Dieu..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Les sentiments seuls ne peuvent pas porter un avenir",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Matthieu 7:24-25",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "24-25",
+            "translation": "Louis Segond 1910",
+            "text": "C'est pourquoi, quiconque entend ces paroles que je dis et les met en pratique, sera semblable à un homme prudent qui a bâti sa maison sur le roc..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Les sentiments importent, et nous ne devons pas les rejeter pour être sages.",
+            "La chimie, la facilité, la joie, le rire partagé et la connexion émotionnelle sont des cadeaux réels. Mais si une relation va porter un avenir, elle aura besoin de plus que de la résonance. Elle aura besoin du caractère, l'honnêteté, la responsabilité, l'autodiscipline, la direction spirituelle, et la capacité à endurer la vraie vie. Les rencontres ne sont pas seulement si nous nous apprécions maintenant. C'est aussi si la relation peut supporter la vérité, la déception, le conflit, le changement et le temps.",
+            "Jésus a parlé des maisons construites sur le roc et des maisons construites sur le sable. Les relations peuvent être construites de cette façon aussi. Certaines choses se sentent immédiates et belles, mais elles ne peuvent pas supporter beaucoup de poids. Elles semblent prometteuses jusqu'à ce que la pression révèle combien peu y a en dessous. Dieu ne nous demande pas de rejeter la joie ou de devenir suspicieux du plaisir.",
+            "**Si l'amour doit durer, il doit être construit sur plus que des sentiments. Il doit pouvoir porter la vraie vie.**",
+            "Considérez sur quoi cette relation repose réellement. Poser cette question tôt peut sauver le cœur d'une douleur plus profonde plus tard."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, aide-moi à ne pas seulement regarder les sentiments, mais aussi les fondations. Si je suis constamment attiré par la chaleur momentanée tout en négligeant si une relation peut porter un avenir, rappelle-le moi. Laisse-moi apprendre à utiliser ta sagesse pour voir l'amour, ne pas me précipiter à construire sur le sable, mais être disposée à attendre des fondations plus solides. Donne-moi un cœur clair, afin que la peur de perdre l'amour ne parle pas plus fort que la sagesse, et l'émotion passagère n'étouffe pas la paix que tu me donnes. Si le y a un lieu où j'ai besoin d'arrêter, donne-moi du courage; s'il y a un lieu où j'ai besoin d'attendre, donne-moi de la patience. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Matthieu 7:24-25",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "24-25",
+              "translation": "Louis Segond 1910",
+              "text": "C'est pourquoi, quiconque entend ces paroles que je dis et les met en pratique, sera semblable à un homme prudent qui a bâti sa maison sur le roc..."
+            },
+            {
+              "display": "Proverbes 24:3",
+              "book_code": "PRO",
+              "chapter": 24,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "C'est par la sagesse qu'une maison s'élève, Et par l'intelligence qu'elle s'affermit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Dieu n'est pas un spectateur dans l'amour",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Louis Segond 1910",
+            "text": "Confie-toi en l'Éternel de tout ton cœur, Et ne t'appuie pas sur ta sagesse; Reconnais-le dans toutes tes voies, Et il aplanira tes sentiers."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Parfois, nous traitons les rencontres comme si elles nous appartiennent surtout, et Dieu est invité seulement après.",
+            "Nous prions pour le travail, le ministère, les décisions de famille, et les transitions de vie visibles. Mais quand il s'agit d'attraction, d'attachement et du momentum de la relation, nous comptons souvent davantage sur les sentiments, la chimie, le moment ou les opinions des gens autour de nous. Pourtant, Dieu n'est pas un spectateur dans l'amour. Il se soucie de la direction de votre affection, de l'état de votre cœur et du type de relation qui vous façonne.",
+            "Les Proverbes nous disent de faire confiance au Seigneur de tout notre cœur et de ne pas nous appuyer sur notre propre compréhension. La difficulté est souvent pas que nous refusions complètement la prière. C'est que nous avons déjà décidé ce que nous voulons, et nous demandons principalement à Dieu de le soutenir. La véritable reddition est plus douce et plus profonde.",
+            "**Quand nous laissons Dieu parler dans l'amour, nous ne perdons pas la liberté. Nous gagnons la protection et la profondeur.**",
+            "Demandez-vous si vous avez réellement fait de la place à la voix de Dieu dans cette relation, ou si vous espériez simplement qu'il confirme ce que vous avez déjà choisi."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, ne reste pas seulement aux marges de ma vie romantique. Je t'invite à entrer dans chaque partie de mon attirance, mon espoir, mon discernement et ma lutte. Si j'ai trop compté sur mes propres sentiments et mon jugement, corrige-moi. Si j'ai simplement voulu que tu confirmes mes plans, humilie-moi. Calme ce qui est impulsif en moi et renforce ce qui est honnête. Enseigne-moi à ne pas avoir peur de ta direction, même quand elle me ralentit ou me redirige. Sois le vrai Seigneur qui me conduit aussi dans l'amour, et garde mon cœur assez doux pour te suivre où tu me conduis. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Louis Segond 1910",
+              "text": "Confie-toi en l'Éternel de tout ton cœur, Et ne t'appuie pas sur ta sagesse; Reconnais-le dans toutes tes voies, Et il aplanira tes sentiers."
+            },
+            {
+              "display": "Psaume 32:8",
+              "book_code": "PSA",
+              "chapter": 32,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Je t'instruirai et te montrerai la voie que tu dois suivre; Je te conseillerai, j'aurai le regard sur toi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "Construire l'amour sur le roc et se placer soi-même dans les mains de Dieu",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Matthieu 7:24",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "24",
+            "translation": "Louis Segond 1910",
+            "text": "C'est pourquoi, quiconque entend ces paroles que je dis et les met en pratique, sera semblable à un homme prudent qui a bâti sa maison sur le roc."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Au septième jour, vous n'aurez peut-être pas chaque réponse. Certaines relations peuvent toujours sembler non résolues, et une certaine douleur peut toujours avoir besoin de temps.",
+            "Mais peut-être quelque chose de plus important est devenu plus clair. L'amour n'est pas seulement si une relation fonctionne. C'est aussi quel genre de fondation peut porter votre cœur sans l'endommager. Au cours de ces jours, nous avons appris non seulement comment évaluer une autre personne, mais aussi comment garder notre âme propre tout en aimant honnêtement.",
+            "Construire l'amour sur le roc est plus que de choisir avec soin. C'est aussi devenir le type de femme qui reste proche de Dieu dans le désir, qui dit la vérité sur ce qu'elle voit, qui honore la paix, qui respecte les limites, et qui refuse de remettre sa vie entière à l'instabilité. Une relation forte fait plus que nous exciter. Elle nous stabilise.",
+            "**L'amour qui vaut la peine de garder ne vous demandera pas de laisser Dieu derrière ou de vous perdre vous-même pour rester.**",
+            "Apportez à Dieu chaque question, chaque désir, chaque attachement et chaque incertitude toujours dans votre cœur. Non parce que tout est résolu, mais parce que vous apprenez où votre amour et votre vie appartiennent vraiment."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de m'avoir réenseignée ce que l'amour peut ressembler au cours de ces sept jours. Je sais que la route devant moi peut ne pas devenir claire tout à la fois, mais merci de m'avoir aidée à garder mon cœur plus sagement et à construire l'amour sur quelque chose de plus solide. Place mes désirs, mes espoirs et mon avenir plus complètement dans tes mains. Si quelque chose doit continuer, donne la paix. Si quelque chose doit être lâché, donne du courage. Aide-moi non seulement à désirer trouver l'amour, mais à devenir plus profondément la tienne dans la façon dont j'aime. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Matthieu 7:24",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "24",
+              "translation": "Louis Segond 1910",
+              "text": "C'est pourquoi, quiconque entend ces paroles que je dis et les met en pratique, sera semblable à un homme prudent qui a bâti sa maison sur le roc."
+            },
+            {
+              "display": "Psaume 37:5",
+              "book_code": "PSA",
+              "chapter": 37,
+              "verses": "5",
+              "translation": "Louis Segond 1910",
+              "text": "Recommande ton sort à l'Éternel, Et mets en lui ta confiance; Il agira."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

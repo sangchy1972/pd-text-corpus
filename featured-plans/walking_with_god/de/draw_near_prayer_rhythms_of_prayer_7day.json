@@ -1,0 +1,567 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "PR01",
+    "slug": "rhythms-of-prayer",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Mit Gott gehen",
+      "secondary": "draw-near",
+      "secondary_label": "Sich Gott nähern"
+    },
+    "tags": [
+      "sich-gott-naehern",
+      "geistliche-disziplin",
+      "innigkeit-mit-gott",
+      "alte-praxis",
+      "gebet",
+      "rhythmen",
+      "vaterunser",
+      "innigkeit"
+    ],
+    "title": "Wieder Beten Lernen: 7 Tage zum Wiederaufbau eines Gebetslebens",
+    "subtitle": "",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "Gott suchend",
+        "geistlich neugierig",
+        "sehnsüchtig nach Innigkeit"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Kehren Sie über 7 Tage lang zum Gebet zurück – nicht als Leistung oder Notsprache, sondern als echtes, beständiges, nachhaltiges Leben mit Gott, das Tag für Tag neu aufgebaut werden kann.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture_focus → teaching → additional_scriptures → prayer",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#D4C5E8",
+      "color_secondary": "#4A3A6B",
+      "image_key": "cover_woman_kneeling_morning_window_quiet",
+      "icon": "open-hands-and-light-circle"
+    },
+    "hook": {
+      "heading": "Warum dieser Plan",
+      "paragraphs": []
+    },
+    "key_verses": [
+      {
+        "display": "Matthäus 6,5-8",
+        "book_code": "MAT",
+        "chapter": 6,
+        "verses": "5-8"
+      },
+      {
+        "display": "Römer 12,12",
+        "book_code": "JAS",
+        "chapter": 5,
+        "verses": "16"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Gebet ist Beziehung, keine Leistung",
+      "subtitle": "Jesus korrigiert zuerst nicht die Länge, sondern die Richtung.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Matthäus 6,5-8",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "5-8",
+            "translation": "Lutherbibel 1912",
+            "text": "Wenn ihr betet, sollt ihr nicht sein wie die Heuchler; denen es liegt dran, in den Synagogen und auf den Straßencken zu stehen und zu beten, auf daß sie von den Leuten gesehen werden. Wahrlich, ich sage euch, sie haben ihren Lohn dahin. Du aber, wenn du betest, gehe in dein Kämmerlein und schließe die Tür zu und bete zu deinem Vater im Verborgenen; und dein Vater, der in das Verborgene siehet, wird dir's vergelten. Und wenn ihr betet, sollt ihr nicht viel plappern wie die Heiden; denn sie meinen, sie werden erhöret, wenn sie viel Worte machen. Darum sollt ihr ihnen nicht gleichen. Euer Vater weiß, was ihr bedürfet, ehe denn ihr ihn bittet."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Gebet wird oft aus tieferen Gründen schwierig – nicht nur wegen Geschäftigkeit. Manchmal kommt die Müdigkeit davon, dass wir das Gebet zu lange als religiöse Leistung praktiziert haben, als etwas, das wir \"richtig\" machen müssen, um Gottes Aufmerksamkeit zu bekommen oder um in den Augen anderer gut dazustehen.",
+            "Er beginnt nicht damit, mehr Gebet zu fordern. Er beginnt damit, die Leistung zu entlarven. Lesen Sie Matthäus 6,5-8 langsam. Diese Verse sind nicht eine Kritik an denen, die öffentlich beten – sie sind eine Entlarvung derer, die beten, damit andere sie sehen und bewundern. **\"Euer Vater weiß, was ihr bedürfet, ehe denn ihr ihn bittet.\"** Das ist alles.",
+            "Eine einzige Satz. Und doch sagt er uns mehr über die Grundlage wahrer Gebete als tausend religiöse Regeln.",
+            "Beachten Sie, wie gründlich Jesus das Gebet umdeutet. **Das wahre Gegenteil von Gebet ist nicht Stille, sondern ein selbstbewusstes Auftreten vor Gott.** Es ist nicht mehr ein öffentlicher Akt zur Verwaltung des Erscheinungsbildes, sondern ein privater Akt der Abhängigkeit. Es geht nicht darum, dass andere sehen, wie geistlich wir sind – es geht darum, dass Gott sieht, wer wir wirklich sind.",
+            "Deshalb ist Psalm 27 hier so bedeutsam: \"Dein Antlitz, HERR, suche ich.\" Bevor das Gebet Bitte ist, ist es Beziehung. Es ist der Sohn oder die Tochter, die das Gesicht des Vaters sucht, nicht weil etwas erledigt werden muss, sondern weil da Liebe ist."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Psalm 27,8",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Von dir sagte mein Herz: Mein Angesicht suche. HERR, dein Angesicht will ich suchen."
+            },
+            {
+              "display": "Jakobus 4,8",
+              "book_code": "JAS",
+              "chapter": 4,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Nahet euch zu Gott, so nahet er sich zu euch."
+            },
+            {
+              "display": "Psalm 139,1-3",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Herr, du erforschest mich und kennest mich."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Liebevoller Vater, wir danken Dir, dass Gebet zuerst das Nahen der Kinder zu ihrem Vater ist und nicht ein Auftritt vor anderen. Vergib uns für die Zeiten, da wir das Gebet in Druck, Vergleich und religiöse Pflicht verwandelt haben. Vergib uns auch für die Zeiten, da wir uns still zurückgezogen haben, weil wir fürchteten, nicht gut genug zu beten. Durch Dein heiliges Wort richte unser Herz wieder in Ordnung. Lehre uns, dass Du keine ferne Zuschauer bist, sondern unser gnädiger Vater. Nimm alle äußeren Formen weg, die inneren Abstand verbergen, und lehre uns wieder, Dein Angesicht zu suchen und ruhig in Deiner Liebe zu wohnen. Durch Jesus Christus, unseren Herrn, Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Zurück zum verborgenen Ort",
+      "subtitle": "Echtes Gebet braucht einen Ort, an dem nur Gott und du übrig bleibst.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Matthäus 6,6",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "6",
+            "translation": "Lutherbibel 1912",
+            "text": "Du aber, wenn du betest, gehe in dein Kämmerlein und schließe die Tür zu und bete zu deinem Vater im Verborgenen; und dein Vater, der in das Verborgene siehet, wird dir's vergelten."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das Gebet, das an die Oberfläche kam, braucht einen Ort, um wieder in die Tiefe zu gehen. Matthäus 6,6 ist eine Einladung nicht nur zu physischer Abgeschiedenheit, sondern zu einer Rückkehr zur Einfachheit – wo das Gebet sein kann, was es sein soll: ein stilles Gespräch mit Gott ohne Zuschauer.",
+            "In unserem Zeitalter der ständigen Verbindung gibt es kaum noch Orte, an denen wir wirklich allein mit Gott sind. **Ein Gebetsleben, das nie in der Verborgenheit bleibt, wird gewöhnlich oberflächlich bleiben, wie geläufig es auch in der Öffentlichkeit klingt.** Die innere Stille ist nicht zuerst ein physischer Ort – es ist ein Zustand des Herzens, in dem alles andere ruhen darf, außer der Gegenwart Gottes.",
+            "Wenn du diesen Ort suchst – und sei es nur zehn Minuten lang – passiert etwas. Die Stimme Gottes wird hörbar. Die Wahrheit wird klarer. Dein Herz findet Frieden nicht, weil alle deine Probleme gelöst sind, sondern weil du wieder weißt, dass Gott da ist."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Psalm 42,1",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35",
+              "translation": "Lutherbibel 1912",
+              "text": "Wie der Hirsch schreiet nach frischem Wasser, so schreiet meine Seele, Gott, nach dir."
+            },
+            {
+              "display": "Jesaja 50,4",
+              "book_code": "LUK",
+              "chapter": 5,
+              "verses": "16",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Herr hat mir ein gelehriges Ohr gegeben, daß ich höre, was für ihn wohlredet."
+            },
+            {
+              "display": "Amos 3,3",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Wandeln zwei miteinander, wenn sie sich nicht verabredet haben?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Vater, führe uns aus allem Oberflächlichen und Heuchlerischen in der Frömmigkeit heraus und lehre uns, dass der wahre Wert des Gebets nicht in der Öffentlichkeit liegt, sondern in Deiner Gegenwart. Wenn wir daran gewöhnt sind, viele Worte im Lärm und in der Geschäftigkeit zu sprechen, während wir selten ehrlich in der Verborgenheit zu Dir nahen, vergib uns. Schenke uns ein williges Herz, das innere Zimmer zu betreten, damit wir nicht nur unter Druck zu Dir kommen, sondern freudig Zeit und Raum in der Verborgenheit für Dich absondern. Lass uns Ehrfurcht in der Verborgenheit lernen und dort Dir begegnen und gestärkt werden. Durch Jesus Christus, unseren Herrn, Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Wie das Herrengebet uns neu ordnet",
+      "subtitle": "Das Herrengebet gibt uns nicht nur Worte. Es gibt uns Ordnung.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Matthäus 6,9-13",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "9-13",
+            "translation": "Lutherbibel 1912",
+            "text": "Unser Vater im Himmel! Dein Name werde geheiligt. Dein Reich komme. Dein Wille geschehe wie im Himmel so auf Erden. Unser täglich Brot gib uns heute. Und vergib uns unsere Schulden, wie auch wir vergeben unsern Schuldigern. Und führe uns nicht in Versuchung, sondern erlöse uns von dem Bösen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das Herrengebet ist nicht in erster Linie eine Reihe von Worten, die wir auswendig lernen und aufsagen sollen – es ist eine Ordnung des Herzens. Es sagt uns, worauf sich unser Gebet zuerst ausrichten soll, bevor wir zu unseren eigenen Anliegen kommen.",
+            "Beachte, wo Jesus beginnt: **\"Geheiligt werde dein Name. Dein Reich komme.\"** Nicht Deine Gaben. Nicht Deine Lösungen. Sein Name und sein Reich. Das erste Anliegen des Gebets ist nicht, Gott zu ändern oder ihn zu bewegen, etwas für uns zu tun – es ist, ihn zu ehren, ihn heilig zu halten, ihn wertzuschätzen. Wenn das unser Anfang ist, verändert sich unser ganzes Gebet.",
+            "Dann kommt der Wille: \"Dein Wille geschehe.\" Erst wenn diese drei Wahrheiten unseren Geist füllen, wenn wir Gottes Namen, Reich und Willen an erste Stelle setzen – erst dann folgt das Praktische: Brot, Vergebung, Bewahrung vor Versuchung.",
+            "Das ist nicht egoistisch – es ist klug. **Das Herrengebet gibt uns nicht nur Worte zum Aufsagen. Es lehrt uns, was wir zuerst wollen sollten.** Das ist nicht nur religiös – es ist transformativ. Wenn dein Herz weiß, wessen du wirklich bedürfest, wird dein Gebet nicht mehr vom Angst getrieben sein, sondern vom Vertrauen.",
+            "Das ist die Befreiung, die Jesus uns gibt. Das Herrengebet ist nicht eine Formel, die wir abspulen – es ist eine Schule, in der wir wieder lernen, wie man wirklich zu Gott spricht."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Psalm 145,21",
+              "book_code": "LUK",
+              "chapter": 11,
+              "verses": "1-4",
+              "translation": "Lutherbibel 1912",
+              "text": "Den Ruhm des Herrn soll mein Mund reden, und alles Fleisch segne seinen heiligen Namen ewiglich und immerdar."
+            },
+            {
+              "display": "Lukas 11,2-4",
+              "book_code": "PSA",
+              "chapter": 95,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Er sprach zu ihnen: Wenn ihr betet, sprechet: Vater, dein Name werde geheiligt."
+            },
+            {
+              "display": "Kolosser 1,13",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Welcher uns errettet hat von der Obrigkeit der Finsternis und versetzt in das Reich seines lieben Sohnes;"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr Jesus, wir danken Dir dafür, dass Du Deine Jünger lehrt zu beten und der Kirche im Herrengebet eine heilige Ordnung für all wahren Gebets gegeben hast. Richte die Unordnung in unseren Gebeten auf, damit wir nicht nur von unseren Bedürfnissen und Ängsten getrieben werden, sondern zuerst lernen, Deinen Namen heilig zu halten, nach Deinem Reich zu sehnen und uns Deinem Willen zu unterwerfen. Lehre uns, Dir für unser täglich Brot zu vertrauen, Dir in der Vergebung zu gehorchen, auf Dich in der Versuchung zu bauen und auf Dich im geistlichen Kampf zu blicken. Lass unsere Gebete immer mehr von Deinen Worten geprägt werden und immer mehr himmlische Ordnung und heiliges Gewicht haben. Durch Jesus Christus, unseren Herrn, Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Gebet durch den Tag",
+      "subtitle": "Gebet ist nicht nur ein Moment. Es kann einen ganzen Tag erfüllen.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "1. Thessalonicher 5,17",
+            "book_code": "1TH",
+            "chapter": 5,
+            "verses": "17",
+            "translation": "Lutherbibel 1912",
+            "text": "Betet ohne Unterlass."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das Gebet muss nicht auf eine Stunde am Morgen oder am Abend beschränkt sein. Es kann – und sollte – durch den ganzen Tag fließen. Nicht als religiöse Verpflichtung, sondern als natürliche Wirklichkeit: immer wieder zu Gott hinwenden in den Momenten dazwischen.",
+            "Das Gebetsleben wird nicht nur in langen Zeiten der Einsamkeit aufgebaut, **sondern in unzähligen kleinen Wendungen des Herzens zurück zu Gott.** Ein Blick zum Himmel. Ein stilles Seufzer. Ein Name, der ausgesprochen wird. Ein Herz, das sich schnell wieder zuwendet.",
+            "Wenn du einen Moment hast – beim Kaffee, vor einer schwierigen Unterhaltung, während du dich durch Probleme wühlst – könntest du ganz einfach Deinen Blick zu Gott heben. Nicht um eine große Rede zu halten, sondern um Dich wieder zu verbinden, Dich neu auszurichten, Dich zu erinnern, dass Du nicht allein bist. Das ist nicht mystisch oder kompliziert. Es ist einfach eine Lebensweise."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Philipper 4,6",
+              "book_code": "NEH",
+              "chapter": 2,
+              "verses": "4",
+              "translation": "Lutherbibel 1912",
+              "text": "Seid um nichts besorgt, sondern in allem, durch das Gebet und Flehen, mit Danksagung, eure Anliegen Gott kund getan werden."
+            },
+            {
+              "display": "Markus 1,35",
+              "book_code": "EPH",
+              "chapter": 6,
+              "verses": "18",
+              "translation": "Lutherbibel 1912",
+              "text": "Und er sprach zu ihnen: Kommet her zu mir alle, die ihr mühselig und beladen seid; ich will euch Ruhe geben."
+            },
+            {
+              "display": "Psalm 57,1",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Gott, sei mir gnädig, sei mir gnädig; denn meine Seele trauet auf dich."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lehre uns, dass Gebet nicht nur ein andächtig handlung ist, die sich auf einen Teil des Tages beschränkt, sondern eine Abhängigkeit von Dir das ganze Leben hindurch, eine ständige Hinwendung der Seele zu Gott in jeder Lage. Vergib uns für die Zeiten, in denen wir Dich nur in der Krise erinnern, und für die Tage, an denen wir das Gebet auf Routine reduziert und die Abhängigkeit auf Gewohnheit reduziert haben. Trainiere unsere Herzen, sich in alltäglichen Aufgaben zu Dir zu wenden, unter Druck auf Dich zu bauen, in kleinen Dingen an Dich zu denken und bei jedem Wendepunkt uns wieder in Deine Obhut zu begeben. Lass uns den ganzen Tag in Gebet leben und den ganzen Tag im Licht Deines Antlitzes. Durch Jesus Christus, unseren Herrn, Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Bring Gott dein ganzes Herz",
+      "subtitle": "Das Gebet ist kein Ort für Masken.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Psalm 42,5",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "8",
+            "translation": "Lutherbibel 1912",
+            "text": "Warum betrübst du dich, meine Seele, und warum bist du unruhig in mir? Vertraue auf Gott; denn ich werde ihn noch preisen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Eines der größten Geheimnisse zur Wiederherstellung des Gebets ist, dass Gott dein ganzes Herz will – nicht die bereinigte, kultivierte Version, sondern dich selbst, mit all deiner Verwirrung, deinen Zweifeln, deiner Zorn und deiner Liebe.",
+            "Die Gefahr ist gewöhnlich nicht, dass wir zu ehrlich mit Gott sind, **sondern dass wir immer mehr trainieren, um das Gebet herumzusprechen statt durch die Wahrheit hindurch.** Das ist nicht befreiend – es ist Verbannung. Du predigst Gott Worte, aber dein Herz ist nicht dabei.",
+            "Das ist befreiend, weil es bedeutet, dass du nicht so tun musst, als würde es dir gut gehen, wenn es dir nicht gut geht. Du musst deine Gefühle nicht filtern oder verfeinern. Du kannst Gott sagen, was du wirklich denkst und fühlst – und Gott wird nicht überrascht sein."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Sprichwörter 15,8",
+              "book_code": "PSA",
+              "chapter": 142,
+              "verses": "1-2",
+              "translation": "Lutherbibel 1912",
+              "text": "Das Opfer der Gottlosen ist dem Herrn ein Gräuel; aber das Gebet der Aufrichtigen gefällt ihm."
+            },
+            {
+              "display": "Psalm 139,23-24",
+              "book_code": "LAM",
+              "chapter": 2,
+              "verses": "19",
+              "translation": "Lutherbibel 1912",
+              "text": "Erforsche mich, Gott, und erkenne mein Herz; prüfe mich und erkenne meine Gedanken. Und sieh, ob ich auf bösem Wege bin, und leite mich auf ewigem Wege."
+            },
+            {
+              "display": "Römer 8,26",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Desgleichen auch der Geist hilft unsrer Schwachheit auf."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Vater, wir danken Dir, dass Du nicht nur wohlgeordnete Reden empfängst, sondern Herzen, die ehrlich vor Dir ausgeschüttet werden. Vergib uns für die Zeiten, da wir uns hinter religiöser Sprache versteckt haben, und für die Zeiten, da wir so taten, als wäre alles in Ordnung, während unsere Herzen zerbrochen waren. Öffne unsere Lippen, damit wir die Wahrheit sprechen können. Befreie uns von der Schande, unsere echten Gefühle zu zeigen. Lehre uns, dass Du nicht von Perfektion geschockt wirst, sondern von unserer Ehrlichkeit erfreut, und dass das tiefste Gebet nicht polierte Worte sind, sondern ein Herz, das sich dir wirklich zuwendet. Durch Jesus Christus, unseren Herrn, Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Stille im Gebet lernen",
+      "subtitle": "Manchmal ist der wichtigste Teil des Gebets das Zuhören.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Psalm 5,3",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "27",
+            "translation": "Lutherbibel 1912",
+            "text": "Höre auf meine Worte, Herr, vernimm mein Seufzen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wir denken oft an Gebet als etwas, das wir tun – Worte sprechen, Wünsche äußern, Gott informieren. Aber echtes Gebet ist auch ein Ort des Zuhörens. Es ist eine Stille, in die Gott spricht.",
+            "**Stille vor Gott ist eine der Weisen, wie die Seele lernt, dass Gott nicht nur anzusprechen, sondern auch zu gehorchen ist.** Das ist nicht esoterisch oder seltsam. Es ist schlicht: Wenn du zu Gott sprichst und dann ein wenig still wirst, passiert oft etwas.",
+            "Du spürst die Gegenwart Gottes. Ein Gedanke kommt in deinen Sinn – nicht laut, nicht dramatisch, aber wirklich. Ein Vers, den du gelesen hast, kommt dir plötzlich relevant vor. Du fühlst Frieden. Das ist Gott, der zu dir spricht."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Prediger 5,2",
+              "book_code": "1SA",
+              "chapter": 3,
+              "verses": "9-10",
+              "translation": "Lutherbibel 1912",
+              "text": "Dein Mund sei nicht vorschnell, und dein Herz denke nicht vorschnell eines Wortes vor Gott."
+            },
+            {
+              "display": "Psalm 37,7",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Verhalte dich still zu dem Herrn und warte auf ihn."
+            },
+            {
+              "display": "Jesaja 30,15",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Durch Umkehr und Ruhe würdet ihr errettet."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, beruhige unsere Seelen. In einer Welt voller Lärm lehre uns die Kunst des Zuhörens. Nimm die Unruhe weg, die uns treibt, ständig zu sprechen, ständig zu agieren, ständig zu planen. Gib uns das Vertrauen, einfach vor Dir zu sitzen, zu warten und auf Deine Stimme zu hören. Lehre uns, dass das Gebet nicht nur Wort ist, sondern auch Gegenwart, nicht nur Reden, sondern auch Schweigen. Öffne unsere Herzen dafür, Dich in der Stille zu hören und bei Deinem Angesicht Ruhe zu finden. Durch Jesus Christus, unseren Herrn, Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Kein Gebet wird verschwendet",
+      "subtitle": "Selbst das kürzeste, stolperigste Gebet wird vom Herzen Gottes gehört.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Römer 12,12",
+            "book_code": "JAS",
+            "chapter": 5,
+            "verses": "16",
+            "translation": "Lutherbibel 1912",
+            "text": "Freut euch in der Hoffnung, seid geduldig in der Trübsal, seid beständig im Gebet."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wenn du sieben Tage lang an deinem Gebet gearbeitet hast – ob es funktioniert hat oder nicht, ob es sich geistlich anfühlte oder nicht – solltest du wissen: Gott hat jedes Wort gehört. Jede Anfrage. Jede Träne. Jeder stille Seufzer des Herzens, der nicht einmal Worte hatte.",
+            "**Das Gebet zählt, weil Gott es zu einem der Mittel gemacht hat, durch das seine Ziele voranschreiten.** Es ist nicht wie eine Leistung, die bewertet werden kann – besser oder schlechter, mehr oder weniger wirksam. Es ist ein Herz, das sich Gott zuwendet, und das allein zählt.",
+            "Du könntest dein Gebet einen Fehlschlag nennen, aber Gott nennt es Treue. Wenn du mit dieser siebten Nacht ins Bett gehst, denk daran: Dein Gebet – stumm oder laut, einfach oder schön, verzweifelt oder zuversichtlich – ist ein Kind, das zu seinem Vater kommt. Und das ist alles, was Gott braucht."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "1. Petrus 5,7",
+              "book_code": "LUK",
+              "chapter": 18,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Werft alle eure Sorge auf ihn; denn er sorget für euch."
+            },
+            {
+              "display": "Matthäus 11,28",
+              "book_code": "DAN",
+              "chapter": 10,
+              "verses": "12",
+              "translation": "Lutherbibel 1912",
+              "text": "Kommet her zu mir alle, die ihr mühselig und beladen seid; ich will euch Ruhe geben."
+            },
+            {
+              "display": "Psalm 27,10",
+              "book_code": "1TH",
+              "chapter": 5,
+              "verses": "17",
+              "translation": "Lutherbibel 1912",
+              "text": "Wenn mein Vater und meine Mutter mich verließen, so nähme der Herr mich auf."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Gott der Gnade, wir danken Dir für diese sieben Tage. Wir danken Dir für jeden Moment, in dem wir versucht haben, wieder zu Dir zu kommen, für jedes Wort, das wir stotternd gesprochen haben, für jede Träne, die wir vergosse haben, für jede stille Sehnsucht unseres Herzens nach Dir. Vergib uns, dass wir unsere Gebete oft nicht würdig erachten, und stärke uns mit dem Vertrauen, dass Du sie alle hörst. Führe uns weiter auf diesem Weg zurück zu Dir, nicht als religiöse Übung, sondern als echte, lebendige, ständige Beziehung. Lass unser Gebet von Tag zu Tag reifer und echter werden. Und vergib uns, dass wir je zweifeln, dass Du zuhörst. Durch Jesus Christus, unseren Herrn, Amen.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

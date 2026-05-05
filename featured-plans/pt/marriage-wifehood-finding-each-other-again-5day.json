@@ -1,0 +1,389 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI08",
+    "slug": "finding-each-other-again",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Papéis e Identidade",
+      "secondary": "marriage-wifehood",
+      "secondary_label": "Casamento e Esposa"
+    },
+    "tags": [
+      "casamento",
+      "esposa",
+      "companheirismo",
+      "comunicacao",
+      "alianca",
+      "amor"
+    ],
+    "title": "Encontrando um ao Outro Novamente",
+    "subtitle": "Reconstruindo a conexão após a distância e a decepção",
+    "audience": {
+      "life_stage": [
+        "mulheres casadas",
+        "esposas"
+      ],
+      "emotional_state": [
+        "comprometida",
+        "sobrecarregada",
+        "buscando renovação"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Quando o casamento foi esticado pela ocupação, decepção e silêncio, esses cinco dias o ajudam a enfrentar a distância e começar a encontrar conexão novamente.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#D4B896",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_quiet_kitchen_morning_warm",
+      "icon": "two-rings-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Eclesiastes 4:9-10",
+        "book_code": "ECC",
+        "chapter": 4,
+        "verses": "9-10"
+      },
+      {
+        "display": "1 Coríntios 13:7",
+        "book_code": "1CO",
+        "chapter": 13,
+        "verses": "7"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Quando Começamos a Nos Afastar",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Eclesiastes 4:9-10",
+            "book_code": "ECC",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "Almeida",
+            "text": "Dois são melhores que um... Porque se um cair, o outro levanta a seu companheiro."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitos casamentos não se quebram de repente. Eles se afastam.",
+            "No início pode parecer apenas ocupação. Depois cansaço. Depois as conversas se tornam principalmente sobre logística, cronogramas, recados e obrigações. Eventualmente, até as coisas mais íntimas parecem mais difíceis de dizer, porque não parece mais certo que serão recebidas. A distância entra muitas vezes silenciosamente. Quando finalmente percebemos plenamente, o assunto deixou de ser apenas \"uma estação estressante\". A intimidade em si se tornou mais fina.",
+            "O Eclesiastes diz que dois são melhores que um. O casamento não foi feito para se tornar duas pessoas funcionando lado a lado sem proximidade compartilhada. Mas a tensão diária pode reduzir lentamente um relacionamento para compartilhamento de tarefas e sobrevivência. A conexão não desaparece sempre porque o amor se foi. Às vezes desaparece porque o amor não foi cuidado.",
+            "Há graça em nomear isso honestamente. Não para acusar, mas para contar a verdade sobre o que foi silenciosamente perdido. Alguns casais não pararam de se importar. Simplesmente pararam de cuidar do relacionamento em si em meio ao peso da vida diária. Deus frequentemente começa o reparo ali, não com soluções polidas, mas com reconhecimento honesto.",
+            "Uma vez que a distância é nomeada, ela não precisa mais ficar escondida atrás da ocupação. A verdade cria um lugar onde o cuidado pode começar novamente.",
+            "**A distância no casamento muitas vezes cresce não porque paramos de nos importar, mas porque paramos de cuidar da conexão em si.** Hoje, não se apresse em resolver tudo. Pergunte mais silenciosamente: quando começamos a nos afastar um do outro? Deus frequentemente começa o reparo com nomeação honesta.",
+            "Mesmo nomear a deriva pode ser um ato de esperança."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, ajude-me a ver honestamente a distância em nosso casamento em vez de explicar tudo como ocupação. Se realmente nos afastamos, dê-me coragem de admitir e um coração ainda disposto a buscar o reparo. Mantenha-me de simplesmente viver a vida, e ensine-me a cuidar novamente do relacionamento em si. Proteja meu coração de endurecer lentamente sob decepção, fadiga ou ressentimento tranquilo. Ensine-me a falar com verdade, ficar gentilmente e trazer até mesmo minhas necessidades não ditas à Sua presença em vez de enterrá-las no silêncio. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Eclesiastes 4:9-10",
+              "book_code": "ECC",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "Almeida",
+              "text": "Dois são melhores que um... Porque se um cair, o outro levanta a seu companheiro."
+            },
+            {
+              "display": "Apocalipse 2:4-5",
+              "book_code": "REV",
+              "chapter": 2,
+              "verses": "4-5",
+              "translation": "Almeida",
+              "text": "Tenho, porém, contra ti que deixaste o teu primeiro amor... Lembra-te, pois, de donde caíste..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Sentir-se Invisível em Casa é um Tipo de Solidão",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 139:1",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "1",
+            "translation": "Almeida",
+            "text": "Ó Senhor, tu me sondaste e me conheces."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Há um tipo particular de solidão que pode existir dentro de um casamento: estar com alguém e ainda se sentir invisível.",
+            "Você pode estar carregando muito, dando muito, mantendo muitas coisas funcionando, e o esforço fica invisível. Sua fadiga, peso emocional e necessidade de conforto permanecem principalmente intocados. Com o tempo, o silêncio cresce. Não porque você precisa menos, mas porque não confía mais que falar levará ao acolhimento.",
+            "Os Salmos frequentemente retornam a este clamor: Senhor, Tu me vê. Isso importa profundamente no casamento, porque quando a pessoa mais próxima de nós não parece notar nosso mundo interior, outra questão começa a surgir: eu importo aqui? Mas Deus não deixa de lado o que passou despercebido. Ele não ignora seu fardo diário ou seu dar silencioso.",
+            "Às vezes vivemos tanto tempo sem ser compreendidos que começamos a nos contar que não precisamos mais disso. Mas dormência não é paz. Deus pode primeiro curar essa dor ajudando você a contar a verdade sobre isso. Antes de qualquer coisa mudar entre você e seu cônjuge, Ele pode começar a proteger seu coração lembrando-o de que sua necessidade de ser visto não é infantil ou excessiva.",
+            "Ser visto não resolve todas as dores conjugais, mas restaura dignidade à parte de você que se sentiu negligenciada por muito tempo. Isso importa profundamente a Deus.",
+            "**Uma das dores mais profundas no casamento não é apenas o conflito, mas a longa dor de não ser realmente visto.** Se você se sente essa solidão hoje, não a silencie imediatamente. Traga-a perante Deus primeiro. Deixe-se admitir que você precisa de compreensão."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, Tu sabes que o sentimento de não ser visto no casamento é uma dor quieta mas profunda. Obrigado por ver o cansaço que não expressei e as partes de mim que foram incompreendidas. Conforta-me primeiro e dá-me coragem de admitir que tenho necessidades. Não sou sem necessidades; talvez tenha apenas vivido muito tempo sem ser recebido. Proteja meu coração de endurecer lentamente sob decepção, fadiga ou ressentimento tranquilo. Ensine-me a falar com verdade, ficar gentilmente e trazer até mesmo minhas necessidades não ditas à Sua presença. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 139:1",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "1",
+              "translation": "Almeida",
+              "text": "Ó Senhor, tu me sondaste e me conheces."
+            },
+            {
+              "display": "Gênesis 16:13",
+              "book_code": "GEN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "Almeida",
+              "text": "Tu és Deus que vês."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "O Reparo Frequentemente Começa com um Novo Começo Honesto",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "2 Coríntios 5:17",
+            "book_code": "2CO",
+            "chapter": 5,
+            "verses": "17",
+            "translation": "Almeida",
+            "text": "Portanto, se alguém está em Cristo, é nova criatura..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Depois que a distância se estabeleceu em um casamento, um dos sentimentos mais difíceis é a sensação de que talvez seja muito tarde.",
+            "Houve muito silêncio, muita decepção, muitas conversas falhadas. Até o desejo de reconectar pode parecer frágil porque você não tem mais certeza de onde começar. Ainda assim, a Escritura nunca trata a renovação como possível apenas quando o passado foi menor. O poder de Deus é frequentemente mais visível onde algo real já foi danificado.",
+            "Segundo Coríntios diz que em Cristo, todas as coisas se tornam novas. O casamento não é restaurado por um verso sozinho, mas essa verdade ainda importa. Deus não apenas nos convida a lamentar o que foi. Ele também é capaz de começar algo novo no que resta. O reparo frequentemente começa menor do que esperamos. Uma frase honesta. Um momento suavizado. Uma admissão de que a distância é real e não deve mais ser ignorada.",
+            "Esse tipo de começo é humilde. Não nega o passado, e não promete cura instantânea. Simplesmente se recusa a deixar a decepção antiga ter a última palavra. Muitos reparos no casamento começam não com certeza, mas com uma disposição tranquila: não quero continuar vivendo assim. Estou disposto a tentar me aproximar de você novamente.",
+            "**Um verdadeiro recomeço não é fingir que nada aconteceu. É se recusar a deixar o que aconteceu ter a última palavra.** Peça a Deus hoje um pequeno lugar para começar. Você não precisa resolver o casamento inteiro em uma conversa. Você pode apenas precisar da coragem para um passo honesto."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, se tenho sentido que é muito tarde, muito difícil ou muito cansativo, coloque nova esperança dentro de mim. Não me faça fingir que o passado não nos feriu. Em vez disso, ajude-me a ver que o passado não precisa ter a última palavra. Dê-me uma porta para começar novamente, e mantenha meu coração de desistir muito rápido da reparação. Se houver um lugar onde preciso me arrepender, falar, esperar ou aprender amor novamente, lidere-me lá Mesmo, e não deixe o orgulho impedir que a graça entre. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "2 Coríntios 5:17",
+              "book_code": "2CO",
+              "chapter": 5,
+              "verses": "17",
+              "translation": "Almeida",
+              "text": "Portanto, se alguém está em Cristo, é nova criatura..."
+            },
+            {
+              "display": "Ezequiel 36:26",
+              "book_code": "EZK",
+              "chapter": 36,
+              "verses": "26",
+              "translation": "Almeida",
+              "text": "Dar-vos-ei coração novo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Reconstruir a Conexão Frequentemente Importa Mais que Ganhar o Debate",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Romanos 12:18",
+            "book_code": "ROM",
+            "chapter": 12,
+            "verses": "18",
+            "translation": "Almeida",
+            "text": "Se for possível... vivei em paz com todos os homens."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "No casamento, muitos conflitos se tornam mais prejudiciais não porque o assunto em si seja enorme, mas porque ambas as pessoas se comprometem em provar que estão certas.",
+            "Os fatos importam. A verdade importa. Mas quando cada conversa se torna uma luta sobre quem está mais justificado, quem sofreu mais ou quem merece mais compreensão, o relacionamento começa a perder a sensação de que vocês ainda estão no mesmo time. O casamento não falha porque há problemas. Enfraquece quando problemas repetidamente colocam cônjuges em acampamentos opostos.",
+            "Romanos nos exorta, na medida do possível, a viver em paz. No casamento isso não significa evitar a verdade. Significa afrouxar nosso controle na vitória o suficiente para deixar espaço para reconexão. Às vezes, o que um relacionamento mais precisa não é um argumento melhor, mas uma escuta mais profunda.",
+            "Isso é difícil porque a ferida naturalmente quer ser justificada. Ansiamos por ser claramente compreendidos. Ainda assim, quando esse anseio se torna o objetivo inteiro, as conversas endurecem. Frequentemente, o ponto de viragem não é que alguém finalmente argumente melhor, mas que alguém fica disposto a ouvir sob o ponto. Esse tipo de concessão não é derrota. É fazer espaço para o amor novamente.",
+            "**Frequentemente, o que o casamento precisa primeiro não é de um vencedor, mas de uma conexão renovada.** Pense hoje sobre o ponto que você mais quer que seu cônjuge entenda. Depois pergunte se seu desejo mais profundo é estar certo ou para o relacionamento estar vivo novamente.",
+            "Conexão não remove a necessidade de verdade, mas facilita a verdade ser recebida. É por isso que o amor continua nos chamando de volta dos hábitos de tribunal."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, solte em mim a necessidade de vencer. Se tenho sido consumido em provar que estou certo, machucado ou merecedor de compreensão, lembre-me que o casamento não é uma sala de tribunal. Ajude-me a não desistir da verdade, mas ajude-me ainda menos desistir da conexão. Proteja meu coração de endurecer lentamente sob decepção, fadiga ou ressentimento tranquilo. Ensine-me a falar com verdade, ficar gentilmente e trazer até mesmo minhas necessidades não ditas à Sua presença em vez de enterrá-las no silêncio. Obrigado por não ser repelido por minha fraqueza, mas disposto a chegar perto, me apoiar e me manter ensinando. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Romanos 12:18",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "18",
+              "translation": "Almeida",
+              "text": "Se for possível... vivei em paz com todos os homens."
+            },
+            {
+              "display": "Filipenses 2:4",
+              "book_code": "PHP",
+              "chapter": 2,
+              "verses": "4",
+              "translation": "Almeida",
+              "text": "Não olhe cada um unicamente para o que é seu próprio, senão cada qual também para o que é dos outros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "Encontrar Um ao Outro Novamente Não é Voltar, mas Amar Bem Agora",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "1 Coríntios 13:7",
+            "book_code": "1CO",
+            "chapter": 13,
+            "verses": "7",
+            "translation": "Almeida",
+            "text": "Tudo suporta, tudo crê, tudo espera, tudo aguenta."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Quando as pessoas anseiam por reparo no casamento, frequentemente imaginam voltar.",
+            "Mas após anos de trabalho, estresse, filhos, decepção e mudança, nenhuma pessoa é exatamente quem era. O reparo real não é forçar o relacionamento a retornar a uma versão anterior. É aprender a amar as pessoas que estão aqui agora. Isso requer curiosidade, humildade e disposição para se encontrar novamente no presente.",
+            "Primeiro Coríntios diz que o amor suporta, crê, espera e aguenta. Parte desse amor é a disposição de compreender novamente. Não porque nada mudou, mas porque muito mudou. Alguns casamentos precisam não apenas de perdão por feridas antigas, mas de atenção nova a quem cada cônjuge se tornou.",
+            "Isso requer humildade. É mais fácil anseiar por uma versão anterior do relacionamento do que conhecer com curiosidade a pessoa mudada na nossa frente. Mas Deus frequentemente faz novo trabalho no presente, não revertendo o tempo, mas ensinando-nos a amar fielmente agora.",
+            "Às vezes a renovação parece menos recuperar o que foi perdido e mais descobrir o que a fidelidade pode se tornar depois que ambas as pessoas mudaram.",
+            "**Reconstruir o casamento não é sempre recuperar o passado. Frequentemente é aprender a amar bem no presente.** Peça a Deus para ajudá-lo a não apenas perder o que uma vez foi, mas para se encontrar hoje com abertura. Pode haver graça esperando não atrás de você, mas aqui.",
+            "A misericórdia nova frequentemente nos encontra mais no presente do que na nostalgia do passado.",
+            "O amor cresce mais sábio quando deixa de insistir que a cura deve parecer o passado."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, ajude-me a não apenas anseiar pelo passado, mas também enfrentar honestamente o casamento que existe hoje. Se tenho estado esperando apenas retornar aos dias anteriores, mostre-me que Tu podes fazer novo trabalho aqui e agora. Ajude-me a ver novamente a pessoa na minha frente, e ensine-me novamente como amar. Se houver um lugar onde preciso me arrepender, falar, esperar ou aprender amor novamente, lidere-me lá Mesmo, e não deixe o orgulho impedir que a graça entre. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "1 Coríntios 13:7",
+              "book_code": "1CO",
+              "chapter": 13,
+              "verses": "7",
+              "translation": "Almeida",
+              "text": "Tudo suporta, tudo crê, tudo espera, tudo aguenta."
+            },
+            {
+              "display": "Lamentações 3:22-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "22-23",
+              "translation": "Almeida",
+              "text": "As misericórdias do Senhor são a causa de não sermos consumidos... Novas são cada manhã."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

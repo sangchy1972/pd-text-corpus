@@ -1,0 +1,518 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "FA01",
+    "slug": "fasting-women-who-fasted",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Mit Gott gehen",
+      "secondary": "draw-near",
+      "secondary_label": "Sich Gott nähern"
+    },
+    "tags": [
+      "sich-gott-naehern",
+      "geistliche-disziplin",
+      "innigkeit-mit-gott",
+      "alte-praxis",
+      "fasten",
+      "biblische-frauen",
+      "esther",
+      "hanna"
+    ],
+    "title": "Frauen, die fasteten: 7 Tage, um die Hunger nach Gott neu zu entdecken",
+    "subtitle": "Über 7 Tage hinweg entdecken Sie biblisches Fasten durch die Frauen, Gebete, Tränen und Wendepunkte der Schrift neu, und lernen, wie Hunger, Bürde und Sehnen ehrlich vor Gott gebracht werden können.",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "Gott suchend",
+        "geistlich neugierig",
+        "sehnsüchtig nach Innigkeit"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Über 7 Tage hinweg entdecken Sie biblisches Fasten durch die Frauen, Gebete, Tränen und Wendepunkte der Schrift neu, und lernen, wie Hunger, Bürde und Sehnen ehrlich vor Gott gebracht werden können.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture_focus → teaching → additional_scriptures → prayer",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#E6D9C2",
+      "color_secondary": "#5A4A3A",
+      "image_key": "cover_woman_quiet_table_open_bible_bread",
+      "icon": "open-hands-and-cross-circle"
+    },
+    "hook": {
+      "heading": "Warum dieser Plan",
+      "paragraphs": [
+        "Für viele Frauen ist der Körper bereits der erste Ort, an dem der Druck landet. Das ist ein Grund, warum biblisches Fasten mit Sorgfalt neu gewonnen werden muss. Es ist nicht Diät, Selbstkasteiung oder geistliche Härte. In der Schrift ist es eine Art, uns vor Gott zu demütigen, Ihn mit größerem Fokus zu suchen und mit Absicht auf Ihn zu warten.",
+        "Über diese 7 Tage werden wir Fasten durch die Frauen, Gebete, Traurigkeiten und Hoffnungen der Schrift neu entdecken. **Fasten ist nicht geistliches Theater. Es ist ein kleiner Hunger, der sich dem Vater zuwendet.**"
+      ]
+    },
+    "key_verses": [
+      {
+        "display": "Matthäus 6:16-18",
+        "book_code": "MAT",
+        "chapter": 6,
+        "verses": "16-18"
+      },
+      {
+        "display": "Offenbarung 19:9",
+        "book_code": "REV",
+        "chapter": 19,
+        "verses": "9"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Was Fasten wirklich ist",
+      "subtitle": "Fasten ist nicht Diät. Es ist Hunger, der sich Gott zuwendet.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Matthäus 6:16-18",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "16-18",
+            "translation": "Lutherbibel 1912",
+            "text": "Wenn ihr fastet, macht nicht trübselige Gesichter wie die Heuchler; denn sie entstellen ihre Angesichter, um von den Menschen gemerkt zu werden, daß sie fasten. Wahrlich, ich sage euch: Sie haben ihren Lohn dahin. Du aber, wenn du fastest, salbe dein Haupt und wasche dein Gesicht, damit du nicht von den Menschen gemerkt wirst, daß du fastest, sondern von deinem Vater, der im Verborgenen ist; und dein Vater, der im Verborgenen schaut, wird dir's vergelten."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Der schnellste Weg, Fasten misszuverstehen, ist, es schöner zu machen, als es ist. Ein leerer Magen macht nicht automatisch irgendjemanden heilig. Tatsächlich offenbart er oft, wie abgelenkt, ungeduldig oder selbstschutzend wir wirklich sind. Das ist genau der Grund, warum Fasten eine solch nützliche Gnade werden kann: Es legt offen, was gewöhnliche Sättheit zu verbergen neigt.",
+            "Lesen Sie Matthäus 6:16-18 langsam.",
+            "**\"Dein Vater, der im Verborgenen schaut, wird dir's vergelten.\"**",
+            "Jesus sagt nicht: \"Wenn ihr fastet\", sondern: \"Wenn ihr fastet.\" Er nimmt an, daß Seine Jünger eines Tages diese Übung lernen werden. Doch Er lenkt das Gespräch sofort vom äußeren Verhalten ab und wendet sich dem Vater zu, der im Verborgenen schaut. Dann vertieft Jesaja 58 den Punkt noch weiter. Gott ist nicht beeindruckt von Hunger, der das Herz unberührt läßt. Echtes Fasten geht nicht darum, Ernst zu beweisen. Es geht darum, Gott verfügbarer zu werden, vor Ihm wahrheitlicher zu werden und oft auch barmherziger gegenüber anderen Menschen zu werden.",
+            "Vor Jahren fragte mich eine junge Frau in unserer Gemeinde: \"Pastor, ist Fasten nur für sehr geistliche Menschen?\" Ich sagte ihr nein. Fasten gehört nicht zu Experten, sondern zu gewöhnlichen Gläubigen, die wollen, daß ein kleiner Appetit unter die Herrschaft Christi kommt. Sie begann einfach, ein Mittagessen am Mittwoch auszulassen und diese Stunde im Auto zu beten. Ein paar Wochen später sagte sie mir: \"Der Hunger unterbrach mich immer wieder und sandte mich zurück zum Gebet.\" Das ist ein viel besserer Anfang als dramatische Intensität. Wenn du fastest, tue es sanft, ehrlich und ohne deinen Körper zu schädigen. **Fasten beginnt, wenn körperlicher Hunger nicht mehr die Schlagzeile ist, und Gott zur tieferen Sehnsucht wird.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Jesaja 58:6-7",
+              "book_code": "ISA",
+              "chapter": 58,
+              "verses": "6-7",
+              "translation": "Lutherbibel 1912",
+              "text": "Ist das nicht das Fasten, das mir gefällt: daß man die ungerechten Fesseln löse, die Bande des Jochs ausreißt, die Unterdrückten freiliebe und jedes Joch bricht? Ist nicht vielmehr das Fasten, das mir gefällt: dein Brot mit dem Hungrigen teilst und die nach Wohnung ausgestoßenen Armen in dein Haus führst, wenn du einen Nackten siehst, daß du ihn bedeckst und vor deinem eigenen Fleisch dich nicht verbergst?"
+            },
+            {
+              "display": "Joel 2:12",
+              "book_code": "JOL",
+              "chapter": 2,
+              "verses": "12",
+              "translation": "Lutherbibel 1912",
+              "text": "\"Auch jetzt noch\", spricht der Herr, \"bekehrt euch zu mir von ganzem Herzen mit Fasten und Weinen und Wehklage.\""
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Gnädiger Vater, wir danken Dir, daß Fasten nicht als Bürde gegeben ist, sondern als heiliger Weg, durch den deine Kinder bewußter in deine Gegenwart zurückkehren können. Bewahre uns davor, diese heilige Übung in etwas umzuwandeln, das von anderen gesehen werden soll, und behüte uns auch vor Unbedachtsamkeit, Unwissenheit und geistlichem Hochmut. Lehre uns, daß unser tiefster Mangel nicht größere Kontrolle über das Leben ist, sondern eine tiefere Hunger nach dir. Wenn du uns zum Fasten führst, heilige unsere Herzen im Verborgenen, damit wir dich allein suchen, auf dich allein warten mit Scheu, und wünschen uns vor allem die Nähe deiner Gegenwart. Durch Jesus Christus, unsern Herrn. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Esthers Fasten: Für andere eintreten",
+      "subtitle": "Fasten macht Fürbitte oft fokussierter.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Esther 4:16",
+            "book_code": "EST",
+            "chapter": 4,
+            "verses": "16",
+            "translation": "Lutherbibel 1912",
+            "text": "Geh hin, versammle alle Juden, die in Susa sind, und faset für mich und esset und trinket nicht drei Tage, Tag und Nacht; und ich will auch mit meinen Dienerinnen also fasten, und alsdann will ich zum König gehen, welches wider das Gesetz ist; und bin ich umsonst darum, so sei ich umsonst darum."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Esthers Fasten steht inmitten politischer Gefahr, persönlichen Risikos und gemeinschaftlicher Angst. Nichts an der Szene ist privat oder gefühlvoll. Ein Volk könnte zerstört werden. Eine junge Königin muß sich in Gefahr begeben. Bevor sie am Königshof spricht, bittet sie, daß das Volk fastet.",
+            "Lesen Sie Esther 4:16 sorgfältig. Esther beginnt nicht mit Schlauheit, sondern mit Hingabe. Ihr erster Schritt ist nicht, bessere Argumente zu sammeln, sondern das Volk vor Gott zu versammeln. Das ist eine der wichtigsten Lektionen, die Fasten uns lehren kann. Es gibt Jahreszeiten, in denen Liebe zu anderen so schwer ist, daß normales Gebet nicht genug scheint; das Herz will mit größerem Fokus, größerer Nüchternheit, größerer Selbstvergessenheit beten. In der Schrift erscheint Fasten oft dort, in Momenten der Fürbitte.",
+            "Ich ging einmal mit einer Mutter, deren erwachsene Tochter eine lange und dunkle Zeit eingetreten war. Sie sagte mir: \"Ich weiß nicht, was ich sonst noch tun kann.\" Wir lasen Esther zusammen, und sie reservierte sich jede Woche eine Mittagsstunde zum Fasten und speziellen Gebet für ihr Kind. Sie erhielt keine sofortigen Antworten, aber sie erhielt Standhaftigkeit. Monate später sagte sie: \"Ich kann nicht jeden Erfolg aufzeichnen, aber ich weiß, der Herr traf mich dort.\" So funktioniert Fasten oft. Es macht uns nicht souverän über Ergebnisse. Es macht uns ernstlicher darin, den Namen eines anderen vor Gott zu tragen. **Ein Fasten der Fürbitte ist Liebe, die sich weigert, passiv zu bleiben.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "2. Chronik 20:3",
+              "book_code": "2CH",
+              "chapter": 20,
+              "verses": "3",
+              "translation": "Lutherbibel 1912",
+              "text": "Und Josaphat fürchtete sich und richtete sein Angesicht zu suchen den Herrn und ließ ein Fasten ausrufen in ganz Juda."
+            },
+            {
+              "display": "Apostelgeschichte 13:2-3",
+              "book_code": "ACT",
+              "chapter": 13,
+              "verses": "2-3",
+              "translation": "Lutherbibel 1912",
+              "text": "Indem sie dem Herrn dienten und fasteten, sprach der heilige Geist: Sondert mir aus Barnabas und Saulus zu dem Werk, darum ich sie berufen habe. Da fasteten sie, beteten und legten die Hände auf sie und ließen sie ziehen."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr unser Gott, wir danken Dir, daß Lasten, die zu schwer für unsere Hände sind, nie zu schwer sind, um vor deinen Gnadenthron gebracht zu werden. Gib uns den Geist Esthers, damit wir in Zeiten der Angst nicht zunächst von den Umständen beherrscht werden, sondern zunächst in deine Gegenwart gebracht werden. Laß unser Fasten nicht aus besorgter Kontrolle aufsteigen, sondern aus Vertrauen in deine souveräne Herrschaft und aus heiliger Liebe zu denen, die wir vor dir bringen. Mache uns standhaft in der Fürbitte, demütig im Warten, und gib, daß wir sehen, daß du noch immer das Schreien deines Volkes hörst. Durch Jesus Christus, unsern Herrn. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Anna: Treu durch die Jahre",
+      "subtitle": "Manche Fasten sind nicht für schnellere Antworten, sondern für lange Treue.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Lukas 2:36-38",
+            "book_code": "LUK",
+            "chapter": 2,
+            "verses": "36-38",
+            "translation": "Lutherbibel 1912",
+            "text": "Und es war eine Prophetin, Anna, eine Tochter Phanuels, aus dem Stamme Asser, welche weit hinein in Jahren war und hatte sieben Jahre mit ihrem Manne gelebt nach ihrer Jungfrauschaft, und war nun eine Witwe bis achtundachtzig Jahren, verließ den Tempel nicht und diente mit Fasten und Beten Tag und Nacht. Diese trat auch hinzu zu derselben Stunde und pries den Herrn und redete von ihm zu allen, die auf Erlösung in Jerusalem warteten."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Anna tritt nicht in der Schrift als gefeierte öffentliche Leiterin auf. Sie tritt auf als eine ältere Witwe, deren Leben durch lange Hingabe, langen Verlust und lange Sehnsucht geformt worden ist. Doch als das Christuskind in den Tempel gebracht wird, ist sie bereit. Ihr verborgenes Leben hat sie wahrnehmend gemacht.",
+            "Lesen Sie Lukas 2:36-38 langsam.",
+            "**\"Mit Fasten und Beten, Tag und Nacht.\"**",
+            "Der Text behandelt Annas Fasten und Gebet nicht als schmückende Details. Sie sind Teil des Grundes, warum sie erkennt, was andere vermissen. Jahre der Verehrung hatten ihre Aufmerksamkeit geübt. Lange Treue hatte sie empfindsam für die Bewegung Gottes gemacht. Wir leben in einer Zeit, die bewundert, was sichtbar ist, meßbar ist und unmittelbar ist. Anna erinnert uns daran, daß der Himmel oft anders mißt. Einige der gewichtigsten Arbeiten im Reich werden von denen getan, die unsichtbar bleiben.",
+            "Eine ältere Witwe in unserer Gemeinde fragte mich einmal: \"Ist es noch etwas Nützliches, das ich für den Herrn tun kann?\" Wir öffneten Lukas 2 und lasen Anna zusammen. Ich sagte ihr, daß ein betendes Leben nie ein fruchtloses Leben ist. Sie begann, eine stille Stunde jede Woche zu halten, um für jüngere Frauen, Großkinder und Familien in der Gemeinde zu beten. Im Laufe der Zeit würden viele dieser Menschen bezeugen, wie der Herr Türen geöffnet hatte. Verborgene Treue bedeutet nicht bedeutungslose Treue. **In der Wirtschaft Gottes kann ein Leben geduldigen Gebets mehr Gewicht tragen als öffentliche Nützlichkeit je könnte.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Lukas 2:25",
+              "book_code": "LUK",
+              "chapter": 2,
+              "verses": "25",
+              "translation": "Lutherbibel 1912",
+              "text": "Und siehe, ein Mensch war in Jerusalem, mit Namen Simeon; und derselbige Mensch war gerecht und fromm und wartete auf Trost Israel, und der heilige Geist war auf ihm."
+            },
+            {
+              "display": "Psalm 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "Lutherbibel 1912",
+              "text": "Harre des Herrn, und sei getrost und unverzagt, und harre des Herrn!"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Himmlischer Vater, wir danken Dir, daß alle Treue im Verborgenen vor dir in Erinnerung gehalten wird. Bewahre uns davor, müde zu werden, wenn die Jahre lang wirken, und davor, Gebet einfach darum zu verachten, weil seine Frucht nicht sofort gesehen wird. Wenn unser Dienst von anderen unbemerkt bleibt, laß ihn noch in deinen Augen kostbar sein. Wenn Du uns stillere Jahreszeiten erteilst, halte uns standhaft und fromm. Gib uns, daß wir gleich Anna durch die vergehenden Jahre in der Verehrung ausharren, nah bei deiner Gegenwart im Warten bleiben und bereit erfunden werden, wenn Du es gefällt zu handeln. Durch Jesus Christus, unsern Herrn. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Hanna: Trauer vor Gott bringen",
+      "subtitle": "Manchmal ist Appetitlosigkeit nicht Versagen, sondern Trauer im Körper.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "1. Samuel 1:7-18",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "7-18",
+            "translation": "Lutherbibel 1912",
+            "text": "Und da sie Jahr für Jahr also taten, wenn sie zu des Herrn Hause hinaufgingen, reizte sie Peninna also; darum weinte Hanna und aß nicht... Und Hanna war betrübt im Herzen und betete zum Herrn und weinte sehr und tat ein Gelübde... Und die Frau ging hin und aß, und ihr Angesicht war nicht mehr betrübt."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Hanna tritt nicht in 1. Samuel als eine Frau auf, die einen geistlichen Plan macht. Sie tritt auf als eine Frau, die so von Trauer durchbohrt ist, daß auch das Essen seinen Platz verloren hat.",
+            "Lesen Sie 1. Samuel 1:7-18, ohne über den Schmerz zu eilen. Hannas Tränen sind nicht eine Nebenbemerkung. Ihre Kultur hat Last auf sie gelegt, ihre Hoffnung wurde Jahre lang gedehnt, und ihr Körper trägt nun die Zeichen von Trauer. Selbst Eli versteht sie zunächst falsch. Doch sobald ihr Anguisch verstanden wird, wird sie nicht für Schwäche getadelt. Sie wird mit Segen begegnet. Das ist wichtig. Die Schrift schafft Raum nicht nur für gewähltes Fasten, sondern auch für das unfreiwillige Fasten, das Trauer bringen kann.",
+            "Ich erinnere mich an eine Frau, die nach einem verheerenden Verlust mit mir sprach. Sie sagte, fast entschuldigend: \"Ich kann wirklich nicht viel essen.\" Wir lasen Hanna zusammen, und was sie an diesem Tag am meisten brauchte, war nicht ein Vortrag über Widerstandsfähigkeit, sondern Freiheit von Scham. Es gibt Jahreszeiten, in denen die Seele so tief leidet, daß der Körper zuerst spricht. Wenn du dort bist, verwechsle Trauer nicht mit geistlichem Versagen. Nimm Sorge an. Nimm das Essen an, das ein Freund bringt. Setz dich vor den Herrn, so wie du bist. **Der Gott, der Hanna hörte, verachtet nicht den Hunger, den Trauer schafft.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Psalm 42:3",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "3",
+              "translation": "Lutherbibel 1912",
+              "text": "Meine Tränen sind mein Brot Tag und Nacht, während man immerfort zu mir sagt: Wo ist dein Gott?"
+            },
+            {
+              "display": "Psalm 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Du hast mein Wandeln gezählt; sammle meine Tränen in dein Gefäß. Sind sie nicht in deiner Rechnung?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Barmherziger Herr, wenn Trauer so tief in den Körper eingegangen ist, daß auch er mitträgt, erweise Barmherzigkeit, und laß nicht Schande noch auf Leid aufgelastet werden. Du, der Hannas Tränen sah, kennst auch das verborgene Gewicht, das Worte nicht tragen können. Tritt genauso zu jedem verwundeten Herzen nahe, und gib sanfte Behütung inmitten von Bedrängnis. Halte uns darin, Bruch nicht für Schande zu nehmen und Schwachheit nicht für Verlassenheit durch dich. Laß alle wissen, die trauern, mit Gewißheit, daß du dich erinnern wirst, du Mitgefühl hast, und du keine zerbrochenen und zerknirschten Geist verachtets. Durch Jesus Christus, unsern Herrn. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Wie man mit Fasten anfängt",
+      "subtitle": "Fasten hat keine Größe, keine Dauer. Es hat nur Aufrichtigkeit.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Daniel 10:2-3",
+            "book_code": "DAN",
+            "chapter": 10,
+            "verses": "2-3",
+            "translation": "Lutherbibel 1912",
+            "text": "In jener Zeit trug ich, Daniel, Trauer. Drei Wochen lang aß ich nicht von Leckerbissen, und Fleisch und Wein kamen nicht in meinen Mund, und salbte mich nicht, bis drei ganze Wochen um waren."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Früher oder später stellt jede Frau, die sich für Fasten interessiert, die praktische Frage: Welche Art von Fasten ist eigentlich angemessen? Die Schrift selbst hilft uns hier, indem sie sich weigert, Fasten auf eine einzelne Methode zu reduzieren. Daniel verzichtet auf Leckerbissen. Esther ruft in einem Krisenmoment zu einem strengen Fasten auf. Andere Passagen gehen von kürzeren, einfacheren Mustern aus. Die Bibel gibt uns Prinzip vor Gleichförmigkeit.",
+            "Lesen Sie Daniel 10:2-3 langsam.",
+            "**\"Ich aß kein angenehmes Brot.\"**",
+            "Daniels Beispiel zeigt, daß Fasten mehr als eine Form annehmen kann. Dennoch stellt die Schrift normalerweise Essen in den Mittelpunkt des Fastens, weil Fasten mit körperlichem Appetit, geschöpflicher Abhängigkeit und der Entscheidung verbunden ist, auch den Hunger unter die Herrschaft Gottes zu bringen. Was zählt, ist nicht, die beeindruckendste Version zu finden, sondern eine Form zu wählen, die aufrichtig, ehrfürchtig und weise für deine Lebenszeit ist. Für eine Person kann das eine ausgelassene Mahlzeit sein, die mit Gebet verbunden ist. Für eine andere kann es einfacher Essen für mehrere Tage sein.",
+            "Eine junge Mutter fragte mich einmal, ob sie fastend kann, während sie amtet und erschöpft ist. Ich sagte ihr, daß Weisheit, nicht Schuldgefühl, solch eine Frage regieren muß. Ihr Körper ernährte ein Kind; Essen war nicht der Platz, um zu beginnen. Stattdessen legte sie ihr Telefon für eine Abendstunde beiseite, nachdem die Kinder schliefen, und gab diese Zeit der Schrift und dem Gebet. Solche Entsagung ist nicht der biblische Mittelpunkt des Fastens, aber sie kann dennoch demselben geistlichen Zweck in einer Zeit dienen, in der Nahrungsfasten unweise wäre. Später sagte sie: \"Ich hatte nicht bemerkt, wie sehr dieser kleine Bildschirm meine Aufmerksamkeit fraß.\" **Das Ziel ist nicht, Strenge zu beweisen, sondern Platz für klareren Hunger nach Gott zu schaffen.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "1. Korinther 10:23",
+              "book_code": "ZEC",
+              "chapter": 7,
+              "verses": "5-6",
+              "translation": "Lutherbibel 1912",
+              "text": "Es ist mir alles erlaubt, aber nicht alles ist nütze. Es ist mir alles erlaubt, aber nicht alles erbauet."
+            },
+            {
+              "display": "Kolosser 3:17",
+              "book_code": "EXO",
+              "chapter": 34,
+              "verses": "28",
+              "translation": "Lutherbibel 1912",
+              "text": "Und alles, was ihr tut mit Worten oder Werken, das tut alles im Namen des Herrn Jesus und danket Gott und dem Vater durch ihn."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, wir danken dir, daß du großes Fasten und kleines Fasten nicht unterschiedlich bewertest—daß du siehst, was in den Augen der Welt verborgen ist, und jede Stunde des Gebets zählst. Gib uns ein Herz für Einfachheit ohne Läppischkeit. Laß unsere Fasten, ob kurz oder lang, ob privat oder öffentlich, durch ehrliches Verlangen nach dir gekennzeichnet sein. Und wenn der Hunger—körperlich oder geistlich—schwach wird oder leicht wird, gib uns Gnade, einfach zu beten: \"Siehe mich, Vater.\" Durch Jesus Christus, unsern Herrn. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Wenn Fasten schiefgeht",
+      "subtitle": "Fasten wird schief, wenn es die Demütigung und Barmherzigkeit verliert.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Jesaja 58:3-7",
+            "book_code": "ISA",
+            "chapter": 58,
+            "verses": "3-7",
+            "translation": "Lutherbibel 1912",
+            "text": "Fürwahr, am Tage eures Fastens gehet ihr euren Geschäften nach und frohndet alle eure Arbeiter. Sehet, ihr fastet zu Streit und Zank und schlagt mit ungerechter Faust darein. Nicht also wird euer Fasten, das ich erwählt habe, getan: daß man seinen Nacken krümme wie ein Rohr und sich in Sack und Asche lege. Ist das ein Fasten, das mir gefällt, ein Tag, da man sein Herz demütigt?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Jede geistliche Übung hat ihre Schatten, und Fasten ist da keine Ausnahme. Es kann unauffällig selbstbeglückwünschungen werden. Es kann theatralisch werden. Es kann intensiv privat bleiben, während es uns merkwürdigerweise unberührt durch die Bedürfnisse anderer läßt. Das ist der Grund, warum die Schrift starke Warnungen um es stellt.",
+            "Lesen Sie Jesaja 58:3-7 und lassen Sie seine Schärfe stehen. Das Volk fastete, aber ihre Leben waren noch immer von Rauheit, Ungerechtigkeit und Eigennutz gekennzeichnet. Gott sagt sozusagen: Bringt mir euren Appetit nicht, während ihr euren Gehorsam zurückhältet. Dann fügt Jesus in Matthäus 6 eine zweite Warnung hinzu: Benutzt das Fasten nicht, um gesehen zu werden. Zusammengenommen schützen diese Passagen die Seele vor zwei tiefgreifenden Verderbnissen, öffentliche Eitelkeit und private Härte.",
+            "Eine Frau sagte mir einmal, halb lachend und halb beschämt, daß sie sich stolz fühlte, zweimal in einer Woche gefastet zu haben. Das kleine Bekenntnis war wichtiger, als es klang, denn Stolz tritt oft durch die Seitentür in geistliche Übung ein. Mit der Zeit wählte sie, ihr Fasten verborgen zu halten und das Geld wegzugeben, das sie für Mittagessen ausgegeben hätte. Das war ein weiseres Fasten. **Das sicherste Fasten ist das, das eine Person weniger von sich selbst beeindruckt macht und bereiter, ihre Nachbarin zu lieben.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Sacharja 7:5-6",
+              "book_code": "ZEC",
+              "chapter": 7,
+              "verses": "5-6",
+              "translation": "Lutherbibel 1912",
+              "text": "Sag zum ganzen Volk des Landes und zu den Priestern: Wenn ihr in diesen siebzig Jahren gefastet und geklagt habt, habt ihr wirklich für mich gefastet? Und wenn ihr aßet und tranket, aßet und tranket ihr nicht für euch selbst?"
+            },
+            {
+              "display": "Lukas 18:11-12",
+              "book_code": "LUK",
+              "chapter": 18,
+              "verses": "11-12",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Pharisäer stand für sich und betete also: Ich danke dir, daß ich nicht bin wie die andern Menschen, Räuber, Ungerechte, Ehebrecher, oder auch wie dieser Zöllner. Ich faste zweimal in der Woche und gebe den Zehnten von allem, was ich habe."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, wir bitten dich, daß du uns vor den Fallen des Fastens bewahrst. Behüte uns davor, daß wir unsere Übung zu einer Gelegenheit zum Hochmut machen; behüte uns auch davor, daß wir, während wir fasten, unsere Herzen verhärten gegen diejenigen, die Hilfe brauchen. Laß unsere Fasten demütig halten und barmherzig. Und wenn Stolz einzuschleichen beginnt, gib uns die Gnade, ihn zu erkennen, und wende unsere Herzen schnell zurück zur schlichten Wahrheit, daß der Hunger, den wir erfahren, uns erinnern soll, wie hungrig andere Menschen sind. Durch Jesus Christus, unsern Herrn. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Fasten endet in einem Fest",
+      "subtitle": "Die letzten Worte der Schrift zum Hunger sind nicht Entbehrung, sondern Fest.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Hauptvers",
+          "verse": {
+            "display": "Offenbarung 19:9",
+            "book_code": "REV",
+            "chapter": 19,
+            "verses": "9",
+            "translation": "Lutherbibel 1912",
+            "text": "Und er spricht zu mir: Schreibe: Selig sind die, welche zum Hochzeitsmahl des Lammes berufen sind."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Die Bibel endet nicht mit Entbehrung. Sie endet mit einem Hochzeitsfest. Das sollte Fasten davor bewahren, streng, freudlos oder in sich selbst verschlossen zu werden. Christliches Fasten trägt immer eine eschatologische Note. Es erinnert uns daran, daß wir noch nicht zu Hause sind, daß unsere wahre Befriedigung noch vor uns liegt, und daß der tiefste Hunger der Seele endlich in Christus erfüllt werden wird.",
+            "Lesen Sie Offenbarung 19:9 langsam.",
+            "**\"Selig sind die, welche zum Hochzeitsmahl des Lammes berufen sind.\"**",
+            "Die Geschichte der Schrift bewegt sich von Wildnis-Hunger hin zu Braut-Überfluss. Jesaja sah das Fest im voraus. Jesus sprach davon, Brot und Wein neu zu essen in seinem Vaters Reich. Die letzte christliche Vorstellung ist nicht Mangel, sondern Gemeinschaft. Aus diesem Grund ist Fasten kein Zweck an sich. Es trainiert Verlangen. Es lehrt das Herz, nicht zu schnell mit dem zufrieden zu sein, was es endlich nicht erfüllen kann.",
+            "Eine ältere Frau sagte mir einmal, gegen Ende eines Lebens, das von treuem Fasten geprägt war: \"Jedes kleine Fasten hat mich mehr nach dem Hochzeitsmahl des Lammes verlangen lassen.\" Dann lächelte sie und fügte hinzu: \"Es war alles eine Vorspeise.\" Das war nicht eine schlaue Linie. Es war gesunde Theologie, einfach ausgesprochen. **Wenn Fasten nicht nach Christus und seinem Reich sehnsüchtig macht, ist es zu etwas viel zu Kleinem geschrumpft.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Weitere Schriftstellen",
+          "verses": [
+            {
+              "display": "Jesaja 25:6",
+              "book_code": "ISA",
+              "chapter": 25,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Herr Zebaoth wird auf diesem Berge einem jeden Volke ein Gastmahl des besten Stoffs halten, ein Mahl von alten Weinen, des besten und feisten Marks."
+            },
+            {
+              "display": "Matthäus 26:29",
+              "book_code": "MAT",
+              "chapter": 26,
+              "verses": "29",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich sage euch: Ich werde nicht mehr von diesem Gewächse des Weinstocks trinken bis auf jenen Tag, wenn ich es neu trinke mit euch in meines Vaters Reiche."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr Jesus, wir danken dir, daß du unser Fasten nicht leer enden läßt. Du schaust schon voraus zum Fest, und jeder kleine Hunger, den wir erfahren, ist geschaffen, uns sehnsuchtsvoll nach dir zu machen. Bewahre unsere Seelen davor, Entbehrung zum Selbstzweck zu machen. Laß unser Fasten immer uns daran erinnern, daß wir hier noch nicht ganz erfüllt sein können, daß du kommst, und daß die größte Freude auf dem Hochzeitsmahl des Lammes wartet. Bis dahin laß ein Fasten unser Herz reif machen und unsere Seele empfänglich für deine kommende Fülle. Durch Jesus Christus, unsern Herrn. Amen.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

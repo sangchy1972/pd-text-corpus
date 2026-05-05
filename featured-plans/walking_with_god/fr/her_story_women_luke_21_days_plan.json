@@ -1,0 +1,1577 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LK01",
+    "slug": "walking-with-jesus-in-luke",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Marcher avec Dieu",
+      "secondary": "her-story",
+      "secondary_label": "Son Histoire"
+    },
+    "tags": [
+      "son-histoire",
+      "femmes-des-ecritures",
+      "femmes-bibliques",
+      "recit",
+      "femmes-de-luc",
+      "evangile-de-luc",
+      "femmes-bibliques",
+      "recit",
+      "marie",
+      "elisabeth"
+    ],
+    "title": "Marcher avec Jésus dans Luc",
+    "subtitle": "Un voyage de 21 jours à travers les femmes de l'Évangile",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "curieuse",
+        "réflexive",
+        "cherchant un sens"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ceci est un doux mais profond voyage de « 21 jours » à travers l'Évangile de Luc, créé spécialement pour les femmes qui veulent connaître Jésus plus profondément par les histoires des femmes autour de lui. Jour après jour, vous cheminerez avec les femmes dont Luc se souvient et vous verrez comment elles sont remarquées par Dieu, rencontrées par le Christ, restaurées par la grâce, et investies du pouvoir du témoignage. Si vous désirez devenir plus familière avec l'histoire de l'Évangile, et si vous avez besoin de la présence stabilisante de Jésus au milieu de l'agitation, de la faiblesse, de l'attente ou du chagrin, ce plan est conçu pour vous aider à vous rapprocher de lui.",
+    "duration_days": 21,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → opening → teaching → today_as_you_read → additional_scriptures → prayer",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#E0D4B8",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_quiet_garden_morning_warm",
+      "icon": "dove-and-cross-circle"
+    },
+    "phases": [],
+    "key_verses": [
+      {
+        "display": "Luc 1:38",
+        "book_code": "LUK",
+        "chapter": 1,
+        "verses": "38"
+      },
+      {
+        "display": "Luc 24:22",
+        "book_code": "LUK",
+        "chapter": 24,
+        "verses": "22"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-04"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Le 'Oui' de Marie",
+      "subtitle": "Quand Dieu place devant vous un chemin que vous ne voyez pas complètement, la foi ne commence pas par comprendre entièrement. Elle commence par la volonté.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 1:38",
+            "book_code": "LUK",
+            "chapter": 1,
+            "verses": "38",
+            "translation": "Louis Segond 1910",
+            "text": "Et Marie dit: Je suis la servante du Seigneur; qu'il me soit fait selon ta parole. Et l'ange la quitta."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Ce voyage commence avec Marie. Luc n'ouvre pas l'Évangile par une scène spectaculaire, mais par le moment où une jeune femme rencontre Dieu. Ici, nous voyons que l'obéissance ne consiste pas à attendre que tout soit clair pour dire « je suis disposée ». Elle consiste à se placer entre les mains de Dieu avant que tout soit clair.",
+            "« Et Marie dit: Je suis la servante du Seigneur; qu'il me soit fait selon ta parole. » Luc 1:38"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'ange vient à Marie à Nazareth. Ce qu'elle entend n'est pas une tâche légère, mais un appel qui transformera toute sa vie. Elle portera le Fils de Dieu, mais elle portera aussi l'incompréhension, le risque et le poids de ce qu'elle ne peut pas encore expliquer. Luc ne la présente pas comme quelqu'un qui reste insensible à cela. Elle est troublée. Elle pose une véritable question. Cela rend son obéissance authentique.",
+            "La beauté de Marie dans ce passage ne vient pas de ce qu'elle comprend tout. C'est qu'elle se confie à Dieu avant de comprendre. **« Qu'il me soit fait selon ta parole. »** Ce n'est pas une résignation passive. C'est une reddition remplie de confiance. Marie ne voit pas la route qui s'étend devant elle, mais elle est prête à se placer entre les mains du Dieu qui, lui, voit tout.",
+            "J'ai une fois accompagné une femme qui sentait que Dieu lui demandait de quitter un travail qui avait progressivement asséché son esprit. Elle a résisté, non pas parce qu'elle ne voulait pas obéir, mais parce que l'avenir lui semblait trop incertain. Plus tard, elle m'a dit que la prière qui l'avait changée était très simple : « Seigneur, j'ai peur, mais je suis disposée. » Elle n'a pas reçu toutes les réponses à la fois. Mais elle a compris que le tournant n'était pas la clarté totale. C'était de se placer entre les mains de Dieu avant de l'avoir.",
+            "Nous ne recevrons peut-être jamais un appel comme celui de Marie, mais nous savons ce que c'est de faire face à une responsabilité inattendue ou à une reddition que nous aimerions repousser. Marie nous rappelle que la foi commence souvent avant la clarté."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "En quoi consiste exactement le trouble initial de Marie face à la parole de l'ange? Dieu n'a pas clarifié tous les détails, alors comment peut-elle toujours dire « oui »? Demandez-vous aussi si vous avez généralement tendance à accepter l'obéissance après avoir tout compris, ou si vous apprenez à vous abandonner avant de l'avoir."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 1:37",
+              "book_code": "LUK",
+              "chapter": 1,
+              "verses": "37",
+              "translation": "Louis Segond 1910",
+              "text": "Car rien n'est impossible à Dieu."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père céleste, tu es le Dieu qui parle et qui accomplis ce que tu as dit. Nous te louons parce que ton dessein est au-dessus des pensées humaines, et ta grâce repose souvent sur ceux que le monde considère comme insignifiants. Donne-nous des cœurs souples et disposés, afin que même avant de comprendre toutes choses, nous ayons confiance en ta bonté et que nous suivions ta direction. Fortifie ton Église et tes filles pour qu'elles disent : « Qu'il me soit fait selon ta parole. » Que ta volonté soit honorée et que ton nom soit glorifié par notre obéissance. Au nom de Jésus, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "La Bénédiction d'Élisabeth",
+      "subtitle": "Une femme plus âgée voit le poids que porte une femme plus jeune, et avant d'expliquer ou d'évaluer, elle bénit.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 1:45",
+            "book_code": "LUK",
+            "chapter": 1,
+            "verses": "45",
+            "translation": "Louis Segond 1910",
+            "text": "Heureuse celle qui a cru, car les choses qui lui ont été dites de la part du Seigneur s'accompliront."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Ce passage nous amène à la rencontre entre Marie et Élisabeth. Deux femmes se rencontrent, l'une porte une promesse, l'autre a déjà connu la grâce. Ici, nous voyons comment Dieu stabilise souvent une femme par les yeux et les paroles d'une autre femme plus mûre.",
+            "« Et bienheureuse celle qui a cru; car les choses qui lui ont été dites de la part du Seigneur s'accompliront. » Luc 1:45"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Après que l'ange parle à Marie, elle va trouver Élisabeth. Luc nous donne une image très douce : une femme plus âgée qui accueille une femme plus jeune, quelqu'une qui a aussi connu la grâce, reconnaissant le travail de Dieu chez quelqu'une d'autre. Élisabeth n'ouvre pas avec des questions ou de la prudence. Elle ouvre avec une bénédiction : « Et bienheureuse celle qui a cru. »",
+            "Ces quelques paroles sont importantes parce que quand Dieu agit de manière exigeante chez une personne, la compréhension ne vient pas toujours en premier. Souvent, ce qui vient en premier, c'est la pression, la vulnérabilité, et la solitude de porter quelque chose que les autres ne voient pas encore. Élisabeth ne force pas Marie à se défendre. Elle la voit avec les yeux de la foi. **La maturité spirituelle n'est pas seulement de connaître comment Dieu t'a rencontré. C'est aussi d'apprendre à reconnaître le travail de Dieu chez une autre femme et de la fortifier avant qu'elle ne se stabilise complètement.**",
+            "Cette époque nous rappelle aussi que nous avons tous besoin d'une « Élisabeth » dans notre vie, quelqu'une qui, quand nous sommes confuses, effrayées et incapables de nous expliquer, prononce une parole venant de Dieu qui nous affirme. Nous pouvons aussi être appelées à devenir l'Élisabeth de quelqu'une d'autre. Dans un monde habitué à commenter rapidement, être disponible pour d'abord voir, d'abord bénir, et d'abord affirmer quelqu'une d'autre, c'est une grande tendresse spirituelle. Cela nous rappelle que la maturité spirituelle inclut souvent la capacité à reconnaître ce que Dieu pourrait déjà être en train de faire grandir chez quelqu'une.",
+            "Une femme mature reconnait rapidement le travail du Saint-Esprit chez les autres."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Comment Élisabeth commence-t-elle? Elle n'a pas d'abord commenté les réalités pratiques, mais elle a d'abord reconnu le travail de Dieu. Pensez maintenant à vous-même: tendez-vous généralement à voir d'abord les problèmes des gens, ou êtes-vous en mesure de remarquer ce que Dieu pourrait déjà être en train de faire grandir?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 1:42",
+              "book_code": "LUK",
+              "chapter": 1,
+              "verses": "42",
+              "translation": "Louis Segond 1910",
+              "text": "Et elle s'écria d'une voix forte: Tu es bénie entre les femmes, et le fruit de ton sein est béni."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, tu es la Dieu qui a la capacité de reconnaître ton travail chez les autres. Nous te remercions de la grâce et de la bénédiction que tu donnes. Ouvre nos yeux pour que nous puissions voir d'abord ta grâce chez les autres femmes autour de nous. Donne-nous le cœur d'Élisabeth - un cœur qui voit, qui bénit, et qui fortifie d'autres femmes même quand elles ne sont pas encore sûres d'elles-mêmes. Aide-nous à être cette présence pour quelqu'une d'autre. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Le Cantique de Marie",
+      "subtitle": "Quand quelqu'un a compris quelque chose de la profondeur de la grâce de Dieu, son cœur ne peut pas rester silencieux. Elle doit chanter.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 1:46-47",
+            "book_code": "LUK",
+            "chapter": 1,
+            "verses": "46-47",
+            "translation": "Louis Segond 1910",
+            "text": "Et Marie dit: Mon âme exalte le Seigneur, et mon esprit se réjouit en Dieu, mon Sauveur."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Après que Marie ait reçu la bénédiction d'Élisabeth, quelque chose s'éveille en elle. Luc nous donne maintenant son cantique - non pas une simple prière, mais une explosion de joie et de compréhension spirituelle. Ce que Marie chante nous montre ce qu'elle a réalisé de Dieu au moment où elle dit « oui ».",
+            "« Et Marie dit: Mon âme exalte le Seigneur, et mon esprit se réjouit en Dieu, mon Sauveur... » Luc 1:46-47"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Le Magnificat - c'est ainsi qu'on appelle ce cantique - n'est pas sentimental. C'est une affirmation prophétique de qui est Dieu et ce qu'il fait. Marie ne chante pas sur sa propre grandeur. Elle exalte Dieu pour son abaissement, c'est-à-dire pour la manière dont Dieu voit les petites gens. **« Il a jeté les yeux sur l'abaissement de sa servante. »** Elle chante ensuite la manière dont Dieu fait basculer les ordres du monde : il renverse les puissants et élève les humbles, il remplit les affamés de biens et renvoie les riches à vide.",
+            "Ce cantique nous dit quelque chose d'important sur Marie. Elle n'est pas devenue obéissante par crainte ou parce qu'on l'y aurait forcée. Elle a compris quelque chose de la miséricorde de Dieu, et cette compréhension a transformé la manière dont elle voit le monde. Quand elle dit « oui » à Dieu, ce n'est pas une soumission triste. C'est une réponse joyeuse parce qu'elle a entrevu la nature généreuse et abaissante de Dieu.",
+            "Nous avons souvent une idée fausse de ce qu'est l'obéissance. Nous pensons qu'elle consiste à faire quelque chose que nous ne voulons pas faire. Mais le Magnificat nous montre que l'obéissance véritable naît quand nous avons un aperçu de la nature de Dieu. Quand nous commençons à comprendre à quel point Dieu aime les petites gens, à quel point il voit les invisibles, à quel point il renverse les injustices du monde, nous ne pouvons pas rester silencieuses. Nous chantons. Nous partageons. Nous devenons des porte-parole de la grâce de Dieu.",
+            "Le chant de Marie devient notre prière quand nous reconnaissons la nature de Dieu."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Relisez le Magnificat et remarquez ce que Marie chante à propos de Dieu. Qu'est-ce qui l'a frappée le plus à propos de la nature et des actions de Dieu? Avez-vous compris quelque chose de la grâce de Dieu qui vous a fait chanter, ou êtes-vous toujours dans l'attente?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 1:48",
+              "book_code": "LUK",
+              "chapter": 1,
+              "verses": "48",
+              "translation": "Louis Segond 1910",
+              "text": "Parce qu'il a jeté les yeux sur l'abaissement de sa servante. Car voici, dès à présent toutes les générations m'appelleront bienheureuse."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père céleste, tu as montré ta grâce miséricordieuse tout au long de l'histoire. Tu as elevé les humbles et tu as montré à tous les générations ta fidélité. Ouvre nos yeux pour que nous puissions voir ta miséricorde comme l'a vue Marie. Donne-nous des cœurs qui chantent quand nous avons compris quelque chose de ta bonté. Aide-nous à être des porte-parole de ta grâce envers les autres. Que nos vies aussi deviennent des magnificats - des chants de ton amour et de ta justice. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "La Fidélité Durable d'Anne",
+      "subtitle": "Il y a une sorte de fidélité qui ne cesse jamais de prier, qui ne renonce jamais à attendre, qui reste au temple même quand rien ne change.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 2:37",
+            "book_code": "LUK",
+            "chapter": 2,
+            "verses": "37",
+            "translation": "Louis Segond 1910",
+            "text": "Restée veuve, elle était arrivée à l'âge de quatre-vingt-quatre ans. Ne se retirant jamais du temple, elle y servait Dieu nuit et jour dans le jeûne et la prière."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Tandis que Jésus enfant est présenté au temple, nous rencontrons une femme nommée Anne. Luc nous dit peu de choses sur elle, mais ce peu de choses nous montre quelqu'une dont la vie entière est devenue une prière. Anne est une prophétesse qui a attendu le Messie sa vie entière.",
+            "« Il y avait aussi une prophétesse, Anne, fille de Phanuel, de la tribu d'Aser. Elle était fort avancée en âge, et elle avait vécu sept ans avec son mari depuis sa virginité. Restée veuve, elle était arrivée à l'âge de quatre-vingt-quatre ans. Ne se retirant jamais du temple, elle y servait Dieu nuit et jour dans le jeûne et la prière. » Luc 2:36-37"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Anne est devenue veuve jeune. Au lieu de se retirer du monde, elle a transformé son deuil en une vocation. Pendant 84 ans - une vie entière - elle a servi dans le temple, priant et jeûnant. Luc ne nous dit rien de spectaculaire qu'elle aurait fait. Il ne nous dit pas qu'elle a accompli de grands miracles ou qu'elle a fondé une école. Il dit simplement: **« Ne se retirant jamais du temple, elle y servait Dieu nuit et jour dans le jeûne et la prière. »**",
+            "C'est étrange que nous trouvions ce type de fidélité peu remarquable aujourd'hui. Nous attendons que la fidélité soit visible, productive, noticée par les autres. Mais Anne montre une autre sorte de fidélité: la fidélité qui persiste même quand personne ne regarde, même quand rien ne change visiblement, même quand la promesse pour laquelle on prie ne semble pas venir de sitôt. Elle a prié pour le Messie presque toute sa vie et n'a jamais vu la promesse devenir réalité - jusqu'à ce dernier moment quand, très âgée, elle reconnaît le bébé Jésus et commence à parler de lui à tous ceux qui attendaient la délivrance.",
+            "Il y a quelque chose de profond dans cette histoire. Anne nous enseigne que la prière n'est pas une transaction. Ce n'est pas « prier jusqu'à ce que tu obtiennes ce que tu demandes ». C'est transformer votre vie entière en une conversation avec Dieu, une attente, une confiance. Anne montre qu'il y a une beauté dans la fidélité qui persiste quand rien ne change, dans la prière qui continue même quand la réponse tarde, dans la confiance qui n'abandonne jamais."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Anne a attendu toute sa vie. Qu'est-ce qui l'a maintenue à prier pendant 84 ans? Y a-t-il quelque chose pour laquelle vous priez depuis longtemps sans voir de changement? Pensez à la différence entre une prière transactionnelle et une prière qui est simplement une façon de vivre avec Dieu."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 2:38",
+              "book_code": "LUK",
+              "chapter": 2,
+              "verses": "38",
+              "translation": "Louis Segond 1910",
+              "text": "Survenant à cette même heure, elle se mit à louer Dieu, et à parler de l'enfant à tous ceux qui attendaient la délivrance de Jérusalem."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, tu es le Dieu de ceux qui attendent, de ceux qui prient fidèlement même quand la réponse tarde. Donne-nous la grâce d'Anne - une fidélité qui n'abandonne jamais, une prière qui continue, une confiance qui persiste. Aide-nous à transformer notre vie entière en une conversation avec toi, même dans l'attente. Fortifie nos cœurs et nos esprits pour que nous puissions continuer à prier et à attendre ta promesse, sachant que tu nous vois et que tu es fidèle. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "La Mère de Pierre se Lève",
+      "subtitle": "Une guérison simple. Une femme fièvreuse. Jésus se penche et elle se lève pour servir. Parfois, l'acte de se lever et de servir est lui-même une prière.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 4:39",
+            "book_code": "LUK",
+            "chapter": 4,
+            "verses": "39",
+            "translation": "Louis Segond 1910",
+            "text": "Il se pencha sur elle, menaça la fièvre, et la fièvre la quitta. A l'instant elle se leva, et les servit."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Nous rencontrons maintenant une femme sans nom - la belle-mère de Pierre. Elle est fièvreuse, gravement atteinte. On demande à Jésus de l'aider. Ce qui suit est simple mais profond. Jésus ne dit aucune grande parole. Il se penche simplement sur elle et guérit sa fièvre. Ensuite, sans même attendre de reprendre des forces, elle se lève pour servir.",
+            "« De là, Jésus se rendit à la maison de Simon. La mère de Simon était tourmentée par une forte fièvre, et on le pria en sa faveur. Il se pencha sur elle, menaça la fièvre, et la fièvre la quitta. A l'instant elle se leva, et les servit. » Luc 4:38-39"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Il est intéressant que Luc nous donne si peu d'information sur cette femme. Elle n'a même pas de nom. Mais ce que Luc met l'accent, c'est sur sa réaction à la guérison. Dès qu'elle est guérie, elle se lève et sert. C'est l'essentiel. **Ce n'est pas un acte spectaculaire. C'est une simple action: préparer à manger pour les invités. Mais Luc voit dans cet acte quelque chose de profond.**",
+            "Avant la guérison, elle était incapacitée. La fièvre l'emprisonnait au lit, l'isolait. Mais une fois guérie, la première chose qu'elle désire faire, c'est servir. C'est comme si son retour à la santé était immédiatement suivi d'un retour à sa vocation - être utile, prendre soin des autres. Il n'y a pas de délai. Il n'y a pas de « d'abord je me repose ». Elle se lève directement et sert.",
+            "Cette histoire nous dit quelque chose d'important. Parfois, nous pensons que servir est une obligation lourde que nous devons remplir par devoir. Mais pour la belle-mère de Pierre, le service naît de la joie d'être guérie. C'est l'expression naturelle de quelqu'une qui a été touchée par la grâce de Dieu. En se levant pour servir, elle répond, de manière non verbale, à l'amour du Christ. Son service est sa prière, sa louange, sa gratitude.",
+            "Quand nous sommes guéris, notre réaction naturelle devrait être de vouloir servir les autres."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Remarquez la rapidité avec laquelle la belle-mère de Pierre passe de la maladie au service. Qu'est-ce que cela nous dit sur la gratitude et la réponse à la grâce? Pensez à votre propre façon de répondre quand Dieu vous guérit ou vous aide. Est-ce que vous cherchez d'abord à vous reposer, ou est-ce que le service vient naturellement?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Psaume 145:14",
+              "book_code": "PSA",
+              "chapter": 145,
+              "verses": "14",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel soutient tous ceux qui tombent, et il redresse tous ceux qui sont courbés."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, tu es le Dieu qui guérit et qui restaure. Nous te remercions pour les moments où tu as mis ta main sur nous et où tu nous as ramenées à la santé. Aide-nous à répondre comme la belle-mère de Pierre - avec un cœur qui se lève immédiatement pour servir, non par obligation, mais par gratitude joyeuse. Transforme notre service en une forme de prière, une expression de notre amour pour toi. Et quand nous voyons d'autres femmes blessées ou malades, donne-nous la capacité de les toucher avec ta grâce et de les voir se lever pour servir. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Les Femmes qui Ont Soutenu le Ministère de Jésus",
+      "subtitle": "Elles ne sont pas au centre de l'histoire, mais sans elles, le ministère de Jésus n'aurait pas pu continuer. Parfois, le soutien invisible est aussi important que le ministère visible.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 8:3",
+            "book_code": "LUK",
+            "chapter": 8,
+            "verses": "3",
+            "translation": "Louis Segond 1910",
+            "text": "Jeanne, femme de Chusa, intendant d'Hérode, Suzanne, et plusieurs autres, qui l'assistaient de leurs biens."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Luc nous offre maintenant une brève mais importante notation sur les femmes qui ont soutenu le ministère de Jésus. Ce ne sont pas les apôtres, mais elles sont tout aussi essentielles. Elles ont été guéries de maladies et d'esprits malins, et elles ont utilisé leur vie entière pour aider Jésus dans son ministère.",
+            "« Ensuite, Jésus se mettait en chemin par les villes et les villages, prêchant et annonçant la bonne nouvelle du royaume de Dieu. Les douze étaient avec lui, et aussi plusieurs femmes qui avaient été guéries d'esprits malins et de maladies: Marie, dite Madeleine, de laquelle étaient sortis sept démons, Jeanne, femme de Chusa, intendant d'Hérode, Suzanne, et plusieurs autres, qui l'assistaient de leurs biens. » Luc 8:1-3"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Il est facile de remarquer les apôtres - les douze hommes que Jésus a appelés directement. Mais Luc s'arrête ici pour nous rappeler qu'il y avait aussi des femmes. Et qui étaient-elles? Des femmes qui avaient été blessées, qui avaient porté des démons ou des maladies, mais qui avaient rencontré Jésus et avaient été guéries. **Leur réponse à la guérison n'était pas de se retirer pour vivre une vie tranquille. Elles se sont tournées vers Jésus et lui ont consacré leur vie entière.**",
+            "Luc nous donne les noms de trois: Marie, surnommée Madeleine (d'elle étaient sortis sept démons), Jeanne (femme d'un officier d'Hérode), et Suzanne. Chacune avait un contexte différent. Mais elles partageaient une chose: elles avaient connu la grâce transformatrice de Jésus, et elles l'assistaient de leurs biens. Cela signifie qu'elles utilisaient leur argent, leur temps, leurs ressources pour soutenir son ministère. Elles y ont investi elles-mêmes.",
+            "Ce qui est remarquable, c'est que Luc prend la peine de mentionner cela. Dans une culture où les femmes ne sont pas usuellement mentionnées, où leur rôle de soutien est souvent pris pour acquis, Luc s'arrête et dit: « Ces femmes comptent. Elles sont importantes. C'est par leur aide que le ministère de Jésus pouvait continuer. » Cela nous enseigne quelque chose: il n'y a pas de ministère important ou peu important. Il y a seulement un ministère. Certaines personnes enseignent et prêchent. D'autres soutiennent. Les deux sont nécessaires. Les deux sont honorables.",
+            "Derrière chaque grand ministère, il y a des femmes fidèles qui soutiennent avec leurs ressources."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Réfléchissez aux femmes nommées ici. Elles ont été guéries et elles ont répondu en servant. Pensez maintenant à votre propre vie: comment avez-vous réagi quand Dieu vous a guérie ou aidée? Y a-t-il des façons cachées par lesquelles vous servez le ministère du Christ?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 8:2",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "Et aussi plusieurs femmes qui avaient été guéries d'esprits malins et de maladies: Marie, dite Madeleine, de laquelle étaient sortis sept démons."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, nous te remercions pour ces femmes courageuses qui ont soutenu le ministère de Jésus. Nous reconnaissons que le soutien invisible est aussi important que la prédication visible. Remplis nos cœurs de la même disponibilité à utiliser nos ressources, notre temps et notre argent pour soutenir ton œuvre. Aide-nous à voir que chaque rôle - qu'il soit en première ligne ou en arrière-plan - a de la valeur aux yeux de Dieu. Et rends-nous reconnaissantes pour ceux qui, comme ces femmes, soutiennent nos ministères en silence. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "La Femme qui a Touché Jésus",
+      "subtitle": "Une femme dont le corps l'a trahie pendant douze ans. Elle ne parle pas. Elle s'approche simplement de derrière et touche le bord de son vêtement. Et tout change.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 8:48",
+            "book_code": "LUK",
+            "chapter": 8,
+            "verses": "48",
+            "translation": "Louis Segond 1910",
+            "text": "Jésus lui dit: Ma fille, ta foi t'a sauvée; va en paix."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Nous rencontrons maintenant une femme sans nom - une femme qui a souffert d'une perte de sang pendant douze ans. Pendant douze ans, elle a été en détresse continuelle, à la fois physiquement et socialement. Elle a dépensé tous ses biens pour les médecins, mais rien n'a guéri sa maladie. Jusqu'à ce jour où Jésus passe à proximité.",
+            "« Or, une femme atteinte d'une perte de sang depuis douze ans, et qui avait dépensé tout son bien pour les médecins, ne pouvait être guérie par aucun. Elle s'approcha par derrière, et toucha la frange de son vêtement. Au même instant, sa perte de sang s'arrêta. » Luc 8:43-48"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Douze ans. C'est une longue période de souffrance. Et ce qui rend sa souffrance plus profonde encore, c'est ce que cela signifiait à l'époque. Selon la loi juive, une femme avec une perte de sang continue était considérée comme impure. Elle ne pouvait pas aller au temple. Elle ne pouvait pas participer aux cérémonies religieuses. Elle était isolée, non seulement par la maladie, mais aussi par la honte et par la loi.",
+            "Et alors cette femme a entendu parler de Jésus. Elle a entendu qu'il guérissait les gens. Mais même maintenant, elle ne demande rien. Elle ne crie pas pour se faire remarquer. Elle **s'approcha par derrière, et toucha la frange de son vêtement.** C'est un acte d'une certaine timidité, presque d'une tendresse cachée. Elle n'ose pas demander. Elle espère simplement que si elle peut le toucher, quelque chose se passera.",
+            "Et quelque chose se passe. Jésus s'arrête. Il ressent une vertu qui est sortie de lui. Mais plutôt que de continuer, il se tourne et demande: « Qui m'a touché? » Et la femme, reconnaissant qu'elle ne peut pas rester cachée, vient, tremblante, et se jette à ses pieds. Elle confesse pourquoi elle l'a touché et comment elle a été immédiatement guérie. Et Jésus dit: **« Ma fille, ta foi t'a sauvée; va en paix. »** Ces paroles sont remplies de tendresse. Il ne la réprimande pas pour avoir osé le toucher. Il reconnaît sa foi. Il l'honore.",
+            "Cette femme nous enseigne le pouvoir d'un geste simple: toucher celui que vous croyez peut vous guérir."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Cette femme a souffert pendant douze ans et elle a épuisé toutes ses ressources. Qu'est-ce qui l'a menée à croire que Jésus pourrait l'aider? Et qu'y a-t-il chez vous qui vous empêche de vous tourner vers Jésus? Êtes-vous trop honteuse ou trop sceptique pour simplement le toucher?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 8:44",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "44",
+              "translation": "Louis Segond 1910",
+              "text": "Elle s'approcha par derrière, et toucha la frange de son vêtement. Au même instant, sa perte de sang s'arrêta."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, nous connaissons ce qu'il en est d'être blessées d'une façon qui nous isole. Nous connaissons la honte, la longueur de la souffrance, le sentiment que rien ne peut nous aider. Mais tu vois chaque femme qui s'approche de toi, même dans les ombres, même avec une timidité tremblante. Tu honores sa foi. Tu proclames sa guérison. Tu la restaures complètement - non seulement physiquement, mais socially et spirituellement. Donne-nous la foi de cette femme. Aide-nous à oser te toucher, même si nous avons peur. Et quand tu nous guéris, donne-nous le courage de proclamer ta miséricorde aux autres. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "day_label": "Jour 8",
+      "title": "La Fille de Jaïre",
+      "subtitle": "Elle n'a pas beaucoup de paroles. Elle n'a pas d'histoire propre. Mais à travers elle, nous voyons comment Jésus restaure ce qui semblait perdu.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 8:54",
+            "book_code": "LUK",
+            "chapter": 8,
+            "verses": "54",
+            "translation": "Louis Segond 1910",
+            "text": "Jésus la saisit par la main, et dit d'une voix forte: Enfant, lève-toi!"
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Voici l'histoire d'une fille qui meurt et puis est ressuscitée. Elle n'a pas de nom. Nous ne savons rien d'elle sauf qu'elle était la fille du chef d'une synagogue, qu'elle était malade et qu'elle est morte. Mais à travers son histoire, Jésus montre quelque chose de profond.",
+            "« Comme il parlait encore, quelqu'un vint dire au chef de la synagogue: Ta fille est morte; n'importune pas le maître. Mais Jésus, ayant entendu cela, dit au chef de la synagogue: Ne crains pas, crois seulement, et elle sera sauvée. » Luc 8:49-56"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La fille de Jaïre est morte. C'est un moment où même la foi peut sembler inutile. Les gens autour de Jésus disent: « Pourquoi tracasser le maître? Elle est morte. Il n'y a rien à faire. » Et c'est exactement à ce moment que Jésus parle. **« Ne crains pas, crois seulement, et elle sera sauvée. »**",
+            "Jésus entre dans la maison. Il la voit. Et il dit: « Ne pleurez pas; elle n'est pas morte, mais elle dort. » Ce qui semble être la fin - la mort - Jésus le voit comme le sommeil. C'est une perspectiv totalement différente. Puis il prend la main de la fille et la réveille. « Enfant, lève-toi! » Et elle se lève.",
+            "Ce qui est remarquable, c'est que Jésus permet aux parents de la fille d'être avec lui. Il ne la ramène pas à la vie en secret. Il les invite à témoin de son miracle. Les parents sont saisis d'étonnement, mais Jésus leur recommande simplement de ne dire à personne ce qui était arrivé et de lui donner quelque chose à manger. C'est un détail touchant. Il ne suffit pas de la ressusciter. Il prend soin d'elle - elle a faim après sa mort et sa résurrection.",
+            "Quand Jésus restaure la vie, il restaure aussi les soins ordinaires du quotidien."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Quand la fille de Jaïre est morte, tout a semblé perdu. Les gens ont dit qu'il n'y avait plus d'espoir. Mais Jésus a dit qu'elle dormait. Comment cette perspective change-t-elle la manière dont vous comprenez la mort? Pensez à des domaines de votre vie où quelque chose semble mort, perdu ou au-delà de la rédemption. Comment pourrait-il être un sommeil plutôt qu'une mort définitive?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 8:55",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "55",
+              "translation": "Louis Segond 1910",
+              "text": "Et son esprit revint en elle, et elle se leva à l'instant; et Jésus ordonna qu'on lui donnât à manger."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, tu es le Seigneur de la vie. Tu vois les choses que nous considérons comme mortes et tu les restaures. Tu rassures les pères et les mères dont les enfants sont malades ou mourants. Tu vois ce que nous ne pouvons pas voir. Donne-nous la foi de Jaïre - la foi d'entrer en contact avec toi même quand tout semble sans espoir. Et quand tu restaures ce qui semblait perdu, donne-nous le courage de proclamer ta puissance aux autres. Accorde-nous aussi le sentiment de ton soin - tu ne nous ressuscites pas simplement, tu prends soin de nous ensuite, tu nous donnes à manger. Nous t'en remercions. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "day_label": "Jour 9",
+      "title": "Marthe et Marie",
+      "subtitle": "Deux sœurs. L'une est distrait par les soins. L'autre s'asseoit et écoute. Jésus dit que l'une a choisi la meilleure part.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 10:42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "42",
+            "translation": "Louis Segond 1910",
+            "text": "Une seule chose est nécessaire. Marie a choisi la bonne part, qui ne lui sera point ôtée."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Jésus arrive à la maison de deux femmes nommées Marthe et Marie. Ce que Luc nous montre ici est simple en surface, mais profond dessous. C'est une histoire sur les choix, sur les valeurs, sur ce qui vraiment compte.",
+            "« Comme ils se mettaient en chemin, Jésus entra dans un village, et une femme, nommée Marthe, le reçut dans sa maison. Elle avait une sœur, appelée Marie, qui, s'étant assise aux pieds de Jésus, écoutait sa parole. » Luc 10:38-42"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Marthe fait l'accueil. C'est un geste honorable - recevoir un invité, préparer la nourriture. Et Luc ne dénigre pas cela. Mais Marthe devient progressivement plus distraite par les soins du service. Elle s'approche de Jésus et dit: « Seigneur, ne t'inquiètes-tu pas de ce que ma sœur me laisse seule faire le service? Dis-lui donc de m'aider. »",
+            "Et Jésus répond: **« Marthe, Marthe, tu t'inquiètes et tu t'agites pour beaucoup de choses. Une seule chose est nécessaire. Marie a choisi la bonne part. »** Ce n'est pas que le service n'a pas de valeur. C'est que parfois, nous pouvons être tellement occupées par la préparation de l'hospitalité que nous oublions l'objet même de l'hospitalité - être en présence avec quelqu'un, l'écouter, lui permettre de nous transformer.",
+            "Marie a choisi de s'asseoir aux pieds de Jésus. Elle a choisi d'écouter. Et Jésus dit que c'est la meilleure part. Il y a une hiérarchie des valeurs ici. La présence est plus importante que le service. L'écoute est plus importante que la préparation. Être transformée est plus importante que faire les choses correctement.",
+            "Parfois, le mieux que nous puissions faire est de nous asseoir et écouter le Maître."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Êtes-vous plus une Marthe ou une Marie? Comment trouvez-vous l'équilibre entre les deux? Et surtout, quand vous êtes avec quelqu'un ou avec Dieu, êtes-vous vraiment présente, en train d'écouter, ou êtes-vous distrait par mille petites choses qui doivent être faites?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 10:41",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41",
+              "translation": "Louis Segond 1910",
+              "text": "Jésus lui répondit: Marthe, Marthe, tu t'inquiètes et tu t'agites pour beaucoup de choses."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, pardonne-nous pour les moments où nous avons été tellement occupées par le service que nous avons oublié de simplement t'écouter. Pardonne-nous pour notre inquiétude et notre agitation. Apprends-nous à choisir la meilleure part - la part de t'écouter, d'être transformées par tes paroles. Et même en faisant le service, aide-nous à le faire dans un esprit d'amour pour toi, non dans la fièvre et le souci de la perfection. Rends-nous plus comme Marie - calmes, attentives, présentes à ton écoute. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "day_label": "Jour 10",
+      "title": "La Femme Courbée",
+      "subtitle": "Elle a porté un fardeau pendant dix-huit ans. Elle ne demande rien. Elle n'appelle pas au secours. Mais Jésus la voit et l'appelle.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 13:12",
+            "book_code": "LUK",
+            "chapter": 13,
+            "verses": "12",
+            "translation": "Louis Segond 1910",
+            "text": "Quand Jésus la vit, il l'appela et lui dit: Femme, tu es délivrée de ton infirmité."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Jésus est dans une synagogue le jour du sabbat. Il y a une femme là qui a un problème particulier: un esprit l'a rendue infirme pendant dix-huit ans. Elle ne peut pas se redresser. Elle regarde toujours vers le bas.",
+            "« Jésus enseignait dans une des synagogues, le jour du sabbat. Et voici, il y avait là une femme possédée d'un esprit qui la rendait infirme depuis dix-huit ans; elle était courbée et ne pouvait se redresser. » Luc 13:10-13"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Dix-huit ans. Pendant dix-huit ans, cette femme a marché le long du sol. Elle ne pouvait pas voir les visages autour d'elle. Elle pouvait voir seulement les pieds, le sol. Pendant dix-huit ans, elle a porté une charge invisible mais très réelle sur son dos.",
+            "Et puis Jésus la voit. Luc nous dit: « Quand Jésus la vit, il l'appela. » Ce détail est crucial. **Jésus ne l'ignorait pas. Jésus ne la voyait pas comme quelqu'une pour qui rien ne pouvait être fait.** Il la voyait comme quelqu'une qui méritait d'être appelée, remarquée, guérie.",
+            "Alors Jésus lui dit: « Femme, tu es délivrée de ton infirmité. » Et il lui imposa les mains. Et elle se redressa et glorifia Dieu. Ce que Jésus fait ici est simple mais extraordinaire. Il voit une femme qui a accepté son fardeau. Il voit quelqu'une qui a renoncé à demander de l'aide. Et il dit: non. Je vois ta souffrance. Tu es digne d'être libérée.",
+            "Il y a quelque chose de profond dans le fait que Jésus n'attend pas qu'elle demande. Il l'appelle. Il proclame sa libération. Il la libère. Et immédiatement, elle se redresse et glorifia Dieu. Dix-huit ans de courbure, terminés en un instant."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Cette femme a porté un fardeau durant dix-huit ans sans demander de l'aide. Y a-t-il des charges que vous portez depuis longtemps et que vous avez arrêté de demander à Dieu de vous en libérer? Comment pourrait-il être comme pour cette femme - qu'il vous voit, qu'il vous appelle, qu'il vous libère?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 13:16",
+              "book_code": "LUK",
+              "chapter": 13,
+              "verses": "16",
+              "translation": "Louis Segond 1910",
+              "text": "Et cette femme, qui est une fille d'Abraham, que Satan tenait liée depuis dix-huit ans, ne devait-elle pas être délivrée de cette chaîne le jour du sabbat?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, tu vois les femmes qui ont porté leurs fardeaux depuis si longtemps qu'elles ont oublié de demander ta libération. Tu les vois comme dignes d'être libérées, dignes d'être redressées. Nous te remercions de ne pas nous ignorer, de ne pas nous supposer sans espoir. Vois nos fardeaux invisibles. Appelle-nous par nos noms. Libère-nous. Et quand nous nous redressons, remplis nos cœurs de la gratitude de cette femme - une gratitude qui glorifie ton nom. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "day_label": "Jour 11",
+      "title": "La Femme qui Continue à Chercher",
+      "subtitle": "Elle a perdu une pièce de monnaie et elle a allumé une lampe, balayé la maison, et cherché soigneusement jusqu'à ce qu'elle la trouve. Quand elle l'a trouvée, elle a convoqué ses amies pour célébrer avec elle.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 15:8",
+            "book_code": "LUK",
+            "chapter": 15,
+            "verses": "8",
+            "translation": "Louis Segond 1910",
+            "text": "Ou, quelle femme, si elle a dix drachmes, et qu'elle en perde une, n'allume pas une lampe, ne balaie sa maison, et ne cherche soigneusement jusqu'à ce qu'elle la trouve?"
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Jésus raconte une parabole simple. Une femme perd une pièce de monnaie. Ce n'est qu'une drachme, une petite pièce. Mais elle ne l'abandonne pas. Elle cherche.",
+            "« Ou, quelle femme, si elle a dix drachmes, et qu'elle en perde une, n'allume pas une lampe, ne balaie sa maison, et ne cherche soigneusement jusqu'à ce qu'elle la trouve? » Luc 15:8-9"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La parabole est courte, mais elle nous dit quelque chose d'important. Le Père céleste est comme cette femme. Quand quelqu'chose qu'il aime est perdu, il cherche. Il ne renonce pas. Il allume une lampe. Il balaie la maison. Il cherche soigneusement jusqu'à ce qu'il la trouve.",
+            "Mais remarquez aussi ce qui vient après. Quand la femme trouve la pièce, elle ne la place pas simplement dans sa bourse et continue sa journée. **Elle convoque ses amies et ses voisines, et dit: Réjouissez-vous avec moi, car j'ai trouvé la drachme que j'avais perdue.** C'est un acte de célébration, de partage de la joie.",
+            "Cette parabole nous enseigne deux choses. D'abord, qu'il y a de la tendresse dans la persistance. Quand Dieu nous aime, il nous cherche. Il n'abandonne pas. Et deuxièmement, la joie du retrouvage est meant to be partagée. Ce n'est pas une joie privée. C'est une joie qui appelle d'autres à se réjouir aussi.",
+            "Quand nous sommes trouvées par Dieu, nous devons partager cette joie avec les autres femmes autour de nous."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "La femme de la parabole n'abandonne pas sa pièce. Y a-t-il quelque chose - ou quelqu'un - que vous avez cessé de chercher? Comment pourriez-vous relancer votre recherche avec la persistance de cette femme?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 15:9",
+              "book_code": "LUK",
+              "chapter": 15,
+              "verses": "9",
+              "translation": "Louis Segond 1910",
+              "text": "Et quand elle l'a trouvée, elle convoque ses amies et ses voisines, et dit: Réjouissez-vous avec moi, car j'ai trouvé la drachme que j'avais perdue."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, tu es le Dieu qui cherche les brebis perdues, qui allume une lampe dans l'obscurité, qui balaie chaque coin. Nous te remercions de ne jamais nous abandonner, de toujours nous chercher. Et quand tu nous trouves, remplis nos cœurs de la joie de cette femme. Donne-nous le désir de partager cette joie avec d'autres, de dire: « Réjouissez-vous avec moi! » Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "day_label": "Jour 12",
+      "title": "La Veuve qui Persiste",
+      "subtitle": "Elle vient à un juge injuste encore et encore, demandant: Fais-moi justice. Et finalement, il lui rend justice simplement pour qu'elle cesse de venir.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 18:1",
+            "book_code": "LUK",
+            "chapter": 18,
+            "verses": "1",
+            "translation": "Louis Segond 1910",
+            "text": "Jésus leur dit une parabole, pour montrer qu'il faut toujours prier, et ne point se relâcher."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Jésus raconte une parabole sur une veuve et un juge injuste. Le juge ne craint pas Dieu et ne se soucie de personne. Mais la veuve vient à lui encore et encore avec une seule demande: Fais-moi justice de mon adversaire.",
+            "« Il y avait dans une ville un juge qui ne craignait point Dieu et qui n'avait d'égard pour personne. Il y avait aussi dans cette ville une veuve qui venait lui dire: Fais-moi justice de mon adversaire. Longtemps il refusa. » Luc 18:1-8"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Cette parabole est d'abord et avant tout une leçon sur la prière persistante. Jésus l'introduit en disant: « Jésus leur dit une parabole, pour montrer qu'il faut toujours prier, et ne point se relâcher. » C'est le contexte dans lequel cette histoire est racontée.",
+            "La veuve n'a rien en sa faveur. Elle est une femme, ce qui signifie qu'elle a peu de pouvoir dans la société. Elle est une veuve, ce qui signifie qu'elle est vulnérable et sans protecteur. Elle est face à un juge qui ne craint pas Dieu - c'est-à-dire un juge qui n'a aucune transcendent morale qui le guide.",
+            "Et pourtant, elle vient. Encore et encore, elle vient. Elle ne renonce pas. Elle n'accepte pas l'injustice. Elle persiste jusqu'à ce que finalement, le juge, fatigué de ses visites constantes, lui rende justice. **« Parce que cette veuve m'importune, je lui ferai justice, afin qu'elle ne vienne pas sans cesse m'assaillir. »**",
+            "Maintenant, la leçon de Jésus: si même un juge injuste rend justice à une veuve persistante, combien plus Dieu, qui est juste et qui aime ses élus, ne leur rendra-t-il pas justice? Et pourtant, dit Jésus, « quand le Fils de l'homme viendra, trouvera-t-il la foi sur la terre? » C'est une question troublante. Elle demande: allez-vous persister dans la prière comme la veuve? Allez-vous continuer à croire que Dieu écoutera et agira?"
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "La veuve a persévéré même face à l'apparence de l'injustice. Y a-t-il une situation dans votre vie où vous sentez que vous n'obtenez pas justice? Pouvez-vous persister dans votre demande à Dieu, sachant que sa justice n'est pas motivée par la fatigue mais par l'amour?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 18:7",
+              "book_code": "LUK",
+              "chapter": 18,
+              "verses": "7",
+              "translation": "Louis Segond 1910",
+              "text": "Et Dieu ne ferait pas justice à ses élus, qui crient à lui jour et nuit, et il tarderait à leur égard!"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, tu es le juge juste qui voit tout et qui juge avec équité. Enseigne-nous à persister dans nos prières comme la veuve, non par agitation ou doute, mais par confiance que tu écouteras et agiras. Aide-nous à ne pas renoncer face à l'apparence de l'injustice. Et remplis-nous de la foi que tu cherches - la foi qui continue à croire, à prier, à demander. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "day_label": "Jour 13",
+      "title": "Les Deux Pièces de la Veuve",
+      "subtitle": "Une pauvre veuve met deux petites pièces dans le tronc. Jésus dit qu'elle a mis plus que tous les autres.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 21:3",
+            "book_code": "LUK",
+            "chapter": 21,
+            "verses": "3",
+            "translation": "Louis Segond 1910",
+            "text": "Et il dit: Je vous le dis en vérité, cette pauvre veuve a mis plus que tous les autres."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Jésus s'asseoit près du tronc du temple et observe comment les gens y mettent de l'argent. Des riches mettent des quantités généreuses. Et puis une pauvre veuve arrive et met deux petites pièces.",
+            "« Jésus, ayant levé les yeux, vit les riches qui mettaient leurs offrandes dans le tronc. Il vit aussi une pauvre veuve qui y mettait deux petites pièces. Et il dit: Je vous le dis en vérité, cette pauvre veuve a mis plus que tous les autres. » Luc 21:1-4"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "C'est une histoire sur la générosité et la proportion. Les riches donnent de leur abondance. Ils ne ressentent pas la donation. Ils donnent ce qu'ils ne vont pas manquer. Mais la veuve pauvre... elle donne de son nécessaire. Elle donne **tout ce qu'elle avait pour vivre.**",
+            "Jésus change le standard par lequel on mesure la générosité. Ce n'est pas la quantité absolue qui compte. C'est la sacrifice. C'est le pourcentage de ce que vous avez. C'est le cœur avec lequel vous donnez.",
+            "Il y a quelque chose d'extraordinaire dans ce moment. Jésus voit une femme que personne d'autre ne voit vraiment. Une veuve pauvre - le type de femme qui est habituellement ignorée. Mais Jésus la voit. Il reconnaît son geste. Et il le proclame à ses disciples comme l'exemple ultime de générosité."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Comment mesurez-vous la générosité? Donnez-vous de votre abondance ou de votre nécessaire? Et comment cela change-t-il votre compréhension de ce que signifie vraiment donner?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 21:4",
+              "book_code": "LUK",
+              "chapter": 21,
+              "verses": "4",
+              "translation": "Louis Segond 1910",
+              "text": "Car tous ont mis de leur superflu dans les offrandes; mais elle a mis de son nécessaire, tout ce qu'elle avait pour vivre."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, tu vois au-delà de nos dons extérieurs jusqu'au cœur avec lequel nous donnons. Tu honores le sacrifice de ceux qui donnent de leur nécessaire plus que l'abondance de ceux qui donnent de leur excédent. Remplis-nous du courage de la veuve - du courage de mettre dans le tronc du temple non seulement notre argent, mais notre vie entière. Aide-nous à croire que quand nous te donnons tout, tu prends soin de nous. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "day_label": "Jour 14",
+      "title": "Les Filles de Jérusalem",
+      "subtitle": "Tandis que Jésus porte sa croix, des femmes le suivent, se frappant la poitrine et se lamentant sur lui. Et il se tourne vers elles avec un avertissement d'amour.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 23:28",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "28",
+            "translation": "Louis Segond 1910",
+            "text": "Jésus se tourna vers elles et dit: Filles de Jérusalem, ne pleurez pas sur moi; pleurez sur vous et sur vos enfants."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Sur le chemin de la croix, Jésus est suivi par une grande foule. Et parmi eux se trouvent des femmes qui se frappent la poitrine et se lamentent sur lui. Ces femmes voient sa souffrance. Elles ressentent de la pitié. Elles pleurent pour lui.",
+            "« Une grande multitude du peuple le suivait, ainsi que des femmes qui se frappaient la poitrine et se lamentaient sur lui. Jésus se tourna vers elles et dit: Filles de Jérusalem... » Luc 23:27-31"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Jésus se tourne vers ces femmes et dit: « Filles de Jérusalem, ne pleurez pas sur moi; pleurez sur vous et sur vos enfants. » C'est un moment troublant. Ces femmes pleurent par compassion pour Jésus, et il leur dit de ne pas pleurer sur lui.",
+            "Pourquoi? Parce que Jésus sait quelque chose qu'elles ne savent pas encore. Il sait que sa croix n'est pas la fin. Il sait que la mort ne le retiendra pas. Sa souffrance est redemptrice et transformatrice. Mais les jours qui viennent pour Jérusalem seront des jours de jugement et de destruction.",
+            "« Car voici, des jours viennent où l'on dira: Heureuses les stériles, heureuses les entrailles qui n'ont point enfanté, et les seins qui n'ont point allaité! Alors ils se mettront à dire aux montagnes: Tombez sur nous! et aux collines: Couvrez-nous!»"
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Les femmes ont pleuré sur Jésus par compassion. Mais Jésus leur dit de pleurer sur elles-mêmes et sur leurs enfants. Comment comprenez-vous cet appel au repentance et à la vigilance?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 23:31",
+              "book_code": "LUK",
+              "chapter": 23,
+              "verses": "31",
+              "translation": "Louis Segond 1910",
+              "text": "Car, si l'on fait ces choses au bois vert, qu'arrivera-t-il au bois sec?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, même sur ton chemin vers la croix, tu pensais à nous. Tu nous avertissais de venir vers toi, de nous préparer pour les temps qui arrivent. Nous te remercions de cette tendresse et de cette vigilance. Aide-nous à ne pas seulement te pleurer, mais à comprendre l'urgence de ton salut. Remplis-nous de la gratitude pour ta croix. Et aide-nous à avertir d'autres femmes avec tendresse et urgence. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "day_label": "Jour 15",
+      "title": "Les Femmes qui Ont Assisté à la Croix",
+      "subtitle": "Elles ont suivi Jésus depuis la Galilée. Elles ne l'ont pas abandonné au moment de sa mort. Elles se sont tenues à distance et elles ont regardé.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 23:49",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "49",
+            "translation": "Louis Segond 1910",
+            "text": "Tous ceux de la connaissance de Jésus se tenaient éloignés; et les femmes qui l'avaient accompagné depuis la Galilée, se tenaient aussi à distance, regardant ces choses."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Tandis que Jésus est crucifié, ses disciples ont peur et se cachent. Mais certaines femmes - les femmes qui l'ont suivi depuis la Galilée - se tiennent à distance et regardent.",
+            "« Tous ceux de la connaissance de Jésus se tenaient éloignés; et les femmes qui l'avaient accompagné depuis la Galilée, se tenaient aussi à distance, regardant ces choses. » Luc 23:49"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Remarquez le contraste. Les disciples masculins ont disparu. Ils ont peur. Mais les femmes sont là. Elles ne prêchent pas. Elles ne font pas de déclaration courageuse. Elles se tiennent simplement à distance et regardent.",
+            "Mais même simplement être là est un acte de courage et de fidélité. Ces femmes voient leur maître mourir. Elles pourraient avoir peur pour leur propre sécurité. Mais elles restent. Elles témoignent.",
+            "Ce que c'est important de noter, c'est que Luc mentionne spécifiquement que ces femmes l'avaient accompagné depuis la Galilée. Cela signifie qu'elles n'étaient pas juste des spectatrices occasionnelles. Elles étaient des disciples de longue date. Elles avaient investi leur vie dans le suivre. Et maintenant, au moment de sa mort, elles sont fidèles.",
+            "Leur présence silencieuse à la croix est un témoignage de la profondeur de leur amour et de leur foi. Elles n'ont rien à gagner de cette fidélité. Aucun prix. Aucun prestige. Juste la présence auprès de quelqu'un qu'elles aiment au moment de sa plus grande souffrance."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Ces femmes sont restées à distance et ont regardé. Elles n'ont pas fui. Comment comprenez-vous la valeur de simplement être présente, même en silence, dans le moment de la croix?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 8:2-3",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "2-3",
+              "translation": "Louis Segond 1910",
+              "text": "Et aussi plusieurs femmes qui avaient été guéries d'esprits malins et de maladies: Marie, dite Madeleine, Jeanne, femme de Chusa, Suzanne, et plusieurs autres, qui l'assistaient de leurs biens."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, nous t'admirons de la fidélité de ces femmes. Elles ne t'ont pas abandonné au moment de ta plus grande souffrance. Elles ont simplement été présentes. Aide-nous à cultiver une fidélité semblable - une fidélité qui persiste même quand il n'y a rien à gagner, simplement parce que nous t'aimons. Et donne-nous le courage d'être présentes à la croix, de ne pas détourner notre regard de la réalité de ta souffrance, mais de la regarder en face. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "day_label": "Jour 16",
+      "title": "Les Femmes qui Préparent les Aromates",
+      "subtitle": "Après sa mort, ces femmes ne l'oublient pas. Elles préparent des aromates pour honorer son corps. C'est un acte d'amour envers les morts.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 23:55-56",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "55-56",
+            "translation": "Louis Segond 1910",
+            "text": "Les femmes qui étaient venues de Galilée avec Jésus suivirent Joseph, regardèrent le sépulcre et virent comment son corps y fut déposé. S'en étant retournées, elles préparèrent des aromates et des parfums. Et elles se reposèrent le jour du sabbat, selon la loi."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Après la crucifixion, un homme riche nommé Joseph d'Arimathée demande le corps de Jésus et le place dans son propre sépulcre. Les femmes qui avaient suivi Jésus depuis la Galilée regardent et voient où il est placé. Et alors, elles commencent à préparer des aromates et des parfums pour honorer son corps.",
+            "« Les femmes qui étaient venues de Galilée avec Jésus suivirent Joseph, regardèrent le sépulcre et virent comment son corps y fut déposé. S'en étant retournées, elles préparèrent des aromates et des parfums. » Luc 23:55-56"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Remarquez ce que font ces femmes. Elles ne désespèrent pas. Elles ne renoncent pas à Jésus même s'il est mort. Elles font ce qu'elles peuvent faire - elles honorent son corps. Elles préparent des aromates et des parfums, une pratique traditionnelle pour honorer les morts.",
+            "Ce qui est touchant, c'est que c'est une action presque anonyme. Aucune parole n'est dite. Nul ne loue leur dévouement. Elles font simplement le travail. Elles préparent les aromates. C'est un travail humble, pratique, mais rempli d'amour.",
+            "Et cela le font pendant le sabbat. Luc nous dit: « Et elles se reposèrent le jour du sabbat, selon la loi. » Même au cœur de leur chagrin, elles respectent la loi du sabbat. Elles ne précipitent pas. Elles attendent le moment approprié pour accomplir leur tâche."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Ces femmes ont préparé les aromates pour un sépulcre. C'était un travail qui pourrait sembler sans espoir - honorer un corps mort. Mais pensez à comment cet acte d'amour humble deviendra bientôt un acte de foi qui change le monde. Comment avez-vous vu un acte d'amour humble révéler quelque chose de la présence de Dieu?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Jean 14:15",
+              "book_code": "JHN",
+              "chapter": 14,
+              "verses": "15",
+              "translation": "Louis Segond 1910",
+              "text": "Si vous m'aimez, gardez mes commandements."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, nous sommes ému par l'amour humble de ces femmes. Même quand tu étais mort, elles t'ont honoré. Elles ont préparé les aromates. Elles ont respecté le sabbat. Elles ont fait ce qu'elles pouvaient faire par amour. Enseigne-nous à aimer de cette manière - simplement, humblement, sans attendre de récompense. Et quand nous honnorons ce qui est sacré, même dans le chagrin, remplis-nous de la confiance que tu vois et que tu honores aussi nos actes d'amour. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "day_label": "Jour 17",
+      "title": "Le Sabbat du Silence",
+      "subtitle": "C'est entre la mort et la résurrection. C'est un temps d'attente. C'est une journée quand tout semble fini, mais rien n'est réellement fini.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 23:56",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "56",
+            "translation": "Louis Segond 1910",
+            "text": "Et elles se reposèrent le jour du sabbat, selon la loi."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Entre la crucifixion du vendredi et la résurrection du dimanche se trouve le samedi - le jour du sabbat. C'est un jour de silence. Les disciples sont cachés. Les femmes observent la loi du sabbat. Jésus repose dans le sépulcre. Rien ne semble se passer.",
+            "Mais c'est un jour important. C'est un jour d'attente. C'est un jour où tout ce qui semble perdu demeure en attente."
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Ce jour du sabbat est rempli de silence. Aucun miracle n'est enregistré. Aucune apparition de Jésus. Juste le silence du repos et du deuil.",
+            "Mais ce jour nous enseigne quelque chose d'important. Il y a une période entre la mort et la vie nouvelle. Il y a une période d'attente, d'incertitude, de repos. Et pendant cette période, Dieu n'a pas abandonné. Dieu reste fidèle même dans le silence.",
+            "Combien de fois dans nos propres vies vivons-nous ce type de samedi? Un moment quand quelque chose s'est terminé mais quelque chose de nouveau n'a pas encore commencé. Un moment d'attente, d'incertitude. Et souvent, nous supposons que Dieu est absent. Mais il est simplement silencieux."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Avez-vous connu des moments de silence entre la mort d'une ancienne vie et la naissance d'une nouvelle? Comment avez-vous expérimenté la présence - ou l'apparente absence - de Dieu pendant ces périodes d'attente?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Psaume 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Arrêtez, et sachez que je suis Dieu; je domine sur les nations, je domine sur la terre."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, même dans le silence, tu es fidèle. Même quand tu sembles caché, tu travailles. Aide-nous à faire confiance à tes silences. Aide-nous à accepter les périodes d'attente comme des parties sacrées de notre voyage. Et remplis nos cœurs d'espoir que derrière ce silence, tu es en train de préparer quelque chose de nouveau. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "day_label": "Jour 18",
+      "title": "Les Femmes à l'Aube",
+      "subtitle": "Le premier jour de la semaine, à l'aube, elles arrivent au sépulcre avec les aromates qu'elles avaient préparées. Ce qu'elles trouvent changera tout.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 24:1-2",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "1-2",
+            "translation": "Louis Segond 1910",
+            "text": "Le premier jour de la semaine, elles se rendirent au sépulcre de grand matin, portant les aromates qu'elles avaient préparés. Elles trouvèrent la pierre roulée de devant le sépulcre."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Le premier jour de la semaine - dimanche matin - les femmes se rendent au sépulcre de grand matin. Elles portent les aromates qu'elles avaient préparées. Elles ne savent pas que la résurrection s'est déjà produite. Elles viennent simplement honorer le mort.",
+            "« Le premier jour de la semaine, elles se rendirent au sépulcre de grand matin, portant les aromates qu'elles avaient préparés. Elles trouvèrent la pierre roulée de devant le sépulcre. » Luc 24:1-2"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Les femmes arrivent avec une tâche ordinaire - honorer le corps de Jésus avec les aromates. Mais elles trouvent quelque chose d'extraordinaire: la pierre qui fermait le sépulcre a été roulée. Elles entrent et découvrent que le corps n'est pas là.",
+            "Et alors, deux hommes dans des vêtements resplendissants leur apparaissent. Les femmes ont peur. Elles baissent la tête. Et les hommes disent: « Pourquoi cherchez-vous parmi les morts celui qui est vivant? Il n'est point ici, mais il est ressuscité. »",
+            "C'est un moment de transformation totale. Ce que les femmes pensaient être la fin - la mort de Jésus - s'avère être un commencement. Ce qu'elles venaient honorer comme un mort s'avère être vivant.",
+            "Et c'est à ces femmes que cette nouvelle est d'abord annoncée. Pas aux disciples mâles qui se cachent. Pas aux autorités religieuses. Aux femmes. Aux femmes qui sont restées fidèles. Aux femmes qui ont préparé les aromates. Aux femmes qui ont attendu. Elles sont les premières à entendre que Jésus est ressuscité."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Ces femmes sont arrivées au sépulcre le cœur lourd avec un travail ordinaire. Elles ne s'attendaient à aucun miracle. Elles s'attendaient seulement à honorer les morts. Quelle a été votre réaction quand vous avez lu comment tout a changé en un instant? Comment la résurrection change votre perspective sur la mort et sur le chagrin?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 24:6",
+              "book_code": "LUK",
+              "chapter": 24,
+              "verses": "6",
+              "translation": "Louis Segond 1910",
+              "text": "Il n'est point ici, mais il est ressuscité."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, tu es ressuscité! Ce que nous pensions être la fin était réellement un commencement. Merci de nous faire connaître ta résurrection, merci de nous donner l'espérance qu'aucune mort, aucune fin, ne peut nous séparer de ton amour. Et merci d'avoir confié d'abord cette nouvelle aux femmes - celles qui avaient attendu, qui avaient été fidèles, qui s'étaient souvenettes de ton amour même au moment où tout semblait perdu. Aide-nous à être comme ces femmes - fidèles, attentives, prêtes à recevoir ta résurrection. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "day_label": "Jour 19",
+      "title": "Elles Se Sont Souventies de Ses Paroles",
+      "subtitle": "Elles se souvenaient de ce qu'il avait dit. Et cette mémoire transforme leur compréhension de tout ce qui avait semblé être la fin.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 24:6-8",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "6-8",
+            "translation": "Louis Segond 1910",
+            "text": "Il n'est point ici, mais il est ressuscité. Souvenez-vous de la manière dont il vous a parlé, lorsqu'il était encore en Galilée, et qu'il disait: Il faut que le Fils de l'homme soit livré, qu'il soit crucifié, et qu'il ressuscite le troisième jour. Elles se souvinrent de ses paroles."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Les anges disent aux femmes: « Souvenez-vous de la manière dont il vous a parlé, lorsqu'il était encore en Galilée. » Et les femmes se souviennent. Elles se souviennent de ses paroles. Et cette mémoire transforme tout.",
+            "« Elles se souvinrent de ses paroles. » Luc 24:6-8"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Ce qui est remarquable, c'est que Jésus avait déjà dit aux disciples qu'il allait être crucifié et ressuscité le troisième jour. Mais ils ne l'avaient pas compris. Ou peut-être qu'ils l'avaient compris intellectuellement, mais ils n'y avaient pas cru. Ils n'avaient pas pu imaginer la résurrection.",
+            "Mais maintenant, face à la pierre roulée et au sépulcre vide, les femmes se souviennent. **Elles se souvinrent de ses paroles.** Et cette mémoire change le sens de ce qu'elles voient. Elles ne voient pas une tragédie inexplicable. Elles voient l'accomplissement.",
+            "Il y a quelque chose de profond dans le pouvoir de la mémoire. Quand nous nous souvenons de ce que Dieu a dit, quand nous relions les promesses du passé aux réalités du présent, quelque chose se transforme en nous. Ce que nous vîmes comme une fin soudain devient un commencement. Ce que nous pensions être une défaite devient une victoire."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Quelles paroles de Jésus avez-vous entendu que vous avez oubliées ou dont vous avez douté? Comment pourrait-il aider si vous vous souveniez de ses promesses spécifiques maintenant?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 9:22",
+              "book_code": "LUK",
+              "chapter": 9,
+              "verses": "22",
+              "translation": "Louis Segond 1910",
+              "text": "Il faut, dit-il, que le Fils de l'homme souffre beaucoup, qu'il soit rejeté par les anciens, qu'il soit mis à mort, et qu'il ressuscite le troisième jour."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, donne-nous une mémoire fidèle. Aide-nous à nous souvenir de tes paroles - les promesses que tu as faites, les assurances que tu nous as données. Et quand nous affrontons ce qui semble être la fin, aide-nous à nous souvenir. À reconnaître comment tes paroles s'accomplissent de manière que nous ne pouvions pas imaginer. Remplis-nous de la foi des femmes qui se sont souventies et qui ont cru. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "day_label": "Jour 20",
+      "title": "Les Femmes qui Ont Annoncé la Nouvelle",
+      "subtitle": "Elles quittent le sépulcre et elles retournent annoncer tout à tous. Elles deviennent les porteuses de la plus grande nouvelle jamais entendue.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 24:9",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "9",
+            "translation": "Louis Segond 1910",
+            "text": "Elles quittèrent le sépulcre, et retournèrent annoncer toutes ces choses aux onze et à tous les autres."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Après avoir entendu la nouvelle de la résurrection, les femmes ne la gardent pas pour elles. Elles retournent et annoncent la nouvelle à tous - aux apôtres et à d'autres.",
+            "« Elles quittèrent le sépulcre, et retournèrent annoncer toutes ces choses aux onze et à tous les autres. C'étaient Marie Madeleine, Jeanne et Marie, mère de Jacques. Les autres femmes aussi qui étaient avec elles annoncèrent ces choses aux apôtres. » Luc 24:9-11"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "C'est un moment crucial. Les femmes deviennent les premières apôtres - les premières porteuses de la nouvelle du Christ ressuscité. Elles ne prêchent pas un sermon théologique. Elles disent simplement: « Il est ressuscité. Nous l'avons vu. Nous avons entendu les anges.»",
+            "Et cependant, écoutez la réponse des apôtres: « Mais ce discours leur parut du radotage, et ils ne les crurent point. » Les disciples, les hommes qui avaient suivi Jésus pendant trois ans, ne croient pas immédiatement. Ils trouvent les paroles des femmes incroyables, folles même.",
+            "Mais les femmes annoncent quand même. Elles ne sont pas découragées par l'incrédulité initiale. Elles disent ce qu'elles savent. Elles témoignent de ce qu'elles ont vu et entendu.",
+            "Cette histoire nous dit quelque chose d'important sur le témoignage. Parfois, nous sommes appelées à annoncer la nouvell du Christ même quand on ne nous croit pas. Même quand notre message semble fou aux autres. Même quand ceux qui devraient savoir - les disciples, les autorités - nous rejettent. Nous annonçons quand même, parce que nous savons ce que nous avons vu et entendu."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Les femmes ont annoncé la résurrection même quand on ne les croyait pas. Comment avez-vous connu l'expérience de témoigner quand personne ne semble croire? Avez-vous continué à annoncer quand même?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 24:11",
+              "book_code": "LUK",
+              "chapter": 24,
+              "verses": "11",
+              "translation": "Louis Segond 1910",
+              "text": "Mais ce discours leur parut du radotage, et ils ne les crurent point."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, tu as choisi ces femmes pour annoncer ta résurrection. Tu les as choisies malgré - ou peut-être à cause de - la façon dont le monde les regardait. Remplis-nous du courage de ces femmes. Aide-nous à annoncer ce que nous savons être vrai, même quand on ne nous croit pas. Donne-nous une voix pour crier la bonne nouvelle. Et merci de nous avoir fait confiance avec ce message. Merci de nous avoir faites tes témoins. Amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "day_label": "Jour 21",
+      "title": "Voir Jésus à Travers Ces Femmes",
+      "subtitle": "À travers les yeux de ces 21 femmes, nous avons une vision de qui Jésus est vraiment. Et cette vision change nos vies.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset central",
+          "verse": {
+            "display": "Luc 24:22",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "22",
+            "translation": "Louis Segond 1910",
+            "text": "De plus, quelques femmes d'entre nous nous ont étonnés; elles se sont rendues au sépulcre de grand matin."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Ouverture du jour",
+          "paragraphs": [
+            "Nous arrivons à la fin de ce voyage de 21 jours à travers les femmes de l'Évangile de Luc. En voyageant avec ces femmes - des noms comme Marie et Élisabeth, Anne et la belle-mère de Pierre, la femme à la fièvre, la femme avec l'hémorragie, la veuve, la femme courbée - nous avons entrevu une personne. Jésus.",
+            "Chacune de ces femmes vit Jésus différemment. Mais à travers elles, une image se révèle."
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Pensez à ce que ces femmes nous ont montré. Marie nous a montré que la foi commence avant la clarté, que l'obéissance est possible même quand on ne voit pas la route entière. Élisabeth nous a montré qu'il y a une beauté dans la reconnaissance du travail de Dieu chez quelqu'un d'autre. La femme avec l'hémorragie nous a montré qu'un simple geste - toucher le bord de son vêtement - peut changer toute une vie.",
+            "La mère de Pierre s'est levée et a servi. Les femmes qui ont soutenu Jésus ont montré qu'il n'y a pas de travail sans importance si c'est fait par amour. La femme courbée pendant 18 ans nous a montré que même quand nous avons renoncé, Jésus n'a pas renoncé. Il nous voit. Il nous appelle.",
+            "La veuve qui a persisté pour demander la justice nous a montré que la prière peut sembler inutile, mais Dieu est juste. Et les femmes à la croix - elles nous ont montré une fidélité qui persiste même quand tout semble perdu."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Pendant ta lecture aujourd'hui",
+          "paragraphs": [
+            "Relisez les 20 histoires des femmes dans ce plan. Laquelle résonne le plus avec vous maintenant? Pourquoi? Et comment ces femmes vous ont-elles aidées à voir Jésus de manière nouvelle?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets complémentaires",
+          "verses": [
+            {
+              "display": "Luc 8:1-3",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "1-3",
+              "translation": "Louis Segond 1910",
+              "text": "Ensuite, Jésus se mettait en chemin par les villes et les villages, prêchant et annonçant la bonne nouvelle du royaume de Dieu. Les douze étaient avec lui, et aussi plusieurs femmes qui avaient été guéries d'esprits malins et de maladies: Marie, dite Madeleine, Jeanne, femme de Chusa, Suzanne, et plusieurs autres, qui l'assistaient de leurs biens."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, à travers ces 21 femmes, nous avons vu qui tu es vraiment. Nous t'avons vu comme le Dieu qui voit, qui remarque, qui honore, qui guérit et qui restaure. À travers ces femmes, nous avons compris que tu nous vois aussi. Tu nous honores aussi. Tu nous guéris. Tu nous restaures. Tu nous ressuscites. Remplis-nous de la gratitude pour ce voyage. Et aide-nous à porter cette vision - cette compréhension claire et profonde de qui tu es - avec nous chaque jour. Aide-nous à être comme ces femmes. Aide-nous à dire oui, même avant de comprendre. Aide-nous à persister, même quand tout semble perdu. Aide-nous à témoigner, même quand on ne nous croit pas. Et quand nous sommes affaiblis, guérissez-nous. Quand nous sommes courbés sous le fardeau, redressez-nous. Quand nous sommes morts à l'espoir, ressuscitez-nous. Merci de nous avoir amenées près de toi par ces 21 femmes remarquables. Au nom de Jésus, amen.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

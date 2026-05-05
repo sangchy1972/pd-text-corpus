@@ -1,0 +1,255 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG10",
+    "slug": "no-one-understands",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardín de las Emociones",
+      "secondary": "loneliness-emptiness",
+      "secondary_label": "Soledad y Vacío"
+    },
+    "tags": [
+      "soledad",
+      "vacio",
+      "pertenencia",
+      "presencia-de-dios",
+      "comunion"
+    ],
+    "title": "Cuando Nadie Realmente Entiende",
+    "subtitle": "Para la mujer que no está necesariamente sola, pero aún anhela sentirse verdaderamente comprendida.",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "sola",
+        "vacía",
+        "invisible"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Para la mujer que no está necesariamente sola, pero aún anhela sentirse verdaderamente comprendida.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#C8D2DA",
+      "color_secondary": "#4A5563",
+      "image_key": "cover_woman_quiet_room_lamp_evening_loneliness",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Génesis 16:13",
+        "book_code": "GEN",
+        "chapter": 16,
+        "verses": "13"
+      },
+      {
+        "display": "Salmo 68:6",
+        "book_code": "PSA",
+        "chapter": 68,
+        "verses": "6"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "La Soledad Más Profunda No Es la Falta de Gente, sino la Falta de Ser Conocida",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Génesis 16:13",
+            "book_code": "GEN",
+            "chapter": 16,
+            "verses": "13",
+            "translation": "Reina-Valera 1909",
+            "text": "Entonces llamó al nombre de Jehová que con ella hablaba: Tú eres el Dios que ve; porque dijo: ¿No he visto yo aquí al que me ve?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La soledad a menudo se imagina como un aislamiento obvio: comer solo, caminar a casa solo, no tener a nadie a quien llamar. Pero muchas mujeres experimentan algo más silencioso y confuso. Están rodeadas de gente y aún se sienten profundamente solas. Son necesarias, incluidas, se les habla, incluso se depende de ellas, pero llevan el dolor privado de no ser profundamente conocidas. Saben lo que es mantener el funcionamiento mientras se sienten interiormente intactas.",
+            "Ese tipo de soledad puede ser especialmente dolorosa porque es fácil de descartar. Puede decirse a sí misma que debe estar agradecida porque técnicamente no está sola. Puede minimizar el dolor porque otras personas no entenderían por qué se siente sola en una vida llena. Pero la Escritura hace espacio para este tipo de dolor. El Salmo 25 no dice: \"Estoy ocupada y tengo éxito.\" Dice: \"Estoy desolada y afligida.\" Dios no trata la soledad como un melodrama. La recibe como algo digno de Su atención.",
+            "**La soledad más profunda no siempre es la falta de gente. Es la falta de ser verdaderamente conocida.** Esa verdad puede traer claridad y alivio. Significa que no es débil sentirse sola en una vida llena. Está nombrando una verdadera clase de hambre.",
+            "La historia de Agar importa aquí porque se encuentra con Dios en un lugar de abandono y lo nombra como el Dios que ve. Esa es una respuesta santa a una de las heridas más profundas de la soledad. El dolor más profundo a menudo no es simplemente la ausencia de compañía. Es el dolor de no ser verdaderamente visto. Las personas pueden ver su función, utilidad, fortaleza o sonrisa sin ver el dolor, la fatiga o el hambre debajo. Pero Dios ve más profundamente de lo que la atención humana jamás puede.",
+            "Hoy, no se apresure a remediar la soledad. Nómbrenla ante Dios. Cuéntele cuándo se siente más invisible. **La sanación a menudo comienza cuando la soledad deja de ser negada y comienza a ser traída a la presencia del Dios que ve.** No está de pie a distancia de su dolor. Ya está mirándolo directamente con compasión."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Dios que me ves, admito que he estado verdaderamente sola. No porque esté completamente sin gente, sino porque hay lugares en mí que aún se sienten profundamente desconocidos. Te doy gracias porque no solo ves el exterior de mi vida. También ves lo que no he dicho en voz alta. Hoy traigo esta soledad ante Ti en lugar de pasarla por alto o exigirme que rápidamente me sienta mejor. Encuéntrame en los lugares donde me siento más invisible. Hazme saber que no soy invisible, no soy olvidada, y no soy pasada por alto en Tu presencia. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Génesis 16:13",
+              "book_code": "GEN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "Reina-Valera 1909",
+              "text": "Entonces llamó al nombre de Jehová que con ella hablaba: Tú eres el Dios que ve; porque dijo: ¿No he visto yo aquí al que me ve?"
+            },
+            {
+              "display": "Salmo 25:16",
+              "book_code": "PSA",
+              "chapter": 25,
+              "verses": "16",
+              "translation": "Reina-Valera 1909",
+              "text": "Vuélvete a mí, y ten de mí piedad; porque estoy solo y afligido."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Lo Que Está Vacío Adentro No Sana Simplemente Porque la Vida Se Vea Llena",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Lucas 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "Reina-Valera 1909",
+            "text": "Respondiendo Jesús, le dijo: Marta, Marta, afanada y turbada estás con muchas cosas. Pero sólo una cosa es necesaria; y María ha escogido la buena parte, la cual no le será quitada."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas mujeres no se sienten vacías porque la vida les falte actividad. Se sienten vacías en medio de vidas muy llenas. Sus días están repletos de trabajo, familia, mensajes, responsabilidades, trabajo emocional y expectativas. Desde afuera, pueden parecer estables, productivas, generosas y capaces. Sin embargo, hay momentos en que toda esa plenitud no logra calmar el dolor debajo. Una vida llena puede llenar el tiempo sin llenar el corazón.",
+            "La historia de Marta es profundamente relevante aquí. No es indiferente ni perezosa. Es atenta, responsable y está ocupada con cosas significativas. Sin embargo, Jesús le dice que mientras está preocupada por muchas cosas, una cosa es necesaria. No se está burlando de su esfuerzo. Está nombrando un problema más profundo: es posible estar lleno de actividad y aún estar espiritualmente descentrado. Es posible llevar una vida significativa y aún sentirse hueco adentro.",
+            "**Lo que está vacío adentro no sana simplemente porque la vida se vea llena.** Esa realización puede parecer seria, pero también es liberadora. Significa que no tiene que avergonzarse de aún sentirse vacía. Simplemente puede estar intentando tratar un hambre espiritual con actividad externa.",
+            "El Eclesiastés dice que Dios ha puesto la eternidad en el corazón humano. Eso significa que hay un anhelo en nosotros que la productividad, la aprobación, las relaciones o la utilidad no pueden satisfacer completamente. Cierta vacuidad permanece porque el alma está alcanzando algo más profundo de lo que la plenitud externa puede proporcionar.",
+            "Hoy, pregúntese con suavidad: ¿qué he estado usando para evitar sentir el vacío? **Cuando el corazón deja de esconderse detrás de la ocupación, puede comenzar a recibir lo que verdaderamente necesita.** Dios no lo está acusando por estar cansado o abrumado. Lo está invitando a dejar de llenar cada espacio abierto el tiempo suficiente para permitirle cumplir el hambre debajo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, admito que mi vida es a menudo muy llena, pero algo en mí aún se siente vacío. Te doy gracias porque no ignoras los lugares huecos de mi corazón simplemente porque aún parezco funcional. Ayúdame a dejar de intentar llenarme solo con ocupación y responsabilidad. Dame honestidad para admitir que algunas de mis necesidades más profundas no pueden ser satisfechas por un horario más lleno o mejor desempeño. Enséñame a no temer la quietud, y no dejes que siga cubriendo lo que solo Tú puedes abordar. Ven a los lugares más inquietos dentro de mí, y permite que mi corazón comience a reposar en Ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Lucas 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "Reina-Valera 1909",
+              "text": "Respondiendo Jesús, le dijo: Marta, Marta, afanada y turbada estás con muchas cosas. Pero sólo una cosa es necesaria; y María ha escogido la buena parte, la cual no le será quitada."
+            },
+            {
+              "display": "Eclesiastés 3:11",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "11",
+              "translation": "Reina-Valera 1909",
+              "text": "Todo lo hizo hermoso en su tiempo; y ha puesto eternidad en el corazón de ellos, aunque sin que alcance el hombre a entender la obra que ha hecho Dios desde el principio hasta el fin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "El Corazón Sigue Buscando un Hogar Hasta Que Encuentra Descanso en Dios",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 68:6",
+            "book_code": "PSA",
+            "chapter": 68,
+            "verses": "6",
+            "translation": "Reina-Valera 1909",
+            "text": "Dios hace habitar en casa a los desamparados; saca a los cautivos a prosperidad; mas los rebeldes habitan en tierra seca."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Uno de los anhelos humanos más profundos no es simplemente la compañía, sino un hogar. No solo queremos que alguien esté cerca de nosotros; queremos un lugar donde el corazón pueda asentarse. Muchas mujeres conocen el agotamiento de intentar encontrar ese sentido de hogar en relaciones, utilidad, aprobación o ser necesarias. Estas cosas pueden ser significativas y hermosas, pero ninguna de ellas puede llevar con seguridad el peso completo de la búsqueda del alma por pertenencia.",
+            "Por eso la Escritura habla con tal poder cuando dice que Dios pone al solitario en familias y que Cristo mora en nuestros corazones por fe. La respuesta de Dios a la soledad no es meramente: \"Vendrá a visitarlo a veces.\" Es: \"Haré Mi hogar en usted.\" Esto lo cambia todo. Significa que la pertenencia ya no depende solo de la consistencia humana, la cercanía humana o la comprensión humana. Esas cosas aún importan, pero ya no se les pide que se conviertan en su refugio último.",
+            "**El corazón sigue buscando un hogar hasta que encuentra descanso en Dios.** Eso no es solo un pensamiento poético. Es una verdad vivida. Cuando el corazón no tiene un lugar de verdadero descanso, sigue alcanzando hacia afuera por algo que lo asegure. Se aferra a la tranquilidad, el reconocimiento, la atención o la cercanía. Pero cuando Cristo comienza a morar más profundamente dentro de usted, el alma comienza a aprender otro tipo de firmeza.",
+            "Esto no significa que deje de anhelar relaciones saludables. Significa que su estabilidad más profunda ya no depende completamente de ellas. **Cuando Dios se convierte en el hogar del corazón, la soledad pierde su poder absoluto para definirlo.** Puede que aún sienta el dolor de ser incomprendido, pero ya no está espiritualmente sin hogar.",
+            "Hoy, ore simplemente: \"Señor, deja que la parte de mí que sigue buscando hogar comience a descansar en Ti.\" Ese no es el final de toda soledad, pero es el comienzo de una pertenencia más profunda."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, sabes que mi corazón ha estado buscando un hogar. Muy a menudo he creído que si tuviera más compañía, más comprensión o más tranquilidad, el vacío finalmente desaparecería. Te doy gracias por recordarme hoy que el verdadero descanso viene no solo de lo que tengo alrededor, sino de quién habita dentro de mí. Ven y haz Tu hogar más profundamente en mi corazón. Establece las partes de mí que siguen buscando en otro lado la pertenencia. Guárdame de pedirle a las personas que carguen con lo que solo Tú puedes sostener, y déjame aprender lo que significa estar en casa en Ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 68:6",
+              "book_code": "PSA",
+              "chapter": 68,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Dios hace habitar en casa a los desamparados; saca a los cautivos a prosperidad; mas los rebeldes habitan en tierra seca."
+            },
+            {
+              "display": "Efesios 3:17-19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "17-19",
+              "translation": "Reina-Valera 1909",
+              "text": "Para que habite Cristo por la fe en vuestros corazones... y de conocer el amor de Cristo, que excede a todo conocimiento, para que seáis llenos de toda la plenitud de Dios."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

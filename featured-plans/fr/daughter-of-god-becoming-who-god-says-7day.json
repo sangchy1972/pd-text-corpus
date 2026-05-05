@@ -1,0 +1,508 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI03",
+    "slug": "becoming-who-god-says",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rôles et Identité",
+      "secondary": "daughter-of-god",
+      "secondary_label": "Fille de Dieu"
+    },
+    "tags": [
+      "identite",
+      "appartenance",
+      "fille-de-dieu",
+      "valeur-propre",
+      "etiquettes",
+      "comparaison"
+    ],
+    "title": "Devenir celle que Dieu dit que tu es",
+    "subtitle": "Guérir du perfectionnisme, du besoin de plaire et du doute envers soi",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "en quête d'identité",
+        "lasse de la comparaison",
+        "aspirant à être connue"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces sept jours nous approfondissent le chemin à travers le besoin de plaire, le perfectionnisme et ce sentiment chronique de ne pas être assez, pour nous aider à devenir plus stable, plus honnête et plus enracinée dans celle que Dieu dit que tu es.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#E8C5D8",
+      "color_secondary": "#5A2B47",
+      "image_key": "cover_woman_quiet_morning_window_belonging",
+      "icon": "open-hands-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Romains 12:2",
+        "book_code": "ROM",
+        "chapter": 12,
+        "verses": "2"
+      },
+      {
+        "display": "2 Corinthiens 5:17",
+        "book_code": "2CO",
+        "chapter": 5,
+        "verses": "17"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Je me suis habituée à m'expliquer par la performance",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Romains 12:2",
+            "book_code": "ROM",
+            "chapter": 12,
+            "verses": "2",
+            "translation": "Louis Segond 1910",
+            "text": "Ne vous conformez pas au siècle présent, mais soyez transformés par le renouvellement de l'intelligence..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Nous n'avouons pas toujours que nous vivons par la performance.",
+            "Parfois cela ressemble simplement à être responsable, fiable, disciplinée, bienveillante, émotionnellement stable et travailleuse. En surface, cela peut même ressembler à la maturité. Mais ce qui rend cette façon de vivre si épuisante, c'est la pression intérieure qui la sous-tend. Nous ne faisons pas simplement de notre mieux. Nous utilisons silencieusement notre effort pour expliquer qui nous sommes. Si je réussis bien, je me sens plus en sécurité. Si je reste utile, je me sens plus sécurisée. Si je déçois les gens, quelque chose en moi commence à paniquer.",
+            "C'est pourquoi ce genre d'effort use l'âme. Ce n'est pas seulement une question de travail. C'est une question d'identité. Romains 12 dit que nous ne devons pas nous conformer à ce monde, mais être transformées par le renouvellement de notre esprit. Une partie de ce renouvellement, c'est apprendre à ne pas laisser la performance répondre à la question de qui nous sommes. Le monde nous enseigne à construire notre identité à partir de résultats visibles, d'approbation et de réussite. Dieu commence plus profondément que cela. Il nous enseigne à nous voir d'un nouveau centre.",
+            "Je crois que beaucoup d'entre nous connaissons la fatigue d'essayer de maintenir une version de nous-mêmes qui semble toujours acceptable. Mais le Christ ne commence pas par l'accusation. Il commence par l'invitation. Tu n'as pas besoin de continuer à t'expliquer par la performance.",
+            "**Le renouvellement commence souvent quand la performance cesse d'être notre principale réponse à la question de qui nous sommes.** Aujourd'hui, demande-toi honnêtement : si je ne réussis pas bien, qu'ai-je peur de perdre ? Laisse cette réponse venir à la lumière. Dieu n'essaie pas de te faire honte de cette peur. Il essaie de la guérir."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je confesse que j'utilise souvent la performance pour m'expliquer. Quand je réussis bien, je me sens plus en sécurité, et quand je réussis mal, je commence à douter de qui je suis. Renouvelle mon esprit et libère-moi de vivre selon les mesures que ce monde me donne. Montre-moi aussi ma peur la plus profonde et apporte cette peur devant toi. Merci de ne pas me définir par les résultats. Tu dis que je suis ton ouvrage, fait de ta propre main. Apprends-moi à me connaître à partir de cette place. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Romains 12:2",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "Ne vous conformez pas au siècle présent, mais soyez transformés par le renouvellement de l'intelligence..."
+            },
+            {
+              "display": "Éphésiens 2:10",
+              "book_code": "EPH",
+              "chapter": 2,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Car nous sommes son ouvrage, ayant été créés en Jésus Christ..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Pourquoi j'ai si peur de décevoir les gens",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Galates 1:10",
+            "book_code": "GAL",
+            "chapter": 1,
+            "verses": "10",
+            "translation": "Louis Segond 1910",
+            "text": "Et maintenant, est-ce la faveur des hommes que je désire, ou celle de Dieu ? Cherché-je à plaire aux hommes ?..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certains d'entre nous sommes fatigués non pas parce que nous sommes paresseux, mais parce que nous avons profondément peur de décevoir les gens.",
+            "Nous apprenons rapidement à lire la atmosphère, à nous adoucir, à absorber la tension, à gérer les émotions et à nous assurer que tout reste stable. Au fil du temps, le besoin de plaire ne ressemble pas toujours à quelque chose de dramatique. Cela peut ressembler à être attentionné, facile à côtoyer, émotionnellement conscient et infiniment accommodant. Mais en dessous, il y a souvent une peur silencieuse : si j'arrête de faire ceci, serai-je toujours aimée ? Serai-je toujours en sécurité ? Appartiendrai-je toujours ?",
+            "Galates 1 pose une question aiguë mais importante : cherche-je à plaire aux hommes ou à Dieu ? Cette question atteint au-delà du comportement et pénètre la dépendance. Beaucoup de formes de besoin de plaire ne sont pas animées par la vanité mais par la peur. Peur du rejet. Peur du conflit. Peur d'être mal comprise. Peur de devenir moins importante pour les gens que nous aimons. Le Christ n'expose pas cette peur pour nous embarrasser. Il l'amène à la lumière afin que nous n'ayons plus à construire notre identité en gérant la réaction de chacun.",
+            "Peut-être que la partie la plus difficile est d'admettre combien notre paix dépend de maintenir les gens satisfaits. Mais Dieu est patient avec nous à cet égard. Il ne demande pas d'abord de la dureté. Il offre la sécurité. Intérieur à son amour, nous devenons lentement plus libres d'être honnêtes, plus libres de fixer des limites et plus libres de rester aimés sans nous rendre infiniment commodes.",
+            "**Le besoin de plaire est souvent moins une question d'aimer bien les autres et plus une question de craindre la perte de l'amour.** Aujourd'hui, demande-toi : dont la déception me semble la plus difficile à supporter, et pourquoi ? Laisse cette question découvrir ce sur quoi ton cœur s'est appuyé. Non pas pour te condamner, mais pour que Dieu puisse te rencontrer là."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je confesse que j'ai peur de décevoir les gens. Souvent, je m'inquiète d'abord des sentiments des autres, de leurs réactions, de leur satisfaction, comme si c'était là que vit ma sécurité. Aide-moi à voir honnêtement ce que j'ai si peur de perdre. Retire-moi aussi du piège de la crainte des hommes, et apprends-moi à ne pas lier ma paix à la réaction de chacun. Merci de ne m'aimer que parce que je te maintiens satisfait. Que ton amour devienne ma nouvelle sécurité. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Galates 1:10",
+              "book_code": "GAL",
+              "chapter": 1,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Et maintenant, est-ce la faveur des hommes que je désire, ou celle de Dieu ? Cherché-je à plaire aux hommes ?..."
+            },
+            {
+              "display": "Proverbes 29:25",
+              "book_code": "PRO",
+              "chapter": 29,
+              "verses": "25",
+              "translation": "Louis Segond 1910",
+              "text": "La crainte des hommes est un piège, mais celui qui se confie en l'Eternel est protégé."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Le perfectionnisme est souvent une autre forme de peur",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "2 Corinthiens 12:9",
+            "book_code": "2CO",
+            "chapter": 12,
+            "verses": "9",
+            "translation": "Louis Segond 1910",
+            "text": "Et il m'a dit : Ma grâce te suffit, car ma puissance s'accomplit dans la faiblesse..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Le perfectionnisme ressemble souvent à des normes élevées, mais en dessous, c'est généralement une peur élevée.",
+            "Nous nous disons que nous nous soucions simplement profondément, que nous voulons bien faire les choses, que nous voulons devenir meilleurs, que nous voulons être responsables. Rien de cela n'est mal. Mais quand même les petites erreurs nous font plonger dans la honte, quand l'incertitude nous rend agités et quand l'imperfection semble presque insupportable, quelque chose de plus profond se produit. Nous n'essayons pas seulement de bien faire. Nous essayons de nous protéger de ce que l'échec semble signifier.",
+            "2 Corinthiens 12 offre une toute autre sorte de sécurité. Dieu dit : « Ma grâce te suffit, car ma puissance s'accomplit dans la faiblesse. » Nous entendons souvent le mot « parfait » et imaginons l'absence de défaut. Mais l'idée de Dieu de la complétude n'est pas notre invulnérabilité. C'est sa puissance nous rencontrant dans nos limites. C'est une façon très différente de vivre. Le perfectionnisme garde l'âme tendue. La grâce enseigne à l'âme à respirer.",
+            "Je crois que beaucoup d'entre nous connaissons le sentiment de faire quelque chose de façon raisonnablement bien et de toujours être incapables de nous reposer. Nous revisionist la conversation, réécrivons le travail, rejouons le moment et nous nous grondons silencieusement bien longtemps après que tout le monde d'autre a avancé. Le perfectionnisme ne crée pas vraiment la paix. Il nous entraîne seulement à dépendre davantage du contrôle.",
+            "**Dieu ne nous offre pas une vie sans fissures. Il nous offre une vie tenue ensemble par la grâce, même dans notre faiblesse.** Aujourd'hui, remarque ce qui a déclenché le plus fortement ce sentiment « je ne peux pas me tromper ». Demande-toi ce que tu crains qui arriverait si tu n'étais pas parfait là. Parfois nommer la peur est comment nous commençons à recevoir la grâce."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je confesse que je vis souvent avec la tension de sentir que je ne peux pas me tromper. Je continue de penser que si j'étais plus parfaite, je me sentirais plus en sécurité, plus stable et moins peur. Mais aujourd'hui tu me rappelles que tu ne m'as jamais demandé de trouver la paix par la sans-défaut. Merci de connaître ma nature et de te souvenir que je suis poussière. Apprends-moi à ne pas me tenir ensemble par le contrôle et la perfection, mais à m'appuyer plus profondément sur ta grâce dans ma faiblesse. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "2 Corinthiens 12:9",
+              "book_code": "2CO",
+              "chapter": 12,
+              "verses": "9",
+              "translation": "Louis Segond 1910",
+              "text": "Et il m'a dit : Ma grâce te suffit, car ma puissance s'accomplit dans la faiblesse..."
+            },
+            {
+              "display": "Psaume 103:14",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "14",
+              "translation": "Louis Segond 1910",
+              "text": "Car il sait de quoi nous sommes formés, il se souvient que nous sommes poussière."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Ce que j'ai vraiment peur de perdre quand je me sens pas assez",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 23:1",
+            "book_code": "PSA",
+            "chapter": 23,
+            "verses": "1",
+            "translation": "Louis Segond 1910",
+            "text": "L'Eternel est mon berger ; je ne manquerai de rien."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La sensation de ne pas être assez n'est souvent pas la conclusion finale. C'est la porte d'entrée.",
+            "Quand nous disons que nous ne sommes pas assez belles, compétentes, spirituelles, choisies ou aimables, cela peut ressembler à une simple auto-évaluation. Mais en dessous, il y a généralement quelque chose de plus profond : la peur de ne pas être voulue, la peur de ne pas être choisie, la peur de ne pas être retenue, la peur que même notre mieux ne nous rendra jamais vraiment dignes. C'est en partie pourquoi le sentiment de ne pas être assez peut sembler si persistant. C'est rarement seulement une question de carence. C'est souvent une question de perte.",
+            "Le Psaume 23 dit : « L'Eternel est mon berger ; je ne manquerai de rien. » Ce n'est pas une simple réassurance. C'est une redéfinition du manque. Notre instinct est souvent de répondre à ne-pas-être-assez en cherchant vers l'extérieur quelque chose qui le calmera enfin. Mais Dieu nous ramène d'abord à la relation. La réponse la plus profonde à notre manque n'est pas toujours plus de possession, plus d'approbation ou plus de preuve. C'est savoir qui nous conduit, qui nous garde et qui nous appelle précieux.",
+            "Une étape importante est de ne pas argumenter avec le sentiment trop rapidement. Écoute-le. De quoi a-t-il peur ? Qu'est-ce qu'il pense sera perdu si tu n'es pas assez ? Le Christ n'est pas menacé par ces questions. Très souvent, c'est là, dans les endroits les plus fragiles, que son réconfort devient le plus personnel.",
+            "**Une grande partie de notre ne-pas-être-assez dit vraiment : j'ai peur peut-être de ne pas être digne d'amour.** Aujourd'hui, quand ce sentiment remonte, ne te dépêche pas de le réduire au silence. Pose une autre question en dessous : si je n'étais vraiment pas assez, qu'ai-je peur de perdre ? Puis dis à Dieu la réponse. C'est peut-être exactement le lieu où Il veut te rencontrer le plus tendrement."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je confesse que les mots « je ne suis pas assez » vivent souvent près de la surface de mon cœur. Aujourd'hui, aide-moi à ne pas m'arrêter à la surface. Montre-moi la peur plus profonde en dessous de ce sentiment. Peut-être ce que je crains le plus n'est pas simplement d'être insuffisante, mais d'être non-aimée, non-choisie ou non-chérie à cause de ce manque. Merci de ne pas me regarder lutter de loin. Tu es disposée à entrer dans les endroits les plus vulnérables en moi. Parle-moi là encore, et laisse-moi savoir que mon sentiment de manque ne peut pas annuler ton amour. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 23:1",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1",
+              "translation": "Louis Segond 1910",
+              "text": "L'Eternel est mon berger ; je ne manquerai de rien."
+            },
+            {
+              "display": "Sophonie 3:17",
+              "book_code": "ZEP",
+              "chapter": 3,
+              "verses": "17",
+              "translation": "Louis Segond 1910",
+              "text": "L'Eternel, ton Dieu, est au milieu de toi, puissant pour te sauver... Il exultera de joie à cause de toi..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "La vue de Dieu sur moi est plus vraie que la mienne",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jérémie 17:9",
+            "book_code": "JER",
+            "chapter": 17,
+            "verses": "9",
+            "translation": "Louis Segond 1910",
+            "text": "Le cœur est tortueux par-dessus toute chose, et pernicieux ; qui peut le connaître ?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Nous faisons souvent confiance à la voix critique en nous plus que nous le réalisons.",
+            "Sa voix est familière. Elle nous dit que nous ne sommes pas assez stables, attrayants, choisis, mûrs, lumineux ou sûrs pour être profondément aimés. Nous l'entendons si souvent qu'elle commence à ressembler à la discernement. Mais Jérémie nous rappelle que le cœur n'est pas toujours un interprète fiable de la vérité. Cela ne signifie pas que nous devrions nous mépriser. Cela signifie que notre auto-évaluation la plus dure n'est pas automatiquement la plus exacte.",
+            "Si nous écoutons seulement la voix la plus condamnante en nous, nous aurons du mal à vivre librement. L'Écriture nous donne une autre voix à placer à côté d'elle. 1 Pierre dit que nous sommes une génération élue, un sacerdoce royal, une nation sainte, un peuple particulier. La vue de Dieu sur nous n'est pas une exagération sentimentale. C'est la vérité parlée en Christ. Et parce que c'est la vérité, elle a le pouvoir de contester nos fausses auto-définitions.",
+            "Parfois la croissance n'est pas finalement de penser du bien de nous-mêmes. C'est d'apprendre à croire que Dieu nous connaît mieux que nous. Il voit nos faiblesses sans se détourner. Il voit notre dignité sans flatterie. Il connaît à la fois notre poussière et notre appel.",
+            "**La liberté commence souvent non pas quand nous admirons finalement nous-mêmes, mais quand nous commençons à croire que Dieu nous comprend plus fidèlement que nous ne nous comprenons.** Aujourd'hui, remarque la phrase que ta voix critique utilise le plus souvent. Puis place-la à côté de ce que Dieu dit. Laisse sa parole devenir plus lourde que ton accusation."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je confesse que j'ai souvent plus confiance aux mots critique en moi qu'à ton intention envers moi. Sauve-moi de ces auto-définitions familières mais non-vraies. Merci de parler des mots plus profonds, plus stables et plus véritables en Christ. Apprends-moi à croire que tu me connaît mieux que moi, et que tu sais comment m'aimer et me conduire plus fidèlement que moi. Garde-moi de vivre sous l'auto-condamnation, et laisse-moi lentement vivre l'identité que tu as déjà énoncée. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jérémie 17:9",
+              "book_code": "JER",
+              "chapter": 17,
+              "verses": "9",
+              "translation": "Louis Segond 1910",
+              "text": "Le cœur est tortueux par-dessus toute chose, et pernicieux ; qui peut le connaître ?"
+            },
+            {
+              "display": "1 Pierre 2:9",
+              "book_code": "1PE",
+              "chapter": 2,
+              "verses": "9",
+              "translation": "Louis Segond 1910",
+              "text": "Vous, au contraire, vous êtes une race élue, un sacerdoce royal, une nation sainte, un peuple acquis, afin que vous annonciez les vertus de celui qui vous a appelés des ténèbres à son admirable lumière..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "On grandit mieux dans la sécurité de l'amour de Dieu",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Jean 4:19",
+            "book_code": "1JN",
+            "chapter": 4,
+            "verses": "19",
+            "translation": "Louis Segond 1910",
+            "text": "Pour nous, nous l'aimons, parce qu'il nous a aimés le premier."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Parfois nous imaginons la croissance comme une évaluation constante.",
+            "Nous remarquons nos défauts, nous nous poussons plus fort, nous essayons de nous améliorer et tranquillement supposons que la maturité viendra par la pression. Mais quand la croissance est trop liée à la peur, l'âme devient tendue. Même la prière peut commencer à sembler gardée. Nous venons à Dieu déjà braced, déjà conscients de ce qui est toujours mal, déjà nous attendant à être corrigés avant de pouvoir être réconfortés. Ce genre d'effort peut produire de l'activité, mais il produit rarement un repos profond.",
+            "1 Jean dit : « Nous, nous l'aimons, parce qu'il nous a aimés le premier. » L'ordre importe. Dieu n'attend pas que nous devenions plus aimables, plus stables ou plus impressionnants spirituellement avant de donner son amour. Il aime d'abord, et à l'intérieur de cet amour nous apprenons à grandir. Dans la vie humaine, la sécurité rend la croissance possible. Un enfant grandit mieux où elle est solidement tenue. Il en est de même spirituellement. Le changement s'approfondit où l'amour est confiance.",
+            "Je suis de plus en plus convaincu que l'amour de Dieu n'est pas la récompense de la croissance. C'est l'environnement où la croissance se produit. Nous ne sommes pas forcés vers l'avant sous des attentes froides. Nous sommes formés dans les soins d'un Père. Cela ne nous rend pas insouciants. Cela nous rend honnêtes. Nous ne devons plus prétendre, et nos échecs n'ont plus à sembler comme la preuve finale contre notre identité.",
+            "**Ce qui nous aide à grandir le plus profondément n'est pas la tension constante, mais l'honnêteté à l'intérieur de la sécurité.** Aujourd'hui, ralentis l'envie de te transformer pour un moment, et prie à la place : Seigneur, aide-moi à connaître ton amour plus profondément. Souvent quand l'amour devient plus croyable, le changement devient aussi plus possible."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je transforme souvent la croissance en une pression, comme si j'avais besoin de m'améliorer rapidement, de me performer bien et de devenir plus spirituelle pour mériter ta joie. Apprends-moi à nouveau ce que signifie grandir dans l'amour. Merci de ne pas attendre que j'aille mieux avant de m'aimer. Tu m'as aimée d'abord, et tu me formes à partir de cet amour. Rends ton amour plus réel en moi, afin que je ne me pousse plus en avant par la tension, mais que j'apprenne l'honnêteté et la croissance dans la sécurité. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Jean 4:19",
+              "book_code": "1JN",
+              "chapter": 4,
+              "verses": "19",
+              "translation": "Louis Segond 1910",
+              "text": "Pour nous, nous l'aimons, parce qu'il nous a aimés le premier."
+            },
+            {
+              "display": "Éphésiens 3:17-19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "17-19",
+              "translation": "Louis Segond 1910",
+              "text": "En sorte que le Christ habite dans vos cœurs par la foi ; afin que vous soyez enracinés et fondés dans l'amour... et connaître l'amour de Christ, qui surpasse toute connaissance..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "Vivre celle que Dieu dit que je suis",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "2 Corinthiens 5:17",
+            "book_code": "2CO",
+            "chapter": 5,
+            "verses": "17",
+            "translation": "Louis Segond 1910",
+            "text": "Si quelqu'un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées ; voici, toutes choses sont devenues nouvelles."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Au septième jour, les vieilles voix peuvent encore revenir.",
+            "La comparaison peut encore visiter. Le besoin de plaire peut encore se répéter. Le perfectionnisme peut encore serrer son étreinte dans certains moments. Le sentiment de ne pas être assez peut ne pas disparaître simplement parce que sept jours ont passé. Mais Dieu n'essaie pas de nous transformer en femmes qui ne vacillent jamais. Il nous donne un nouveau centre, quelque chose de plus profond que l'approbation externe, plus stable que le doute de soi, et plus durable que les vieilles habitudes.",
+            "2 Corinthiens dit que si quelqu'un est en Christ, elle est une nouvelle créature. La nouveauté ne signifie pas toujours que tes émotions se rattrapent immédiatement ou que les vieux modèles disparaissent du jour au lendemain. Souvent cela signifie qu'une nouvelle identité a déjà été donnée, et maintenant nous passons du temps à apprendre comment vivre à partir d'elle. Nous cessons de vivre principalement de ce que nous craignons que nous ne soyons pas, et commençons à vivre de ce que Dieu a déjà énoncé comme vrai.",
+            "Je pense à cela comme une liberté croissante. La vieille voix peut encore venir, mais elle ne sonne plus finale. Nous commençons à la reconnaître plus rapidement. Nous nous souvenons que Dieu a dit quelque chose de plus vrai. Il a dit que nous sommes à lui, connues par son nom, choisies en Christ et formées dans l'amour.",
+            "**Le renouvellement de l'identité ne réduit pas toujours la vieille voix à la fois, mais il rend la voix de Dieu plus lourde au fil du temps.** Donc la fin de ce voyage n'est pas « je suis complètement réparée. » C'est ceci : je sais où retourner quand mon cœur est troublé. Ce n'est pas une petite grâce. À partir de maintenant, puissions-nous continuer à apprendre à vivre non pas de notre peur la plus profonde, mais de la vérité plus stable que Dieu a déjà énoncée."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de m'avoir amenée pas à pas devant toi ces sept jours. Bien que je sache que les vieilles voix ne disparaissent pas nécessairement immédiatement et que les vieilles habitudes peuvent revenir, merci de me donner un nouveau centre. Merci de m'avoir déjà donné une nouvelle identité en Christ et de vouloir patiemment m'apprendre comment vivre à partir d'elle. Rends ta voix plus lourde en moi, afin que chaque fois que la comparaison, le besoin de plaire, le perfectionnisme ou ne-pas-être-assez essaient de m'éloigner, je me souvienne plus rapidement de celle dont je suis. À partir d'aujourd'hui, aide-moi à vivre moins de ma peur la plus profonde et plus de la vérité que tu as déjà énoncée sur moi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "2 Corinthiens 5:17",
+              "book_code": "2CO",
+              "chapter": 5,
+              "verses": "17",
+              "translation": "Louis Segond 1910",
+              "text": "Si quelqu'un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées ; voici, toutes choses sont devenues nouvelles."
+            },
+            {
+              "display": "1 Jean 3:1",
+              "book_code": "1JN",
+              "chapter": 3,
+              "verses": "1",
+              "translation": "Louis Segond 1910",
+              "text": "Voyez quel amour le Père nous a témoigné, pour que nous soyons appelés enfants de Dieu ! ... nous sommes enfants de Dieu."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

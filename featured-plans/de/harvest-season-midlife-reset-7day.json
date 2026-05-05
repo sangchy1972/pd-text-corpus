@@ -1,0 +1,485 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS09",
+    "slug": "midlife-reset",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Lebensjahreszeiten",
+      "secondary": "harvest-season",
+      "secondary_label": "Erntezeit"
+    },
+    "tags": [
+      "lebensmitte",
+      "koerperliche-veraenderungen",
+      "neuausrichtung",
+      "weisheit",
+      "perimenopause",
+      "menopause"
+    ],
+    "title": "Die Neuausrichtung in der Lebensmitte",
+    "subtitle": "Gott neu ordnen lassen, was in deinem nächsten Kapitel zählt",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "vierziger-fünfziger",
+        "Lebensmitte"
+      ],
+      "emotional_state": [
+        "nachdenklich",
+        "sich neu orientierend",
+        "Veränderung annehmend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Für Frauen in der Lebensmitte, die spüren, dass Gott ihre Geschichte nicht beendet, sondern sie mit tieferer Weisheit und klareren Prioritäten neu ordnet.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#E8B888",
+      "color_secondary": "#7A4A2C",
+      "image_key": "cover_woman_open_window_autumn_warm",
+      "icon": "ripening-fruit-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Jesaja 43:18-19",
+        "book_code": "ISA",
+        "chapter": 43,
+        "verses": "18-19"
+      },
+      {
+        "display": "Josua 14:10-12",
+        "book_code": "JOS",
+        "chapter": 14,
+        "verses": "10-12"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Neuordnung bedeutet nicht immer, dass etwas schiefgelaufen ist",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jesaja 43:18-19",
+            "book_code": "ISA",
+            "chapter": 43,
+            "verses": "18-19",
+            "translation": "Lutherbibel 1912",
+            "text": "Gedenket nicht des Früheren und achtet nicht auf das Frühere! Denn siehe, ich will etwas Neues machen; nun soll es hervorwachsen..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Die Lebensmitte bringt einer Frau oft ein subtiles Unbehagen mit sich. Das Leben geht zwar weiter, die Verantwortung ist real, und von außen sieht vieles vielleicht noch funktional aus. Doch innerlich beginnt eine Frau zu spüren, dass sie nicht mehr auf genau dieselbe Weise leben kann. Die Rhythmen, Prioritäten, Erfolgsmaßstäbe und Strukturen, die sie einmal trugen, passen nicht mehr so gut.",
+            "Viele Frauen beschuldigen sich selbst in diesem Moment. Sie nehmen an, dass Neuordnung bedeutet, dass sie nicht gut genug gemanagt, nicht dankbar genug geblieben oder nicht stark genug geblieben sind. Doch oft ist die tiefere Wahrheit einfacher: Die Jahreszeit hat sich geändert.",
+            "Gott sagt im Jesajabuch, dass er etwas Neues tut und dass es hervorsprosst. Dieses Versprechen gilt nicht nur für dramatische Umbrüche. Es spricht auch zu langsamerer innerer Neuordnung. Ein Reset ist nicht immer eine Ablehnung der Vergangenheit. Manchmal ist es eine Anerkennung, dass die letzte Jahreszeit ihre Arbeit vollbracht hat und Gott das Leben nun anders anordnet.",
+            "**Neuordnung bedeutet nicht immer, dass du etwas falsch gemacht hast. Manchmal bedeutet es, dass Gott dich in eine bessere Form für das nächste Kapitel führt.** Das verschiebt den emotionalen Ton der Veränderung. Reset muss nicht mehr wie eine Krise klingen. Es kann wie eine Einladung klingen.",
+            "So sage dir heute etwas Sanftes, aber Wahres: Vielleicht bin ich nicht gebrochen. Vielleicht habe ich nur den Punkt erreicht, an dem das Leben neu geordnet werden muss. Diese Ehrlichkeit könnte die Tür zu Frieden werden."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich bekenne, dass ich, wenn ich anfange zu spüren, dass das Leben neu geordnet werden muss, mich selbst zuerst beschuldige, als würde ich zuerst fehlschlagen müssen, um hierherzukommen. Danke, dass du mich daran erinnerst, dass die tiefere Wahrheit oft einfacher ist: nicht dass ich gebrochen bin, sondern dass sich die Jahreszeit geändert hat. Gib mir Klarheit, damit ich nicht aus Angst an alten Strukturen festhalte und auch nicht einfach wegen Neuordnung in Scham verfalle. Wenn du mich in ein neues Kapitel führst, halte mich davor ab, nur zu reagieren. Hilf mir, mit dir zu ordnen. Lass diesen Reset nicht ein panisches Auseinanderfallen sein, sondern eine Neuanordnung in deinen Händen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jesaja 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "Lutherbibel 1912",
+              "text": "Gedenket nicht des Früheren und achtet nicht auf das Frühere! Denn siehe, ich will etwas Neues machen; nun soll es hervorwachsen..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Die Lebensmitte erfordert oft, alte Definitionen loszulassen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Philipper 3:7-8,13-14",
+            "book_code": "PHP",
+            "chapter": 3,
+            "verses": "7-8,13-14",
+            "translation": "Lutherbibel 1912",
+            "text": "Doch was mir Gewinn war, das habe ich um Christi willen für Schaden geachtet... Ich vergesse, was dahinten ist, und strecke mich nach dem aus, was vorne ist..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das tiefste Hinderniss für viele Frauen in der Lebensmitte ist nicht nur, dass zu viel auf ihren Schultern lastet, sondern dass sie sich selbst noch durch alte Definitionen verstehen. Vielleicht hast du deinen Wert lange an Produktivität gebunden, an Gebrauchtwerden, an Widerstandskraft oder die Fähigkeit, alles zusammenzuhalten. Diese Definitionen haben dir vielleicht eine Zeit lang geholfen zu funktionieren. Aber später können sie zur Form von Gefangenschaft werden.",
+            "Wenn der Körper sich verändert, Rollen sich verschieben, Kinder heranwachsen, Eltern altern und das Leben komplexer wird, werden alte Selbstdefinitionen oft zu klein oder zu starr. Eine Frau kann äußerlich einen neuen Lebensabschnitt betreten, während sie innen immer noch Beweise aus einer früheren Zeit fordert.",
+            "Paulus spricht im Philipperbrief davon, ehemalige Gewinne als Verlust um Christi willen zu betrachten und zu vergessen, was hinter ihm liegt, und nach dem zu streben, was vor ihm liegt. Er verachtet nicht die Vergangenheit. Er weigert sich, alte Maßstäbe die Gegenwart regieren zu lassen.",
+            "**Manche Formen des Loslassens sind nicht ein Verlust des Selbst, sondern eine Befreiung von Definitionen, die nicht mehr die Wahrheit dessen tragen können, wer du wirst.** Diese Art der Hingabe erfordert Mut. Sie fragt: Wovor habe ich Angst, dass von mir übrigbleibt, wenn ich nicht mehr in den alten Wegen beweis' führe?",
+            "Gott beginnt echte Neuordnung der Lebensmitte oft genau dort. Nicht indem er die Identität wegnimmt, sondern indem er den Griff veralteter Maßstäbe lockert, damit tieferes Leben entstehen kann."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, zeige mir, wo ich noch durch alte Definitionen gebunden bin. Wenn mein Wert lange an Produktivität, Unentbehrlichkeit, Zähigkeit oder Zuverlässigkeit gebunden war, lockere diese Seile sanft. Danke, dass du nicht versuchst, mich zu leeren, sondern mich in wahrere Reife zu führen. Wenn das Loslassen alter Definitionen mich erschreckt, beeile mich nicht und lass mich nicht fliehen; stehe mir an dem Ort bei, wo ich am meisten loslassen möchte. Lehre mich, mich selbst in deine Hände zurückzulegen. Halte mich davor ab, das Beweis-System der letzten Jahreszeit zu wiederholen, wenn du mich in tiefere Freiheit in der nächsten einlädst. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Philipper 3:7-8,13-14",
+              "book_code": "PHP",
+              "chapter": 3,
+              "verses": "7-8,13-14",
+              "translation": "Lutherbibel 1912",
+              "text": "Doch was mir Gewinn war, das habe ich um Christi willen für Schaden geachtet... Ich vergesse, was dahinten ist, und strecke mich nach dem aus, was vorne ist..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Gott gebraucht manchmal Subtraktion zum Schutz dessen, was kommt",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Richter 7:2",
+            "book_code": "JDG",
+            "chapter": 7,
+            "verses": "2",
+            "translation": "Lutherbibel 1912",
+            "text": "Und der Herr sprach zu Gideon: Das Volk, das mit dir ist, ist zu viel... ich fürchte, Israel könnte sich meiner eigenen Hand rühmen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das Schwierigste bei Neuordnung der Lebensmitte ist nicht Addition, sondern Subtraktion. Weniger Energie. Weniger soziale Kapazität. Weniger Toleranz für Überlastung. Weniger Fähigkeit, alles auf einmal zu tun. Wir interpretieren Subtraktion instinktiv als Niedergang. Aber der Gott der Schrift segnet nicht nur durch Vermehrung. Manchmal schützt er durch Verringerung.",
+            "Gideons Geschichte ist eindrucksvoll, weil Gott bewusst das reduziert, was wie Stärke aussieht. Der Zweck ist nicht Grausamkeit. Es ist Klarheit. Gott weiß, dass wenn Menschen weiter auf Menge und scheinbare Kapazität vertrauen, sie echte Abhängigkeit vielleicht nie lernen.",
+            "Subtraktion in der Lebensmitte kann ähnlich wirken. Wenn du nicht mehr alles auf alte Weise zusammenhältst, werden tiefere Fragen unvermeidbar. Was ist meine Last zu tragen? Was halte ich nur aus Gewohnheit, Eitelkeit, Angst oder Schwung aufrecht? Verringerung macht Unterscheidung dringender.",
+            "**Gott führt nicht immer, indem er dir mehr zu halten gibt. Manchmal führt er, indem er einige Dinge wegnimmt, damit das Wichtigste bleiben kann.** Wenn du trauern kannst, dass du nicht mehr tun kannst, was du einmal tatest, lass diese Trauer benannt werden. Aber frage auch, ob diese Subtraktion vielleicht Barmherzigkeit in Verkleidung sein könnte.",
+            "Verlust ist nicht immer Verlassenheit. Manchmal ist es Schutz für das nächste Kapitel."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich bekenne, dass mir Subtraktion schwerfällt. Ich habe gelernt, hohe Kapazität als Beweis dafür zu behandeln, dass ich noch zähle, also wenn einige Kapazitäten zu schrumpfen beginnen, fühle ich mich enttäuscht und bloßgestellt. Gib mir eine neue Art zu sehen. Halte mich davor, Subtraktion nur als Verlust zu lesen. Lehre mich zu fragen, ob dort auch Schutz sein könnte. Wenn du Reduktion benutzt, um Unterscheidung zu lehren und Beschneidung um das zu bewahren, was kommt, halte mich davor, dir bei jedem Schritt zu widerstehen. Und bitte tröste den echten Trauermittel, die mit Veränderung kommt, damit ich auch im Schmerz darauf vertraue, dass du deine Sorgfalt um mich nicht verringert hast. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Richter 7:2",
+              "book_code": "JDG",
+              "chapter": 7,
+              "verses": "2",
+              "translation": "Lutherbibel 1912",
+              "text": "Und der Herr sprach zu Gideon: Das Volk, das mit dir ist, ist zu viel... ich fürchte, Israel könnte sich meiner eigenen Hand rühmen."
+            },
+            {
+              "display": "Johannes 15:2",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "2",
+              "translation": "Lutherbibel 1912",
+              "text": "Jede Rebe an mir, die Frucht trägt, wird er reinigen, damit sie mehr Frucht trägt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Neuausrichtung in der Lebensmitte erfordert auch, das Herz neu zu verteilen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Nehemia 6:3",
+            "book_code": "NEH",
+            "chapter": 6,
+            "verses": "3",
+            "translation": "Lutherbibel 1912",
+            "text": "So sandte ich Boten zu ihnen und sagte: Ich führe ein großes Werk aus und kann nicht herabkommen..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Neuausrichtung des Lebens ist nicht nur, Zeitpläne neu anzuordnen oder Aufgaben neu zu verteilen. Auf tieferer Ebene geht es um Neuverteilung des Herzens. Wohin geht deine emotionale Energie? Zu Beziehungen und Berufungen, die wirklich zählen? Oder zu Ängsten, alten Gewohnheiten und langjährigen Anforderungen, die dich verbrauchen, ohne Leben zu produzieren?",
+            "Die Lebensmitte macht diese Frage oft unvermeidlich, weil das Herz sich nicht mehr unendlich verfügbar anfühlt. Du spürst klarer, dass du dich nicht vollständig allem auf einmal geben kannst.",
+            "Nehemias Wiederaufbau beinhaltete nicht nur Arbeit, sondern auch Ablenkung, Druck, Opposition und Stimmen, die ihn von der Aufgabe wegzogen. Eine seiner Weisheiten war, nicht jeder Unterbrechung das gleiche Gewicht zu geben. Die Lebensmitte verlangt etwas Ähnliches. Nicht jede Anforderung verdient gleichen Herzensraum. Nicht jede dringende Stimme verdient innere Unterkunft.",
+            "**Teil der Klarheit in der Lebensmitte ist, nicht nur zu lernen, wie man sein Leben organisiert, sondern wie man sein Herz für das reserviert, das vor Gott wirklich Gewicht hat.** Das kann sich anfangs wie Verlust anfühlen, besonders wenn du daran gewöhnt bist, dich über zu verteilen. Aber mit der Zeit wird es Freiheit.",
+            "Reife ist nicht Kälte. Es ist zu wissen, warum dein Herz an einigen Orten voller gehört als an anderen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, du weißt, dass mein Problem nicht nur mangelnde Zeit ist. Mein Herz wird auch in zu viele Richtungen gezogen. Gib mir die Klarheit, die diese Lebenszeit verlangt. Zeige mir, was noch ganze-herz-Aufmerksamkeit verdient und was lange ohne echtes Leben zu produzieren mich besetzt hat. Wenn ich meine innere Energie an die falschen Orte gießen, zieh mich sanft zurück. Und gib mir Freiheit von Schuldgefühlen, wenn ich nicht jeden Anspruch beantworten kann. Lehre mich, mein Herz vor dir zu bewahren, nicht als Akt der Selbstabschließung, sondern damit ich mich treuer dem geben kann, was wirklich zählt. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Nehemia 6:3",
+              "book_code": "NEH",
+              "chapter": 6,
+              "verses": "3",
+              "translation": "Lutherbibel 1912",
+              "text": "So sandte ich Boten zu ihnen und sagte: Ich führe ein großes Werk aus und kann nicht herabkommen..."
+            },
+            {
+              "display": "Sprüche 4:25",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "25",
+              "translation": "Lutherbibel 1912",
+              "text": "Lass deine Augen geradeaus schauen und deine Augenlieder direkt vor dir schauen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Weisheit in der Lebensmitte beginnt oft damit, zuzugeben, dass die alte Weise nicht mehr funktioniert",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Matthäus 9:17",
+            "book_code": "MAT",
+            "chapter": 9,
+            "verses": "17",
+            "translation": "Lutherbibel 1912",
+            "text": "Auch füllt man nicht neuen Wein in alte Schläuche... sondern neuen Wein in neue Schläuche, und beides bleibt erhalten."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Neuausrichtungen in der Lebensmitte beginnen mit einem Satz, der alles andere als inspirierend wirkt: Ich kann nicht mehr so weiterleben. Manchmal sagt der Körper es zuerst. Manchmal die Seele. Manchmal eine Beziehung. Manchmal wird geistliche Trockenheit unmöglich zu ignorieren. Doch die meisten Menschen begrüßen diesen Satz nicht. Sie interpretieren ihn als Misserfolg, als würde das Zugeben von Unhaltbarkeit einem Scheitern gleichkommen.",
+            "Oft ist es der Anfang von Weisheit.",
+            "Jesus sagt, dass neuer Wein in neue Schläuche gegossen werden muss. Der alte Behälter mag einst nützlich gewesen sein, aber er kann nicht mehr halten, was jetzt gegeben wird. Dieses Bild spricht kraftvoll zur Lebensmitte. Die alten Muster, Identitäten und Rhythmen mögen dir in einer früheren Jahreszeit wirklich gedient haben. Aber sie können möglicherweise nicht mehr das Leben halten, das Gott dich jetzt einlädt zu leben.",
+            "**Zuzugeben, dass die alte Weise nicht mehr funktioniert, ist nicht Misserfolg. Es ist, wie Platz für eine bessere Ordnung gemacht wird.** Wenn du dich weiter in eine veraltete Form zwingst, leiden sowohl du als auch die Gnade, die für diese Jahreszeit bestimmt ist.",
+            "Also, wenn du spürst, dass alte Muster dein Leben nicht mehr tragen können, antworte auf diese Wahrheit nicht nur mit Selbstkritik. Bring sie vor Gott. Sag deutlich: Ich kann nicht mehr so leben. Viele heilige Neuausrichtungen beginnen dort."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich bekenne, dass es Orte gibt, an denen ich wirklich nicht mehr so weiterleben kann. Und ich bekenne auch, wie sehr ich fürchte, das zu sagen, weil es sich zu sehr nach Scheitern anfühlt. Danke, dass du mich lehrst, dass Ehrlichkeit nicht Scheitern ist und dass Eingeständnis meiner Grenzen nicht Niederlage ist. Wenn du mir zeigst, dass ich neue Schläuche, neue Rhythmen und eine neue Ordnung brauchte, gib mir den Mut, nicht endlos an der alten Weise zu klammern. Gib mir Demut, einen neuen Behälter, eine neue Anordnung und eine neue Lebensform zu empfangen. Halte mich davor, mich in veraltete Strukturen zurückzuzwingen, die nicht mehr das halten können, was du tust. Schaff Raum in mir für neue Gnade. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Matthäus 9:17",
+              "book_code": "MAT",
+              "chapter": 9,
+              "verses": "17",
+              "translation": "Lutherbibel 1912",
+              "text": "Auch füllt man nicht neuen Wein in alte Schläuche... sondern neuen Wein in neue Schläuche, und beides bleibt erhalten."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Echter Reset bedeutet Neuausrichtung, nicht Auslöschung",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 90:12",
+            "book_code": "PSA",
+            "chapter": 90,
+            "verses": "12",
+            "translation": "Lutherbibel 1912",
+            "text": "Lehre uns, unsere Tage zu zählen, damit wir zu einem Herz der Weisheit kommen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das Wort \"Reset\" kann extrem klingen, als würde es erfordern, alles zu verwerfen und von vorne zu beginnen. Aber geistlicher Reset in der Lebensmitte ist oft sanfter und weiser als das. Es geht weniger darum, die Vergangenheit auszulöschen, als vielmehr darum, die Gegenwart neu auszurichten. Es sammelt das, was zerstreut ist. Es stellt Gewicht wieder her auf das, was zählt, und Leichtigkeit auf das, was dich niemals dominiert hätte.",
+            "Mose betet im 90. Psalm, dass Gott ihn lehre, seine Tage zu zählen, damit er ein Herz der Weisheit gewinne. Eines der verborgenen Geschenke der Lebensmitte ist, dass die Zeit realer wird. Wenn dieses Bewusstsein in Angst gehalten wird, wird es Panik. Aber wenn es vor Gott gehalten wird, kann es Weisheit werden. Du hörst auf, alles zu wollen. Du hörst auf, jede Erwartung gleich zu tragen. Du beginnst bessere Fragen zu stellen.",
+            "Was lohnt sich noch, dir selbst zu geben? Was ist nicht länger würdig, so viel Leben zu erhalten? Was gehört jetzt zum Zentrum?",
+            "**Ein echter Reset ist nicht Selbstauslöschung. Es ist die Neuausrichtung des Lebens auf das, was letztlich am wertvollsten ist.** Darum kann es sich gleichzeitig wie Verlust und Erleichterung anfühlen. Du wirst nicht weniger. Du wirst mehr ausgerichtet.",
+            "Diese Art der Neuausrichtung lässt eine Frau mit tieferem Frieden leben. Sie muss ihren Wert nicht mehr dadurch beweisen, dass sie alles trägt. Sie kann beginnen, das, das wirklich ihr ist, mit größerer Weisheit zu tragen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, richte mein Zentrum neu aus. Wenn mein Leben über die Jahre zu zerstreut geworden ist und zu sehr von nebensächlichen Dingen bestimmt wird, gib mir nicht nur mehr Kraft, sie weiter zu tragen. Gib mir Weisheit, mich selbst wieder zu sammeln. Lehre mich, meine Tage zu zählen, nicht in Panik, sondern in Klarheit. Hilf mir zu unterscheiden, was wirklich weiterzutragen verdient, was langsam losgelassen werden muss, was ausgezeichnet ist und was mich nur zu lange besetzt hat. Lass diese Neuordnung mich nicht leer machen, sondern wahrer mit dem ausgerichtet, was dir wichtig ist. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 90:12",
+              "book_code": "PSA",
+              "chapter": 90,
+              "verses": "12",
+              "translation": "Lutherbibel 1912",
+              "text": "Lehre uns, unsere Tage zu zählen, damit wir zu einem Herz der Weisheit kommen."
+            },
+            {
+              "display": "Philipper 1:10",
+              "book_code": "PHP",
+              "chapter": 1,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Dass ihr unterscheiden könnt, was das Beste ist..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Die Lebensmitte ist nicht das Ende der Geschichte",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Josua 14:10-12",
+            "book_code": "JOS",
+            "chapter": 14,
+            "verses": "10-12",
+            "translation": "Lutherbibel 1912",
+            "text": "Und siehe, ich bin nun fünfundachtzig Jahre alt... Ich bin noch so stark wie an dem Tage... Gib mir dieses Bergland..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Eine der tiefsten Täuschungen über die Lebensmitte ist, sie als die Jahreszeit nach dem besten Teil zu sehen, der bereits vorbei ist. Die Annahme ist, dass das, was lebendig, sich ausdehnend und wirklich neu ist, der Jugend gehört, während die mittleren Jahre hauptsächlich für Instandhaltung, Reparatur, Ausdauer und allmähliche Niedergang existieren.",
+            "Aber die Schrift erzählt diese Geschichte nicht. Abraham tritt später in tieferes Vertrauen ein. Sarah sieht später Verheißung. Mose tritt mit achtzig vollständig in seine Berufung ein. Kaleb spricht im Alter noch von Stärke und Erbe. Gott ist nicht begrenzt durch unsere Vorstellungen davon, was als die besten Jahre zählt.",
+            "Die echte Schönheit der Erntezeit ist nicht: \"Du zählst immer noch, obwohl du älter wirst.\" Es ist, dass Gott diese Jahreszeit oft nutzt, um Reinheit zu vertiefen, Prioritäten zu vereinfachen, Weisheit zu stärken und Leistung abzulegen. Eine Frau mag nicht mehr alles jagen wollen, aber sie weiß vielleicht klarer, was zählt. Sie mag nicht mehr durch äußere Helligkeit getrieben werden, aber sie trägt möglicherweise weit größeres inneres Gewicht.",
+            "**Die Lebensmitte ist nicht, wo Gott dich an die Ränder rückt. Sie ist oft, wo er dich auf tiefere Grund führt.** Wenn du leise gefürchtet hast, dass das Beste hinter dir liegt, bring diese Angst in Gottes Gegenwart. Er ist nicht nur der Gott der Anfänge. Er ist auch der Gott der Reifung, Neuordnung und späteren Fruchtbarkeit.",
+            "Also schreibe nicht dein eigenes Kapitel der Lebensmitte als Ende, bevor Gott es tut. Er benennt es vielleicht immer noch als eine neue Tiefe."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du nicht nur der Gott der Anfänge und Höhepunkte bist, sondern auch der Gott der späteren Jahre, Neuordnung und Reifung. Wenn ich leise gefürchtet habe, dass das Beste hinter mir liegt, heile diese Angst und halte mich davor, meine eigene Geschichte zu früh als Ende zu schreiben. Danke, dass diese Jahreszeit tiefere Weisheit, wahrere Integrität und reifere Frucht halten kann. Halte mich davor, mich an die Ränder zu stellen und dieses Kapitel nur als bloße Instandhaltung zu behandeln. Führe mich auf tieferen Grund. Lass mich immer noch Frucht tragen, immer noch von dir gebraucht werden und immer noch grün in deiner Gegenwart in den Jahren, die kommen, bleiben. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Josua 14:10-12",
+              "book_code": "JOS",
+              "chapter": 14,
+              "verses": "10-12",
+              "translation": "Lutherbibel 1912",
+              "text": "Und siehe, ich bin nun fünfundachtzig Jahre alt... Ich bin noch so stark wie an dem Tage... Gib mir dieses Bergland..."
+            },
+            {
+              "display": "Psalm 92:13-14",
+              "book_code": "PSA",
+              "chapter": 92,
+              "verses": "13-14",
+              "translation": "Lutherbibel 1912",
+              "text": "Die im Hause des Herrn gepflanzt sind... werden noch Frucht bringen im Alter; voller Saft und Kraft..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

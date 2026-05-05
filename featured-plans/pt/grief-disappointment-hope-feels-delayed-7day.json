@@ -1,0 +1,507 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG06",
+    "slug": "hope-feels-delayed",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardim das Emoções",
+      "secondary": "grief-disappointment",
+      "secondary_label": "Tristeza e Desilusão"
+    },
+    "tags": [
+      "tristeza",
+      "desilusao",
+      "esperanca-tardia",
+      "pranto",
+      "consolo"
+    ],
+    "title": "Quando a Esperança Parece Tardia",
+    "subtitle": "Estes sete dias caminham gentilmente pela decepção e pela longa espera, ajudando seu coração a retornar a Deus, que ainda está presente e ainda é misericordioso.",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "em luto",
+        "desiludida",
+        "chorosa"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes sete dias caminham gentilmente pela decepção e pela longa espera, ajudando seu coração a retornar a Deus, que ainda está presente e ainda é misericordioso.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_quiet_garden_soft_rain_grief",
+      "icon": "falling-leaf-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 13:1-2",
+        "book_code": "PSA",
+        "chapter": 13,
+        "verses": "1-2"
+      },
+      {
+        "display": "Romanos 15:13",
+        "book_code": "ROM",
+        "chapter": 15,
+        "verses": "13"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Não Preciso Ser Forte Antes de Vir a Deus",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 13:1-2",
+            "book_code": "PSA",
+            "chapter": 13,
+            "verses": "1-2",
+            "translation": "Almeida",
+            "text": "Até quando, Senhor, te esquecerás de mim? Para sempre? Até quando esconderás de mim o teu rosto? Até quando andarei eu, levando angústia na minha alma, tristeza no meu coração, todo o dia?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas pessoas enfrentam a tristeza tentando se manter unidas. Continuam funcionando, ajudando os outros, fazendo o que é necessário para passar o dia. Com o tempo, fica fácil confundir sobrevivência com cura. Mas continuar se movimentando não é o mesmo que ser confortado. Uma pessoa pode continuar aparentando estar bem por fora enquanto carrega grande tristeza por dentro.",
+            "É por isso que a tristeza pode ficar escondida. Você pode sentir pressão para parecer composta não apenas porque outros dependem de você, mas porque parou de saber como parar. O Salmo 13 é um presente para pessoas nessa condição. Começa com \"Até quando?\" antes que nada seja resolvido. Não há uma introdução polida e nenhuma tentativa de tornar a dor mais suportável antes de levá-la a Deus.",
+            "Jesus também diz: \"Bem-aventurados os que choram, porque serão consolados.\" Ele não abençoa apenas os fortes, os resilientes ou os autocontrolados. Ele abençoa os que pranteiam. Isso significa que a tristeza não é um sinal de que você saiu do cuidado de Deus. Pode ser um dos lugares onde Seu consolo se torna mais pessoal.",
+            "**Continuar funcionando não é a mesma coisa que ser curado.** Se você esteve se segurando unida para todos os outros, deixe que hoje seja um convite para soltar sua força diante de Deus. **Lamentação não é fraqueza. É uma das maneiras como a alma para de fingir.** O Senhor não precisa que sua tristeza seja arrumada antes de recebê-la.",
+            "O Senhor não confunde compostura com cura, e não ignora a tristeza escondida sob uma aparência capaz. Deus recebe tristeza que ainda não encontrou palavras. Deus acolhe tristeza que ainda está se debatendo com perguntas sem resposta. Hoje, você não precisa ser nada além do que é."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai celestial, obrigado por me receber não porque eu estou forte, mas porque eu sou Seu. Obrigado porque você não me pede para ter respostas antes de clamar por você. Meu coração está pesado, e eu estou cansado de fingir que não está. Hoje eu trago minha tristeza para você, não porque eu tenha resolvido tudo, mas porque você prometeu que os que pranteiam serão consolados. Abrandar meu coração quando ele está fechado. Abra meu boca quando ficou silenciosa. E me lembre de que você não exige compostura—você oferece companhia. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 13:1-2",
+              "book_code": "PSA",
+              "chapter": 13,
+              "verses": "1-2",
+              "translation": "Almeida",
+              "text": "Até quando, Senhor, te esquecerás de mim? Para sempre? Até quando esconderás de mim o teu rosto? Até quando andarei eu, levando angústia na minha alma, tristeza no meu coração, todo o dia?"
+            },
+            {
+              "display": "Mateus 5:4",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "4",
+              "translation": "Almeida",
+              "text": "Bem-aventurados os que choram, porque serão consolados."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Deus Não Está Imóvel Enquanto Você Sofre",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Rute 1:20-21",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "20-21",
+            "translation": "Almeida",
+            "text": "Então lhes disse: Não me chameis Noemi; chamá-me Mara, porque o Todo-Poderoso me amargurou muito. Saí cheia, mas o Senhor me trouxe vazia. Por que me chamarias Noemi, se o Senhor testificou contra mim, e o Todo-Poderoso me afligiu?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Um dos mistérios mais profundos da tristeza é que ela pode durar muito mais tempo do que você esperava ou do que outras pessoas parecem permitir. Semanas se transformam em meses. Amigos começam a sugeri de forma sutil que é hora de \"seguir em frente\". Você mesmo pode ouvir uma voz interior dizendo que algo está errado com você por ainda estar sentindo isso tão profundamente. A esperança parece tardia porque a cura não vem no cronograma que você esperava.",
+            "Rute conheceu essa espera. Seu marido e seus filhos morreram em terra estrangeira. A dor dela era tão profunda que ela mudou seu próprio nome, dizendo: \"Chamem-me Mara, porque o Senhor amargurou minha vida.\" Não há pressa em sua tristeza. Não há tentativa de suavizar o que aconteceu. Mas veja o que Deus faz: Ele coloca Boaz em seu caminho. Não como forma de apagar sua dor, mas como forma de conhecê-la e cuidar dela enquanto ela ainda está em luto.",
+            "Hebreus 4 nos diz que Jesus \"Se compadece de nossas fraquezas.\" A palavra compaixão é tão importante aqui. Significa que Jesus não apenas sabe que você está sofrendo—Ele sofre com você. Ele não espera pacientemente do lado de fora. Ele entra na sua tristeza.",
+            "**Deus não age como se sua dor o incomodasse.** **Ele age como alguém que entra em seu luto e ama você enquanto você está nele.** Isso não significa que a dor desaparecerá em breve, ou que você não sentirá falta, ou que a vida voltará exatamente ao normal. Significa que não há prazo de validade para Sua misericórdia. Não há momento em que Ele diz: \"Tudo bem, chega.\"",
+            "Se você está cansado de sua própria tristeza, ouça isso: Deus não está. Seu cuidado por você não está vinculado ao seu progresso no luto. Ele encontra você exatamente onde você está."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, obrigado porque você conhece o comprimento desta espera. Eu esperava que as coisas melhorassem mais rápido do que têm. Esperava estar \"melhor\" agora. Estou cansado da minha própria tristeza e às vezes me culpo por ela durar tanto tempo. Mas você prometeu que se compadece de minhas fraquezas. Você entra em meu luto, não para apreçá-lo, mas para amá-lo. Quando a esperança parecer tardia e meu coração parecer quebrado demais para ser consertado, lembre-me que você não cronometra sua compaixão. Sua misericórdia é fresca a cada manhã. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Rute 1:20-21",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "20-21",
+              "translation": "Almeida",
+              "text": "Então lhes disse: Não me chameis Noemi; chamá-me Mara, porque o Todo-Poderoso me amargurou muito. Saí cheia, mas o Senhor me trouxe vazia. Por que me chamarias Noemi, se o Senhor testificou contra mim, e o Todo-Poderoso me afligiu?"
+            },
+            {
+              "display": "Hebreus 4:15",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "3,5",
+              "translation": "Almeida",
+              "text": "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; pelo contrário, aquele que foi tentado em todas as coisas, à nossa semelhança, mas sem pecado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Mesmo Quando a Noite Parece Sem Fim",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 42:3,5",
+            "book_code": "PRO",
+            "chapter": 13,
+            "verses": "12",
+            "translation": "Almeida",
+            "text": "As minhas lágrimas têm sido o meu pão, dia e noite, enquanto me dizem todos os dias: Onde está o teu Deus? Desejo lembrar-me disto: que a minha esperança está em Deus; ainda o louvarei, ele é a salvação da minha face e meu Deus."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Há um tipo de insônia que vem com a tristeza. Você deita à noite e seu coração recusa simplesmente descansar. A mente volta para o que você perdeu. Seus olhos se abrem na escuridão e você quer que a manhã chegue, mas a noite parece se estender indefinidamente. Ou talvez o oposto: você está tão exausto emocionalmente que dorme demais, acordando para um vazio que parece ainda mais pesado pela luz do dia.",
+            "O Salmo 42 foi escrito por alguém que conhece bem esse tipo de sofrimento. O salmista clama: \"Minha alma tem sede de Deus, do Deus vivo. Quando poderei vir e me apresentar diante de Deus?\" E depois: \"À noite, o Seu cântico está comigo, e a minha oração ao Deus da minha vida.\" Há algo poderoso aqui. Mesmo na escuridão, mesmo quando a esperança é difícil de localizar, existe a promessa de que Deus dá um cântico na noite.",
+            "Isso não significa que a noite se tornará repentinamente agradável ou que você deixará de se sentir sozinho nela. Significa que não há escuridão tão profunda que Deus não possa alcançá-lo. Significa que a presença dele não é removida quando a luz é. Sua misericórdia não depende das circunstâncias ao seu redor.",
+            "**A esperança não é sentir-se bem agora.** **A esperança é acreditar que Deus está presente agora, mesmo se você não conseguir senti-lo ainda.** Há muita noite à sua frente, talvez. Mas você não passará por ela sozinho. O Senhor sabe cada noite em que você não consegue dormir, cada amanhecer que parece mais escuro que o anterior, cada momento em que você sente que pode estar perdendo a fé.",
+            "Nessas horas, você pode roçar sua mão contra a presença de Deus de formas pequenas. Um versículo sussurrado no escuro. Uma oração que não precisa de palavras. Uma memória de quando você sentiu Sua fidelidade antes. O cântico pode vir lentamente, mas vem."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, as noites são longas. Meu coração está pesado e meu corpo está cansado de carregar essa tristeza. Quando a escuridão chega, sou lembrado novamente do que perdi, e a esperança parece distante. Mas você prometeu que dá um cântico na noite, que até lá sua misericórdia me encontra. Eu não peço para que a noite termine rápido ou para que eu deixe de sentir essa dor. Peço que você seja real na escuridão, tão real quanto era na luz. Sussurre ao meu coração na madrugada: você não foi abandonado. Você ainda é amado. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 42:3,5",
+              "book_code": "PRO",
+              "chapter": 13,
+              "verses": "12",
+              "translation": "Almeida",
+              "text": "As minhas lágrimas têm sido o meu pão, dia e noite, enquanto me dizem todos os dias: Onde está o teu Deus? Desejo lembrar-me disto: que a minha esperança está em Deus; ainda o louvarei, ele é a salvação da minha face e meu Deus."
+            },
+            {
+              "display": "Provérbios 13:12",
+              "book_code": "PSA",
+              "chapter": 130,
+              "verses": "5-6",
+              "translation": "Almeida",
+              "text": "A esperança adiada aflige o coração, mas o desejo realizado é uma árvore de vida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Sua Tristeza Não Desqualifica Sua Fé",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "João 11:32-35",
+            "book_code": "JHN",
+            "chapter": 11,
+            "verses": "32-35",
+            "translation": "Almeida",
+            "text": "E Maria, quando chegou aonde Jesus estava, e viu-o, lançou-se aos seus pés, dizendo-lhe: Senhor, se tu tivesses estado aqui, meu irmão não teria morrido. E Jesus, vendo-a chorar, e vendo também chorar os judeus que com ela vieram, moveu-se em espírito, e perturbou-se. E disse: Onde o colocardes? Disseram-lhe: Vem e vê, Senhor. Jesus chorou."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Uma das mentiras mais silenciosas que a tristeza sussurra é que algo está errado com sua fé por estar tão profundamente entristecido. Se você realmente confiasse em Deus, talvez não se sentiria tão devastado. Se você tivesse orado mais, talvez isso não teria acontecido. Se você fosse realmente uma pessoa espiritual, talvez conseguisse encontrar sentido ou propósito mais rapidamente nessa perda. E assim você se encontra sentindo dois tipos de dor ao mesmo tempo: a tristeza primária e a vergonha de estar tão triste.",
+            "Mas veja quem chorou nos evangelhos. Jesus se ajoelhou diante do túmulo de Lázaro e chorou. Não foram lágrimas recolhidas ou suportadas. O texto diz que \"Jesus chorou\" e que Seus amigos notaram: \"Vede como o amava!\" Sua tristeza foi um sinal de Sua humanidade e de Seu amor, não uma falha em Sua fé ou uma fraqueza espiritual.",
+            "Salmo 130 captura ainda mais isso. Começa com um homem nas profundezas, clamando para Deus. E então: \"Mas em ti há perdão... Eu espero no Senhor... e a minha alma espera por Sua palavra.\" Note a ordem. Ele não sai do buraco e depois espera em Deus. Ele espera em Deus enquanto ainda está no buraco. Sua esperança não depende de se sentir melhor. Sua fé não depende de estar composto.",
+            "**Sua fé é demonstrada não pelo quanto você consegue manter a compostura, mas pelo fato de você continuar clamando para Deus mesmo quando está quebrado.** **Quando você puxa seu coração em pedaços diante do Senhor, é porque você ainda acredita que Ele pode recebê-lo.** Isso é fé em sua forma mais pura.",
+            "Se você está farto de sua própria tristeza, não significa que você falhou Deus. Significa que você é humano. Significa que você ama profundamente as pessoas que perdeu. E isso—essa capacidade de amar tão profundamente que a perda deixa um buraco—é uma expressão de Sua imagem, não uma rejeição dela."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Deus, meu coração está desinteressado de ser \"espiritualmente maduro\" sobre isso. Estou desinteressado de parecer ter fé. Estou apenas desinteressado. Estou triste. E não entendo por que você permitiu isso. Mas mesmo assim, clamo para você. Não porque tenha respostas, mas porque sei que você pode. Não porque eu tenha paz, mas porque espero que você possa me dar paz. Não confunda minha tristeza com falta de fé. Confunda-a com amor, com verdade, com um coração que ainda está dizendo seu nome. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "João 11:32-35",
+              "book_code": "JHN",
+              "chapter": 11,
+              "verses": "32-35",
+              "translation": "Almeida",
+              "text": "E Maria, quando chegou aonde Jesus estava, e viu-o, lançou-se aos seus pés, dizendo-lhe: Senhor, se tu tivesses estado aqui, meu irmão não teria morrido. E Jesus, vendo-a chorar, e vendo também chorar os judeus que com ela vieram, moveu-se em espírito, e perturbou-se. E disse: Onde o colocardes? Disseram-lhe: Vem e vê, Senhor. Jesus chorou."
+            },
+            {
+              "display": "Salmo 130:5-6",
+              "book_code": "HEB",
+              "chapter": 4,
+              "verses": "15",
+              "translation": "Almeida",
+              "text": "Eu espero no Senhor; a minha alma espera, e na sua palavra me amparo. A minha alma espera no Senhor, mais do que as sentinelas esperam pela manhã, mais do que as sentinelas esperam pela manhã."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "O Silêncio de Deus Não Significa Sua Ausência",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 23:1-3",
+            "book_code": "PSA",
+            "chapter": 23,
+            "verses": "1-3",
+            "translation": "Almeida",
+            "text": "O Senhor é o meu pastor; nada me faltará. Deitar-se em verdes pastos; ele me conduz ainda às águas tranquilas. Restaura a minha alma; guia-me nas veredas da justiça, por amor do seu nome."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Talvez o aspecto mais desafiador da esperança que se sente tardia seja o silêncio. Você orou e nada mudou. Você clamou e a resposta não chegou. O silêncio de Deus é talvez mais silencioso do que qualquer outro tipo de silêncio, porque você está esperando por alguém a quem você convidou para falar.",
+            "Mas há um mistério no silêncio de Deus que é importante reconhecer. O Salmo 23 fala em estar no \"vale da sombra da morte\", e promete: \"ainda que eu ande no vale da sombra da morte, não temerei mal nenhum, porque tu estás comigo.\" Não diz que a sombra desaparece. Não diz que a morte sai do seu caminho. Mas diz que Deus está. Sua presença não é removida por Sua aparente inatividade.",
+            "Às vezes, o silêncio de Deus não é rejeição. É contenção. Ele honra Sua criação o suficiente para não resolver tudo imediatamente. Ele honra a realidade do que você perdeu permitindo que você realmente o pranteie. Seus caminhos não são seus caminhos, e Seu silêncio pode estar fazendo mais no seu coração do que qualquer resposta rápida jamais faria.",
+            "**O silêncio não sempre significa que Deus não está trabalhando.** **Muitas vezes significa que Ele está trabalhando de forma que você ainda não pode ver.** O profeta Elias esperou em uma caverna, e Deus passou, mas não no vento, não no terremoto, não no fogo. Deus veio como \"uma voz sussurante delicada.\" Às vezes você precisa parar de procurar por Deus em lugares barulhentos e grandes para encontrá-lo.",
+            "Hoje, em vez de clamar para que Deus quebre o silêncio, talvez escute dentro dele. Talvez há uma voz sussurrante que você está perdendo porque está procurando por algo mais dramático. Talvez a presença de Deus está sendo mais gentil do que você esperava, e por isso está passando despercebida."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, o silêncio dói. Eu tenho clamado, e mesmo assim parece que não há resposta, ou se há, é tão suave que não posso ouvi-la. Meu coração está tão barulhento de perguntas e dor que não consigo ouvir Sua voz sussurrante. Acalme meu espírito. Aquiete minha alma. E nos momentos em que o silêncio ameaça me convencer de que você foi embora, sussurre-me: \"Ainda estou aqui. Ainda estou trabalhando. Ainda te amo.\" Ensine-me a reconhecer sua presença não em respostas grandiosas, mas em momentos pequenos e quietos. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 23:1-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1-3",
+              "translation": "Almeida",
+              "text": "O Senhor é o meu pastor; nada me faltará. Deitar-se em verdes pastos; ele me conduz ainda às águas tranquilas. Restaura a minha alma; guia-me nas veredas da justiça, por amor do seu nome."
+            },
+            {
+              "display": "1 Reis 19:5-8",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "5-8",
+              "translation": "Almeida",
+              "text": "E deitou-se e dormiu debaixo de uma giesta; e eis que um anjo o tocou, e lhe disse: Levanta-te, come. Olhou, e eis que à sua cabeceira havia um bolo cozido sobre brasas, e um vaso de água; comeu, pois, e bebeu, e tornou a deitar-se. E o anjo do Senhor tornou segunda vez, e o tocou, e disse: Levanta-te, come, porque te resta um longo caminho. Levantou-se, pois, comeu e bebeu; e, com a força daquela comida, caminhou quarenta dias e quarenta noites até Horebe, o monte de Deus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Dia 6",
+      "title": "Deus Pode Fazer Novas Todas as Coisas, Mesmo Sem Desfazer as Antigas",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Rute 1:20-21",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "20-21",
+            "translation": "Almeida",
+            "text": "Então lhes disse: Não me chameis Noemi; chamá-me Mara, porque o Todo-Poderoso me amargurou muito. Saí cheia, mas o Senhor me trouxe vazia. Por que me chamarias Noemi, se o Senhor testificou contra mim, e o Todo-Poderoso me afligiu?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Há um tipo de cura que espera que as coisas voltem ao que eram. Você sonha com o dia em que acordará e tudo voltará ao normal, a dor desaparecerá e a vida retomará seu caminho antigo. Mas muitas vezes, a cura real não é retorno. É transformação. Você não pode desfazer o que aconteceu. Não pode levar de volta a pessoa que perdeu ou reverter as consequências do que quebrou. Mas Deus pode dar a você novas mercês, nesta paisagem nova e dolorida.",
+            "Isaías 43 diz: \"Eis que faço novas todas as coisas... e porque vos dirijo para as águas no deserto, para dar de beber à minha povo.\" Não diz que fará as coisas antigas retornarem. Diz que fará coisas novas. Às vezes, a maior compaixão que Deus pode oferecer não é restauração daquilo que foi, mas transformação daquilo que é.",
+            "Rute voltou a Belém não como viúva solitária, como Mara. Voltou como Noemi, como mulher. Deus deu a ela um novo relacionamento, um novo família, um novo lugar. Mas não a deu porque o que ela perdeu não importava ou porque a dor era relativamente sem sentido. Deu a ela porque Ele encontra alegria em transformar lamentos em danças, em fazer novas todas as coisas.",
+            "**A cura não significa que você deixará de extrair a pessoa que perdeu ou deixará de sentir a realidade da mudança.** **Significa que Deus pode construir uma vida que é bella e significativa mesmo porque você não pode retornar ao que era.** Você pode crescer nos lugares onde foi quebrado. Você pode amar profundamente novamente. Você pode encontrar alegria nova em uma terra nova.",
+            "Esse tipo de esperança é mais difícil do que um retorno ao normal. Requer que você deixe ir do que era enquanto honra completamente o seu valor. Mas essa é a esperança que Deus oferece quando a esperança de retorno se foi: a esperança de que Ele pode fazer coisas novas, começando agora, em sua vida quebrada."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, tenho medo de deixar ir do que era porque deixar ir parece como se eu estivesse dizendo que não importava. Mas você prometeu que pode fazer novas todas as coisas, não devolver todas as coisas antigas. Deixe-me chorar o que foi perdido, mas não deixe-me ficar preso lá. Prepare meu coração para a vida que você está construindo a partir das ruínas do que era. Deixe-me ver beleza nesta nova paisagem. Deixe-me descobrir o que pode ser novo mesmo enquanto honro o que se foi. Transforme meu lamento. Faça-o em dança. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Rute 1:20-21",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "20-21",
+              "translation": "Almeida",
+              "text": "Então lhes disse: Não me chameis Noemi; chamá-me Mara, porque o Todo-Poderoso me amargurou muito. Saí cheia, mas o Senhor me trouxe vazia. Por que me chamarias Noemi, se o Senhor testificou contra mim, e o Todo-Poderoso me afligiu?"
+            },
+            {
+              "display": "Isaías 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "Almeida",
+              "text": "Não vos lembreis das coisas passadas, nem considereis as coisas antigas. Eis que faço novas todas as coisas; agora sairão à luz; porventura não o sabeis? Farei um caminho no deserto, e rios no ermo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Dia 7",
+      "title": "A Esperança Não Precisa Estar Forte Para Ser Real",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Romanos 15:13",
+            "book_code": "ROM",
+            "chapter": 15,
+            "verses": "13",
+            "translation": "Almeida",
+            "text": "E o Deus da esperança vos encha de toda a alegria e paz no vosso crer, para que abundeis em esperança pelo poder do Espírito Santo."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Você chegou ao sétimo dia, e talvez a esperança ainda pareça distante. Talvez você ainda se sinta frágil. Talvez o futuro ainda seja incerto e o luto ainda seja profundo. A esperança não apareceu como você imaginava—não como um momento radiante de realização, mas como algo muito mais pequeno e quieto. Uma respiração mais fácil em um dia difícil. Uma memória que traz sorriso em vez de apenas dor. Um momento em que você foi capaz de rir, e a culpa de rir não ganhou.",
+            "Romanos 15 fala sobre esperar em Deus com alegria e paz, mas observe como começa: \"O Deus da esperança vos encha de toda a alegria e paz no vosso crer, para que abundeis em esperança pelo poder do Espírito Santo.\" A esperança vem de Deus, não de circunstâncias. A esperança não exige que a dor tenha desaparecido ou que tudo esteja resolvido. Requer apenas que você acredite que Deus ainda está presente e ainda está trabalhando.",
+            "A esperança final, a que importa, não é esperança de que as coisas antigas retornarão, ou que a dor será completamente removida, ou que você reconhecerá a si mesmo. É esperança de que Deus está presente nas ruínas, que ele não o abandona, que a vida pode continuar a ter significado e beleza mesmo quando foi quebrada.",
+            "**A esperança pode parecer muito pequena quando você esperava que fosse grande.** **Mas uma vela pequena em uma sala escura é suficiente para que você veja onde você está indo.** Essa pequena esperança é real. Esse pequeno movimento em direção ao futuro é suficiente. Você não precisa de fé gigante. Você não precisa ser forte. Você apenas precisa de Deus, e Ele está aqui.",
+            "Apocalipse promete que em nova criação, Deus \"enxugará toda lágrima dos seus olhos; não haverá mais morte, nem pranto, nem clamor, nem dor, pois as primeiras coisas passaram.\" Esse é o fim para o qual você está se movendo. Não é um fim que você dá a si mesmo através do esquecimento ou da negação. É um fim que Deus lhe dá. E até lá, você tem permissão para esperar pequeno, para chorar, para ser quebrado, e ainda assim ser amado perfeitamente."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigado que durante estes sete dias Você não foi impaciente comigo, e não se afastou porque ainda sinto tristeza. Coloque gentilmente a esperança de volta no meu coração. Não precisa vir dramaticamente, e não precisa apagar toda dor de uma vez. Deixe-me saber que posso me abrir para Você novamente. Obrigado por ser o Deus da esperança e Aquele que um dia enxugará toda lágrima. Conduza-me lentamente para fora da decepção, e ajude-me a continuar vivendo com nova ternura, nova confiança e nova esperança. E deixe que o conforto que recebo de Você se torne, com o tempo, conforto que posso oferecer a outros. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Romanos 15:13",
+              "book_code": "ROM",
+              "chapter": 15,
+              "verses": "13",
+              "translation": "Almeida",
+              "text": "E o Deus da esperança vos encha de toda a alegria e paz no vosso crer, para que abundeis em esperança pelo poder do Espírito Santo."
+            },
+            {
+              "display": "Apocalipse 21:4",
+              "book_code": "REV",
+              "chapter": 21,
+              "verses": "4",
+              "translation": "Almeida",
+              "text": "E Deus enxugará de seus olhos toda lágrima; não haverá mais morte, nem pranto, nem clamor, nem dor; porque as primeiras coisas são passadas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

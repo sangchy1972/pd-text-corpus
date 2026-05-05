@@ -1,0 +1,348 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS14",
+    "slug": "old-life-no-longer-fits",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Saisons de la Vie",
+      "secondary": "threshold-seasons",
+      "secondary_label": "Saisons de Seuil"
+    },
+    "tags": [
+      "transition",
+      "recommencer",
+      "nouveau-chapitre",
+      "entre-deux",
+      "appel",
+      "recentrage"
+    ],
+    "title": "Quand votre ancienne vie ne vous va plus",
+    "subtitle": "Faire la paix avec le changement quand le familier commence à se délier",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "en transition",
+        "recommençant",
+        "cherchant une direction"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour celle qui sent le changement se dérouler autour d'elle et a besoin d'aide pour vivre fidèlement dans l'entre-deux.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#B0C8D5",
+      "color_secondary": "#3F5C70",
+      "image_key": "cover_woman_at_doorway_soft_light",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Genèse 12:1",
+        "book_code": "GEN",
+        "chapter": 12,
+        "verses": "1"
+      },
+      {
+        "display": "Deutéronome 31:6,8",
+        "book_code": "DEU",
+        "chapter": 31,
+        "verses": "6,8"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Parfois, ce qui ne va plus, ce n'est pas vous, mais la vieille forme de votre vie",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Genèse 12:1",
+            "book_code": "GEN",
+            "chapter": 12,
+            "verses": "1",
+            "translation": "Louis Segond 1910",
+            "text": "L'Éternel dit à Abram : Va-t-en de ton pays, de ta parenté, et de la maison de ton père, dans le pays que je te montrerai."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'une des parties les plus difficiles de la transition est que le premier signe n'est souvent pas un événement dramatique, mais une sensation croissante de malaise. La vie commence à se sentir étroite aux endroits où elle se sentait autrefois gérable. Les anciennes routines existent toujours, mais elles ne semblent plus convenir à la personne que vous êtes devenue ou à la saison dans laquelle vous êtes. Parce que ce sentiment est subtil au début, beaucoup de femmes se blâment. Suis-je ingrate ? Trop sensible ? Agitée ? Plus difficile à satisfaire ?",
+            "Mais pas chaque malaise n'est le signe d'un échec personnel. Quand Abram a été appelé à quitter son pays et sa parenté, ce n'était pas parce que tout dans sa vie antérieure était devenu mauvais. C'était parce que Dieu le menait vers un nouveau chapitre. Parfois, une ancienne structure était réelle et juste pour une saison, mais elle ne peut plus porter ce qui vient ensuite.",
+            "**Quand une ancienne vie ne vous va plus, cela ne signifie pas toujours que quelque chose ne va pas chez vous. Cela peut signifier que la saison elle-même est en train de changer.** Dieu rend parfois cette sensation d'étroitesse évidente pour qu'une femme trouve le courage d'admettre la vérité : je suis maintenant à un seuil.",
+            "Vous n'avez pas besoin de définir immédiatement la nouvelle vie. Mais vous pouvez commencer en disant honnêtement devant Dieu : je ne peux plus bien respirer à l'intérieur de l'ancienne forme. Cet aveu en lui-même est déjà le commencement d'une transition fidèle."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je confesse qu'il y a des places en moi qui ne vont vraiment plus. Ces rythmes anciens, ces arrangements, ces façons de vivre qui m'étaient familiers me deviennent maintenant difficiles à respirer. Merci de me montrer que ce n'est pas parce que je suis mal à l'aise que quelque chose ne va pas chez moi. Parfois, cela signifie simplement que tu m'appelles vers un seuil nouveau. Donne-moi de l'honnêteté pour arrêter de me blâmer, et du courage pour arrêter de prétendre que l'ancienne forme me convient encore complètement. Si tu m'appelles à quitter certaines vieilles formes, ne me laisse pas m'y accrocher seulement par peur. Apprends-moi pas à pas à admettre, à lâcher prise, et à te suivre. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Genèse 12:1",
+              "book_code": "GEN",
+              "chapter": 12,
+              "verses": "1",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel dit à Abram : Va-t-en de ton pays, de ta parenté, et de la maison de ton père, dans le pays que je te montrerai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Dans la transition, l'une des vraies leçons est d'apprendre à ne pas tout définir immédiatement",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Exode 13:17-18",
+            "book_code": "EXO",
+            "chapter": 13,
+            "verses": "17-18",
+            "translation": "Louis Segond 1910",
+            "text": "Quand Pharaon laissa aller le peuple, Dieu ne le conduisit point par le chemin du pays des Philistins, bien qu'il fût près ; car Dieu dit : Il faut éviter que le peuple ne se repente en voyant la guerre, et ne retourne en Égypte. Mais Dieu fit faire un détour au peuple par le chemin du désert, vers la mer Rouge."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "On veut rapidement nommer sa situation. Est-ce une fin ou seulement un ajustement ? Un échec ou une réorientation ? Une perte ou une place qui se libère ? C'est normal de vouloir aller vite, car un nom donne une sensation temporaire de contrôle. Mais la transition résiste souvent à une définition immédiate. C'est comme le crépuscule, ni le jour ni la nuit ; comme un seuil, ni complètement dedans ni complètement dehors.",
+            "Cette ambiguïté est épuisante. Une femme en transition ne vit pas seulement le changement. Elle vit aussi sans un label stable pour ce que ce changement signifie.",
+            "Après que les Israélites ont quitté l'Égypte, ils ne sont pas entrés immédiatement dans la terre promise. Ils sont d'abord entrés dans le désert. Le désert est difficile en partie parce qu'il n'est pas la maison derrière et pas la maison devant. C'est entre. Cet entre-deux est ce qui fait que les gens veulent désespérément une interprétation rapide. Pourtant, Dieu entraîne souvent son peuple là-bas, lui apprenant à vivre sans explication totale tout en étant guidé.",
+            "**Pas chaque saison importante ne peut être définie immédiatement. Certaines vérités ne deviennent claires que pendant que nous marchons.** Si vous êtes épuisée de ne pas savoir comment étiqueter votre saison, laissez Dieu vous soulager du fardeau d'une explication instantanée. Il sait déjà quel genre de saison c'est, même si vous ne l'avez pas encore le langage.",
+            "Vous n'avez pas besoin de le nommer parfaitement pour le traverser fidèlement."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je confesse que je veux expliquer rapidement cette saison pour que mon cœur se sente plus en sécurité. Mais tu sais que l'une des parties les plus épuisantes est cette impossibilité de la nommer clairement. Libère-moi de l'anxiété de devoir avoir des étiquettes immédiates. Apprends-moi que même si je n'ai pas encore de langage complet, tu sais déjà exactement où je suis. Empêche-moi de devenir plus paniquée parce que les choses restent en suspens, et empêche-moi de me forcer à donner des réponses avant qu'elles ne soient prêtes. Laisse-moi apprendre à demeurer en toi dans cette saison encore innommée. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Exode 13:17-18",
+              "book_code": "EXO",
+              "chapter": 13,
+              "verses": "17-18",
+              "translation": "Louis Segond 1910",
+              "text": "Quand Pharaon laissa aller le peuple, Dieu ne le conduisit point par le chemin du pays des Philistins, bien qu'il fût près ; car Dieu dit : Il faut éviter que le peuple ne se repente en voyant la guerre, et ne retourne en Égypte. Mais Dieu fit faire un détour au peuple par le chemin du désert, vers la mer Rouge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Vivre fidèlement dans l'entre-deux importe plus que se précipiter vers une réponse claire",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ruth 2:2-3",
+            "book_code": "RUT",
+            "chapter": 2,
+            "verses": "2-3",
+            "translation": "Louis Segond 1910",
+            "text": "Ruth dit à Naomi : Laisse-moi, je te prie, aller glaner des épis dans le champ de celui aux yeux duquel je trouverai grâce. Naomi lui dit : Va, ma fille. Elle se mit en route et alla glaner dans le champ, en suivant les moissonneurs."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Dans une période de transition, il est facile de faire de la découverte de la prochaine réponse claire le but suprême. Mais la Bible s'intéresse souvent moins à la rapidité avec laquelle vous comprenez l'étape suivante qu'à la façon dont vous vivez quand ce n'est pas clair. Quand Ruth et Noémi sont revenues à Bethléem, elles ne possédaient pas encore un avenir complet. Elles ont simplement commencé à vivre fidèlement dans ce qui était devant elles : récolter les épis, prendre soin l'une de l'autre, recevoir la provision du jour.",
+            "Le plus grand déploiement est venu plus tard. Il n'a pas commencé par une explication totale. Il a commencé par la fidélité dans l'entre-deux.",
+            "Cela a de l'importance parce que beaucoup de femmes traitent inconsciemment la transition comme la vraie vie. Elles pensent : une fois que cette saison se stabilise, alors je vivrai vraiment, prierai, construirai et deviendrai fidèle à nouveau. Mais Dieu est ici maintenant. L'entre-deux n'est pas un bouton de pause. C'est une partie de votre apprentissage.",
+            "**Vous n'avez pas besoin de traiter la transition comme la salle d'attente avant que la vraie vie commence.** Les petits actes d'honnêteté, de rythme, de travail, de prière et de réception qui appartiennent à aujourd'hui constituent déjà une vraie vie. C'est aussi une vraie formation.",
+            "Dieu ne traite pas l'entre-deux comme une version inférieure de votre histoire. Vous non plus, ne devriez pas le faire."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, sauve-moi de l'attitude de traiter la transition comme une salle d'attente avant que la vraie vie commence. Merci que tu sois ici maintenant, pas seulement dans une version plus stable de ma vie. Apprends-moi à vivre avec une petite fidélité même quand je n'ai pas encore de grandes réponses. Aide-moi à maintenir l'honnêteté, le rythme et la réceptivité d'aujourd'hui tandis que la plus grande image reste floue. Si je continue à supposer que seule la clarté mérite du sérieux, corrige-moi. Laisse-moi savoir que cet entre-deux n'est pas secondaire pour toi, et que tu me formes aussi ici. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ruth 2:2-3",
+              "book_code": "RUT",
+              "chapter": 2,
+              "verses": "2-3",
+              "translation": "Louis Segond 1910",
+              "text": "Ruth dit à Naomi : Laisse-moi, je te prie, aller glaner des épis dans le champ de celui aux yeux duquel je trouverai grâce. Naomi lui dit : Va, ma fille. Elle se mit en route et alla glaner dans le champ, en suivant les moissonneurs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Faire la paix avec le changement ne signifie pas que vous l'aimez",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jacques 1:8",
+            "book_code": "JAS",
+            "chapter": 1,
+            "verses": "8",
+            "translation": "Louis Segond 1910",
+            "text": "L'homme au cœur partagé est inconstant dans toutes ses voies."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens n'aiment pas la phrase « accepter le changement » parce qu'elle semble signifier : vous devez immédiatement vous adapter, avancer rapidement et arrêter de résister. Mais la vraie paix avec le changement n'est pas si superficielle. Elle ne nie pas la peine, la désorientation ou le souhait de récupérer l'ancienne vie. Elle commence simplement à libérer une personne de la lutte intérieure sans fin.",
+            "Vous n'aimez peut-être pas le changement. Vous pouvez toujours pleurer ce qu'il a altéré. Mais vous n'avez plus besoin de passer chaque jour à guerroyer contre le fait qu'il s'est produit.",
+            "Jacques parle de l'instabilité d'un cœur divisé. La transition crée facilement cette division : une partie de vous veut avancer, et une partie s'accroche à ce qui est derrière. Cette tension est épuisante. La paix ne commence pas quand vous vous sentez joyeuse de la nouvelle réalité. Elle commence quand vous dites honnêtement : Cela s'est produit, et je ne vais pas y faire face seule.",
+            "**La paix n'est pas la disparition du changement. C'est la fin de croire que le déni et la résistance sont le seul moyen de se protéger.** Donc, si une lutte intérieure gronde toujours en vous, apportez ce conflit devant Dieu. Il peut conduire le cœur de la rigidité vers une confiance plus tendre."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je confesse qu'il y a encore beaucoup de places en moi qui combattent le changement. Une partie sait que l'ancienne vie ne peut pas revenir, mais une autre part la repousse, la conteste, s'y accroche. Merci de ne pas t'éloigner simplement parce que je n'ai pas bien accepté cela. Approche-toi des places brisées et rigides en moi. Ne me force pas à une fermeture prématurée, mais conduis-moi doucement hors de la lutte intérieure chronique. Apprends-moi à reconnaître ce qui s'est passé et ensuite à avancer avec toi plutôt que d'essayer de le supporter seule. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jacques 1:8",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "L'homme au cœur partagé est inconstant dans toutes ses voies."
+            },
+            {
+              "display": "Psaume 34:18",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "18",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel est près de ceux qui ont le cœur brisé, et il sauve ceux qui ont l'esprit abattu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Quand l'ancienne vie lâche prise, Dieu ne lâche pas prise",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Deutéronome 31:6,8",
+            "book_code": "DEU",
+            "chapter": 31,
+            "verses": "6,8",
+            "translation": "Louis Segond 1910",
+            "text": "Fortifie-toi et prends courage ! car l'Éternel, ton Dieu, marche avec toi, il ne t'abandonnera point, il ne te délaissera point... C'est l'Éternel qui marche devant toi, il sera lui-même avec toi, il ne t'abandonnera point, il ne te délaissera point ; ne crains point, et ne t'effraie point."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'une des angoisses les plus profondes de la transition est que beaucoup de choses familières commencent à se délier à la fois. Les vieilles identités ne tiennent plus de la même manière. Les vieilles routines perdent leur structure. Les relations changent de forme. Les maisons, les emplois, les suppositions et les sécurités commencent à bouger. Dans ce relâchement, l'instinct est de s'accrocher plus fortement à quelque chose, n'importe quoi, qui semblait stable.",
+            "L'Évangile ne nous réconforte pas en promettant que rien d'autre ne changera. Il nous réconforte en promettant que Dieu ne lâche pas prise.",
+            "Moïse dit au peuple dans le Deutéronome d'être fort et courageux parce que l'Éternel va avec eux et ne les abandonnera ni ne les trahira. Cette promesse compte surtout dans les saisons de réorganisation. La transition crée souvent la crainte que si tant d'autres choses bougent, peut-être que Dieu aussi semblerait plus loin. L'Écriture dit le contraire. Beaucoup de choses peuvent se délier, mais sa présence n'en fait pas partie.",
+            "**Ce qui soutient vraiment une femme dans la transition, ce n'est pas sa capacité à s'adapter parfaitement, mais la présence inchangée de Dieu.** Cela donne une stabilité plus profonde que l'auto-confiance ne le peut jamais.",
+            "Nommez ce qui se délite. Apportez-le devant Dieu. Puis apportez-vous aussi. L'entre-deux n'est pas soutenu par une meilleure prise. Il est soutenu par une confiance plus profonde."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, quand tant de choses familières commencent à se délier, je confesse que j'ai peur. Je veux m'accrocher à l'ancien ordre, à l'ancienne identité, à l'ancienne sécurité, comme si autrement je pourrais tout perdre à la fois. Merci de me rappeler que tandis que beaucoup de choses peuvent changer, tu ne lâches pas prise. Plante cette promesse en moi plus profondément que ma panique. Apprends-moi non seulement à m'adapter, mais à confier. Si ce dont j'ai le plus besoin aujourd'hui est de me souvenir de ta présence à nouveau, rends cette présence vivante et réelle pour moi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Deutéronome 31:6,8",
+              "book_code": "DEU",
+              "chapter": 31,
+              "verses": "6,8",
+              "translation": "Louis Segond 1910",
+              "text": "Fortifie-toi et prends courage ! car l'Éternel, ton Dieu, marche avec toi, il ne t'abandonnera point, il ne te délaissera point... C'est l'Éternel qui marche devant toi, il sera lui-même avec toi, il ne t'abandonnera point, il ne te délaissera point ; ne crains point, et ne t'effraie point."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

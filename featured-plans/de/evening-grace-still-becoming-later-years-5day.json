@@ -1,0 +1,364 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS11",
+    "slug": "still-becoming-later-years",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Lebensjahreszeiten",
+      "secondary": "evening-grace",
+      "secondary_label": "Gnade des Abends"
+    },
+    "tags": [
+      "aeltere-frauen",
+      "altern",
+      "weisheit",
+      "vermaechtnis",
+      "gegenwart",
+      "noch-werdend"
+    ],
+    "title": "Immer noch zu werden in den späteren Jahren",
+    "subtitle": "Denn das Wachstum endet nicht, wenn ein Kapitel sich schließt",
+    "audience": {
+      "life_stage": [
+        "ältere Frauen",
+        "sechziger und älter",
+        "späteres Leben"
+      ],
+      "emotional_state": [
+        "nachdenklich",
+        "im Frieden",
+        "noch werdend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Für Frauen in späteren Lebensabschnitten, die sich erinnern müssen, dass Gott sie immer noch formt, beruft und über ihre früheren Rollen hinaus wachsen lässt.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_evening_lamp_quiet_window",
+      "icon": "lit-candle-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Philipper 1:6",
+        "book_code": "PHP",
+        "chapter": 1,
+        "verses": "6"
+      },
+      {
+        "display": "Römer 8:29",
+        "book_code": "ROM",
+        "chapter": 8,
+        "verses": "29"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Rollen können sich ändern, ohne dass das Wachstum endet",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Philipper 1:6",
+            "book_code": "PHP",
+            "chapter": 1,
+            "verses": "6",
+            "translation": "Lutherbibel 1912",
+            "text": "Und ich bin darin guter Dinge, daß der, welcher in euch angefangen hat das gute Werk, wird es auch vollführen bis auf den Tag Jesu Christi."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Frauen treten mit dem Alter in spürbare Rollenveränderungen ein. Rollen fallen weg. Identitäten verschieben sich. Das, was uns lange Jahre definierte, weicht langsam zurück. Was oft am schwierigsten ist, ist nicht nur die neu verfügbare Zeit, sondern die innere Frage: Wenn ich nicht mehr die ständig benötigte Version meiner selbst bin, wer bin ich dann?",
+            "Es geht nicht darum, in ängstliche Identitätssuche zu verfallen. Es geht darum, etwas Sanfteres zu erkennen: Rollen können sich ändern, ohne dass Gottes Formungswerk stoppt. Der Philipperbrief sagt, dass der, der in euch ein gutes Werk angefangen hat, es bis zum Tage Jesu Christi vollbringen wird. Gottes Werk an einem Leben ist länger als jede Rolle und tiefer als jede Zeit großer Nützlichkeit.",
+            "Späteres Wachstum kann nicht nach außen expandieren, sondern nach innen reifen. Größere Geduld. Tieferer Frieden. Vergrößerte Liebe. Reinere Beweggründe. Eine gleichmäßigere Seele.",
+            "**Wenn ein Kapitel sich schließt, bedeutet das nicht, dass die Geschichte kleiner geworden ist. Es könnte bedeuten, dass Gott dir eine andere Art des Wachstums öffnet.** Wenn dich Rollenveränderung unsicher gemacht hat, stürze dich nicht sofort in neue Geschäftigkeit. Lass Gott dir zuerst zurufen: Mein Werk in dir ist nicht zu Ende."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, wenn vertraute Rollen sich verändern, gestehe ich dir, dass ich nicht immer weiß, wie ich mein gegenwärtiges Selbst betrachten soll. Danke, dass du mich daran erinnerst, dass dein Werk in mir nicht aufgehört hat, weil sich eine Rolle verändert hat. Befreie mich von dem Drang, meine Wichtigkeit durch neue Geschäftigkeit zu beweisen. Lehre mich stattdessen, die Wahrheit zu empfangen, dass du mich immer noch formst. Wenn du mich in eine andere Art des Wachstums leitest, gib mir Demut, Geduld und Vertrauen. Halte mich davor ab, nur in Erinnerungen zu leben, als ich am meisten gebraucht wurde. Hilf mir, in der Wirklichkeit zu leben, dass du immer noch redest und in mir wirkst. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Philipper 1:6",
+              "book_code": "PHP",
+              "chapter": 1,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Und ich bin darin guter Dinge, daß der, welcher in euch angefangen hat das gute Werk, wird es auch vollführen bis auf den Tag Jesu Christi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "In späteren Jahren führt uns Gott oft zu mehr Wahrhaftigkeit statt Schauspiel",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "2. Korinther 4:16",
+            "book_code": "2CO",
+            "chapter": 4,
+            "verses": "16",
+            "translation": "Lutherbibel 1912",
+            "text": "Darum werden wir nicht müde; sondern ob unser äußerer Mensch verfällt, so wird doch der innere Tag um Tag erneuert."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wenn wir jung sind, ist es leicht, in einer Performance zu leben. Wir wollen stark, fähig, klar und zusammengefasst wirken. Mit den Jahren lockert sich dieses äußere Schauspiel oft. Nicht, weil eine Frau aufhört, sich um das Leben zu kümmern, sondern weil sie lange genug gelebt hat, um zu wissen, dass Erscheinungen eine Seele nicht wirklich zusammenhalten können.",
+            "In späteren Jahren führt Gott eine Frau oft zu einer echteren Art zu leben. Sie wird weniger daran interessiert, beeindruckend zu wirken, und mehr daran, echt zu sein. Weniger interessiert an Tadellosigkeit und williger, ehrlich vor Gott zu leben.",
+            "Paulus sagt, dass der äußere Mensch verderbe, der innere aber erneuert wird täglich. Er beleidigt nicht das äußere Leben. Er stellt die Proportionen wieder her. Was in späteren Jahren am wertvollsten wird, ist oft nicht die Fähigkeit, unverändert zu bleiben, sondern die Gnade, authentischer, einfach und weniger abhängig von Bildern zu werden.",
+            "**Gott macht dich nicht weniger in den späteren Jahren. Er macht dich oft echter.** Wenn du gemerkt hast, dass dir die Kraft oder der Wille fehlt, bestimmte Leistungen aufrechtzuerhalten, deute das nicht sofort als Niedergang. Es könnte eine der Wege sein, wie Gott dich zurück zur Wahrhaftigkeit führt.",
+            "Spätere Freiheit sieht oft stiller aus als jugendliches Selbstvertrauen, aber sie könnte far echter sein."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du mich in den späteren Jahren nicht nur lehrst, wie ich ertrage, sondern auch, wie ich authentischer lebe. Wenn ich zu sehr von Erscheinungen, Anerkennung oder dem Sicherheitsgefühl, noch okay auszusehen, abhängig war, gib mir daraus frei. Halte mich davor ab, Authentizität für Niedergang zu halten oder das Ablegen einer Fassade als Versagen zu deuten. Danke, dass dir Wahrheit in den inneren Teilen wichtig ist. Lass mich schlicht vor dir werden, weniger engagiert beim Aufrechterhalten eines Images und williger, als eine echte, stille und freie Frau in deiner Gegenwart zu leben. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "2. Korinther 4:16",
+              "book_code": "2CO",
+              "chapter": 4,
+              "verses": "16",
+              "translation": "Lutherbibel 1912",
+              "text": "Darum werden wir nicht müde; sondern ob unser äußerer Mensch verfällt, so wird doch der innere Tag um Tag erneuert."
+            },
+            {
+              "display": "Psalm 51:6",
+              "book_code": "PSA",
+              "chapter": 51,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Siehe, du liebest Wahrheit im Inwendigen..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Das Wachstum dauert an, auch wenn sich seine Richtung ändert",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Kolosser 1:10",
+            "book_code": "COL",
+            "chapter": 1,
+            "verses": "10",
+            "translation": "Lutherbibel 1912",
+            "text": "...daß ihr würdiglich wandelt des Herrn zum ganzen Gefallen, fruchtbar in jedem guten Werke und wachsend in der Erkenntnis Gottes."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Menschen setzen voraus, dass Wachstum hauptsächlich in der ersten Lebenshälfte stattfindet. Lernen, Dehnen, Risiko und Veränderung scheinen natürlicherweise mit der Jugend verbunden. Später wird die Zeit dann eher als Aufrechterhaltung dessen betrachtet, was bereits gebaut wurde. Gott sieht Wachstum nicht so eng.",
+            "Die späteren Jahre mögen weniger äußere Expansion bieten, aber sie können tiefes inneres Wachstum enthalten. Tatsächlich finden einige der schönsten Formen des Wachstums dann statt: weniger Angst, weniger Kontrolle, tiefere Dankbarkeit, größerer Frieden mit Verlust und eine geräumigere Liebe.",
+            "Der Kolosserbrief spricht davon, Früchte zu tragen in jedem guten Werk und zuzunehmen in der Erkenntnis Gottes. Dieses \"zunehmen\" ist wichtig. Es erinnert uns daran, dass das geistliche Leben keinen Endpunkt hat, an dem Gott sagt: \"Du hast dich genug entwickelt.\" Solange eine Frau in Ihm lebt, kann sie Ihn weiterhin kennen, verändert werden und wachsen.",
+            "**Du bist nicht aus dem Alter des Wachstums herausgekommen. Du magst nur in eine andere Form desselben eingetreten sein.** Das sollte dir wirkliche Hoffnung für die späteren Jahre geben. Du kannst immer noch lernen, immer noch verändern, immer noch reifen und immer noch neue Früchte tragen, nicht um dich selbst zu beweisen, sondern weil Gottes Leben in dir immer noch aktiv ist."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du das Wachstum nicht nur dem Jungen vorbehalten hast. Befreie mich von dem Gedanken, dass ich jetzt einfach fertig bin, und halte mich für dein fortgehendes Werk in den späteren Jahren offen. Wenn du immer noch tiefere Dankbarkeit, ruhigeren Frieden, breitere Liebe und klareres Sehen in mir wachsen lässt, mach mich bereit, von dir geformt zu werden. Halte mich davor ab, nur das zu bewachen, was vorher gebildet wurde. Lass mich auch weiterhin in dir erneuert werden. Möge die zweite Hälfte meines Lebens nicht starr sein, sondern in deiner Gegenwart weiter reifen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Kolosser 1:10",
+              "book_code": "COL",
+              "chapter": 1,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "...daß ihr würdiglich wandelt des Herrn zum ganzen Gefallen, fruchtbar in jedem guten Werke und wachsend in der Erkenntnis Gottes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Späteres Wachstum wird zum Segen für andere",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Titus 2:3-4",
+            "book_code": "TIT",
+            "chapter": 2,
+            "verses": "3-4",
+            "translation": "Lutherbibel 1912",
+            "text": "...die Älteren ebenso als heilig in Wandel; nicht Lästerung redend, nicht vielem Wein ergeben, Lehrer von gutem; daß sie die jungen Frauen unterweisen..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Eine der kostbaren Gaben des späteren Wachstums ist, dass es nicht mehr nur dem Selbst dient. Eine Frau beginnt zu erkennen, dass die Jahre, die Gott in sie hineingearbeitet hat, möglicherweise zu Schatten, Trost, Führung und Segen für andere werden. Nicht jede Frau wird öffentlich mentorieren oder formal unterrichten. Doch jedes Leben, das von Gnade geprägt ist, trägt eine Art Gewicht. Dieses Gewicht zeigt sich in Tonfall, Zuhören, Gebet, Gegenwart und Perspektive.",
+            "Der Titusbrief spricht davon, dass ältere Frauen jüngere Frauen unterrichten. Dies ist keine Aufforderung, herablassend zu werden. Es ist eine Bestätigung, dass Reife nicht nur für privates Überleben ist. Sie wird zum Segen für die, die folgen.",
+            "Einige spätere Früchte sind nicht nur für die Person bestimmt, die sie trägt. Gott bildet bestimmte Qualitäten in einer Frau, damit sie mit der Zeit andere nähren können.",
+            "**Ein Leben, das von Gnade gereift ist, wird oft zu einem Ort, an dem andere ausruhen können.** Wenn du angenommen hast, dass späte Jahre nur von persönlicher Trauer und stillem Durchhalten handeln, lass Gott deine Vorstellung erweitern. Er könnte immer noch beabsichtigen, dass dein Leben zum Unterschlupf wird, nicht durch Schauspiel, sondern durch echte, gelebte Weisheit und Freundlichkeit."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass deine Arbeit in mir über die Jahre nicht vergeblich war. Wenn du Warten, Verlust, Treue, Geduld und Stille benutzt hast, um mich zu prägen, lass mich wissen, dass dies nicht nur für mein Überleben war. Lass mein späteres Leben nicht mehr verschlossen werden, sondern mehr beherbergend. Wenn du meine Worte, Gebete, mein Zuhören, meine Gegenwart und meine Perspektive benutzen möchtest, um andere zu segnen, gib mir Demut, dies anzunehmen. Halte mich davor ab, durch Leistung oder bloße Ratschläge Einfluss zu nehmen. Lass Gnade leise aus einem Leben fließen, das wirklich von dir geformt wurde. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Titus 2:3-4",
+              "book_code": "TIT",
+              "chapter": 2,
+              "verses": "3-4",
+              "translation": "Lutherbibel 1912",
+              "text": "...die Älteren ebenso als heilig in Wandel; nicht Lästerung redend, nicht vielem Wein ergeben, Lehrer von gutem; daß sie die jungen Frauen unterweisen..."
+            },
+            {
+              "display": "2. Korinther 1:4",
+              "book_code": "2CO",
+              "chapter": 1,
+              "verses": "4",
+              "translation": "Lutherbibel 1912",
+              "text": "Der uns tröstet in all unserer Bedrängnis, daß wir die Bedrängten trösten können mit dem Troste, mit welchem wir selbst von Gott getröstet werden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Immer noch zu werden bedeutet Christusähnlichkeit, nicht die Rückgewinnung der Jugend",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Römer 8:29",
+            "book_code": "ROM",
+            "chapter": 8,
+            "verses": "29",
+            "translation": "Lutherbibel 1912",
+            "text": "Denn welche er zuvor erkannt hat, die hat er auch zuvor verordnet, daß sie gleich sein sollten dem Bilde seines Sohnes..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wenn das spätere Leben keine echte Richtung hat, wird es leicht von der Welt in die Sprache der Bewahrung von Jugendlichkeit hineingezogen. Aber geistliches Wachstum ist nie darum gegangen, wieder jünger zu werden. Es ist immer darum gegangen, Christus ähnlicher zu werden. Du brauchst nicht, deinen früheren Selbst in der zweiten Hälfte wiederherzustellen. Du wirst eingeladen, in deinem gegenwärtigen Leben Christus ähnlicher zu werden. Das ändert den Fokus völlig. Das Ziel ist nicht bewahrtes Image, sondern tiefere Liebe, ruhigerer Frieden, reinere Beweggründe und freierer Gehorsam.",
+            "Der Römerbrief sagt uns, dass wir dazu bestimmt sind, dem Bilde des Sohnes Gottes gleichförmig zu werden. Diese Berufung endet nicht. Gott erreicht nie ein bestimmtes Alter und sagt: \"Das reicht jetzt.\" Er setzt sein Werk fort, obgleich es in späteren Jahren oft stiller, innerer und nackter wird.",
+            "Eine Frau lebt nicht mehr aus Schwung, nicht mehr aus Frische, sondern wird allmählich immer mehr wie Jesus. Das ist nicht prahlerisch, aber es ist zutiefst schön.",
+            "**Echtes fortgesetztes Werden ist nicht ein Rückwärtshaschen. Es ist eine Bewegung näher zu Christus.** Wenn ein Teil von dir immer noch sehnt, das zurückzugewinnen, was war, lass Gott diese Sehnsucht sanft wenden. Deine Aufgabe ist nicht, die Jugend wiederzugewinnen. Es ist, dein gegenwärtiges Leben tiefer ihm zu geben.",
+            "Diese Art zu werden ist nicht auffällig, aber sie ist zutiefst wunderbar."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, korrigiere meine Vorstellung vom Wachstum in den späteren Jahren. Halte mich davor ab, mir auszumalen, wie ich das Alte zurückgewinnen, eine Fassade bewahren oder beweisen könnte, dass ich noch wie früher bin, und gib mir stattdessen eine einfachere Sehnsucht: dir mehr zu ähneln. Wenn ich immer noch an alten Versionen meiner selbst festhalte, löse meinen Griff sanft. Danke, dass du ein Leben in jedem Abschnitt formst, bis es mehr von Christus trägt. Lass den späteren Teil meines Lebens nicht zum Projekt der Wahrung von Erscheinungen werden, sondern zu einem tieferen Ausdruck deiner Ähnlichkeit. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Römer 8:29",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "29",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn welche er zuvor erkannt hat, die hat er auch zuvor verordnet, daß sie gleich sein sollten dem Bilde seines Sohnes..."
+            },
+            {
+              "display": "2. Korinther 3:18",
+              "book_code": "2CO",
+              "chapter": 3,
+              "verses": "18",
+              "translation": "Lutherbibel 1912",
+              "text": "...werden verwandelt in das nämliche Bild von einer Herrlichkeit zur andern..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG06",
+    "slug": "hope-feels-delayed",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "grief-disappointment",
+      "secondary_label": "Tristesse et Déception"
+    },
+    "tags": [
+      "tristesse",
+      "deception",
+      "esperance-retardee",
+      "pleurs",
+      "consolation"
+    ],
+    "title": "Quand l'Espérance Semble Tardive",
+    "subtitle": "Ces sept jours vous accompagnent doucement à travers le désappointement et l'attente prolongée, ramenant votre cœur vers le Dieu qui est toujours présent et toujours miséricordieux.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "en deuil",
+        "déçue",
+        "éplorée"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces sept jours vous accompagnent doucement à travers le désappointement et l'attente prolongée, ramenant votre cœur vers le Dieu qui est toujours présent et toujours miséricordieux.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_quiet_garden_soft_rain_grief",
+      "icon": "falling-leaf-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psaume 13:1-2",
+        "book_code": "PSA",
+        "chapter": 13,
+        "verses": "1-2"
+      },
+      {
+        "display": "Romains 15:13",
+        "book_code": "ROM",
+        "chapter": 15,
+        "verses": "13"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Je n'ai pas besoin d'être fort avant de venir devant Dieu",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 13:1-2",
+            "book_code": "PSA",
+            "chapter": 13,
+            "verses": "1-2",
+            "translation": "Louis Segond 1910",
+            "text": "Éternel ! jusques à quand m'oublieras-tu ? Jusques à quand me cacheras-tu ta face ? Jusques à quand consulterai-je en moi-même, ayant la douleur dans mon cœur pendant le jour ?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens, face au deuil, commencent par se retenir. Ce n'est pas parce qu'ils n'ont pas mal, mais parce qu'ils ne savent pas quoi faire d'autre. Vous devez peut-être travailler, prendre soin de votre famille, répondre aux autres, et même réconforter ceux qui se sont effondrés avant vous. Petit à petit, il devient facile de confondre « je continue à fonctionner » avec « je vais mieux ». Mais continuer à vivre et être véritablement consolé sont deux choses différentes.",
+            "C'est pourquoi il y a tant de lamentations dans les Psaumes : Dieu sait bien que les gens ne viennent pas le voir seulement quand ils sont en ordre. Ils viennent aussi dans le chaos, la déception, quand les mots manquent, et même avec un peu de reproche. Le Psaume 13 est une telle prière. Il ne s'enveloppe pas d'abord lui-même, n'essaie pas de se rappeler « d'être plus positif ». Il crie d'abord la douleur réelle. Matthieu nous dit que « Bienheureux les affligés, car ils seront consolés ». En d'autres termes, Dieu n'attend pas un vous déjà rangé pour vous consoler. Il est prêt à vous consoler dès que vous ouvrez la bouche dans votre deuil.",
+            "Aujourd'hui, cessez d'exiger de vous-même de d'abord être fort. Venez devant Dieu tel que vous êtes, en désordre, vide, avec des larmes, même avec le silence de ne pas savoir quoi dire. La prière n'est parfois qu'une phrase incomplète : « Seigneur, j'en suis vraiment fatigué. » Cela suffit.",
+            "**Continuer à fonctionner n'est pas la même chose que guérir.** Si vous avez retenu votre cœur pour tout le monde, laissez aujourd'hui devenir une invitation à relâcher votre prise devant Dieu. **La lamentation n'est pas une faiblesse. C'est une façon dont l'âme cesse de prétendre.** Le Seigneur n'a pas besoin que votre deuil soit soigné avant de le recevoir.",
+            "Le Seigneur ne confond pas la maîtrise de soi avec la guérison, et Il ne passe pas à côté du chagrin caché sous une apparence capable. Dieu reçoit le deuil qui n'a pas encore trouvé de paroles. Dieu accueille le deuil qui se sent encore confus, inachevé, difficile à expliquer, et Il ne vous demande pas d'être moins affecté pour être près de Lui."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, aujourd'hui, je ne veux plus me demander d'être fort avant de venir te voir. Tu sais que dehors je continue à fonctionner, mais dedans je suis déjà très fatigué, très vide, très douloreux. Merci de ne pas repousser ceux qui pleurent, mais de promettre la consolation. Aujourd'hui je viens devant toi tel que je suis, sans décorum, sans masque, sans me forcer à tout comprendre rapidement. Si je ne peux que soupirer, entends-le. Si je ne peux que pleurer, reçois-le. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 13:1-2",
+              "book_code": "PSA",
+              "chapter": 13,
+              "verses": "1-2",
+              "translation": "Louis Segond 1910",
+              "text": "Éternel ! jusques à quand m'oublieras-tu ? Jusques à quand me cacheras-tu ta face ? Jusques à quand consulterai-je en moi-même, ayant la douleur dans mon cœur pendant le jour ?"
+            },
+            {
+              "display": "Matthieu 5:4",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "4",
+              "translation": "Louis Segond 1910",
+              "text": "Bienheureux les affligés, car ils seront consolés !"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Qu'ai-je vraiment perdu",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ruth 1:20-21",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "20-21",
+            "translation": "Louis Segond 1910",
+            "text": "Et Noomi dit à ses belles-filles : Retournez, mes filles ; allez-vous-en. Pourquoi viendriez-vous avec moi ?... Je suis partie pleine, et l'Éternel m'a ramenée vide..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Le deuil n'est souvent qu'une perte tangible, avec quelque chose de plus profond dessous. Vous êtes peut-être endeuillé d'une relation qui s'est terminée, mais la perte plus profonde est la sécurité ; vous êtes peut-être endeuillé d'une occasion manquée, mais la perte plus profonde est l'espoir pour vous-même ; vous êtes peut-être endeuillé d'une personne qui s'en est allée, mais la perte plus profonde est le sentiment « quelqu'un me comprend ». Si nous nous arrêtons seulement à l'événement de surface, la blessure plus profonde dans le cœur peut continuer à faire mal tranquillement.",
+            "Naomi dans le Livre de Ruth ne perd pas seulement son mari et ses fils, elle perd aussi le cours de sa vie qu'elle connaissait. Elle passe de « pleine » à « vide », et cette phrase porte plus que les différences matérielles. Elle porte le sentiment que l'identité, l'appartenance et l'espoir ont tous été secoués. Le Psaume 42 aussi : le psalmiste ne dit pas simplement qu'il est triste, mais cherche continuellement son cœur dans la tristesse. Très souvent, ce que Dieu guérit n'est pas l'événement de surface, c'est l'endroit plus profond qui a aussi été déchiré avec lui.",
+            "Aujourd'hui, essayez d'écrire votre deuil en deux couches. La première est « ce que j'ai perdu » ; la deuxième est « quelle partie profonde de moi a aussi été perdue ». Peut-être la confiance, la stabilité, le sens de la direction, la certitude d'être aimé. Cette distinction vous aidera à comprendre pourquoi certaines douleurs ne passent pas simplement avec le temps, car elles ne blessent jamais seulement la surface.",
+            "**Dieu guérit souvent non seulement la perte visible, mais l'endroit plus profond en vous qui a été déchiré avec elle.** **Nommer la couche plus profonde, ce n'est pas trop réfléchir. C'est faire de la place pour une prière plus véridique.** Le Seigneur voit à la fois l'événement extérieur et la blessure interne qui l'accompagne.",
+            "Quand vous voyez plus clairement ce que vous avez perdu, la prière commence aussi à devenir plus concrète. Vous ne demandez pas seulement « Seigneur, console-moi », vous commencez à dire : « Seigneur, j'ai perdu la stabilité, je te supplie de ramener à ta présence la partie de mon cœur qui a été déchirée. »"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, aide-moi à voir mon deuil plus fidèlement. Souvent je pense que je ne pleure qu'une seule chose, mais il y a quelque chose de plus profond en moi qui a aussi été déchiré. Tu sais ce que j'ai perdu, et tu sais comment cette perte a secoué mon sens de sécurité, d'appartenance ou d'avenir. Aujourd'hui, je te présente ces pertes plus profondes. Ne console pas seulement la surface de mes émotions, mais viens dans les endroits cachés qui continuent à faire mal en silence. Merci de voir plus profondément que je ne le fais moi-même. Que ma compréhension et ma guérison grandissent lentement à la lumière. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ruth 1:20-21",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "20-21",
+              "translation": "Louis Segond 1910",
+              "text": "Et Noomi dit à ses belles-filles : Retournez, mes filles ; allez-vous-en. Pourquoi viendriez-vous avec moi ?... Je suis partie pleine, et l'Éternel m'a ramenée vide..."
+            },
+            {
+              "display": "Psaume 42:3,5",
+              "book_code": "PSA",
+              "chapter": 42,
+              "verses": "3,5",
+              "translation": "Louis Segond 1910",
+              "text": "Mes larmes ont été ma nourriture jour et nuit... Mon âme, pourquoi t'abats-tu ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Quand l'attente elle-même devient une blessure",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 13:12",
+            "book_code": "PRO",
+            "chapter": 13,
+            "verses": "12",
+            "translation": "Louis Segond 1910",
+            "text": "L'espérance différée rend le cœur malade, Mais le désir satisfait est un arbre de vie."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certaines personnes sont en deuil non pas d'une perte définitive, mais d'une longue attente, sans résultat. L'attente est particulière car elle n'offre pas de fin claire où vous pourriez pleurer, ni de point final où vous pourriez dire « c'est terminé ». Vous vivez simplement suspendu, ni là ni ici, ne sachant pas s'il faut continuer à espérer ou commencer à lâcher prise. Cet état-là épuise souvent plus qu'une perte nette.",
+            "Les Proverbes disent : « L'espérance différée rend le cœur malade. » L'Écriture reconnaît que l'attente elle-même peut blesser. Ce n'est pas seulement une mauvaise nouvelle qui fait mal, mais l'absence prolongée de nouvelles, l'absence de changement, l'absence de réalisation blesse aussi profondément. Vous n'avez peut-être rien perdu formellement, mais une partie de vous commence déjà à pleurer ce futur qu'on attendait et qui n'est pas venu. L'attente n'est pas une zone intermédiaire facile, elle peut elle-même devenir une blessure profonde.",
+            "Le Psaume 130 donne des paroles pour cette agonie. Le psalmiste dit : « Mon âme attend l'Éternel, je l'attends plus que les gardes n'attendent la lumière. » Ce n'est pas une attente facile, mais une longing active dans l'obscurité. Pour beaucoup de gens déçus, cela sonne vrai. Vous n'avez pas renoncé, mais vous êtes vraiment fatigué.",
+            "**L'incertitude peut devenir sa propre sorte de deuil.** Si l'attente a fatigué votre cœur, laissez Dieu l'entendre honnêtement aujourd'hui. **Vous n'avez pas besoin de prétendre que ce lieu entre-deux est facile pour rester fidèle en lui.** Parfois la foi ressemble à continuer d'attendre devant Dieu sans nier combien l'attente vous a fatigué.",
+            "L'attente peut rester douloureuse, mais vous n'avez pas besoin d'appeler cela facile pour continuer à l'amener au Seigneur. L'agonie du délai importe toujours pour Lui. Il peut vous tenir compagnie dans le couloir de l'incertitude et soutenir un cœur fatigué là. Même là, Il ne se retire pas de vous. Même ici, sa fidélité ne s'est pas épuisée envers vous. Il est toujours présent au milieu long. Et Il ne vous abandonnera pas là."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'admets être fatigué dans cette attente. Pas toute douleur vient d'une perte définitive. Certaines douleurs viennent de l'absence prolongée de réponses, de changement, de conclusion. Tu sais depuis combien de temps je vis dans cet endroit intermédiaire, et tu sais combien il est difficile de savoir si je dois continuer à espérer ou commencer à lâcher prise. Aujourd'hui, je te présente la fatigue de l'attente elle-même. Vois non seulement ce que j'attends, mais comment l'attente m'a blessé. Avant toute réponse, soutiens mon cœur. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 13:12",
+              "book_code": "PRO",
+              "chapter": 13,
+              "verses": "12",
+              "translation": "Louis Segond 1910",
+              "text": "L'espérance différée rend le cœur malade, Mais le désir satisfait est un arbre de vie."
+            },
+            {
+              "display": "Psaume 130:5-6",
+              "book_code": "PSA",
+              "chapter": 130,
+              "verses": "5-6",
+              "translation": "Louis Segond 1910",
+              "text": "J'attends l'Éternel, mon âme l'attend, Et j'espère en sa parole. Mon âme attend le Seigneur, Plus que les gardes ne guettent le matin, Oui, plus que les gardes ne guettent le matin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Comment Jésus accompagne celui qui pleure",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jean 11:32-35",
+            "book_code": "JHN",
+            "chapter": 11,
+            "verses": "32-35",
+            "translation": "Louis Segond 1910",
+            "text": "Quand Marie arriva où était Jésus... elle se jeta à ses pieds, en disant : Seigneur, si tu eusses été ici, mon frère ne serait pas mort. Jésus, la voyant pleurer... frémit en esprit, et fut troublé... Jésus pleura."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Dans le deuil, il est facile d'imaginer Dieu comme distant – informé, puissant et correct, mais pas émotionnellement proche. Quand le chagrin dure, beaucoup de gens commencent à le voir comme Celui qui connaît la réponse plutôt que comme Celui qui s'assoit avec eux dans l'agonie. Ce genre de distance peut rendre la prière formelle, même quand le cœur longe le réconfort.",
+            "L'histoire de Lazare parle directement contre cette crainte. Jésus ne contourne pas le deuil simplement parce qu'il sait que la résurrection arrive. Il voit le chagrin, y entre, et pleure. Ce court verset, « Jésus pleura », porte un immense réconfort. Il nous dit que la connaissance divine ne bannit pas la compassion divine.",
+            "Hébreux nous dit que notre grand Souverain Sacrificateur est capable de ressentir les faiblesses. Cela signifie que le deuil n'est pas hors de la portée de la sympathie du Christ. Il n'est pas émotionnellement détaché de la souffrance humaine. Il sait ce que ressent le chagrin.",
+            "**Votre deuil n'est pas un endroit où Jésus se tient loin.** Il s'en rapproche. **Son premier don n'est pas toujours l'explication. Souvent, c'est une présence compassionnelle.** Si Dieu semble lointain aujourd'hui, amenez ce sentiment à Lui honnêtement. Le Christ qui a pleuré n'est pas offensé par votre deuil. Il le rencontre avec sa propre tendresse.",
+            "Si sa proximité ne se sent pas dramatique aujourd'hui, l'Écriture vous assure que sa compassion est réelle même quand vos émotions se sentent engourdies. Sa sympathie n'est pas théorique. Elle est personnelle. Vous n'avez pas besoin de vous forcer à la chaleur avant de venir à Lui. Il peut rencontrer l'engourdissement avec compassion aussi."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, merci de ne pas être un Seigneur qui connaît ma douleur de loin. Tu t'en rapproches. Tu n'as pas contourné le deuil humain simplement parce que tu connaissais une fin plus grande. Laisse-moi expérimenter ta proximité plus véritablement aujourd'hui. Si mon cœur porte encore de la confusion, de la plainte, ou la douleur « si seulement tu avais été là », ne t'éloigne pas de moi à cause de cela. Rappelle-moi que mon deuil n'est pas au-delà de ta compassion. Que ta présence devienne mon réconfort, et que la voix en moi qui continue à me demander de guérir plus vite soit apaisée par ta tendresse. Et rends-moi plus comme toi en comment j'accompagnerai les autres dans le deuil. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jean 11:32-35",
+              "book_code": "JHN",
+              "chapter": 11,
+              "verses": "32-35",
+              "translation": "Louis Segond 1910",
+              "text": "Quand Marie arriva où était Jésus... elle se jeta à ses pieds, en disant : Seigneur, si tu eusses été ici, mon frère ne serait pas mort. Jésus, la voyant pleurer... frémit en esprit, et fut troublé... Jésus pleura."
+            },
+            {
+              "display": "Hébreux 4:15",
+              "book_code": "HEB",
+              "chapter": 4,
+              "verses": "15",
+              "translation": "Louis Segond 1910",
+              "text": "Car nous n'avons pas un souverain sacrificateur qui ne puisse compatir à nos faiblesses..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Laissez votre corps et votre vie quotidienne participer à la guérison",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 23:1-3",
+            "book_code": "PSA",
+            "chapter": 23,
+            "verses": "1-3",
+            "translation": "Louis Segond 1910",
+            "text": "L'Éternel est mon berger ; je ne manquerai de rien. Il me fait reposer dans de verts pâturages, Il me conduit près des eaux paisibles. Il restaure mon âme."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Le deuil ne vit pas seulement dans l'âme. Il s'installe dans le corps et dans le rythme quotidien. La douleur a une vie physique. Elle peut altérer le sommeil, l'appétit, l'attention, l'énergie, et le poids ressenti des tâches ordinaires. Vous pouvez devenir plus fatigué, moins concentré, ou étrangement accablé par les responsabilités simples. Ce ne sont pas toujours des signes d'échec. Souvent, ce sont des signes que le corps aussi porte la perte.",
+            "C'est important car beaucoup de gens ne répondent au deuil que par des idées. Ils cherchent la perspective en ignorant combien le corps a été affecté. Pourtant le Psaume 23 présente le Seigneur comme un Berger qui conduit près des eaux paisibles, fait coucher ses gens, et restaure l'âme. La restauration dans ce psaume n'est pas précipitée ou abstraite.",
+            "Le 1 Rois 19 montre quelque chose de similaire dans l'effondrement d'Élie. Dieu ne commence pas par une conférence. Il donne de la nourriture, du sommeil, et du soin répété. Ce n'est qu'alors que d'autres directions viennent.",
+            "**Quand Dieu tend le deuil, Il ne prend pas soin seulement de vos pensées. Il prend soin de votre corps et de votre vie quotidienne aussi.** **Les actes simples de soin peuvent devenir une partie de votre réponse spirituelle au deuil.** Se reposer, manger, et ralentir ne sont pas des substituts peu profonds à la foi. Ils peuvent être des façons de recevoir le soin du Berger dans une saison où votre force est basse.",
+            "Parfois, la chose la plus sainte que vous puissiez faire dans le deuil est de recevoir des soins simples sans vous accuser d'en avoir besoin. Le besoin n'est pas une faille spirituelle. Recevoir ce genre de soin est une façon de laisser le deuil être tendu au lieu d'être simplement géré. Il sait comment soigner les corps fatigués et les cœurs gardés ensemble. Et Il ne demande pas à votre corps de guérir plus vite que ne le veut la grâce."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, aide-moi à ne pas mépriser comment le deuil affecte mon être entier. Tu connais ma fatigue récente, mon sommeil inquiet, mon manque d'appétit, et la lourdeur qui rend les choses ordinaires difficiles. Merci de ne pas te soucier seulement de si je pense bien, mais aussi de si je suis bien pastoralisé. Aujourd'hui, enseigne-moi à me regarder plus tendrement. Aide-moi à recevoir le repos, la nourriture, le calme et le soin sans les traiter comme de la faiblesse. Guide-moi comme un Berger vers des lieux de repos, et laisse à la fois mon corps et mon âme être lentement restaurés en toi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 23:1-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1-3",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel est mon berger ; je ne manquerai de rien. Il me fait reposer dans de verts pâturages, Il me conduit près des eaux paisibles. Il restaure mon âme."
+            },
+            {
+              "display": "1 Rois 19:5-8",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "5-8",
+              "translation": "Louis Segond 1910",
+              "text": "Il s'endormit sous un genêt... Lève-toi, et mange !... Il se leva, mangea et but, et il marcha, fortifié par cette nourriture, quarante jours et quarante nuits."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Dieu peut encore faire de nouvelles choses dans une histoire brisée",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ruth 1:20-21",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "20-21",
+            "translation": "Louis Segond 1910",
+            "text": "Et Noomi dit à ses belles-filles : Retournez, mes filles ; allez-vous-en. Pourquoi viendriez-vous avec moi ?... Je suis partie pleine, et l'Éternel m'a ramenée vide..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Après une grande déception, les gens ont tendance à conclure tranquillement dans leur cœur : je ne dois plus espérer autant, je ne dois plus être aussi sincère, je ne dois plus me donner autant. Cela peut protéger temporairement, mais avec le temps, le cœur aussi se ferme lentement. Ce n'est pas que ça ne fait plus mal, c'est que vous ne laissez plus rien de nouveau s'approcher.",
+            "Naomi dans le Livre de Ruth ne prétend pas que tout va bien, elle dit même directement : cessez de m'appeler Naomi, appelez-moi Mara. Elle ose admettre que sa vie est maintenant amère. Pourtant Dieu n'a pas cessé de travailler à cause de son amertume. Ésaïe dit : « Voici, je vais faire une chose nouvelle. » Ce n'est pas demander aux gens d'oublier immédiatement le passé, ni de voir le résultat rapidement. C'est plutôt un rappel doux mais ferme : aussi profonde soit la déception, cela ne signifie pas que Dieu a terminé d'écrire votre histoire.",
+            "Très souvent, la chose nouvelle commence très petitement. Peut-être c'est un ami qui, soudainement, est vraiment disposé à vous écouter, peut-être c'est une prière que vous faites enfin, peut-être c'est la première fois aujourd'hui que vous ne refoulez pas toutes vos émotions. Ne sous-estimez pas ces petits débuts ; ils sont souvent la façon dont Dieu recommence à travailler dans les ruines.",
+            "**L'auto-protection peut sembler plus sûre, mais elle peut aussi empêcher l'espérance de franchir la porte.** Demandez à Dieu où la déception vous a fermé émotionnellement. **Il est patient avec les cœurs gardés, mais Il ne veut pas que la peur devienne leur forme finale.** Même une petite volonté de réouvrir est un début significatif.",
+            "Même un cœur gardé peut commencer à se ramollir à nouveau quand il est rencontré par la fidélité patiente de Dieu plutôt que par la pression de guérir rapidement. Il sait comment réouvrir ce que la peur a fermé. Et Il est assez fort pour continuer à porter votre histoire en avant. Et Il peut enseigner à l'espérance de respirer là à nouveau. plus tendrement encore. pour votre cœur. Cela importe plus que vous ne le savez."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'admets que je n'ose plus espérer les choses nouvelles comme avant. Après avoir été blessé, fermer mon cœur semble plus sûr. Mais tu sais que cette sécurité devient aussi de l'isolement. Merci de ne pas cesser de travailler dans mon histoire parce qu'elle est devenue amère. Aide-moi à croire que la rupture n'est pas la fin, et la déception n'est pas la preuve de ton absence. Même en portant la blessure, donne-moi un petit courage pour noter tes signes nouveaux et calmes. Si tu reconstruis tranquillement, donne-moi un cœur disposé à se réouvrir à toi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ruth 1:20-21",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "20-21",
+              "translation": "Louis Segond 1910",
+              "text": "Et Noomi dit à ses belles-filles : Retournez, mes filles ; allez-vous-en. Pourquoi viendriez-vous avec moi ?... Je suis partie pleine, et l'Éternel m'a ramenée vide..."
+            },
+            {
+              "display": "Ésaïe 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "Louis Segond 1910",
+              "text": "Ne vous souvenez plus des choses passées... Voici, je vais faire une chose nouvelle ; Maintenant elle surgira, ne la reconnaîtrez-vous pas ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "L'espérance peut revenir lentement",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Romains 15:13",
+            "book_code": "ROM",
+            "chapter": 15,
+            "verses": "13",
+            "translation": "Louis Segond 1910",
+            "text": "Que le Dieu de l'espérance vous remplisse de toute joie et de toute paix dans la foi, pour que vous abondiez en espérance, par la puissance du Saint-Esprit !"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La véritable guérison, c'est souvent pas un jour où vous vous sentez soudainement « complètement mieux », c'est quand vous commencez petit à petit à vouloir vous ouvrir à nouveau à Dieu. Vous pouvez encore avoir des moments où certains lieux vous rappellent la blessure, certains problèmes pourraient rester sans solution complète, et parfois vous doutez encore si vous pouvez vraiment croire à nouveau. Mais dans cette incomplétude même, l'espérance peut lentement revenir.",
+            "Romains appelle Dieu « le Dieu de l'espérance ». C'est important car cela place l'espérance en dehors de votre propre force émotionnelle. L'espérance n'est pas simplement une émotion positive que vous devez fabriquer, ni un état que vous créez en forçant une pensée positive. Elle est plus comme une petite lumière que Dieu met lui-même dans le cœur. L'Apocalypse dit que Dieu essuiera toutes les larmes. Cela ne rend pas votre chagrin présent irréel. Cela le rend temporaire.",
+            "**La véritable espérance ne nie pas que des larmes existent encore aujourd'hui, elle croit que les larmes n'auront pas le dernier mot à jamais.** Cette distinction est cruciale. L'espérance n'est pas prétendre que la blessure est disparue. C'est la croyance tranquille que Dieu reste présent, que votre histoire reste tenue, et que la douleur ne régnera pas indéfiniment.",
+            "**La petite espérance est toujours une vraie espérance quand elle est tenue dans les mains de Dieu.** Si le désespoir a été bruyant, demandez aujourd'hui non pas un optimisme forcé, mais le genre d'espérance qui peut respirer dans la même pièce que le deuil. Le Dieu de l'espérance est toujours capable de vous rencontrer là et de continuer à porter votre histoire en avant.",
+            "L'espérance peut sembler fragile, mais l'espérance fragile n'est pas une fausse espérance quand elle est ancrée dans le caractère de Dieu. Et Il est assez fort pour la garder vivante. Ce genre d'espérance peut sembler tranquille, mais elle peut toujours empêcher un cœur endeuillé de se rendre complètement au désespoir. Et Il est assez fort pour continuer à la porter en avant. pour vous aujourd'hui. en cette saison. Même maintenant, Il reste fidèle. là."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de n'avoir pas été impatient avec moi ces sept jours, et de ne pas t'être éloigné parce que j'ai encore du chagrin. Mets gentiment l'espérance dans mon cœur, pas nécessairement de façon spectaculaire, pas nécessairement en effaçant chaque douleur d'un coup. Laisse-moi savoir que je peux m'ouvrir à toi à nouveau. Merci d'être le Dieu de l'espérance et Celui qui un jour essuiera toutes les larmes. Guide-moi lentement hors de la déception, et aide-moi à continuer à vivre avec une nouvelle tendresse, une nouvelle confiance et une nouvelle espérance. Et que le réconfort que je reçois de toi devienne, avec le temps, le réconfort que je peux offrir aux autres. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Romains 15:13",
+              "book_code": "ROM",
+              "chapter": 15,
+              "verses": "13",
+              "translation": "Louis Segond 1910",
+              "text": "Que le Dieu de l'espérance vous remplisse de toute joie et de toute paix dans la foi, pour que vous abondiez en espérance, par la puissance du Saint-Esprit !"
+            },
+            {
+              "display": "Apocalypse 21:4",
+              "book_code": "REV",
+              "chapter": 21,
+              "verses": "4",
+              "translation": "Louis Segond 1910",
+              "text": "Et Dieu essuiera toute larme de leurs yeux ; la mort ne sera plus, et il n'y aura plus ni deuil, ni cri, ni douleur, car les premières choses ont disparu."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

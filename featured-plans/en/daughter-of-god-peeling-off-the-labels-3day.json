@@ -1,0 +1,257 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI01",
+    "slug": "peeling-off-the-labels",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles & Identity",
+      "secondary": "daughter-of-god",
+      "secondary_label": "Daughter of God"
+    },
+    "tags": [
+      "identity",
+      "belonging",
+      "daughter-of-god",
+      "self-worth",
+      "labels",
+      "comparison"
+    ],
+    "title": "Peeling Off the Labels",
+    "subtitle": "Let go of the names the world gave you",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "seeking-identity",
+        "weary-of-comparison",
+        "longing-to-be-known"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "When other people’s expectations, opinions, and labels have lived in your mind for too long, God gently leads you back to the self He has always known by name.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#E8C5D8",
+      "color_secondary": "#5A2B47",
+      "image_key": "cover_woman_quiet_morning_window_belonging",
+      "icon": "open-hands-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 139:1-4",
+        "book_code": "PSA",
+        "chapter": 139,
+        "verses": "1-4"
+      },
+      {
+        "display": "Ephesians 1:4-5",
+        "book_code": "EPH",
+        "chapter": 1,
+        "verses": "4-5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "You Are Not the Name They Gave You",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 139:1-4",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "1-4",
+            "translation": "KJV",
+            "text": "O Lord, thou hast searched me, and known me. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off... For there is not a word in my tongue, but, lo, O Lord, thou knowest it altogether."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Sometimes we do not become this hard on ourselves all at once.",
+            "Certain voices simply stay around long enough to sound true. Maybe you were praised for being easy, strong, responsible, or mature, and over time you learned to keep your needs quiet. Maybe you were valued when you achieved, so now mistakes feel heavier than they should, almost as if failure says something final about who you are. And then there are the quieter labels: not beautiful enough, not special enough, too emotional, too ordinary, too difficult to love steadily. No one has to repeat them every day. Once they settle in, they begin speaking for themselves.",
+            "I think many of us know what that feels like. No one is criticizing you in the moment, yet somehow you are already finishing the sentence for them inside your own head.",
+            "Psalm 139 is gentle because it gives us a different starting place: God knows us. Not from a distance, not in a vague or general way, but personally. He knows our movements, our thoughts, and even the words that have not fully reached our lips. Isaiah 43 makes it even more intimate: \"I have called thee by thy name; thou art mine.\" There is deep rest in that. Before the world measured us, misread us, or reduced us, God already knew us fully.",
+            "Sometimes healing begins when we admit that some of the names we use for ourselves were never given by God in the first place.",
+            "**We do not have to keep carrying every label that has ever landed on us.** Today, do not rush to feel confident. Just become honest. What word do you return to most often when you think about yourself? Where did it come from? Bring that word into the presence of God. Some names need to be released. Others need to be restored. And slowly, in His presence, we begin to remember who we are without all the borrowed voices."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I confess that I carry too many voices inside me. Some came from what others said about me, and some are words I learned to say to myself through hurt, comparison, and disappointment. Show me which names I have carried for so long that I now mistake them for truth. Thank You that You did not begin with criticism when You looked at me. You already knew me, and You called me by name. Today I bring these labels into Your presence. Remove what does not belong to me, and slowly reveal again the truer self that is known and loved by You. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 139:1-4",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "1-4",
+              "translation": "KJV",
+              "text": "O Lord, thou hast searched me, and known me. Thou knowest my downsitting and mine uprising, thou understandest my thought afar off... For there is not a word in my tongue, but, lo, O Lord, thou knowest it altogether."
+            },
+            {
+              "display": "Isaiah 43:1",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "1",
+              "translation": "KJV",
+              "text": "Thus saith the Lord... I have called thee by thy name; thou art mine."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Comparison Cannot Tell You the Truth",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Galatians 6:4-5",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "4-5",
+            "translation": "KJV",
+            "text": "But let every man prove his own work... For every man shall bear his own burden."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Comparison has a quiet way of making us lose sight of our own path.",
+            "It often begins with something small. We glance at someone else’s beauty, relationship, family, work, opportunities, or confidence, and before long our own heart feels unsteady. Their life starts to feel like evidence against ours. Comparison rarely enters dramatically. It settles more like a mist, slowly covering the light until we cannot see our own story clearly. After a while, it is not only envy. We begin wondering whether God has somehow forgotten us.",
+            "I know that inner pull too. What begins as a simple glance can quickly turn into an ache: if only my life looked more like hers. But underneath that thought there is usually something more vulnerable than envy. There is fear. Fear of being behind. Fear of being overlooked. Fear that what has not happened yet must mean something disappointing about who we are.",
+            "Galatians 6 gently calls us back. We are told to examine our own lives rather than measuring ourselves against someone else’s. That does not mean we suddenly become untouched by comparison. It means God is returning us to our own ground. He has not asked us to carry another woman’s story. Psalm 23 helps in the same way. \"The Lord is my shepherd.\" Those words are small, but they re-center the soul. We are not living inside a competition. We are being personally led.",
+            "Comparison becomes most dangerous when it drowns out the voice of the Shepherd. **When our eyes stay fixed on others, it becomes harder to hear how faithfully God is leading us.** So today, instead of shaming yourself for comparing again, ask a gentler question: what am I afraid this says about me? Bring that deeper fear to God. We may discover that what we need most is not to catch up, but to trust that His leading has not failed us."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, You know how easily comparison steals my peace. Sometimes it begins with only one glance, and suddenly my heart is unsettled. I start to wonder if I am not enough, if I am behind, or if something has gone wrong in my life. Have mercy on me, and draw my attention back again. Do not let other people’s stories decide how I see myself. Heal the deeper fear underneath my comparison, the fear of being overlooked, unchosen, or less loved. Thank You that You are not a God who measures me against others. You are my Shepherd. Teach me to follow You quietly, even when my path looks different from someone else’s. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Galatians 6:4-5",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "4-5",
+              "translation": "KJV",
+              "text": "But let every man prove his own work... For every man shall bear his own burden."
+            },
+            {
+              "display": "Psalm 23:1",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1",
+              "translation": "KJV",
+              "text": "The Lord is my shepherd; I shall not want."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "God’s Love Began Before Your Performance",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Ephesians 1:4-5",
+            "book_code": "EPH",
+            "chapter": 1,
+            "verses": "4-5",
+            "translation": "KJV",
+            "text": "According as he hath chosen us in him before the foundation of the world... Having predestinated us unto the adoption of children by Jesus Christ to himself."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some exhaustion does not come from having too much to do. It comes from living with a quiet inner tension.",
+            "Most of us know that tension well. It whispers that we need to be a little better, a little steadier, a little easier to love, a little less needy, a little less disappointing. After a while, we may not even realize how much of our life has started to feel like an exchange. If I do enough, maybe I will feel secure. If I stay useful, maybe I will remain wanted. If I keep myself dependable and pleasant, maybe I will not be left behind.",
+            "The difficult part is that this can look so much like maturity from the outside. We show up. We care well. We carry what needs carrying. We respond quickly. We keep things together. But if the deepest motive underneath all of that is fear, then even our strengths can become heavy. We may be doing beautiful things while quietly living as though love has to be earned.",
+            "Ephesians 1 speaks into that fear with astonishing tenderness. God chose us in Christ before the foundation of the world. Before improvement, before proving, before our best spiritual effort, His love was already moving toward us. Luke 15 shows the same truth in motion. The father does not wait for his returning child to become impressive again. He runs toward him while he is still on the road. Love moves first. Belonging comes before performance.",
+            "That may be one of the most healing things the gospel says to us. God does not begin loving us once we finally become worthy. He loves us, and inside that love He teaches us how to grow. **We are not loved because we proved ourselves. We are loved, and from that place we learn to live differently.** Today, bring to God the place where you feel most driven to prove yourself. He may not be asking for more effort. He may be inviting you to receive a deeper kind of safety."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I confess that I often live with a tightness inside me. Not only because life is full, but because I keep feeling that I must be good enough to be loved, good enough to stay wanted, good enough not to disappoint. Thank You for reminding me today that Your love did not begin after my effort. It was already moving toward me before I had proven anything at all. Heal the part of me that keeps trying to earn security through performance. Teach me to acknowledge my limits within Your love, instead of turning my life into an endless test. From this day on, help me not to strive harder for love, but to rest more deeply in the love that is already Yours to give. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Ephesians 1:4-5",
+              "book_code": "EPH",
+              "chapter": 1,
+              "verses": "4-5",
+              "translation": "KJV",
+              "text": "According as he hath chosen us in him before the foundation of the world... Having predestinated us unto the adoption of children by Jesus Christ to himself."
+            },
+            {
+              "display": "Luke 15:20",
+              "book_code": "LUK",
+              "chapter": 15,
+              "verses": "20",
+              "translation": "KJV",
+              "text": "But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

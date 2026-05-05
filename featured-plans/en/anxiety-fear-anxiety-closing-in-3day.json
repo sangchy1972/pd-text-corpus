@@ -1,0 +1,258 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG01",
+    "slug": "anxiety-closing-in",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garden of Emotions",
+      "secondary": "anxiety-fear",
+      "secondary_label": "Anxiety & Fear"
+    },
+    "tags": [
+      "anxiety",
+      "fear",
+      "overwhelm",
+      "rest-in-god",
+      "panic",
+      "trust"
+    ],
+    "title": "When Anxiety Is Closing In",
+    "subtitle": "For the one who feels overwhelmed right now and needs God’s nearness more than explanations.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "anxious",
+        "overwhelmed",
+        "fearful"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "For the one who feels overwhelmed right now and needs God’s nearness more than explanations.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#B5C7E0",
+      "color_secondary": "#3B5775",
+      "image_key": "cover_woman_quiet_window_morning_light_anxiety",
+      "icon": "quiet-rock-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 61:1-2",
+        "book_code": "PSA",
+        "chapter": 61,
+        "verses": "1-2"
+      },
+      {
+        "display": "Isaiah 41:10",
+        "book_code": "ISA",
+        "chapter": 41,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "Lord, I Am Overwhelmed Right Now",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 61:1-2",
+            "book_code": "PSA",
+            "chapter": 61,
+            "verses": "1-2",
+            "translation": "KJV",
+            "text": "Hear my cry, O God; attend unto my prayer. From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Sometimes anxiety does not build slowly. It rushes in. One message, one result, or one sudden possibility can tighten everything inside you. Your mind starts running, your body follows, and even simple tasks feel heavier than they did an hour ago. In moments like that, many people first become hard on themselves. They ask, \"Why am I reacting like this again?\" But Scripture begins somewhere gentler.",
+            "Psalm 61 gives words for the exact moment when your inner world feels overloaded: \"When my heart is overwhelmed.\" David does not wait until he is calm. He cries out while he is still flooded. That matters because it means you do not need a polished prayer to come to God. You can come to Him breathless, scattered, and afraid. First Peter 5:7 gives the reason: \"for he careth for you.\" You are not asked to cast your care on God because you are failing. You are invited to cast it on Him because He cares.",
+            "**The first step in an anxious moment is not getting control of yourself. It is turning toward the God who is willing to hold you.** That changes the tone of the whole day. You do not have to solve your fear before you pray. You do not have to explain every thought before you cry out.",
+            "Today, start simply. Put your hand over your chest, take a slower breath, and say, \"Lord, I feel overwhelmed. Hold me.\" **You do not have to wait until you feel peaceful to begin reaching for God.** Even if nothing changes immediately, that prayer is already a holy shift. You are no longer trapped inside fear by yourself.",
+            "Let that be enough for today. A short, honest cry to God is not a small response. It is already a movement toward safety."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, I come to You not pretending to be calm, but admitting that I feel overwhelmed. You know the sudden rush of fear, the racing thoughts, the tension in my body, and the helplessness underneath it all. Thank You that You do not ask me to compose myself before I cry out to You. Today I ask You simply to hold me. As the psalm says, lead me to the rock that is higher than I am. Draw me gently out of panic and closer to Your presence, and help me believe that Your care is more real than my fear. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 61:1-2",
+              "book_code": "PSA",
+              "chapter": 61,
+              "verses": "1-2",
+              "translation": "KJV",
+              "text": "Hear my cry, O God; attend unto my prayer. From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I."
+            },
+            {
+              "display": "1 Peter 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "KJV",
+              "text": "Casting all your care upon him; for he careth for you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "The Storm Is Real, but Jesus Is Still Here",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Mark 4:37-40",
+            "book_code": "MRK",
+            "chapter": 4,
+            "verses": "37-40",
+            "translation": "KJV",
+            "text": "And there arose a great storm of wind... Master, carest thou not that we perish? And he arose, and rebuked the wind, and said unto the sea, Peace, be still..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Often the most frightening part of anxiety is not the problem itself but the feeling of being left alone with it. The situation has not changed, the answer has not come, and fear begins to whisper that maybe this will keep getting worse. That is why anxiety can feel so isolating. Even when other people are nearby, the heart can still feel stranded.",
+            "Mark 4 speaks directly into that experience. The disciples are caught in a real storm. The wind is strong, the water is rising, and their fear is not exaggerated. What makes the story comforting is not that they remain calm. They do not. They panic and wake Jesus with a question that many anxious people still ask in different words: \"Carest thou not that we perish?\"",
+            "Before Jesus stills the sea, He is already in the boat. His presence does not begin after the storm is over. He is there while the storm is still loud. John 14:27 helps us understand this more deeply. Jesus gives peace, but not the kind the world gives. His peace is not denial. It is His own presence and authority in the middle of what still feels unstable.",
+            "**Before the sea goes quiet, Jesus is already there.** That means your fear does not have to be finished before God is near. The relationship may still feel fragile. The uncertainty may still be unresolved. But the Lord has not stepped away from your boat.",
+            "Today, name your storm honestly. Say, \"Lord, You see this, and You are still here.\" **That truth may not solve everything today, but it keeps fear from telling the whole story.** Peace often begins there: not with immediate answers, but with the steadying realization that you are not abandoned in the middle of what frightens you.",
+            "When fear tells you that you are alone, answer it with the truth of Christ’s presence. He is not late to your storm."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, thank You for reminding me today that the storm is real, but so is Your presence. What I often fear most is not only the situation itself, but the feeling of being left alone in the middle of it. Yet today You show me that You did not leave the disciples in their storm, and You have not left me in mine. Speak Your peace into the places in me that feel turbulent and unsettled. When my mind keeps racing toward the worst, remind me that You are still Lord over what frightens me. And guard the people I love, that they too would know Your presence in their own storms. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Mark 4:37-40",
+              "book_code": "MRK",
+              "chapter": 4,
+              "verses": "37-40",
+              "translation": "KJV",
+              "text": "And there arose a great storm of wind... Master, carest thou not that we perish? And he arose, and rebuked the wind, and said unto the sea, Peace, be still..."
+            },
+            {
+              "display": "John 14:27",
+              "book_code": "JHN",
+              "chapter": 14,
+              "verses": "27",
+              "translation": "KJV",
+              "text": "Peace I leave with you, my peace I give unto you... Let not your heart be troubled, neither let it be afraid."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "I Do Not Need the Outcome Before I Can Rest",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Isaiah 41:10",
+            "book_code": "ISA",
+            "chapter": 41,
+            "verses": "10",
+            "translation": "KJV",
+            "text": "Fear thou not; for I am with thee... I will strengthen thee; yea, I will help thee."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "By the third day, your situation may not look very different. The answer may still be pending, the burden may still be real, and the path ahead may still feel unclear. That can be discouraging. Anxiety often hurts most not because you cannot face difficulty, but because you do not know how to keep moving when nothing feels settled.",
+            "Isaiah 41 offers a different order than fear does. Fear says, \"First get the answer, then you can breathe.\" God says, \"Fear thou not; for I am with thee.\" He gives His presence before He gives clarity. That matters because what steadies the soul is often not explanation, but companionship. God often gives you Himself before He gives you certainty.",
+            "Psalm 46 deepens that invitation. It calls God our refuge and strength, a very present help in trouble, and then says, \"Be still, and know that I am God.\" This is not a cold command to stop feeling. It is a merciful interruption to panic. It is God telling you that stillness is possible before the whole story is clear.",
+            "**You do not need the outcome before you can begin to rest in God’s presence.** Rest may not mean all your questions are gone. It may simply mean you are no longer trying to answer them by yourself.",
+            "Carry one sentence with you today: \"God is with me,\" or, \"I do not need the outcome before I can rest.\" **God’s presence can hold you even while the future is still unclear.** Repeat that truth when your mind runs ahead. Let it call your heart back from speculation into trust. Sometimes peace comes not by resolving uncertainty, but by meeting God inside it.",
+            "Stillness may feel unfamiliar at first, but it is one way the soul relearns where safety truly lives."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Faithful Lord, I often assume that I can only rest once the problem is solved and the outcome is clear. But today You remind me that Your first gift to me is not always explanation, but presence. Thank You for saying, \"Fear thou not; for I am with thee.\" Let that promise sink more deeply into me than my own fearful thoughts. Help me become still before You while the road is still unclear. Teach me to trust that even without all the answers, You will strengthen me and uphold me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Isaiah 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "KJV",
+              "text": "Fear thou not; for I am with thee... I will strengthen thee; yea, I will help thee."
+            },
+            {
+              "display": "Psalm 46:1-2,10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "1-2,10",
+              "translation": "KJV",
+              "text": "God is our refuge and strength, a very present help in trouble... Be still, and know that I am God."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

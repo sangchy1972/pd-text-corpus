@@ -1,0 +1,377 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI17",
+    "slug": "whole-while-you-wait",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "single-whole",
+      "secondary_label": "Ledig und Ganz"
+    },
+    "tags": [
+      "ledig",
+      "ganzheit",
+      "einsamkeit",
+      "warten",
+      "berufung",
+      "erfuellung"
+    ],
+    "title": "Ganz während du wartest",
+    "subtitle": "Vollständig leben, bevor das Leben so aussieht, wie du es erhofft hast",
+    "audience": {
+      "life_stage": [
+        "ledige Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "ganz",
+        "sehnsüchtig",
+        "zufrieden im Warten"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese fünf Tage helfen dir, dein Herz zu Gott zurückzubringen inmitten des Wartens, der Angst vor der Zeit, des Vergleichs und des Nicht-Genug-Seins, damit du jetzt schon aus Ganzheit heraus leben kannst.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#E0D4C0",
+      "color_secondary": "#5A4226",
+      "image_key": "cover_woman_quiet_room_solitude_warm",
+      "icon": "single-tree-and-sun-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 27:14",
+        "book_code": "PSA",
+        "chapter": 27,
+        "verses": "14"
+      },
+      {
+        "display": "Johannes 10:10",
+        "book_code": "JHN",
+        "chapter": 10,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Warten lässt uns oft an uns selbst zweifeln",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 27:14",
+            "book_code": "PSA",
+            "chapter": 27,
+            "verses": "14",
+            "translation": "Lutherbibel 1912",
+            "text": "Harre des Herrn; sei getrost und unverzagt, und harre des Herrn!"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das Schwierigste beim Warten ist nicht nur, dass die Antwort noch nicht gekommen ist. Es ist das Gefühl, das über die Zeit hinweg wächst: Vielleicht stimmt etwas mit mir nicht. Vielleicht bin ich nicht genug. Wenn ich begehrenswerter wäre, wenn ich reifer und sicherer wäre, würden sich Dinge längst erfüllt haben. Der Schmerz des Wartens kommt oft nicht nur von der Verzögerung selbst, sondern von der Geschichte, die diese Verzögerung in unserem Herzen zu erzählen beginnt.",
+            "Doch Psalm 27 präsentiert das Warten ganz anders. Das Warten auf den Herrn ist nicht Schande. Es ist der Ort, wo Gott das Herz stärkt. Römer 8 spricht vom geduldigen Warten als etwas, das mit Hoffnung verbunden ist, nicht mit Schande. Die Schrift stellt das Warten nicht als eine minderwertige Lebensform dar. Sie stellt es oft dar als einen Ort, an dem Vertrauen still geformt wird.",
+            "Viele von uns kennen die Grausamkeit der Frage \"Warum noch nicht?\" Sie bleibt nicht einfach eine Frage zur Zeit. Sie wird zur Frage über unseren Wert. Dort beginnt das Warten, die Seele zu verletzen. Doch Gott steht nicht abseits und stimmt dieser Interpretation zu. Er verzögert nicht, weil du weniger liebenswert oder wertvoll bist.",
+            "**Warten ist keine Ablehnung Gottes gegenüber dir, und es ist nicht der Beweis, dass dir der Wert fehlt.** Bringe heute die Stimme des Selbstzweifels zu Gott. Argumentiere nicht nur aus eigener Kraft dagegen. Benenne es vor Ihm. Lass Seine Wahrheit in den Teil deines Herzens kommen, der stille die Verzögerung in Anklage verwandelt hat."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, befreie mich von der Gewohnheit, an mir selbst zu zweifeln, weil das Warten lange gedauert hat. Du weißt, dass ich nicht einfach warte. Ich warte oft, während ich Verzögerung als Beweis dafür deute, dass ich nicht genug bin. Korrigiere diese Lüge in mir. Stärke mein Herz in dieser Jahreszeit und erinnere mich daran, dass eine unerfüllte Sehnsucht nicht dasselbe ist wie ein ungeliebtes Leben. Wenn die Antwort noch nicht gekommen ist, heißt das nicht, dass deine Zuneigung noch nicht gekommen ist. Bleibe nahe bei mir im Warten, in der Stille und in der Traurigkeit, die manchmal ohne Vorwarnung kommt. Lass mich meinen Schmerz nicht an Eile oder Vergleich übergeben, sondern lehre mich, die Fülle zu empfangen, die du bereits in mein Leben legst. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "Lutherbibel 1912",
+              "text": "Harre des Herrn; sei getrost und unverzagt, und harre des Herrn!"
+            },
+            {
+              "display": "Römer 8:25",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "25",
+              "translation": "Lutherbibel 1912",
+              "text": "Wenn wir aber des hoffen, das wir nicht sehen, so warten wir seiner mit Geduld."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Wenn andere vorankommen, muss ich mich nicht selbst herabsetzen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Galater 6:4",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "4",
+            "translation": "Lutherbibel 1912",
+            "text": "Ein jeglicher aber versuche sein eigen Werk, und alsdenn wird er seinen Ruhm allein haben und nicht gegen einen andern."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Es ist menschlich, einen Stich zu verspüren, wenn andere Menschen in Beziehungen, Ehe oder die nächste Lebensphase eintreten, auf die du hoffst. Das Problem ist nicht immer der Stich selbst. Das tiefere Problem ist, was der Stich über dich aussagt. Die Verlobung, Stabilität oder das Glück eines anderen kann schnell als Beweis gegen deine eigene Liebenswürdigkeit oder deine Zukunft interpretiert werden. Der Vergleich macht uns nicht nur sehen, was andere haben. Er versucht uns, ihren Segen in ein Urteil über deine Unzulänglichkeit zu verwandeln.",
+            "Aber Gott hat andere Leute Geschichten niemals dir zugewiesen, um deinen Wert zu erklären. Galater 6 sagt jedem, sein eigenes Leben zu prüfen. Das ist keine emotionale Verleugnung. Es ist eine Art, zu deinem eigenen Grund zurückzukehren. Jesaja sagt, dass Gott dich in die Handflächen seiner Hände eingegraben hat. Er hat dir nicht weniger Aufmerksamkeit geschenkt, weil jemand anderes Gebet früher beantwortet wurde. Er hat dich nicht vergessen, während er andere segnet.",
+            "Viele von uns kennen das komplexe Gefühl, sich aufrichtig für jemanden zu freuen und gleichzeitig leise entmutigt zu sein. Gott wird durch diese Komplexität nicht bedroht. Aber er möchte die Gewohnheit heilen, die Freude eines anderen in deine Selbstverachtung zu verwandeln. Der Vergleich offenbart oft nicht nur Neid, sondern eine tiefere Unsicherheit über unseren eigenen Wert.",
+            "**Das \"Schon\" eines anderen muss nicht dein Grund für Selbstherabsetzung sein.** Wenn heute der Vergleich ansteigt, zwinge dich nicht zu falscher emotionaler Ordnung. Bringe alles zu Gott. Sag ihm, was dich verletzt, was dir Angst macht, und was dieser Moment über dich zu sagen scheint. Seine Wahrheit kann sich den zarten Stellen nähern, die der Vergleich freilegt."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, behüte mein Herz, wenn ich sehe, dass andere vorankommen, und lass mich mich nicht selbst herabsetzen. Du weißt, dass ich manchmal ruhig wirke, während ich innerlich bereits vergleiche, zweifle und mich weniger würdig fühle. Unterbreche diesen Abstieg. Heile die tiefere Angst darunter – die Angst, dass ich nicht gesehen, nicht gewählt oder nicht geliebt werde. Danke dir, dass deine Absicht gegenüber mir nicht kleiner geworden ist, weil ich die Geschichte eines anderen sehe. Bleibe nahe bei mir im Warten, in der Stille und in der Traurigkeit, die manchmal ohne Vorwarnung kommt. Lass mich meinen Schmerz nicht an Eile oder Vergleich übergeben, sondern lehre mich, die Fülle zu empfangen, die du bereits in mein Leben legst. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Galater 6:4",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "4",
+              "translation": "Lutherbibel 1912",
+              "text": "Ein jeglicher aber versuche sein eigen Werk, und alsdenn wird er seinen Ruhm allein haben und nicht gegen einen andern."
+            },
+            {
+              "display": "Jesaja 49:16",
+              "book_code": "ISA",
+              "chapter": 49,
+              "verses": "16",
+              "translation": "Lutherbibel 1912",
+              "text": "Siehe, in die Flächen meiner Hände habe ich dich gezeichnet; deine Mauern sind allewege vor mir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Ganzheit ist nicht etwas, auf das man wartet – sie wächst in Gott",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 16:11",
+            "book_code": "PSA",
+            "chapter": 16,
+            "verses": "11",
+            "translation": "Lutherbibel 1912",
+            "text": "Du wirst mir zeigen den Weg zum Leben; vor deinem Angesichte ist Freude die Fülle, und liebliches Wesen zu deiner Rechten ewiglich."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Menschen gehen davon aus, dass Ganzheit beginnt, wenn Liebe ankommt. Wenn du in einer Beziehung bist, wenn jemand dich deutlich wählt, wenn die Zukunft endlich geteilt aussieht, dann kann dein Herz vielleicht ruhen. Aber dieser Glaube macht das Alleinsein unerträglich eng. Er lehrt dich, Frieden aufzuschieben bis zu einem späteren Kapitel, als könntest du nicht wirklich beginnen, bis ein anderer Mensch ankommt.",
+            "Aber Gott wirkt in deiner Gegenwart, nicht nur in einem späteren Kapitel. Psalm 16 spricht davon, dass Freude in Gottes Gegenwart ist, und Johannes 15 ruft uns auf, in Christus zu bleiben. Gott verkleinert nicht die Bedeutung menschlicher Liebe. Er spricht zur tieferen Wurzel der Seele. Wenn Ganzheit aufgeschoben wird, bis Romantik auftaucht, dann beginnen Beziehungen, mehr zu tragen als sie tragen sollten. Sie werden nicht nur Kameradschaft, sondern Rettung. Das ist zu viel Gewicht für jede menschliche Liebe.",
+            "Viele von uns kennen die Sehnsucht, gewählt zu werden. Oft geht diese Sehnsucht über Romantik hinaus. Sie berührt tiefere Fragen: Bin ich liebenswert? Bin ich begehrenswert? Bin ich es wert, mich zu widmen? Gott verspottet diese Sehnsucht nicht. Aber auch er möchte nicht, dass du die ganze Antwort auf deinen Wert in eine zukünftige Beziehung legst. Er möchte jetzt schon, dass Stetigkeit in dir entsteht.",
+            "**Ganzheit ist nicht der Preis am Ende der Romantik. Sie kann bereits in Gott wachsen.** Bringe heute die tiefste Leere in dir zu ihm zurück. Nicht damit du vortäuschst, dass du keine Liebe mehr suchst, sondern damit dein Selbstverständnis nicht mehr von etwas, das noch nicht gekommen ist, als Geisel genommen wird."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lass mich die Ganzheit nicht endlos aufschieben. Ich bekenne, dass ich oft das Gefühl habe, ein wichtiger Teil von mir kann sich nicht niederlassen, bis die Liebe kommt. Aber heute bitte ich dich, dein Heim tiefer in mir zu machen. Lass eine stärkere Stabilität in mir in deiner Gegenwart wachsen. Verhindere nicht, dass ich mich nach Liebe sehne, sondern befreie mich davon, mein ganzes Gefühl der Ganzheit in eine zukünftige Beziehung zu legen. Bleibe nahe bei mir im Warten, in der Stille und in der Traurigkeit, die manchmal ohne Vorwarnung kommt. Lass mich meinen Schmerz nicht an Eile oder Vergleich übergeben, sondern lehre mich, die Fülle zu empfangen, die du bereits in mein Leben legst. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "Lutherbibel 1912",
+              "text": "Du wirst mir zeigen den Weg zum Leben; vor deinem Angesichte ist Freude die Fülle, und liebliches Wesen zu deiner Rechten ewiglich."
+            },
+            {
+              "display": "Johannes 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich bin der Weinstock, ihr seid die Reben. Wer in mir bleibt und ich in ihm, der bringt viel Frucht; denn ohne mich könnt ihr nichts tun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Mein Leben ist nicht in den Pausen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Epheser 5:15-16",
+            "book_code": "EPH",
+            "chapter": 5,
+            "verses": "15-16",
+            "translation": "Lutherbibel 1912",
+            "text": "So sehet nun zu, wie ihr vorsichtig wandelt, nicht als die Unweisen, sondern als die Weisen, die Zeit auskaufend, denn es ist böse Zeit."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das Alleinsein kann die Illusion erzeugen, dass das echte Leben noch nicht begonnen hat. Dieses Gefühl wird stärker, wenn Menschen in deiner Umgebung in sichtbare Meilensteine eintreten. Ohne es zu bemerken, beginnst du, dein gegenwärtiges Leben als vorläufig zu behandeln. Ich werde später ein Zuhause bauen. Ich werde später reisen. Ich werde später tieferen Dienst tun. Ich werde später meine Wünsche ernsthaft nehmen. Ich werde später wirklich lebendig sein. Die Zukunft wird leise zum Ort, an dem dir dein Leben erlaubt ist, real zu werden.",
+            "Aber Gott wirkt in deiner Gegenwart, nicht nur in einem späteren Kapitel. Epheser spricht davon, die Zeit zu erlösen. Das bedeutet nicht, Produktivität aus jeder Minute zu pressen. Das bedeutet, zu erkennen, dass die Tage, die du jetzt hast, vor Gott zählen. Philipper spricht davon, voranzupreschen, nicht weil sich das Leben vollständig in Ordnung befindet, sondern weil Gott immer noch führt. Das Alleinsein ist nicht eine Unterbrechung, bevor deine echte Geschichte beginnt. Es ist ein Teil deiner echten Geschichte.",
+            "Viele von uns wissen, wie schwer dies emotional zu glauben ist. Wir stimmen vielleicht in der Theorie zu und fühlen uns dennoch in bestimmten Jahreszeiten, Feiertagen oder sozialen Momenten unsichtbar. Doch Gott hat deine Gegenwart nicht als Nebenhandlung geschrieben. Er spricht hier, formt hier, lädt hier ein. Dein Leben steht nicht still, nur weil eine Sehnsucht unbeantwortet bleibt.",
+            "**Dein Leben ist kein Wartezimmer. Es ist dein echtes Leben.** Frag Gott heute, wozu er dich auffordert, jetzt ernst zu nehmen. Die Antwort mag leise sein, aber wenn wir aufhören, unser Leben aufzuschieben, erwacht etwas in der Seele wieder."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lass mich nicht mehr die Gegenwart als sekundäre Zeit behandeln. Wenn ich still geglaubt habe, dass das echte Leben nur beginnt, wenn ein zukünftiges Kapitel kommt, bring mich zurück. Danke dir, dass du den heutigen Tag nicht als disposabel geschrieben hast. Hilf mir, meine Tage nicht nur durchzustehen, sondern begib mich absichtlich in das Leben, die Berufung und die Gnade, die du mir jetzt gibst. Bleibe nahe bei mir im Warten, in der Stille und in der Traurigkeit, die manchmal ohne Vorwarnung kommt. Lass mich meinen Schmerz nicht an Eile oder Vergleich übergeben, sondern lehre mich, die Fülle zu empfangen, die du bereits in mein Leben legst. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Epheser 5:15-16",
+              "book_code": "EPH",
+              "chapter": 5,
+              "verses": "15-16",
+              "translation": "Lutherbibel 1912",
+              "text": "So sehet nun zu, wie ihr vorsichtig wandelt, nicht als die Unweisen, sondern als die Weisen, die Zeit auskaufend, denn es ist böse Zeit."
+            },
+            {
+              "display": "Philipper 3:13-14",
+              "book_code": "PHP",
+              "chapter": 3,
+              "verses": "13-14",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich meine aber nicht, daß ich es ergriffen habe. Eines aber sage ich: Ich vergesse, was dahinten ist, und strecke mich zu dem, was vornen ist, und jage dem Ziel nach, dem Preis der himmlischen Berufung Gottes in Christo Jesu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Ein erfülltes Leben ist auch während des Wartens möglich",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Johannes 10:10",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "10",
+            "translation": "Lutherbibel 1912",
+            "text": "Der Dieb kommt nur, um zu stehlen, zu töten und zu zerstören; ich bin gekommen, damit sie Leben haben und es in Fülle haben."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Erfüllung kommt nicht nur in einer Form. Doch viele von uns geraten in die Falle einer sehr engen Vorstellung davon, wie ein erfülltes Leben aussehen soll. Wir gehen davon aus, dass romantisch gewählt zu werden, in die Ehe einzutreten und ein bestimmtes sichtbares Leben zu führen die wahre Version der Fülle ist. Wenn diese eine Sache noch nicht eingetroffen ist, kann alles andere in unserem Leben beginnen, sich als ein schwächeres Substitut anzufühlen. Tiefe Freundschaften, bedeutungsvolle Arbeit, Zeitfreiheit, Wachstum in Gott, emotionale Reife und erweiterte Sicht sind alle echte Geschenke, aber wir zögern oft, sie als Fülle zu bezeichnen, weil sie nicht dem Bild entsprechen, das wir am meisten ersehnen.",
+            "Jesus sagt in Johannes 10, dass er kam, damit wir Leben und Fülle haben. Diese Fülle ist nicht eine einstöckige Geschichte. Psalm 84 sagt, dass Gott den Gerechten kein Gutes vorenthält. Das bedeutet nicht, dass jeder Wunsch sofort erfüllt wird. Das bedeutet, dass Gott nicht beabsichtigt, dass ein Leben mit ihm geistlich dürftig ist. Das Warten kann wehtun, aber der Schmerz muss nicht die ganze Bedeutung der Jahreszeit werden.",
+            "Ein Teil der Reife beim Alleinsein ist das Lernen, zwei Wahrheiten gleichzeitig zu halten: Ich warte noch, und mir wird bereits viel gegeben. Diese Art von Leben leugnet nicht die Sehnsucht, und sie ignoriert auch nicht die Gnade. Gott ruft dich nicht in Gefühllosigkeit. Er lehrt dich, mit Hoffnung und Dankbarkeit zu leben.",
+            "**Ein wartendes Leben kann immer noch ein von Gott erfülltes Leben sein.** Benenne heute die Gaben, die Gott bereits in dein Leben gießt. Nicht um deine Sehnsucht zu ersticken, sondern um zu verhindern, dass \"noch nicht\" alles abdeckt, was bereits wahr ist."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke dir, dass ich immer noch ein erfülltes Leben führen kann, während ich warte. Halte mich davon ab, nur auf das zu schauen, was noch nicht gekommen ist, und schärfe meine Augen, um zu sehen, welche echte Gnade du bereits gibst. Hilf mir, die Sehnsucht weder zu leugnen noch die Dankbarkeit zu ignorieren. Während ich immer noch auf das hoffe, was ich hoffe, lass mich in der Fülle des Lebens bleiben, das du bereits ausgießt. Bleibe nahe bei mir in ruhigen Momenten und im Schmerz, der manchmal ohne Vorwarnung zurückkehrt. Lass mich mein Leben nicht in Eile oder Vergleich übergeben, sondern lehre mich, heute als einen Ort zu empfangen, an dem deine Güte bereits wirkt. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Johannes 10:10",
+              "book_code": "JHN",
+              "chapter": 10,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Dieb kommt nur, um zu stehlen, zu töten und zu zerstören; ich bin gekommen, damit sie Leben haben und es in Fülle haben."
+            },
+            {
+              "display": "Psalm 84:11",
+              "book_code": "PSA",
+              "chapter": 84,
+              "verses": "11",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn Gott der Herr ist Sonne und Schild; der Herr gibt Gnade und Ehre, er wird kein Gutes mangel lassen denen, die in Ungefährlichkeit wandeln."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS03",
+    "slug": "different-kind-of-twenties",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estaciones de la Vida",
+      "secondary": "early-light",
+      "secondary_label": "Luz Temprana"
+    },
+    "tags": [
+      "mujeres jovenes",
+      "primer trabajo",
+      "llamado",
+      "identidad",
+      "ambicion",
+      "adultez-temprana"
+    ],
+    "title": "Una Clase Diferente de Veinte",
+    "subtitle": "Siguiendo a Dios a través de la ambición, el cambio y la transformación",
+    "audience": {
+      "life_stage": [
+        "mujeres jóvenes",
+        "veintitantos",
+        "inicio de carrera"
+      ],
+      "emotional_state": [
+        "esperanzada",
+        "incierta",
+        "buscando dirección"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Para mujeres en sus veintes que desean más que el ajetreo y el impulso, y están aprendiendo a dejar que Dios moldee la manera en que crecen, eligen y se transforman.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#A8D8B9",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_woman_morning_window_spring_light",
+      "icon": "young-tree-with-blossoms-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Eclesiastés 12:1",
+        "book_code": "ECC",
+        "chapter": 12,
+        "verses": "1"
+      },
+      {
+        "display": "Jeremías 17:7-8",
+        "book_code": "JER",
+        "chapter": 17,
+        "verses": "7-8"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Tus Veinte No Son Una Sala de Espera",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Eclesiastés 12:1",
+            "book_code": "ECC",
+            "chapter": 12,
+            "verses": "1",
+            "translation": "Reina-Valera 1909",
+            "text": "Acuérdate de tu Creador en los días de tu juventud, antes que vengan los días malos, y lleguen los años de los cuales digas: No tengo en ellos contentamiento."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas hablan de los veinte como si fueran solo una zona temporal antes de que comience la vida real. Una vez que el trabajo se vuelve estable, las relaciones se aclaran, el dinero se siente más seguro, la ciudad se siente más permanente, y el yo se siente más maduro, entonces la vida verdadera comenzará. Pero cuando vivimos de esa manera durante demasiado tiempo, comenzamos a tratar el presente ligeramente. Trabajamos duro, pero nunca habitamos verdaderamente la estación en la que estamos.",
+            "Eclesiastés les dice a los jóvenes que recuerden a su Creador en los días de su juventud. Eso no es una advertencia contra la juventud misma. Es un recordatorio de que la juventud ya es una estación espiritualmente significativa. Dios no espera hasta que parezcas más establecida antes de comenzar a tomar tu vida en serio. Está escribiendo este capítulo ahora.",
+            "Eso cambia cómo vemos nuestros veinte. Su valor no está solo en dónde pueden conducir después. Su valor también está en lo que están formando ahora. Tus hábitos, amistades, ritmo, mayordomía, ética de trabajo y ritmos espirituales están echando raíces en esta estación.",
+            "**Tus veinte no son una sala de espera. Ya son parte de la historia que Dios está moldeando con intención.** Así que no trates estos años como una práctica desechable. Ofrécelos a Dios tal como son. Déjalo enseñarte a vivir dentro de ellos con más atención, gratitud y seriedad santa."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, perdóname por la manera en que trato esta estación demasiado ligeramente, como si la parte verdaderamente importante de la vida todavía estuviera en algún lugar adelante. Gracias por recordarme que estos años no son un borrador desechable. No has considerado este capítulo sin importancia. Enséñame a recordarte en mis veinte, no solo manteniéndome ocupada, sino caminando verdaderamente contigo ahora. Mantenme de desperdiciar esta estación o entregarla descuidadamente a la presión y las tendencias. Ayúdame a poner raíces aquí, a aprender reverencia aquí, y a seguirte aquí. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Eclesiastés 12:1",
+              "book_code": "ECC",
+              "chapter": 12,
+              "verses": "1",
+              "translation": "Reina-Valera 1909",
+              "text": "Acuérdate de tu Creador en los días de tu juventud, antes que vengan los días malos, y lleguen los años de los cuales digas: No tengo en ellos contentamiento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "La Ambición No Es Mala, Pero Debe Ser Ofrecida a Dios",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Daniel 1:8",
+            "book_code": "DAN",
+            "chapter": 1,
+            "verses": "8",
+            "translation": "Reina-Valera 1909",
+            "text": "Y Daniel propuso en su corazón no contaminarse con la porción de la comida del rey, ni con el vino que él bebía; pidió, pues, al jefe de los eunucos que no se le obligase a contaminarse."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La ambición es casi incorporada al aire de los veinte. Se te dice que te muevas rápido, quieras más, hagas algo de ti mismo, y reclames tu lugar. Para las mujeres, eso a menudo conlleva una tensión adicional: si no pareces lo suficientemente ambiciosa, se te descarta; si lo haces, puedes sentir presión para justificar la intensidad de tu deseo. Muchas mujeres jóvenes viven con una pregunta difícil: ¿cómo persigo el crecimiento sin dejar que la ambición me vacie?",
+            "Los años tempranos de Daniel en Babilonia hablan directamente a esa pregunta. Se le coloca en un sistema de oportunidad, presión y movimiento ascendente, pero él \"se propuso en su corazón\" no contaminarse. La Escritura no está condenando el avance. Está mostrando que el crecimiento sin límites interiores no es madurez. Daniel entra en un ambiente poderoso sin rendirse su centro interior.",
+            "Así es como se ve la ambición santa. No es la ausencia de deseo. Es el deseo traído bajo la regla de Dios. No pregunta solo, \"¿Cuánto lejos puedo llegar?\" sino también, \"¿Quién me estoy volviendo mientras voy allá?\" La ambición madura sabe que hay precios no vale la pena pagar.",
+            "**Dios no necesita borrar tu impulso. Quiere purificar tus motivos, ordenar tu ritmo, y guardar tu alma.** Tus veinte son un buen tiempo para establecer dirección, pero aún más importante, son un tiempo para decidir qué no vas a cambiar en el proceso."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias por darme el deseo de crecer, de trabajar, y de vivir mi vida con intención. No dejes que mi impulso se vuelva ambición descontrolada, y no dejes que cambie mis límites interiores solo para ser vista, aprobada, o avanzada. Como Daniel, dame un corazón que sepa cómo establecer propósito, no solo en avanzar, sino en guardar lo que importa. Si la vanidad, la comparación, o la inseguridad están mezcladas en mi esfuerzo, límpia las. Si hay vocación real y capacidad en mí, fortalécelas bajo tu mano. Hazme no una mujer arrastrada por la ambición, sino una cuya ambición ha sido ordenada delante de ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Daniel 1:8",
+              "book_code": "DAN",
+              "chapter": 1,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Y Daniel propuso en su corazón no contaminarse con la porción de la comida del rey, ni con el vino que él bebía; pidió, pues, al jefe de los eunucos que no se le obligase a contaminarse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "No Toda Puerta Abierta Es Para Ti",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Apocalipsis 3:7-8",
+            "book_code": "REV",
+            "chapter": 3,
+            "verses": "7-8",
+            "translation": "Reina-Valera 1909",
+            "text": "Escribe al ángel de la iglesia en Filadelfia: Esto dice el Santo, el Verdadero, el que tiene la llave de David, el que abre y nadie cierra, y cierra y nadie abre: Yo conozco tus obras; he aquí, he puesto delante de ti una puerta abierta, la cual nadie puede cerrar."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Cuando eres joven, es fácil tratar la oportunidad en sí como orientación. Si una puerta se abre, asumes que debes atravesarla. Si algo parece raro, emocionante, o impresionante, sientes presión para agarrarlo rápidamente. Pero una de las formas más importantes de sabiduría en tus veinte es aprender que no toda puerta abierta te pertenece.",
+            "Apocalipsis habla del Dios que coloca delante de su pueblo una puerta abierta que nadie puede cerrar. Lo que es reconfortante allí no es solo que las puertas se abran, sino que Dios es quien las abre. Eso significa que no tienes que forzar cada posibilidad para convertirla en tu futuro. Y cuando una puerta permanece cerrada, eso no significa automáticamente que estés atrás, no deseada, o fallida. Las puertas cerradas no siempre son castigo. A veces son protección.",
+            "Esto importa profundamente en una estación llena de opciones. Sin discernimiento, una mujer puede pasar sus veinte reaccionando a la urgencia en lugar de recibir dirección. Puede confundir el miedo a perderse con fidelidad.",
+            "**La madurez no es agarrar cada posibilidad. Es aprender a caminar por las puertas que Dios realmente te está dando.** Ese tipo de confianza calma el corazón. No tienes que correr simplemente porque otros están corriendo. Se te permite preguntar si este camino es verdaderamente abierto por Dios, o simplemente amplificado por tu miedo a quedarte atrás."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, a menudo tengo miedo de perderme, y ese miedo me hace rápida para perseguir oportunidades y rápida para entrar en pánico. Dame no un corazón apresurado, sino uno que discrimina. Enséñame que no toda puerta es mía para entrar, que pausar no es fracaso, y que el rechazo no significa automáticamente que no soy suficiente. Si hay puertas que has abierto para mí, dame valor para atravesarlas. Si hay puertas que has cerrado, enséñame a confiar en ti allí también. Mantenme de ser impulsada por comparación y miedo a perderme. Déjame caminar mi propio camino en tu tiempo. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Apocalipsis 3:7-8",
+              "book_code": "REV",
+              "chapter": 3,
+              "verses": "7-8",
+              "translation": "Reina-Valera 1909",
+              "text": "Escribe al ángel de la iglesia en Filadelfia: Esto dice el Santo, el Verdadero, el que tiene la llave de David, el que abre y nadie cierra, y cierra y nadie abre: Yo conozco tus obras; he aquí, he puesto delante de ti una puerta abierta, la cual nadie puede cerrar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Se Te Permite Crecer Antes de Que Todo Se Sienta Establecido",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 1:2-3",
+            "book_code": "PSA",
+            "chapter": 1,
+            "verses": "2-3",
+            "translation": "Reina-Valera 1909",
+            "text": "Sino que en la ley de Jehová está su delicia, y en su ley medita de día y de noche. Será como árbol plantado junto a corrientes de aguas, que da su fruto en su tiempo, y su hoja no cae; y todo lo que hace, prosperará."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Tus veinte pueden crear una enorme presión para volverse definida demasiado rápido. Sientes que deberías saber qué tipo de persona eres, qué camino te se ajusta mejor, qué ciudad sostendrá tu futuro, y qué forma debería tomar tu vida. Pero la formación real rara vez funciona de esa manera. Muchas mujeres se vuelven a sí mismas a través de intentar, ajustar, reaprender, reparar, y crecer lentamente en el tiempo.",
+            "La tragedia es que a menudo no nos damos ese tipo de gracia. Interpretamos \"todavía creciendo\" como \"no suficiente\". Tratamos \"no completamente establecido\" como evidencia de que algo está mal.",
+            "El Salmo 1 da una mejor imagen. La persona que se deleita en Dios es como un árbol plantado por arroyos de agua, produciendo fruto en su estación. Los árboles no crecen a través del pánico. Crecen a través de arraigamiento, nutrición, y tiempo. No piden disculpas por no soportar cada tipo de fruto en cada mes. Crecen según la estación.",
+            "**Dios no está avergonzado de que todavía estés siendo formada.** No está mirando tus lugares incompletos con irritación. Algunos de tu obediencia más profunda en esta estación pueden simplemente ser aceptar que estás en proceso y elegir permanecer arraigada mientras ese proceso se desarrolla.",
+            "Así que cuando sientas que tienes miedo de que la vida debería estar más establecida de lo que está, dite algo más verdadero: No estoy fracasando en convertirme. Me estoy convirtiendo en el tiempo. Esa frase puede no eliminar toda ansiedad, pero coloca tu crecimiento de nuevo dentro de la paciencia de Dios."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, reconozco lo impaciente que soy con mi propio crecimiento. Quiero volverme definida rápido, establecerme rápido, y producir fruto rápido. Y cuando todavía estoy averiguando las cosas, fácilmente asumo que no soy suficiente. Gracias por recordarme que los árboles tienen estaciones y el fruto tiene tiempo. Mantenme de verme a través de los ojos impacientes del mundo. Enséñame en su lugar a permanecer arraigada en ti. Si todavía estoy siendo formada, dame paz. Si todavía estoy esperando producir fruto, dame paciencia. No dejes que intente obligar el crecimiento a través de la ansiedad. Déjame crecer en el tiempo que das. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 1:2-3",
+              "book_code": "PSA",
+              "chapter": 1,
+              "verses": "2-3",
+              "translation": "Reina-Valera 1909",
+              "text": "Sino que en la ley de Jehová está su delicia, y en su ley medita de día y de noche. Será como árbol plantado junto a corrientes de aguas, que da su fruto en su tiempo, y su hoja no cae; y todo lo que hace, prosperará."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "La Madurez También Es Sobre Administrar Hoy",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Proverbios 10:4",
+            "book_code": "PRO",
+            "chapter": 10,
+            "verses": "4",
+            "translation": "Reina-Valera 1909",
+            "text": "La mano negligente empobrece; mas la mano de los diligentes enriquece."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una tentación de los veinte es tratar el futuro como muy importante y el presente como algo negociable. Pensamos en términos de planes quinquenales, pero podríamos no dormir bien, administrar el dinero sabiamente, mantener ritmos diarios con Dios, o administrar las pequeñas responsabilidades ya frente a nosotros. Sin embargo, la verdadera madurez no es solo la capacidad de imaginar el futuro. Es también la capacidad de gobernar hoy.",
+            "La Escritura vincula repetidamente la sabiduría con la diligencia, la constancia, y la fidelidad en las cosas pequeñas. Dios no forma personas solo a través de decisiones importantes. A menudo las forma a través de la administración ordinaria. El futuro de una mujer no se forma solo a través de las oportunidades que recibe, sino de los hábitos que está construyendo silenciosamente ahora.",
+            "Eso importa porque las cosas pequeñas no permanecen pequeñas. Cómo manejas el tiempo, el dinero, la atención, el descanso, el seguimiento, y la responsabilidad diaria ya está diciendo algo sobre el tipo de vida que te estás volviendo capaz de llevar.",
+            "**La manera en que administras hoy a menudo dice más sobre quién te estás volviendo que los planes que tienes para mañana.** Esto no es una llamada al control obsesivo. Es una llamada a la administración fiel. Cuando comienzas a ver el tiempo, el dinero, la energía, y los compromisos como dones confiados, tus veinte ganan estructura. La pasión comienza a echar raíces.",
+            "Si has estado esperando alguna oportunidad más grande para probarte, haz una pregunta más tranquila: ¿estoy cuidando bien lo que Dios ya ha puesto en mis manos hoy? Muchos futuros se forman allí."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, a menudo coloco tanta esperanza en el futuro mientras no presto atención completa a hoy. Ayúdame a convertirme no solo en alguien que imagina lo que puede venir, sino en alguien que administra fielmente lo que está aquí. Mantenme de despreciar el tiempo, el dinero, el descanso, la atención, y las pequeñas responsabilidades, porque todo ello me está moldeando. Si hay pereza, evasión, retraso, o falta de disciplina en mí, corrígeme gentilmente. Si ya has confiado pequeñas cosas a mi cuidado, enséñame a honrarlas. Que mis años sean marcados no solo por pasión, sino por orden; no solo por sueños, sino por fidelidad. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Proverbios 10:4",
+              "book_code": "PRO",
+              "chapter": 10,
+              "verses": "4",
+              "translation": "Reina-Valera 1909",
+              "text": "La mano negligente empobrece; mas la mano de los diligentes enriquece."
+            },
+            {
+              "display": "Lucas 16:10",
+              "book_code": "LUK",
+              "chapter": 16,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "El que es fiel en lo muy poco, también lo es en lo mucho; y el que en lo muy poco es injusto, también en lo mucho es injusto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "Dios Puede Usarte Antes de Que Te Sientas Terminada",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Timoteo 4:12",
+            "book_code": "1TI",
+            "chapter": 4,
+            "verses": "12",
+            "translation": "Reina-Valera 1909",
+            "text": "Ninguno tenga en poco tu juventud, sino sé ejemplo de los creyentes en palabra, conducta, amor, espíritu, fe y pureza."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas mujeres jóvenes viven tranquilamente con esta suposición: una vez que soy más madura, más estable, menos conflictiva, menos temerosa, entonces Dios podrá usarme apropiadamente. Pero si eso se convierte en la regla, el crecimiento se convierte en un largo intento de convertirse en una versión impecable de ti mismo antes de responder a Dios.",
+            "La Escritura ofrece algo mejor. Pablo le dice a Timoteo que no deje que nadie desprecie su juventud, sino que sea un ejemplo en habla, conducta, amor, fe, y pureza. Timoteo no se describe como completamente terminado. Es joven, todavía creciendo, todavía sirviendo, todavía aprendiendo a cargar responsabilidad. Sin embargo, Pablo no le dice que espere hasta que la madurez se complete antes de que se vuelva útil.",
+            "Eso importa. Dios no suspende su trabajo en tu vida hasta que te conviertas en la versión final de ti mismo. A menudo usa personas mientras todavía las está moldeando. Las forma en el mismo acto de su obediencia.",
+            "**No necesitas resolver cada tensión interior antes de poder pertenecer significativamente al trabajo de Dios.** Puedes reconocer tus limitaciones y aún así ofrecer tu vida. Puedes seguir siendo sincera, fiel, y disponible mientras permaneces incompleta.",
+            "Así que si estás tentada a descalificarte porque todavía estás en proceso, recuerda a Timoteo. La juventud no fue razón para despido. Fue un lugar donde la fe ya podía tomar forma visible. Dios no está esperando una ti perfecta. Te está llamando al ti real a caminar con él ahora."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, a menudo me siento demasiado inmadura, demasiado inestable, o demasiado incompleta, y por eso también es fácil para mí minimizarme o posponer la obediencia. Gracias por recordarme que la juventud no es razón para que me pongas a un lado. Ayúdame a dejar de tratar mi crecimiento como una descalificación de ser útil para ti hoy. Mantenme de pretender que estoy completamente lista, pero también mantenme de retirarme porque no lo estoy. Dame un corazón que sea honesto, humilde, y disponible. Enséñame a seguirte seriamente mientras todavía soy joven, todavía estoy aprendiendo, y todavía estoy siendo formada. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Timoteo 4:12",
+              "book_code": "1TI",
+              "chapter": 4,
+              "verses": "12",
+              "translation": "Reina-Valera 1909",
+              "text": "Ninguno tenga en poco tu juventud, sino sé ejemplo de los creyentes en palabra, conducta, amor, espíritu, fe y pureza."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "Una Clase Diferente de Veinte Es Arraigada, No Meramente Impresionante",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Jeremías 17:7-8",
+            "book_code": "JER",
+            "chapter": 17,
+            "verses": "7-8",
+            "translation": "Reina-Valera 1909",
+            "text": "Bendito el varón que confía en Jehová, y cuya confianza es Jehová. Porque será como el árbol plantado junto a las aguas, que extiende sus raíces hacia la corriente, y no verá cuando viene el calor, sino que su hoja estará verde; y en el año de sequía no se fatigará, ni dejará de dar fruto."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "En el séptimo día, finalmente podemos mirar hacia atrás y ver qué es lo que este viaje completo realmente ha estado buscando traernos. No simplemente una versión más eficiente, estratégica, y consciente de oportunidades de ti mismo. Está buscando arraigamiento. El mundo celebra una versión impresionante de los veinte: más experiencias, más movimiento, más visibilidad, más historias, más impulso. Pero si la vida interior no tiene raíces, todo ese movimiento aún puede dejar a una persona frágil.",
+            "Jeremías describe al que confía en el Señor como un árbol plantado por las aguas. El calor aún viene. La sequía aún existe. Pero el árbol no deja de soportar vida porque sus raíces son más profundas que el clima. Esa es una imagen poderosa para la adultez joven. Puedes no evitar confusión, transición, presión, retraso, o tentación. Pero puedes volverse el tipo de mujer cuya vida está lo suficientemente arraigada para soportarlas.",
+            "**Una clase diferente de veinte no es necesariamente más emocionante. Es más profundamente arraigada en Dios.** Las mujeres arraigadas no están sin ambición, pero su ambición tiene profundidad. No están sin deseo, pero sus deseos están ordenados. No están sin movimiento, pero el movimiento ya no es toda la historia.",
+            "Así que termina esta semana con una oración más simple de la que podrías haber esperado: Señor, que mis años sean más que intensidad. Que sean arraigamiento. El mundo puede notar la vida brillante primero. Dios a menudo construye la vida profunda primero. Y a largo plazo, esa profundidad importará más."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias por llevarme a través de este viaje sobre juventud, dirección, crecimiento, y discernimiento. No dejes que lo que me has mostrado permanezca solo como emoción pasajera. Plántalo en mi vida. Mantenme de solo querer un conjunto de años impresionante. Enséñame a querer un conjunto de años arraigado. Si mucho aún se siente incierto por adelante, sostenme con tu presencia. Si todavía estoy llena del impulso de apresurarse, probar, y ser vista, continúa reordenándome. Que mi pasión tenga raíces, mis sueños tengan raíces, mis elecciones tengan raíces, y mi ritmo tenga raíces. En esta estación cuando el mundo está ansioso por moldearme, móldeame más profundamente tú mismo. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Jeremías 17:7-8",
+              "book_code": "JER",
+              "chapter": 17,
+              "verses": "7-8",
+              "translation": "Reina-Valera 1909",
+              "text": "Bendito el varón que confía en Jehová, y cuya confianza es Jehová. Porque será como el árbol plantado junto a las aguas, que extiende sus raíces hacia la corriente, y no verá cuando viene el calor, sino que su hoja estará verde; y en el año de sequía no se fatigará, ni dejará de dar fruto."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

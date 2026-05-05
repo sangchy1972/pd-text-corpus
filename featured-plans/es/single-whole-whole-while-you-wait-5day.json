@@ -1,0 +1,377 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI17",
+    "slug": "whole-while-you-wait",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles e Identidad",
+      "secondary": "single-whole",
+      "secondary_label": "Soltera y Plena"
+    },
+    "tags": [
+      "soltera",
+      "plenitud",
+      "soledad",
+      "espera",
+      "llamado",
+      "plenitud"
+    ],
+    "title": "Completa mientras esperas",
+    "subtitle": "Viviendo plenamente antes de que la vida se vea como esperabas",
+    "audience": {
+      "life_stage": [
+        "mujeres solteras",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "plena",
+        "anhelante",
+        "contenta en la espera"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Estos cinco días te ayudan a traer tu corazón de nuevo a Dios en medio de la espera, la ansiedad por el tiempo, la comparación y la sensación de no ser suficiente, para que puedas comenzar a vivir desde la totalidad ahora.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#E0D4C0",
+      "color_secondary": "#5A4226",
+      "image_key": "cover_woman_quiet_room_solitude_warm",
+      "icon": "single-tree-and-sun-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 27:14",
+        "book_code": "PSA",
+        "chapter": 27,
+        "verses": "14"
+      },
+      {
+        "display": "Juan 10:10",
+        "book_code": "JHN",
+        "chapter": 10,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "La espera a menudo nos hace dudar de nosotras mismas",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 27:14",
+            "book_code": "PSA",
+            "chapter": 27,
+            "verses": "14",
+            "translation": "Reina-Valera 1909",
+            "text": "Aguarda a Jehová; esfuérzate, y él fortalecerá tu corazón; sí, espera a Jehová."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Lo que hace que la espera sea tan difícil no es solo que la respuesta no haya llegado. Es que con el tiempo, la espera puede comenzar a sonar como un veredicto sobre nosotras. Quizás no soy suficiente. Quizás algo anda mal conmigo. Quizás si fuera más deseable, más amada, más segura, más impresionante o más espiritualmente madura, las cosas habrían sucedido ya. El dolor de esperar a menudo viene no solo de la demora, sino de la historia que la demora comienza a contar dentro del corazón.",
+            "Sin embargo, el Salmo 27 presenta la espera de manera muy diferente. Esperar en el Señor no es humillación. Es el lugar donde Dios fortalece el corazón. Romanos 8 habla de la espera paciente como algo unido a la esperanza, no a la vergüenza. Las Escrituras no presentan la espera como una forma de vida de segunda categoría. A menudo la presentan como un lugar donde la confianza se está formando silenciosamente.",
+            "Muchas de nosotras sabemos lo implacable que puede ser la pregunta \"¿por qué aún no?\". No permanece como una pregunta sobre el tiempo. Se convierte en una pregunta sobre el valor. Allí es donde la espera comienza a herir el alma. Pero Dios no está de pie a un lado, acordando con esa interpretación. No está demorando porque seas menos digna de amor o alegría.",
+            "**La espera no es el rechazo de Dios hacia ti, y no es prueba de que carezcas de valor.** Trae la voz de la duda de ti misma a Dios hoy. No simplemente argumentes con ella en tu propia fuerza. Nómbrala ante Él. Deja que Su verdad llegue cerca a la parte de ti que ha estado silenciosamente convirtiendo la demora en acusación."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, líbrame del hábito de dudarme a mí misma porque la espera ha sido larga. Sabes que no simplemente espero. A menudo espero mientras convierto la demora en evidencia de que no soy suficiente. Corrige esa mentira en mí. Fortalece mi corazón en esta estación y recuérdame que una presencia sin respuesta no es lo mismo que una vida sin amor. Si la respuesta aún no ha llegado, eso no significa que Tu afecto aún no haya llegado. Permanece cerca de mí en la espera, en la quietud, y en la tristeza que a veces llega sin advertencia. No dejes que entregue mi dolor a la prisa o la comparación, sino enséñame a recibir la plenitud que ya estás colocando en mi vida hoy. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "Reina-Valera 1909",
+              "text": "Aguarda a Jehová; esfuérzate, y él fortalecerá tu corazón; sí, espera a Jehová."
+            },
+            {
+              "display": "Romanos 8:25",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "25",
+              "translation": "Reina-Valera 1909",
+              "text": "Mas si esperamos lo que no vemos, con paciencia lo aguardamos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Cuando otros avanzan, no tengo que disminuirme a mí misma",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Gálatas 6:4",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "4",
+            "translation": "Reina-Valera 1909",
+            "text": "Así que cada uno someta a prueba su propia obra..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Es humano sentir una punzada cuando otras personas avanzan hacia relaciones, matrimonio o la siguiente etapa que has esperado silenciosamente. El problema no siempre es la punzada en sí. El problema más profundo es lo que la punzada comienza a decir sobre ti. El compromiso de otra persona, la estabilidad o la felicidad visible puede convertirse rápidamente en evidencia en tu contra de tu propia indeseabilidad, falta de valor o futuro incierto. La comparación no solo nos hace notar lo que otros tienen. Nos tienta a convertir su bendición en un veredicto sobre nuestra propia carencia.",
+            "Pero Dios nunca ha asignado las historias de otras personas para explicar tu valor. Gálatas 6 le dice a cada persona que examine su propia vida. Eso no es negación emocional. Es una manera de regresar a tu propio terreno. Isaías dice que Dios te ha grabado en las palmas de Sus manos. No se ha vuelto menos atento a ti porque la oración de otra persona fue respondida antes. No se ha olvidado de ti en medio de bendecir a otras personas.",
+            "Muchas de nosotras conocemos el sentimiento complicado de estar genuinamente felices por alguien y desanimadas silenciosamente al mismo tiempo. Dios no se siente amenazado por esa complejidad. Pero sí quiere sanar el hábito de convertir la alegría de otra persona en tu propio desprecio. La comparación a menudo revela no solo envidia, sino una inseguridad más profunda sobre si nosotras mismas seremos vistas, elegidas o amadas.",
+            "**El \"ya\" de otra persona no tiene que convertirse en tu razón para disminuirte.** Cuando la comparación surja hoy, no te obligues a una falsa pulcritud emocional. Trae todo a Dios. Cuéntale qué duele, qué te asusta, y qué parece que este momento está diciendo sobre ti. Su verdad puede encontrarse con los lugares tiernos que la comparación expone."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, cuando vea a otros avanzar, guarda mi corazón de convertir eso en desprecio por mí misma. Sabes cómo puedo parecer tranquila por fuera mientras estoy comparándome, dudando y sintiéndome menos digna. Interrumpe ese movimiento descendente. Sana el miedo más profundo debajo de eso, el miedo de que quizás no seré vista, elegida o dada lo que anhelo. Gracias porque Tu intención hacia mí no se ha hecho más pequeña por culpa de la historia de nadie más. Permanece cerca de mí en la espera, en la quietud, y en la tristeza que a veces llega sin advertencia. No dejes que entregue mi dolor a la prisa o la comparación, sino enséñame a recibir la plenitud que ya estás colocando en mi vida hoy. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Gálatas 6:4",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "4",
+              "translation": "Reina-Valera 1909",
+              "text": "Así que cada uno someta a prueba su propia obra..."
+            },
+            {
+              "display": "Isaías 49:16",
+              "book_code": "ISA",
+              "chapter": 49,
+              "verses": "16",
+              "translation": "Reina-Valera 1909",
+              "text": "He aquí que en las palmas de mis manos te he grabado..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "La plenitud no se espera hasta que llegue el romance",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 16:11",
+            "book_code": "PSA",
+            "chapter": 16,
+            "verses": "11",
+            "translation": "Reina-Valera 1909",
+            "text": "Me mostrarás la senda de la vida; en tu presencia hay plenitud de gozo..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas asumen que la plenitud comienza cuando llega el amor. Una vez que hay una relación, una vez que hay alguien que te elige claramente, una vez que el futuro finalmente se ve compartido, entonces tal vez tu corazón descansará. Pero esta creencia hace que la soltería se sienta insoportablemente tensa. Te enseña a posponer la paz hasta algún capítulo posterior, como si no pudieras realmente comenzar hasta que otra persona llegue.",
+            "El Salmo 16 dice que la plenitud de alegría está en la presencia de Dios, y Juan 15 nos llama a permanecer en Cristo. Dios no está minimizando la importancia del amor humano. Está hablando a la raíz más profunda del alma. Si la plenitud se retrasa hasta que aparezca el romance, entonces las relaciones comienzan a cargar con más de lo que estaban destinadas a cargar. Se convierten no solo en compañía, sino en rescate. Eso es demasiado peso para que cualquier amor humano lo soporte.",
+            "Muchas de nosotras conocemos el dolor de querer ser elegidas. A menudo ese dolor es sobre algo más que el romance. Toca preguntas más profundas: ¿soy amable?, ¿soy deseable?, ¿valgo la pena comprometerse?, ¿valgo la pena mantener? Dios no se burla de ese anhelo. Pero tampoco quiere que coloques toda la respuesta a tu valor en una futura relación. Quiere comenzar a formar estabilidad en ti ahora.",
+            "**La plenitud no es un premio esperando al final del romance. Puede comenzar a crecer en Dios ya.** Trae el vacío más profundo en ti de vuelta a Él hoy. No para que finjas que ya no anhelas el amor, sino para que tu sentido de ti misma ya no esté siendo retenido como rehén por algo que aún no ha llegado."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, impídeme que siga posponiéndola totalidad indefinidamente. Confieso que a menudo siento como si una parte muy importante de mí no pudiera asentarse hasta que llegue el amor. Pero hoy te pido que hagas Tu hogar más profundamente en mí. Haz crecer una vida más estable dentro de mí en Tu presencia. No borres mi anhelo de ser amada, pero líbrame de colocar mi sentido completo de plenitud en una futura relación. Permanece cerca de mí en la espera, en la quietud, y en la tristeza que a veces llega sin advertencia. No dejes que entregue mi dolor a la prisa o la comparación, sino enséñame a recibir la plenitud que ya estás colocando en mi vida hoy. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "Reina-Valera 1909",
+              "text": "Me mostrarás la senda de la vida; en tu presencia hay plenitud de gozo..."
+            },
+            {
+              "display": "Juan 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "Reina-Valera 1909",
+              "text": "Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, ése lleva mucho fruto..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Mi vida no ha sido puesta en pausa",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Efesios 5:15-16",
+            "book_code": "EPH",
+            "chapter": 5,
+            "verses": "15-16",
+            "translation": "Reina-Valera 1909",
+            "text": "Mirad, pues, con cuidado cómo andéis... aprovechando bien el tiempo..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La soltería puede crear la ilusión de que la vida real aún no ha comenzado. Este sentimiento se hace más fuerte cuando las personas a tu alrededor se mueven hacia hitos visibles. Sin pretenderlo, comienzas a tratar tu vida presente como provisional. Construiré una casa después. Viajaré después. Serviré más profundamente después. Tomaré mis deseos en serio después. Me sentiré completamente viva después. El futuro se convierte silenciosamente en el lugar donde se te permite que tu vida sea real.",
+            "Pero Dios está obrando en tu presente, no solo en algún capítulo posterior. Efesios habla de redimir el tiempo. Eso no significa exprimir productividad de cada minuto. Significa reconocer que los días que tienes ahora importan ante Dios. Filipenses habla de esforzarse hacia adelante, no porque la vida esté completamente asentada, sino porque Dios sigue guiando. La soltería no es un intermedio antes de que tu historia verdadera comience. Es parte de tu historia verdadera.",
+            "Muchas de nosotras sabemos lo difícil que es creerlo emocionalmente. Podemos estar de acuerdo en teoría y aún así sentirnos invisibles en ciertas estaciones, días festivos o momentos sociales. Sin embargo, Dios no ha escrito tu presente como una trama secundaria. Está hablando aquí, formándote aquí, invitándote aquí. Tu vida no está en suspenso simplemente porque una presencia permanece sin respuesta.",
+            "**Tu vida no es una sala de espera. Es tu vida real.** Pregúntale a Dios hoy qué te está invitando a tomar en serio ahora. La respuesta puede ser tranquila, pero cuando dejamos de posponer nuestras vidas, algo en el alma comienza a despertar de nuevo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, impídeme que siga tratando el presente como tiempo secundario. Si he creído silenciosamente que la vida real comienza solo cuando llega un capítulo futuro, tráeme de vuelta. Gracias porque no has escrito hoy como un trasfondo desechable. Ayúdame a dejar de simplemente pasar por mis días y comienza a vivir más intencionalmente dentro de la vida, vocación y gracia que me estás dando ahora. Permanece cerca de mí en la espera, en la quietud, y en la tristeza que a veces llega sin advertencia. No dejes que entregue mi dolor a la prisa o la comparación, sino enséñame a recibir la plenitud que ya estás colocando en mi vida hoy. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Efesios 5:15-16",
+              "book_code": "EPH",
+              "chapter": 5,
+              "verses": "15-16",
+              "translation": "Reina-Valera 1909",
+              "text": "Mirad, pues, con cuidado cómo andéis... aprovechando bien el tiempo..."
+            },
+            {
+              "display": "Filipenses 3:13-14",
+              "book_code": "PHP",
+              "chapter": 3,
+              "verses": "13-14",
+              "translation": "Reina-Valera 1909",
+              "text": "Olvidando ciertamente lo que queda atrás, y extendiéndome a lo que está adelante..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Una vida plena es posible incluso mientras esperas",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Juan 10:10",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "10",
+            "translation": "Reina-Valera 1909",
+            "text": "El ladrón no viene sino para hurtar y matar y destruir; yo he venido para que tengan vida, y para que la tengan en abundancia."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La plenitud no viene en una sola forma. Sin embargo, muchas de nosotras quedamos atrapadas por una imaginación muy estrecha de lo que se supone que debe ser una vida plena. Asumimos que ser elegida románticamente, entrar en el matrimonio y mudarse a un cierto tipo de vida visible es la verdadera versión de la abundancia. Si esa una cosa aún no ha llegado, todo lo demás en nuestras vidas puede comenzar a sentirse como un sustituto menor. La amistad profunda, el trabajo significativo, la libertad de tiempo, el crecimiento en Dios, la madurez emocional y la visión expansiva son todos dones reales, pero a menudo dudamos en nombrarlos como plenitud porque no coinciden con la imagen que más anhelamos.",
+            "Jesús dice en Juan 10 que vino para que tengamos vida abundantemente. Esa abundancia no es una historia de talla única. El Salmo 84 dice que Dios no retiene ninguna cosa buena de los que andan en integridad. Eso no significa que cada deseo sea respondido inmediatamente. Significa que Dios no tiene la intención de que una vida con Él sea espiritualmente estéril. La espera puede seguir siendo dolorosa, pero el dolor no tiene que convertirse en todo el significado de la estación.",
+            "Parte de la madurez en la soltería es aprender a sostener dos verdades a la vez: todavía estoy esperando, y ya me están dando mucho. Ese tipo de vida no niega el anhelo, y tampoco ignora la gracia. Dios no te está pidiendo insensibilidad. Te está enseñando a vivir con esperanza y gratitud.",
+            "**Una vida de espera puede ser todavía una vida llena de Dios.** Hoy, nombra los dones que Dios ya está derramando en tu vida. No para silenciar tu anhelo, sino para evitar que \"aún no\" cubra todo lo que ya es verdad."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias porque puedo seguir viviendo una vida plena mientras espero. Impídeme que solo mire lo que aún no ha llegado, y agudiza mis ojos para ver la gracia real que ya me estás dando. Ayúdame a no negar el anhelo ni descuidar la gratitud. Mientras sigo esperando lo que espero, déjame permanecer enraizada en la abundancia de vida que ya estás derramando. Permanece cerca de mí en momentos tranquilos y en el dolor que a veces regresa sin advertencia. No dejes que entregue mi vida a la prisa o la comparación, sino enséñame a recibir hoy como un lugar donde Tu bondad ya está en acción. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Juan 10:10",
+              "book_code": "JHN",
+              "chapter": 10,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "El ladrón no viene sino para hurtar y matar y destruir; yo he venido para que tengan vida, y para que la tengan en abundancia."
+            },
+            {
+              "display": "Salmo 84:11",
+              "book_code": "PSA",
+              "chapter": 84,
+              "verses": "11",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque sol y escudo es Jehová Dios; gracia y gloria dará Jehová. No quitará el bien a los que andan en integridad."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

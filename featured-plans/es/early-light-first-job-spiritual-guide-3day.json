@@ -1,0 +1,257 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS01",
+    "slug": "first-job-spiritual-guide",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estaciones de la Vida",
+      "secondary": "early-light",
+      "secondary_label": "Luz Temprana"
+    },
+    "tags": [
+      "mujeres jovenes",
+      "primer trabajo",
+      "llamado",
+      "identidad",
+      "ambicion",
+      "adultez-temprana"
+    ],
+    "title": "Una Guía Espiritual para Tu Primer Trabajo",
+    "subtitle": "Cuando el trabajo es nuevo, la presión es real, y Dios ya está allí",
+    "audience": {
+      "life_stage": [
+        "mujeres jóvenes",
+        "veintitantos",
+        "inicio de carrera"
+      ],
+      "emotional_state": [
+        "esperanzada",
+        "incierta",
+        "buscando dirección"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Para la mujer que entra en su primera temporada de trabajo, aprendiendo a enfrentar la presión, la ambición y la incertidumbre con la presencia constante de Dios.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#A8D8B9",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_woman_morning_window_spring_light",
+      "icon": "young-tree-with-blossoms-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Génesis 39:2-3",
+        "book_code": "GEN",
+        "chapter": 39,
+        "verses": "2-3"
+      },
+      {
+        "display": "Colosenses 3:23-24",
+        "book_code": "COL",
+        "chapter": 3,
+        "verses": "23-24"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Un Nuevo Lugar de Trabajo También Puede Convertirse en Tierra Santa",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Génesis 39:2-3",
+            "book_code": "GEN",
+            "chapter": 39,
+            "verses": "2-3",
+            "translation": "Reina-Valera 1909",
+            "text": "Y Jehová estaba con José, y fué varón prosperado; y estaba en casa de su amo el Egipcio. Y vió su amo que Jehová estaba con él, y que todo lo que hacía, Jehová lo hacía prosperar en su mano."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "El primer trabajo a menudo se siente como el momento en que la vida se mueve hacia una pista más pública. De repente hay plazos, reuniones, correos electrónicos, expectativas, y la presión tranquila de ser visto como alguien capaz. Eso puede ser emocionante, pero también es profundamente inquietante. Muchas mujeres jóvenes entran al trabajo llevando una mezcla de esperanza y dudas de sí mismas. Quieren hacerlo bien, pero también se preguntan en silencio: \"¿Puedo realmente mantenerme al ritmo aquí?\" Lo que llega primero a menudo no es confianza, sino tensión.",
+            "Por eso la historia de José es importante. Cuando entró en la casa de Potifar, no estaba entrando en la vida que hubiera elegido. Era desconocida, desigual, y lejos de ser segura. Sin embargo, las Escrituras repiten una verdad constante: \"Jehová estaba con José\". Dios no esperó a que el ambiente fuera perfecto antes de mostrar Su presencia. Él entró primero al lugar extraño.",
+            "**Tu primer trabajo no es solo una prueba de competencia. También puede convertirse en uno de los primeros lugares donde aprendas a caminar con Dios en la vida pública.** El trabajo formará tus habilidades, pero Dios puede usarlo para formar tu firmeza, honestidad y humildad. No necesitas volverte impresionante de la noche a la mañana. Necesitas recordar cuya presencia te acompaña en salas desconocidas.",
+            "Hoy, comienza con una oración simple: \"Señor, ayúdame a recordar que ya estás aquí\". No necesitas sentirte fuerte antes de que Dios pueda estar cerca. A menudo es Su cercanía la que nos enseña cómo volvernos firmes.",
+            "Lo que esto significa es que la oficina, el aula, el estudio, el hospital o la tienda donde estás aprendiendo no está fuera del alcance de Dios. Él no solo te encuentra en tu tiempo de oración matutina y luego desaparece cuando comienza el día de trabajo. Está presente en la curva de aprendizaje, en la torpeza, en la responsabilidad, y en la incertidumbre."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias porque el lugar de trabajo no está fuera de tu presencia. Cuando entro en un nuevo ambiente con nuevas expectativas, nuevas personas y nuevas responsabilidades, admito que siento tanto esperanza como inquietud. Ayúdame a recordar que no estoy caminando sola. Como estuviste con José, sé conmigo en este lugar desconocido. Dame humildad cuando necesite aprender, calma cuando sienta presión para impresionar, y honestidad y valentía cuando cometa errores o me quede atrás. Gracias porque no esperas hasta que me vea firme antes de acercarte. Ya estás conmigo mientras sigo aprendiendo. Guarda mi salida y mi entrada hoy, y enséñame cómo trabajar y crecer contigo. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Génesis 39:2-3",
+              "book_code": "GEN",
+              "chapter": 39,
+              "verses": "2-3",
+              "translation": "Reina-Valera 1909",
+              "text": "Y Jehová estaba con José, y fué varón prosperado; y estaba en casa de su amo el Egipcio. Y vió su amo que Jehová estaba con él, y que todo lo que hacía, Jehová lo hacía prosperar en su mano."
+            },
+            {
+              "display": "Salmo 121:8",
+              "book_code": "PSA",
+              "chapter": 121,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Jehová guardará tu salida y tu entrada desde ahora y para siempre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "A Menudo Dios Se Preocupa Menos por la Velocidad y Más por la Fidelidad",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Samuel 2:26",
+            "book_code": "1SA",
+            "chapter": 2,
+            "verses": "26",
+            "translation": "Reina-Valera 1909",
+            "text": "Y el niño Samuel iba creciendo, y era acepto delante de Jehová y delante de los hombres."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Al principio del trabajo, es fácil sentirse gobernado por la velocidad. Algunas personas parecen entenderlo todo rápidamente. Algunos hablan con confianza. Algunos parecen naturalmente adecuados para el sistema. Sin notarlo, puedes empezar a medirte contra el ritmo a tu alrededor: ¿Soy demasiado lenta? ¿Me estoy quedando atrás? ¿Ya parezco menos capaz de lo que debería?",
+            "Para muchas mujeres jóvenes, la presión del primer trabajo no es solo sobre la tarea en sí. Es el impulso de probar, lo más rápidamente posible, que perteneces. El crecimiento comienza a parecer aceleración. La fidelidad comienza a parecer producción constante. El aprendizaje tranquilo puede parecer poco impresionante.",
+            "**No necesitas un progreso inusualmente rápido para probar que mereces quedarte.** A los ojos de Dios, la capacidad de aprender, la honestidad, la firmeza y la fidelidad en las cosas pequeñas importan profundamente. Un primer trabajo puede exponer tu inexperiencia, pero también te da la oportunidad de construir algo más valioso que el pulido rápido: una forma fiel de comenzar.",
+            "Así que haz una pregunta más amable hoy. No, \"¿Cómo me pongo al día con todos?\" sino, \"¿Qué significa fidelidad frente a mí ahora?\". Puede ser una tarea cuidadosa, una admisión honesta, o una pequeña responsabilidad hecha bien. Dios no desprecia los pequeños comienzos.",
+            "Sin embargo, la Escritura a menudo cuenta una historia diferente. Samuel servía ante el Señor cuando aún era joven, y su crecimiento no se construyó sobre la visibilidad instantánea. Sucedió a través del servicio ordinario y la formación constante. Lucas también dice que Jesús \"crecía en sabiduría, en estatura, y en gracia para con Dios y los hombres\". El crecimiento no es un fracaso de velocidad. Es un proceso. Es lo suficientemente lento como para requerir paciencia y lo suficientemente profundo como para requerir tiempo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, admito que fácilmente me agito por el ritmo de otras personas. Es tan fácil para mí tratar la velocidad, el pulido y la fuerza visible como mi fuente de seguridad. Por favor, desacelera la parte ansiosa de mí que quiere probarse demasiado rápidamente. Enséñame a comenzar esta temporada con firmeza y fidelidad en su lugar. Gracias porque no requieres que sea impresionante desde el principio. Te importa si soy educable, honesta y dispuesta a ser fiel en las cosas pequeñas. Como hiciste crecer a Samuel silenciosa y constantemente, hazme crecer también en las partes ordinarias de esta temporada. Mantenme de despreciar las tareas pequeñas, las obediencias pequeñas y el pequeño progreso de hoy, porque a menudo das forma a una vida allí. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Samuel 2:26",
+              "book_code": "1SA",
+              "chapter": 2,
+              "verses": "26",
+              "translation": "Reina-Valera 1909",
+              "text": "Y el niño Samuel iba creciendo, y era acepto delante de Jehová y delante de los hombres."
+            },
+            {
+              "display": "Lucas 2:52",
+              "book_code": "LUK",
+              "chapter": 2,
+              "verses": "52",
+              "translation": "Reina-Valera 1909",
+              "text": "Y Jesús crecía en sabiduría, y en estatura, y en gracia para con Dios y los hombres."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "El Trabajo También Me Está Formando en la Clase de Persona Que Me Estoy Convirtiendo",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Colosenses 3:23-24",
+            "book_code": "COL",
+            "chapter": 3,
+            "verses": "23-24",
+            "translation": "Reina-Valera 1909",
+            "text": "Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres; sabiendo que del Señor recibiréis la recompensa de la herencia, porque a Cristo el Señor servís."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Al tercer día, es útil hacer una pregunta más profunda que \"¿Puedo hacer bien este trabajo?\" Podemos preguntar: \"¿Qué tipo de persona me está formando este trabajo?\". Un primer trabajo enseña habilidades, comunicación, gestión del tiempo, y realismo. Pero también forma silenciosamente la vida interior. ¿Cómo manejas el esfuerzo no observado? ¿Cómo respondes a tareas repetitivas, expectativas poco claras, o la tensión de tener ambición mientras eres aún principiante?",
+            "Estas no son solo preguntas de lugar de trabajo. Son preguntas espirituales. Colosenses dice: \"Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres\". Eso no significa que el trabajo se convierte en tu vida completa, o que debes volverse infinitamente productiva en nombre de Dios. Significa que la razón más profunda debajo de tu trabajo está siendo reordenada. La aprobación humana ya no es el centro final.",
+            "**Dios no solo está interesado en lo que logras. También está formando quién te estás convirtiendo mientras lo logras.** Eso da a esta temporada un tipo más profundo de dignidad. No estás meramente adaptándote al mundo adulto. Estás aprendiendo cómo entrar en él con un corazón que todavía le pertenece a Dios.",
+            "Al final de hoy, pregúntate honestamente: ¿Qué ha expuesto ya el trabajo en mí? ¿Miedo a los errores? ¿El hambre de ser notada? ¿Impaciencia? ¿Desánimo? No mires esas cosas solo como defectos. Vélas también como lugares donde Dios puede estar ya en funcionamiento, formándote suavemente desde adentro hacia afuera.",
+            "Esto importa especialmente en un primer trabajo, porque es fácil convertir cada tarea en una prueba de valor personal. Pero la invitación de Dios es diferente. Puedes trabajar diligentemente, aprender seriamente, y mostrar responsabilidad sin entregar tu alma completa al desempeño. El trabajo no debe consumirte. Puede convertirse en uno de los lugares donde Dios hace crecer la integridad, la firmeza, la mesura, y la fidelidad."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias por mostrarme que el trabajo no es solo sobre tareas externas. También es un lugar donde mi vida interior se está formando. Confieso lo fácilmente que convierto el trabajo en un examen de cómo otras personas me ven, y qué rápidamente conecto el desempeño a mi sentido de valor. Trae mi corazón de vuelta a ti. Recuérdame que Aquel a quien finalmente sirvo eres tú. Ayúdame a ser diligente en las cosas pequeñas, fiel cuando nadie está notando, y paciente en las etapas repetitivas y de inicio del crecimiento. Si el trabajo expone impaciencia, vanidad, miedo, o desánimo en mí, no dejes que solo vea el problema. Déjame también ver que ya estás trabajando allí. Que este trabajo no solo me haga más capaz, sino también más firme, más verdadera, y más madura en ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Colosenses 3:23-24",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "23-24",
+              "translation": "Reina-Valera 1909",
+              "text": "Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres; sabiendo que del Señor recibiréis la recompensa de la herencia, porque a Cristo el Señor servís."
+            },
+            {
+              "display": "Proverbios 22:29",
+              "book_code": "PRO",
+              "chapter": 22,
+              "verses": "29",
+              "translation": "Reina-Valera 1909",
+              "text": "¿Has visto hombre solícito en su trabajo? Delante de los reyes estará; no estará delante de los de baja condición."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

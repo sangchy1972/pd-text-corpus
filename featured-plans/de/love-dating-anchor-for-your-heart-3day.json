@@ -1,0 +1,257 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI04",
+    "slug": "anchor-for-your-heart",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "love-dating",
+      "secondary_label": "Liebe und Partnerschaft"
+    },
+    "tags": [
+      "liebe",
+      "partnerschaft",
+      "beziehungen",
+      "grenzen",
+      "werben",
+      "fromme-liebe"
+    ],
+    "title": "Ein Anker für dein Herz",
+    "subtitle": "Geerdet bleiben, wenn die Gefühle tief sind",
+    "audience": {
+      "life_stage": [
+        "junge Frauen",
+        "in Beziehung",
+        "vor der Ehe"
+      ],
+      "emotional_state": [
+        "hoffnungsvoll",
+        "vorsichtig",
+        "Klarheit suchend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Wenn Anziehung, Hoffnung und Unsicherheit zusammenkommen, begleiten dich diese drei Tage dabei, dein Herz neu in Gott zu verankern.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#F4B6B6",
+      "color_secondary": "#7A2C42",
+      "image_key": "cover_woman_quiet_garden_evening_warm_light",
+      "icon": "anchor-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Sprüche 4:23",
+        "book_code": "PRO",
+        "chapter": 4,
+        "verses": "23"
+      },
+      {
+        "display": "1. Korinther 13:4-5",
+        "book_code": "1CO",
+        "chapter": 13,
+        "verses": "4-5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Gefühle sind nicht falsch, aber das Herz braucht einen Anker",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 4:23",
+            "book_code": "PRO",
+            "chapter": 4,
+            "verses": "23",
+            "translation": "Lutherbibel 1912",
+            "text": "Du sollst dein Herz bewahren vor allem, das dich bewacht; denn daraus gehet das Leben."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Herzflattern ist etwas sehr Echtes und sehr Schönes.",
+            "Wenn jemand anfängt, dein Herz zu berühren, ist es natürlich, dass deine Gedanken sich in diese Richtung bewegen. Du wiederholst Gespräche, bemerkst kleine Gesten und fängst an zu träumen, was möglich sein könnte. Frühe Gefühle kommen oft mit Wärme und Unsicherheit. Du hoffst. Du fragst dich. Du deutest Dinge. Du versuchst, ruhig zu bleiben, während dein Herz bereits nach vorne lehnt.",
+            "Was dies schwierig macht, ist nicht einfach, jemanden zu mögen. Es ist die Art, wie unsere innere Sicherheit davon abhängig werden kann, wie diese Person reagiert. Die Sprüche sagen: \"Du sollst dein Herz bewahren vor allem, das dich bewacht.\" Das ist kein Befehl, emotional kalt zu werden. Es ist eine Erinnerung, dass das Herz kostbar ist und leicht fortgetragen wird. Psalm 62 sagt, dass Gott allein unser Fels und unsere Rettung ist. In der Liebe ist diese Wahrheit tiefgreifend. Wenn vieles unsicher ist, ist es leicht, jemand anderen zur Stütze zu machen.",
+            "Gott verlangt nicht, dass wir unsere Gefühle verleugnen. Er verlangt, dass unsere Gefühle nicht unser Herrscher werden. Anziehung kann echt sein. Hoffnung kann echt sein. Aber darunter brauchen wir etwas Festeres als die Klarheit, Zuverlässigkeit oder Zuneigung einer anderen Person.",
+            "**Die Liebe mag zart sein, aber Gott muss immer noch der Anker des Herzens sein.** Frage dich heute ehrlich: Wer zieht dein inneres Leben am stärksten an sich, und worauf vertraut dein Herz für Frieden? Das ehrlich zu benennen ist oft der Anfang der Weisheit."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du uns die Fähigkeit gegeben hast, tief zu lieben und zu fühlen. Du kennst meine Hoffnungen, und du kennst auch das unsichere Gefühl, das mit Anziehung, Nähe und Unsicherheit kommen kann. Hilf mir, nicht zu verleugnen, was ich fühle, sondern lass nicht zu, dass meine Gefühle mein Herrscher werden. Behüte mein Herz, und wenn Gefühle mich stark ziehen, bring mich zuerst in deine Sicherheit zurück. Sei der tiefere Anker meines Herzens, und lass keine Reaktion eines anderen die Stelle einnehmen, die nur dir gehört. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 4:23",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23",
+              "translation": "Lutherbibel 1912",
+              "text": "Du sollst dein Herz bewahren vor allem, das dich bewacht; denn daraus gehet das Leben."
+            },
+            {
+              "display": "Psalm 62:6",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Allein Gott giebet mir Ruhe, er ist mein Fels und meine Hülfe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Was das Herz am meisten erschöpft, ist anhaltende Unklarheit",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Korinther 14:33",
+            "book_code": "1CO",
+            "chapter": 14,
+            "verses": "33",
+            "translation": "Lutherbibel 1912",
+            "text": "Denn Gott ist nicht ein Gott der Verwirrung, sondern des Friedens."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Beziehungen sind nicht deshalb ermüdend, weil sie klar falsch sind, sondern weil sie nie klar sind.",
+            "Jemand kommt nicht ganz näher, lässt dich aber auch nicht ganz los. Es scheint etwas zu geben, aber nichts Solides zum Darauf Stehen. Also bleibt das Herz schwebend. Wir spielen Worte ab, suchen nach verstecktem Sinn und versuchen, Gewissheit aus Fragmenten zu bauen. In dieser Unklarheit kommt die Erschöpfung weniger von der Liebe selbst und mehr davon, zu lange ohne Klarheit zu leben.",
+            "Die Heilige Schrift sagt, dass alles ordentlich und in angemessener Weise geschehen soll. Liebe ist nicht mechanisch, aber Gott ist nicht der Urheber der Verwirrung. Jakobus beschreibt himmlische Weisheit als rein und friedlich. Das bedeutet nicht, dass jede Beziehung einfach ist. Aber es bedeutet, dass eine gesunde Verbindung dein Herz nicht in endloser Verwirrung halten sollte. Es mag Langsamkeit geben, aber es sollte auch Ehrlichkeit geben. Es mag einen Prozess geben, aber es sollte keinen ständigen emotionalen Nebel geben.",
+            "Ich weiß, warum mehrdeutige Beziehungen so schwer zu loslassen sind. Sie bieten gerade genug Hoffnung, um uns zum Bleiben zu bewegen. Nicht genug Stabilität, aber genug Möglichkeit, um uns zögern zu lassen. Aber Gott führt uns nicht tiefer in die Verwirrung. Er lehrt uns Unterscheidung. Er hilft uns zu fragen, ob eine Verbindung uns näher zur Wahrheit und zum Frieden bringt oder uns langsam Klarheit und Selbstachtung kostet.",
+            "**Nicht jede Beziehung, die das Herz rührt, verdient es, das Herz schwebend zu halten.** Frage dich heute ehrlich: Bringt diese Beziehung mehr Frieden oder mehr Verbrauch? Manchmal beginnt Wahrheit mit den Fragen, die wir nicht laut auszusprechen gewagt haben."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, du kennst, wie ermüdend Mehrdeutigkeit sein kann. Gib mir Ehrlichkeit und Unterscheidungsgabe, damit ich nicht weiterhin auf Hoffnungsfragmenten überlebe in einer Beziehung ohne klare Richtung. Wenn diese Verbindung mehr Verwirrung, mehr Unruhe und mehr Verlust meiner selbst bringt, gib mir den Mut, das zuzugeben. Behüte mein Herz vor der Angst vor dem Verlust, die mich in dem Ungesunden halten könnte. Gib mir ein klares Herz, damit die Angst vor Liebe die Weisheit nicht überlagert und flüchtige Gefühle deinen Frieden nicht ertränken. Wenn es einen Ort gibt, wo ich stoppen muss, gib mir Mut. Wenn es einen Ort gibt, wo ich warten muss, gib mir Geduld. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Korinther 14:33",
+              "book_code": "1CO",
+              "chapter": 14,
+              "verses": "33",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn Gott ist nicht ein Gott der Verwirrung, sondern des Friedens."
+            },
+            {
+              "display": "Jakobus 3:17",
+              "book_code": "JAS",
+              "chapter": 3,
+              "verses": "17",
+              "translation": "Lutherbibel 1912",
+              "text": "Die Weisheit aber von oben herab ist aufs erste rein, danach friedsam, gelinde, gehorsam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Echte Liebe verlangt nicht, dass du dich selbst verlierst",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Korinther 13:4-5",
+            "book_code": "1CO",
+            "chapter": 13,
+            "verses": "4-5",
+            "translation": "Lutherbibel 1912",
+            "text": "Die Liebe ist langmütig, die Liebe ist gütig... sie suchet nicht das Ihre, sie lässet sich nicht erbittern, sie rechnet das Böse nicht zu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Beziehungen beginnen damit, uns gesehen zu fühlen, und das ist Teil dessen, warum es eine Weile dauern kann, bis man bemerkt, dass sie uns nicht mehr helfen, ganz zu bleiben.",
+            "Anfangs sagten wir uns, dass wir einfach flexibel sind. Wir antworten schneller, fragen weniger, erklären Unbehagen weg, erweichen unsere Grenzen und schaffen mehr Platz für die Unsicherheit der anderen Person als für unseren eigenen Frieden. Aber langsam beginnt die Beziehung uns etwas zu kosten. Wir werden weniger ehrlich über das, was verletzt, weniger klar über das, was wir brauchen, und weniger fähig, unsere eigene innere Stimme zu erkennen. Wir mögen das immer noch Opfer oder Geduld nennen, doch innen können wir spüren, dass wir kleiner werden.",
+            "1. Korinther 13 gibt uns mehr als schöne Hochzeitsworte. Es gibt uns eine Art, Liebe zu prüfen. Liebe ist geduldig und gütig, ja, aber sie ist nicht selbstauslöschend. Sie lehrt nicht leise eine Person zu verschwinden, damit die Nähe andauert. Gottes Art von Liebe wächst nicht durch Verwirrung, chronischen Selbstverrat oder stetige Aufgabe von Würde. Sie mag uns bitten, demütig, verzeihend und großzügig zu sein, aber sie verlangt nicht, dass wir uns verlieren, um bleiben zu können.",
+            "Hier werden Grenzen zum Teil der Liebe statt zu einer Bedrohung für sie. Grenzen sagen die Wahrheit über das, was das Herz tragen kann. Sie halten uns davon ab, Unausgewogenheit für Hingabe zu halten. Sie helfen uns, den Unterschied zwischen Kompromiss und Verschwinden zu bemerken. Wenn eine Beziehung sich nur stabil anfühlt, wenn du dich weiter schrumpfst, dann kann das, was geschützt wird, nicht Liebe sein, sondern Dysfunktion.",
+            "**Die Art von Liebe, die Gott segnet, verlangt nicht, dass du weniger von dir selbst wirst, um zu bleiben.** Frage heute sanft: Bin ich weniger ehrlich, weniger friedlich oder weniger frei in dieser Beziehung geworden? Das zu benennen kann der Anfang von Gottes Leitung zu dir selbst sein."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lehre mich klarer, wie echte Liebe aussieht. Wenn ich in einer Beziehung immer verborgen, immer verkleinert und immer weniger ich selbst werde, lass mich nicht weiterhin Unausgewogenheit Liebe nennen. Gib mir Mut zuzugeben, wo ich immer wieder meine Gefühle unterdrückt, mich herabgesetzt oder meine eigene Ganzheit aufgegeben habe. Danke, dass die Liebe, die du segnest, nicht auslöscht, sondern ehrlicher und freier macht. Gib mir ein klares Herz, damit die Angst vor Liebe nicht die Weisheit überlagert und flüchtige Gefühle deinen Frieden nicht ertränken. Wenn es einen Ort gibt, wo ich stoppen muss, gib mir Mut. Wenn es einen Ort gibt, wo ich warten muss, gib mir Geduld. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Korinther 13:4-5",
+              "book_code": "1CO",
+              "chapter": 13,
+              "verses": "4-5",
+              "translation": "Lutherbibel 1912",
+              "text": "Die Liebe ist langmütig, die Liebe ist gütig... sie suchet nicht das Ihre, sie lässet sich nicht erbittern, sie rechnet das Böse nicht zu."
+            },
+            {
+              "display": "Kolosser 3:14",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "14",
+              "translation": "Lutherbibel 1912",
+              "text": "Über alles aber ziehet an die Liebe, welche da ist das Band der Vollkommenheit."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

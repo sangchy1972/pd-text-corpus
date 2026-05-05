@@ -1,0 +1,389 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI08",
+    "slug": "finding-each-other-again",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles e Identidad",
+      "secondary": "marriage-wifehood",
+      "secondary_label": "Matrimonio y Esposa"
+    },
+    "tags": [
+      "matrimonio",
+      "esposa",
+      "compañerismo",
+      "comunicacion",
+      "pacto",
+      "amor"
+    ],
+    "title": "Encontrándonos de Nuevo",
+    "subtitle": "Reconstruyendo la conexión después de la distancia y la decepción",
+    "audience": {
+      "life_stage": [
+        "mujeres casadas",
+        "esposas"
+      ],
+      "emotional_state": [
+        "comprometida",
+        "exigida",
+        "buscando renovación"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Cuando el matrimonio ha sido estirado por ocupaciones, decepciones y silencio, estos cinco días te ayudan a enfrentar la distancia y comenzar a encontrar conexión de nuevo.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#D4B896",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_quiet_kitchen_morning_warm",
+      "icon": "two-rings-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Eclesiastés 4:9-10",
+        "book_code": "ECC",
+        "chapter": 4,
+        "verses": "9-10"
+      },
+      {
+        "display": "1 Corintios 13:7",
+        "book_code": "1CO",
+        "chapter": 13,
+        "verses": "7"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Cuándo comenzamos a alejarnos",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Eclesiastés 4:9-10",
+            "book_code": "ECC",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "Reina-Valera 1909",
+            "text": "Dos son mejores que uno... Porque si cayeren, el uno levantará al otro."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchos matrimonios no se rompen de repente. Se alejan.",
+            "Al principio puede parecer ocupación. Luego cansancio. Luego las conversaciones se vuelven principalmente sobre logística, horarios, recados y obligaciones. Eventualmente incluso las cosas internas se sienten más difíciles de decir, porque ya no se siente seguro que serán recibidas. La distancia a menudo entra en silencio. Para cuando la notamos completamente, el problema ya no es solo una temporada estresante. La intimidad misma se ha adelgazado.",
+            "El Eclesiastés dice que dos son mejores que uno. El matrimonio no fue hecho para convertirse en dos personas funcionando lado a lado sin cercanía compartida. Sin embargo, la tensión diaria puede reducir lentamente una relación a compartir tareas y supervivencia. La conexión no siempre desaparece porque el amor se haya ido. A veces desaparece porque el amor no ha sido cuidado.",
+            "Hay gracia en nombrar esto honestamente. No para acusar, sino para decir la verdad sobre lo que silenciosamente se ha perdido. Algunas parejas no han dejado de importarles. Simplemente han dejado de cuidar la relación misma en medio del peso de la vida diaria. Dios a menudo comienza la reparación allí, no con soluciones pulidas, sino con reconocimiento honesto.",
+            "Una vez que la distancia es nombrada, ya no tiene que seguir escondiéndose detrás de la ocupación. La verdad crea un espacio donde el cuidado puede comenzar de nuevo.",
+            "**La distancia en el matrimonio a menudo crece no porque dejemos de importarnos, sino porque dejamos de cuidar la conexión misma.** Hoy, no te apresures a resolver todo. Pregunta más quietamente: ¿cuándo comenzamos a alejarnos el uno del otro? Dios a menudo comienza la reparación con nombramiento honesto.",
+            "Incluso nombrar la distancia puede ser un acto de esperanza."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, ayúdame a ver honestamente la distancia en nuestro matrimonio en lugar de explicar todo como ocupación. Si verdaderamente nos hemos alejado, dame coraje para admitirlo y un corazón aún dispuesto a buscar reparación. Guárdame de meramente pasar la vida, y enséñame a importarme de nuevo por la relación misma. Protege mi corazón de endurecerse lentamente bajo decepción, fatiga o resentimiento silencioso. Enséñame a hablar con verdad, estar con gentileza, y traer incluso mis necesidades no expresadas a Tu presencia en lugar de enterrarlas en el silencio. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Eclesiastés 4:9-10",
+              "book_code": "ECC",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "Reina-Valera 1909",
+              "text": "Dos son mejores que uno... Porque si cayeren, el uno levantará al otro."
+            },
+            {
+              "display": "Apocalipsis 2:4-5",
+              "book_code": "REV",
+              "chapter": 2,
+              "verses": "4-5",
+              "translation": "Reina-Valera 1909",
+              "text": "Pero tengo contra ti, que has dejado tu primer amor... Recuerda de dónde has caído..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Sentirse Invisible en Casa es una Clase de Soledad",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 139:1",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "1",
+            "translation": "Reina-Valera 1909",
+            "text": "Oh Jehová, tú me has examinado, y conocido."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hay una clase particular de soledad que puede existir dentro del matrimonio: estar con alguien y aún sentirse invisible.",
+            "Puedes estar cargando mucho, dando mucho, manteniendo muchas cosas en marcha, y sin embargo el esfuerzo se vuelve invisible. Tu fatiga, carga emocional y necesidad de comodidad permanecen principalmente sin ser tocadas. Con el tiempo, el silencio crece. No porque necesites menos, sino porque ya no confías que hablar resultará en ser escuchado.",
+            "Los Salmos a menudo vuelven a este clamor: Señor, Tú me ves. Eso importa profundamente en el matrimonio, porque cuando la persona más cercana a nosotros no parece notar nuestro mundo interior, otra pregunta comienza a surgir: ¿me importo aquí? Pero Dios no pasa por alto lo que ha permanecido invisible. No desestima tu carga diaria o tu dar callado.",
+            "A veces vivimos tanto tiempo sin ser comprendidos que comenzamos a decirnos que ya no lo necesitamos. Pero el entumecimiento no es paz. Dios puede primero sanar este dolor ayudándote a contar la verdad sobre él. Antes de que cualquier cosa cambie entre tú y tu pareja, Él puede comenzar a proteger tu corazón recordándote que tu necesidad de ser visto no es infantil ni excesiva.",
+            "Ser visto no resuelve todo dolor marital, pero sí restaura dignidad a la parte de ti que se ha sentido descuidada durante demasiado tiempo. Eso importa profundamente a Dios.",
+            "**Uno de los dolores más profundos en el matrimonio no es solo el conflicto, sino el largo dolor de no ser verdaderamente visto.** Si sientes esa soledad hoy, no la silencies inmediatamente. Tráela ante Dios primero. Déjate admitir que necesitas comprensión."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, Tú sabes el dolor silencioso pero profundo de sentirse invisible en el matrimonio. Te agradezco que veas el cansancio que no he hablado y las partes de mí que han sido mal comprendidas. Consuélame primero, y dame coraje para admitir que tengo necesidades. No estoy sin necesidad; simplemente puede que haya estado demasiado tiempo sin ser recibida. Protege mi corazón de endurecerse lentamente bajo decepción, fatiga o resentimiento silencioso. Enséñame a hablar con verdad, estar con gentileza, y traer incluso mis necesidades no expresadas a Tu presencia en lugar de enterrarlas en el silencio. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 139:1",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "1",
+              "translation": "Reina-Valera 1909",
+              "text": "Oh Jehová, tú me has examinado, y conocido."
+            },
+            {
+              "display": "Génesis 16:13",
+              "book_code": "GEN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "Reina-Valera 1909",
+              "text": "Y llamó el nombre de Jehová que con ella hablaba, Dios que me ve."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "La Reparación a Menudo Comienza con un Nuevo Comienzo Honesto",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "2 Corintios 5:17",
+            "book_code": "2CO",
+            "chapter": 5,
+            "verses": "17",
+            "translation": "Reina-Valera 1909",
+            "text": "De modo que si alguno está en Cristo, nueva criatura es..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Después de que la distancia se ha asentado en un matrimonio, uno de los sentimientos más difíciles es la sensación de que ya puede ser demasiado tarde.",
+            "Ha habido demasiado silencio, demasiada decepción, demasiadas conversaciones fallidas. Incluso el deseo de reconexión puede sentirse frágil porque ya no estás seguro dónde comenzar. Sin embargo, la Escritura nunca trata la renovación como posible solo cuando el pasado fue menor. El poder de Dios a menudo es más visible donde algo real ya ha sido dañado.",
+            "Segunda de Corintios dice que en Cristo, todas las cosas se vuelven nuevas. El matrimonio no se restaura por un versículo solo, pero esa verdad aún importa. Dios no solo nos invita a lamentar lo que fue. También es capaz de comenzar algo nuevo en lo que permanece. La reparación a menudo comienza más pequeña de lo que esperamos. Una oración honesta. Un momento suavizado. Una admisión de que la distancia es real y no debe ser ignorada.",
+            "Ese tipo de comienzo es humilde. No niega el pasado, y no promete sanación instantánea. Simplemente se rehúsa a dejar que la vieja decepción tenga la palabra final. Muchas reparaciones en el matrimonio comienzan no con certeza, sino con una quieta disposición: No quiero continuar viviendo así. Estoy dispuesto a intentar moverme hacia ti de nuevo.",
+            "**Un verdadero nuevo comienzo no es pretender que nada sucedió. Es rehusar dejar que lo que sucedió tenga la palabra final.** Pide a Dios hoy por un pequeño lugar para comenzar. No tienes que resolver todo el matrimonio en una conversación. Puede ser que solo necesites el coraje para un paso honesto."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, si he estado sintiéndome que es demasiado tarde, muy difícil, o muy agotador, coloca nueva esperanza dentro de mí. No me hagas pretender que el pasado no nos hirió. En lugar de eso, ayúdame a ver que el pasado no tiene que hablar la palabra final. Dame una puerta al comienzo nuevamente, y mantén mi corazón de rendirse demasiado rápido a la reparación. Si hay un lugar donde necesito arrepentirme, hablar, esperar, o aprender a amar de nuevo, guíame allí Tú mismo, y no dejes que el orgullo mantenga la gracia fuera. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "2 Corintios 5:17",
+              "book_code": "2CO",
+              "chapter": 5,
+              "verses": "17",
+              "translation": "Reina-Valera 1909",
+              "text": "De modo que si alguno está en Cristo, nueva criatura es..."
+            },
+            {
+              "display": "Ezequiel 36:26",
+              "book_code": "EZK",
+              "chapter": 36,
+              "verses": "26",
+              "translation": "Reina-Valera 1909",
+              "text": "Os daré corazón nuevo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Reconstruir la Conexión a Menudo Importa Más que Ganar el Punto",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Romanos 12:18",
+            "book_code": "ROM",
+            "chapter": 12,
+            "verses": "18",
+            "translation": "Reina-Valera 1909",
+            "text": "Si es posible... vive en paz con todos los hombres."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "En el matrimonio, muchos conflictos se vuelven más dañinos no porque el problema mismo sea enorme, sino porque ambas personas se comprometen a probar que tienen razón.",
+            "Los hechos importan. La verdad importa. Pero cuando cada conversación se convierte en una lucha sobre quién está más justificado, quién ha sufrido más, o quién merece más comprensión, la relación comienza a perder la sensación de que aún están en el mismo equipo. El matrimonio no falla porque hay problemas. Se debilita cuando los problemas repetidamente ponen a los cónyuges en campos opuestos.",
+            "Romanos nos insta, en la medida que depende de nosotros, a vivir en paz. En el matrimonio eso no significa evitar la verdad. Significa aflojar nuestro agarre sobre la victoria lo suficiente como para hacer espacio para la reconexión. A veces lo que una relación más necesita no es un argumento mejor, sino una escucha más profunda.",
+            "Esto es difícil porque el dolor naturalmente quiere ser justificado. Anhelamos ser claramente entendidos. Sin embargo, cuando ese anhelo se convierte en el objetivo completo, las conversaciones se endurecen. A menudo el punto de inflexión no es que alguien finalmente argumente mejor, sino que alguien se vuelve dispuesto a escuchar debajo del punto. Ese tipo de ceder no es derrota. Es hacer espacio para el amor de nuevo.",
+            "La conexión no elimina la necesidad de verdad, pero sí hace la verdad más fácil de recibir. Es por eso que el amor sigue llamándonos desde hábitos de sala de justicia.",
+            "**A menudo lo que el matrimonio necesita primero no es un ganador, sino un sentido renovado de conexión.** Piensa hoy sobre el punto que más quieres que tu pareja entienda. Luego pregunta si tu deseo más profundo es tener razón, o que la relación cobre vida de nuevo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, afloja en mí la necesidad de ganar. Si he estado consumido probando que tengo razón, estoy herido, o merezco comprensión, recuérdame que el matrimonio no es una corte. Ayúdame a no abandonar la verdad, pero ayúdame aún más a no abandonar la conexión. Protege mi corazón de endurecerse lentamente bajo decepción, fatiga o resentimiento silencioso. Enséñame a hablar con verdad, estar con gentileza, y traer incluso mis necesidades no expresadas a Tu presencia en lugar de enterrarlas en el silencio. Te agradezco que no estés repelido por mi debilidad, sino dispuesto a acercarte, apoyarme, y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Romanos 12:18",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "18",
+              "translation": "Reina-Valera 1909",
+              "text": "Si es posible... vive en paz con todos los hombres."
+            },
+            {
+              "display": "Filipenses 2:4",
+              "book_code": "PHP",
+              "chapter": 2,
+              "verses": "4",
+              "translation": "Reina-Valera 1909",
+              "text": "No mirando cada uno por lo suyo propio, sino cada cual también por lo de los otros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Encontrándonos de Nuevo no es Volver al Pasado, sino Amar Bien Ahora",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Corintios 13:7",
+            "book_code": "1CO",
+            "chapter": 13,
+            "verses": "7",
+            "translation": "Reina-Valera 1909",
+            "text": "Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Cuando las personas anhelan reparación en el matrimonio, a menudo imaginan volver atrás.",
+            "Pero después de años de trabajo, estrés, hijos, decepción y cambio, ninguna persona es exactamente quién una vez fue. La verdadera reparación no es forzar la relación a volver a una versión anterior. Es aprender a amar a las personas que están aquí ahora. Eso requiere curiosidad, humildad, y una disposición a encontrarse el uno al otro de nuevo en el presente.",
+            "Primera de Corintios dice que el amor soporta, cree, espera, y persevera. Parte de ese amor es la disposición a entender de nuevo. No porque nada haya cambiado, sino porque mucho ha. Algunos matrimonios necesitan no solo perdón por heridas viejas, sino atención fresca a quién se ha convertido cada pareja.",
+            "Eso requiere humildad. Es más fácil anhelar una versión anterior de la relación que encontrar a la persona cambiada frente a nosotros con curiosidad. Pero Dios a menudo hace obra nueva en el presente, no revirtiendo el tiempo, sino enseñándonos cómo amar fielmente ahora.",
+            "A veces la renovación se ve menos como recuperar lo que se perdió y más como descubrir lo que la fidelidad puede convertirse después de que ambas personas han cambiado.",
+            "**Reconstruir el matrimonio no siempre es recuperar el pasado. A menudo es aprender a amar bien en el presente.** Pide a Dios que te ayude a no meramente extrañar lo que una vez fue, sino a encontrar hoy con apertura. Puede haber gracia esperando no detrás de ti, sino aquí.",
+            "La nueva misericordia a menudo nos encuentra más en el presente que en la nostalgia del pasado.",
+            "El amor crece más sabio cuando deja de insistir que la sanación debe parecer el pasado."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, ayúdame a no solo añorar el pasado, sino también a enfrentar honestamente el matrimonio que existe hoy. Si he estado esperando solo volver a días anteriores, muéstrame que Tú puedes hacer obra nueva aquí y ahora. Ayúdame a ver a la persona frente a mí de nuevo, y enséñame de nuevo cómo amar. Si hay un lugar donde necesito arrepentirme, hablar, esperar, o aprender a amar de nuevo, guíame allí Tú mismo, y no dejes que el orgullo mantenga la gracia fuera. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Corintios 13:7",
+              "book_code": "1CO",
+              "chapter": 13,
+              "verses": "7",
+              "translation": "Reina-Valera 1909",
+              "text": "Todo lo sufre, todo lo cree, todo lo espera, todo lo soporta."
+            },
+            {
+              "display": "Lamentaciones 3:22-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "22-23",
+              "translation": "Reina-Valera 1909",
+              "text": "Por la misericordia de Jehová no hemos sido consumidos... Nuevas son cada mañana."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

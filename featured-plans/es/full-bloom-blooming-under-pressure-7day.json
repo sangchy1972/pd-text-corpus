@@ -1,0 +1,473 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS06",
+    "slug": "blooming-under-pressure",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estaciones de la Vida",
+      "secondary": "full-bloom",
+      "secondary_label": "Plena Floración"
+    },
+    "tags": [
+      "carrera-media",
+      "matrimonio",
+      "dinero",
+      "hogar",
+      "equilibrio",
+      "responsabilidad"
+    ],
+    "title": "Floreciendo Bajo Presión",
+    "subtitle": "Cómo Dios cultiva belleza, fuerza y profundidad en estaciones exigentes",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "treinta-cuarenta",
+        "mediados de carrera"
+      ],
+      "emotional_state": [
+        "responsable",
+        "exigida",
+        "buscando equilibrio"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Para mujeres en estaciones exigentes que necesitan más que supervivencia, y quieren ver cómo Dios puede cultivar profundidad, belleza y fuerza bajo presión.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_open_field_summer_balance",
+      "icon": "bouquet-of-wheat-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 1:1-3",
+        "book_code": "PSA",
+        "chapter": 1,
+        "verses": "1-3"
+      },
+      {
+        "display": "Juan 15:4-5",
+        "book_code": "JHN",
+        "chapter": 15,
+        "verses": "4-5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "La Presión Revela Tanto las Raíces como la Dependencia",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 1:1-3",
+            "book_code": "PSA",
+            "chapter": 1,
+            "verses": "1-3",
+            "translation": "Reina-Valera 1909",
+            "text": "Bienaventurado el varón que no anduvo en consejo de malos... Antes su delicia es en la ley de Jehová... Y será como árbol plantado junto á corrientes de aguas, Que dá su fruto en su tiempo, Y su hoja no cae..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La presión es difícil no solo porque hay mucho que hacer, sino porque la presión expone lo que está oculto. La impaciencia se vuelve más audible. El control se siente más necesario. La necesidad de aprobación se intensifica. El miedo al fracaso se agudiza. Muchas mujeres descubren bajo presión que lo que más temen no es simplemente tareas inconclusas, sino la pérdida de control, credibilidad o compostura.",
+            "La presión actúa como un espejo. Muestra en qué ha estado confiando una persona.",
+            "El Salmo 1 nos da un contraste entre arraigamiento superficial y arraigamiento profundo. La presión no da automáticamente raíces a una mujer, pero revela si las raíces están presentes. Si tu vida interior se ha estado apoyando principalmente en el desempeño, la eficiencia, los elogios o la autosuficiencia, la presión te sacudirá profundamente. Pero si tu vida está aprendiendo a arraigarse en Dios, la presión puede ser aún intensa sin convertirse en lo último.",
+            "**Hay estaciones cuando Dios permite la presión no para destruirte, sino para mostrarte dónde están realmente tus raíces.** Eso no es fácil, pero es misericordioso. Muchas personas no descubren su verdadera dependencia hasta que la vida se vuelve lo suficientemente exigente para descubrirla.",
+            "Así que hoy, no solo ores por alivio. También ora por visión. Pídele a Dios que te muestre qué está revelando tu presión acerca de tus raíces. Él no está fascinado por la dificultad por sí sola. Está dispuesto a usarla para una formación más profunda que la mera supervivencia."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, sabes lo que soy bajo presión. Las cosas que permanecen ocultas en tiempos más fáciles se vuelven obvias cuando la vida se vuelve exigente. Gracias por no dejarme cuando se expone la debilidad. En cambio, la usas para hacerme más honesta ante ti. Muéstrame en qué realmente he estado confiando en esta estación. Si mis raíces son demasiado superficiales, demasiado dependientes de la eficiencia, el control u opiniones de otros, ten misericordia de mí y plántame más profundamente en ti. Evita que me importe solo llegar al final. Que la presión también sea un lugar donde profundices y estabilices mi vida. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 1:1-3",
+              "book_code": "PSA",
+              "chapter": 1,
+              "verses": "1-3",
+              "translation": "Reina-Valera 1909",
+              "text": "Bienaventurado el varón que no anduvo en consejo de malos... Antes su delicia es en la ley de Jehová... Y será como árbol plantado junto á corrientes de aguas, Que dá su fruto en su tiempo, Y su hoja no cae..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Dios Me Forma No Solo en Mis Mejores Momentos, sino en los Ajetreados",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Juan 15:1-2",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "1-2",
+            "translation": "Reina-Valera 1909",
+            "text": "Yo soy la vid verdadera, y mi Padre es el labrador. Todo pámpano que en mí no lleva fruto, lo quitará: y todo aquel que lleva fruto, lo limpiará, para que lleve más fruto."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas imaginan que la formación espiritual sucede principalmente en estaciones más tranquilas y mejor organizadas. Después del proyecto. Después de que los niños sean mayores. Después de que la casa sea más tranquila. Después de que la vida se estabilice. Entonces, piensan, realmente podré lidiar con Dios, mi alma y mi crecimiento.",
+            "Pero a menudo la formación más profunda sucede en medio de la vida exigente. No porque el caos sea santo en sí mismo, sino porque la presión trae patrones ocultos a la superficie. Revela cómo hablas cuando estás cansada, cómo tomas decisiones bajo tensión, cómo respondes cuando no eres vista, y cómo manejas las necesidades de otros cuando tus propios recursos son bajos.",
+            "Jesús dice que el Padre poda ramas fructíferas para que den más fruto. La poda no sucede solo en estaciones dormidas. Sucede mientras la vida está creciendo. Eso es esperanzador para mujeres en los años plenos de la vida. Significa que Dios no espera hasta que tu mundo esté ordenado antes de comenzar a trabajar profundamente. Es capaz de refinar tus motivos, tono, ritmo y dependencia justo en medio de tu estación exigente.",
+            "**La presión no es solo donde te gastas. Podría ser también donde Dios está haciendo un trabajo cuidadoso y fino en ti.** Entonces, cuando la tensión de la vida expone una respuesta fea o un patrón repetido, no respondes solo con vergüenza. También ve esa exposición como un lugar donde la poda ya podría estar sucediendo.",
+            "Dios no te está haciendo más pequeña por el bien del dolor. Te está haciendo más limpia por el bien del fruto que perdura."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, a menudo asumo que una vez que la vida se vuelve más ordenada, entonces finalmente podré enfrentarme a ti y a mí mismo bien. Pero sabes que estoy viviendo en una estación que está llena, es rápida, y está exponiendo. Gracias por no pausar tu trabajo en mí por eso. Si el ajetreo está trayendo patrones ocultos a la superficie, ayúdame a no responder solo con vergüenza. También déjame estar dispuesta a ser podada. Poda mi impaciencia, mi necesidad de controlar, mi autojusticia, y las respuestas que adelgazan el amor. El proceso no es fácil, pero gracias por que no me estés debilitando por el bien del dolor. Me estás haciendo fructífero de una manera más profunda. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Juan 15:1-2",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "1-2",
+              "translation": "Reina-Valera 1909",
+              "text": "Yo soy la vid verdadera, y mi Padre es el labrador. Todo pámpano que en mí no lleva fruto, lo quitará: y todo aquel que lleva fruto, lo limpiará, para que lleve más fruto."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "La Fuerza No Es Dureza, sino Capacidad",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Efesios 3:16",
+            "book_code": "EPH",
+            "chapter": 3,
+            "verses": "16",
+            "translation": "Reina-Valera 1909",
+            "text": "Para que os dé, conforme á las riquezas de su gloria, el ser corroborados con poder en el hombre interior por su Espíritu;"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "En estaciones exigentes, muchas mujeres aprenden una forma de autoprotección que parece fuerza: endurecerse un poco, esperar menos, explicar menos, sentir menos, necesitar menos. Al principio parece eficiente. La dureza parece durable. Pero con el tiempo, la dureza no es lo mismo que la fuerza. La dureza se vuelve difícil de alcanzar, difícil de mover, difícil de sanar.",
+            "Pablo ora en Efesios que los creyentes sean fortalecidos con poder por el Espíritu de Dios en el hombre interior. Esa imagen es importante porque la fuerza que Dios da no es primero acerca del desempeño externo. Es refuerzo interior. Cuando una mujer es fortalecida por dentro, no necesita sobrevivir haciéndose emocionalmente pétrea. Aún puede sentir profundamente, pero no se desmorona tan fácilmente. La presión sigue siendo real, pero ya no tiene poder total para romperla.",
+            "**Dios no está tratando de hacerte insensible. Está construyendo capacidad en ti.** La capacidad es diferente de la resistencia apretada. La resistencia por dureza apaga los sentimientos y pospone el colapso. La capacidad permite que una mujer siga siendo humana, siga siendo tierna, y aún permanezca de pie porque es sostenida por más que ella misma.",
+            "Esa es una hermosa clase de fuerza en los años plenos de la vida. No la pérdida de suavidad, sino el crecimiento de la profundidad. No una mujer más fría, sino una más firme."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, confieso que bajo presión fácilmente elijo dureza porque se siente más segura y más eficiente. Pero sabes que lo que realmente necesito no es insensibilidad. Necesito mayor capacidad. Fortalece la parte interior de mí por tu Espíritu. Evita que tenga que cerrar mis sentimientos solo para seguir funcionando, y evita que me vuelva fría solo para poder seguir cargando. Si estos años de responsabilidad me han hecho demasiado tensa, demasiado dura, o demasiado frágil, dame una fuerza de ti que pueda permanecer de pie sin perder ternura. Gracias por que no me estés haciendo más fría. Me estás haciendo más profunda y más firme. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Efesios 3:16",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "16",
+              "translation": "Reina-Valera 1909",
+              "text": "Para que os dé, conforme á las riquezas de su gloria, el ser corroborados con poder en el hombre interior por su Espíritu;"
+            },
+            {
+              "display": "Proverbios 24:10",
+              "book_code": "PRO",
+              "chapter": 24,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "Si fueres flojo en el día de la angustia, tu fuerza será reducida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Dios Usa la Presión para Refinar Motivos, No Solo Rendimiento",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Pedro 1:6-7",
+            "book_code": "1PE",
+            "chapter": 1,
+            "verses": "6-7",
+            "translation": "Reina-Valera 1909",
+            "text": "En lo cual vosotros os regocijáis, aunque ahora por un poco de tiempo, si es necesario, tengáis que ser afligidos en diversas pruebas; Para que el ensayo de vuestra fe, mucho más preciosa que el oro que perece, aunque sea probado con fuego, sea hallado en alabanza, gloria y honra cuando sea manifestado Jesucristo:"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La presión puede hacer que una mujer sea altamente competente. Puede enseñarle a moverse rápidamente, resolver problemas y asumir grandes cantidades de responsabilidad. Pero si eso es todo lo que hace, la presión sigue siendo poco más que un entrenador de eficiencia. Las Escrituras ofrecen una visión más profunda. Dios también usa la presión para exponer y refinar motivos.",
+            "¿Por qué el fracaso se siente insoportable? ¿Por qué es tan difícil detenerse? ¿Por qué la desaprobación corta tan profundamente? ¿Por qué el desorden inmediatamente dispara la sensación de que todo depende de ti? A menudo, la presión toca más que los problemas de horario. Revela ídolos ocultos: imagen, control, utilidad, elogios, indispensabilidad.",
+            "Pedro dice que la fe probada es más preciosa que el oro probado por fuego. La refinación no es cómoda, pero hace que algo sea interiormente más limpio. La presión puede convertirse en una estación en la que una mujer descubre qué ha estado verdaderamente adorando. ¿Estoy sirviendo a la excelencia, o estoy esclavizada a la apariencia? ¿Soy diligente, o no puedo descansar porque la producción se ha vuelto sagrada? Estas son preguntas dolorosas, pero son misericordiosas.",
+            "**Cuando la presión refina a una persona, el resultado no es meramente una vida más eficiente, sino un corazón más libre.** Dios no está solo interesado en ayudarte a manejar una estación exigente. También está interesado en aflojar las cosas ocultas que te han estado gobernando dentro de ella."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, no solo me ayudes a resistir la presión. También refíname dentro de ella. Si estoy apoyándome demasiado en la imagen, el control, la utilidad o la aprobación, expón eso gentil y claramente. Evita que siga confundiendo esas cosas con madurez o responsabilidad. Gracias por que estés dispuesto a escudriñarme y trabajar en lugares que son incómodos. No disfruto siendo descubierta, pero si ser descubierta lleva a mayor libertad, mayor pureza y verdadera dependencia de ti, entonces me coloco en tus manos. Refina mis motivos para que mientras cargo muchas cosas, mi corazón se vuelva más simple ante ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Pedro 1:6-7",
+              "book_code": "1PE",
+              "chapter": 1,
+              "verses": "6-7",
+              "translation": "Reina-Valera 1909",
+              "text": "En lo cual vosotros os regocijáis, aunque ahora por un poco de tiempo, si es necesario, tengáis que ser afligidos en diversas pruebas; Para que el ensayo de vuestra fe, mucho más preciosa que el oro que perece, aunque sea probado con fuego, sea hallado en alabanza, gloria y honra cuando sea manifestado Jesucristo:"
+            },
+            {
+              "display": "Salmo 139:23-24",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "23-24",
+              "translation": "Reina-Valera 1909",
+              "text": "Examíname, oh Dios, y conoce mi corazón; Pruébame y conoce mis pensamientos; Y ve si hay en mí camino de perversidad, Y guíame en el camino eterno."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Mantener Ternura Bajo Presión Es Una Forma de Madurez Profunda",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Santiago 3:17",
+            "book_code": "JAS",
+            "chapter": 3,
+            "verses": "17",
+            "translation": "Reina-Valera 1909",
+            "text": "Mas la sabiduría que es de lo alto, primeramente es pura, después pacífica, amable, benigna, llena de misericordia y de buenos frutos, sin incertidumbre ni hipocresía."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La presión acelera a las personas, pero también puede afilarlas de la manera incorrecta. Muchas mujeres que son naturalmente cálidas se vuelven más abruptas bajo tensión sostenida. Su tono se endurece. La paciencia se acorta. Su margen para la familia se reduce. Su misericordia hacia sí mismas se seca. Esto no siempre sucede porque el amor se ha ido. A menudo sucede porque la vida interior ha estado bajo tanta tensión que queda poca suavidad para dar.",
+            "Por eso las Escrituras tratan la mansedumbre como parte de la sabiduría, no como una debilidad decorativa. Santiago dice que la sabiduría de arriba es pacífica, amable y fácil de convencer. Colosenses llama a los creyentes a vestirse de bondad, humildad, mansedumbre y paciencia. Estas cualidades son hermosas en estaciones tranquilas, pero son especialmente preciosas bajo presión porque entonces no surgen automáticamente. Permanecen porque Dios aún está moldeando la vida interior.",
+            "**La presión no tiene que entrenarte para convertirte en una versión más aguda y más dura de ti mismo.** Dios puede preservar la mansedumbre parecida a Cristo en ti incluso mientras cargas mucho. Esto no significa que nunca hables honestamente o establezas límites. Significa que la carga misma no consigue decidir la forma final de tu carácter.",
+            "Así que si has notado que tus palabras se endurecen y tu corazón se endurece, no te detengas en la autocondena. Presenta eso ante Dios como un lugar de renovación necesaria. Él es capaz de hacer que la sabiduría y la mansedumbre vivan juntas."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, sabes lo fácil que la presión me hace más rápida, más tensa y más dura. Ten misericordia de mí, y no dejes que la responsabilidad y la fatiga decidan la forma final de quién me convierto. Gracias por que lo que das no es solo la capacidad de hacer las cosas, sino también la sabiduría de asemejarte en la forma en que trato a las personas. Si ya me he vuelto demasiado aguda, demasiado apresurada, o demasiado estrecha de corazón, renuévame. Déjame permanecer amable en presión real, no fingiendo que la vida es fácil, sino siendo gobernada por tu Espíritu. Que no solo porte el fruto de la eficiencia, sino también la semejanza de Cristo. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Santiago 3:17",
+              "book_code": "JAS",
+              "chapter": 3,
+              "verses": "17",
+              "translation": "Reina-Valera 1909",
+              "text": "Mas la sabiduría que es de lo alto, primeramente es pura, después pacífica, amable, benigna, llena de misericordia y de buenos frutos, sin incertidumbre ni hipocresía."
+            },
+            {
+              "display": "Colosenses 3:12",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "12",
+              "translation": "Reina-Valera 1909",
+              "text": "Vestíos, pues, como escogidos de Dios, santos y amados, de entrañas de misericordia, de benignidad, de humildad, de mansedumbre, de paciencia;"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "La Esperanza Bajo Presión Es Confianza en Que Esta Estación No Se Desperdiciará",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Romanos 5:3-5",
+            "book_code": "ROM",
+            "chapter": 5,
+            "verses": "3-5",
+            "translation": "Reina-Valera 1909",
+            "text": "Y no sólo esto, mas aun nos gloriamos en las tribulaciones; sabiendo que la tribulación obra paciencia; y la paciencia, prueba; y la prueba, esperanza; y la esperanza no avergüenza..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una de las cosas más difíciles acerca de la presión es que a menudo no tiene una fecha de finalización clara. No toda carga termina como una fecha límite. Algunas se extienden durante meses, años, o formas cambiantes de responsabilidad. En esas estaciones, lo que comienza a desgastarse no es solo el cuerpo. Es la esperanza. Si la esperanza se basa solo en la idea de que la vida pronto será más fácil, entonces cuando la facilidad se retrasa, el alma comienza a secarse.",
+            "Por eso Romanos es tan importante aquí. La tribulación obra paciencia; la paciencia, experiencia; y la experiencia, esperanza. Esto no es optimismo superficial. Es el tipo de esperanza que crece cuando Dios forma paciencia y carácter probado dentro de una persona real. Ella aún puede anhelar alivio, pero ya no está viviendo solo para escapar. Comienza a creer que Dios está haciendo algo importante incluso aquí.",
+            "**La esperanza no niega la presión. Confía en que la presión no es toda la historia y no será desperdiciada en las manos de Dios.** Eso importa profundamente en estaciones largas. Si no sabes cuánto más durará este período de responsabilidad, dilo honestamente ante Dios. No tienes que sonar segura.",
+            "Luego pídele una esperanza más firme, la clase que no requiere alivio inmediato para poder seguir viviendo. Dios podría no desperdiciar lo que nunca hubieras elegido."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, confieso que no siempre sé cómo mantener viva la esperanza en presión prolongada. A veces mi cansancio más profundo no es la cantidad que cargo, sino el hecho de que no sé cuánto tiempo durará esto. Gracias por que no requieras que suene alegre o segura antes de confiar en ti. Haz el trabajo que prometiste hacer dentro de mi tribulación. Cultiva paciencia, carácter probado, y esperanza real en mí. Evita que mi esperanza se base solo en la idea de que la vida debe pronto ser más fácil. Enséñame a creer que incluso antes de que se levante la presión, esta estación no será desperdiciada en tus manos. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Romanos 5:3-5",
+              "book_code": "ROM",
+              "chapter": 5,
+              "verses": "3-5",
+              "translation": "Reina-Valera 1909",
+              "text": "Y no sólo esto, mas aun nos gloriamos en las tribulaciones; sabiendo que la tribulación obra paciencia; y la paciencia, prueba; y la prueba, esperanza; y la esperanza no avergüenza..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "Florecer No Significa la Ausencia de Presión",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Juan 15:4-5",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "4-5",
+            "translation": "Reina-Valera 1909",
+            "text": "Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto de sí mismo, si no permaneciere en la vid; así tampoco vosotros, si no permaneciereis en mí... porque sin mí nada podéis hacer."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Al llegar al último día de este plan, finalmente podemos redefinir qué significa realmente \"florecer bajo presión\". No significa que la presión en sí sea hermosa. No significa que cuanto más aplastada se sienta una mujer, más espiritual debe ser. Ciertamente no significa glorificar el agotamiento crónico y llamarlo crecimiento.",
+            "Florecer bajo presión significa que en una vida llena de exigencias, Dios aún puede producir lo que perdura. Quizás no un alivio inmediato, pero raíces más profundas. Quizás no mayor control superficial, sino mayor claridad interior. Quizás no menos responsabilidades, sino una forma más cristiana de llevarlas.",
+            "Jesús continúa regresando a una frase en Juan 15: permanece en mí. No visita ocasionalmente. No me recuerdes después de que el horario se calme. Permanece. Esto importa especialmente en los años plenos de la vida, porque estos son los años en que muchas mujeres se vuelven tan dispersas por la responsabilidad que retienen solo el hacer y pierden el habitar.",
+            "Pero la fruitfulness no comienza apretándote más a ti misma. Comienza permaneciendo unida a Cristo. Una rama puede verse altamente productiva y aún marchitarse si está desconectada. Pero si permanece, entonces incluso la poda se vuelve parte de un fruto mayor.",
+            "**El verdadero florecimiento no es mantener las apariencias bajo tensión máxima. Es permanecer en Cristo bajo presión real y llevar fruto que perdura.** Que eso sea tu bendición en esta estación: no resistencia más dura, sino habitación más profunda; no un alma más delgada, sino una más profunda; no meramente una vida funcionando, sino una vida sustentada interiormente por Dios."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias por traerme a través de este viaje acerca de la plenitud, la mayordomía, el orden, la presión y el fruto. Sácame de la vida que solo sabe cómo seguir empujando, y enséñame de nuevo que la verdadera abundancia no viene de mantenerlo todo unido por mí misma, sino de permanecer en ti. Si he pasado estos años sabiendo solo cómo hacer y olvidando cómo habitar, tráeme de regreso a vivir en conexión contigo. Que mi ajetreo se convierta en más que ajetreo, mis responsabilidades en más que tensión, y mi carga en más que agotamiento. En tus manos, que esta estación se convierta no meramente en algo que sobreviva, sino en algo que lleva fruto duradero. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Juan 15:4-5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "4-5",
+              "translation": "Reina-Valera 1909",
+              "text": "Permaneced en mí, y yo en vosotros. Como el pámpano no puede llevar fruto de sí mismo, si no permaneciere en la vid; así tampoco vosotros, si no permaneciereis en mí... porque sin mí nada podéis hacer."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

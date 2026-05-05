@@ -1,0 +1,521 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG03",
+    "slug": "reclaiming-heart-from-fear",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardín de las Emociones",
+      "secondary": "anxiety-fear",
+      "secondary_label": "Ansiedad y Temor"
+    },
+    "tags": [
+      "ansiedad",
+      "temor",
+      "agobio",
+      "descanso-en-dios",
+      "confianza"
+    ],
+    "title": "Recuperando Tu Corazón del Miedo",
+    "subtitle": "Estos siete días te acompañan más profundamente, ayudándote a descubrir la inseguridad, la tensión y la necesidad silenciosa de control que a menudo están bajo la ansiedad.",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "ansiosa",
+        "agobiada",
+        "temerosa"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Estos siete días te acompañan más profundamente, ayudándote a descubrir la inseguridad, la tensión y la necesidad silenciosa de control que a menudo están bajo la ansiedad.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#B5C7E0",
+      "color_secondary": "#3B5775",
+      "image_key": "cover_woman_quiet_window_morning_light_anxiety",
+      "icon": "quiet-rock-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 139:23-24",
+        "book_code": "PSA",
+        "chapter": 139,
+        "verses": "23-24"
+      },
+      {
+        "display": "Romanos 8:15",
+        "book_code": "ROM",
+        "chapter": 8,
+        "verses": "15"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Mi Ansiedad No Comenzó de la Noche a la Mañana",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 139:23-24",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "23-24",
+            "translation": "Reina-Valera 1909",
+            "text": "Escudríñame, O Dios, y conoce mi corazón: pruébame, y conoce mis pensamientos..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas responden a la ansiedad primero con autojuicio: \"¿Por qué soy así?\" Esa pregunta generalmente suena dura, no curiosa. Pero la ansiedad rara vez aparece de la nada. Con mayor frecuencia, se desarrolla lentamente a través de años de sobreresponsabilidad, inestabilidad, decepción, o la necesidad aprendida de mantenerse preparado todo el tiempo. Lo que ahora se siente como debilidad puede ser realmente un patrón de supervivencia que ha vivido en ti durante mucho tiempo.",
+            "Eso no significa que la ansiedad deba dominarte para siempre. Significa que tal vez necesites entenderla con más gentileza si quieres una renovación real. La curación profunda a menudo comienza cuando el corazón deja de decir, \"Odio ser así,\" y comienza a preguntar, \"Señor, ¿qué ha formado esta vigilancia en mí?\"",
+            "El Salmo 139 ofrece un comienzo tierno: \"Escudríñame, O Dios... y conoce mis pensamientos.\" Esta no es la oración de la autocondena. Es la oración de alguien dispuesto a dejar que Dios mire de cerca con verdad y misericordia. No estás invitando una inspección airada. Estás invitando el cuidado de un Dios que ya te conoce.",
+            "**La renovación profunda comienza cuando el miedo no solo es manejado, sino gentilmente entendido en la presencia de Dios.** Hoy, pregúntate: ¿cuándo aprendí a estar tan tenso? ¿Qué formó esta vigilancia constante en mí?",
+            "**A veces la curación comienza cuando dejas de pelearte contigo mismo y comienzas a dejar que Dios se encuentre con la historia más profunda bajo tu miedo.** Ese tipo de reflexión no se trata de perderse en el pasado. Se trata de permitir que el Señor lleve misericordia al lugar donde la vigilancia echó raíces, para que tu futuro ya no esté gobernado por ella.",
+            "Hacer esas preguntas con Dios puede sentirse tierno, pero a menudo crea el tipo de honestidad donde el cambio real puede comenzar sin vergüenza. Él no está impaciente con el proceso."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Escudriñador de corazones, cuando siento ansiedad, a menudo comienzo culpándome a mí mismo en lugar de dejar que me muestres lo que realmente está sucediendo dentro de mí. Hoy abro mi corazón a Ti con la oración del salmista. Escudríñame y conoce mis pensamientos. Ayúdame a ver el miedo, la tensión y la vigilancia largo tiempo ocultos dentro de mí, no para que me condene más, sino para que pueda comenzar a conocerme a mí mismo con verdad en Tu misericordia. Gracias por que ves el corazón sin despreciarlo. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 139:23-24",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "23-24",
+              "translation": "Reina-Valera 1909",
+              "text": "Escudríñame, O Dios, y conoce mi corazón: pruébame, y conoce mis pensamientos..."
+            },
+            {
+              "display": "Filipenses 4:6-7",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "6-7",
+              "translation": "Reina-Valera 1909",
+              "text": "Por nada estéis afanosos; sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con hacimiento de gracias. Y la paz de Dios, que sobrepuja todo entendimiento, guardará vuestros corazones y vuestros sentidos en Cristo Jesús."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "¿Qué es lo que Realmente Tengo Miedo de Perder?",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Génesis 16:13",
+            "book_code": "GEN",
+            "chapter": 16,
+            "verses": "13",
+            "translation": "Reina-Valera 1909",
+            "text": "Entonces llamó el nombre de Jehová que con ella hablaba, El Dios que me ve; porque dijo, ¿No he visto aquí al que me ve?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La ansiedad a menudo parece ser sobre muchas cosas. Te preocupas por la conversación, las finanzas, la relación, la preocupación de salud, el futuro. En la superficie, los miedos parecen dispersos. Pero bajo ellos a menudo hay algo más concentrado: un miedo de perder seguridad, amor, control, pertenencia, o previsibilidad. A veces la ansiedad sigue multiplicándose porque la herida más profunda aún no ha sido nombrada.",
+            "La historia de Agar en Génesis 16 es poderosa aquí. En el desierto, su dolor no es solo circunstancial. Es vulnerable, no vista, e insegura de lo que vendrá después. Sin embargo, en ese lugar se encuentra con el Dios que la ve. Eso importa porque nos muestra que la atención de Dios va más allá de los eventos visibles.",
+            "El Salmo 56 dice que Dios guarda nuestras lágrimas. Él ve no solo la situación sino el significado que ha tomado dentro de nosotros. Él ve el miedo bajo la preocupación obvia. Él ve lo que temes que esta pérdida o incertidumbre podría decir de tu vida.",
+            "**Dios no solo calma la ola exterior; Él también viene hacia la herida bajo ella.** Hoy pregúntate: ¿si este miedo se hiciera realidad, qué sentiría que realmente he perdido? **Cuando nombras el miedo más profundo, la oración a menudo se vuelve más honesta y el consuelo de Dios llega más lejos.**",
+            "No corras a resolver ese miedo más profundo inmediatamente. Tráelo ante la vista de Dios y dilo claramente. Él no tiene miedo de lo que es más tierno en ti. A menudo el consuelo más verdadero no comienza en la superficie. Comienza donde Dios se encuentra con el miedo oculto bajo él.",
+            "El miedo más profundo aún puede tomar tiempo para entender, pero nombrarlo ante Dios a menudo afloja la presión de llevarlo solo y sin ser visto. Ser visto a esa profundidad es parte de la curación. Él puede sostener lo que descubras allí."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, tan a menudo pienso que solo estoy preocupado por los eventos, pero Tú sabes que el miedo más profundo a menudo está ligado a lo que siento que no puedo permitirme perder. Gracias porque así como viste a Agar en el desierto, también ves los miedos que nunca he expresado plenamente. Ayúdame a entender de qué tengo realmente miedo y qué creo que perdería si las cosas se derrumban. En esos lugares más vulnerables, revélate a mí como el Dios que ve, recuerda y se preocupa por mí. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Génesis 16:13",
+              "book_code": "GEN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "Reina-Valera 1909",
+              "text": "Entonces llamó el nombre de Jehová que con ella hablaba, El Dios que me ve; porque dijo, ¿No he visto aquí al que me ve?"
+            },
+            {
+              "display": "Salmo 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Mis huidas has contado: Pon mis lágrimas en tu redoma."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "¿Por Qué Necesito Controlar Tanto?",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Proverbios 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Reina-Valera 1909",
+            "text": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Cuando el miedo es lo suficientemente profundo, el control a menudo sigue. El control no siempre es ruidoso u obvio. A veces parece verificación constante, planificación sin fin, dificultad para descansar, e incomodidad con la espera. Puede que no te pienses a ti mismo como controlador, sin embargo puedes saber el sentimiento de que si no sostienes las cosas lo suficientemente fuerte, todo se desmoronará.",
+            "Por eso Proverbios 3 es una palabra tan importante para los corazones ansiosos: \"No te apoyes en tu propia prudencia.\" El problema no es que la prudencia sea mala. El problema es que las mentes ansiosas a menudo tratan de hacer de la prudencia un refugio. Nos decimos a nosotros mismos que si analizamos lo suficiente y nos preparamos lo suficiente, finalmente seremos seguros.",
+            "El Salmo 20 acentúa el contraste mostrando la diferencia entre confiar en la fuerza visible y confiar en el nombre del Señor. El control puede convertirse silenciosamente en una especie de fortaleza privada en la que más confiamos. Puede hacernos sentir preparados mientras sigue dejando el alma agotada.",
+            "**La confianza no es irresponsabilidad. Es devolver a Dios al lugar que solo Él puede sostener.** Pídale que te ayude a discernir la diferencia entre fidelidad y control excesivo. **Dios no te está pidiendo que seas descuidado. Te está invitando a dejar de tratar tu propio agarre como si fuera la cosa que sostiene el mundo.**",
+            "Ese cambio puede sentirse vulnerable, pero también abre la puerta a un descanso más profundo. Soltar el control excesivo no significa que dejes de preocuparte. Significa que dejas de confundir la gestión constante con la paz, y comienzas a aprender la seguridad más constante de la confianza.",
+            "A medida que aprendas esa diferencia, puedes encontrar que la rendición no es pasividad. Es una clase de fortaleza más constante que el miedo puede ofrecer. Libera tu corazón para respirar de nuevo. La confianza crece cada vez que afloja tu agarre y dejas espacio para que Dios te guíe."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, reconozco que a menudo uso el control para intentar crear seguridad. No es que no quiera confiar en Ti; es que temo lo que podría suceder si suelto mi agarre. Muéstrame dónde el análisis, la planificación y la verificación constante se han convertido en mi refugio. Enséñame gentilmente la diferencia entre fidelidad y control excesivo. Gracias porque Tú eres El que verdaderamente sostiene el mundo, y no necesitas que haga Tu trabajo por Ti. Ayúdame a ser responsable donde debo serlo y a rendirme donde necesito soltar. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Proverbios 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Reina-Valera 1909",
+              "text": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas."
+            },
+            {
+              "display": "Salmo 20:7",
+              "book_code": "PSA",
+              "chapter": 20,
+              "verses": "7",
+              "translation": "Reina-Valera 1909",
+              "text": "Estos confían en carros, y aquéllos en caballos: mas nosotros del nombre de Jehová nuestro Dios nos acordaremos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Cómo Dios Entrena un Corazón Ansioso para Confiar",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Éxodo 16:4,18-19",
+            "book_code": "EXO",
+            "chapter": 16,
+            "verses": "4,18-19",
+            "translation": "Reina-Valera 1909",
+            "text": "Entonces Jehová dijo a Moisés: He aquí yo os haré llover pan del cielo; y el pueblo saldrá, y recogerá diariamente la porción de un día. Y medido con gomer, el que había recogido mucho no tenía más, y el que había recogido poco no tenía menos; cada uno había recogido conforme a lo que había de comer. Y dijo Moisés: Nadie deje nada para mañana."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A menudo queremos que Dios nos entregue el mapa completo. Queremos saber adónde va el camino, cuánto durará la temporada difícil, y cuál será el resultado. Ese deseo es comprensible. La incertidumbre hace que los corazones ansiosos se agiten. Sin embargo, la Escritura muestra que Dios frecuentemente guía en porciones diarias en lugar de certeza a largo plazo.",
+            "En Éxodo 16, Dios da maná en el desierto diariamente. No porque se deleite en la inseguridad, sino porque está entrenando a un pueblo temeroso a depender de Él repetidamente. Jesús lleva ese mismo patrón a la Oración del Señor: \"Danos hoy nuestro pan de cada día.\" Esa oración nos aleja de la exigencia de poseer el mañana por adelantado y nos devuelve hacia la dependencia de hoy.",
+            "La ansiedad quiere más que pan diario. Quiere garantías. Pero a menudo lo que Dios da es gracia suficiente para este día, sabiduría suficiente para esta decisión, fortaleza suficiente para este paso.",
+            "**Dios a menudo nos forma para el futuro a través de la fidelidad diaria en el presente.** Toma un miedo que se siente demasiado grande y pregúntate: ¿cuál es el \"paso de hoy\" en esto? **El pan diario puede parecer pequeño comparado con tus grandes preguntas, pero a menudo es exactamente cómo Dios desarrolla la confianza en un corazón asustado.**",
+            "Puede que aún no veas el camino completo. Aún puedes recibir la porción de gracia que Dios te está dando para hoy. El alma a menudo se vuelve más constante no cuando puede ver más lejos, sino cuando aprende a recibir lo que Dios está dando ahora.",
+            "Recibir el pan diario puede parecer pequeño para un corazón ansioso, pero te mantiene cerca de Dios de una manera en que la certeza a menudo no lo hace. La dependencia no es fracaso. Es formación. Y cuando pidas esa gracia de nuevo mañana, no estarás fracasando. Estarás aprendiendo el ritmo de la confianza."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, a menudo quiero ver el futuro completo a la vez y recibir suficiente certeza para dejar de tener miedo. Sin embargo, con frecuencia Tú guías en porciones diarias. Enséñame a no despreciar la gracia de hoy o ignorar la provisión que ya estás dando porque no puedo ver muy lejos. Ayúdame a convertir los grandes miedos en el paso fiel de hoy. En la dependencia diaria, forma en mí no desamparo, sino confianza más profunda en Ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Éxodo 16:4,18-19",
+              "book_code": "EXO",
+              "chapter": 16,
+              "verses": "4,18-19",
+              "translation": "Reina-Valera 1909",
+              "text": "Entonces Jehová dijo a Moisés: He aquí yo os haré llover pan del cielo; y el pueblo saldrá, y recogerá diariamente la porción de un día. Y medido con gomer, el que había recogido mucho no tenía más, y el que había recogido poco no tenía menos; cada uno había recogido conforme a lo que había de comer. Y dijo Moisés: Nadie deje nada para mañana."
+            },
+            {
+              "display": "Mateo 6:11",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "11",
+              "translation": "Reina-Valera 1909",
+              "text": "El pan nuestro de cada día, dánoslo hoy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Cuando la Ansiedad Vive en Tu Cuerpo y Rutina",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Reyes 19:5,7-8",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "5,7-8",
+            "translation": "Reina-Valera 1909",
+            "text": "Y echándose debajo de un enebro, pidió para sí la muerte, diciendo: Basta ya, oh Jehová, quita mi vida, pues no soy yo mejor que mis padres. Y acostándose, durmió debajo de un enebro; y he aquí luego un ángel le tocó, y le dijo: Levántate, come. Levantóse, pues, y comió y bebió; y fortalecido con aquella comida, caminó cuarenta días y cuarenta noches hasta Horeb, el monte de Dios."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Con el tiempo, la ansiedad rara vez permanece solo en la mente. Se aposenta en el cuerpo y en el ritmo de la vida. El sueño se vuelve superficial. Los hombros se mantienen tensos. El descanso comienza a sentirse sospechoso. En el momento en que te sientes intranquilo, instintivamente haces más, buscas más y te preparas más. El cuerpo se convierte en parte de la historia.",
+            "Tal vez eso se parece a verificar tu teléfono antes de abrir los ojos, beber café para escapar del agotamiento, o acostarte con tu cuerpo quieto y tu mente aún corriendo. **Cuando el miedo persiste lo suficiente, el cuerpo comienza a hablarlo también.** Eso no significa que tu cuerpo sea tu enemigo. Simplemente puede estar diciendo la verdad sobre cuánto tiempo has estado cargando demasiado.",
+            "Primera de Reyes 19 nos da a Elías, agotado y asustado. Dios no comienza scolándolo. Le da sueño, alimento y cuidado. El Salmo 23 lleva la misma ternura: el Señor guía junto a aguas tranquilas y restaura el alma. La Escritura muestra que el cuidado de Dios no es solo mental o espiritual en sentido estrecho. Él cuida a las personas enteras.",
+            "**A veces recibir la ayuda de Dios comienza permitiéndote ser restaurado, no solo impulsado hacia adelante.** Si la ansiedad ha estado viviendo en tu cuerpo, deja que este día invite a la gentileza. **El descanso puede ser un acto de confianza. El alimento puede ser una forma de obediencia.**",
+            "Dios no solo quiere corregir tus pensamientos. También quiere cuidar tu marco cansado. Incluso el cuidado simple puede convertirse en una forma de recibir Su bondad en lugar de continuar viviendo como si la tensión constante fuera normal.",
+            "Prestar atención a ese tipo de cuidado no es debilidad. Es una forma de estar de acuerdo con Dios en que tu cansancio le importa. Su cuidado a menudo es más silencioso que nuestro pánico, pero no menos real."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, sabes cuán acostumbrado me he vuelto a vivir tenso, y que esa tensión ya no está solo en mis pensamientos sino en mi cuerpo y ritmo diario. Gracias porque no simplemente exiges más de mí; también me cuidas como un Pastor. Ayúdame a notar mi agotamiento y dejar de ignorar mis límites. Enséñame a responder a Tu cuidado de formas prácticas: descansar, ralentizarme y recibir restauración de Ti. Renueva tanto mi cuerpo como mi alma en Tu presencia. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Reyes 19:5,7-8",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "5,7-8",
+              "translation": "Reina-Valera 1909",
+              "text": "Y echándose debajo de un enebro, pidió para sí la muerte, diciendo: Basta ya, oh Jehová, quita mi vida, pues no soy yo mejor que mis padres. Y acostándose, durmió debajo de un enebro; y he aquí luego un ángel le tocó, y le dijo: Levántate, come. Levantóse, pues, y comió y bebió; y fortalecido con aquella comida, caminó cuarenta días y cuarenta noches hasta Horeb, el monte de Dios."
+            },
+            {
+              "display": "Salmo 23:1-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1-3",
+              "translation": "Reina-Valera 1909",
+              "text": "Jehová es mi pastor; nada me faltará. En lugares de delicados pastos me hará descansar: junto a aguas de reposo me pastoreará. Confortará mi alma; guiará me por sendas de justicia por amor de su nombre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "No Tengo que Sanarme en Aislamiento",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Eclesiastés 4:9-10",
+            "book_code": "ECC",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "Reina-Valera 1909",
+            "text": "Mejores son dos que uno; porque tienen mejor paga de su trabajo. Porque si cayeren, el uno levantará a su compañero; mas ¡ay del solo! que cuando cayere, no habrá segundo que lo levante."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Cuando el miedo se profundiza, muchas personas se vuelven más privadas, más guardadas y menos dispuestas a permitir que alguien vea lo que está sucediendo adentro. El aislamiento puede sentirse más seguro. Si nadie ve tu necesidad, nadie puede malinterpretarla. Sin embargo, la ansiedad oculta generalmente crece más fuerte, no más ligera. El corazón comienza a llevar sus batallas solo, y esa soledad puede hacer que el miedo sea más fuerte.",
+            "Eclesiastés dice que dos son mejores que uno, y Gálatas dice a los creyentes que lleven los unos las cargas de los otros. Esos pasajes nos recuerdan que Dios a menudo cuida a las personas no solo directamente, sino a través de la presencia humana confiable. Eso no significa compartir todo con todos. La sabiduría sigue importando. Pero la ansiedad se vuelve más poderosa cuando te convence de que el silencio es fortaleza.",
+            "Puedes responder, \"Estoy bien,\" porque no quieres ser una carga. Puedes funcionando tan bien que nadie se da cuenta de cuán cansado o asustado estás. Pero la comunidad cristiana no está destinada a construirse solo alrededor de versiones pulidas de nosotros mismos.",
+            "**No tienes que sanar en privacidad total.** Deja que hoy sea una invitación a nombrar una carga ante una persona segura. **Pedir oración no es debilidad; es una forma de salir de la sala cerrada del miedo.**",
+            "La ayuda de Dios a menudo viene con Su presencia, y a veces esa presencia nos la comunica otra persona mediante su gentileza, sabiduría y constancia. Romper el silencio no lo resuelve todo, pero a menudo afloja el agarre del miedo.",
+            "Una conversación confiada no lo resolverá todo, pero puede recordarle a tu corazón que el apoyo es parte de la provisión de Dios, no un signo de fracaso. La gracia a menudo entra a través de la honestidad simple. El coraje para ser conocido es a menudo más pequeño y más simple de lo que imaginamos, pero Dios aún puede usarlo para traer alivio."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, tan fácilmente me retiro y me digo a mí mismo que debo manejar todo solo. Pero sabes que cargar los pesos por mí mismo no me ha hecho más fuerte; solo me ha cansado más. Gracias porque no me has diseñado para caminar completamente solo. También das personas y comunidad para apoyo. Dame valor para acercarme a la persona correcta y sabiduría para saber quién es seguro y lo suficientemente maduro como para caminar conmigo. Enséñame a ser sostenido dentro de Tu familia en lugar de continuar luchando en aislamiento. Y que Tu iglesia se convierta en un lugar donde los corazones cansados sean verdaderamente portados. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Eclesiastés 4:9-10",
+              "book_code": "ECC",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "Reina-Valera 1909",
+              "text": "Mejores son dos que uno; porque tienen mejor paga de su trabajo. Porque si cayeren, el uno levantará a su compañero; mas ¡ay del solo! que cuando cayere, no habrá segundo que lo levante."
+            },
+            {
+              "display": "Gálatas 6:2",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "2",
+              "translation": "Reina-Valera 1909",
+              "text": "Sobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "El Miedo Puede Regresar, pero No Tiene que Gobernarme",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Romanos 8:15",
+            "book_code": "ROM",
+            "chapter": 8,
+            "verses": "15",
+            "translation": "Reina-Valera 1909",
+            "text": "Pues no habéis recibido el espíritu de esclavitud para estar otra vez en temor, sino que habéis recibido el espíritu de adopción, por el cual clamamos, ¡Abba, Padre!"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "El final más honesto de este viaje no es, \"Nunca volveré a sentir ansiedad.\" La ansiedad puede volver a visitarte. Ciertas temporadas aún pueden probarte. Los patrones antiguos pueden intentar regresar. El objetivo de este viaje nunca fue prometer una vida en la que el miedo desaparezca completamente. Fue ayudarte a aprender un centro diferente.",
+            "Romanos 8 nos recuerda que no hemos recibido espíritu de esclavitud para temer, sino espíritu de adopción. El miedo habla como un capataz. Presiona, conduce y estrecha el corazón. Pero el Espíritu habla como El que nos trae de vuelta al Padre. Juan 14:27 añade que Cristo da paz a diferencia de la paz del mundo, e Isaías 41:10 nos recuerda que la respuesta de Dios al miedo es Su propia presencia: \"Yo estoy contigo.\"",
+            "Eso significa que la victoria más profunda sobre la ansiedad no es la perfección emocional. Es la pertenencia. No eres una persona abandonada a manejar la vida solo. **La libertad del miedo a menudo comienza con recordar cuya presencia ahora define tu vida.**",
+            "Así que cuando la ansiedad se levanta de nuevo, tu primera respuesta no tiene que ser pánico o vergüenza. **Puedes regresar más rápidamente a la verdad de que eres de Dios, y Él está contigo.** Así es como el alma aprende a vivir menos como un cautivo y más como un hijo amado. Incluso cuando el miedo habla, no obtiene la palabra final sobre tu identidad, tu oración, o tu próximo paso.",
+            "Eso no significa que el viaje haya terminado. Significa que ahora sabes más claramente dónde regresar cuando el miedo se levante de nuevo. Y ese regreso en sí mismo es ya un crecimiento. Y cuanto más a menudo regreses allí, menos autoridad retiene el miedo sobre la forma en que interpretas tu vida."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias porque estos siete días no solo han consolado mis emociones, sino que también han comenzado a reconstruir mi corazón. Escribe el evangelio más profundamente dentro de mí, para que recuerde que no soy una persona impulsada por el miedo, sino alguien que es recibido y sostenido por Ti. Incluso si la ansiedad regresa en el futuro, ayúdame a regresar más rápidamente a Tu Palabra, a recordar Tu presencia más fácilmente, y a estar más firmemente en la identidad que me has dado. Que Tu paz se convierta en más que un sentimiento pasajero. Que remodele cómo entiendo mi vida y mi futuro. Y que el consuelo que recibo de Ti se convierta en parte de cómo consuelo a otros. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Romanos 8:15",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "15",
+              "translation": "Reina-Valera 1909",
+              "text": "Pues no habéis recibido el espíritu de esclavitud para estar otra vez en temor, sino que habéis recibido el espíritu de adopción, por el cual clamamos, ¡Abba, Padre!"
+            },
+            {
+              "display": "Juan 14:27",
+              "book_code": "JHN",
+              "chapter": 14,
+              "verses": "27",
+              "translation": "Reina-Valera 1909",
+              "text": "La paz os dejo, mi paz os doy; no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo."
+            },
+            {
+              "display": "Isaías 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

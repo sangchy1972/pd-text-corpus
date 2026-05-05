@@ -1,0 +1,348 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS14",
+    "slug": "old-life-no-longer-fits",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Life Seasons",
+      "secondary": "threshold-seasons",
+      "secondary_label": "Threshold Seasons"
+    },
+    "tags": [
+      "transition",
+      "starting-over",
+      "new-chapter",
+      "in-between",
+      "calling",
+      "reset"
+    ],
+    "title": "When Your Old Life No Longer Fits",
+    "subtitle": "Making peace with change when the familiar starts to loosen",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "in-transition",
+        "starting-over",
+        "seeking-direction"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "For the woman who can feel change unfolding around her and needs help living faithfully in the in-between.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#B0C8D5",
+      "color_secondary": "#3F5C70",
+      "image_key": "cover_woman_at_doorway_soft_light",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Genesis 12:1",
+        "book_code": "GEN",
+        "chapter": 12,
+        "verses": "1"
+      },
+      {
+        "display": "Deuteronomy 31:6,8",
+        "book_code": "DEU",
+        "chapter": 31,
+        "verses": "6,8"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "Sometimes It Is the Old Shape That No Longer Fits",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Genesis 12:1",
+            "book_code": "GEN",
+            "chapter": 12,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "Now the Lord had said unto Abram, Get thee out of thy country... unto a land that I will shew thee."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "One of the hardest parts of transition is that the first sign is often not a dramatic event, but a growing sense of misfit. Life begins to feel tight in places where it once felt manageable. The old routines still exist, but they no longer seem to fit the person you have become or the season you are in. Because that feeling is subtle at first, many women blame themselves. Am I ungrateful? Too sensitive? Restless? Harder to please?",
+            "But not every misfit is a sign of personal failure. When Abram was called to leave his country and kindred, it was not because everything in his former life had become evil. It was because God was moving him into a new chapter. Sometimes a former structure was real and right for a season, and still can no longer carry what comes next.",
+            "**When an old life no longer fits, it does not always mean something is wrong with you. It may mean the season itself is moving.** God sometimes lets that tightness become clear so that a woman will find the courage to admit the truth: I am standing at a threshold now.",
+            "You do not need to define the new life immediately. But you can begin by saying honestly before God: I can no longer breathe well inside the old shape. That honesty is already the beginning of faithful transition."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I confess that there are places in my life that no longer fit. Rhythms, structures, and ways of living that once felt familiar now feel hard to breathe inside. Thank You for showing me that not every discomfort means something is wrong with me. Sometimes it means You are leading me toward a threshold. Give me honesty so that I stop blaming myself, and give me courage so that I stop pretending the old shape still fits completely. If You are calling me to leave certain former patterns behind, keep me from clinging only because I am afraid. Teach me to admit, release, and follow You step by step. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Genesis 12:1",
+              "book_code": "GEN",
+              "chapter": 12,
+              "verses": "1",
+              "translation": "KJV",
+              "text": "Now the Lord had said unto Abram, Get thee out of thy country... unto a land that I will shew thee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Transition Often Requires Living Without Immediate Labels",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Exodus 13:17-18",
+            "book_code": "EXO",
+            "chapter": 13,
+            "verses": "17-18",
+            "translation": "KJV",
+            "text": "God led them not through the way of the land of the Philistines, although that was near... but God led the people about..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "We want to name our seasons quickly. Is this an ending or just an adjustment? Failure or redirection? Loss or clearing space? Naming gives a temporary sense of control. But transition often resists immediate definition. It is dusk-like. Threshold-like. Neither fully one thing nor fully another.",
+            "That ambiguity is exhausting. A woman in transition is not only living through change. She is also living without a stable label for what that change means.",
+            "Israel’s movement out of Egypt did not take them immediately into the promised land. It took them into wilderness. The wilderness is difficult partly because it is not home behind and not home ahead. It is between. That between-ness is what makes people long for fast interpretation. Yet God often trains His people there, teaching them to live without total explanation while still being led.",
+            "**Not every important season can be defined immediately. Some truths become clear only while we are walking.** If you are exhausted by not knowing how to label your season, let God relieve you from the burden of instant explanation. He already knows what kind of season this is, even if you do not yet have the language.",
+            "You do not have to name it perfectly in order to walk through it faithfully."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I confess that I want to explain this season quickly so that my heart can feel more secure. But You know that one of the most exhausting parts of this time is not being able to name it clearly. Release me from the anxiety of needing immediate labels. Teach me that even when I do not yet have full language, You already know exactly where I am. Keep me from growing more frantic because things remain unresolved, and keep me from forcing answers before they are ready. Let me learn to abide in You in this still unnamed season. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Exodus 13:17-18",
+              "book_code": "EXO",
+              "chapter": 13,
+              "verses": "17-18",
+              "translation": "KJV",
+              "text": "God led them not through the way of the land of the Philistines, although that was near... but God led the people about..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Faithfulness in the In-Between Matters More Than Fast Clarity",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Ruth 2:2-3",
+            "book_code": "RUT",
+            "chapter": 2,
+            "verses": "2-3",
+            "translation": "KJV",
+            "text": "Let me now go to the field, and glean ears of corn... And she went, and came, and gleaned in the field..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "In transition, it is easy to make one goal supreme: find the next clear answer as quickly as possible. But Scripture is often more interested in how a person lives while things remain unclear. When Naomi and Ruth returned to Bethlehem, they did not yet possess a complete future. They simply began by living faithfully in what was in front of them: gleaning, caring, receiving the day’s provision.",
+            "The larger unfolding came later. It did not begin with total explanation. It began with fidelity in the in-between.",
+            "That matters because many women unconsciously treat transition as unofficial life. They think: once this season settles, then I will really live, pray, build, and become faithful again. But God is here now. The in-between is not a pause button. It is part of your discipleship.",
+            "**You do not need to treat transition like the waiting room before real life begins.** The small acts of honesty, rhythm, work, prayer, and receiving that belong to today are already real life. They are also real formation.",
+            "God does not treat the middle ground as a lesser version of your story. Neither should you."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, rescue me from treating transition like a waiting room before real life begins. Thank You that You are here now, not only waiting for me in some more stable future version of my life. Teach me to live with small faithfulness even when I do not yet have large answers. Help me keep today’s honesty, rhythm, and receptivity while the bigger picture remains unclear. If I keep assuming that only clarity deserves seriousness, correct me. Let me know that this middle ground is not secondary to You, and that You are shaping me here as well. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Ruth 2:2-3",
+              "book_code": "RUT",
+              "chapter": 2,
+              "verses": "2-3",
+              "translation": "KJV",
+              "text": "Let me now go to the field, and glean ears of corn... And she went, and came, and gleaned in the field..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "Making Peace with Change Is Not the Same as Enjoying It",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "James 1:8",
+            "book_code": "JAS",
+            "chapter": 1,
+            "verses": "8",
+            "translation": "KJV",
+            "text": "A double minded man is unstable in all his ways."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many people dislike the phrase accept change because it sounds like a demand to adapt instantly, move on quickly, and stop feeling resistant. But true peace with change is not that superficial. It does not deny grief, disorientation, or the wish to recover the old life. It simply begins to free a person from endless inner fighting.",
+            "You may not like the change. You may still mourn what it altered. But you no longer have to spend every day warring against the fact that it has happened.",
+            "James speaks of the instability of a divided heart. Transition easily creates that division: part of you wants to move forward, and part of you is clutching what is behind. That tension is exhausting. Peace does not begin when you feel cheerful about the new reality. It begins when you say honestly, This has happened, and I will not face it alone.",
+            "**Peace is not the disappearance of change. It is the end of believing that denial and resistance are the only way to protect yourself.** So if there is an inner fight still raging in you, bring that conflict before God. He can lead the heart from rigidity toward softer trust."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I confess that there are still many places in me that are fighting change. Part of me knows the old life cannot be recovered, yet another part keeps resisting, arguing, and clinging. Thank You that You do not move away from me simply because I have not accepted this well yet. Draw near to the broken and rigid places in me. Do not force me into premature closure, but lead me gently out of chronic inner warfare. Teach me to acknowledge what has happened and then to walk forward with You rather than trying to survive it alone. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "James 1:8",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "A double minded man is unstable in all his ways."
+            },
+            {
+              "display": "Psalm 34:18",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "18",
+              "translation": "KJV",
+              "text": "The Lord is nigh unto them that are of a broken heart..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "When the Old Life Lets Go, God Does Not",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Deuteronomy 31:6,8",
+            "book_code": "DEU",
+            "chapter": 31,
+            "verses": "6,8",
+            "translation": "KJV",
+            "text": "Be strong and of a good courage... for the Lord thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "One of the deepest discomforts of transition is that many familiar things begin to loosen at once. Old identities no longer hold in the same way. Old routines lose their structure. Relationships change shape. Homes, jobs, assumptions, and securities begin to move. In that looseness, the instinct is to grab harder at something, anything, that feels stable.",
+            "The gospel does not comfort us by promising that nothing else will change. It comforts us by promising that God does not let go.",
+            "Moses tells the people in Deuteronomy to be strong and courageous because the Lord goes with them and will not fail or forsake them. That promise matters especially in seasons of rearrangement. Transition often creates the fear that if so much else is moving, perhaps even God feels farther away. Scripture says otherwise. Many things may loosen, but His presence is not one of them.",
+            "**What truly holds a woman in transition is not her ability to adapt perfectly, but the unchanging presence of God.** That gives a deeper steadiness than self-confidence ever can.",
+            "So name what is loosening. Bring it before God. And then bring yourself as well. The in-between is not sustained by stronger gripping. It is sustained by deeper entrusting."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, when many familiar things begin to loosen, I confess that I become afraid. I want to grip the old order, the old identity, the old security, as though otherwise I might lose everything at once. Thank You for reminding me that while many things may change, You do not let go. Plant that promise in me more deeply than my panic. Teach me not only to adapt, but to entrust. If what I need most today is to remember Your presence again, make that presence real and living to me. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Deuteronomy 31:6,8",
+              "book_code": "DEU",
+              "chapter": 31,
+              "verses": "6,8",
+              "translation": "KJV",
+              "text": "Be strong and of a good courage... for the Lord thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

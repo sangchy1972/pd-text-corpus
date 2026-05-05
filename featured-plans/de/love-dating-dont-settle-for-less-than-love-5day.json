@@ -1,0 +1,384 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI05",
+    "slug": "dont-settle-for-less-than-love",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "love-dating",
+      "secondary_label": "Liebe und Partnerschaft"
+    },
+    "tags": [
+      "liebe",
+      "partnerschaft",
+      "beziehungen",
+      "grenzen",
+      "werben",
+      "fromme-liebe"
+    ],
+    "title": "Lassen Sie sich nicht mit weniger als Liebe zufrieden geben",
+    "subtitle": "Grenzen für Frauen, die es leid sind, fast-Beziehungen",
+    "audience": {
+      "life_stage": [
+        "junge Frauen",
+        "in Beziehung",
+        "vor der Ehe"
+      ],
+      "emotional_state": [
+        "hoffnungsvoll",
+        "vorsichtig",
+        "Klarheit suchend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese fünf Tage helfen dir, den Beziehungen ins Auge zu blicken, die schwer loszulassen sind, aber dir keine echte Sicherheit geben, und zu lernen, dein Herz mit Weisheit zu bewahren.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#F4B6B6",
+      "color_secondary": "#7A2C42",
+      "image_key": "cover_woman_quiet_garden_evening_warm_light",
+      "icon": "anchor-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Jakobus 1:8",
+        "book_code": "JAS",
+        "chapter": 1,
+        "verses": "8"
+      },
+      {
+        "display": "Philipper 4:7",
+        "book_code": "PHP",
+        "chapter": 4,
+        "verses": "7"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Warum halten wir an dem fest, das nicht klar ist",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jakobus 1:8",
+            "book_code": "JAS",
+            "chapter": 1,
+            "verses": "8",
+            "translation": "Lutherbibel 1912",
+            "text": "Denn ein weltlich gesinnt Herz ist unstet in allen seinen Wegen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wir wissen meist nicht aus Unwissenheit, warum wir in einer unklaren Beziehung bleiben.",
+            "Was uns dort hält, ist oft der Anhänglichkeit an Möglichkeit. Eine unklare Beziehung kann sich seltsam kraftvoll anfühlen, weil sie gerade genug Wärme bietet, um die Hoffnung lebendig zu halten, ohne der Ruhe genug Wahrheit zu geben. Wir verweilen in einem Mittelraum, nicht ganz ausgewählt und nicht ganz losgelassen. Und weil es noch Momente der Zärtlichkeit gibt, fragen wir uns weiter, ob Geduld die Unklarheit nicht doch noch in Engagement verwandeln könnte.",
+            "Jakobus spricht von der Instabilität, doppelsinnig zu sein. Dieser Vers fühlt sich in solchen Situationen oft unangenehm nah an. Ein Teil von uns sehnt sich nach Frieden. Ein anderer Teil möchte nicht loslassen, was diese Beziehung noch werden könnte. Wir sind müde, aber bleiben emotional einer Möglichkeit treu, die sich nie gefestigt hat. Mit der Zeit verbraucht diese Spannung mehr als die Liebe selbst. Sie verbraucht Klarheit, Stetigkeit und Selbstvertrauen.",
+            "Oft hält uns nicht nur die Zuneigung zur Person, sondern auch Trauer über den Verlust der Zukunft, die wir um sie herum aufgebaut haben, an Ort und Stelle. Gott schämt sich nicht für uns wegen unserer Gefühle. Er trifft uns dort und stellt eine zarte Frage: Was hast du wirklich Angst loszulassen? Manchmal ist es nicht die Beziehung selbst, sondern die Geschichte, die du dir um sie herum erhofft hast.",
+            "**Manchmal ist es nicht die Person, die wir nicht loslassen können, sondern die Zukunft, die wir uns um sie herum vorgestellt haben.** Bring diesen Anhänglichkeit heute ehrlich zu Gott. Du musst keine schnelle Entscheidung treffen. Bitte zuerst um Klarheit, denn echte Befreiung beginnt oft, wenn das Herz endlich die Wahrheit sagen kann."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, du kennst den Teil von mir, dem es schwerfällt, loszulassen. Es ist nicht, dass ich nicht weiß, wie unklar diese Beziehung gewesen ist. Es ist, dass ich immer noch Erwartungen, vorgestellte Zukünfte und Möglichkeiten festhalte, die ich nicht losgelassen habe. Lass mich nicht für immer in dieser Instabilität leben. Gib mir Klarheit und gib mir Ehrlichkeit. Hilf mir zu sehen, woran ich wirklich festhalte und warum. Gib mir Unterscheidungsvermögen und gesunde Grenzen, damit meine Sanftheit nicht zu Selbstverrat wird und meine Liebe mich nicht meine eigene Integrität kostet. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jakobus 1:8",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn ein weltlich gesinnt Herz ist unstet in allen seinen Wegen."
+            },
+            {
+              "display": "Psalm 25:4-5",
+              "book_code": "PSA",
+              "chapter": 25,
+              "verses": "4-5",
+              "translation": "Lutherbibel 1912",
+              "text": "Zeige mir, HERR, deine Wege und lehre mich deine Steige! Leite mich in deiner Wahrheit und lehre mich..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Aufmerksamkeit ist dasselbe nicht wie geschätzt zu werden",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Hohelied 2:7",
+            "book_code": "SNG",
+            "chapter": 2,
+            "verses": "7",
+            "translation": "Lutherbibel 1912",
+            "text": "Beschwöret euch bei den Gazellen und bei den Rehen der Aue, daß ihr die Liebe nicht aufwecket und nicht reget, bis es ihr selbst beliebt."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal ist das, was das Herz am schnellsten erweicht, nicht die Liebe selbst, sondern das Gefühl, endlich bemerkt zu werden.",
+            "Jemand erinnert sich an Details, meldet sich im richtigen Moment, sagt etwas Zärtliches oder schenkt dir eine Art von Aufmerksamkeit, die auf einen einsamen Platz trifft. Natürlich reagiert unser Herz. Gesehen werden zählt. Aber Aufmerksamkeit und Geschätztsein sind nicht dasselbe. Eine Person kann dir in Momenten das Gefühl geben, besonders zu sein, und trotzdem keine Stetigkeit, keine Klarheit und keine Bereitschaft haben, das Gewicht echter Fürsorge zu tragen.",
+            "Das Hohelied warnt uns, die Liebe nicht vor ihrer rechten Zeit zu wecken. Diese Weisheit geht nicht nur um Enthaltsamkeit im Verhalten. Es geht auch um das Tempo des Herzens. Wenn jemand unser Verlangen berührt, gesehen zu werden, können wir emotional voraus gehen, was eigentlich wahr ist. Wir können beginnen zu vertrauen, bevor es Vertrauenswürdigkeit gibt, zu hoffen, bevor es ehrliche Richtung gibt, uns zu binden, bevor sich die Beziehung zeigt, dass sie uns wirklich halten kann.",
+            "Gott schilt uns nicht dafür, geschätzt werden zu wollen. Er versteht diese Sehnsucht. Aber weil er sie ehrt, will er sie vor Inkonsistenz schützen. Er möchte mehr für dich als zerstreute Wärme, die nie zu zuverlässiger Liebe wird. Darum ist Unterscheidung wichtig. Manchmal ist es nicht die Person allein, die uns hält, sondern die Erleichterung, endlich sichtbar zu sein.",
+            "**Die Aufmerksamkeit einer Person bedeutet nicht unbedingt, dass sie bereit ist, dich zu schätzen.** Frag dich heute, was dich am stärksten hineinzieht. Ist es wirklich der Charakter dieser Person, oder der Trost, bemerkt zu werden? Lass diese Frage einen kleinen Raum in deinem Herzen öffnen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, bewahre die Sehnsucht in mir, geschätzt zu werden. Lass mich nicht eine kleine Aufmerksamkeit mit echter, beständiger Liebe verwechseln. Gib mir Unterscheidungsvermögen, um den Unterschied zwischen dem zu kennen, was mich nur bewegt, und dem, das wirklich vertrauenswürdig und lieb ist. Hilf mir, mein ganzes Herz nicht zu schnell abzugeben, sondern in dir zu lernen, beständiger und weiser zu lieben. Gib mir ein klareres Herz, damit die Furcht, Liebe zu verlieren, nicht lauter spricht als Weisheit, und flüchtige Gefühle nicht meinen Frieden ersticken. Wenn es einen Ort gibt, wo ich aufhören muss, gib mir Mut. Wenn es einen Ort gibt, wo ich warten muss, gib mir Geduld. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Hohelied 2:7",
+              "book_code": "SNG",
+              "chapter": 2,
+              "verses": "7",
+              "translation": "Lutherbibel 1912",
+              "text": "Beschwöret euch bei den Gazellen und bei den Rehen der Aue, daß ihr die Liebe nicht aufwecket und nicht reget, bis es ihr selbst beliebt."
+            },
+            {
+              "display": "Sprüche 19:2",
+              "book_code": "PRO",
+              "chapter": 19,
+              "verses": "2",
+              "translation": "Lutherbibel 1912",
+              "text": "Unbedachtsamkeit führet zu Sünde; aber wer umsichtig ist im Wandel, wird behütet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Grenzen sind nicht Kälte, sondern Selbstachtung",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Markus 1:35",
+            "book_code": "MRK",
+            "chapter": 1,
+            "verses": "35",
+            "translation": "Lutherbibel 1912",
+            "text": "Und morgens, da es noch sehr dunkel war, stand er auf und ging hinaus an einen öden Ort und betete daselbst."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele von uns fürchten, dass Grenzen uns distanziert, schwierig oder weniger liebend erscheinen lassen.",
+            "Aber wenn eine Beziehung nur weitergehen kann, weil du dein Unbehagen ständig unterdrückst, deine Grenzen dehnst und dich selbst gewalt antust, dann geht es nicht nur um deine Grenzen. Es geht um die Form der Beziehung selbst. Jesus war nie ohne Grenzen. Er zog sich zurück, sagte die Wahrheit, lehnte ab und blieb nicht endlos verfügbar, nur weil Menschen mehr von ihm wollten.",
+            "Grenzen sind nicht das Gegenteil von Liebe. Sie helfen, die Liebe davor zu bewahren, mit Groll, Angst, Schuld und Verausgabung vermischt zu werden. Eine gesunde Beziehung behandelt deine Grenzen nicht als Verrat. Wenn eine Beziehung instabil wird, sobald du ehrlich wirst, lohnt es sich zu fragen, ob die Verbindung zu sehr von deinem Schweigen abhängig gemacht hat.",
+            "Ich bin mehr und mehr davon überzeugt, dass Grenzen eine reife Art der Zärtlichkeit sind. Sie schließen nicht jede Tür. Sie helfen uns nur zu wissen, wie wir die Tür ehrlich öffnen. Gott fragt nicht, dass wir hart werden. Er lehrt uns, Lieben nicht mit grenzenlos verfügbar sein zu verwechseln, auf unsere eigene Kosten.",
+            "Das ist nicht nur für dich, sondern auch für die Möglichkeit einer gesünderen Beziehung wichtig. Liebe wächst besser, wo Wahrheit atmen darf.",
+            "**Echte Liebe verliert keinen Respekt für dich, nur weil du Grenzen hast.** Frag dich heute, welches \"Nein\" dir am schwersten fällt in dieser Beziehung. Das könnte der Ort sein, wo Gott dir hilft, standhafter zu stehen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lehre mich neu, was Grenzen wirklich sind. Lass mich Ehrlichkeit nicht für Kälte halten, und Selbstaufgabe nicht für Liebe. Gib mir Mut, Wahrheit zu sprechen, wenn Wahrheit nötig ist, und zu stoppen, wenn es weise ist zu stoppen. Heile den Teil in mir, der fürchtet, ich würde Liebe verlieren, wenn ich Grenzen setze. In deiner Liebe lehre mich, mein Herz mit Reife und Frieden zu bewahren. Gib mir Unterscheidungsvermögen und gesunde Grenzen, damit meine Sanftheit nicht zu Selbstverrat wird und meine Liebe mich nicht meine eigene Integrität kostet. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Markus 1:35",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35",
+              "translation": "Lutherbibel 1912",
+              "text": "Und morgens, da es noch sehr dunkel war, stand er auf und ging hinaus an einen öden Ort und betete daselbst."
+            },
+            {
+              "display": "Epheser 4:15",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "15",
+              "translation": "Lutherbibel 1912",
+              "text": "Vielmehr die Wahrheit redend in Liebe, mögen wir in allen Stücken heranwachsen zu ihm..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Einsamkeit ist real, aber es sollte nicht entscheiden, was ich akzeptiere",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 68:6",
+            "book_code": "PSA",
+            "chapter": 68,
+            "verses": "6",
+            "translation": "Lutherbibel 1912",
+            "text": "Gott gibt den Einsamen ein Haus, führt die Gefangenen hinaus zum Wohlstand..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal bleiben wir nicht, weil eine Beziehung gut ist, sondern weil sich Einsamkeit schwerer anfühlt.",
+            "Einsamkeit kann laut sein, besonders wenn es scheint, dass alle anderen sich in Liebe, Gemeinschaft und Zugehörigkeit bewegen, während wir in Unklarheit bleiben. In dieser Art von Schmerz können wir unsere Maßstäbe senken, Gründe erfinden oder uns selbst sagen, dass ein wenig Verbindung besser ist als Leere. Aber wenn Einsamkeit zur Hauptkraft wird, die unsere Entscheidungen formt, werden wir anfälliger dafür, das zu akzeptieren, das eigentlich nicht gut für uns ist.",
+            "Psalm 68 sagt, dass Gott die Einsamen in Familien setzt. Das bedeutet nicht, dass er unsere Leere mit irgendeiner Beziehung füllt. Es bedeutet, dass Einsamkeit nicht etwas ist, das wir durch Zufriedengeben lösen sollen. Gott sieht den Schmerz des Verlangens nach Nähe. Er sieht, wie erschreckend es sich anfühlen kann, etwas loszulassen und den Platz, den es hinterlässt, zu ertragen. Aber er ist zu gütig, um diesen Schmerz dadurch zu beantworten, dass er uns dem übergibt, das uns langsam verringert.",
+            "Es hilft, dies deutlich zu sagen: Einsamkeit ist nicht schändlich. Liebe zu wollen ist nicht schändlich. Aber wenn wir unsere Einsamkeit nicht ehrlich betrachten, kann sie anfangen, unsere Entscheidungen zu treffen. Gott will uns dort zuerst treffen. Wenn Einsamkeit von ihm gehalten wird, sind wir weniger geneigt, auf ungesunde Nähe zu greifen, um zu vermeiden, sich einsam zu fühlen.",
+            "**Einsamkeit könnte uns dazu bringen, etwas festzuhalten, aber Gott möchte nicht, dass die Furcht, allein zu sein, bestimmt, was wir akzeptieren.** Frag dich heute, ob du wirklich diese Person festhältst, oder das Bedürfnis, nicht leer zu sein. Manchmal öffnet diese Frage die Tür zu einer tieferen Art von Fürsorge."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, du kennst, wie schwer Einsamkeit sein kann. Du weißt, dass manchmal das, was es schwer macht loszulassen, nicht nur Zuneigung ist, sondern die Furcht, die Leere wieder zu ertragen. Begegne mir zuerst in dieser Einsamkeit. Lass nicht die Furcht, allein zu sein, mich in eine ungesunde Beziehung hineinbringen. Danke, dass du meine Sehnsucht siehst und dass du besser als ich weißt, wie echte Liebe aussieht. Gib mir ein klareres Herz, damit die Furcht, Liebe zu verlieren, nicht lauter spricht als Weisheit, und flüchtige Gefühle nicht meinen Frieden ersticken. Wenn es einen Ort gibt, wo ich aufhören muss, gib mir Mut. Wenn es einen Ort gibt, wo ich warten muss, gib mir Geduld. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 68:6",
+              "book_code": "PSA",
+              "chapter": 68,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Gott gibt den Einsamen ein Haus, führt die Gefangenen hinaus zum Wohlstand..."
+            },
+            {
+              "display": "Psalm 34:18",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "18",
+              "translation": "Lutherbibel 1912",
+              "text": "Der HERR ist nahe denen, die zerbrochenen Herzens sind, und hilft denen, die zerschlagenen Geistes sind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Frieden ist nicht nur ihn zu bekommen, sondern sich selbst nicht zu verlieren",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Philipper 4:7",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "7",
+            "translation": "Lutherbibel 1912",
+            "text": "Und der Friede Gottes, welcher höher ist als alle Vernunft, wird eure Herzen und eure Sinne in Christus Jesus bewahren."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Am fünften Tag ist vielleicht die wichtigste Frage nicht einfach, ob du bleiben oder gehen sollst, sondern ob du anfängst, dich selbst zu verlieren.",
+            "Manche Beziehungen sind schwer loszulassen, weil sie tatsächlich Wärme, Hoffnung und echte Gefühle enthalten. Aber wenn du unterwegs weniger friedlich, weniger ehrlich und weniger in dem verwurzelt geworden bist, wer du bist, dann muss etwas Wichtiges betrachtet werden. Eine Verbindung könnte dein Herz bewegen und dennoch langsam deine Stetigkeit auflösen.",
+            "Philipper sagt, dass der Frieden Gottes unsere Herzen und Sinne durch Christus Jesus bewahren wird. Dieser Frieden hebt nicht immer sofort Trauer auf. Du magst noch Traurigkeit, Sehnsucht und Verlust fühlen. Aber Gottes Frieden kann dich bewahren, nicht in etwas zu bleiben, das dein Herz weiter zerstreut. Er kümmert sich nicht nur darum, ob eine Beziehung passiert, sondern darum, was mit dir darin geschieht.",
+            "Ich finde das sehr tröstlich. Gott interessiert sich nicht nur für Ergebnisse. Ihn interessiert der Zustand deiner Seele. Wenn eine Beziehung nur weitergehen kann, weil sie verlangt, dass du deine Klarheit, Grenzen oder Würde verrätst, dann ist das Schutz deines Herzens nicht Versagen. Es ist Weisheit.",
+            "**Liebe, die wirklich es wert ist, wird nicht verlangen, dass du deine Ganzheit für ihr Fortbestand austauschst.** Bring alles, das diese fünf Tage aufgedeckt haben, zu Gott zurück. Wenn du bereits weißt, was loszulassen ist, bete um Mut. Wenn du immer noch nicht klar siehst, bete um Licht. Auf jeden Fall: Gott kümmert sich nicht nur, dass du geliebt wirst, sondern dass du dich nicht selbst verlierst, während du sehnsüchtig nach Liebe wartest."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du mich in diesen fünf Tagen Schritt für Schritt geholfen hast, diese Beziehung und mein eigenes Herz ehrlicher zu betrachten. Wenn ich darin langsam meinen Frieden, meine Grenzen oder mich selbst verloren habe, lass mich nicht so tun, als wäre alles in Ordnung. Bewahre mein Herz und meinen Sinn, und halte mich durch den Schmerz der Sehnsucht und die Arbeit der Unterscheidung. Wenn etwas loszulassen ist, gib mir Mut. Wenn etwas noch unklar ist, gib mir Licht. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Philipper 4:7",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "7",
+              "translation": "Lutherbibel 1912",
+              "text": "Und der Friede Gottes, welcher höher ist als alle Vernunft, wird eure Herzen und eure Sinne in Christus Jesus bewahren."
+            },
+            {
+              "display": "Psalm 119:105",
+              "book_code": "PSA",
+              "chapter": 119,
+              "verses": "105",
+              "translation": "Lutherbibel 1912",
+              "text": "Dein Wort ist meines Fußes Leuchte und ein Licht auf meinem Wege."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

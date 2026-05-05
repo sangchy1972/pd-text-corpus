@@ -1,0 +1,255 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS04",
+    "slug": "wisdom-for-everyday-life",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Lebensjahreszeiten",
+      "secondary": "full-bloom",
+      "secondary_label": "Volle Blüte"
+    },
+    "tags": [
+      "berufsmitte",
+      "ehe",
+      "geld",
+      "zuhause",
+      "gleichgewicht",
+      "verantwortung"
+    ],
+    "title": "Weisheit für Geld, Heim und Alltag",
+    "subtitle": "Gottes Weisheit in der praktischen Last des täglichen Lebens suchen",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "dreißiger-vierziger",
+        "Berufsmitte"
+      ],
+      "emotional_state": [
+        "verantwortlich",
+        "gefordert",
+        "Gleichgewicht suchend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Für die Frau, die das praktische Gewicht des Alltags trägt und sich Gottes Weisheit in Geld, Heim und alltäglichen Entscheidungen sehnt.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_open_field_summer_balance",
+      "icon": "bouquet-of-wheat-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Sprüche 24:3-4",
+        "book_code": "PRO",
+        "chapter": 24,
+        "verses": "3-4"
+      },
+      {
+        "display": "Sprüche 31:27,30-31",
+        "book_code": "PRO",
+        "chapter": 31,
+        "verses": "27,30-31"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Gott ist auch gegenwärtig in meinem Haushalten, meinen Ausgaben und meinem Leben",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 24:3-4",
+            "book_code": "PRO",
+            "chapter": 24,
+            "verses": "3-4",
+            "translation": "Lutherbibel 1912",
+            "text": "Durch Weisheit wird ein Haus gebaut, und durch Verstand wird es festgestellt; und durch Erkenntnis werden die Kammern erfüllet mit allem köstlichen und angenehmem Gut."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "In den Jahren der Vollblüte ist der Druck oft nicht mehr nur die Frage \"Soll ich mich anstrengen?\" sondern \"Wie halte ich die vielen Realitäten aus?\" Die Rechnungen kommen, der Haushalt braucht Aufmerksamkeit, die Gefriertruhe muss aufgefüllt werden, die Kinder brauchen Gebühren, die Eltern brauchen möglicherweise Unterstützung, kaputte Dinge reparieren sich nicht selbst, und der eigene Körper hat Grenzen. Viele Frauen werden in dieser Phase sehr fähig. Sie tragen, entscheiden, rechnen, ordnen neu und strecken, was sie haben. Aber innen kann es eine stille Müdigkeit geben – jene Art, die davon kommt, immer die eine zu sein, die die Realität verwaltet.",
+            "Die Sprichwörter nehmen diese Realitäten nicht als geistlich unwichtig. Sie sprechen oft von Fleiß, Planung, Zurückhaltung, Versorgung und davon, wie ein Haus durch Weisheit gebaut wird. Dennoch stellen sich viele Frauen das geistliche Leben immer noch als etwas Erhöhteres vor als Haushaltsbudgetierung, Kochen, Organisieren, Reparieren oder die Entscheidung, was warten kann und was nicht. Die Schrift trennt das nicht so scharf. Gott wirkt im Praktischen, weil das Praktische das Herz offenbarte. Geld, Ordnung und tägliche Versorgung enthüllen oft Angst, Begierde, Vertrauen und Selbstbeherrschung.",
+            "**Reife ist nicht, Realitäten ohne Anstrengung zu handhaben. Es ist Lernen, Realitäten mit Gottes Weisheit zu tragen.** Begrenzte Mittel sind nicht Schande. Haushaltsbudgetierung ist nicht Engstirnigkeit. Zurückhaltung ist nicht Mangel an Glauben. Dies können alle Formen der Verwaltung werden.",
+            "Bringen Sie heute ein konkretes Anliegen vor Gott. Eine Budgetentscheidung. Ein Hausbedarf. Eine praktische Verantwortung, der Sie ausgewichen sind. Fragen Sie dort um Weisheit. Gott interessiert sich nicht nur für dramatische geistliche Momente. Er gibt auch Weisheit an Frauen, die treu inmitten alltäglicher wirtschaftlicher und häuslicher Realitäten leben."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich danke dir, dass du nicht nur in großen Dingen echt bist. Du bist auch in den alltäglichen Realitäten gegenwärtig, die ich tragen muss. Du siehst die geistige Anstrengung von Geld, Hausentscheidungen, Planung, Pflege und ständigem Wählen. Du weißt, wie kleine Dinge ein Herz dünn schlagen lassen können. Gib mir Weisheit von oben, damit ich Entscheidungen nicht nur aus Spannung, Impuls oder Gewohnheit treffe. Lehre mich, dich in praktischem Leben zu fürchten. Bewahre mich davor, Grenzen als Schande zu behandeln, Zurückhaltung als Verlust oder tägliche Verwaltung als etwas unter geistlichem Leben. Danke, dass du in die konkreten Einzelheiten meiner Welt eingehst. Lehre mich, das, was in meinen Händen heute ist, mit Ordnung, Klarheit und Vertrauen zu verwalten. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 24:3-4",
+              "book_code": "PRO",
+              "chapter": 24,
+              "verses": "3-4",
+              "translation": "Lutherbibel 1912",
+              "text": "Durch Weisheit wird ein Haus gebaut, und durch Verstand wird es festgestellt; und durch Erkenntnis werden die Kammern erfüllet mit allem köstlichen und angenehmem Gut."
+            },
+            {
+              "display": "Jakobus 1:5",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Welchem es aber an Weisheit mangelt, der bitte Gott, welcher jedermann gerne gibt und niemandem Vorwürfe macht, so wird sie ihm gegeben werden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Ein Haus braucht nicht nur Liebe, sondern auch Ordnung, um auszudauern",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 14:1",
+            "book_code": "PRO",
+            "chapter": 14,
+            "verses": "1",
+            "translation": "Lutherbibel 1912",
+            "text": "Die weise Frau bauet ihr Haus; aber die törichte reißet es mit ihren Händen ab."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Frauen kennen eine besondere Art der Erschöpfung, die nicht aus einer dramatischen Krise kommt, sondern daraus, dass sie sich alles merken muss. Was ausgetauscht werden muss. Was zu lange aufgeschoben wurde. Wer nicht gut zurechtkommen. Welche Mahlzeit noch zubereitet werden muss. Welche Rechnung wartet. Welcher Raum unwohnbar wird. Die Wärme eines Hauses existiert oft, weil jemand ständig seinen Rhythmus aufrechterhalte.",
+            "Sehr viele Frauen verlieren auf diese Weise unbewusst ihre Freude.",
+            "Die Heilige Schrift sagt, dass die weise Frau ihr Haus baut. Dies ist kein Befehl an Frauen, alle häuslichen Lasten allein zu tragen. Es ist eine Erinnerung, dass ein Haus nicht nur von Gefühl aus läuft. Es braucht Weisheit, Struktur, Rhythmus und absichtliche Pflege. Liebe ohne Ordnung kann leicht in Verwirrung und Erschöpfung umschlagen. Paulus schrieb schon früh, dass alles würdig und ordentlich geschehe – ein Grundsatz aus der Gemeinde, der auch für das Zuhause gilt: Ordnung ist nicht kalte Kontrolle. Oft ist es das, was Leben und Liebe ermöglicht weiterzuatmen.",
+            "**Manchmal bedeutet Reife nicht, mehr zu tragen, sondern bessere Ordnung zu bauen, damit Liebe andauert.** Das könnte bedeuten, Rhythmen zurückzusetzen, Verantwortungen zu benennen, die Hausführung zu vereinfachen, oder zuzugeben, dass das derzeitige Muster unhaltbar ist.",
+            "Gott kümmert sich nicht nur darum, ob Sie Ihre Menschen lieben. Er kümmert sich auch darum, dass diese Liebe von einer gesünderen Struktur getragen wird. Bringen Sie also heute einen sich wiederholenden Bereich des häuslichen Chaos vor Ihn. Bitten Sie nicht nur um Ausdauer, sondern um Weisheit, anders zu bauen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du verstehst, wie ein Zuhause durch viele kleine, unsichtbare Taten aufrechterhalten wird. Du siehst die Anstrengung, die ich aufbringe, um das Leben in Bewegung zu halten, und du siehst auch das angesammelte Chaos, das begonnen hat, etwas in mir zu verengen. Gib mir Weisheit, nicht nur auszuhalten, sondern Ordnung zu bauen. Hilf mir zu erkennen, was vereinfacht werden kann, was neu angeordnet werden muss, welche Verantwortungen klarer benannt werden sollten und welche Rhythmen sich ändern müssen. Wenn ich zu lange nur geflickt und absorbiert habe, hab Erbarmen mit mir und gib mir die Augen, anders zu bauen. Lass mein Zuhause nicht nur von der ständigen Anstrengung einer Person getragen werden, sondern durch deine Weisheit, bessere Ordnung und mehr Raum für Liebe zum Atmen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 14:1",
+              "book_code": "PRO",
+              "chapter": 14,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Die weise Frau bauet ihr Haus; aber die törichte reißet es mit ihren Händen ab."
+            },
+            {
+              "display": "1. Korinther 14:40",
+              "book_code": "1CO",
+              "chapter": 14,
+              "verses": "40",
+              "translation": "Lutherbibel 1912",
+              "text": "Alles geschehe ehrbar und ordentlich."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Treue alltägliche Verwaltung ist bereits eine Form der Fruchtbarkeit",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 31:27,30-31",
+            "book_code": "PRO",
+            "chapter": 31,
+            "verses": "27,30-31",
+            "translation": "Lutherbibel 1912",
+            "text": "Sie schauet auf die Geschäfte ihres Hauses und isset nicht träge Brot... Holdselig und schön ist nichts; ein Weib aber, das den Herrn fürchtet, wird gerühmet. Gebet ihr von dem Ertrag ihrer Hände und laßt sie rühmen ihre Werke an den Toren."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Die Jahre der Vollblüte können eine Frau leicht überzeugen, dass nur sichtbare Ergebnisse zählen. Beförderungen, Eigentum, erfolgreiche Projekte, Kinder, die gut abschneiden, und ein gut präsentiertes Leben scheinen alle messbar zu sein. Keine dieser Dinge sind von Natur aus schlecht. Aber wenn sie zur einzigen Weise werden, wie eine Frau Fruchtbarkeit bewertet, wird sie langsam einen tieferen Überfluss übersehen: die treue, wiederholte, meist unsichtbare Arbeit, die tatsächlich ein Zuhause und ein Leben aufrechterhalte.",
+            "Die Frau in Sprüche 31 wird nicht für einen dramatischen Moment geehrt. Sie wird durch Muster beschrieben: Sie bereitet vor, plant, arbeitet, versorgt, bemerkt, spricht mit Weisheit und streckt ihre Hände in Sorge aus. Ihr Leben ist fruchtbar nicht, weil es auffällig ist, sondern weil es stetig durch Weisheit geordnet wird. Das ist für viele Frauen in dieser Phase wichtig.",
+            "**Einige Formen der Fruchtbarkeit sind nicht Momente des Scheinwerferlichts, sondern die stille Würde, eine Frau zu werden, die das Gewöhnliche treu tragen kann.** Das bedeutet nicht, dass Sie niemals um Hilfe bitten sollten. Es bedeutet, dass Sie Ihre tägliche Treue nicht als unbedeutend einstufen sollten. Wenn Sie mit Ehrlichkeit, Aufmerksamkeit, Fleiß und Barmherzigkeit in den Aufgaben leben, die direkt vor Ihnen stehen, ist das auch Frucht.",
+            "Bringen Sie heute ein konkretes Haushaltsanliegen vor Gott—nicht mit Scham, sondern mit dem Wunsch, anders zu bauen. Nicht nur um Ausdauer, sondern um Weisheit, wie Sie das Alltägliche mit mehr Vertrauen, Ordnung und Liebe tragen können. Gottes Fruchtbarkeit ist manchmal nicht das Scheinwerferlicht, sondern die langsame Würde, treu zu sein."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du nicht nur die sichtbaren Ergebnisse, die andere messen können, wertest. Du siehst auch die lange Treue der alltäglichen Tage. Heile den Teil von mir, der sich nur würdig fühlt, wenn ich auf ein offensichtliches Ergebnis hinweisen kann. Lehre mich, tägliche Verwaltung durch deine Augen zu sehen. Wenn lange Verantwortung mich vergessen lässt, dass diese kleinen Taten echtes Gewicht haben, stell sowohl Würde als auch Klarheit bei mir wieder her. Und schütze mich davor, Treue in Selbstauslöschung oder Verantwortung in stillen Groll zu verwandeln. Mach mich zu einer Frau der Weisheit, Barmherzigkeit und des Rhythmus vor dir, damit das, was ich mit meinen Händen tue, nicht nur beschäftigt, sondern wirklich fruchtbar ist. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 31:27,30-31",
+              "book_code": "PRO",
+              "chapter": 31,
+              "verses": "27,30-31",
+              "translation": "Lutherbibel 1912",
+              "text": "Sie schauet auf die Geschäfte ihres Hauses und isset nicht träge Brot... Holdselig und schön ist nichts; ein Weib aber, das den Herrn fürchtet, wird gerühmet. Gebet ihr von dem Ertrag ihrer Hände und laßt sie rühmen ihre Werke an den Toren."
+            },
+            {
+              "display": "Johannes 15:16",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "16",
+              "translation": "Lutherbibel 1912",
+              "text": "Ihr seid nicht von mir auserwählet, sondern ich habe euch auserwählet und geordnet, daß ihr hingehen und Frucht bringet und eure Frucht bleibe."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

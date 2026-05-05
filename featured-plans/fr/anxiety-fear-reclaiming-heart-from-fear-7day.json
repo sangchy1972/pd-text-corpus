@@ -1,0 +1,521 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG03",
+    "slug": "reclaiming-heart-from-fear",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "anxiety-fear",
+      "secondary_label": "Anxiété et Peur"
+    },
+    "tags": [
+      "anxiete",
+      "peur",
+      "accablement",
+      "repos-en-dieu",
+      "confiance"
+    ],
+    "title": "Réclaimer Votre Cœur de la Peur",
+    "subtitle": "Ces sept jours approfondissent votre compréhension, vous aidant à découvrir l'insécurité, la tension et le besoin tranquille de contrôle qui se cachent souvent sous l'anxiété.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "anxieuse",
+        "accablée",
+        "craintive"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces sept jours approfondissent votre compréhension, vous aidant à découvrir l'insécurité, la tension et le besoin tranquille de contrôle qui se cachent souvent sous l'anxiété.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#B5C7E0",
+      "color_secondary": "#3B5775",
+      "image_key": "cover_woman_quiet_window_morning_light_anxiety",
+      "icon": "quiet-rock-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psaume 139:23-24",
+        "book_code": "PSA",
+        "chapter": 139,
+        "verses": "23-24"
+      },
+      {
+        "display": "Romains 8:15",
+        "book_code": "ROM",
+        "chapter": 8,
+        "verses": "15"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Mon anxiété n'a pas commencé du jour au lendemain",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 139:23-24",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "23-24",
+            "translation": "Louis Segond 1910",
+            "text": "Sonde-moi, ô Dieu, et connais mon cœur; essaie-moi, et connais mes pensées..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens réagissent d'abord à l'anxiété avec du jugement envers eux-mêmes : « Pourquoi suis-je comme cela ? » Cette question semble généralement dure, non curieuse. Mais l'anxiété jaillit rarement de nulle part. Plus souvent, elle se développe lentement au cours des années d'une sur-responsabilité excessive, d'instabilité, de déception, ou du besoin appris de rester préparé en permanence. Ce qui semble maintenant être une faiblesse peut en réalité être un schéma de survie qui a vécu en vous pendant longtemps.",
+            "Cela ne signifie pas que l'anxiété doit vous gouverner à jamais. Cela signifie que vous devrez peut-être la comprendre de manière plus douce si vous voulez un vrai renouvellement. La guérison profonde commence souvent quand le cœur cesse de dire « Je déteste être comme cela » et commence à demander « Seigneur, qu'est-ce qui a façonné cette vigilance en moi ? »",
+            "Le Psaume 139 offre un commencement tendre : « Sonde-moi, ô Dieu... et connaissances mes pensées. » Ce n'est pas la prière de l'auto-condamnation. C'est la prière de quelqu'un qui consent à laisser Dieu regarder de près avec vérité et miséricorde. Vous n'invitez pas une inspection en colère. Vous invitez l'attention d'un Dieu qui vous connaît déjà.",
+            "**La guérison profonde commence quand la peur n'est pas seulement gérée, mais doucement comprise en présence de Dieu.** Aujourd'hui, demandez : quand ai-je appris à rester si préparé ? Qu'est-ce qui a formé cette vigilance constante en moi ?",
+            "**Parfois, la guérison commence quand vous cessez de vous combattre vous-même et laissez Dieu rencontrer l'histoire plus profonde sous votre peur.** Ce genre de réflexion ne s'agit pas de vous perdre dans le passé. Il s'agit de laisser le Seigneur apporter sa miséricorde au lieu où la vigilance a d'abord pris racine, afin que votre avenir ne soit plus régi par elle.",
+            "Poser ces questions avec Dieu peut sembler tendre, mais cela crée souvent la sorte d'honnêteté où un vrai changement peut commencer sans honte. Il n'est pas impatient face au processus. En prière."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Dieu qui scrutes les cœurs, quand je me sens anxieux, je commence souvent par me blâmer moi-même au lieu de Te laisser montrer ce qui se passe vraiment en moi. Aujourd'hui, j'ouvre mon cœur à Toi avec la prière du psalmiste. Scrute-moi et connaissances mes pensées. Aide-moi à voir la peur, la tension et la vigilance longtemps cachées en moi — non pas pour que je me condamne davantage, mais pour que je commence à me connaître véritablement dans Ta miséricorde. Merci de voir le cœur sans le mépriser. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 139:23-24",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "23-24",
+              "translation": "Louis Segond 1910",
+              "text": "Sonde-moi, ô Dieu, et connais mon cœur; essaie-moi, et connais mes pensées..."
+            },
+            {
+              "display": "Philippiens 4:6-7",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "6-7",
+              "translation": "Louis Segond 1910",
+              "text": "Ne vous inquiétez de rien; mais en toute chose faites connaître vos demandes à Dieu par des prières et des supplications, avec des actions de grâces. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-Christ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "De quoi ai-je vraiment peur de perdre",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Genèse 16:13",
+            "book_code": "GEN",
+            "chapter": 16,
+            "verses": "13",
+            "translation": "Louis Segond 1910",
+            "text": "Elle donna au Seigneur qui lui parlait le nom de Dieu : Tu es le Dieu qui voit."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'anxiété semble souvent concerner de nombreuses choses. Vous vous inquiétez de la conversation, des finances, de la relation, du problème de santé, de l'avenir. En surface, les peurs semblent dispersées. Mais sous elles se trouve souvent quelque chose de plus concentré : une peur de perdre la sécurité, l'amour, le contrôle, l'appartenance, ou la prévisibilité. Parfois l'anxiété continue de se multiplier parce que la blessure plus profonde n'a pas encore été nommée.",
+            "L'histoire d'Agar dans la Genèse 16 est puissante ici. Dans le désert, sa douleur n'est pas seulement circonstancielle. Elle est vulnérable, invisible, et incertaine de ce qui viendra ensuite. Pourtant, en cet endroit elle rencontre le Dieu qui la voit. C'est important parce que cela nous montre que l'attention de Dieu va plus loin que les événements visibles.",
+            "Le Psaume 56 dit que Dieu garde nos larmes. Il voit non seulement la situation, mais la signification qu'elle a revêtue en vous. Il voit la peur sous l'inquiétude évidente. Il voit ce que vous craignez que cette perte ou cette incertitude ne dise de votre vie.",
+            "**Dieu ne calme pas seulement l'onde extérieure ; Il vient aussi à la blessure sous elle.** Aujourd'hui demandez : si cette peur se réalisait, qu'est-ce que j'aurais l'impression d'avoir vraiment perdu ? **Quand vous nommez la peur plus profonde, la prière devient souvent plus honnête et le réconfort de Dieu s'étend plus loin.**",
+            "Ne vous dépêchez pas de résoudre immédiatement cette peur plus profonde. Amenez-la à la vue de Dieu et dites-la clairement. Il n'a pas peur de ce qu'il y a de plus tendre en vous. Souvent, le vrai réconfort ne commence pas en surface. Il commence là où Dieu rencontre la peur cachée sous elle.",
+            "La peur plus profonde peut still prendre du temps à comprendre, mais la nommer devant Dieu allège souvent la pression de la porter seul et inaperçu. Être vu à cette profondeur fait partie de la guérison. Il peut tenir ce que vous découvrez là. Aujourd'hui."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, souvent je pense que je suis seulement inquiet pour les événements, mais Tu sais que la peur plus profonde est souvent liée à ce que je sens ne pouvoir perdre. Merci de voir les peurs que je n'ai jamais pleinement exprimées, tout comme Tu as vu Agar dans le désert. Aide-moi à comprendre ce que je redoute vraiment et ce que je crois que je perdrais si les choses s'effondraient. En ces lieux les plus vulnérables, révèle-Toi à moi comme le Dieu qui voit, se souvient et prend soin de moi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Genèse 16:13",
+              "book_code": "GEN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "Louis Segond 1910",
+              "text": "Elle donna au Seigneur qui lui parlait le nom de Dieu : Tu es le Dieu qui voit."
+            },
+            {
+              "display": "Psaume 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Mets mes larmes dans Ton outre."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Pourquoi ai-je tellement besoin de contrôler",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Louis Segond 1910",
+            "text": "Confie-toi en l'Éternel de tout ton cœur, et ne t'appuie pas sur ton intelligence; reconnais-le dans toutes tes voies, et il aplanira tes sentiers."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Quand la peur s'approfondit, le contrôle suit souvent. Le contrôle n'est pas toujours bruyant ou évident. Parfois, il ressemble à une vérification constante, une planification sans fin, une difficulté à se reposer et à être à l'aise avec l'attente. Vous ne pouvez pas penser à vous-même comme contrôlant, pourtant vous pouvez connaître le sentiment que si vous ne tenez pas les choses assez fermement, tout s'effondrera.",
+            "C'est pourquoi Proverbes 3 est une parole si importante pour les cœurs anxieux : « Ne t'appuie pas sur ton intelligence. » Le problème n'est pas que l'intelligence est mauvaise. Le problème est que les esprits anxieux essaient souvent de faire de l'intelligence un refuge. Nous nous disons que si nous analysons assez et nous préparons assez, nous serons enfin en sécurité.",
+            "Le Psaume 20 affine le contraste en montrant la différence entre faire confiance à la force visible et faire confiance au nom du Seigneur. Le contrôle peut tranquillement devenir une sorte de force privée sur laquelle nous nous appuyons le plus. Cela peut nous faire sentir préparés tout en laissant l'âme épuisée.",
+            "**La confiance n'est pas l'irresponsabilité. C'est redonner à Dieu la place que seul Il peut occuper.** Demandez-Lui de vous aider à discerner la différence entre la fidélité et le surcontrôle. **Dieu ne vous demande pas de devenir négligent. Il vous invite à cesser de traiter votre prise comme si c'était elle qui tenait le monde ensemble.**",
+            "Ce changement peut sembler vulnérable, mais il ouvre aussi la porte à un repos plus profond. Lâcher prise sur le surcontrôle ne signifie pas que vous cessiez de vous soucier. Cela signifie que vous cessez de confondre la gestion constante avec la paix, et commencez à apprendre la sécurité plus constante de la confiance.",
+            "Au fur et à mesure que vous apprenez cette différence, vous pouvez trouver que la reddition n'est pas la passivité. C'est une sorte de force plus constante que la peur ne peut jamais donner. Elle libère votre cœur pour respirer à nouveau. La confiance grandit chaque fois que vous desserrez votre prise et créez de la place pour que Dieu vous guide."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'admets que j'utilise souvent le contrôle pour essayer de créer une sécurité. Ce n'est pas que je ne veux pas vous faire confiance ; c'est que j'ai peur de ce qui pourrait se passer si je lâche prise. Montrez-moi où l'analyse, la planification et la vérification constante sont devenues mon refuge. Enseignez-moi doucement la différence entre la fidélité et le surcontrôle. Merci de être Celui qui tient vraiment le monde, et You n'avez pas besoin que je fasse votre travail pour vous. Aide-moi à être responsable où je dois l'être et rendre ma vie où je dois laisser aller. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Louis Segond 1910",
+              "text": "Confie-toi en l'Éternel de tout ton cœur, et ne t'appuie pas sur ton intelligence; reconnais-le dans toutes tes voies, et il aplanira tes sentiers."
+            },
+            {
+              "display": "Psaume 20:7",
+              "book_code": "PSA",
+              "chapter": 20,
+              "verses": "7",
+              "translation": "Louis Segond 1910",
+              "text": "Les uns se confient dans les chars, les autres dans les chevaux; mais nous, nous invoquons le nom de l'Éternel, notre Dieu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Comment Dieu entraîne un cœur anxieux à faire confiance",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Exode 16:4,18-19",
+            "book_code": "EXO",
+            "chapter": 16,
+            "verses": "4,18-19",
+            "translation": "Louis Segond 1910",
+            "text": "L'Éternel dit à Moïse : Voici, je vais faire pleuvoir du pain du ciel pour vous... Quand on le mesurait avec un omer, celui qui avait ramassé beaucoup n'avait rien de trop, et celui qui avait ramassé peu n'en manquait pas; chacun avait ramassé selon son besoin. Moïse dit : Que personne n'en laisse jusqu'au matin."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Nous voulons souvent que Dieu nous donne la carte entière. Nous voulons savoir où va la route, combien de temps durera la saison difficile, et quel en sera le résultat. Ce désir est compréhensible. L'incertitude rend les cœurs anxieux agités. Pourtant, l'Écriture montre que Dieu mène fréquemment en portions quotidiennes plutôt que en certitude à long terme.",
+            "Dans l'Exode 16, Dieu donne la manne dans le désert quotidiennement. Non pas parce qu'Il se délecte dans l'insécurité, mais parce qu'Il entraîne un peuple craintif à dépendre de Lui à plusieurs reprises. Jésus porte ce même schéma dans le Notre Père : « Donne-nous aujourd'hui notre pain quotidien. » Cette prière nous détourne de la demande à posséder demain à l'avance et nous ramène à la dépendance pour aujourd'hui.",
+            "L'anxiété veut plus que du pain quotidien. Elle veut des garanties. Mais souvent ce que Dieu donne, c'est assez de grâce pour ce jour, assez de sagesse pour cette décision, assez de force pour cette étape.",
+            "**Dieu forme souvent le futur par la fidélité quotidienne au présent.** Prenez une peur qui semble trop grande et demandez : qu'est-ce que l'« étape d'aujourd'hui » dans cela ? **Le pain quotidien peut sembler petit comparé à vos grandes questions, mais c'est souvent exactement comment Dieu développe la confiance dans un cœur craintif.**",
+            "Vous ne voyez peut-être pas encore toute la route. Vous pouvez toujours recevoir la portion de grâce que Dieu vous donne pour aujourd'hui. L'âme devient souvent plus constante non pas quand elle peut voir le plus loin, mais quand elle apprend à recevoir ce que Dieu donne maintenant.",
+            "Recevoir du pain quotidien peut sembler petit à un cœur anxieux, pourtant cela vous garde près de Dieu d'une façon que la certitude ne le fait souvent pas. La dépendance n'est pas un échec. C'est une formation. Et quand vous demanderez à nouveau cette grâce demain, vous n'échouez pas. Vous apprenez le rythme de la confiance. De nouveau. Maintenant."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'aimerais souvent voir tout l'avenir à la fois et recevoir assez de certitude pour arrêter d'avoir peur. Pourtant Tu conduis si souvent en portions quotidiennes. Enseigne-moi à ne pas mépriser la grâce d'aujourd'hui ou ignorer la provision que Tu donnes déjà parce que je ne peux pas encore voir loin. Aide-moi à transformer les grandes peurs en l'étape fidèle d'aujourd'hui. En dépendance quotidienne, forme en moi non pas l'impuissance, mais une confiance plus profonde en Toi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Exode 16:4,18-19",
+              "book_code": "EXO",
+              "chapter": 16,
+              "verses": "4,18-19",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel dit à Moïse : Voici, je vais faire pleuvoir du pain du ciel pour vous... Quand on le mesurait avec un omer, celui qui avait ramassé beaucoup n'avait rien de trop, et celui qui avait ramassé peu n'en manquait pas; chacun avait ramassé selon son besoin. Moïse dit : Que personne n'en laisse jusqu'au matin."
+            },
+            {
+              "display": "Matthieu 6:11",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "11",
+              "translation": "Louis Segond 1910",
+              "text": "Donne-nous aujourd'hui notre pain quotidien."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Quand l'anxiété s'installe dans votre corps et votre rythme",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Rois 19:5,7-8",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "5,7-8",
+            "translation": "Louis Segond 1910",
+            "text": "Il se coucha et s'endormit sous un genêt. Et voici, un ange le toucha et lui dit : Lève-toi, mange... L'ange de l'Éternel revint une seconde fois, le toucha, et dit : Lève-toi, mange; car le chemin est long pour toi. Il se leva, mangea et but; et, fortifié par cette nourriture, il marcha quarante jours et quarante nuits jusqu'à Horeb, la montagne de Dieu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Au fil du temps, l'anxiété ne reste rarement que dans l'esprit. Elle s'installe dans le corps et le rythme de la vie. Le sommeil devient peu profond. Les épaules restent tendues. Le repos commence à sembler suspect. Au moment où vous vous sentez mal à l'aise, vous vous instinctivement faites plus, cherchez plus, et préservez plus. Le corps devient partie de l'histoire.",
+            "Peut-être que cela ressemble à vérifier votre téléphone avant même d'ouvrir les yeux, boire du café pour devancer l'épuisement, ou s'allonger au lit avec votre corps immobile et votre esprit encore fonctionnant. **Quand la peur persiste assez longtemps, le corps commence à la parler aussi.** Cela ne signifie pas que votre corps est votre ennemi. Cela peut simplement dire la vérité sur combien de temps vous avez porté trop.",
+            "Le Premier Roi 19 nous donne Élie, épuisé et peur. Dieu ne commence pas en le grondant. Il donne le sommeil, la nourriture et les soins. Le Psaume 23 porte la même tendresse : le Seigneur mène à côté des eaux tranquilles et restaure l'âme. L'Écriture montre que le soin de Dieu n'est pas seulement mental ou spirituel dans un sens étroit. Il soigne les personnes entières.",
+            "**Parfois recevoir l'aide de Dieu commence par se laisser restaurer, pas seulement avancer.** Si l'anxiété s'est installée dans votre corps, que ce jour invite la gentillesse. **Le repos peut être un acte de confiance. La nourriture peut être une forme d'obéissance.**",
+            "Dieu ne veut pas seulement corriger vos pensées. Il veut aussi soigner votre cadre fatigué. Même le soin simple peut devenir une manière de recevoir sa gentillesse au lieu de continuer à vivre comme si la tension constante était normale.",
+            "Faire attention à ce genre de soin n'est pas une faiblesse. C'est une façon d'être d'accord avec Dieu que votre fatigue est importante pour Lui. Son soin est souvent plus calme que notre panique, mais pas moins réel. Son soin va là aussi aujourd'hui."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, Tu sais comme j'ai commencé à vivre tendu, et que cette tension n'est plus seulement dans mes pensées mais dans mon corps et mon rythme quotidien. Merci de ne pas simplement demander plus de moi ; Tu t'occupes aussi de moi comme un Berger. Aide-moi à remarquer mon épuisement et arrête d'ignorer mes limites. Enseigne-moi à répondre à Ton soin de manière pratique — à me reposer, à ralentir et à recevoir la restauration de Toi. Renouvelle mon corps et mon âme en Ta présence. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Rois 19:5,7-8",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "5,7-8",
+              "translation": "Louis Segond 1910",
+              "text": "Il se coucha et s'endormit sous un genêt. Et voici, un ange le toucha et lui dit : Lève-toi, mange... L'ange de l'Éternel revint une seconde fois, le toucha, et dit : Lève-toi, mange; car le chemin est long pour toi. Il se leva, mangea et but; et, fortifié par cette nourriture, il marcha quarante jours et quarante nuits jusqu'à Horeb, la montagne de Dieu."
+            },
+            {
+              "display": "Psaume 23:1-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1-3",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel est mon berger; je ne manquerai de rien. Il me fait reposer dans de verts pâturages, il me dirige près des eaux tranquilles. Il restaure mon âme, il me conduit dans les sentiers de la justice à cause de son nom."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Je n'ai pas besoin de guérir en isolation",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ecclésiaste 4:9-10",
+            "book_code": "ECC",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "Louis Segond 1910",
+            "text": "Deux valent mieux qu'un, parce qu'ils retirent un bon salaire de leur travail. Car si l'un tombe, l'autre le relève; mais malheur à celui qui est seul et tombe, sans qu'il y ait un second pour le relever."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Quand la peur s'approfondit, beaucoup de gens deviennent plus privés, plus gardés et moins disposés à laisser quiconque voir ce qui se passe à l'intérieur. L'isolement peut sembler plus sûr. Si personne ne voit votre besoin, personne ne peut le mal comprendre. Pourtant l'anxiété cachée grandit généralement, pas diminue. Le cœur commence à porter ses batailles seul, et cette solitude peut rendre la peur plus forte.",
+            "L'Ecclésiaste dit que deux valent mieux qu'un, et Galates dit aux croyants de porter les fardeaux les uns des autres. Ces passages nous rappellent que Dieu prend souvent soin des gens non seulement directement, mais par une présence humaine digne de confiance. Cela ne signifie pas partager tout avec tout le monde. La sagesse compte toujours. Mais l'anxiété devient plus puissante quand elle vous convainc que le silence est la force.",
+            "Vous pouvez répondre « Je vais bien » parce que vous ne voulez pas être un fardeau. Vous pouvez continuer à fonctionner si bien que personne ne réalise à quel point vous êtes fatigué ou effrayé. Mais la communauté chrétienne n'est pas censée être construite seulement autour des versions polies de nous-mêmes.",
+            "**Vous n'avez pas besoin de guérir en total secret.** Que ce jour soit une invitation à nommer un fardeau devant une personne sûre. **Demander la prière n'est pas une faiblesse ; c'est une manière de sortir de la chambre fermée de la peur.**",
+            "L'aide de Dieu vient souvent avec Sa présence, et parfois cette présence est apportée à nous par la douceur, la sagesse et la constance d'une autre personne. Briser le silence ne résout pas tout, mais cela allège souvent la prise de la peur.",
+            "Une conversation confiante ne résoudra pas tout, mais elle peut rappeler à votre cœur que le soutien fait partie de la provision de Dieu, non un signe d'échec. La grâce entre souvent par l'honnêteté simple. Le courage d'être connu est souvent plus petit et plus simple que nous l'imaginons, mais Dieu peut toujours l'utiliser pour apporter du soulagement. En pratique. Avec Lui. Quotidiennement."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je me recroqueville si facilement et je me dis que je devrais gérer tout seul. Mais Tu sais que porter des fardeaux seul ne m'a pas rendu plus fort ; cela m'a seulement rendu plus fatigué. Merci de ne pas m'avoir conçu pour marcher entièrement seul. Tu donnes aussi des gens et une communauté pour le soutien. Donne-moi le courage de tendre la main à la bonne personne et la sagesse de savoir qui est sûr et assez mûr pour marcher avec moi. Enseigne-moi à être tenu dans Ta famille au lieu de continuer à lutter en isolation. Et que Ton église devienne un endroit où les cœurs fatigués sont vraiment portés. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ecclésiaste 4:9-10",
+              "book_code": "ECC",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "Louis Segond 1910",
+              "text": "Deux valent mieux qu'un, parce qu'ils retirent un bon salaire de leur travail. Car si l'un tombe, l'autre le relève; mais malheur à celui qui est seul et tombe, sans qu'il y ait un second pour le relever."
+            },
+            {
+              "display": "Galates 6:2",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "Portez les fardeaux les uns des autres."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "La peur peut revenir, mais elle n'a pas besoin de me dominer",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Romains 8:15",
+            "book_code": "ROM",
+            "chapter": 8,
+            "verses": "15",
+            "translation": "Louis Segond 1910",
+            "text": "Vous n'avez pas reçu un esprit de servitude pour être encore dans la crainte; mais vous avez reçu un Esprit d'adoption..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'objectif le plus honnête de ce voyage n'est pas « Je ne me sentirai jamais anxieux à nouveau. » L'anxiété peut encore vous visiter. Certaines saisons peuvent encore vous tester. Les anciens schémas peuvent essayer de revenir. L'objectif de ce voyage n'a jamais été de promettre une vie dans laquelle la peur disparaît complètement. C'était de vous aider à apprendre un centre différent.",
+            "Romains 8 nous rappelle que nous n'avons pas reçu l'esprit de servitude, mais celui d'adoption. La peur parle comme un maître d'esclave. Elle presse, pousse et rétrécit le cœur. Mais l'Esprit parle comme Celui qui nous ramène au Père. Jean 14:27 ajoute que Christ donne une paix différente de celle du monde, et Ésaïe 41:10 nous rappelle que la réponse de Dieu à la peur est sa propre présence : « Je suis avec toi. »",
+            "Cela signifie que la victoire la plus profonde sur l'anxiété n'est pas la perfection émotionnelle. C'est l'appartenance. Vous n'êtes pas une personne abandonnée pour gérer la vie seule. **La liberté de la peur commence souvent par se souvenir de celui dont la présence définit maintenant votre vie.**",
+            "Donc quand l'anxiété se lève à nouveau, votre première réaction n'a pas à être la panique ou la honte. **Vous pouvez revenir plus rapidement à la vérité que vous appartenez à Dieu, et il est avec vous.** C'est ainsi que l'âme apprend à vivre moins comme une captive et plus comme un enfant bien-aimé. Même quand la peur parle, elle n'a pas le dernier mot sur votre identité, votre prière ou votre prochain pas.",
+            "Cela ne signifie pas que le voyage est terminé. Cela signifie que vous savez maintenant plus clairement où revenir quand la peur se lève à nouveau. Et ce retour lui-même est déjà une croissance. Et plus souvent vous revenez là, moins d'autorité la peur retient sur la façon dont vous interprétez votre vie. Avec le temps. Devant Dieu. Là maintenant."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci que ces sept jours n'aient pas seulement conforté mes émotions, mais ont aussi commencé à reconstruire mon cœur. Écris l'évangile plus profondément en moi, afin que je me souvienne que je ne suis pas une personne menée par la peur, mais une personne reçue et soutenue par Toi. Même si l'anxiété revient à l'avenir, aide-moi à revenir plus rapidement à Ta Parole, à me souvenir plus facilement de Ta présence, et à me tenir plus fermement dans l'identité que Tu m'as donnée. Que Ta paix devienne plus qu'un sentiment passager. Que cela refaçonne comment je me comprends, ma vie et mon avenir. Et que le réconfort que je reçois de Toi devienne une partie de la façon dont je réconforte les autres. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Romains 8:15",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "15",
+              "translation": "Louis Segond 1910",
+              "text": "Vous n'avez pas reçu un esprit de servitude pour être encore dans la crainte; mais vous avez reçu un Esprit d'adoption..."
+            },
+            {
+              "display": "Jean 14:27",
+              "book_code": "JHN",
+              "chapter": 14,
+              "verses": "27",
+              "translation": "Louis Segond 1910",
+              "text": "Je vous laisse la paix, je vous donne ma paix. Ce n'est pas comme le monde la donne que je vous la donne. Que votre cœur ne se trouble point, et ne s'alarme point."
+            },
+            {
+              "display": "Ésaïe 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Ne crains point, car je suis avec toi; ne te regarde point avec anxiété, car je suis ton Dieu; je te fortifie, je t'aide, je te soutiens de ma droite triomphante."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

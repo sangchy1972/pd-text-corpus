@@ -1,0 +1,253 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG13",
+    "slug": "right-to-disconnect",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardim das Emoções",
+      "secondary": "weariness-burnout",
+      "secondary_label": "Cansaço e Esgotamento"
+    },
+    "tags": [
+      "cansaco",
+      "esgotamento",
+      "descanso",
+      "pastor",
+      "limites",
+      "sabado"
+    ],
+    "title": "O Direito de se Desconectar",
+    "subtitle": "Para quem está tão cansada que quer desligar tudo, fazer silêncio e parar de responder por um tempo.",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "cansada",
+        "esgotada",
+        "exausta"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para quem está tão cansada que quer desligar tudo, fazer silêncio e parar de responder por um tempo.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#A3C8B5",
+      "color_secondary": "#355945",
+      "image_key": "cover_woman_resting_pillow_morning_burnout",
+      "icon": "quiet-tea-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Marcos 6:31",
+        "book_code": "MRK",
+        "chapter": 6,
+        "verses": "31"
+      },
+      {
+        "display": "Mateus 11:28-30",
+        "book_code": "MAT",
+        "chapter": 11,
+        "verses": "28-30"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Não Sou Distante; Apenas Estou Há Muito Tempo Conectada",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Marcos 6:31",
+            "book_code": "MRK",
+            "chapter": 6,
+            "verses": "31",
+            "translation": "Almeida",
+            "text": "E disse-lhes: Vinde vós, apartados para um lugar deserto, e repousai um pouco; porque havia muitos que iam e vinham, e nem ainda tinham tempo para comer."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O cansaço de muitas pessoas não começa com um grande acontecimento, mas com o hábito de nunca se desligar completamente. Você responde ao trabalho, depois à família, depois às mensagens, depois às tensões emocionais, depois às preocupações de amanhã. Até o silêncio fica repleto. Muitas mulheres conhecem o que é ser acessível o dia inteiro e ainda sentir culpa por querer uma hora tranquila em que ninguém precise de nada dela.",
+            "É por isso que o convite de Jesus em Marcos 6 soa tão terno. Ele vê seus discípulos desgastados pela demanda constante e diz que venham descansar. A Escritura até diz que não tinham tempo nem para comer. Deus não ignora esse tipo de depleção. O Salmo 23 oferece o mesmo consolo de outra forma. O Pastor não apenas guia; Ele faz suas ovelhas se deitarem e restaura suas almas. **Às vezes, o desejo de se desconectar não é egoísmo. É um sinal de que sua alma está vivendo sem alimento suficiente.**",
+            "Nem todo cansaço é resolvido tentando ser mais gentil, mais disponível ou mais eficiente. É amenizado quando você para de tratar a acessibilidade constante como santidade. Muitas mulheres aprenderam silenciosamente a confundir ser confiável com estar perpetuamente aberta. Mas essas não são a mesma coisa. O amor oferecido pela depleção começa a perder calor. A atenção espalhada em todas as direções não pode permanecer profunda por muito tempo.",
+            "Talvez a questão espiritual mais verdadeira não seja: \"Por que quero dar um passo atrás?\", mas: \"Quanto tempo venho vivendo sem descanso?\". Há sabedoria em aprender quando desligar o telefone, quando responder depois e quando deixar o silêncio permanecer silêncio. **Uma vida fiel não é aquela em que você está acessível a cada momento. É aquela em que sua alma permanece cuidada por Deus.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, venho a Ti e admito que estou cansada. Frequentemente tratei a disponibilidade constante como fidelidade, e esqueci que eu também preciso descansar. Obrigada por ser meu Pastor, não apenas quando sou forte, mas também quando estou desgastada. Perdoa-me por confundir ocupação com maturidade. Conduz-me junto a águas tranquilas e ensina-me a não temer a pausa. Deixa meu coração se aquietar diante de Ti, e deixa fronteiras mais sábias começarem a se formar em minha vida. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Marcos 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "Almeida",
+              "text": "E disse-lhes: Vinde vós, apartados para um lugar deserto, e repousai um pouco; porque havia muitos que iam e vinham, e nem ainda tinham tempo para comer."
+            },
+            {
+              "display": "Salmo 23:1-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1-3",
+              "translation": "Almeida",
+              "text": "O Senhor é o meu pastor; nada me faltará. Deitar-me faz em pastos verdejantes, guia-me junto a águas tranquilas. Restaura-me a alma."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Deus Não Se Afasta Quando Preciso Fazer uma Pausa",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "1 Reis 19:5-6,8",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "5-6,8",
+            "translation": "Almeida",
+            "text": "E deitou-se debaixo de um zimbro, e dormiu. Mas um anjo o tocou, e lhe disse: Levanta-te, come. Então se levantou, comeu, e bebeu, e, com a força daquela comida, caminhou quarenta dias e quarenta noites."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas pessoas não têm mais medo do cansaço em si. Têm medo do que a pausa pode revelar. Se você passou muito tempo segurando a vida junta, a pausa pode parecer perigosa. Pesar não sentido pode emergir. Raiva pode vir à tona. Você pode ter que admitir que não está lidando tão bem quanto todos assumem. Para uma mulher acostumada a ser confiável, até essa admissão pode parecer perda.",
+            "A história de Elias é bela porque Deus não responde ao colapso com repreensão. Ele responde com cuidado. Elias dorme. Elias come. É cuidado antes de ser redirecionado. O Salmo 103 diz que Deus se lembra de que somos pó. Isso não é uma afirmação dismissiva. É uma compassiva. **Deus não espera que você seja menos humana para ser mais espiritual.**",
+            "Isso importa em temporadas de esgotamento. Algumas mulheres aprenderam a ignorar todo sinal de depleção até que o corpo ou a alma finalmente forçe uma parada. Então a vergonha se aproxima, como se precisar de cuidado fosse um fracasso de caráter. Mas o Senhor que nos criou não fica escancarizado por nossos limites. Ele não se afasta quando os admitimos. Muito frequentemente Ele se aproxima mais ainda.",
+            "Viver fielmente não é fingir que você não precisa de nada. É ser honesta sobre o que a restauração requer e recebê-la sem desprezo. Sono, nutrição, silêncio, lágrimas, amizade, ajuda, cuidado médico e ritmos mais gentis todos pertencem à mesma vida com oração. **Às vezes a graça se parece menos com força súbita e mais com ser cuidada por Deus de formas muito ordinárias.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Misericordioso, Tu sabes que sou pó, e sabes como facilmente me culpo quando desacelero. Obrigada por seres mais gentil comigo do que sou comigo mesma. Quando me vês desgastada, não te apressas primeiro em condenar. Mostras compaixão. Cura a parte de mim que tem medo de limites, e dá-me humildade para receber cuidado e ajuda. Se eu continuar me forçando muito, para-me em amor. Pastoreia-me em descanso honesto e ensina-me a viver como um ser humano, não como uma máquina. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "1 Reis 19:5-6,8",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "5-6,8",
+              "translation": "Almeida",
+              "text": "E deitou-se debaixo de um zimbro, e dormiu. Mas um anjo o tocou, e lhe disse: Levanta-te, come. Então se levantou, comeu, e bebeu, e, com a força daquela comida, caminhou quarenta dias e quarenta noites."
+            },
+            {
+              "display": "Salmo 103:13-14",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "13-14",
+              "translation": "Almeida",
+              "text": "Como um pai se compadece de seus filhos, assim o Senhor se compadece dos que o temem. Porque ele conhece a nossa estrutura, e lembra-se de que somos pó."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "A Verdadeira Recuperação Começa Ao Se Reconectar com Deus, Não com Demandas",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Mateus 11:28-30",
+            "book_code": "MAT",
+            "chapter": 11,
+            "verses": "28-30",
+            "translation": "Almeida",
+            "text": "Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei... Porque o meu jugo é fácil, e o meu fardo é leve."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas pessoas pensam em recuperação como um caminho para se tornarem eficientes novamente. Elas descansam para poderem voltar mais fortes ao mesmo ciclo exaustivo. Naquele tipo de vida, até o descanso se torna um instrumento de desempenho. Só é valioso se te ajuda a produzir mais.",
+            "Jesus oferece algo melhor. Ele convida os cansados a virem para Ele. Fala de um jugo mais leve, não meramente uma recuperação mais rápida. João 15 aprofunda esse convite ao usar a linguagem de permanecer. Isso significa que a renovação não é principalmente um problema de agendamento. É uma questão relacional. Uma mulher pode se afastar do barulho por um tempo e ainda retornar à mesma luta interna se nunca verdadeiramente retornar a Deus. **A verdadeira restauração não começa quando você é produtiva novamente. Começa quando seu coração está reconectado Àquele que decide o que é verdadeiramente seu para carregar.**",
+            "Então o passo mais profundo na recuperação frequentemente não é dormir um pouco mais, mas reaprender a começar cada dia primeiro em silêncio diante do Senhor. Não é deixar o mundo dizer quantas coisas você tem para fazer, mas deixar Deus dizer o que é verdadeiramente seu para carregar e o que não é mais. Esse tipo de vida muda lentamente de ser arrastada para ser guiada.",
+            "No final, o que as pessoas realmente precisam não é retornar àquele eu anterior que podia carregar qualquer coisa, mas se tornar uma mulher que vive mais conectada a Cristo do que à demanda. Tal vida ainda trabalha, ainda serve, ainda ama. Mas não tira mais toda sua força da pressão. Quando uma pessoa se reconecta com Deus, a recuperação não é apenas a restauração do corpo, mas se torna lentamente um novo jeito de viver."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, agradeço porque Tu não és um mestre que me empurra mais, mas o Salvador que me convida a vir e descansar. Frequentemente quero recuperação rápida apenas para poder retornar à mesma tensão. Livra-me desse ciclo. Mostra-me qual fardos vêm de Ti e quais eu me recuso a soltar. Deixa-me retornar a Ti antes de retornar à demanda. Sem Ti, até meu esforço me deixa vazia. Mantém-me permanecendo em Ti, e deixa a força emergir da comunhão em vez da pressão. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Mateus 11:28-30",
+              "book_code": "MAT",
+              "chapter": 11,
+              "verses": "28-30",
+              "translation": "Almeida",
+              "text": "Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos aliviarei... Porque o meu jugo é fácil, e o meu fardo é leve."
+            },
+            {
+              "display": "João 15:4-5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "4-5",
+              "translation": "Almeida",
+              "text": "Permanecei em mim, e eu permanecerei em vós... porque sem mim nada podeis fazer."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

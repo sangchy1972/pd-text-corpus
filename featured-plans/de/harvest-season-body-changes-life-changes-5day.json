@@ -1,0 +1,372 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS08",
+    "slug": "body-changes-life-changes",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Lebensjahreszeiten",
+      "secondary": "harvest-season",
+      "secondary_label": "Erntezeit"
+    },
+    "tags": [
+      "lebensmitte",
+      "koerperliche-veraenderungen",
+      "neuausrichtung",
+      "weisheit",
+      "perimenopause",
+      "menopause"
+    ],
+    "title": "Wenn sich der Körper ändert und das Leben auch",
+    "subtitle": "Gott begegnen in körperlicher Veränderung, inneren Verschiebungen und einer neuen Frauenphase",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "vierziger-fünfziger",
+        "Lebensmitte"
+      ],
+      "emotional_state": [
+        "nachdenklich",
+        "sich neu orientierend",
+        "Veränderung annehmend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Für Frauen, die körperliche Veränderung, wechselnde Energie und die inneren Fragen bewältigen, die oft in einer neuen Lebensphase aufkommen.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#E8B888",
+      "color_secondary": "#7A4A2C",
+      "image_key": "cover_woman_open_window_autumn_warm",
+      "icon": "ripening-fruit-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 139:13-14",
+        "book_code": "PSA",
+        "chapter": 139,
+        "verses": "13-14"
+      },
+      {
+        "display": "Hiob 12:12-13",
+        "book_code": "JOB",
+        "chapter": 12,
+        "verses": "12-13"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Wenn sich der Körper ändert, muss sich das Selbstverständnis auch vertiefen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 139:13-14",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "13-14",
+            "translation": "Lutherbibel 1912",
+            "text": "Denn du hast meine Nieren gemacht; du hast mich gebildet im Mutterleibe. Ich danke dir dafür, daß ich so wunderbar bereitet bin."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Körperliche Veränderung kommt selten über Nacht. Sie kann mit Schlafstörungen, Müdigkeit, Stimmungsschwankungen, sich ändernden Zyklen und verminderter Konzentration beginnen, oder mit dem subtilen Gefühl, dass das einmal so vertraute Selbst plötzlich unvorhersehbar geworden ist. Für viele Frauen ist die schwierigste Seite nicht nur die Symptome. Es ist die Weise, wie Veränderung die Identität auf praktischer Ebene erschüttert. Du warst vielleicht lange die Frau, die tragen konnte, sich erholen konnte, vieles gleichzeitig bewältigen konnte und durchhalten konnte. Nun sagt der Körper selbst: Diese Jahreszeit kann nicht mehr ganz wie früher gelebt werden.",
+            "Der Psalm sagt, dass wir wunderbar gefertigt sind. In der Lebensmitte kann diese Wahrheit zu einer anderen Art von Trost werden. Gott hat nicht aufgehört, deinen Körper zu kennen, weil er eine neue Phase betreten hat. Er hat nicht seine Fürsorge zurückgezogen, weil sich deine Rhythmen verschoben haben. Wir lesen körperliche Veränderung oft als Kontrollverlust oder als persönliches Versagen. Gott tut das nicht.",
+            "Er erinnert sich daran, dass wir Staub sind. Das bedeutet, dass seine Fürsorge für dich nie abstrahiert ist von deiner physischen Realität.",
+            "**Reife bedeutet manchmal, nicht mehr zu verlangen, dass dein Körper dir genau wie ehemals dient, sondern ihn mit Ehrfurcht und Erbarmen neu zu kennen.** Das ist keine Kapitulation vor der Niederlage. Es ist eine Bewegung von Feindseligkeit zu Verwaltung, von Schande zu Ehrlichkeit.",
+            "So ist vielleicht eine der geistlichsten Sachen, die du heute tun kannst, deinem Körper nicht zu befehlen, vorzutäuschen, dass er noch in einem anderen Jahrzehnt lebt. Bitte stattdessen um Weisheit für die Jahreszeit, in der du wirklich bist."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe ein, dass meine erste Reaktion auf körperliche Veränderung oft Angst, Frustration und sogar Scham ist. Ich bin an eine bestimmte Lebensweise gewöhnt geworden und habe Kontinuität mit Sicherheit verwechselt. Danke, dass du mein Wissen um mich und dein Erbarmen mir gegenüber nicht verringert hast, nur weil mein Körper eine neue Phase betreten hat. Lehre mich, mir selbst mit größerer Ehrlichkeit und Sanftheit zu begegnen. Halte mich davon ab, endlose Gefügigkeit von meinem Körper zu verlangen oder Begrenzung als Misserfolg zu lesen. Gib mir frische Weisheit dafür, wie ich mich pflegen, anpassen und weiterhin wahrheitsgetreu in dem Körper leben kann, der immer noch dir gehört. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 139:13-14",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "13-14",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn du hast meine Nieren gemacht; du hast mich gebildet im Mutterleibe. Ich danke dir dafür, daß ich so wunderbar bereitet bin."
+            },
+            {
+              "display": "Psalm 103:13-14",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "13-14",
+              "translation": "Lutherbibel 1912",
+              "text": "Wie sich ein Vater über Kinder erbarmet, so erbarmet sich der HERR über die, so ihn fürchten. Denn er kennet unser Gebilde; er gedenketh daran, daß wir Staub sind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Erhöhte Verletzlichkeit bedeutet nicht größere Entfernung von Gott",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jesaja 46:3-4",
+            "book_code": "ISA",
+            "chapter": 46,
+            "verses": "3-4",
+            "translation": "Lutherbibel 1912",
+            "text": "Höret mir zu, ihr vom Hause Jakob und der ganze Rest des Hauses Israel, die ihr von Mutterleibe an von mir getragen werdet, die von mir her geboren sind! Bis in euer Alter bin ich euer Gott, und bis ihr ergraut werdet, will ich euch tragen. Ich habe es getan, ich will heben und euch erretten."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Während sich der Körper und der innere Zustand verändern, wird die Verletzlichkeit oft deutlicher. Ein schlechter Nachtschlaf zieht sich länger hin. Emotionale Verschiebungen verweilen länger im Körper. Die Genesung braucht mehr Zeit. Was früher mit Willenskraft überwunden werden konnte, reagiert nun nicht mehr auf Willenskraft in derselben Weise. Für eine Frau, die lange kompetent, belastbar und zuverlässig war, kann das desorientierend wirken. Es kann sich anfühlen, als würde man weniger brauchbar.",
+            "Aber Paulus gibt uns einen besseren Rahmen. Gottes Kraft wird in Schwachheit vollendet. Schwachheit wird nicht um ihrer selbst willen gepriesen. Vielmehr zerstört Schwachheit die Illusion von Selbstgenügsamkeit. Die Lebensmitte bringt Frauen oft in engeren Kontakt mit ihren Grenzen, nicht nur körperlich, sondern auch emotional und energetisch. Das Evangelium fordert dich nicht auf, dies zu verleugnen. Es lädt dich ein zu entdecken, dass Gott sich nicht entfernt, wenn du bewusster wirst für deine Begrenzungen.",
+            "Oft wird er dort tiefer bekannt.",
+            "**Verletzlichkeit bedeutet nicht automatisch Verfall. Manchmal bedeutet es, dass Gott dich von Selbstverlass in wahre Abhängigkeit führt.** Das ist keine glanzvolle Reife, aber es ist tief wirklich.",
+            "So ist die Frage vielleicht nicht nur noch: \"Warum bin ich nicht mehr dasselbe?\" Sie wird auch: \"Herr, wie möchtest du mir in der Schwachheit, die ich nun trage, begegnen?\" Diese Frage öffnet eine andere Art von Kraft."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe ein, dass ich diesen Zustand, mehr von meinen Grenzen zu spüren, nicht leicht empfinde. Verletzlichkeit fühlt sich nicht natürlicherweise wie Gnade an. Sie fühlt sich wie eine Erinnerung an das an, was sich verändert hat. Und doch sagst du, dass deine Gnade genügt. Halte mich davon ab, mich zurückzuziehen, weil ich mich endlicher fühle, und halte mich davon ab, mich selbst zu verachten, weil ich nicht mehr so bin wie vorher. Wenn du diesen Wandel nutzt, um meine Abhängigkeit von mir selbst zu lockern, tue das Werk sanft. Und lass mich dich tiefer in diesem Prozess kennen. Möge ich nicht in Verzweiflung fallen wegen Begrenzung, sondern mich wahrer von dir in ihr getragen fühlen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jesaja 46:3-4",
+              "book_code": "ISA",
+              "chapter": 46,
+              "verses": "3-4",
+              "translation": "Lutherbibel 1912",
+              "text": "Höret mir zu, ihr vom Hause Jakob und der ganze Rest des Hauses Israel, die ihr von Mutterleibe an von mir getragen werdet, die von mir her geboren sind! Bis in euer Alter bin ich euer Gott, und bis ihr ergraut werdet, will ich euch tragen. Ich habe es getan, ich will heben und euch erretten."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Einige Veränderungen sind keine Fehler, sondern Einladungen, das Leben neu zu ordnen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "2. Mose 16:16-18",
+            "book_code": "EXO",
+            "chapter": 16,
+            "verses": "16-18",
+            "translation": "Lutherbibel 1912",
+            "text": "Das ist das Wort, das der HERR geboten hat: Sammelt davon, jeder so viel er genießet; einen Gomer für eine Person, nach der Zahl euer Seelen, sammelt jeder für die in seinem Gezelte. ... Da geschah's: wer viel sammelte, hatte nicht überflüssig, und wer wenig sammelte, der hatte keinen Mangel."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Ein häufiger Irrtum in den mittleren Jahren ist, jede Veränderung als Fehler zu behandeln. Der Körper reagiert nicht mehr wie zuvor? Etwas ist falsch. Mehr Ruhe ist nötig? Etwas ist falsch. Die alten Rhythmen funktionieren nicht mehr? Etwas ist falsch. Unser erster Instinkt wird: Wie kann ich die frühere Version meiner selbst wiederherstellen?",
+            "Das soll nicht die Wichtigkeit von medizinischer Versorgung oder weiser Behandlung in Frage stellen. Natürlich ist das wichtig. Aber daneben brauchen viele Frauen auch eine geistige Umrahmung. Nicht jede Veränderung soll einfach rückgängig gemacht werden. Manche Veränderungen sind Einladungen, anders zu leben.",
+            "In der Wüste lehrte Gott Israel, Manna einen Tag nach dem anderen zu empfangen. Er schulte ihre Beziehung zu Versorgung und Rhythmus neu. Auf andere Weise kann körperliche Veränderung die Beziehung einer Frau zu Arbeit, Ruhe, Ernährung, Tempo und persönlichen Grenzen neu schulen. Sie mag mehr Schlaf erfordern, mehr Überlegung, weniger Überanstrengung und sanftere Struktur. Das kann frustrierend wirken. Aber es kann auch heilige Anweisung sein.",
+            "**Manche Veränderungen sollen nicht nur behoben werden. Sie sollen auch angehört werden.** Frag dich heute: Was versuche ich am verzweifeltsten \"wieder normal\" zu machen? Frage dann vor Gott, ob diese Jahreszeit möglicherweise um ein neu geordnetes Leben bittet. Die Weisheit der Lebensmitte besteht oft nicht darin, das alte Muster wiederherzustellen. Sie besteht darin, demütig ein neues zu empfangen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe ein, dass ich oft alles einfach nur in seine frühere Form reparieren möchte, weil alte Muster mir sicherer vorkommen. Aber wenn du diesen Wandel nutzt, mir zu zeigen, dass manche Lebensweisen nicht mehr aufrecht erhalten werden können, gib mir Demut und Weisheit. Lehre mich, nicht nur zu widerstehen, sondern auch zu hören. Zeige mir, was Behandlung braucht, was Anpassung braucht, was Verlangsamung braucht und was Neuordnung braucht. Halte mich davon ab, die alte Version meiner selbst für immer zu verlangen, und halte mich davon ab, Veränderung in ständige Beschwerde zu verwandeln. Lass mich nicht nur mit einer neuen Phase fertig werden, sondern sie auf neue Weise vor dir leben. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "2. Mose 16:16-18",
+              "book_code": "EXO",
+              "chapter": 16,
+              "verses": "16-18",
+              "translation": "Lutherbibel 1912",
+              "text": "Das ist das Wort, das der HERR geboten hat: Sammelt davon, jeder so viel er genießet; einen Gomer für eine Person, nach der Zahl euer Seelen, sammelt jeder für die in seinem Gezelte. ... Da geschah's: wer viel sammelte, hatte nicht überflüssig, und wer wenig sammelte, der hatte keinen Mangel."
+            },
+            {
+              "display": "Sprüche 3:7-8",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "7-8",
+              "translation": "Lutherbibel 1912",
+              "text": "Halte dich nicht selbst für weise; fürchte den HERRN und weiche von dem Bösen. Das wird deinem Fleische heilsam und erquickend deinen Gebeinen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Wenn sich Gefühle mit dem Körper verändern, bleibt Gott stabil",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Hebräer 13:8",
+            "book_code": "HEB",
+            "chapter": 13,
+            "verses": "8",
+            "translation": "Lutherbibel 1912",
+            "text": "Jesus Christus, gestern und heute und derselbe auch in Ewigkeit!"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Körperliche Veränderung bleibt selten nur körperlich. Viele Frauen bemerken, dass sie empfindlicher, leichter reizbar, unerwartet traurig oder weniger emotional widerstandsfähig werden als zuvor. Das kann tiefgreifend frustrierend sein, besonders wenn du weißt, dass du diese Reaktionen nicht wählst und dennoch in ihnen leben musst.",
+            "Der Brief an die Hebräer sagt, dass Jesus Christus gestern, heute und für immer dasselbe ist. Diese Wahrheit wird kostbar in Jahreszeiten innerer Schwankung. Sie verneint deine emotionalen Verschiebungen nicht. Sie verankert sie. Wenn du dich unverhältnismäßig fühlst, bleibt Christus sich selbst. Er ist nicht weniger gegenwärtig, weil deine Gefühle weniger stabil sind. Er ist nicht weniger mitfühlend, weil deine innere Welt schwieriger zu handhaben ist.",
+            "**Manchmal bedeutet Glaube nicht, schnell Ruhe wiederzuerlangen. Er bedeutet zu wissen, dass Gott sich nicht verändert hat, obgleich du überall in dir selbst Veränderung spürst.** Diese Art von Stabilität kann eine Frau halten, wenn das Vertrauen in sich selbst wacklig ist.",
+            "So fang heute, wenn deine Gefühle wetterhaft und schwer vorherzusehen sind, nicht nur mit Selbstvorwurf an. Fang auch bei Gottes Beständigkeit an. Du musst nicht erst leichter zu leben werden, ehe du von ihm empfangen kannst. Er bleibt stabil genug für deinen Körper und deine Seele."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, wenn sogar meine eigenen Reaktionen mir selbst fremd zu werden beginnen, danke ich dir, dass du dich nicht verändert hast. Du kennst die Reizung, Traurigkeit, Empfindlichkeit und Müdigkeit, die ich nicht immer erklären kann, und du weißt, wie leicht sie mich in Selbstvorwurf führen. Halte mich in diesen Schwankungen. Halte mich davon ab, den gegenwärtigen inneren Zustand als meine endgültige Definition zu behandeln. Am Morgen lass mich deine Güte wieder hören und zeige mir, wie ich heute gehen soll. Lehre mich, mich tiefer auf deine Beständigkeit zu verlassen, nicht weil ich bereits Ruhe gefunden habe, sondern weil du zuverlässig bleibst. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Hebräer 13:8",
+              "book_code": "HEB",
+              "chapter": 13,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Jesus Christus, gestern und heute und derselbe auch in Ewigkeit!"
+            },
+            {
+              "display": "Psalm 143:8",
+              "book_code": "PSA",
+              "chapter": 143,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Laß mich am Morgen deine Güte hören; denn ich verlasse mich auf dich. Laß mich wissen den Weg, den ich wandern soll; denn zu dir hebe ich meine Seele auf."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Diese Phase mag eine Vertiefung sein, nicht nur ein Verlust",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Hiob 12:12-13",
+            "book_code": "JOB",
+            "chapter": 12,
+            "verses": "12-13",
+            "translation": "Lutherbibel 1912",
+            "text": "Bei den Alten ist die Weisheit, und in langer Lebenszeit die Erkenntnis. Bei Gott ist Weisheit und Kraft, Rat und Verstand."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Ein Grund, warum körperliche Veränderung so schmerzhaft wirkt, ist, dass sie ständige Aufmerksamkeit auf das zu lenken scheint, was verloren gegangen ist. Weniger Energie. Weniger Vorhersehbarkeit. Weniger leichte Genesung. Weniger Vertrautheit. Wenn eine Frau diese Phase nur mit der Sprache des Verlusts betritt, könnte sie verfehlen, was Gott sonst noch geben mag.",
+            "Was Gott in diesen Jahren gibt, sieht vielleicht nicht glänzend aus. Es mag nicht Leichtigkeit sein. Aber es mag größere Ehrlichkeit sein, weiseres Tempo, schärferes Urteilsvermögen, wahrheitsgetreuere Selbstpflege und eine andere Art von Stabilität. Hiob sagt, dass mit dem Alter Weisheit kommt. Alter macht eine Person nicht automatisch reif, aber Zeit kann eines von Gottes Werkzeugen zur Bildung von Tiefe werden.",
+            "Für viele Frauen zwingt diese Phase zu einer Neubewertung dessen, was Wert wirklich ist. Es wird schwächer, sich nur durch Ausdauer, Effizienz oder Willenskraft zu definieren. Diese Störung kann unwillkommen wirken, aber sie kann auch eine Tür zu einer wahrereren Art von Reife werden.",
+            "**Diese Jahreszeit mag nicht leichter sein, aber sie mag ehrlicher und gewichtiger vor Gott sein.** Leugne die Verluste also nicht. Benenne sie. Aber halte dort nicht inne. Frage, welche Weisheit auch hinzugefügt wird. Diese Frage mag dir helfen, diese Phase nicht mit Feindseligkeit, sondern mit Ehrfurcht zu betreten."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe ein, dass ich leicht nur sehe, was diese Jahreszeit genommen hat, und viel weniger leicht bemerke, was du möglicherweise auch gibst. Wenn diese Phase mich lehrt, Rhythmus, Grenzen, Ehrlichkeit und Fürsorge, halte mich davon ab, nur mit Unwillen zu antworten. Lass mich auch die hier verborgene Weisheit sehen. Danke, dass du deine Berufung in meinem Leben nicht verringert hast, weil ich nicht mehr funktioniere wie ehemals. Lehre mich, diese Phase mit Ehrfurcht statt Feindseligkeit zu betreten, und begegne diesen Veränderungen mit Dankbarkeit statt Scham. Lass mich nicht nur trauern, was weg ist, sondern auch die tiefere Reife erkennen, die du bildest. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Hiob 12:12-13",
+              "book_code": "JOB",
+              "chapter": 12,
+              "verses": "12-13",
+              "translation": "Lutherbibel 1912",
+              "text": "Bei den Alten ist die Weisheit, und in langer Lebenszeit die Erkenntnis. Bei Gott ist Weisheit und Kraft, Rat und Verstand."
+            },
+            {
+              "display": "Sprüche 4:7",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "7",
+              "translation": "Lutherbibel 1912",
+              "text": "Höchste Weisheit ist dies: Erwirbe Weisheit!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

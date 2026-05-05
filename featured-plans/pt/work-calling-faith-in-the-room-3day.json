@@ -1,0 +1,260 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI13",
+    "slug": "faith-in-the-room",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Papéis e Identidade",
+      "secondary": "work-calling",
+      "secondary_label": "Trabalho e Vocação"
+    },
+    "tags": [
+      "trabalho",
+      "chamado",
+      "carreira",
+      "agradar",
+      "sucesso",
+      "fe-no-trabalho"
+    ],
+    "title": "Fé no Ambiente de Trabalho",
+    "subtitle": "Encontrando Deus na pressão do dia a dia",
+    "audience": {
+      "life_stage": [
+        "mulheres profissionais",
+        "trabalhadoras"
+      ],
+      "emotional_state": [
+        "responsável",
+        "sobrecarregada",
+        "redefinindo o sucesso"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes três dias o ajudam a lembrar que Deus está presente nas reuniões, nas mesas de trabalho e nos dias cheios de pressão.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#B8C8D8",
+      "color_secondary": "#2C4A6B",
+      "image_key": "cover_woman_at_desk_morning_calm",
+      "icon": "open-book-and-light-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Daniel 6:3",
+        "book_code": "DAN",
+        "chapter": 6,
+        "verses": "3"
+      },
+      {
+        "display": "Colossenses 3:23",
+        "book_code": "COL",
+        "chapter": 3,
+        "verses": "23"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Deus Está Presente no Lugar Onde Você Trabalha",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Daniel 6:3",
+            "book_code": "DAN",
+            "chapter": 6,
+            "verses": "3",
+            "translation": "Almeida",
+            "text": "Porque este Daniel tinha um excelente espírito, pretendiam os príncipes e os sátrapas encontrar ocasião contra ele no que toca aos negócios do reino; mas não podiam encontrar ocasião alguma nem culpa, porquanto ele era fiel."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "É fácil separar o trabalho da vida espiritual.",
+            "A oração, a comunhão com Deus e a quietude parecem ser os lugares onde Deus está perto, enquanto as reuniões, prazos, pressão e complexidade profissional parecem ser lugares que carregamos sozinhos. Muitas mulheres conhecem bem essa divisão. Podemos começar o dia conscientes de Deus, mas passar as próximas oito ou dez horas vivendo como se o local de trabalho pertencesse apenas à competência, à urgência e à sobrevivência.",
+            "Mas Daniel nos lembra que a presença de Deus não se limita a cenários que parecem sagrados. Ele estava com Daniel dentro do poder político, responsabilidade pública, escrutínio e pressão. Josué 1 diz que Deus está conosco aonde quer que vamos. Isso inclui os lugares onde os emails se acumulam, as pessoas entendem mal, as decisões devem ser tomadas rapidamente e a estabilidade emocional custa caro. O trabalho não é a seção da vida onde Deus educadamente espera do lado de fora.",
+            "Essa consciência muda mais do que apenas o humor. Ela muda a postura. Você não entra no seu dia sozinho e depois espera lembrar de Deus quando as coisas ficam difíceis. Você entra em um lugar onde Ele já está. Isso pode não reduzir as demandas, mas significa que você não precisa viver como se tudo dependesse apenas de suas próprias forças.",
+            "**Deus não está apenas com você nos espaços calmos. Ele também está com você nos lugares de pressão.** Antes de entrar no seu trabalho hoje, sussurre uma simples oração: Senhor, você já está aqui. Deixe isso se tornar o fundamento do restante do dia.",
+            "Sua companhia pode fazer um dia comum de trabalho parecer menos como sobrevivência e mais como sendo guiado."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, ajude-me a lembrar de Sua presença no trabalho. Não deixe que eu viva o ambiente corporativo como se fosse cheio de pressão, mas vazio de Você. No meio da ocupação e da complexidade de hoje, lembre-me que Você já está lá. Liberte-me dos hábitos de agradar aos outros, ansiedade e provar-me através do desempenho. Deixe-me permanecer firme sob pressão, livre dentro da responsabilidade e atento em cada dia de trabalho de que sou responsável diante de Você. Mantenha os resultados externos de me definirem mais rapidamente do que Sua paz o faz. Faça-me fiel no meu trabalho e desperto no meu espírito. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Daniel 6:3",
+              "book_code": "DAN",
+              "chapter": 6,
+              "verses": "3",
+              "translation": "Almeida",
+              "text": "Porque este Daniel tinha um excelente espírito, pretendiam os príncipes e os sátrapas encontrar ocasião contra ele no que toca aos negócios do reino; mas não podiam encontrar ocasião alguma nem culpa, porquanto ele era fiel."
+            },
+            {
+              "display": "Josué 1:9",
+              "book_code": "JOS",
+              "chapter": 1,
+              "verses": "9",
+              "translation": "Almeida",
+              "text": "Não to mandei? Sê forte e corajoso; não te atemorizes, nem te desanimes, porque o Senhor, teu Deus, está contigo, para onde quer que vás."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Sob Pressão, a Fé Frequentemente Parece Manter-se Firme",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Filipenses 4:13",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "13",
+            "translation": "Almeida",
+            "text": "Posso tudo em Cristo que me fortalece."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A pressão no trabalho é real.",
+            "Prazos, visibilidade, expectativas, decisões, dinâmica de escritório e o medo de errar podem manter o coração tenso o dia todo. Muitas mulheres desenvolvem grande habilidade em funcionar sob essa pressão. Respondemos, apresentamos, carregamos e continuamos avançando. Mas interiormente, o sistema nervoso pode permanecer em alerta tão constantemente que a pressão começa a parecer nosso estado mais familiar.",
+            "A fé nem sempre remove essa pressão. Frequentemente, significa que a pressão não consegue se tornar sua identidade mais profunda. Filipenses 4:13 não é um comando para se tornar super-humano. É um convite para confiar na força de Cristo no meio da limitação humana. Salmo 46 não nega o problema; nomeia Deus como ajuda dentro da dificuldade. Às vezes, a fé no ambiente corporativo parece menos como calma emocional e mais como recusar deixar que o medo se torne a única voz moldando suas decisões.",
+            "Muitas mulheres assumem silenciosamente que se ainda sentem estresse, devem estar confiando mal. Mas a confiança não é provada por não sentir nada. É frequentemente provada ao retornar a Deus enquanto ainda sente muito. Você pode estar sob pressão e ainda permanecer interiormente sustentado.",
+            "**A fé nem sempre apaga a pressão. Ela impede que a pressão o defina.** Se o trabalho parece pesado hoje, não fingia o contrário. Peça a Deus simplesmente por estabilidade suficiente para este dia. Sua força pode aparecer não como alívio dramático, mas como a capacidade silenciosa de permanecer enraizado sem ser engolido.",
+            "A fé firme é frequentemente a recusa silenciosa de deixar que a pressão se torne seu mestre."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, Você vê a pressão que enfrento hoje. Impeça-me de viver apenas na tensão. Dê-me força interior neste lugar exigente e não deixe que o ambiente me engula. Mantenha os resultados externos de me definirem mais rapidamente do que Sua paz. Faça-me fiel no meu trabalho e desperto no meu espírito. Obrigado porque Você não é repelido pela minha fraqueza, mas está disposto a vir perto, me apoiar e continuar me ensinando. Liberte-me dos hábitos de agradar aos outros, ansiedade e provar-me através do desempenho. Deixe-me permanecer firme sob pressão, livre dentro da responsabilidade e atento de que sou responsável diante de Você. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Filipenses 4:13",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "13",
+              "translation": "Almeida",
+              "text": "Posso tudo em Cristo que me fortalece."
+            },
+            {
+              "display": "Salmo 46:1",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "1",
+              "translation": "Almeida",
+              "text": "Deus é o nosso refúgio e força, um socorro bem presente nas tribulações."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Meu Valor Não É Igual ao Meu Desempenho de Hoje",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Colossenses 3:23",
+            "book_code": "COL",
+            "chapter": 3,
+            "verses": "23",
+            "translation": "Almeida",
+            "text": "E tudo quanto fizerdes, fazei-o de todo o coração, como para o Senhor, e não para os homens."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Uma das formas mais rápidas que o trabalho nos distorce é atando o valor à produção.",
+            "Se o dia corre bem, nos sentimos mais substanciais. Se não atingimos nossas metas, cometemos um erro ou recebemos feedback desapontador, começamos a nos sentir menores. Os resultados do dia se tornam evidência na corte privada da identidade. Sou competente o suficiente? Valioso o suficiente? Digno de confiança? Digno de ser mantido? O trabalho deixa de ser apenas responsabilidade e passa a ser um lugar onde pedimos para ser dito quem somos.",
+            "Colossenses nos lembra que nosso trabalho é fundamentalmente oferecido ao Senhor. Deus valoriza a fidelidade, a sinceridade, a diligência e a administração, mas não entregou sua identidade à produtividade. Isaías diz que você é precioso aos seus olhos. Isso não é uma avaliação de desempenho. É uma verdade relacional. Seu valor não sobe ou desce com cada dia que parece ou não frutífero.",
+            "Muitas mulheres internalizam os resultados muito rapidamente. Não apenas relatamos sobre eles. Os absorvemos. Mas a maturidade diante de Deus é aprender a trabalhar diligentemente sem usar o trabalho como um veredicto sobre seu ser. A excelência pode permanecer importante sem se tornar suprema.",
+            "O dia ainda pode ter corrido mal. Mas um dia desapontador não tem autoridade para o renomear.",
+            "**O trabalho pode ser uma vocação, mas a produção nunca é a totalidade de quem você é.** Antes do dia terminar, lembre-se que seu valor em Deus não subiu ou desceu com os resultados de hoje. Deixe o trabalho fiel permanecer significativo sem deixar que se torne sua identidade.",
+            "Essa é uma razão pela qual o descanso pode retornar, mesmo antes do desempenho."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, liberte-me do hábito de amarrar meu valor ao meu desempenho. Ajude-me a trabalhar fielmente sem entregar minha identidade aos resultados. Obrigado porque Você me chama de precioso aos seus olhos. Liberte-me dos hábitos de agradar aos outros, ansiedade e provar-me através do desempenho. Deixe-me permanecer firme sob pressão, livre dentro da responsabilidade e atento em cada dia de trabalho de que sou responsável diante de Você. Obrigado porque Você não é repelido pela minha fraqueza, mas está disposto a vir perto, me apoiar e continuar me ensinando. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Colossenses 3:23",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "23",
+              "translation": "Almeida",
+              "text": "E tudo quanto fizerdes, fazei-o de todo o coração, como para o Senhor, e não para os homens."
+            },
+            {
+              "display": "Isaías 43:4",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "4",
+              "translation": "Almeida",
+              "text": "Visto que aos meus olhos foste precioso, e estimável, e eu te amo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

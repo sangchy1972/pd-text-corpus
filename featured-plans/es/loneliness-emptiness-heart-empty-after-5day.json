@@ -1,0 +1,379 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG11",
+    "slug": "heart-empty-after",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardín de las Emociones",
+      "secondary": "loneliness-emptiness",
+      "secondary_label": "Soledad y Vacío"
+    },
+    "tags": [
+      "soledad",
+      "vacio",
+      "pertenencia",
+      "presencia-de-dios",
+      "comunion"
+    ],
+    "title": "¿Por Qué Mi Corazón Aún Se Siente Vacío Después de Que Todo Termina?",
+    "subtitle": "Para la mujer cuya vida no está vacía por fuera, pero aún se siente extrañamente hueca cuando el día se vuelve tranquilo.",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "sola",
+        "vacía",
+        "invisible"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Para la mujer cuya vida no está vacía por fuera, pero aún se siente extrañamente hueca cuando el día se vuelve tranquilo.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#C8D2DA",
+      "color_secondary": "#4A5563",
+      "image_key": "cover_woman_quiet_room_lamp_evening_loneliness",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 25:16",
+        "book_code": "PSA",
+        "chapter": 25,
+        "verses": "16"
+      },
+      {
+        "display": "Salmo 68:6",
+        "book_code": "PSA",
+        "chapter": 68,
+        "verses": "6"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Un Calendario Lleno No Siempre Puede Llenar un Corazón Vacío",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 25:16",
+            "book_code": "PSA",
+            "chapter": 25,
+            "verses": "16",
+            "translation": "Reina-Valera 1909",
+            "text": "Vuélvete a mí, y ten misericordia de mí, porque desolada y afligida estoy yo."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Algunas soledades no desaparecen solo porque haya gente a tu alrededor. Puedes pasar horas hablando, trabajando, sirviendo, respondiendo, presentándote o cuidando a otros y aún sentirte profundamente sola cuando el ruido se calla. Eso sucede porque la actividad y la conexión no son lo mismo. Ser necesitada no es lo mismo que ser conocida. Un calendario lleno puede esconder la soledad sin sanarla.",
+            "Muchas mujeres son especialmente vulnerables a este tipo de aislamiento oculto porque son expertas en mantener todo junto para todos los demás. Mantienen la conversación, recuerdan qué necesita hacerse y permanecen emocionalmente disponibles. Otros pueden verlas como rodeadas y apoyadas, mientras interiormente se sienten intocadas. Nadie puede darse cuenta de cuántas veces están representando conexión en lugar de vivirla.",
+            "Los salmos ayudan porque dan un lenguaje directo: \"Estoy desolada y afligida.\" La Escritura no te pide que renombres la soledad como mero cansancio. Te da permiso para llamarla por lo que es. Esa honestidad es el comienzo de la libertad.",
+            "**Una vida ocupada no siempre silencia la soledad, porque la soledad no es meramente la ausencia de ruido.** A menudo es la ausencia de una conexión interior profunda. Si sigues tratando la soledad con más estimulación, podrías permanecer distraída sin ser nunca consolada.",
+            "Hoy, pregúntate qué es lo que más frecuentemente usas para evitar sentirte sola. **A veces, lo mismo que nos mantiene de sentir soledad por un momento también nos impide traerla honestamente ante Dios.** Permítete quedarte lo suficientemente tranquila para notar qué emerge. No te apresures a cubrirlo. El Señor a menudo comienza Su obra más profunda en los lugares donde dejamos de adormecer."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, reconozco que a veces mi vida puede verse llena y aún sentirse sola por dentro. Gracias que no requieras que mantenga la apariencia de plenitud antes de que te acerques. Ayúdame a dejar de cubrir el vacío interior con ruido y ajetreo. Si la tranquilidad revela mi soledad, entonces encuéntrame allí. Guárdame de vivir solo en el papel de ser necesitada, mientras olvido que yo también necesito ser vista y consolada. Sé para mí Aquella a quien no tengo que temer en la quietud. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 25:16",
+              "book_code": "PSA",
+              "chapter": 25,
+              "verses": "16",
+              "translation": "Reina-Valera 1909",
+              "text": "Vuélvete a mí, y ten misericordia de mí, porque desolada y afligida estoy yo."
+            },
+            {
+              "display": "Salmo 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Derramad delante de él vuestro corazón; Dios es nuestro refugio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "A Veces la Actividad es También una Manera de Esconderse",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Lucas 10:40-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "40-42",
+            "translation": "Reina-Valera 1909",
+            "text": "Mas Marta andaba preocupada con muchos quehaceres... tú andas afanosa y turbada acerca de muchas cosas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Algunos vacíos vienen no de la falta de actividad, sino de darse demasiado a ti misma durante demasiado tiempo. Sigues cuidando, respondiendo, ayudando, entendiendo, y sosteniendo espacio para otros hasta que un día te das cuenta de que ya no estás segura de qué está sucediendo dentro de ti. Sabes qué necesitan otras personas, pero ya no sabes cómo responder la pregunta simple: \"¿Cómo estoy realmente?\"",
+            "Muchas mujeres experimentan este tipo de agotamiento porque han sido entrenadas para permanecer atentamente hacia afuera. Se vuelven expertas en trabajo emocional, responsabilidad y servicio invisible. El problema no es que estas cosas sean malas. El problema es que una persona puede permanecer fielmente hacia afuera mientras se vuelve interiormente extraña a sí misma.",
+            "La historia de Marta es útil aquí. No es reprendida por ser perezosa. Está preocupada por muchas cosas. Su servicio se ha desconectado de la presencia tranquila. Esa desconexión a menudo lleva al vacío. Sigues vertiendo, pero nada regresa la vida al mundo interior.",
+            "**Una persona que pasa demasiado tiempo iluminando la habitación para todos los demás puede lentamente dejar de notar que su propia alma se ha oscurecido.** Eso no es egoísmo. Es una descripción honesta del agotamiento.",
+            "Hoy, pregúntate suavemente: ¿qué he estado necesitando durante mucho tiempo? **A veces el primer paso fuera del vacío no es hacer más, sino ser honesta sobre cuánto tiempo has estado viviendo sin cuidado interior.** Dios no te ve solo como una fuente de ayuda para otras personas. Él te ve como alguien a quien también desea pastorear."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, reconozco que estoy tan acostumbrada a cuidar a otros y a dirigir mi atención hacia afuera que a veces ni siquiera noto cuán vacía me he vuelto por dentro. Gracias que no me veas solo como alguien que da, sino como alguien a quien deseas pastorear. Ayúdame a volver a mi propio corazón y a Tu presencia. Dame honestidad sobre mi cansancio, mis necesidades y mis anhelos en lugar de esconderme detrás de la responsabilidad. Restaura mi alma, y que no solo siga vertiendo, sino que comience a recibir de Ti nuevamente. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Lucas 10:40-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "40-42",
+              "translation": "Reina-Valera 1909",
+              "text": "Mas Marta andaba preocupada con muchos quehaceres... tú andas afanosa y turbada acerca de muchas cosas."
+            },
+            {
+              "display": "Salmo 23:1-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1-3",
+              "translation": "Reina-Valera 1909",
+              "text": "Jehová es mi pastor; nada me faltará... Confortará mi alma."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "Ser Necesitada No es Lo Mismo que Estar Llena",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Juan 4:13-14",
+            "book_code": "JHN",
+            "chapter": 4,
+            "verses": "13-14",
+            "translation": "Reina-Valera 1909",
+            "text": "Quien beba de esta agua volverá a tener sed; pero quien beba del agua que yo le daré nunca jamás volverá a tener sed."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hay algo muy familiar en tener una vida que no se ve vacía, pero aún sentirse hueca por dentro. Compras algo hermoso, planeas una comida reconfortante, creas una tarde tranquila, o te das una pequeña recompensa después de un día difícil. Ninguna de estas cosas es mala. Algunas de ellas son amables y necesarias. Pero muchas mujeres conocen el extraño sentimiento que puede seguir: la comodidad llega por un momento, y luego el vacío regresa.",
+            "Eso sucede porque los regalos no pueden llevar el peso de la salvación. Una comida puede alimentarte, la belleza puede renovarte, y el descanso puede ayudarte a respirar, pero ninguno de ellos puede convertirse en la respuesta final a la sed interior. Cuando esperamos silenciosamente que las cosas creadas hagan lo que solo Dios puede hacer, incluso los consuelos buenos comienzan a decepcionarnos.",
+            "Jesús dice a la mujer samaritana que quien bebe del agua que Él da nunca tendrá sed de la misma manera nuevamente. No está condenando los placeres ordinarios. Está exponiendo una necesidad más profunda. Algunas sedes no son sobre lo que tienes alrededor de ti. Se trata de lo que tu alma está perdiendo adentro.",
+            "**Una vida llena por fuera puede consolarte por un momento, pero no puede satisfacer completamente el hambre más profunda del corazón.** Eso no es razón de vergüenza. Es una invitación a la honestidad. La pregunta no es si puedes disfrutar de regalos. **La pregunta es si silenciosamente le estás pidiendo a los regalos que se conviertan en tu dios.**",
+            "Hoy, pausa antes de la siguiente cosa que instintivamente buscas. A veces el comienzo de la verdadera plenitud es simplemente admitir que lo que tienes hambre de satisfacer es más profundo de lo que el placer, el ruido o la distracción pueden satisfacer. Dios no intenta privarte de comodidad. Intenta llevarte hacia la clase que no se desvanece tan rápidamente."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias por los regalos ordinarios que das, y gracias que no permites que esos regalos pretendan poder reemplazarte. Sabes cuán rápidamente busco algo para llenar, consolar, o adormecer el vacío. Hoy, ayúdame a admitir más honestamente que algo de mi hambre es más profundo de lo que la comodidad exterior puede satisfacer. Cuida mi corazón de convertir regalos en salvadores. Y mientras recibo las cosas buenas que das, llévame más profundamente hacia Ti, porque solo Tú puedes verdaderamente satisfacer lo que está vacío dentro de mí. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Juan 4:13-14",
+              "book_code": "JHN",
+              "chapter": 4,
+              "verses": "13-14",
+              "translation": "Reina-Valera 1909",
+              "text": "Quien beba de esta agua volverá a tener sed; pero quien beba del agua que yo le daré nunca jamás volverá a tener sed."
+            },
+            {
+              "display": "Salmo 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "Reina-Valera 1909",
+              "text": "En tu presencia hay plenitud de gozo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Dios No Solo Consuela Mi Vacío; Puede Llenarlo",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Efesios 3:17-19",
+            "book_code": "EPH",
+            "chapter": 3,
+            "verses": "17-19",
+            "translation": "Reina-Valera 1909",
+            "text": "Que Cristo habite en vuestros corazones por la fe... y seáis llenos de toda la plenitud de Dios."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas su expectativa de Dios se detiene en \"Él estará conmigo.\" Eso ya es muy precioso, pero las Escrituras nos ofrecen algo mayor. Dios no solo se sienta junto a tu vacío con simpatía. Es capaz de llenar lo que ha sido vaciado. La oración de Pablo en Efesios es sorprendente porque no ora meramente por alivio. Ora para que Cristo habite en los corazones de los creyentes y sean llenos de toda la plenitud de Dios.",
+            "Eso significa que la plenitud espiritual no es una frase abstracta de iglesia. Es una obra real de Dios dentro de la vida interior. Muchas mujeres silenciosamente se piensan a sí mismas como \"la que carece.\" Comparan sus vidas con otras y asumen que si solo tuvieran la relación correcta, la estación correcta, el círculo correcto, o la seguridad correcta, el vacío finalmente terminaría. Pero el evangelio no comienza diciéndote que reúnas todo lo que te falta. Comienza diciéndote que Cristo está dispuesto a habitar en ti.",
+            "**Dios no solo simpatiza con tu vacío. Es capaz de habitarlo.** Eso cambia la manera completa en que entiendes la necesidad. Puedes aún anhelar relaciones saludables y compañerismo significativo, pero esas cosas ya no se mantienen como tu única esperanza de sentirte entera.",
+            "Hoy, nombra el lugar más vacío en ti. **No pidas solo por supervivencia. Pide por plenitud habitante.** El Señor no se offende por esa oración. Él es Quien te enseñó a esperarla."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias que no entiendes mi vacío solo desde la distancia, y no solo te sientas junto a él mientras lo soporto. Prometes habitar dentro de mí y satisfacer el alma que anhela. Hoy traigo el lugar más vacío de mi corazón ante Ti. No pido solo sentirme un poco mejor. Te pido que me llenes con Tu propia presencia. Si he estado tratando las cosas externas como mi esperanza final, corrígeme suavemente. Enséñame que no estoy destinada a permanecer siempre carente, sino que puedo volverme plena en Ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Efesios 3:17-19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "17-19",
+              "translation": "Reina-Valera 1909",
+              "text": "Que Cristo habite en vuestros corazones por la fe... y seáis llenos de toda la plenitud de Dios."
+            },
+            {
+              "display": "Salmo 107:9",
+              "book_code": "PSA",
+              "chapter": 107,
+              "verses": "9",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque saciará al alma menesterosa, y henchirá de bien al alma hambrienta."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Cuando Dios Llena el Corazón, la Vida Se Vuelve Plena Nuevamente",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 68:6",
+            "book_code": "PSA",
+            "chapter": 68,
+            "verses": "6",
+            "translation": "Reina-Valera 1909",
+            "text": "Dios hace que los solitarios vivan en familia."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "El vacío prolongado a menudo distorsiona la manera en que nos relacionamos con las personas. Algunos comienzan a aferrarse demasiado, esperando que otra persona finalmente complete lo que se siente hueco. Otros se retiran casi completamente, convencidos de que nadie realmente entenderá de todos modos. La sanidad de Dios no nos deja atrapados en ninguno de los dos patrones. Él nos llena primero para que la relación pueda convertirse en conexión en lugar de desesperación.",
+            "El Salmo 68 dice que Dios coloca al solitario en familias. Ese tipo de pertenencia no es meramente una colocación externa. Dios a menudo construye un sentido de hogar interior antes de enseñarnos cómo reconectarnos externamente. Cuando el corazón comienza a descansar en Él, ya no le pide a cada relación que lleve un peso imposible.",
+            "**Cuando Dios llena el corazón, comienza a amar más libremente en lugar de aferrarse más temerosa.** Eso no significa que dejes de desear compañerismo. Significa que el compañerismo ya no tiene que funcionar como tu única fuente de vida. Puedes moverte hacia las personas con más honestidad, más firmeza, y menos desesperación.",
+            "Hoy, pídele a Dios un pequeño paso hacia una conexión saludable. **Un corazón lleno no deja de necesitar a las personas, pero deja de hacerlas responsables de ser Dios.** Ahí es donde el amor se vuelve más libre, más gentil, y más real."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias que no dejes mi vacío sin tocar. No solo me consuelas; comienzas a reconstruirme. Obra dentro de mí para que me aferre menos temerosa, me proteja menos rígidamente, y deje de pedirle a las personas que sean mi fuente final de vida. Si me estás llevando nuevamente hacia la conexión, dame coraje para un pequeño paso y sabiduría para saber dónde se puede encontrar seguridad y verdad. Déjame estar más firme en Tu amor, y desde ese lugar aprende a amar de nuevo. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 68:6",
+              "book_code": "PSA",
+              "chapter": 68,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Dios hace que los solitarios vivan en familia."
+            },
+            {
+              "display": "1 Juan 4:19",
+              "book_code": "1JN",
+              "chapter": 4,
+              "verses": "19",
+              "translation": "Reina-Valera 1909",
+              "text": "Nosotros le amamos a él, porque él nos amó primero."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI11",
+    "slug": "not-perfect-still-good-mom",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Papéis e Identidade",
+      "secondary": "motherhood",
+      "secondary_label": "Maternidade"
+    },
+    "tags": [
+      "maternidade",
+      "criacao",
+      "confianca",
+      "perfeccionismo",
+      "graca",
+      "descanso"
+    ],
+    "title": "Não Perfeita, Mas Uma Boa Mãe",
+    "subtitle": "Deixando ir da culpa e amando de um lugar mais pleno",
+    "audience": {
+      "life_stage": [
+        "mães",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "cansada",
+        "amorosa",
+        "confiante"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes cinco dias ajudam você a confiar que pode amar bem mesmo sem ser uma mãe perfeita.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#C8E0CC",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_mother_morning_window_quiet",
+      "icon": "cradle-and-leaves-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Gálatas 6:4",
+        "book_code": "GAL",
+        "chapter": 6,
+        "verses": "4"
+      },
+      {
+        "display": "2 Timóteo 1:5",
+        "book_code": "2TI",
+        "chapter": 1,
+        "verses": "5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "A Comparação Aperta o Coração da Mãe",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Gálatas 6:4",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "4",
+            "translation": "Almeida",
+            "text": "Mas cada um examine a sua própria obra..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A comparação na maternidade frequentemente se esconde por trás da linguagem de aprendizado.",
+            "Comparamos filhos, rotinas, paciência, energia, disciplina, atmosfera espiritual e equilíbrio. À primeira vista parece inofensivo. Estamos apenas observando, recolhendo ideias, notando o que funciona. Mas em algum momento a observação se torna autossupervisão. Sua casa parece mais calma. Seu filho parece mais fácil. Seu tom soa mais gentil. Ela parece mais organizada, mais descansada, mais naturalmente maternal. E lentamente o coração começa a transformar os pontos fortes visíveis de outra mulher em evidência privada contra si mesmo.",
+            "Gálatas nos chama de volta a examinar nossa própria vida diante de Deus. Isso importa porque cada filho, lar, estação e mãe carrega um ritmo diferente. O que você está comparando é frequentemente sua realidade sem filtro contra o momento mais visível de outra pessoa. A comparação não simplesmente nos faz admirar outra mulher. Ela aperta a alma até esquecermos como Deus está realmente trabalhando em nossa própria casa.",
+            "Acho que muitas mães precisam ser resgatadas dessa pressão. Não porque o crescimento seja sem importância, mas porque o crescimento enraizado na vergonha raramente produz bom fruto. Deus não está pedindo para você se tornar uma cópia da maternidade de outra mulher. Ele está te encontrando dentro de seu filho real, suas limitações reais, seu lar real e sua necessidade real de graça.",
+            "Ele não está atrasado para sua vida real. A maternidade que Ele está moldando em você é permitida ser honesta, imperfeita e profundamente dependente de graça.",
+            "**A facilidade visível de outra mãe não significa que você está falhando.** Peça a Deus hoje para devolver seus olhos ao seu próprio lar e às formas reais como você tem amado ali. O aprendizado pode permanecer, mas a autocondenação não precisa liderá-lo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, afaste meu coração da comparação. Não me deixe usar a vida de outras mães como evidência contra minha própria. Ajude-me a ver como Você está trabalhando em meu lar e em meu filho através de uma mãe que é imperfeita mas ama verdadeiramente. Também ilumine os sentimentos de comparação e mágoa que eu preferiria esconder, para que eu não continue me mantendo através da supressão, mas aprenda honestidade e limpeza diante de Você. Obrigada por não se repelir por minha fraqueza, mas estar disposto a se aproximar, me apoiar e continuar me ensinando. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Gálatas 6:4",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "4",
+              "translation": "Almeida",
+              "text": "Mas cada um examine a sua própria obra..."
+            },
+            {
+              "display": "Salmo 23:1",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1",
+              "translation": "Almeida",
+              "text": "O Senhor é o meu pastor, nada me faltará."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Meus Limites Não Arruínam Automaticamente Meu Filho",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 127:3",
+            "book_code": "PSA",
+            "chapter": 127,
+            "verses": "3",
+            "translation": "Almeida",
+            "text": "Eis que os filhos são herança do Senhor..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas mães carregam um medo profundo de que suas limitações prejudiquem seus filhos.",
+            "Esse medo pode nos fazer nos esforçarmos, nos tensionarmos e entrarmos em pânico sempre que ficamos aquém. Nos preocupamos que uma reação cansada, um surto emocional, uma estação de esgotamento ou uma escolha insensata deixará uma marca muito grande para cicatrizar. O amor naturalmente quer proteger. Mas o medo maternal frequentemente vai além e assume quietamente: se meu filho está ferido, deve significar que falhei no nível mais profundo.",
+            "O Salmo 127 nos lembra que as crianças pertencem primeiro ao Senhor. Isso não apaga a seriedade da maternidade, mas restaura a proporção. Deus não deu ao seu filho apenas uma mãe. Ele também deu ao seu filho Seu próprio cuidado vigilante. Somos chamados à fidelidade, arrependimento, aprendizado e amor, mas não à onipotência. Quando tentamos ser mãe como se tivéssemos que ser suficientes em cada forma, começamos a carregar um peso que Deus nunca nos pediu para segurar.",
+            "Isso não minimiza sua influência. Simplesmente se recusa a torná-la uma salvadora. A vida de seu filho está sendo moldada por mais do que seus melhores momentos e mais do que seus piores momentos. A misericórdia, proteção, correção e providência de Deus também estão funcionando. A confiança real na maternidade frequentemente começa quando admitimos que nossos limites são reais e o cuidado de Deus é ainda maior.",
+            "**Uma mãe é chamada a ser fiel, não a fingir ser Deus.** Se você teve medo que sua fraqueza desfaça seu filho, peça a Deus para lembrá-la que Suas mãos são mais fortes que as suas, e Sua presença na vida de seu filho é mais profunda que seu medo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, liberte-me do medo que se eu não fizer tudo certo, vou arruinar meu filho. Ensine-me fidelidade e ensine-me rendição. Obrigada por amar meu filho mais do que eu, e que Seu cuidado é mais forte que o meu. Ensine-me, mesmo enquanto amo meu filho, não deixar minha própria alma fora de Sua presença, porque eu não sou apenas um papel a cumprir, mas uma mulher que Você ainda ternamente vê. Obrigada por não se repelir por minha fraqueza, mas estar disposto a se aproximar, me apoiar e continuar me ensinando. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 127:3",
+              "book_code": "PSA",
+              "chapter": 127,
+              "verses": "3",
+              "translation": "Almeida",
+              "text": "Eis que os filhos são herança do Senhor..."
+            },
+            {
+              "display": "Provérbios 3:5",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "Confia no Senhor de todo o teu coração, e não te estribes no teu próprio entendimento."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "O Esgotamento Não É Fracasso; Pode Ser um Sinal",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Marcos 6:31",
+            "book_code": "MRK",
+            "chapter": 6,
+            "verses": "31",
+            "translation": "Almeida",
+            "text": "Vinde vós, apartados para um lugar deserto, e descansai um pouco."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A maternidade pode fazer o esgotamento parecer normal o suficiente para ignorar.",
+            "As crianças não esperam até você se recuperar para precisarem de você. O lar não para automaticamente porque sua vida interior está se esgotando. Muitas mães aprendem a tratar a fadiga como ruído de fundo. Irritabilidade, dormência, lágrimas perto da superfície, confusão mental, ressentimento e frieza emocional todos são dobrados na frase 'isso é só maternidade'. Mas se seu corpo, emoções e alma continuam sinalizando esgotamento, nem sempre pode ser respondido com 'apenas continue'.",
+            "Jesus convidou Seus discípulos a virem apartados e descansarem. O Salmo 23 mostra um Pastor que não apenas lidera mas restaura. O cansaço pode se tornar uma das maneiras pelas quais Deus nos diz que não somos máquinas, e que o esgotamento não é uma insígnia de santidade. Às vezes o esgotamento não é prova que você ama mal. É prova que você tem estado derramando por muito tempo sem reabastecimento suficiente.",
+            "Muitas mães precisam de permissão renovada aqui. Ser capaz de continuar empurrando nem sempre é o mesmo que ser chamada a continuar empurrando. Maturidade não é constante anulação. É aprender a honrar os limites da criatura como parte da vida fiel diante de Deus.",
+            "Receber cuidado não enfraquece a maternidade. Frequentemente a mantém de se tornar autoapagamento silencioso.",
+            "**O esgotamento não significa que você ama mal. Às vezes significa que você tem estado derramando por muito tempo.** Seja honesta hoje sobre seu cansaço. Deixe-o se tornar uma oração em vez de algo que você continua descartando. Deus pode te encontrar mais gentilmente uma vez que você pare de fingir que está bem."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, eu admito que estou cansada. Não me deixe continuar tratando meu esgotamento como se não importasse. Leve-me a lugares de descanso e ensine-me não ter vergonha de precisar de restauração. Segure-me especialmente onde sou mais tentada à culpa, esgotamento e perda de mim mesma. Deixe-me continuar amando não por esforço constante, mas por receber força renovada de Sua misericórdia, para que tanto meu filho quanto eu possamos viver sob Seu cuidado. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Marcos 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "Almeida",
+              "text": "Vinde vós, apartados para um lugar deserto, e descansai um pouco."
+            },
+            {
+              "display": "Salmo 23:2",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "2",
+              "translation": "Almeida",
+              "text": "Ele me faz deitar em verdes pastos, leva-me além das águas tranquilas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "As Mães Também Precisam de Cuidado",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 23:2-3",
+            "book_code": "PSA",
+            "chapter": 23,
+            "verses": "2-3",
+            "translation": "Almeida",
+            "text": "Ele me faz deitar em verdes pastos... restaura a minha alma."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Quando você passa seus dias cuidando de outros, fica fácil esquecer que você também precisa de cuidado.",
+            "A maternidade treina o coração para movimento externo. Você avisa, responde, antecipa, acalma, planeja, corrige, lembra e absorve. Com o tempo, suas próprias necessidades começam a parecer uma interrupção às necessidades mais urgentes de todos os outros. Nem sempre é que você não quer cuidado. Às vezes você simplesmente se tornou tão praticada em cuidar para fora que já não sabe como voltar para cuidar de si mesma.",
+            "Mas Deus nunca tratou as mães como máquinas de serviço. O Salmo 23 está cheio de imagens de ser liderada, alimentada, restaurada e feita para deitar. As mães precisam disso também. Você não é apenas digna da atenção de Deus quando a casa está funcionando. Você também é amada quando está cansada, irritável, emocionalmente fraca e precisando de espaço. Jesus diz que Ele é o Bom Pastor, e essa promessa pertence não apenas aos filhos que você está cuidando, mas à mulher fazendo o cuidado.",
+            "Às vezes a questão mais profunda não é falta de esforço, mas uma longa falta de ser nutrida. Podemos até começar a transformar o tempo com Deus em outra ferramenta de produtividade, como se Seu papel fosse meramente nos reabastecer para mais produção. Mas Ele oferece mais do que recuperação funcional. Ele oferece descanso relacional. Ele quer que você se lembre que não é apenas uma cuidadora. Você também é uma de Suas ovelhas.",
+            "**Deus não apenas a colocou diante de seu filho. Ele também se colocou diante de você.** Deixe um pouco de espaço hoje simplesmente para ser alimentada por Ele, não porque você precisa se tornar mais produtiva, mas porque receber Seu cuidado também é parte da maternidade fiel."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, cuide-me hoje. Não me deixe ficar apenas aquela que continua cuidando de todos os outros. Deixe-me também experimentar ser liderada, confortada e alimentada por Você novamente. Desacelere-me o suficiente para receber o que Você está dando. Encontre-me nas partes do meu coração que estão secas, impacientes ou silenciosamente vazias. Lembre-me que não preciso esperar até merecer descanso antes de me aproximar de Você. Alimente minha alma para que eu possa continuar amando de um lugar que é mantido por Seu cuidado. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 23:2-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "2-3",
+              "translation": "Almeida",
+              "text": "Ele me faz deitar em verdes pastos... restaura a minha alma."
+            },
+            {
+              "display": "João 10:11",
+              "book_code": "JHN",
+              "chapter": 10,
+              "verses": "11",
+              "translation": "Almeida",
+              "text": "Eu sou o bom pastor..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "O Amor Imperfeito Ainda Pode Formar uma Criança",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "2 Timóteo 1:5",
+            "book_code": "2TI",
+            "chapter": 1,
+            "verses": "5",
+            "translation": "Almeida",
+            "text": "Lembrando-me da fé não fingida que em ti há... que habitou primeiro em tua avó Lóide, e em tua mãe Eunice..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas mães temem que se não forem boas o suficiente, não conseguirão deixar nada forte ou belo em seus filhos.",
+            "Mas na Escritura, a influência espiritual não vem através de desempenho impecável. Frequentemente vem através de fé sincera, arrependimento, oração, perseverança e uma vida que continua se voltando para Deus. As crianças não precisam de uma mãe sem falhas. Elas precisam de uma mãe que sabe para onde ir com suas falhas.",
+            "Acho que isso é tanto reconfortante quanto corretivo para as mães. Facilmente assumimos que deixar algo belo em uma criança exige manejo quase impecável da vida diária. Mas frequentemente o que uma criança mais profundamente se lembra não é se cada situação foi gerenciada perfeitamente. É se sua mãe sabia como se arrepender, como pedir perdão, como voltar para Deus quando cansada, e como continuar amando sem fingir ser invulnerável. Esses momentos de dependência visível podem moldar uma criança mais do que o desempenho polido jamais conseguiria.",
+            "O legado espiritual é usualmente mais quieto do que imaginamos. É formado em dias ordinários quando uma criança observa como você responde à fraqueza, decepção, conflito, fadiga e graça. Sua vida ensina não apenas pelo que você faz bem, mas por onde você vai quando não faz bem. Isso significa que suas imperfeições não automaticamente cancelam sua influência. Em Cristo, até sua necessidade pode se tornar parte da herança.",
+            "**O que molda uma criança mais profundamente não é sempre uma mãe perfeita, mas uma real que se apoia em Deus.** Peça a Ele hoje para ajudá-la a parar de performar perfeição e começar a viver mais verdadeiramente dentro da graça. Isso mesmo é uma herança poderosa."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, não me deixe tratar 'perfeição' como a coisa mais importante que posso oferecer ao meu filho. Se tenho estado vivendo sob a pressão de precisar fazer tudo certo, liberte-me. Ensine-me a depender de Você de forma mais honesta, me arrepender mais livremente, admitir meus limites de forma mais humilde e amar de forma mais quieta. Deixe meu filho ver não apenas esforço e responsabilidade em mim, mas também uma mulher que continua voltando para Você. Que a graça em que vivo se torne parte da bênção que meu filho recebe. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "2 Timóteo 1:5",
+              "book_code": "2TI",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "Lembrando-me da fé não fingida que em ti há... que habitou primeiro em tua avó Lóide, e em tua mãe Eunice..."
+            },
+            {
+              "display": "Deuteronômio 6:6-7",
+              "book_code": "DEU",
+              "chapter": 6,
+              "verses": "6-7",
+              "translation": "Almeida",
+              "text": "Estas palavras, que hoje te ordeno, estarão no teu coração... e as ensinarás diligentemente a teus filhos..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

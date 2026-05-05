@@ -1,0 +1,509 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI06",
+    "slug": "building-love-on-solid-ground",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "love-dating",
+      "secondary_label": "Liebe und Partnerschaft"
+    },
+    "tags": [
+      "liebe",
+      "partnerschaft",
+      "beziehungen",
+      "grenzen",
+      "werben",
+      "fromme-liebe"
+    ],
+    "title": "Liebe auf festem Grund aufbauen",
+    "subtitle": "Ein glaube-geprägte Perspektive auf modernes Daten",
+    "audience": {
+      "life_stage": [
+        "junge Frauen",
+        "in Beziehung",
+        "vor der Ehe"
+      ],
+      "emotional_state": [
+        "hoffnungsvoll",
+        "vorsichtig",
+        "Klarheit suchend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese sieben Tage führen dich tiefer durch die Verwirrung, das Ziehen und die Ungewissheit des modernen Datings und helfen dir, Liebe auf einem festeren Grund aufzubauen.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#F4B6B6",
+      "color_secondary": "#7A2C42",
+      "image_key": "cover_woman_quiet_garden_evening_warm_light",
+      "icon": "anchor-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Sprüche 14:15",
+        "book_code": "PRO",
+        "chapter": 14,
+        "verses": "15"
+      },
+      {
+        "display": "Matthäus 7:24",
+        "book_code": "MAT",
+        "chapter": 7,
+        "verses": "24"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Nicht jeder Moment der Anziehung sollte gefördert werden",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 14:15",
+            "book_code": "PRO",
+            "chapter": 14,
+            "verses": "15",
+            "translation": "Lutherbibel 1912",
+            "text": "Der Einfältige glaubet jedem Wort; aber der Klugen blicket wohl auf seinen Gang."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Anziehung hat eine Weise, Möglichkeit größer erscheinen zu lassen, als sie wirklich ist.",
+            "Einmal wenn ein Funke erscheint, kann die ganze emotionale Welt heller werden. Wir denken mehr, bemerken mehr, warten mehr und beginnen ruhig, sehr kleine Dinge bedeutungsvoll zu machen. Es ist nichts falsch daran, bewegt zu sein. Aber nicht jeder Funke sollte genährt werden. Anziehung ist ein echter Anfang, aber es ist nicht dasselbe wie Richtung. Gefühl kann die Tür öffnen, aber es kann dir nicht selbst sagen, ob das, was auf der anderen Seite ist, vertrauenswürdig, gesund oder fähig ist auszudauern.",
+            "Die Sprüche sagen, dass der Einfältige jedem Wort glaubt, aber der Klugen blickt wohl auf seinen Gang. Diese Klugheit ist wichtig im modernen Dating, denn es ist so einfach, das Gefühl der Wahrheit vorauseilen zu lassen. Manchmal fällt das Herz zunächst nicht für die Person selbst, sondern für eine vorgestellte Version von ihr, die aus Hoffnung, Chemie und unvollendeter Sehnsucht aufgebaut ist. Gott bittet uns nicht, hart oder argwöhnisch zu werden. Er lehrt uns, Unterscheidung nah bei Zärtlichkeit zu halten.",
+            "Ich denke, viele von uns wissen, wie verletzlich das Herz wird, wenn es beginnt, Hoffnung zu haben. Wir können anfangen, Aufmerksamkeit als Tiefe auszulegen, Chemie als Frieden und Möglichkeit als Versprechen. Aber Reife in der Liebe bedeutet, Zeit, Charakter und Klarheit auch sprechen zu lassen. Das bedeutet, dem Drang zu widerstehen, jeden Funken in Schicksal zu verwandeln.",
+            "**Der, der deine Gefühle rührt, ist nicht automatisch der, der deine Zukunft tragen kann.** Heute, beeile dich nicht, etwas zu definieren. Frage stattdessen, ob das, was dich am stärksten anzieht, die echte Person vor dir ist oder die Geschichte, die dein Herz bereits um sie herum zu bauen begonnen hat."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke dir, dass du mich nicht schämst dafür, zu hoffen, zu sehnen oder geliebt sein zu wollen. Halte mein Herz zart und klar zugleich. Lass mich nicht einen Augenblick des Gefühls zu schnell zu meinem Schicksal machen. Gib mir Unterscheidung, um die echte Person vor mir zu sehen, und bemerke, wo ich vielleicht unklare Räume mit Vorstellung fülle. Wenn es einen Platz gibt, an dem ich innehalten muss, gib mir Mut. Wenn es einen Platz gibt, an dem ich warten muss, gib mir Geduld, und lehre mich, deinen Frieden mehr zu vertrauen als emotionale Intensität. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 14:15",
+              "book_code": "PRO",
+              "chapter": 14,
+              "verses": "15",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Einfältige glaubet jedem Wort; aber der Klugen blicket wohl auf seinen Gang."
+            },
+            {
+              "display": "Sprüche 4:26",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "26",
+              "translation": "Lutherbibel 1912",
+              "text": "Ebne deine Fußpfade und richte alle deine Wege."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Rote Flaggen sind kein Drama, sondern Schutz",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Matthäus 7:16",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "16",
+            "translation": "Lutherbibel 1912",
+            "text": "An ihren Früchten werdet ihr sie erkennen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Oft sind wir nicht blind für Warnsignale. Wir sind einfach nur unwillig, dem zu vertrauen, was wir bereits spüren.",
+            "Wir erklären Widersprüche weg, entschuldigen emotionale Volatilität, minimieren gemischte Signale und reden uns ständig aus Unbehagen heraus, weil wir nicht dramatisch wirken oder Möglichkeit zu schnell verlieren möchten. Aber nicht jedes unangenehme Gefühl ist eine Überreaktion. Manchmal ist Unbehagen eine Weise, wie Gott das Herz schützt. Wiederholte Verwirrung, Unehrlichkeit, Instabilität, Manipulation oder das wachsende Gefühl, dass du nicht mehr deiner eigenen Wahrnehmung vertrauen kannst, sind nicht kleine Dinge, die man beiseite wischen kann.",
+            "Jesus sagte, dass Menschen an ihren Früchten erkannt werden. Das ist wichtig im Dating, denn Chemie kann hell sein, während Charakter unklar bleibt. Eine vertrauenswürdige Person wird nicht allein durch Anziehung, freundliche Worte oder intensive Momente erkannt. Sie ist bekannt durch Muster über die Zeit. Frucht sieht aus wie Beständigkeit, Ehrlichkeit, Verantwortung, Demut und Friede stiftende Gegenwart. Gesunde Liebe kann das Gewicht der Beobachtung ertragen. Sie verlangt nicht von dir, deine Unterscheidung auszuschalten, um die Verbindung lebendig zu halten.",
+            "Manchmal ist der schwierigste Teil, zuzugeben, dass das Benennen einer roten Flagge zu Trauer führen könnte. Es könnte bedeuten, der Möglichkeit gegenübergestellt zu werden, dass das, worauf du gehofft hast, nicht das ist, was tatsächlich da ist. Aber Vermeidung schützt das Herz nicht. Wahrheit tut es. Gottes Warnungen sind nicht gemeint, um uns angespannt von Liebe zu machen. Sie sind gemeint, um uns davon abzuhalten, Gefahr mit Tiefe zu verwechseln.",
+            "**Gesunde Liebe fürchtet sich nicht, ehrlich beobachtet zu werden.** Schreibe die Zeichen auf, die du benannt zu werden fürchtest. Schutz beginnt oft, wenn wir aufhören, Entschuldigungen für das zu machen, was Frieden weiterhin störtartet."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, wenn es Warnsignale gibt, die ich minimiert oder entschuldigt habe, lass mich sie klar sehen. Lass mich nicht ignorieren, was Frieden schadet, nur weil ich Angst habe, zu empfindlich zu wirken oder Möglichkeit zu verlieren. Gib mir Ehrlichkeit und gib mir Schutz. Gib mir Unterscheidung und gesunde Grenzen, damit meine Sanftheit nicht zu Selbstverrat wird und meine Liebe meine eigene Integrität nicht kostet. Danke dir, dass du von meiner Schwäche nicht abgestoßen wirst, sondern willens bist, näher zu kommen, mich zu unterstützen und mich weiter zu lehren. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Matthäus 7:16",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "16",
+              "translation": "Lutherbibel 1912",
+              "text": "An ihren Früchten werdet ihr sie erkennen."
+            },
+            {
+              "display": "Sprüche 27:12",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "12",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Kluge sieht das Unglück und verbirgt sich; aber die Einfältigen gehen hindurch und werden gestraft."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Klarheit ist liebevoll; Verwirrung ist nicht romantisch",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Matthäus 5:37",
+            "book_code": "MAT",
+            "chapter": 5,
+            "verses": "37",
+            "translation": "Lutherbibel 1912",
+            "text": "Eure Rede aber sei: Ja, ja; Nein, nein…"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Beziehungen werden verlockend, nicht weil sie klar sind, sondern weil sie ungelöst sind.",
+            "Das Herz lehnt sich immer wieder hin, hoffend, dass das nächste Gespräch, die nächste Geste oder der nächste Moment der Wärme endlich erklären wird, was alles bedeutet. Es kann anfangen, sich so anzufühlen, als ob Rätsel selbst Tiefe ist. Aber eine Beziehung, die durch Raten unterhalten wird, bringt selten Frieden. Es könnte Intensität schaffen, aber Intensität ist nicht dasselbe wie Sicherheit. Liebe kann sich langsam entfalten, doch Langsamkeit und Vagheit sind nicht dasselbe. Eine langsame Beziehung kann immer noch ehrlich sein. Eine vage behält die andere Person oft emotional in der Schwebe.",
+            "Jesus lehrte, dass unser Ja ja sein sollte und unser Nein nein. Wahrhaftigkeit gehört innen in der Liebe. Eine Person, die dein Herz wertschätzt, wird sich darum kümmern, ob ihre Gegenwart in deinem Leben Beständigkeit oder Verwirrung hervorbringt. Klarheit bedeutet nicht augenblickliche Sicherheit oder sofortiges Engagement. Es bedeutet Ehrlichkeit über Richtung, Absicht und was realistisch angeboten werden kann.",
+            "Viele von uns tolerieren Mehrdeutigkeit, weil wir Angst haben, dass um Klarheit zu bitten das Fantasy enden wird. Wir würden lieber Hoffnung lebendig halten als einer schmerzhaften Antwort entgegensehen. Aber wenn Hoffnung nur durch das Vermeiden von Wahrheit überlebt, trägt sie die Seele langsam auf. Gott ist nicht der Autor von Verwirrung. Er vertieft Liebe nicht, indem er uns bittet, darin verloren zu bleiben.",
+            "**Eine Beziehung, die dich ständig raten lässt, lässt dich oft erschöpft, nicht sicher.** Berücksichtige, ob du Erklärungen um Mehrdeutigkeit herum gebaut hast, nur um Hoffnung zu bewahren. Gott antwortet vielleicht nicht jede Frage in einem Moment, aber er führt Herzen aus Verwirrung heraus und in die Wahrheit."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, bring mein Herz aus Verwirrung heraus. Wenn ich Hoffnung durch Raterei lebendig gehalten habe, gib mir Mut, dem gegenüberzustehen, was wahr ist. Hilf mir, Verwirrung nicht für Romantik zu halten und Instabilität nicht für Tiefe. Gib mir Unterscheidung und gesunde Grenzen, damit meine Sanftheit nicht zu Selbstverrat wird und meine Liebe meine eigene Integrität nicht kostet. Danke dir, dass du von meiner Schwäche nicht abgestoßen wirst, sondern willens bist, näher zu kommen, mich zu unterstützen und mich weiter zu lehren. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Matthäus 5:37",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "37",
+              "translation": "Lutherbibel 1912",
+              "text": "Eure Rede aber sei: Ja, ja; Nein, nein…"
+            },
+            {
+              "display": "1. Korinther 14:33",
+              "book_code": "1CO",
+              "chapter": 14,
+              "verses": "33",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn Gott ist nicht ein Gott der Unordnung, sondern des Friedens…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Grenzen gehören in die Liebe hinein, nicht außerhalb",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Thessalonicher 4:3-4",
+            "book_code": "1TH",
+            "chapter": 4,
+            "verses": "3-4",
+            "translation": "Lutherbibel 1912",
+            "text": "Das ist Gottes Wille, eure Heiligung… daß ein jeglicher unter euch sein Gefäß in Heiligkeit und Ehrerbietung zu beherbergen lerne…"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Ein häufiges Missverständnis in der Beziehung ist der Glaube, dass Grenzen emotionale Distanz signalisieren.",
+            "Wir könnten anfangen zu denken, dass wenn wir wirklich offen, liebevoll und ernsthaft wären, wir so viele Grenzen nicht bräuchten. Aber starke Liebe wird nicht durch unscharfe Linien bewiesen. Grenzen helfen uns ehrlich zu handeln. Sie sagen uns, wann man verlangsamen sollte, wann man bessere Fragen stellen sollte, wann Frieden geschützt werden sollte und wann man nicht sein Begehren die Realität überholen lässt. Gottes Weisheit ist nicht nur darum, uns von offensichtlichen Fehlern zu bewahren. Es geht auch darum, Liebe in der Wahrheit wachsen zu lassen, anstatt im Druck oder in der Verwirrung.",
+            "Erste Thessalonicher spricht von Heiligkeit als Gottes Wille. In Beziehungen beinhaltet Heiligkeit mehr als moralische Zurückhaltung. Es bedeutet auch nicht, der Gefühlsanbindung Raum zu geben, Klarheit, Integrität und Frieden zu überholen. Echte Liebe verlangt nicht nach Dunkelheit, Geheimnis oder Eile, um sich lebendig anzufühlen. Sie kann Geduld überstehen. Tatsächlich offenbart Geduld oft, ob das, was wir Liebe nennen, genug Substanz hat, um auszudauern.",
+            "Ich denke, viele Frauen brauchen hier Freiheit. Eine Grenze ist keine Ablehnung von Liebe. Es ist eine Weise, Liebe Gewicht zu ehren. Es sagt, dass das Herz wichtig ist, der Körper wichtig ist, Zeit ist wichtig und Wahrheit ist wichtig. Wenn eine Beziehung gesunde Grenzen nicht tolerieren kann, dann ist das Problem nicht, dass du zu bewacht bist. Es könnte sein, dass die Beziehung darauf beruht, dass du bereit bist, dich zu überfordern.",
+            "**Je mehr wert eine Beziehung hat, desto mehr verdient sie, langsam in der Wahrheit aufgebaut zu werden.** Erwägen Sie heute, welche Grenze Sie wissen, dass Sie brauchen, aber Angst haben zu benennen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lehre mich, welche Art von Grenzen liebevoll, weise und ehrend für mich selbst und die andere Person sind. Wenn ich Angst habe zu verlangsamen, klar zu sprechen oder Grenzen zu setzen, wirst mir in dieser Angst widerstehen. Hilf mir, mich nicht zu beeilen, sondern langsam in der Wahrheit aufzubauen. Gib mir Unterscheidung und gesunde Grenzen, damit meine Sanftheit nicht zu Selbstverrat wird und meine Liebe meine eigene Integrität nicht kostet. Danke dir, dass du von meiner Schwäche nicht abgestoßen wirst, sondern willens bist, näher zu kommen, mich zu unterstützen und mich weiter zu lehren. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Thessalonicher 4:3-4",
+              "book_code": "1TH",
+              "chapter": 4,
+              "verses": "3-4",
+              "translation": "Lutherbibel 1912",
+              "text": "Das ist Gottes Wille, eure Heiligung… daß ein jeglicher unter euch sein Gefäß in Heiligkeit und Ehrerbietung zu beherbergen lerne…"
+            },
+            {
+              "display": "Jakobus 1:5",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Wenn es aber jemandem unter euch an Weisheit mangelt, so bitte er Gott, der da gerne gibt jedermann ohne Vorwurf…"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Gefühle allein können keine Zukunft tragen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Matthäus 7:24-25",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "24-25",
+            "translation": "Lutherbibel 1912",
+            "text": "Darum, wer diese meine Rede hört und tut sie, den vergleiche ich mit einem klugen Mann, der sein Haus auf Felsen baute…"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Gefühle sind wichtig, und wir müssen sie nicht ablehnen, um weise zu sein.",
+            "Chemie, Leichtigkeit, Entzücken, geteiltes Gelächter und emotionale Verbindung sind echte Geschenke. Aber wenn eine Beziehung eine Zukunft tragen will, wird sie mehr als Resonanz brauchen. Sie wird Charakter, Ehrlichkeit, Verantwortung, Selbstkontrolle, spirituelle Richtung und die Fähigkeit brauchen, echtes Leben zu ertragen. Dating ist nicht nur darum, ob wir uns jetzt genießen. Es geht auch darum, ob die Beziehung Wahrheit, Enttäuschung, Konflikt, Veränderung und Zeit ertragen kann.",
+            "Jesus sprach von Häusern auf Stein und Häusern auf Sand gebaut. Beziehungen können auch so gebaut werden. Manche Dinge fühlen sich unmittelbar und schön an, aber sie können nicht viel Gewicht halten. Sie sehen vielversprechend aus, bis Druck offenbart, wie wenig darunter ist. Gott bittet uns nicht, Entzücken abzulehnen oder Freude zu verdächtigen. Er bittet uns, unsere Zukunft nicht auf das zu bauen, was Sturm nicht standhalten kann.",
+            "Diese Frage kann sich nüchtern anfühlen, besonders wenn dein Herz bereits angebunden ist. Aber es ist eine liebevolle Frage. Worauf ruht diese Beziehung wirklich? Ist sie nur auf Anziehung und Hoffnung gebaut, oder gibt es Beweise für Integrität, Beständigkeit und gemeinsame Richtung? Weisheit macht Liebe nicht kälter. Sie gibt Liebe eine wahrere Chance, auszudauern.",
+            "**Wenn Liebe ausdauern soll, muss sie auf mehr als Gefühl gebaut werden. Sie muss echtes Leben tragen können.** Berücksichtige, worauf diese Beziehung wirklich ruht. Diese Frage früh zu stellen könnte das Herz vor tieferen Schmerzen später bewahren."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, hilf mir nicht nur auf Gefühle zu schauen, sondern auch auf Fundament. Wenn ich ständig von einer augenblicklichen Wärme angezogen werde, während ich übersehe, ob eine Beziehung eine Zukunft tragen kann, erinnere mich. Lehre mich, Liebe durch deine Weisheit zu sehen und halte mich davor ab, zu schnell auf Sand zu bauen, wenn du mich rufst, auf festeren Felsen zu warten. Gib mir ein klareres Herz, damit Angst vor Liebe Weisheit nicht übertönt und das Gefühl des Augenblicks nicht den Frieden erstickt, den du mir gibst. Wenn es einen Platz gibt, an dem ich innehalten muss, gib mir Mut. Wenn es einen Platz gibt, an dem ich warten muss, gib mir Geduld. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Matthäus 7:24-25",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "24-25",
+              "translation": "Lutherbibel 1912",
+              "text": "Darum, wer diese meine Rede hört und tut sie, den vergleiche ich mit einem klugen Mann, der sein Haus auf Felsen baute…"
+            },
+            {
+              "display": "Sprüche 24:3",
+              "book_code": "PRO",
+              "chapter": 24,
+              "verses": "3",
+              "translation": "Lutherbibel 1912",
+              "text": "Durch Weisheit wird ein Haus gebaut und durch Verstand wird es gefestigt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Gott ist kein Zuschauer in der Liebe",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Lutherbibel 1912",
+            "text": "Vertrau auf den Herrn von ganzem Herzen und verlass dich nicht auf deinen Verstand… so wird er deine Pfade ebnen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal behandeln wir Dating so, als würde es hauptsächlich uns gehören und Gott wird nur danach eingeladen.",
+            "Wir beten über Arbeit, Dienst, Familienbeschlüsse und sichtbare Lebensübergänge. Aber wenn es um Anziehung, Anhänglichkeit und Beziehungsmomentum geht, verlassen wir uns oft stärker auf Gefühle, Chemie, Zeitpunkt oder die Meinungen der Menschen um uns. Doch Gott ist nicht ein Zuschauer in der Liebe. Er kümmert sich um die Richtung deiner Zuneigung, den Zustand deines Herzens und die Art von Beziehung, die dich formt.",
+            "Sprüche sagt uns, von ganzen Herzen auf den Herrn zu trauen und nicht auf unsere eigene Einsicht zu lehnen. Die Schwierigkeit ist oft nicht, dass wir das Gebet völlig ablehnen. Es ist, dass wir bereits entschieden haben, was wir wollen, und wir bitten Gott hauptsächlich, es zu unterstützen. Echte Hingabe ist zarter und tiefer als das. Es sagt: Herr, hier ist mein Begehren, meine Angst, meine Anhänglichkeit, meine Eile und meine Hoffnung. Sprich in all dem hinein. Korrigiere mich wenn nötig. Verlangsame mich wenn nötig. Führe mich dahin, wo ich nicht natürlicherweise selbst gehen würde.",
+            "Das ist einer der befreiendsten Übergänge in der Liebe. Gott einzuladen, macht Romantik nicht kleiner. Sie macht sie wahrer. Wir verlieren Zärtlichkeit oder Sehnsucht nicht, wenn wir ihn führen lassen. Wir gewinnen Schutz, Klarheit und eine bessere Chance, Begehren nicht mit Weisheit zu verwechseln. Gott versucht nicht, der Liebe im Weg zu stehen. Er versucht, Liebe vor dem Ort zu bewahren, wo wir die Wahrheit aufgeben. Und wenn er uns korrigiert, ist es nicht, weil er Freude vorenthält, sondern weil er weiß, wie einfach unser Herzen etwas Kostbares nennen kann, das uns langsam schadet.",
+            "**Wenn wir Gott in die Liebe sprechen lassen, verlieren wir nicht die Freiheit. Wir gewinnen Schutz und Tiefe.** Frage dich selbst, ob du Gottes Stimme in dieser Beziehung wirklich Platz gegeben hast, oder ob du hauptsächlich gehofft hast, dass er das bestätigt, was du bereits wähltest."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, bleibe nicht am Rand meines romantischen Lebens stehen. Ich lade dich in meine Anziehung, meine Hoffnung, meine Unterscheidung und meinen Kampf ein. Wenn ich mich zu stark auf meine eigenen Gefühle und Urteile verlassen habe, korrigiere mich. Wenn ich hauptsächlich wollte, dass du meine Pläne bestätigst, demütige mich. Beruhige das, was impulsiv in mir ist, und stärke das, was ehrlich ist. Lehre mich, mich nicht vor deiner Anleitung zu fürchten, auch wenn sie mich verlangsamt oder umleitet. Sei der wahre Herr, der mich auch in der Liebe führt, und halte mein Herz so weich, dass es folgen kann, wohin du führst. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Lutherbibel 1912",
+              "text": "Vertrau auf den Herrn von ganzem Herzen und verlass dich nicht auf deinen Verstand… so wird er deine Pfade ebnen."
+            },
+            {
+              "display": "Psalm 32:8",
+              "book_code": "PSA",
+              "chapter": 32,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich will dir Rat geben und dich unterweisen… Ich will meine Augen auf dich richten und dich zurechtweisen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Baue Liebe auf Stein und vertraue dich Gottes Händen an",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Matthäus 7:24",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "24",
+            "translation": "Lutherbibel 1912",
+            "text": "Darum, wer diese meine Rede hört und tut sie, den vergleiche ich mit einem klugen Mann, der sein Haus auf Felsen baute."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Bis zum siebten Tag hast du vielleicht nicht bei jeder Beziehung sofortige Gewissheit.",
+            "Einige Fragen sind noch da, einige Antworten sind noch nicht gekommen und einige Loslassungen brauchen noch Zeit. Aber eine Sache, die wir diese sieben Tage gelernt haben, ist, Liebe nicht nur als die Frage zu behandeln, ob sie erfolgreich sein wird, sondern sie zu sehen als die Frage, worauf ich mein Herz und meine Zukunft bauen will.",
+            "Liebe auf Stein zu bauen bedeutet nicht nur, die richtige Person zu wählen, es bedeutet auch, willens zu sein, in der Liebe echt zu leben, klar, gottesfürchtig und dein Herz zu bewahren. Wirklich stabile Beziehungen werden Menschen nicht nur emotional erhitzen, sie werden Menschen zunehmend friedlich machen. Sie werden dich nicht von Gott fortbringen oder von dir selbst, sondern dich in der Liebe unvollständiger machen.",
+            "Ich denke, das ist der Segen, den Gott uns geben will. Nicht uns vor Liebe Angst zu lehren, sondern uns zu lehren, nicht einfach unser Herz an einen Platz zu geben, wo es treiben wird. Wir können mögen, können hoffen, können Gefühl ernst nehmen, aber wir können in diesem Prozess auch zunehmend unterscheiden, zunehmend unser Herz bewahren.",
+            "**Echte Liebe wird dich nicht von Gott fortbringen, um sie zu fassen, und wird dich nicht verlangen, dich selbst zu verlieren, um zu bleiben.** Nimm alle deine Fragen über Liebe, deine Hoffnungen, dein Loslassens und dein Unbekanntes vor Gott. Nicht weil alles klar ist, sondern weil du weißt, dass du von jetzt an Liebe und dich selbst ernster in Gottes Hände legen willst."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke dir, dass du mich in diesen sieben Tagen über Liebe umgelehrt hast. Ich weiß, dass der Weg vorne vielleicht nicht sofort ganz klar wird, aber danke, dass du mir geholfen hast, mein Herz weiser zu bewahren und Liebe auf etwas Stabileres zu bauen. Leg meine Gefühle, meine Hoffnungen und meine Zukunft voller in deine Hände. Wenn etwas fortgesetzt werden sollte, gib Frieden. Wenn etwas losgelassen werden sollte, gib Mut. Hilf mir nicht nur Liebe zu suchen, sondern mehr dein zu sein in der Art, wie ich liebe. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Matthäus 7:24",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "24",
+              "translation": "Lutherbibel 1912",
+              "text": "Darum, wer diese meine Rede hört und tut sie, den vergleiche ich mit einem klugen Mann, der sein Haus auf Felsen baute."
+            },
+            {
+              "display": "Psalm 37:5",
+              "book_code": "PSA",
+              "chapter": 37,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Befiehl dem Herrn deinen Weg und vertrau ihm; er wird es vollbringen."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

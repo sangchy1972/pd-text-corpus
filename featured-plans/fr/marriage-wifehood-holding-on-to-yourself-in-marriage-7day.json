@@ -1,0 +1,520 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI09",
+    "slug": "holding-on-to-yourself-in-marriage",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rôles et Identité",
+      "secondary": "marriage-wifehood",
+      "secondary_label": "Mariage et Épouse"
+    },
+    "tags": [
+      "mariage",
+      "epouse",
+      "partenariat",
+      "communication",
+      "alliance",
+      "amour"
+    ],
+    "title": "Tenez bon à vous-même dans le mariage",
+    "subtitle": "Rester entière en aimant profondément",
+    "audience": {
+      "life_stage": [
+        "femmes mariées",
+        "épouses"
+      ],
+      "emotional_state": [
+        "engagée",
+        "tiraillée",
+        "cherchant le renouvellement"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces sept jours vous accompagnent plus profondément dans le travail émotionnel, l'épuisement et la tension identitaire au sein du mariage, vous aidant à aimer profondément sans perdre votre essence.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#D4B896",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_quiet_kitchen_morning_warm",
+      "icon": "two-rings-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Genèse 2:24",
+        "book_code": "GEN",
+        "chapter": 2,
+        "verses": "24"
+      },
+      {
+        "display": "Jean 15:4",
+        "book_code": "JHN",
+        "chapter": 15,
+        "verses": "4"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Aimer quelqu'un ne signifie pas que je dois disparaître",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Genèse 2:24",
+            "book_code": "GEN",
+            "chapter": 2,
+            "verses": "24",
+            "translation": "Louis Segond 1910",
+            "text": "C'est pourquoi l'homme quittera son père et sa mère, et s'attachera à sa femme, et ils deviendront une seule chair."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'une des pertes les plus silencieuses dans le mariage est la disparition lente de soi-même.",
+            "Vous vous souvenez, vous gérez, vous portez, vous adoucissez, vous vous adaptez et vous maintenez les choses ensemble. La vie continue. Le mariage demeure. Mais quelque part en vous, une question commence à naître : combien de moi est encore vraiment présent ici ? L'amour n'a jamais été destiné à effacer une personne, pourtant beaucoup d'entre nous nous éloignons lentement de nous-mêmes sans même nous en apercevoir.",
+            "La Genèse dit que deux deviennent une seule chair. Mais l'unité n'a jamais signifié disparition. Dieu n'a pas conçu le mariage pour qu'une personne s'efface tandis que l'autre reste plus complètement présente. L'union n'est pas l'absorption. L'amour devrait laisser de la place à l'intégrité, non exiger son abandon.",
+            "Souvent cette perte se produit silencieusement. Non pas en un seul acte dramatique, mais à travers les habitudes quotidiennes de vous reculer, de vous adapter, de vous minimiser et de vous repousser. Au fil du temps, une femme peut oublier qu'elle aussi a des désirs, des convictions, des rythmes et des dons qui importent encore devant Dieu. Il ne considère pas ces choses comme gênantes. Il se préoccupe de savoir si l'amour laisse de la place à la personne qu'il vous a créée d'être.",
+            "**Le mariage a été créé pour l'union, non pour l'effacement.**",
+            "Considérez aujourd'hui quelles parties de vous-même ont été tranquillement repoussées trop loin à l'arrière-plan. Dieu ne considère pas cette préoccupation comme égoïste. Il se soucipe de savoir si vous vivez toujours comme une personne entière dans l'amour."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, si je suis devenue trop habituée à me mettre en dernier dans le mariage, aide-moi à le voir. Enseigne-moi que l'amour n'est pas disparition, et que je n'ai pas été appelée à m'avaler entièrement pour continuer à aimer. Garde-moi, et aide-moi à rester entière en aimant. Garde mon cœur de durcir lentement sous la déception, la fatigue ou le ressentiment silencieux. Enseigne-moi à parler avec vérité, à me tenir doucement, et à apporter même mes besoins non exprimés à ta présence plutôt que de les enterrer dans le silence. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Genèse 2:24",
+              "book_code": "GEN",
+              "chapter": 2,
+              "verses": "24",
+              "translation": "Louis Segond 1910",
+              "text": "C'est pourquoi l'homme quittera son père et sa mère, et s'attachera à sa femme, et ils deviendront une seule chair."
+            },
+            {
+              "display": "Marc 12:31",
+              "book_code": "MRK",
+              "chapter": 12,
+              "verses": "31",
+              "translation": "Louis Segond 1910",
+              "text": "Tu aimeras ton prochain comme toi-même."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Le travail émotionnel peut vider une personne sans qu'elle s'en aperçoive",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Galates 6:2",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "2",
+            "translation": "Louis Segond 1910",
+            "text": "Portez les fardeaux les uns des autres, et accomplissez ainsi la loi de Christ."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Il y a dans le mariage une fatigue qui ne s'inscrit pas toujours dans l'agenda, mais qui pèse lourdement dans le corps et le cœur.",
+            "Vous suivez les besoins, vous gérez les humeurs, vous adoucissez la tension, vous anticipez les conflits et vous absorbez l'instabilité avant qu'elle ne déborde. Une grande partie de ce travail reste invisible. C'est l'une des raisons pour lesquelles le travail émotionnel est si épuisant. Il a du poids, mais souvent pas de nom. Vous pouvez continuer à fonctionner en devenant intérieurement plus vide.",
+            "Galates nous dit de porter mutuellement nos fardeaux. Le mariage était destiné à inclure un soutien mutuel, non pas une seule personne tenant silencieusement le climat émotionnel de tout le foyer. Dieu voit le travail invisible. Il ne le considère pas comme ordinaire ou jetable.",
+            "Ce qui rend le travail émotionnel si décourageant, c'est qu'il est rarement nommé. Les gens remarquent que la maison n'a pas explosé, que la tension a été adoucie, que tout le monde reste relativement stable. Ils ne remarquent pas toujours qui a absorbé l'impact en premier. Dieu remarque. Il ne considère pas votre travail invisible comme petit simplement parce qu'il manque de langage visible.",
+            "Nommer ce travail caché peut être en soi une part de guérison. Cela brise la fausse supposition que toute stabilité cachée dans un mariage doit continuer à être portée par une seule personne.",
+            "**Quand une personne reste le mur porteur émotionnel, sa force s'amincit finalement.**",
+            "Demandez-vous aujourd'hui quels fardeaux cachés vous avez portés pendant longtemps. Les apporter à la lumière de Dieu peut être l'une des premières étapes vers la réparation."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, tu vois le poids caché que je porte dans le mariage. Merci de remarquer ce que personne d'autre ne voit pleinement. Ne me laisse pas continuer à m'user dans les endroits qui n'ont jamais été tenus. Enseigne-moi comment apporter ces fardeaux invisibles à la lumière plutôt que de les porter silencieusement à jamais. Garde mon cœur de durcir lentement sous la déception, la fatigue ou le ressentiment silencieux. Enseigne-moi à parler avec vérité, à me tenir doucement, et à apporter même mes besoins non exprimés à ta présence plutôt que de les enterrer dans le silence. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Galates 6:2",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "Portez les fardeaux les uns des autres, et accomplissez ainsi la loi de Christ."
+            },
+            {
+              "display": "Matthieu 11:28",
+              "book_code": "MAT",
+              "chapter": 11,
+              "verses": "28",
+              "translation": "Louis Segond 1910",
+              "text": "Venez à moi, vous tous qui êtes fatigués et chargés, et je vous donnerai du repos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Les limites ne rejettent pas le mariage ; elles protègent la vie",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 4:23",
+            "book_code": "PRO",
+            "chapter": 4,
+            "verses": "23",
+            "translation": "Louis Segond 1910",
+            "text": "Garde ton cœur plus que toute autre chose..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Dans le mariage, les limites sont souvent mal comprises comme de la froideur, particulièrement si vous avez longtemps été enseignée qu'une bonne épouse doit continuer à s'adapter, à absorber et à accommoder.",
+            "Mais quand l'accommodement devient une effacement de soi, les limites ne sont plus optionnelles. Elles deviennent une façon dont la vie est protégée. Les Proverbes disent de garder votre cœur par-dessus tout. Le mariage n'annule pas cette sagesse. Si quelque chose, les relations étroites la rendent encore plus nécessaire. Plus la relation est proche, plus il devient important de rester véridique sur ce que votre âme peut porter.",
+            "Les limites ne repousent pas l'amour. Elles empêchent l'amour d'être construit sur votre déséquilibre. Un mariage sain ne s'effondre pas simplement parce que vous parlez honnêtement de vos limites. S'il réagit violemment à vos limites, cela vous dit quelque chose d'important.",
+            "Beaucoup de femmes craignent les limites non pas parce qu'elles croient que les limites sont mauvaises, mais parce qu'elles craignent ce que l'honnêteté coûtera. Si nommer votre limite semble immédiatement dangereux, cela révèle déjà quelque chose sur la nature de la relation. Dieu ne vous abandonne pas quand vous devenez véridique. Il vous stabilise souvent le plus clairement à ce moment.",
+            "Et quand une limite est énoncée honnêtement, elle peut devenir le début d'un mariage plus véridique plutôt que la fin de la tendresse.",
+            "**Les limites ne sont pas contre l'amour. Elles empêchent l'amour de consumer la personne à l'intérieur de lui.**",
+            "S'il y a une limite que vous avez eu peur de nommer, notez-la aujourd'hui. Même si vous n'êtes pas encore prête à la exprimer à voix haute, laissez-vous reconnaître qu'elle a de l'importance."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, ne me laisse pas continuer à confondre l'absence de limites avec l'amour. Si j'ai eu peur de reconnaître mes limites parce que je ne veux pas déranger la paix, tiens-moi ferme. Enseigne-moi à garder mon cœur plus honnêtement, et aide-moi à faire confiance que tu ne me quitteras pas quand je dis la vérité. Donne-moi du discernement et des limites saines, afin que ma douceur ne devienne pas une trahison de moi-même et que mon amour ne me coûte pas mon intégrité. Merci de ne pas être repoussé par ma faiblesse, mais de vouloir te rapprocher, me soutenir et continuer à m'apprendre. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 4:23",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23",
+              "translation": "Louis Segond 1910",
+              "text": "Garde ton cœur plus que toute autre chose..."
+            },
+            {
+              "display": "Éphésiens 4:25",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "25",
+              "translation": "Louis Segond 1910",
+              "text": "C'est pourquoi, rejetant le mensonge, que chacun de vous parle avec vérité à son prochain..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Prendre soin du mariage ne signifie pas vous négliger",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Éphésiens 5:28-29",
+            "book_code": "EPH",
+            "chapter": 5,
+            "verses": "28-29",
+            "translation": "Louis Segond 1910",
+            "text": "Maris, aimez vos femmes, comme Christ a aimé l'Église... Nul n'a jamais haï sa propre chair ; au contraire il la nourrit et en prend soin..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Prendre soin de soi est souvent mal compris comme de l'égoïsme, pourtant une personne qui a été épuisée pendant trop longtemps ne peut pas continuer à aimer sainement indéfiniment.",
+            "Il est facile de continuer à reporter vos propres besoins car il y a toujours quelque chose de plus urgent dans le mariage, la maison ou la famille. Mais quand « je peux attendre plus tard » devient un mode de vie, l'âme se dessèche. Au fil du temps, cette sécheresse n'a pas d'effet privé. Elle commence à affecter la relation aussi.",
+            "Éphésiens parle de l'amour d'une manière qui suppose la valeur du corps et de soi. Le mariage n'a jamais été conçu pour être soutenu par l'automutilation constante d'une seule personne. Une union saine n'est pas deux personnes qui restent ensemble. C'est deux personnes qui restent assez vivantes pour aimer.",
+            "Beaucoup d'entre nous ont transformé « je peux persévérer » en un mode de vie permanent. Mais l'endurance sans reconstitution ne rend pas automatiquement l'amour plus sain. Cela rend souvent une personne plus sèche. Dieu nous a donné des corps, des limites émotionnelles et des besoins réels non pour nous faire honte, mais pour nous apprendre à vivre fidèlement en eux.",
+            "Parfois, l'acte d'amour plus sain n'est pas d'essayer plus fort, mais de recevoir assez de soin pour redevenir pleinement présent.",
+            "**Une personne épuisée ne devient pas plus aimante simplement en poussant plus fort.**",
+            "Considérez quel besoin fondamental vous avez ignoré pendant trop longtemps. Repos, calme, espace, soutien, temps avec Dieu. Ce ne sont pas des luxes. Ils font partie de comment une personne reste capable d'aimer avec constance."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, corrige ma mauvaise compréhension de l'auto-soin. Si j'ai traité l'auto-négligence comme de l'amour, montre-moi comment cela ne me laisse que plus épuisée. Aide-moi à prendre à nouveau les besoins fondamentaux au sérieux, et enseigne-moi que prendre soin de moi n'est pas m'éloigner du mariage, mais en faire partie plus sainement. Garde mon cœur de durcir lentement sous la déception, la fatigue ou le ressentiment silencieux. Enseigne-moi à parler avec vérité, à me tenir doucement, et à apporter même mes besoins non exprimés à ta présence plutôt que de les enterrer dans le silence. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Éphésiens 5:28-29",
+              "book_code": "EPH",
+              "chapter": 5,
+              "verses": "28-29",
+              "translation": "Louis Segond 1910",
+              "text": "Maris, aimez vos femmes, comme Christ a aimé l'Église... Nul n'a jamais haï sa propre chair ; au contraire il la nourrit et en prend soin..."
+            },
+            {
+              "display": "Marc 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "Louis Segond 1910",
+              "text": "Venez à l'écart dans un lieu désert, et reposez-vous un peu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Mes besoins non satisfaits peuvent aussi être apportés devant Dieu",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 62:8",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "8",
+            "translation": "Louis Segond 1910",
+            "text": "Confiez-vous en lui en tout temps, peuple ; versez vos cœurs devant sa face..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'une des parties les plus difficiles du mariage n'est pas toujours un conflit ouvert, mais l'ache silencieuse de besoins longtemps non satisfaits.",
+            "Le besoin d'être comprise, chérie, répondante, remarquée, réconfortée et rencontrée émotionnellement. Quand ces besoins restent intouchés pendant trop longtemps, quelque chose en nous peut durcir ou s'engourdir. Nous nous disons de ne pas trop espérer parce que la déception fait mal.",
+            "Les Psaumes font de la place pour le besoin. Ils ne prétendent pas la force où il y a le vide. Le mariage n'enlève pas la réalité du désir. Dieu sait ce que vous n'avez pas reçu de votre époux, et il ne minimise pas la douleur de cette absence. Apporter le besoin à lui n'est pas de la déloyauté. C'est une forme de vérité.",
+            "Beaucoup de personnes mariées se sentent embarrassées par ces besoins, comme si les nommer signifiait que la relation a échoué ou qu'elles-mêmes demandent trop. Mais Dieu ne nous demande jamais de prouver la maturité par l'engourdissement. Souvent, la maturité commence quand nous pouvons enfin dire, sans drame et sans honte : c'est ce qui m'a manqué et c'est pourquoi cela fait mal.",
+            "**Apporter les besoins non satisfaits devant Dieu n'est pas abandonner le mariage. C'est permettre à la grâce d'entrer dans le lieu du manque.**",
+            "Aujourd'hui, dites à Dieu un besoin que vous avez porté surtout en silence. Même si vous ne savez pas encore comment l'exprimer dans votre mariage, vous pouvez le lui exprimer."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, j'apporte devant toi les besoins que j'ai portés longtemps et que j'ai à peine osé avouer. Merci de ne pas être ennuyé par mon désir, et de ne pas minimiser ma déception dans le mariage. Console-moi d'abord, et garde mon cœur de durcir dans cette douleur. S'il y a des choses que j'ai besoin de dire à mon époux, donne-moi de la sagesse et le moment approprié. Garde mon cœur de durcir lentement sous la déception, la fatigue ou le ressentiment silencieux. Enseigne-moi à parler avec vérité, à me tenir doucement, et à apporter même mes besoins non exprimés à ta présence plutôt que de les enterrer dans le silence. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Confiez-vous en lui en tout temps, peuple ; versez vos cœurs devant sa face..."
+            },
+            {
+              "display": "Philippiens 4:6",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "6",
+              "translation": "Louis Segond 1910",
+              "text": "Ne vous inquiétez de rien ; mais en toute chose, par la prière et la supplication, avec actions de grâces, faites connaître vos demandes à Dieu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Dieu ne répare pas seulement le mariage ; il prend soin aussi de moi",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 56:8",
+            "book_code": "PSA",
+            "chapter": 56,
+            "verses": "8",
+            "translation": "Louis Segond 1910",
+            "text": "Tu comptes mes déambulations ; mets mes larmes dans ta fiole..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Parfois, nous réduisons tout à une seule question : comment ce mariage peut-il être réparé ?",
+            "Cela compte. Dieu se préoccupe de l'alliance, de la réconciliation et de la guérison. Mais il ne s'intéresse pas seulement au mariage comme institution. Il se soucipe aussi de vous à l'intérieur de lui. Il voit les larmes, l'épuisement, l'effort, le chagrin et l'attente qui appartiennent à votre propre histoire. Le Psaume 56 dit que Dieu garde nos larmes. Ce n'est pas un langage sentimental. C'est une attention personnelle.",
+            "Nous oublions cela nous-mêmes. Nous supposons que si le mariage peut s'améliorer, notre propre fatigue peut attendre. Mais Dieu ne vous traite pas ainsi. Il ne vous demande pas de disparaître pour le bien de la réparation. Il se préoccupe de l'alliance, et il se préoccupe aussi de la femme qui a porté tant de choses à l'intérieur.",
+            "Cela signifie que votre guérison n'est pas une question secondaire. C'est une partie de la tendresse avec laquelle Dieu tient toute cette histoire.",
+            "**Dieu valorise le mariage, et il valorise aussi la femme à l'intérieur du mariage.** Aujourd'hui, ne priez pas seulement pour la relation. Priez pour votre propre cœur, corps et vie émotionnelle. Vous n'êtes pas un accessoire de ce mariage. Vous êtes quelqu'un à qui Dieu s'occupe avec tendresse.",
+            "Vos larmes ne sont pas une note marginale dans cette histoire ; elles font partie de ce à quoi Dieu s'occupe tendrement.",
+            "Il ne demande pas que vous attendiez que le mariage soit guéri avant que votre propre cœur soit autorisé à recevoir du soin.",
+            "Sa compassion n'attend pas les résultats avant de se diriger vers vous."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de ne pas voir seulement mon mariage, mais aussi de me voir en lui. Merci de ne pas négliger la fatigue, la blessure et les larmes que d'autres ne connaissent peut-être pas. Aujourd'hui je m'apporte aussi à toi. Prends soin de moi, guéris-moi et soutiens-moi. Rappelle-moi que dans tes yeux, je ne suis pas secondaire à cette relation. Moi aussi, je suis profondément vue et valorisée. S'il y a un endroit où j'ai besoin de me repentir, de parler, d'attendre ou d'apprendre à aimer à nouveau, conduis-moi là-bas toi-même, et ne laisse pas l'orgueil garder la grâce de l'entrée. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Tu comptes mes déambulations ; mets mes larmes dans ta fiole..."
+            },
+            {
+              "display": "1 Pierre 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Louis Segond 1910",
+              "text": "Remettez à Dieu tous vos soucis, car il prend soin de vous."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "Aimer profondément tout en restant enraciné en Dieu",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jean 15:4",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "4",
+            "translation": "Louis Segond 1910",
+            "text": "Demeurez en moi, et moi en vous..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "À la fin de ces sept jours, le mariage lui-même n'est peut-être pas entièrement résolu.",
+            "Mais quelque chose peut devenir plus clair : Dieu ne nous a pas appelés à nous perdre à l'intérieur de l'amour. Il nous appelle à aimer profondément, et à rester enracinés en lui en le faisant. Le mariage compte, mais ce n'est pas la source finale de l'identité. Parce que Dieu est plus profond que le mariage, nous sommes capables d'aimer fidèlement sans donner tout le sens de notre vie à l'état de la relation.",
+            "Jean 15 dit : « Demeurez en moi. » Ce commandement compte profondément dans le mariage. Si nous n'avons pas une racine plus profonde que la relation, alors chaque secousse dans la relation peut nous secouer entièrement. Mais quand Dieu reste notre centre le plus vrai, nous pouvons faire face à la difficulté maritale sans perdre notre propre terrain intérieur.",
+            "Il y a une très grande stabilité dans cela. Quand Dieu reste la racine la plus profonde, l'état du mariage n'est plus la seule source de sens. Vous pouvez prendre la relation au sérieux sans en faire votre centre final. Vous pouvez faire le deuil, espérer, réparer et attendre sans être spirituellement déracinée à chaque fois que le mariage tremble.",
+            "Ce genre d'enracinement ne rend pas l'amour plus petit. Cela rend l'amour plus libre, moins désespéré, et plus capable d'endurer sans consumer le soi.",
+            "**Le mariage est important, mais ce n'est pas la racine la plus profonde de mon âme.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de m'avoir rappelée à nouveau que le mariage compte profondément, mais tu es plus profond encore. Aide-moi à ne pas te perdre en aimant, ni à me perdre moi-même. Enracine-moi plus profondément en toi, afin qu'en face de réparation, d'attente, de déception ou d'espoir dans le mariage, je reste tenue dans un centre qui ne peut m'être ravi. Garde mon cœur de durcir lentement sous la déception, la fatigue ou le ressentiment silencieux. Enseigne-moi à parler avec vérité, à me tenir doucement, et à apporter même mes besoins non exprimés à ta présence plutôt que de les enterrer dans le silence. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jean 15:4",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "4",
+              "translation": "Louis Segond 1910",
+              "text": "Demeurez en moi, et moi en vous..."
+            },
+            {
+              "display": "Psaume 73:26",
+              "book_code": "PSA",
+              "chapter": 73,
+              "verses": "26",
+              "translation": "Louis Segond 1910",
+              "text": "Ma chair et mon cœur peuvent défaillir ; Dieu est le rocher de mon cœur et mon partage à jamais."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

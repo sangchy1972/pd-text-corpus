@@ -1,0 +1,503 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG12",
+    "slug": "empty-places-back-to-god",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "loneliness-emptiness",
+      "secondary_label": "Solitude et Vide"
+    },
+    "tags": [
+      "solitude",
+      "vide",
+      "appartenance",
+      "presence-de-dieu",
+      "communion"
+    ],
+    "title": "Ramener les Places Vides de Mon Cœur à Dieu",
+    "subtitle": "Ces sept jours nous invitent à explorer progressivement la solitude et le vide, conduisant le cœur vers Dieu avec douceur et compassion.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "seule",
+        "vide",
+        "invisible"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces sept jours nous invitent à explorer progressivement la solitude et le vide, conduisant le cœur vers Dieu avec douceur et compassion.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#C8D2DA",
+      "color_secondary": "#4A5563",
+      "image_key": "cover_woman_quiet_room_lamp_evening_loneliness",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Genèse 16:13",
+        "book_code": "GEN",
+        "chapter": 16,
+        "verses": "13"
+      },
+      {
+        "display": "Psaume 68:6",
+        "book_code": "PSA",
+        "chapter": 68,
+        "verses": "6"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "La Solitude et le Cœur Humain",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Genèse 16:13",
+            "book_code": "GEN",
+            "chapter": 16,
+            "verses": "13",
+            "translation": "Louis Segond 1910",
+            "text": "Hagar appela le Seigneur qui lui parlait par ce nom: Toi, tu es le Dieu qui me vois. Car elle dit: N'ai-je pas vu ici celui qui me voit?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Une certaine solitude n'a très peu à voir avec le fait d'être physiquement seul. Nous pouvons nous sentir terriblement seuls dans une pièce pleine de gens qui nous aiment. Cette solitude surgit quand il existe une déconnexion entre notre cœur intérieur et ceux autour de nous.",
+            "Ce type de solitude est particulièrement douloureux parce qu'il peut nous rendre honteux. Nous pouvons nous demander : « Pourquoi ne puis-je pas simplement me sentir proche de ces gens que j'aime ? » Ou nous pouvons commencer à croire qu'il y a quelque chose d'intrinsèquement mal à nous.",
+            "**La solitude la plus aiguë est souvent non l'absence de gens, mais l'absence de reconnaissance.** C'est le sentiment qu'aucune autre âme ne nous comprend vraiment, que nous sommes vus mais pas réellement connus. C'est d'être un spectateur dans notre propre vie.",
+            "Aujourd'hui, apportez honnêtement un moment de solitude devant Dieu. **La guérison commence par le fait de nous voir nous-mêmes à travers les yeux de Celui qui nous voit complètement.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je t'apporte ma solitude. Aide-moi à me sentir vraiment vu et connu par Toi.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Genèse 16:13",
+              "book_code": "GEN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "Louis Segond 1910",
+              "text": "Hagar appela le Seigneur qui lui parlait par ce nom: Toi, tu es le Dieu qui me vois. Car elle dit: N'ai-je pas vu ici celui qui me voit?"
+            },
+            {
+              "display": "Psaume 25:16",
+              "book_code": "PSA",
+              "chapter": 25,
+              "verses": "16",
+              "translation": "Louis Segond 1910",
+              "text": "Tourne-toi vers moi, et aie pitié de moi, car je suis isolé et malheureux."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Se Sentir Vide",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Deutéronome 31:8",
+            "book_code": "DEU",
+            "chapter": 31,
+            "verses": "8",
+            "translation": "Louis Segond 1910",
+            "text": "L'Éternel marchera lui-même devant toi, il sera avec toi, il ne t'abandonnera point, ne te délaissera point. N'aie point peur et ne t'alarme point."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Parfois, la solitude n'est pas notre problème principal. Parfois, notre vrai combat est le vide. Un vide qui s'étend bien au-delà de nos circonstances extérieures. Nous pouvons être entourés de bénédictions et, pourtant, nous nous sentons creux à l'intérieur.",
+            "C'est un vide que les accomplissements ne peuvent pas combler. Les promotions, les relations, les enfants, les réalisations—aucune d'elles ne peut le satisfaire. Il y a quelque chose de plus profond, quelque chose qui appelle à être rempli.",
+            "**Cet appel est l'appel de Dieu en nous.** C'est notre cœur qui reconnaît un manque. Un manque qui ne peut être comblé que par la présence de Dieu, par Sa vie en nous.",
+            "**Aujourd'hui, nommez le vide que vous portez.** Pas en détail—simplement en reconnaissant qu'il existe. C'est le premier pas vers la guérison."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Je reconnais le vide en moi. Seigneur, remplis-moi de Toi.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Deutéronome 31:8",
+              "book_code": "DEU",
+              "chapter": 31,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel marchera lui-même devant toi, il sera avec toi, il ne t'abandonnera point, ne te délaissera point. N'aie point peur et ne t'alarme point."
+            },
+            {
+              "display": "Psaume 27:10",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Si mon père et ma mère m'abandonnent, l'Éternel me recueillera."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Ce que Dieu Offre à la Place",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Luc 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "Louis Segond 1910",
+            "text": "Jésus lui répondit: Martha, Martha, tu te tracasses et tu t'agites pour beaucoup de choses. Une seule est nécessaire. Marie a choisi la bonne part, qui ne lui sera point ôtée."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La présence de Dieu n'est pas une drogue pour engourdir nos sentiments ou nous distraire de la douleur. Elle est quelque chose de bien plus noble que cela. Elle n'est pas une évasion de la réalité, mais plutôt une infusion de réalité plus profonde.",
+            "Quand nous nous ouvrons à la présence vivante de Dieu en nous, quelque chose commence à changer. Le vide n'est pas nié. Nos circonstances de solitude ne sont pas instantanément résolues. **Mais quelque chose de plus profond commence à nous remplir.** La présence de Dieu apaise les places vides du cœur.",
+            "**C'est l'une des promesses les plus magnifiques de Dieu, souvent négligée et oubliée**: sa présence actuelle, sa vie qui coule en nous, son amour qui nous pénètre et nous restaure.",
+            "Cette présence ne vient pas comme récompense pour notre perfection. Elle ne vient pas comme prix pour notre mérite. Elle vient à nous comme grâce pure, libre pour ceux qui la reçoivent.",
+            "Aujourd'hui, ouvrez votre cœur à cette grâce. Demandez à Dieu de vous remplir de sa présence. Pas pour une raison. Pas pour un objectif. Simplement pour être rempli par Celui qui vous aime infiniment."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Viens, Seigneur, et remplis ma solitude et mon vide avec Toi-même.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Luc 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "Louis Segond 1910",
+              "text": "Jésus lui répondit: Martha, Martha, tu te tracasses et tu t'agites pour beaucoup de choses. Une seule est nécessaire. Marie a choisi la bonne part, qui ne lui sera point ôtée."
+            },
+            {
+              "display": "Ecclésiaste 3:11",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "11",
+              "translation": "Louis Segond 1910",
+              "text": "Il a fait toute chose belle en son temps; même il a mis l'éternité dans le cœur de l'homme, sans que l'homme puisse découvrir l'œuvre que Dieu a faite, du commencement à la fin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "La Plénitude de Dieu",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jean 4:13-14",
+            "book_code": "JHN",
+            "chapter": 4,
+            "verses": "13-14",
+            "translation": "Louis Segond 1910",
+            "text": "Jésus lui dit: Quiconque boit de cette eau aura encore soif; mais celui qui boira de l'eau que je lui donnerai n'aura jamais soif, et l'eau que je lui donnerai deviendra en lui une source d'eau qui jaillira jusque dans la vie éternelle."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'une des plus grandes tragédies est que nous vivons comme si Dieu n'était disponible que pour les moments de crise. Nous attendons de nous sentir suffisamment désespérés. Suffisamment blessés. Suffisamment seuls. Alors nous crions vers Dieu comme si la vie dépendait de lui.",
+            "Mais Dieu nous appelle à quelque chose de plus profond. Il nous invite à une vie habitée—une vie où sa présence n'est pas une question de « si » ou de « quand », mais une réalité constante et courante.",
+            "**Quand nous commençons à chercher activement sa présence, sa vie commence à remplir chaque coin vide de notre cœur.** Pas une fois. Pas quand nous y avons droit. Mais continuellement, jour après jour.",
+            "Cette quête est l'un des actes les plus profonds d'amour que nous puissions mener. Pas l'amour pour Dieu—pas au début, du moins. Mais l'amour pour nous-mêmes dans le sens le plus profond: le fait de chérir notre propre cœur assez pour le remplir de sa présence.",
+            "**Aujourd'hui, engagez-vous à cultiver sa présence—non pas une fois, mais continuellement.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Que ta présence soit non un moment rare mais ma vie habituelle, Seigneur.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jean 4:13-14",
+              "book_code": "JHN",
+              "chapter": 4,
+              "verses": "13-14",
+              "translation": "Louis Segond 1910",
+              "text": "Jésus lui dit: Quiconque boit de cette eau aura encore soif; mais celui qui boira de l'eau que je lui donnerai n'aura jamais soif, et l'eau que je lui donnerai deviendra en lui une source d'eau qui jaillira jusque dans la vie éternelle."
+            },
+            {
+              "display": "Psaume 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "Louis Segond 1910",
+              "text": "Tu me feras connaître le chemin de la vie; il y a abondance de joie devant ta face, et du plaisir à ta droite pour toujours."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Personne n'était Destiné à Marcher Seul",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ecclésiaste 4:9-10",
+            "book_code": "ECC",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "Louis Segond 1910",
+            "text": "Deux valent mieux qu'un, parce qu'ils retirent un bon salaire de leur travail. Car s'ils tombent, l'un relève son compagnon; mais malheur à celui qui est seul et qui tombe sans avoir un second pour le relever."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'une des illusions que nous croyons facilement est que nous sommes censés résoudre la vie seuls. C'est une mentalité autodestructrice, particulièrement dans les cultures qui valorisent l'indépendance et l'autonomie. Nous sommes amenés à croire que chercher de l'aide est une faiblesse.",
+            "Mais notre conception révèle la vérité. Nous avons été créés pour une communauté. **Pas optionnellement. Essentiellement.** Nous sommes créés de telle sorte qu'une vie de solitude prolongée nous brise, peu importe sa richesse en autres domaines.",
+            "Cela signifie que votre lutte contre la solitude n'est pas une anomalie. Ce n'est pas un défaut de personnalité. C'est l'appel de votre design—l'appel à vous connexionner profondément avec les autres et, finalement, avec Dieu.",
+            "**Chercher la communauté n'est pas une faiblesse; c'est vivre en accord avec votre nature créée.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Mène-moi vers les vrais connexions, Seigneur. Aide-moi à vivre tel que je suis créé.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ecclésiaste 4:9-10",
+              "book_code": "ECC",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "Louis Segond 1910",
+              "text": "Deux valent mieux qu'un, parce qu'ils retirent un bon salaire de leur travail. Car s'ils tombent, l'un relève son compagnon; mais malheur à celui qui est seul et qui tombe sans avoir un second pour le relever."
+            },
+            {
+              "display": "Hébreux 10:24-25",
+              "book_code": "HEB",
+              "chapter": 10,
+              "verses": "24-25",
+              "translation": "Louis Segond 1910",
+              "text": "Prenons garde les uns aux autres, pour nous exciter à la charité et aux bonnes œuvres. N'abandonnons pas notre assemblée, comme c'est la coutume de quelques-uns; mais exhortons-nous mutuellement, et cela d'autant plus que vous voyez s'approcher le jour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Où Dieu Habite en Nous",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Éphésiens 3:17-19",
+            "book_code": "EPH",
+            "chapter": 3,
+            "verses": "17-19",
+            "translation": "Louis Segond 1910",
+            "text": "en sorte que Christ habite dans vos cœurs par la foi; afin que, bien enracinés et fondés dans la charité, vous puissiez comprendre avec tous les saints quelle en est la largeur, la longueur, la profondeur et la hauteur, et connaître l'amour de Christ, qui surpasse toute connaissance, en sorte que vous soyez remplis de toute la plénitude de Dieu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La phrase « Christ habite dans votre cœur » peut sembler assez familière pour perdre sa force. Nous la lisons comme un concept doctrinal plutôt que comme une réalité transformatrice. Mais c'est l'une des proclamations les plus radicales de l'Écriture.",
+            "La prière de Paul aux Éphésiens n'est pas que les croyants supportent simplement mieux. C'est que vous soyez fortifiés dans votre être intérieur, que vous sentiez profondément l'amour de Christ, que vous soyez remplis de la plénitude de Dieu.",
+            "Vous pouvez toujours désirer la compagnie, la tendresse et la compréhension humaine. Ces désirs ne disparaissent pas et ne devraient pas disparaître. Vous êtes humain. Vous avez besoin de connexion avec les autres.",
+            "**Mais la plénitude réelle n'est pas seulement Dieu m'aidant de l'extérieur, mais Christ vivant dans les places vides de mon cœur.** C'est la différence entre l'aide extérieure et la transformation intérieure.",
+            "**Aujourd'hui, priez avec simplicité: « Seigneur, habite plus profondément dans les places vides de mon cœur. »**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Entre dans mon cœur, Seigneur. Fais-en Ta demeure.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Éphésiens 3:17-19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "17-19",
+              "translation": "Louis Segond 1910",
+              "text": "en sorte que Christ habite dans vos cœurs par la foi; afin que, bien enracinés et fondés dans la charité, vous puissiez comprendre avec tous les saints quelle en est la largeur, la longueur, la profondeur et la hauteur, et connaître l'amour de Christ, qui surpasse toute connaissance, en sorte que vous soyez remplis de toute la plénitude de Dieu."
+            },
+            {
+              "display": "Jean 14:23",
+              "book_code": "JHN",
+              "chapter": 14,
+              "verses": "23",
+              "translation": "Louis Segond 1910",
+              "text": "Jésus lui répondit: Si quelqu'un m'aime, il gardera ma parole, et mon Père l'aimera; nous viendrons à lui et nous ferons notre demeure chez lui."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "Revenir à Dieu",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 68:6",
+            "book_code": "PSA",
+            "chapter": 68,
+            "verses": "6",
+            "translation": "Louis Segond 1910",
+            "text": "Dieu donne une maison à ceux qui sont abandonnés; Il met les captifs en liberté et les comble de biens. Les rebelles seuls demeurent dans une terre aride."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Ces sept jours vous ont invité à un voyage interne vers les places vides de votre cœur et, au-delà, vers le Dieu qui souhaite les remplir. Vous avez nommé votre solitude. Vous avez reconnu votre vide. Et vous avez reçu l'invitation à la présence permanente de Dieu.",
+            "**Ce n'est pas un voyage unique.** C'est le commencement d'une vie nueva habitude—d'une réorientation constante vers Dieu. Car c'est ainsi que le cœur humain fonctionne. Il a besoin de rester connecté à sa source de vie. Il a besoin de retourner à Dieu encore et encore.",
+            "Chaque jour, vous aurez des moments où vous oubliez que Dieu habite avec vous. Des moments où vous vous sentirez seuls malgré sa présence. C'est normal. C'est l'expérience humaine. Mais chaque moment offre une opportunité de revenir. De vous réorienter. De l'invoquer à nouveau.",
+            "**Vous n'êtes jamais trop loin de Dieu pour qu'Il vous recueille. Votre solitude ne vous sépare jamais de Sa présence permanente.** Demandez à nouveau. Écoutez à nouveau. Ouvrez votre cœur à nouveau à ce Dieu qui a attendu toute cette semaine pour vous dire simplement: Je te vois. Je t'aime. Reste avec Moi."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci que cette semaine ne m'a pas seulement aidé à voir ma solitude et mon vide plus clairement, mais m'a aussi montré comment Vous ramenez le cœur à la maison. Plantez les vérités les plus profondes de ce voyage plus fermement en moi, afin que lorsque le vide revient, je me souvienne plus rapidement que Vous êtes déjà ici. Vous êtes le Dieu qui me voit, le Seigneur qui habite en moi, et Celui qui donne une maison aux solitaires. Gardez-moi de n'être défini que par ce qui semble manquant, et laissez-moi être façonné plus profondément par Votre présence, Votre plénitude et Votre amour. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 68:6",
+              "book_code": "PSA",
+              "chapter": 68,
+              "verses": "6",
+              "translation": "Louis Segond 1910",
+              "text": "Dieu donne une maison à ceux qui sont abandonnés; Il met les captifs en liberté et les comble de biens. Les rebelles seuls demeurent dans une terre aride."
+            },
+            {
+              "display": "Éphésiens 3:19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "19",
+              "translation": "Louis Segond 1910",
+              "text": "et connaître l'amour de Christ, qui surpasse toute connaissance, en sorte que vous soyez remplis de toute la plénitude de Dieu."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

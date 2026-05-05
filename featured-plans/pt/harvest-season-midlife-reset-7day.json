@@ -1,0 +1,485 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS09",
+    "slug": "midlife-reset",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estações da Vida",
+      "secondary": "harvest-season",
+      "secondary_label": "Tempo de Colheita"
+    },
+    "tags": [
+      "meia-idade",
+      "mudancas-corporais",
+      "reorientacao",
+      "sabedoria",
+      "perimenopausa",
+      "menopausa"
+    ],
+    "title": "A Reinvenção da Meia-Idade",
+    "subtitle": "Permitindo que Deus reorganize o que importa no seu próximo capítulo",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "quarenta-cinquenta",
+        "meia-idade"
+      ],
+      "emotional_state": [
+        "reflexiva",
+        "reorientando-se",
+        "abraçando a mudança"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para mulheres na meia-idade que sentem que Deus não está encerrando sua história, mas reorganizando-a com sabedoria mais profunda e prioridades mais claras.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#E8B888",
+      "color_secondary": "#7A4A2C",
+      "image_key": "cover_woman_open_window_autumn_warm",
+      "icon": "ripening-fruit-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Isaías 43:18-19",
+        "book_code": "ISA",
+        "chapter": 43,
+        "verses": "18-19"
+      },
+      {
+        "display": "Josué 14:10-12",
+        "book_code": "JOS",
+        "chapter": 14,
+        "verses": "10-12"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Reorganizar Nem Sempre Significa Que Algo Saiu Errado",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Isaías 43:18-19",
+            "book_code": "ISA",
+            "chapter": 43,
+            "verses": "18-19",
+            "translation": "Almeida",
+            "text": "Portanto não vos lembreis das coisas passadas... Eis que faço coisa nova; agora sairá à luz; porventura não a reconhecereis?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A meia-idade costuma trazer uma inquietação sutil. A vida continua, as responsabilidades permanecem reais, e de fora muita coisa pode parecer funcional. Mas interiormente, uma mulher começa a sentir que não pode mais viver exatamente do mesmo jeito. Os ritmos, as prioridades, as definições de sucesso e as estruturas que a carregavam bem antes não se ajustam tão bem agora.",
+            "Muitas mulheres se culpam neste ponto. Elas assumem que a necessidade de reorganizar significa que falharam em gerenciar bem, não permaneceram gratas, ou não conseguiram ser fortes o suficiente. Mas muitas vezes a verdade mais profunda é mais simples: a estação mudou.",
+            "Deus diz em Isaías que está fazendo uma coisa nova e ela está brotando. Essa promessa não é apenas para mudanças dramáticas. Ela também fala de reorganizações internas mais lentas. Um reset não é sempre uma rejeição do passado. Às vezes é um reconhecimento de que a estação anterior completou seu trabalho, e Deus está agora arranjando a vida de forma diferente.",
+            "**Reorganizar nem sempre significa que você fez algo errado. Às vezes significa que Deus está levando você para um novo ajuste do próximo capítulo.** Isso muda o tom emocional da mudança. Reset não precisa soar como crise. Pode soar como convite.",
+            "Então hoje, diga algo gentil mas verdadeiro: talvez eu não esteja quebrada. Talvez tenha chegado ao ponto em que a vida precisa ser reorganizada. Essa honestidade pode se tornar a porta para a paz."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que quando começo a sentir que a vida precisa ser reorganizada, com frequência me culpo primeiro, como se tivesse de ter falhado para chegar a este ponto. Obrigada por me lembrar que às vezes a verdade mais profunda não é que sou quebrada, mas que a estação mudou. Dê-me clareza para que eu não me agarre às estruturas antigas por medo, nem caia em vergonha simplesmente porque a vida precisa ser reorganizada. Se Você está me levando para um novo capítulo, mantenha-me de não apenas reagir. Ajude-me a reorganizar com Você. Que este reset não seja um desmoronamento de pânico, mas uma reorganização em Suas mãos. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Isaías 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "Almeida",
+              "text": "Portanto não vos lembreis das coisas passadas... Eis que faço coisa nova; agora sairá à luz; porventura não a reconhecereis?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "A Meia-Idade Frequentemente Exige Soltar Definições Antigas",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Filipenses 3:7-8,13-14",
+            "book_code": "PHP",
+            "chapter": 3,
+            "verses": "7-8,13-14",
+            "translation": "Almeida",
+            "text": "Mas o que para mim era ganho reputei como perda por Cristo. E, na verdade, tenho também por perda todas as coisas, pela excelência do conhecimento de Cristo Jesus... esquecendo-me das coisas que para trás fico, e avançando para as que estão diante de mim."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Uma das lutas mais profundas da meia-idade não é apenas carregar muito, mas continuar a se interpretar através de definições antigas. Talvez seu valor tenha sido atado à produtividade, utilidade, resistência, ou à capacidade de manter tudo junto. Essas definições podem tê-la ajudado a funcionar por um tempo. Mas depois, podem se tornar uma forma de escravidão.",
+            "Quando o corpo muda, os papéis se deslocam, os filhos crescem, os pais envelhecem, e a vida fica mais complexa, as antigas autodefinições frequentemente se tornam muito pequenas ou muito rígidas. Uma mulher pode entrar em um novo estágio externamente enquanto interiormente ainda exige prova de um anterior.",
+            "Paulo fala em Filipenses sobre contar os ganhos anteriores como perda pelo bem de Cristo, e sobre esquecer o que está atrás e se estender para o que está à frente. Ele não está desprezando o passado. Ele está se recusando a permitir que medidas antigas governem o presente.",
+            "**Algumas formas de soltar não são uma perda de si mesmo, mas uma libertação de definições que não conseguem mais carregar a verdade de quem você está se tornando.** Esse tipo de rendição requer coragem. Ela pergunta: o que temo que reste de mim se parar de me provar das formas antigas?",
+            "Deus frequentemente começa um verdadeiro reset de meia-idade logo ali. Não despojando a identidade, mas soltando o controle das medidas desatualizadas para que uma vida mais profunda possa emergir."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, mostre-me onde ainda estou presa a definições antigas. Se meu valor foi vinculado à produtividade, utilidade, dureza, ou ser vista como confiável, solte esses laços com gentileza. Obrigada por não tentar me esvaziar, mas por me levar à maturidade mais verdadeira. Se soltar definições antigas me assusta, não me apresse nem me deixe fugir; apenas fique comigo no lugar onde mais reluto em deixar ir. Ensine-me a colocar a mim mesma de volta em Suas mãos. Mantenha-me de não repetir o sistema de prova da última estação quando Você está me convidando para uma liberdade mais profunda na próxima. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Filipenses 3:7-8,13-14",
+              "book_code": "PHP",
+              "chapter": 3,
+              "verses": "7-8,13-14",
+              "translation": "Almeida",
+              "text": "Mas o que para mim era ganho reputei como perda por Cristo. E, na verdade, tenho também por perda todas as coisas, pela excelência do conhecimento de Cristo Jesus... esquecendo-me das coisas que para trás fico, e avançando para as que estão diante de mim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Deus Às Vezes Usa Subtração Para Proteger o Que Vem Depois",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Juízes 7:2",
+            "book_code": "JDG",
+            "chapter": 7,
+            "verses": "2",
+            "translation": "Almeida",
+            "text": "Disse-lhe o Senhor: O povo que está contigo é muito... para que Israel se não glorie contra mim, dizendo: A minha mão me salvou."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O que é frequentemente mais difícil sobre reorganização de meia-idade não é adição, mas subtração. Menos energia. Menos capacidade social. Menos tolerância para sobrecarga. Menos capacidade de fazer tudo ao mesmo tempo. Instintivamente lemos subtração como declínio. Mas o Deus da Escritura não abençoa apenas através do aumento. Às vezes Ele protege através da redução.",
+            "A história de Gideão é marcante porque Deus deliberadamente reduz o que parece ser força. O propósito não é crueldade. É clareza. Deus sabe que se as pessoas continuarem dependendo de quantidade e capacidade aparente, talvez nunca aprendam verdadeira confiança.",
+            "A subtração de meia-idade pode funcionar similarmente. Quando você não consegue mais manter tudo funcionando da forma antiga, questões mais profundas se tornam inevitáveis. O que é meu para continuar carregando? O que estou mantendo apenas por hábito, vaidade, medo, ou impulso? A redução torna a discernimento mais urgente.",
+            "**Deus não sempre lidera dando mais para você carregar. Às vezes Ele lidera tirando algumas coisas para que o que realmente importa possa permanecer.** Se você está lamentando o fato de não poder fazer o que fazia antes, deixe esse luto ser nomeado. Mas também pergunte se essa subtração pode ser misericórdia disfarçada.",
+            "Perda nem sempre é abandono. Às vezes é proteção para o próximo capítulo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que subtração é difícil para mim. Aprendi a tratar alta capacidade como prova de que ainda tenho importância, então quando parte da capacidade diminui, me sinto decepcionada e exposta. Dê-me uma nova forma de ver. Mantenha-me de ler subtração apenas como perda. Ensine-me a perguntar se também pode haver proteção ali dentro. Se Você está usando redução para ensinar discernimento e poda para preservar o que vem depois, mantenha-me de resistir a Você a cada volta. E por favor, conforte o pesar real que vem com a mudança, para que mesmo na dor eu possa confiar que Você não diminuiu Seu cuidado por mim. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Juízes 7:2",
+              "book_code": "JDG",
+              "chapter": 7,
+              "verses": "2",
+              "translation": "Almeida",
+              "text": "Disse-lhe o Senhor: O povo que está contigo é muito... para que Israel se não glorie contra mim, dizendo: A minha mão me salvou."
+            },
+            {
+              "display": "João 15:2",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "2",
+              "translation": "Almeida",
+              "text": "Toda a vara em mim que não dá fruto a tira; e toda a que dá fruto, a limpa, para que dê mais fruto ainda."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Reorganização de Meia-Idade Também Requer Realocação do Coração",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Neemias 6:3",
+            "book_code": "NEH",
+            "chapter": 6,
+            "verses": "3",
+            "translation": "Almeida",
+            "text": "Então enviei mensageiros a dizer-lhes: Estou fazendo uma obra grande e não poderei descer..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Reorganizar a vida não é apenas rearranjar horários ou redistribuir responsabilidades. Em um nível mais profundo, é realocação do coração. Para onde sua energia emocional está indo? Para relacionamentos e vocações que realmente importam? Ou para ansiedades, hábitos antigos, e exigências de longa duração que a consomem sem produzir vida?",
+            "A meia-idade frequentemente deixa essa pergunta inevitável porque o coração não parece mais infinitamente disponível. Você sente mais claramente que não pode se dar completamente a tudo ao mesmo tempo.",
+            "O trabalho de Neemias de reconstrução envolveu não apenas trabalho, mas distração, pressão, oposição, e vozes o puxando para longe da tarefa. Uma de suas formas de sabedoria era se recusar a dar peso igual a cada interrupção. A meia-idade requer algo similar. Nem toda exigência merece espaço de coração igual. Nem toda voz urgente merece residência interna.",
+            "**Parte da clareza de meia-idade é aprender não apenas como organizar sua vida, mas como reservar seu coração para o que realmente tem peso diante de Deus.** Isso pode parecer perda no início, especialmente se você está acostumada a se distribuir excessivamente. Mas com o tempo se torna liberdade.",
+            "Maturidade não é frieza. É saber por que seu coração pertence mais plenamente em alguns lugares do que em outros."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, Você sabe que meu problema não é apenas falta de tempo. Meu coração também está sendo puxado em muitas direções. Dê-me a clareza necessária para esta estação de vida. Mostre-me o que ainda merece atenção integral e o que apenas me ocupou por muito tempo sem produzir verdadeira vida. Se tenho estado derramando minha energia interior nos lugares errados, traga-me de volta com gentileza. E dê-me liberdade da culpa quando não posso responder a cada exigência. Ensine-me a guardar meu coração diante de Você, não como um ato de autoexclusão, mas para que eu possa me dar mais fielmente ao que realmente importa. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Neemias 6:3",
+              "book_code": "NEH",
+              "chapter": 6,
+              "verses": "3",
+              "translation": "Almeida",
+              "text": "Então enviei mensageiros a dizer-lhes: Estou fazendo uma obra grande e não poderei descer..."
+            },
+            {
+              "display": "Provérbios 4:25",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "25",
+              "translation": "Almeida",
+              "text": "Deixa os teus olhos olharem para frente, e as tuas pálpebras se dirijam para adiante."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "A Sabedoria Frequentemente Começa Admitindo Que o Jeito Antigo Não Funciona Mais",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Mateus 9:17",
+            "book_code": "MAT",
+            "chapter": 9,
+            "verses": "17",
+            "translation": "Almeida",
+            "text": "Também ninguém deita vinho novo em odres velhos... mas deita o vinho novo em odres novos, e assim ambos se conservam."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitos resets de meia-idade começam com uma frase que parece tudo exceto inspiradora: não consigo mais viver assim. Às vezes o corpo diz primeiro. Às vezes a alma faz. Às vezes um relacionamento faz. Às vezes a aridez espiritual se torna impossível de ignorar. Mas a maioria das pessoas não acolhe essa frase. Elas a interpretam como fracasso, como se admitir insustentabilidade fosse equivalente a derrota.",
+            "Muitas vezes, é o começo da sabedoria.",
+            "Jesus diz que vinho novo deve ser colocado em odres novos. O recipiente antigo pode ter sido útil um dia, mas não consegue mais manter o que agora está sendo dado. Essa imagem fala poderosamente à meia-idade. Os padrões, identidades, e ritmos antigos podem realmente tê-la servido em uma estação anterior. Mas podem não conseguir mais reter a vida que Deus agora está convidando você a entrar.",
+            "**Admitir que o jeito antigo não funciona mais não é fracasso. É como se faz espaço para uma ordem melhor.** Se você continuar se forçando em uma forma desatualizada, você mesma e a graça destinada para esta estação podem sofrer.",
+            "Então se você está sentindo que padrões antigos não conseguem mais sustentar sua vida, não responda a essa verdade apenas com autocrítica. Traga isso diante de Deus. Diga claramente: não consigo mais viver assim. Muitas reorganizações santas começam ali."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que há lugares em que realmente não consigo mais viver como antes. E também confesso como tenho medo de dizer isso em voz alta, porque parece muito próximo de fracasso. Obrigada por me ensinar que honestidade não é fracasso, e que nomear meus limites não é derrota. Se Você está me mostrando, através desses lugares que não se ajustam, que preciso de odres novos, novos ritmos, e uma nova ordem, dê-me coragem de não me agarrar infinitamente à forma antiga. Dê-me humildade para receber um novo recipiente, um novo arranjo, e uma nova forma de vida. Mantenha-me de me forçar em estruturas que não conseguem mais sustentar o que Você está fazendo. Faça espaço em mim para nova graça. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Mateus 9:17",
+              "book_code": "MAT",
+              "chapter": 9,
+              "verses": "17",
+              "translation": "Almeida",
+              "text": "Também ninguém deita vinho novo em odres velhos... mas deita o vinho novo em odres novos, e assim ambos se conservam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Dia 6",
+      "title": "Reset Significa Recentrar, Não Apagar",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 90:12",
+            "book_code": "PSA",
+            "chapter": 90,
+            "verses": "12",
+            "translation": "Almeida",
+            "text": "Ensina-nos a contar os nossos dias, para que adquiramos um coração sábio."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A palavra \"reset\" pode parecer extrema, como se exigisse jogar tudo fora e começar do zero. Mas reset espiritual na meia-idade é frequentemente mais gentil e mais sábio do que isso. É menos sobre apagar o passado e mais sobre recentrar o presente. Reúne o que se tornou espalhado. Restaura peso ao que importa e leveza ao que nunca deveria tê-la dominado.",
+            "Moisés reza no Salmo 90 que Deus o ensinasse a contar seus dias para ganhar um coração de sabedoria. Um dos dons escondidos da meia-idade é que o tempo se torna mais real. Se essa consciência for mantida em ansiedade, se torna pânico. Mas se for mantida diante de Deus, pode se tornar sabedoria. Você para de querer tudo. Para de carregar cada expectativa igualmente. Começa a fazer melhores perguntas.",
+            "O que ainda merece que você se entregue a isso? O que não é mais digno de tanta vida? O que pertence ao centro agora?",
+            "**Um verdadeiro reset não é auto-apagamento. É a reorientação da vida para o que finalmente é mais digno.** É por isso que pode parecer simultaneamente perda e alívio. Você não está ficando menos. Está ficando mais alinhada.",
+            "Esse tipo de recentragem permite que uma mulher viva com paz mais profunda. Ela não precisa mais provar seu valor carregando tudo. Pode começar a carregar o que é realmente seu com maior sabedoria."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, reset meu centro. Se ao longo dos anos minha vida se tornou muito espalhada e muito governada por coisas secundárias, não apenas me dê mais força para continuar carregando-as. Dê-me sabedoria para me reunir novamente. Ensine-me a contar meus dias, não em pânico, mas em clareza. Ajude-me a discernir o que é realmente digno de continuar, o que deve ser gradualmente solto, o que é excelente, e o que apenas me ocupou por muito tempo. Que essa reorganização não me deixe vazia, mas mais verdadeiramente alinhada com o que Você valoriza. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 90:12",
+              "book_code": "PSA",
+              "chapter": 90,
+              "verses": "12",
+              "translation": "Almeida",
+              "text": "Ensina-nos a contar os nossos dias, para que adquiramos um coração sábio."
+            },
+            {
+              "display": "Filipenses 1:10",
+              "book_code": "PHP",
+              "chapter": 1,
+              "verses": "10",
+              "translation": "Almeida",
+              "text": "Para que vos comporteis de modo digno... aprovando as coisas que são excelentes..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Dia 7",
+      "title": "A Meia-Idade Não É o Fim da História",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Josué 14:10-12",
+            "book_code": "JOS",
+            "chapter": 14,
+            "verses": "10-12",
+            "translation": "Almeida",
+            "text": "Eis que agora tenho oitenta e cinco anos... Ainda sou tão forte como no dia em que Moisés me enviou... Dá-me este monte..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Uma das mentiras mais profundas sobre meia-idade é que é a estação depois que a melhor parte já passou. A suposição é que o que é vívido, expansível, e verdadeiramente novo pertence à juventude, enquanto os anos intermediários existem principalmente para manutenção, reparo, resistência, e declínio gradual.",
+            "Mas a Escritura não conta essa história. Abraão entra em confiança mais profunda depois. Sara vê promessa depois. Moisés finalmente entra em vocação aos oitenta. Calebe ainda fala de força e herança na velhice. Deus não é confinado por nossas ideias do que conta como anos principais.",
+            "A verdadeira beleza dos anos de colheita não é, \"Você ainda importa apesar do envelhecimento.\" É que Deus frequentemente usa esta estação para aprofundar pureza, simplificar prioridades, fortalecer sabedoria, e tirar desempenho. Uma mulher pode não mais querer perseguir tudo, mas ela pode saber mais claramente o que importa. Ela pode não ser mais alimentada pelo brilho exterior, mas ela pode carregar um peso interior muito maior.",
+            "**A meia-idade não é onde Deus a move para as margens. É frequentemente onde Ele a leva a um terreno mais profundo.** Se você tem silenciosamente temido que o melhor está atrás de você, traga esse medo à presença de Deus. Ele não é apenas o Deus dos começos. Ele é também o Deus da maturação, reorganização, e fruto posterior.",
+            "Então não escreva seu próprio capítulo de meia-idade como um final antes que Deus faça. Ele ainda pode estar o nomeando como uma profundidade nova."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada por não ser apenas o Deus de começos e picos, mas também o Deus de anos posteriores, reorganização, e maturação. Se tenho silenciosamente temido que a melhor parte já passou, cure esse medo e mantenha-me de escrever minha própria história como um final muito cedo. Obrigada por que esta estação pode deter sabedoria mais profunda, integridade mais verdadeira, e fruto mais maduro. Mantenha-me de me colocar nas margens e de tratar este capítulo como mera manutenção. Leve-me a terreno mais profundo. Deixe-me ainda dar fruto, ainda ser usada por Você, e ainda permanecer verde em Sua presença nos anos que virão. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Josué 14:10-12",
+              "book_code": "JOS",
+              "chapter": 14,
+              "verses": "10-12",
+              "translation": "Almeida",
+              "text": "Eis que agora tenho oitenta e cinco anos... Ainda sou tão forte como no dia em que Moisés me enviou... Dá-me este monte..."
+            },
+            {
+              "display": "Salmo 92:13-14",
+              "book_code": "PSA",
+              "chapter": 92,
+              "verses": "13-14",
+              "translation": "Almeida",
+              "text": "Os que estão plantados na casa do Senhor... Na velhice ainda produzirão fruto; serão cheios de vigor e verdor."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI04",
+    "slug": "anchor-for-your-heart",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Papéis e Identidade",
+      "secondary": "love-dating",
+      "secondary_label": "Amor e Namoro"
+    },
+    "tags": [
+      "amor",
+      "namoro",
+      "relacionamentos",
+      "limites",
+      "namoro-cristao",
+      "amor-piedoso"
+    ],
+    "title": "Uma Âncora para seu Coração",
+    "subtitle": "Mantendo-se firme quando os sentimentos são profundos",
+    "audience": {
+      "life_stage": [
+        "mulheres jovens",
+        "em relacionamento",
+        "antes do casamento"
+      ],
+      "emotional_state": [
+        "esperançosa",
+        "cautelosa",
+        "buscando clareza"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Quando a atração, a esperança e a incerteza chegam ao mesmo tempo, estes três dias ajudam a ancorar seu coração em Deus.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#F4B6B6",
+      "color_secondary": "#7A2C42",
+      "image_key": "cover_woman_quiet_garden_evening_warm_light",
+      "icon": "anchor-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Provérbios 4:23",
+        "book_code": "PRO",
+        "chapter": 4,
+        "verses": "23"
+      },
+      {
+        "display": "1 Coríntios 13:4-5",
+        "book_code": "1CO",
+        "chapter": 13,
+        "verses": "4-5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Os Sentimentos Não São Errados, Mas o Coração Ainda Precisa de uma Âncora",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 4:23",
+            "book_code": "PRO",
+            "chapter": 4,
+            "verses": "23",
+            "translation": "Almeida",
+            "text": "Guarda-te com toda a diligência o teu coração, porque dele procedem as saídas da vida."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A atração não é um problema. De muitas formas, é uma parte bela de ser humano.",
+            "Quando alguém começa a importar para nós, é natural que nossos pensamentos se movam nessa direção. Repassamos conversas, notamos gestos pequenos e começamos a imaginar o que pode ser possível. Os sentimentos iniciais frequentemente vêm com calor e instabilidade. Esperamos. Nos perguntamos. Interpretamos as coisas. Tentamos manter a calma enquanto nossos corações já estão se inclinando para frente.",
+            "O que torna isso difícil não é simplesmente gostar de alguém. É a forma como nossa estabilidade interior pode começar a depender de como essa pessoa responde. Provérbios diz: \"Guarda-te com toda a diligência o teu coração.\" Isso não é um mandamento para se tornar emocionalmente frio. É um lembrete de que o coração é precioso e facilmente é levado para longe. O Salmo 62 diz que somente Deus é nossa rocha e salvação. No namoro, essa verdade importa profundamente. Quando as coisas são incertas, é fácil deixar que a atenção de alguém mais se torne a coisa que nos estabiliza.",
+            "Deus não nos pede para negar nossos sentimentos. Ele nos pede para que nossos sentimentos não se tornem nosso governante. A atração pode ser real. A esperança pode ser real. Mas abaixo dessas emoções, ainda precisamos de algo mais firme do que a clareza, a consistência ou o afeto de outra pessoa.",
+            "**O amor pode ser terno, mas Deus ainda deve ser a âncora do coração.** Hoje, pergunte-se a si mesmo quem tem puxado seu mundo interior mais intensamente e no que seu coração tem dependido para ter paz. Nomear isso honestamente é frequentemente o começo da sabedoria."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada por nos criar com a capacidade de amar e sentir profundamente. Você conhece minhas esperanças e também conhece o sentimento instável que pode vir com atração, proximidade e incerteza. Ajude-me a não negar o que sinto, mas não deixe que meus sentimentos se tornem meu governante. Guarde meu coração, e quando as emoções começarem a me puxar fortemente, traga-me primeiro para a estabilidade em você. Seja a âncora mais profunda do meu coração e não deixe que a resposta de ninguém tome o lugar que pertence apenas a você. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 4:23",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23",
+              "translation": "Almeida",
+              "text": "Guarda-te com toda a diligência o teu coração, porque dele procedem as saídas da vida."
+            },
+            {
+              "display": "Salmo 62:6",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "6",
+              "translation": "Almeida",
+              "text": "Só ele é minha rocha e minha salvação; ele é meu refúgio e não serei abalado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "O Que Mais Drena o Coração É a Incerteza Prolongada",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "1 Coríntios 14:33",
+            "book_code": "1CO",
+            "chapter": 14,
+            "verses": "33",
+            "translation": "Almeida",
+            "text": "Porque Deus não é Deus de confusão, senão de paz, como em todas as igrejas dos santos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Alguns relacionamentos são drenantes não porque estão claramente errados, mas porque nunca são claros.",
+            "Alguém não se aproxima totalmente, mas também nunca se afasta totalmente. Parece haver algo aí, mas nada sólido o suficiente para ficar firme. Então o coração fica suspenso. Repassamos palavras, buscamos significado oculto e tentamos construir certeza a partir de fragmentos. Nesse tipo de espaço, o esgotamento vem menos do amor em si e mais de viver muito tempo sem clareza.",
+            "A Escritura diz que todas as coisas devem ser feitas decentemente e em ordem. O amor não é mecânico, mas Deus não é o autor da confusão. Tiago descreve a sabedoria celestial como pura e pacífica. Isso não significa que cada relacionamento será simples. Mas significa que uma conexão saudável não deve manter seu coração em confusão sem fim. Pode haver lentidão, mas também deve haver honestidade. Pode haver processo, mas não deve haver névoa emocional constante.",
+            "Eu sei por que relacionamentos ambíguos são tão difíceis de deixar ir. Eles oferecem esperança suficiente para nos manter ficando. Não estabilidade suficiente, mas possibilidade suficiente para nos fazer hesitar. Porém Deus não está nos levando mais fundo para a confusão. Ele está nos ensinando discernimento. Ele está nos ajudando a questionar se uma conexão está nos aproximando da verdade e da paz, ou lentamente nos custando nossa clareza e autoestima.",
+            "**Nem todo relacionamento que agita o coração merece manter o coração suspenso.** Hoje, pergunte-se honestamente: este relacionamento está trazendo mais paz ou mais depleção? Às vezes a verdade começa com as questões que temos medo de dizer em voz alta."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, você conhece quão drenante a ambiguidade pode ser. Dê-me honestidade e discernimento, para que eu não continue sobrevivendo em fragmentos de esperança dentro de um relacionamento sem direção clara. Se esta conexão está trazendo mais confusão, mais inquietação e mais perda de si mesmo, dê-me coragem para admitir. Guarde meu coração do medo de perder algo que me mantém suspenso no que não é saudável. Dê-me um coração mais claro, para que o medo de perder amor não fale mais alto do que a sabedoria, e a emoção passageira não afogue a paz que você dá. Se houver um lugar onde eu precise parar, dê-me coragem. Se houver um lugar onde eu precise esperar, dê-me paciência. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "1 Coríntios 14:33",
+              "book_code": "1CO",
+              "chapter": 14,
+              "verses": "33",
+              "translation": "Almeida",
+              "text": "Porque Deus não é Deus de confusão, senão de paz, como em todas as igrejas dos santos."
+            },
+            {
+              "display": "Tiago 3:17",
+              "book_code": "JAS",
+              "chapter": 3,
+              "verses": "17",
+              "translation": "Almeida",
+              "text": "Mas a sabedoria que vem do alto é, primeiramente, pura; depois, pacífica, indulgente, tratável, plena de misericórdia e de bons frutos..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "O Amor Verdadeiro Não Pede para Você Desaparecer",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "1 Coríntios 13:4-5",
+            "book_code": "1CO",
+            "chapter": 13,
+            "verses": "4-5",
+            "translation": "Almeida",
+            "text": "O amor é paciente, é benigno; o amor não arde em ciúmes, não se vangloria, não se ensoberbece. Não se conduz inconvenientemente, não procura seus interesses..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Alguns relacionamentos começam fazendo-nos sentir profundamente vistos, e é parte do motivo pelo qual pode levar um tempo notar quando não estão mais ajudando-nos a permanecer inteiros.",
+            "No início, nos dizemos que estamos simplesmente sendo flexíveis. Respondemos mais rápido, pedimos menos, explicamos o desconforto, suavizamos nossas fronteiras e fazemos mais espaço para a incerteza da outra pessoa do que fazemos pela nossa própria paz. Mas lentamente o relacionamento começa a nos custar algo. Nos tornamos menos honestos sobre o que dói, menos claros sobre o que precisamos, e menos capazes de reconhecer nossa própria voz interior. Ainda podemos chamar isso de sacrifício ou paciência, porém por dentro podemos sentir a nós mesmos ficando menores.",
+            "Primeira Coríntios 13 nos dá mais do que palavras bonitas de casamento. Ele nos dá uma forma de testar o amor. O amor é paciente e gentil, sim, mas não é apagador de si mesmo. Não ensina silenciosamente uma pessoa a desaparecer para que a intimidade possa continuar. O tipo de amor de Deus não cresce através da confusão, autossabotagem crônica, ou abandono constante da dignidade. Pode nos pedir ser humildes, perdoadores e generosos, mas não nos pede para nos perdermos para permanecer escolhidos.",
+            "É aqui que as fronteiras se tornam parte do amor ao invés de uma ameaça a ele. As fronteiras dizem a verdade sobre o que o coração pode carregar. Elas nos impedem de chamar desequilíbrio de devoção. Elas nos ajudam a notar a diferença entre compromisso e desaparecimento. Se um relacionamento só se sente estável quando você continua encolhendo, então o que está sendo protegido pode não ser amor nenhum, mas disfunção.",
+            "**O tipo de amor que Deus abençoa não pede que você se torne menos de si mesmo para ficar.** Pergunte-se gentilmente hoje: tenho me tornado menos verdadeiro, menos pacífico ou menos livre neste relacionamento? Nomear essa mudança pode ser o começo de Deus levando você de volta à integridade."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, ensine-me de forma mais clara o que é o verdadeiro amor. Se estou ficando mais escondido, mais diminuído e menos honesto dentro de um relacionamento, não me deixe continuar chamando desequilíbrio pelo nome do amor. Dê-me coragem para notar os lugares onde tenho continuado engolindo meus sentimentos, me rebaixando ou abandonando minha própria integridade. Obrigada porque o amor que você abençoa não apaga uma pessoa, mas a torna mais verdadeira e mais livre. Dê-me um coração mais claro, para que o medo de perder amor não fale mais alto do que a sabedoria, e a emoção passageira não afogue a paz que você dá. Se há um lugar onde eu preciso parar, dê-me coragem. Se há um lugar onde eu preciso esperar, dê-me paciência. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "1 Coríntios 13:4-5",
+              "book_code": "1CO",
+              "chapter": 13,
+              "verses": "4-5",
+              "translation": "Almeida",
+              "text": "O amor é paciente, é benigno; o amor não arde em ciúmes, não se vangloria, não se ensoberbece. Não se conduz inconvenientemente, não procura seus interesses..."
+            },
+            {
+              "display": "Colossenses 3:14",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "14",
+              "translation": "Almeida",
+              "text": "Acima de tudo isso, revistam-se de amor, que é o vínculo perfeito."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

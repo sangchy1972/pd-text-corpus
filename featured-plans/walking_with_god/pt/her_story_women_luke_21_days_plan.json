@@ -1,0 +1,1577 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LK01",
+    "slug": "walking-with-jesus-in-luke",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Caminhando com Deus",
+      "secondary": "her-story",
+      "secondary_label": "Sua História"
+    },
+    "tags": [
+      "sua-historia",
+      "mulheres-das-escrituras",
+      "mulheres-biblicas",
+      "narrativa",
+      "mulheres-de-lucas",
+      "evangelho-de-lucas",
+      "mulheres-biblicas",
+      "narrativa",
+      "maria",
+      "isabel"
+    ],
+    "title": "Caminhando com Jesus em Lucas",
+    "subtitle": "Uma jornada de 21 dias com Jesus através das histórias das mulheres no Evangelho de Lucas",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "curiosa",
+        "reflexiva",
+        "buscando significado"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Esta é uma jornada gentil mas fundamentada de `21 dias` pelo Evangelho de Lucas, criada especialmente para mulheres que desejam conhecer Jesus mais profundamente através das histórias das mulheres ao seu redor. Dia após dia, você caminhará com as mulheres que Lucas recorda e verá como elas são notadas por Deus, encontradas por Cristo, restauradas pela graça e confiadas como testemunhas. Se você anseia crescer mais familiarizada com a história do Evangelho, e se você precisa da presença constante de Jesus no meio da ocupação, fraqueza, espera ou tristeza, este plano foi projetado para ajudá-lo a se aproximar Dele.",
+    "duration_days": 21,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → opening → teaching → today_as_you_read → additional_scriptures → prayer",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#E0D4B8",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_quiet_garden_morning_warm",
+      "icon": "dove-and-cross-circle"
+    },
+    "phases": [],
+    "key_verses": [
+      {
+        "display": "Lucas 1:38",
+        "book_code": "LUK",
+        "chapter": 1,
+        "verses": "38"
+      },
+      {
+        "display": "Lucas 1:26-27",
+        "book_code": "LUK",
+        "chapter": 24,
+        "verses": "22"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-04"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "O 'Sim' de Maria",
+      "subtitle": "Quando Deus coloca diante de você um caminho que ainda não consegue ver completamente, a fé não começa com compreensão total. Começa com disposição.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 1:38",
+            "book_code": "LUK",
+            "chapter": 1,
+            "verses": "38",
+            "translation": "Almeida",
+            "text": "Disse, porém, Maria: Eis aqui a serva do Senhor; cumpra-se em mim segundo a tua palavra."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Começamos esta jornada com Maria. Lucas abre a história do Evangelho não com espetáculo, mas com uma jovem mulher sendo encontrada por Deus. Aqui vemos que a obediência não é esperar até que tudo faça sentido. É colocar-se nas mãos de Deus antes que tudo esteja claro.",
+            "\"E disse Maria: Eis aqui a serva do Senhor; cumpra-se em mim segundo a tua palavra.\" Lucas 1:38"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Quando o anjo vem a Maria, ele não traz uma tarefa pequena. Ele traz uma vocação que alterará toda a sua vida. Ela gerará o Filho de Deus, mas também carregará incompreensão, risco e o peso daquilo que ainda não consegue explicar. Lucas não a apresenta como intocada por isso. Ela se sente turbada. Ela faz uma pergunta real. Isso torna sua obediência verdadeira.",
+            "A beleza de Maria nesta passagem não é que ela entenda tudo. É que ela se entrega a Deus antes de compreender. **\"Cumpra-se em mim segundo a tua palavra.\"** Esta não é resignação passiva. É rendição plena de confiança. Maria ainda não vê o caminho à frente, mas está disposta a colocar-se nas mãos do Deus que vê.",
+            "Uma vez caminhei com uma mulher que sentia que Deus a pedira para deixar um emprego que lentamente havia drenado seu espírito. Ela resistia, não porque não desejasse obedecer, mas porque o futuro parecia muito incerto. Mais tarde ela me contou que a oração que a mudou foi muito simples: \"Senhor, tenho medo, mas estou disposta.\" Ela não recebeu todas as respostas de uma vez. Mas aprendeu que o ponto de virada não foi clareza completa. Foi entregar-se nas mãos de Deus antes de tê-la.",
+            "Talvez nunca recebamos um chamado como o de Maria, mas sabemos o que é enfrentar uma responsabilidade que não esperávamos ou uma rendição que preferíamos adiar. Maria nos lembra que a fé frequentemente começa antes da clareza."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia a cena atentamente e observe o que primeiro turbou Maria, e por que ela ainda conseguiu dizer sim mesmo sem clareza completa. Depois considere se seu próprio instinto é esperar pela certeza primeiro, ou aprender rendição antes de tê-la."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 1:37",
+              "book_code": "LUK",
+              "chapter": 1,
+              "verses": "37",
+              "translation": "Almeida",
+              "text": "Porque para Deus nada é impossível."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, Tu és o Deus que fala e também cumpres o que falaste. Louvamos a Ti porque Teus propósitos são maiores que os planos humanos, e Tua graça frequentemente repousa sobre aqueles que o mundo passa despercebido. Dá-nos corações que sejam dóceis e dispostos, para que mesmo antes de compreendermos tudo, possamos confiar em Tua bondade e seguir Teu guia. Fortalece Tua Igreja e Tuas filhas para dizer: \"Cumpra-se em nós segundo a Tua palavra.\" Seja honrada a Tua vontade, e seja glorificado o Teu nome por nossa obediência. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "A Bênção de Isabel",
+      "subtitle": "Uma mulher mais velha vê o peso que outra mulher mais jovem está carregando e, antes de comentar ou avaliar, primeiro abençoa.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 1:45",
+            "book_code": "LUK",
+            "chapter": 1,
+            "verses": "45",
+            "translation": "Almeida",
+            "text": "Bem-aventurada a que creu; porque hão de cumprir-se as coisas que da parte do Senhor lhe foram ditas."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Esta passagem nos traz ao encontro entre Maria e Isabel. Duas mulheres se unem, uma carregando promessa, a outra já marcada pela graça. Aqui vemos como Deus frequentemente sustém uma mulher através dos olhos e palavras de outra.",
+            "\"E bem-aventurada a que creu; porque hão de cumprir-se as coisas que da parte do Senhor lhe foram ditas.\" Lucas 1:45"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Após o anjo falar a Maria, ela vai a Isabel. Lucas nos dá uma cena profundamente terna: uma mulher mais velha acolhendo uma mais jovem, e uma mulher que conheceu a misericórdia de Deus reconhecendo a obra de Deus em outra. Isabel não começa com perguntas ou cautela. Ela começa com bênção.",
+            "Isso importa porque quando Deus está fazendo algo custoso na vida de uma pessoa, compreensão nem sempre vem primeiro. Frequentemente o que vem primeiro é pressão, vulnerabilidade, e a solidão de carregar algo que outros ainda não conseguem ver. Isabel não obriga Maria a se defender. Ela a vê através dos olhos da fé. **Maturidade espiritual não é apenas saber como Deus te encontrou. É também aprender a reconhecer Sua obra em outra mulher e a fortalecê-la antes que ela se estabilize completamente.**",
+            "Essa é parte da beleza de Isabel em Lucas. Ela não é o centro da história, mas no momento certo se torna uma presença que protege dentro dela. Porque conheceu a bondade de Deus, ela consegue falar palavras moldadas pela graça. Sua bênção não é linguagem religiosa polida. É oportuna, discernida, e generosa.",
+            "Muitos de nós sabemos o que é carregar algo delicado ou difícil de explicar. Em tais momentos, uma palavra verdadeira de reconhecimento pode se tornar um lugar para ficar em pé. Esta passagem nos pergunta se estamos dispostas a nos tornamos esse tipo de mulher para alguém. Em um mundo rápido para comentar, há algo profundamente cristão em ser a pessoa que primeiro vê, primeiro abençoa, e primeiro sustém. Nos lembra que maturidade espiritual inclui aprender a reconhecer o que Deus pode já estar crescendo em outra pessoa."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Quando voltares à passagem, observe o que Isabel diz primeiro e como rapidamente ela reconhece a obra de Deus em Maria. Depois considere se você tende a notar fraqueza antes de notar o que Deus pode já estar crescendo."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 1:42",
+              "book_code": "LUK",
+              "chapter": 1,
+              "verses": "42",
+              "translation": "Almeida",
+              "text": "E exclamou com grande voz: Bendita és tu entre as mulheres, e bendito é o fruto do teu ventre!"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, louvamos a Ti porque não Te revelaste apenas através de grandes eventos. Frequentemente fortaleces Teu povo através da visão e palavras daqueles que caminharam fielmente contigo. Obrigado por construir Tua casa com graça que sustém um ao outro. Faz-nos mulheres que possam reconhecer Tua obra, e dá-nos bocas dóceis e corações discernidores, para que quando outros ainda não estão seguros, possamos fortalecê-los com verdade e misericórdia. Lembra-te daqueles que caminham em caminhos difíceis e incompreendidos hoje, e sustém-nos por Tua palavra. Haja mais bênção que julgamento entre nós, e mais olhos que reconheçam Tua obra que corações que a dispensem. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "A Canção de Maria",
+      "subtitle": "Uma jovem mulher que parece pequena aos olhos do mundo se torna a primeira a cantar como Deus inverte o mundo.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 1:46-47",
+            "book_code": "LUK",
+            "chapter": 1,
+            "verses": "46-47",
+            "translation": "Almeida",
+            "text": "Disse Maria: A minha alma engrandece ao Senhor, e o meu espírito se alegra em Deus meu Salvador."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Hoje ouvimos a canção de Maria, frequentemente chamada de Magnificat. Esta não é simplesmente uma efusão privada de emoção. É uma jovem mulher começando a ver a forma maior do reino de Deus através do que Deus está fazendo. Aqui vemos que Ele se lembra dos humildes e frequentemente revela Sua glória através daqueles que o mundo passa despercebido.",
+            "\"E disse Maria: A minha alma engrandece ao Senhor, e o meu espírito se alegra em Deus meu Salvador.\" Lucas 1:46-47"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A beleza de Maria em Lucas não é apenas que ela diz sim. É também que ela canta. O Magnificat não é meramente uma efusão privada de sentimento. É uma jovem mulher, ainda dentro da incerteza, nomeando o caráter de Deus com clareza notável. Ela começa: \"A minha alma engrandece ao Senhor; e o meu espírito se alegra em Deus meu Salvador.\" Sua vida não se tornou subitamente simples, mas ela já escolheu fazer Deus grande em seu coração.",
+            "Então sua canção se abre. Maria não está apenas grata por Deus a ter notado. Ela está vendo o padrão de Seu reino. Ele dispersa os soberbos, derruba os poderosos, exalta os humildes, e enche os famintos. Deus não se move de acordo com as medidas do mundo de status, polimento ou poder. **O Evangelho não começa com pessoas subindo alto o suficiente para alcançar Deus. Começa com Deus se aproximando dos humildes.**",
+            "Essa é uma razão pela qual Lucas dá a esta canção tal peso. Maria não é empurrada para as margens da história. Ela se torna uma das primeiras vozes a declarar o que é o reino de Deus. E suas palavras ainda falam agora, porque vivemos cercados por padrões que continuam nos dizendo quem importa mais. Maria nos lembra que Deus mede diferentemente. Ele se lembra dos humildes. Ele cumpre Suas promessas.",
+            "Se seu coração se sente mais pesado que cantante hoje, você não precisa forçar triunfo. Pode ser que você simplesmente precise começar onde Maria começa: deixando Deus se tornar mais pesado que as vozes que o têm definido. Esta canção nos lembra que a ordem espiritual começa a retornar quando Deus é feito mais pesado que medo, comparação, e todas as outras vozes."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia a canção lentamente e observe onde ela começa e como se amplia em uma visão do reino de Deus. Depois pergunte a si mesma o que tem crescido maior em seu próprio coração ultimamente."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 1:48",
+              "book_code": "LUK",
+              "chapter": 1,
+              "verses": "48",
+              "translation": "Almeida",
+              "text": "Porque atentou na humildade da sua serva; pois eis que, desde agora, todas as gerações me chamarão bem-aventurada,"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, somente Tu és grande, e somente Tu és digno de ser engrandecido. Louvamos a Ti porque Te lembras dos humildes, manténs Tua aliança, e revelais Tua graça através de vidas que o mundo pode passar despercebido. Livra-nos das medidas do mundo, para que comparação, status e resultados não superem Tua presença em nossos corações. Reordena-nos interiormente, para que Te engrandecemos antes de nos medirmos ou a qualquer outro. Deixa Tua Igreja continuar cantando de Teus caminhos, para que os humildes sejam confortados, os soberbos sejam advertidos, e Teu nome seja levantado alto entre nós. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "A Longa Fidelidade de Ana",
+      "subtitle": "Uma viúva idosa, fiel em anos longos e silenciosos de oração, viveu tempo suficiente para ver o Senhor por quem havia esperado.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 2:37",
+            "book_code": "LUK",
+            "chapter": 2,
+            "verses": "37",
+            "translation": "Almeida",
+            "text": "A qual não se apartava do templo, mas de dia e de noite servia a Deus com jejuns e orações."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Lucas dedica apenas poucas linhas a Ana, mas através delas nos mostra como uma mulher idosa acolheu o Salvador através de anos de fidelidade silenciosa. Esta passagem nos lembra que Deus não passa despercebido pela espera e oração que o mundo mal nota.",
+            "\"A qual não se apartava do templo, mas de dia e de noite servia a Deus com jejuns e orações.\" Lucas 2:37"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Ana aparece quietamente em Lucas, mas sua vida carrega grande peso. Ela é velha. Ela foi viúva por muitos anos. Ela passa seus dias no templo, jejuando, orando, e servindo a Deus. Lucas não nos diz primeiro o que ela realizou. Ele nos mostra quem ela se tornou: uma mulher que não se afastou de Deus após perda.",
+            "Essa é parte do que torna Ana tão bela. Sua história não é construída sobre um momento dramático. É construída sobre longa fidelidade. **Alguma das belezas mais profundas em uma vida espiritual não é intensidade por uma estação, mas permanecer diante de Deus através de muitos anos ordinários.** Ana não sabia exatamente quando o Salvador viria, mas manteve sua vida virada para o Senhor. E quando Jesus foi levado ao templo, ela estava lá. Ela o reconheceu. Ela deu graças. Ela falou dele àqueles que estavam esperando pela redenção.",
+            "Esta passagem fala gentilmente a qualquer um vivendo através de uma longa estação. Oração longa. Luto longo. Obediência longa. Ocultação longa. Ana nos lembra que esperar não é vazio, e fidelidade oculta não é fidelidade desperdiçada. Deus se lembra das orações que parecem desaparecer em anos silenciosos. Ele vê o amor que continua se mostrando diante Dele. Anos longos e silenciosos diante de Deus nunca são perdidos em Sua vista."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Observe como Ana serviu e esperou a Deus durante estes anos, e como pôde reconhecer rapidamente Jesus quando Ele apareceu. Depois considere como você tende a ver fidelidade longa, silenciosa e não vista."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 2:38",
+              "book_code": "LUK",
+              "chapter": 2,
+              "verses": "38",
+              "translation": "Almeida",
+              "text": "E superveniente, à mesma hora, dava graças a Deus e falava dele a todos os que esperavam a redenção em Jerusalém."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, Tu és o Deus que valida a fidelidade que ninguém mais vê. Louvamos a Ti porque não desprezas a oração que parece desaparecer em anos silenciosos, nem o amor que continua se mostrando diante de Ti quando ninguém está olhando. Obrigado por valorizar a longa perseverança tanto quanto o grande feito. Dá-nos o dom de permanecer em Tua presença quando não há resposta rápida, sem compreensão rápida, sem prova de que estamos no caminho certo. Fortalece aqueles que esperam hoje. Honra a fidelidade escondida em Tua vista. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "A Mãe de Jesus",
+      "subtitle": "No pé da cruz, Maria continua ali. Aquilo que a profecia disse que atravessaria sua alma agora a está atravessando.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 2:35",
+            "book_code": "LUK",
+            "chapter": 4,
+            "verses": "39",
+            "translation": "Almeida",
+            "text": "E a ti uma espada te trespassará a alma."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Hoje nos voltamos para Maria e para Simeão no templo, e a simples frase que Simeão fala: \"uma espada atravessará a tua própria alma também.\" Lucas nos mostra que Maria não apenas geraria alegria. Ela geraria sofrimento também.",
+            "\"E a ti uma espada te trespassará a alma.\" Lucas 2:35"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Maria foi chamada para algo glorioso. Mas Simeão também lhe diz a verdade: o caminho que seu Filho caminhará a machucará profundamente. Uma mãe que vê seu filho rejeitado, incompreendido, por fim crucificado - isso não é fé sem tormento. É fé através do tormento.",
+            "Lucas nos mostra Maria em vários pontos nesta história: asustada, confusa, às vezes questionando o que significa tudo. Mas ela permanece. **Não é porque a compreensão chegou, mas porque ela confiou naquele que conhecia mais do que ela podia ver.** Ela se tornou a mulher que permanece aos pés da cruz quando tudo o que foi prometido parecia estar sendo destruído.",
+            "Há algo crucial aqui para nós que também sofremos. Fé não é a ausência de dor que Deus garante. Fé é entrega mesmo quando Deus não remove o que dói. Maria amou seu Filho o tempo todo em que seu coração estava sendo quebrado por ele. E estava bem assim.",
+            "Se você caminha em luto hoje - a perda de um plano que havia esperado, uma relação que se foi, um sonho que se desfez - Maria stands com você. Ela conhece o que é confiar em Deus enquanto carrega uma espada através da alma."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia a profecia de Simeão cuidadosamente e depois siga Maria através da história. Como ela responde à dor? Que tipo de fé permanece não apesar da dor, mas dentro dela?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 2:34-35",
+              "book_code": "PSA",
+              "chapter": 145,
+              "verses": "14",
+              "translation": "Almeida",
+              "text": "E Simeão os abençoou, e disse a Maria, mãe dele: Eis que este é posto para queda e levantamento de muitos em Israel, e para um sinal que será contraditado; e uma espada te trespassará a tua própria alma."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, Tu não nos prometes caminhos sem sofrimento, mas caminhos em que Tu nos sustém através do sofrimento. Obrigado por Maria, que nos mostra o que parecer luto profundo enquanto continua em confiança. Dá força àqueles que hoje carregam espadas em seus corações. Ensina-nos que fé não é a ausência de dor, mas confiança através dela. Abençoa os que sofrem em silêncio, os que acolhem planos que foram quebrados, os que amam mesmo quando seus corações estão sendo quebrados. Sustém-nos com Tua presença, e mostra-nos que mesmo neste momento, Tu não te afastaste. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Dia 6",
+      "title": "A Mulher de Outro Homem",
+      "subtitle": "Uma mulher conhecida por seu pecado encontra Jesus na casa de um fariseu, e em vez de ser banida, é perdoada.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 7:47",
+            "book_code": "LUK",
+            "chapter": 8,
+            "verses": "3",
+            "translation": "Almeida",
+            "text": "Portanto vos digo que os seus pecados, que são muitos, lhe foram perdoados, porque amou muito; mas aquele a quem se perdoa pouco, pouco ama."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Lucas nos traz agora para a casa de um fariseu, onde uma mulher da cidade que era pecadora descobre onde Jesus está comendo. O que acontece em seguida é uma das histórias mais ousadas de inclusão e perdão no Evangelho.",
+            "\"Portanto vos digo que os seus pecados, que são muitos, lhe foram perdoados, porque amou muito.\" Lucas 7:47"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A mulher vem a Jesus sem ser convidada. Lucas a chama de \"uma mulher da cidade que era pecadora\" - as pessoas ao seu redor a conhecem por seu pecado. Ela vem ao seu lado, chora, unta seus pés com unguento. Nos Evangelhos, estar aos pés de um mestre era lugar de discípulo. Ela está colocando-se sob Seu ensinamento.",
+            "O fariseu que hospedou Jesus está incomodado. Se Jesus realmente fosse um profeta, ele pensa, ele saberia que tipo de mulher o toca e não permitiria. **Mas Jesus a vê de forma completamente diferente. Ele não vê apenas seu passado. Ele vê seu amor no presente.** Ele reconhece que ela ama muito. E porque ela ama muito, seus muitos pecados foram perdoados.",
+            "Esta é uma abertura para nós que também carregamos coisas que não queremos que ninguém saiba. A mulher pecadora não é enviada embora quando Jesus descobre quem ela é. Ela é vinda mais perto. Ela é vista. Ela é perdoada. E é enviada em paz.",
+            "Jesus nunca diz que não há pecado. O pecado é real. Mas nem sempre define o final. O que define você não é o que você fez, mas se você permite que Jesus o visse, se você o amou de volta, e se você está disposta a deixar isso ir."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Observe como a mulher se aproxima de Jesus e como Ele responde ao seu gesto. Então considere: há partes de sua própria história que você ainda está escondendo, com receio de ser vista?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 7:48-50",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "2",
+              "translation": "Almeida",
+              "text": "E Jesus disse à mulher: A tua fé te salvou; vai-te em paz."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, Tu vês-nos completamente - todo pecado, toda falha, toda coisa que queremos esconder - e continuamente nos trazes mais perto em vez de nos afastares. Obrigado por não nos definirem por nosso pior momento. Obrigado por ver nosso amor, nosso arrependimento, nossa disposição de voltar. Dá-nos bravura para sermos vistas, para trazeras nossas feridas diante de Ti, para permitirmos que sejas Tu quem nos perdoe. E dá-nos também o coração do fariseu transformado - que deixemos de lado nosso julgamento rápido e vejamos o que Deus está fazendo na vida de outro. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Dia 7",
+      "title": "As Mulheres que Ajudavam",
+      "subtitle": "Mulheres que usavam seus próprios recursos viajam com Jesus e o servem com suas posses.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 8:1-3",
+            "book_code": "LUK",
+            "chapter": 8,
+            "verses": "48",
+            "translation": "Almeida",
+            "text": "E aconteceu depois, que andava de cidade em cidade, e de aldeia em aldeia, pregando e anunciando o evangelho do reino de Deus; e os doze iam com ele, e também algumas mulheres que tinham sido curadas de espíritos malignos e de enfermidades: Maria, chamada Madalena, da qual saíram sete demônios; e Joana, mulher de Cuza, procurador de Herodes; e Susana, e muitas outras que o serviam com seus bens."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Lucas notável nos diz que as mulheres não apenas seguem Jesus de longe. Muitas viajam com Ele, usando seus próprios recursos para sustentá-Lo. Isto era altamente incomum numa cultura onde as mulheres geralmente não viajavam com mestres.",
+            "\"E junto com ele iam os doze, e também algumas mulheres... que o serviam com seus bens.\" Lucas 8:1-3"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Lucas é específico: Maria Madalena, Joana (cuja família tinha posição), Susana, e muitas outras viajavam com Jesus. Elas não eram passageiras em Sua missão. Elas investiram nela. Elas usaram sua riqueza, seu tempo, suas casas para sustentá-Lo.",
+            "Isso nos diz algo sobre o coração de Jesus com as mulheres. Ele não as trata como uma classe à parte. Ele as convida à participação real. Elas não são espectadoras de Seu reino. **Elas são agentes ativos nele. Eles confiam a elas com recursos. Ele as honra com inclusão.**",
+            "É fácil passar por esse detalhe rápido, mas é revolucionário. Em uma cultura onde a propriedade feminina era frequentemente controlada por homens, e onde as mulheres raramente tinham autoridade sobre seus próprios bens, Jesus aceita o serviço generoso delas. Ele honra sua escolha de estar lá.",
+            "Talvez você nunca será capaz de viajar literalmente com Jesus ou de cuidar de Seus apóstolos, mas você tem recursos. Você tem tempo. Você tem dons. Jesus ainda convida mulheres a investirem o que têm em Seu reino. A questão é: o que você está dando?"
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia sobre as mulheres que viajam com Jesus. Como elas contribuem? Qual é o seu papel? Depois pergunte-se: como você está investindo no reino de Deus com o que você tem?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 8:2-3",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "44",
+              "translation": "Almeida",
+              "text": "Maria, chamada Madalena, da qual saíram sete demônios; e Joana, mulher de Cuza, procurador de Herodes; e Susana, e muitas outras que o serviam com seus bens."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, Tu nos deste recursos, tempo, dons, e nos confias com eles. Obrigado por honrares as mulheres que investem o que têm em Teu reino. Obrigado por não nos veres como passageiras mas como participantes. Dá-nos generosidade para dar, bravura para oferecer o que temos, e sabedoria para saber onde o reino de Deus precisa de nosso investimento. Abre nossos olhos para onde Tu estás trabalhando e convida-nos a ser parte disso. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "day_label": "Dia 8",
+      "title": "A Filha de Jairo",
+      "subtitle": "Uma menina de doze anos é gentilmente chamada de volta à vida por Jesus quando todos acham que a história terminou.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 8:54",
+            "book_code": "LUK",
+            "chapter": 8,
+            "verses": "54",
+            "translation": "Almeida",
+            "text": "E ele, tomando-a pela mão, clamou, dizendo: Menina, levanta-te."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "A história da filha de Jairo é breve, e a menina é muito jovem, mas a cena nos mostra como Jesus traz vida quando o desespero acha que a última palavra já foi dita.",
+            "\"E tomando-a pela mão, clamou, dizendo: Menina, levanta-te.\" Lucas 8:54"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A filha de Jairo tem apenas doze anos. Ela fica doente e depois morre. No momento em que a mensagem chega, outros já decidiram o significado do momento: \"Tua filha está morta; não incomodes mais o Mestre.\" É uma frase dolorosamente humana. Significa que a história terminou, a esperança se foi, e nada mais pode ser feito.",
+            "Mas Jesus não para onde outros param. Ele continua caminhando. Ele entra no quarto, toma a menina pela mão e diz: \"Menina, levanta-te.\" **Jesus frequentemente se move contra o que o desespero já decidiu. Ele não aceita o fim quando outros perderam a fé.** Ele abraça o impossível.",
+            "Há algo profundamente confortador nisso. Você conhece o que é estar em um lugar onde você simplesmente desistiu. Você rezou, esperou, e nada mudou. E então parte de você começou a aceitar que isso nunca vai mudar. Que a menina está morta. Que não há ressurreição aqui.",
+            "Jesus diz algo diferente. Ele diz que ainda há vida aqui. E quando ela se levanta, a primeira coisa que Lucas nos diz é que Jesus pediu para lhe darem algo para comer. Ressurreição não é apenas poder. É também solicitude. É cuidado com o que vem depois."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia a cena atentamente e observe onde o desespero já tinha decidido que tudo havia terminado. Depois considere: há áreas de sua vida onde você também se resignou ao final?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 8:55",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "55",
+              "translation": "Almeida",
+              "text": "E o seu espírito voltou, e ela se levantou imediatamente. E ele mandou que lhe dessem de comer."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, Te louvamos porque não governas de acordo com o desespero humano. Tu ainda podes trazer vida a lugares onde outros já disseram que é tarde demais. Obrigado por revelares não apenas poder de ressurreição, mas também cuidado terno com o que vem depois. Dá esperança àqueles cujos corações já começaram a aceitar o fim. Mostra-nos que Tu ainda estás em movimento, ainda Te preocupas com o que parece morto em nossas vidas. Em Teu nome, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "day_label": "Dia 9",
+      "title": "Marta e Maria",
+      "subtitle": "Duas irmãs ambas amam Jesus, mas Ele gentilmente mostra como até o serviço amoroso pode perder seu centro.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 10:42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "42",
+            "translation": "Almeida",
+            "text": "E Jesus lhe disse: Marta, Marta, andas solicita e turbada acerca de muitas coisas; mas uma só é necessária; e Maria escolheu a melhor parte, a qual não lhe será tirada."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "A história de Marta e Maria soa familiar para muitas mulheres porque vive tão próxima da experiência cotidiana de tentar equilibrar trabalho e presença. Uma irmã está ocupada servindo. A outra senta-se aos pés de Jesus. E Jesus toma partido de um modo que talvez não esperássemos.",
+            "\"Maria escolheu a melhor parte, a qual não lhe será tirada.\" Lucas 10:42"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Marta ama Jesus. Ela o convida para sua casa. Ela se oferece para servi-lo. Não há nada errado em sua intenção. Mas Lucas nos diz que ela está \"distraída\" - literalmente, \"dividida\" - pela preocupação com o serviço. Há tantas coisas a preparar, cuidar, servir.",
+            "Maria senta-se aos pés de Jesus. Aos pés era a posição de um discípulo. Ela está aprendendo. Ela está ouvindo. **Jesus não dispensa o serviço de Marta. Mas Ele gently reordena as prioridades.** Ele diz que Maria \"escolheu o que é melhor.\" Presença importa mais que perfeição. Ouvir importa mais que fazer.",
+            "Isto é tão fácil de negligenciar. Temos tantas coisas para cuidar. Famílias para alimentar, casas para manter, trabalho para fazer, pessoas para servir. E tudo parece importante. E Marta não estava errada em querer cuidar bem de Jesus. Mas em seu cuidado, ela perdeu Seu rosto.",
+            "Jesus não está nos dizendo para nunca servir ou preparar. Ele está nos dizendo que até o serviço pode se tornar uma distração de Sua presença. Que é possível estar tão ocupada fazendo coisas religiosas ou nobres que perdemos a razão pela qual começamos: o desejo de estar com Ele."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia a cena atentamente. Como Marta e Maria diferem em suas abordagens? Qual é a crítica gentil de Jesus? Onde você se vê nesta história?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 10:41",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41",
+              "translation": "Almeida",
+              "text": "Disse-lhe Jesus: Marta, Marta, estás cuidadosa e turbada acerca de muitas coisas."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, Te louvamos porque não desprezes o serviço, mas gentilmente nos chamas de volta ao coração do serviço: estar em Tua presença. Livra-nos do trabalho que parece importante mas que nos afasta de Ti. Dá-nos sabedoria para escolher bem - para saber quando trabalhar e quando simplesmente estar contigo. Reordena nossas prioridades para que Tua presença seja o que buscamos antes de buscarmos qualquer outra coisa. Em Teu nome, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "day_label": "Dia 10",
+      "title": "A Mulher Encurvada",
+      "subtitle": "Uma mulher curvada por dezoito anos é vista, chamada, libertada e endireitada novamente por Jesus.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 13:12",
+            "book_code": "LUK",
+            "chapter": 13,
+            "verses": "12",
+            "translation": "Almeida",
+            "text": "E vendo-a Jesus, chamou-a e disse-lhe: Mulher, ficaste livre da tua enfermidade."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Uma mulher entra na sinagoga onde Jesus está ensinando. Ela tem uma condição espiritual de algum tipo - dezoito anos de estar curvada, incapaz de se endireitar. E Jesus a vê.",
+            "\"Mulher, ficaste livre da tua enfermidade.\" Lucas 13:12"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Ela não gritou por ajuda. Ela não pressionou para chegar a Jesus. Ela apenas entrou na sinagoga como fazia, provavelmente, cada semana. Incurvada, invisível. E Jesus a viu. Em uma multidão, entre tantas pessoas, Ele notou essa mulher com sua carga invisível.",
+            "Ele não a deixou em paz. Ele a chamou para perto e disse: \"Mulher, ficaste livre da tua enfermidade.\" **Não há pena em Sua voz. Há certeza. Ele não pergunta se ela quer ser libertada. Ele a liberta.** E ela imediatamente se endireita, louvando a Deus.",
+            "Há algo importante sobre o tipo de enfermidade que ela carregava. Era uma enfermidade espiritual - uma mulher curvada, incapaz de se endireitar, invisível. Alguns de nós passamos anos curvados sob o peso de culpa, vergonha, julgamento. Passamos anos vendo o chão, esquecendo o que é estar ereto.",
+            "Jesus diz que você é livre. Você não precisa mais carregar o peso que a encurvou. Você não é invisível. Você não é condenada a passar a vida curvada. Você pode se endireitar. Você pode olhar para cima. Você pode louvar."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia o relato. Quanto o custo de sua \"enfermidade\" afetou sua visão de si mesma? O que seria diferente se você realmente acreditasse que Jesus diz a você: \"Você está livre\"?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 13:13",
+              "book_code": "LUK",
+              "chapter": 13,
+              "verses": "16",
+              "translation": "Almeida",
+              "text": "E lançou sobre ela as mãos, e logo se endireitou, e glorificava a Deus."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, Tu vês as mulheres que ninguém mais vê. Tu vês os pesos invisíveis que nos curvam. Tu vês o que ocultamos sob o desculpa de estar bem. Liberta-nos da culpa, da vergonha, da condenação que nos mantêm curvadas. Endireita-nos para que possamos olhar para cima novamente. Dá-nos a coragem de abandonar o peso que carregamos há tanto tempo e de crer que Tu dizes a verdade quando dizes que somos livres. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "day_label": "Dia 11",
+      "title": "A Mulher que Continuou Procurando",
+      "subtitle": "Jesus usa a história ordinária de uma mulher procurando em sua casa para mostrar quão cuidadosamente Deus busca o que se perdeu.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 15:8",
+            "book_code": "LUK",
+            "chapter": 15,
+            "verses": "8",
+            "translation": "Almeida",
+            "text": "Ou qual é a mulher que, tendo dez dracmas, se perder uma, não acende a lâmpada, e varre a casa, e procura diligentemente até achar?"
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Jesus conta a história de uma mulher com dez moedas de prata. Ela perde uma. E em vez de se resignar à perda, ela a procura. Ela acende uma lâmpada. Ela varre a casa. Ela procura com cuidado até encontrá-la.",
+            "\"Ou qual é a mulher que, tendo dez dracmas, se perder uma, não acende a lâmpada, e varre a casa, e procura diligentemente até achar?\" Lucas 15:8"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Jesus está ensinando sobre procura. Sobre Deus procurando pelos perdidos. Mas Ele escolhe uma mulher como Sua metáfora. Ela procura por algo preciosa a ela. E procura com diligência. Ela não desiste após uma busca superficial.",
+            "Há algo na história que é profundamente tocante. A mulher acende uma lâmpada. A moeda é pequena. Ela poderia facilmente ser ignorada. Mas para ela, importa o suficiente para acender uma lâmpada. Para limpar sua casa. Para procurar.",
+            "**Jesus está nos dizendo que a maneira como Deus procura por nós é como essa mulher procura pela moeda perdida. Com atenção. Com persistência. Com a luz acesa. Você não é pequena demais para ser importante.** Você não é insignificante demais para que Deus o procure.",
+            "E quando ela encontra a moeda, ela reúne seus amigos e vizinhos para celebrar. Assim, Jesus diz, há alegria entre os anjos de Deus por um pecador que se arrepende. O que era perdido é encontrado. O que era indigno de busca tornou-se tão importante que o céu celebra."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia a parábola. Como a mulher procura? O que a história nos diz sobre como Deus nos procura? Como você se vê nesta história de algo que é perdido mas ainda é procurado?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 15:8-10",
+              "book_code": "LUK",
+              "chapter": 15,
+              "verses": "9",
+              "translation": "Almeida",
+              "text": "E achando-a, reúne as amigas e vizinhas, dizendo: Alegrai-vos comigo, porque achei a dracma que tinha perdido. Digo-vos que assim haverá alegria diante dos anjos de Deus por um pecador que se arrepende."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, Tu nos procuras como a mulher procura pela moeda perdida - com atenção, com persistência, com a lâmpada acesa. Obrigado por não nos descartares quando nos sentimos insignificantes. Obrigado por nos considerares dignos de tal busca cuidadosa. Dá-nos também o coração dessa mulher - que procuremos o que se perdeu em nossas próprias vidas e nas vidas ao nosso redor. Que somos pessoas que não desistem da busca, que acendem a lâmpada, que procuram diligentemente. E quando encontramos o perdido, que nos alegremos com o céu. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "day_label": "Dia 12",
+      "title": "A Viúva Que Continuou Voltando",
+      "subtitle": "Uma viúva sem poder visível nos ensina, ao voltar repetidamente, que a oração não é o último recurso dos fracos mas a persistência da fé.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 18:6-7",
+            "book_code": "LUK",
+            "chapter": 18,
+            "verses": "1",
+            "translation": "Almeida",
+            "text": "E o Senhor disse: Ouvi o que diz o juiz injusto. Porventura Deus não fará justiça aos seus escolhidos que a ele clamam dia e noite, e tardará em ajudá-los?"
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Jesus conta a história de uma viúva e um juiz injusto. A viúva vem ao juiz pedindo justiça. Uma vez. Novamente. Novamente. Ela não desiste. E finalmente, simplesmente por causa de sua persistência, o juiz a ouve.",
+            "\"E o Senhor disse: Ouvi o que diz o juiz injusto. Porventura Deus não fará justiça aos seus escolhidos que a ele clamam dia e noite?\" Lucas 18:6-7"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Esta é uma parábola sobre oração. Jesus a conta para ensinar aos discípulos que devem orar sempre e não desistir. Mas é interessante que Ele escolhe uma viúva como herói. Na cultura de Jesus, uma viúva não tinha visibilidade. Ela não tinha status. Ela não tinha influência. Ela tinha nada além de sua insistência.",
+            "E ainda assim, ela consegue justiça. Não porque o juiz é justo. Não porque ela tem alguma maneira de o compelir. Mas porque ela vem, e vem novamente, e vem novamente. **Ela não ouve não como um final. Ela o ouve como um momento em uma conversa contínua.**",
+            "Há algo altamente encorajador nisto para nós. A oração não é o último recurso dos fracos. É a persistência dos que têm fé. A oração não é algo que você faz quando tudo mais falhou. É algo que você faz quando tudo mais está falhando, e você continua mesmo assim.",
+            "Jesus termina a parábola perguntando se Deus, que é justo, não fará justiça àqueles que o clamam dia e noite. A resposta é: sim, Ele fará. Mas pode exigir que você volte novamente. Que você ore novamente. Que você venha novamente. E isso está bem."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia a parábola. O que a viúva ensina sobre oração e persistência? Há uma área em sua vida em que você parou de orar porque não viu resposta rápida?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 18:8",
+              "book_code": "LUK",
+              "chapter": 18,
+              "verses": "7",
+              "translation": "Almeida",
+              "text": "Digo-vos que vos fará justiça em breve. Porém, quando o Filho do homem vier, porventura achará fé na terra?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, ensinaste-nos a orar sempre e não a desistir. Obrigado por não desprezares a oração perseverante. Obrigado por honrares a fé que continua voltando, que continua clamando, que não confunde silêncio com rejeição. Dá-nos a persistência da viúva. Dá-nos um coração que acredita que Tu ouves, mesmo quando não vemos resposta imediata. Dá-nos a bravura de continuar voltando, sabendo que nossa persistência é um ato de fé em Tua justiça e bondade. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "day_label": "Dia 13",
+      "title": "As Duas Moedas da Viúva",
+      "subtitle": "Um presente que poucos notariam se torna, aos olhos de Jesus, um sinal de confiança de coração inteiro.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 21:3",
+            "book_code": "LUK",
+            "chapter": 21,
+            "verses": "3",
+            "translation": "Almeida",
+            "text": "E disse: Na verdade vos digo que esta viúva pobre colocou mais do que todos;"
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Jesus está observando as pessoas colocarem suas contribuições no tesouro do templo. Pessoas ricas colocam muito. Uma viúva pobre coloca duas pequenas moedas. E Jesus chama a atenção de seus discípulos para ela.",
+            "\"Digo-vos a verdade: esta viúva pobre colocou mais do que todos os outros.\" Lucas 21:3"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Aqui, Lucas nos vê observando muitas pessoas dando no tesouro do templo. Pessoas ricas colocam muito. Uma viúva pobre coloca duas pequenas moedas. E Jesus atrai a atenção de seus discípulos para ela.",
+            "Esta passagem não está romantizando pobreza, nem transformando dar em uma competição de sacrifício. Está mostrando como Deus mede diferentemente do mundo. O que parece pequeno aos nossos olhos pode ser de grande valor aos olhos do Pai.",
+            "Há uma ternura particular nesta cena. O reino mede diferentemente. E o que mede não é a quantidade dos seus recursos, mas a proporção de sua rendição."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia o relato cuidadosamente. Por que Jesus diz que a viúva deu mais? Que diferença existe entre dar do seu excedente e dar de sua subsistência?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 21:3-4",
+              "book_code": "LUK",
+              "chapter": 21,
+              "verses": "4",
+              "translation": "Almeida",
+              "text": "Porque todos ofertaram do que lhes sobejava; mas esta pobre ofereceu de sua pobreza tudo quanto tinha para sua subsistência."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, Tu valoras a rendição completa mais do que a riqueza incompleta. Tu vês o que ninguém mais vê: o coração que dá tudo de si. Obrigado por não desprezares a mulher que tem pouco a dar, mas que dá de toda forma. Dá-nos um coração como o dela - disposto a entregar tudo a Ti, confiando que Tu cuidarás. Livra-nos da ilusão de que mais é melhor quando vem de um coração que retém. Faz-nos mulheres de rendição completa. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "day_label": "Dia 14",
+      "title": "As Filhas de Jerusalém",
+      "subtitle": "No caminho de Seu próprio sofrimento, Jesus ainda se vira e fala a um grupo de mulheres que choram.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 23:28",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "28",
+            "translation": "Almeida",
+            "text": "E Jesus, voltando-se para elas, disse: Filhas de Jerusalém, não choreis por mim; chorai antes por vós mesmas e por vossos filhos."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Enquanto Jesus é levado para ser crucificado, uma grande multidão o segue, incluindo mulheres que choram e lamentam por Ele. No meio de Seu próprio sofrimento, Jesus se vira e fala a elas.",
+            "\"Filhas de Jerusalém, não choreis por mim; chorai antes por vós mesmas e por vossos filhos.\" Lucas 23:28"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Lucas nos diz que conforme Jesus vai para a cruz, uma companhia de mulheres o segue. Elas choram e lamentam por Ele. E no meio de Seu próprio sofrimento, Jesus se volta e fala a elas.",
+            "Ele não está rejeitando suas lágrimas. Ele está aprofundando-as. **Jesus não deixará pesar superficial ficar sem ser desafiado.** Ele a chama a uma compreensão mais profunda de vinda à frente.",
+            "Isto torna este momento especialmente impressionante. Jesus está carregando Sua própria morte. E ainda assim Ele toma tempo para ensinar estas mulheres que o futuro exigirá mais delas do que elas compreendem neste momento."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia as palavras de Jesus às mulheres. O que Ele quer que elas compreendam além de Sua morte iminente? Qual é o chamado para você nesta passagem?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 23:29",
+              "book_code": "LUK",
+              "chapter": 23,
+              "verses": "31",
+              "translation": "Almeida",
+              "text": "Porque eis que virão dias em que dirão: Bem-aventuradas as estéreis, e os ventres que não geraram, e os peitos que não amamentaram."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, nos agradece que mesmo no meio de Teu sofrimento, Tu pensaste nas mulheres ao Teu redor. Obrigado por nos ensinar que compaixão significa frequentemente ver além do momento. Dá-nos visão para ver não apenas o que está diante de nós, mas o que está chegando. Dá-nos sabedoria para chorar não apenas por Ti, mas por nós mesmas e pelo mundo. Ajuda-nos a confiar que Tu vês o futuro e que Tua advertência vem de amor. Em Teu nome, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "day_label": "Dia 15",
+      "title": "As Mulheres Que Ficaram para Testemunhar",
+      "subtitle": "Quando muitos outros se afastam, essas mulheres ainda não saem. Elas permanecem, observando de longe.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 23:49",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "49",
+            "translation": "Almeida",
+            "text": "E todas as suas conhecidas, e as mulheres que o tinham acompanhado desde a Galileia, estavam de pé de longe, vendo estas coisas."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Quando Jesus é crucificado, muitos de seus seguidores se afastam. Os discípulos fogem. Mas Lucas observa especialmente sobre as mulheres: elas permaneceram. Elas assistiram de longe.",
+            "\"E todas as suas conhecidas, e as mulheres que o tinham acompanhado desde a Galileia, estavam de pé de longe, vendo estas coisas.\" Lucas 23:49"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Quando não é seguro estar perto, as mulheres ficam. Quando é mais fácil desaparecer, elas permanecem. Não próximo o suficiente para tocá-lo ou salvá-lo - de longe, porque provavelmente não era seguro estar mais perto. Mas ali. Vendo.",
+            "Esta é uma forma profunda de amor. Não é heroísmo. Não é sacrifício dramático que muda tudo. É apenas estar lá. Vendo. Marcando o momento. Testemunhando.",
+            "**As mulheres são as últimas aos pés da cruz. Elas são as últimas a ir para casa. Elas são as primeiras a retornar no domingo de manhã.** Há uma constância em seu amor que não falha quando as coisas ficam difíceis.",
+            "Muitos de nós não seremos chamados a fazer coisas grandes e publicamente visíveis. Mas podemos estar ali. Podemos ver. Podemos testemunhar. Podemos ser as mulheres que permanecem quando é mais fácil ir embora. E essa fidelidade - essa presença constante - importa imensuravelmente."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Observe que Lucas especificamente menciona as mulheres que permaneceram. O que sua fidelidade simplesmente em \"estar lá\" nos diz? Onde você é chamada para estar presente neste momento?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 23:55",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "2-3",
+              "translation": "Almeida",
+              "text": "E as mulheres que com ele tinham vindo da Galileia, tendo visto o sepulcro e como o seu corpo fora ali colocado, voltaram e prepararam aromas e unguentos. E descansaram no sábado, conforme ao mandamento."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, Tu valoras a presença constante tanto quanto o grande feito. Obrigado pelas mulheres que permaneceram, simplesmente por estar ali. Dá-nos bravura para estar presentes quando é difícil, para permanecer quando é mais fácil desaparecer, para testemunhar mesmo quando não podemos mudar o resultado. Enche-nos de um tipo de amor que não demanda que possamos consertar tudo, apenas que estejamos ali. Faz-nos mulheres de constância e fidelidade silenciosa. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "day_label": "Dia 16",
+      "title": "As Mulheres Que Prepararam Especiarias",
+      "subtitle": "Quando a esperança parece selada, essas mulheres ainda fazem a última coisa amorosa que sabem fazer.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 23:56",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "55-56",
+            "translation": "Almeida",
+            "text": "Então voltaram, e prepararam aromas e unguentos; e no sábado repousaram, conforme ao mandamento."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Após a crucificação, as mulheres preparam especiarias aromáticas. É uma honra que davam aos mortos. É um ato de amor para com alguém que sabem que não podem salvar.",
+            "\"Então voltaram, e prepararam aromas e unguentos; e no sábado repousaram, conforme ao mandamento.\" Lucas 23:56"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Após Jesus ser colocado no túmulo, Lucas não deixa essas mulheres desaparecerem da história. Ele nos diz que elas prepararam aromas e unguentos. Elas fizeram o que puderam para honrar alguém que não poderiam salvar.",
+            "O que torna esta cena tão comovente é isto: **amor não continua sempre porque a situação muda. Frequentemente, continua porque o coração insiste em honrar mesmo quando honrar não faz diferença.**",
+            "Esta passagem também nos lembra que fé não é sempre compreensão imediata. Às vezes é apenas mostrar-se, preparar os aromas, e confiar que Deus conhece o que você está fazendo mesmo que ninguém mais o veja."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Veja as mulheres preparando as especiarias. Que tipo de esperança - ou falta dela - as motiva? Como você honra aquilo que não pode salvar?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 23:55-56",
+              "book_code": "JHN",
+              "chapter": 14,
+              "verses": "15",
+              "translation": "Almeida",
+              "text": "E as mulheres que com ele tinham vindo da Galileia, tendo visto o sepulcro e como o seu corpo fora ali colocado, voltaram e prepararam aromas e unguentos. E descansaram no sábado, conforme ao mandamento."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, obrigado pelas mulheres que nos ensinam que fidelidade continua mesmo quando a esperança parece perdida. Dá-nos coragem para fazer a última coisa amorosa que sabemos fazer, mesmo quando não mudará o resultado. Dá-nos também um luto que seja honrador - que quando estamos de luto, possamos permanecer fiéis, que possamos preparar as especiarias, que possamos honrar o que foi perdido. E, enquanto isso, confia em Ti para o que ainda não sabemos. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "day_label": "Dia 17",
+      "title": "O Sábado do Silêncio",
+      "subtitle": "Antes que Deus revele a próxima coisa, essas mulheres param e esperam na quietude do Sábado.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 23:56",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "56",
+            "translation": "Almeida",
+            "text": "E descansaram no sábado, conforme ao mandamento."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Depois de prepararem as especiarias, as mulheres descansam no sábado. É uma pausa. Um tempo de quietude. Um tempo de espera no vazio.",
+            "\"E descansaram no sábado, conforme ao mandamento.\" Lucas 23:56"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Lucas nos dá uma frase muito tranquila: \"E descansaram no sábado, conforme ao mandamento.\" Entre a morte de Jesus e a ressurreição está o Sábado. Uma pausa. Um tempo de quietude. Um tempo de descanso apesar do luto.",
+            "Isto não é indiferença, e não é passividade. É obediência na escuridão. É confiar no ritmo que Deus estabeleceu mesmo quando você não compreende por que as coisas estão acontecendo como estão.",
+            "Isto dá a este pequeno versículo profundidade incomum. A lacuna entre cruz e ressurreição é o Sábado. E durante aquele Sábado, as mulheres descansam conforme à lei, mantendo a fé de que existe um ritmo que Deus conhece mesmo que elas não possam vê-lo ainda."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Leia sobre as mulheres descansando no sábado após a crucificação. O que as capacita a descansar quando tudo está quebrado? Há um 'sábado de silêncio' em sua própria vida agora?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Êxodo 20:8-11",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Almeida",
+              "text": "Lembra-te do dia de sábado, para o santificar. Seis dias trabalharás, e farás toda a tua obra; mas o sétimo dia é o sábado do Senhor teu Deus; não farás nenhuma obra, nem tu, nem teu filho, nem tua filha, nem o teu servo, nem a tua serva, nem teu animal, nem o estrangeiro que está dentro das tuas portas. Porque em seis dias fez o Senhor o céu e a terra, o mar e tudo que neles há, e ao sétimo dia descansou; portanto abençoou o Senhor o dia de sábado, e o santificou."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, Tu estabeleceste o Sábado como um dia de descanso, e não é revogado nem mesmo pela morte e pelo luto. Obrigado pela lição de que há tempo para agir e tempo para descansar. Dá-nos sabedoria para reconhecer quando estamos em nossos próprios sábados - tempos de espera e quietude. Dá-nos fé para descansar quando não vemos o que vem depois. E dá-nos também a capacidade de honrar Teus ritmos, mesmo quando o mundo ao nosso redor está quebrado. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "day_label": "Dia 18",
+      "title": "As Mulheres ao Amanhecer",
+      "subtitle": "Vêm com especiarias, achando que vieram para chorar, mas são as primeiras a ouvirem o anúncio de ressurreição.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 24:5-6",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "1-2",
+            "translation": "Almeida",
+            "text": "E, possuindo elas grande medo, e baixando o rosto para a terra, eles lhes disseram: Por que buscais entre os mortos ao que vive? Não está aqui, mas ressuscitou."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "No primeiro dia da semana, ao amanhecer, as mulheres vêm ao túmulo com as especiarias que prepararam. Elas vêm para honrar os mortos. Elas não vêm esperando milagre.",
+            "\"E as mulheres, tendo grande medo e alegria, foram correr a contar aos seus discípulos.\" Lucas 24:8"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O que as mulheres encontram surpreende a eles. O túmulo está vazio. Há anjos. Há a notícia: \"Por que buscais entre os mortos ao que vive?\" De repente, seu trabalho fúnebre não é mais necessário. Sua preparação para a morte encontra-se com a realidade da vida.",
+            "**As mulheres são as primeiras a ouvir sobre a ressurreição.** Não aos apóstolos. Não aos líderes. Às mulheres. E Jesus aparece primeiro a uma mulher - Maria Madalena - antes de aparecer a qualquer outra pessoa.",
+            "Há algo profundamente inclusivo sobre isso. Jesus não poderia ter aparecido aos apóstolos primeiro. Mas escolheu aparecer primeiro às mulheres. Ele as honra. Ele as confia com a notícia. Ele as chama para ir e dizer aos outros.",
+            "Se você acredita que sua voz não importa, que sua fé não é suficiente, que você é pequena demais para ser confiada com trabalho importante, Jesus diz a você o que disse aos apóstolos: não. Essas mulheres são quem primeiramente recebeu a notícia de que muda tudo. E elas foram enviadas para contar."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Observe que as mulheres são as primeiras a descobrir a ressurreição. Como isso muda sua compreensão de seu valor na história de Deus?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 24:8-10",
+              "book_code": "LUK",
+              "chapter": 24,
+              "verses": "6",
+              "translation": "Almeida",
+              "text": "E lembraram-se das suas palavras. E, voltando do sepulcro, anunciaram todas estas coisas aos onze, e a todos os outros."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, Tu honraste as mulheres ao confiá-las com a primeira notícia de ressurreição. Obrigado por nos escolher como testemunhas. Obrigado por não nos ignorar ou nos deixar de fora da história mais importante. Dá-nos bravura para contar esta notícia, mesmo quando não somos acreditadas. Dá-nos voz para falar sobre o que vimos. E dá-nos também fé para permanecer em nossa esperança mesmo quando outros duvidam. Em Teu nome, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "day_label": "Dia 19",
+      "title": "Elas Lembraram das Suas Palavras",
+      "subtitle": "A ressurreição traz não apenas assombro, mas uma nova lembrança do que Jesus já havia dito.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 24:8",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "6-8",
+            "translation": "Almeida",
+            "text": "Então lembraram-se das suas palavras."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "A primeira coisa que as mulheres fazem ao ver o túmulo vazio é lembrar. Lucas escreve: \"Então lembraram das suas palavras.\" A ressurreição não cria fé. Ela ilumina o que já havia sido dito.",
+            "\"Então lembraram das suas palavras.\" Lucas 24:8"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Após os anjos dizerem, \"Ele não está aqui, mas ressuscitou,\" Lucas adiciona uma breve mas crucial passagem: \"Então lembraram das suas palavras.\"",
+            "Isto importa profundamente. **Fé não é apenas despertada por um evento assustador. É sustentada por lembrança de promessa.** Jesus havia dito que ressuscitaria. Mas eles esqueceram ou não conseguiram acreditar. Quando viram o túmulo vazio, lembraram.",
+            "Naquele sentido, lembrar-se torna-se parte de compreender. As mulheres não são meramente espectadoras de um milagre. Elas são agentes ativos que se lembram de promessas que lhes foram feitas."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "O que as mulheres lembraram que Jesus havia dito? Como a lembrança as ajudou a compreender a ressurreição? Há algo que Jesus disse que você precisa de ser relembrada?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 24:8",
+              "book_code": "LUK",
+              "chapter": 9,
+              "verses": "22",
+              "translation": "Almeida",
+              "text": "E, despertando elas da meditação sobre os ditados, voltaram do sepulcro, e anunciaram todas estas coisas aos onze, e a todos os outros."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, Tu falas verdade, e Tua palavra não volta vazia. Obrigado por nos prometer ressurreição antes do túmulo. Ajuda-nos a manter Tuas palavras em nossos corações, para que quando a ressurreição chegar, não seja uma surpresa aleatória mas uma confirmação do que Tu já disseste. Dá-nos memória de Tuas promessas. Dá-nos fé para confiar em Tua palavra mesmo quando as circunstâncias parecem impossíveis. E quando vem o momento de ressurreição, seja em nossas vidas ou na vida ao nosso redor, permite-nos ver como Tu estiveste falando isto o tempo todo. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "day_label": "Dia 20",
+      "title": "As Mulheres Que Contaram as Notícias",
+      "subtitle": "A notícia de ressurreição é confiada primeiro às mulheres, e elas a falam mesmo quando não é imediatamente acreditada.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 24:9-10",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "9",
+            "translation": "Almeida",
+            "text": "E, voltando do sepulcro, anunciaram todas estas coisas aos onze, e a todos os outros. E eram Maria Madalena, e Joana, e Maria mãe de Tiago, e as outras com elas, que o diziam aos apóstolos."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "As mulheres saem do túmulo e correm para contar aos discípulos. Elas contam a notícia da ressurreição. E, no início, não são acreditadas. Mas elas falam mesmo assim.",
+            "\"E, voltando do sepulcro, anunciaram todas estas coisas aos onze, e a todos os outros.\" Lucas 24:9"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Para uma mulher na cultura do primeiro século, sua palavra não teria sido considerada evidência legal. Mas Jesus confia a Seu testemunho mais importante - a ressurreição - a elas. E ela vão falar.",
+            "Lucas nos diz que os apóstolos não acreditam de imediato. \"Pareceu-lhes como desvario estas palavras, e não o creram.\" Mas as mulheres continuam falando. Elas contam o que viram. Elas contam o que ouviram dos anjos. Elas contam tudo.",
+            "**Nem sempre sua verdade será acreditada no momento em que a contar.** Mas isso não significa que você deveria parar de contar. Significa que você continua falando o que sabe ser verdade.",
+            "Há algo profundamente valiente aqui. As mulheres falam quando não são acreditadas. Elas contam a notícia quando é improvável que seja recebida bem. Elas fazem exatamente o que os anjos as instruíram a fazer - ir e diga - independentemente do resultado."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "As mulheres são desacreditadas ao contar sobre a ressurreição. Como isso afeta sua disposição de falar? O que isso nos diz sobre testemunho fiel?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 24:11",
+              "book_code": "LUK",
+              "chapter": 24,
+              "verses": "11",
+              "translation": "Almeida",
+              "text": "E pareceu-lhes como desvario estas palavras, e não o creram."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, Tu nos confiaste com verdade que mudou tudo. Obrigado por nos chamar para falar essa verdade, mesmo quando não é acreditada. Dá-nos a bravura das mulheres que falaram sobre a ressurreição mesmo quando os apóstolos duvidaram. Dá-nos voz para contar o que sabemos ser verdade, sabendo que nem sempre seremos acreditadas, mas confiando que Tua palavra não retorna vazia. E quando somos desacreditadas, dá-nos fé para continuar falando, confiando que Deus conhece a verdade mesmo que o mundo duvide. Em Teu nome, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "day_label": "Dia 21",
+      "title": "Vendo Jesus Através Destas Mulheres",
+      "subtitle": "Ao final destes 21 dias, não nos lembramos apenas destas mulheres. Através delas, nos lembramos de Jesus mais claramente.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Lucas 1:26-27",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "22",
+            "translation": "Almeida",
+            "text": "E, no sexto mês, foi o anjo Gabriel enviado por Deus a uma cidade da Galileia, chamada Nazaré, a uma virgem desposada com um homem chamado José, da casa de Davi; e o nome da virgem era Maria."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Abertura de hoje",
+          "paragraphs": [
+            "Viajamos através de 21 dias com as mulheres de Lucas. Maria, Isabel, Ana, a mulher pecadora, Marta e Maria, e muitas outras. Cada uma delas nos mostrou algo sobre Deus. Mas juntas, elas apontam para Jesus.",
+            "Estas mulheres nos mostram o Jesus que notou, que honrou, que confiou, que libertou, que levantou, e que apareceu primeiro aos que ninguém mais veria."
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Ao final do Evangelho de Lucas, até os discípulos na estrada de Emaús não conseguem reconhecer Jesus. Precisam que ele partir o pão para perceber quem Ele é. Mas as mulheres que viajaram com Ele o reconhecem.",
+            "No entanto, o maior presente é isto: através delas, temos visto a Jesus. Através destas 21 histórias, temos visto um Jesus que vê as mulheres, que honra as mulheres, que confia as mulheres com Seu trabalho mais importante.",
+            "E é para aí que essa jornada é destinada a nos deixar. Não com admiração por mulheres tocadas pela história. Mas tocadas pelo Jesus que as vê, que as honra, que continua incluindo-as em Sua história de transformação e amor."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Enquanto lês hoje",
+          "paragraphs": [
+            "Olhe para trás sobre estes 21 dias. Qual mulher ressoa mais com você? O que ela o ensinou sobre Jesus? Como você o seguirá diferentemente agora?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Lucas 24:11-12",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "1-3",
+              "translation": "Almeida",
+              "text": "E pareceu-lhes como desvario estas palavras, e não o creram. Então Pedro, levantando-se, correu ao sepulcro e, espiando para dentro, viu só os lençóis; e foi-se maravilhando consigo do sucedido."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, obrigado por essas 21 dias caminhando com as mulheres de Lucas. Obrigado por nos mostrarem Jesus através de suas histórias. Obrigado por nos lembrarem que você vê mulheres, você honra mulheres, você confia mulheres com Seu trabalho mais importante. Obrigado por não nos negligenciarmos. Obrigado por nos incluirmos. Dá-nos um coração que continua seguindo Jesus como essas mulheres o seguiram - com fé, com fidelidade, com um amor que continua mesmo quando as circunstâncias parecem impossíveis. E quanto você nos usar em Seu reino, permite-nos reconhecer que estamos em boa companhia - companhia de mulheres que mudaram o mundo não porque eram poderosas no sentido mundano, mas porque eram leais ao Deus poderoso. Em nome de Jesus, amém.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

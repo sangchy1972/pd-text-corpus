@@ -1,0 +1,255 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI19",
+    "slug": "spiritual-companions",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rôles et Identité",
+      "secondary": "sisterhood-friendship",
+      "secondary_label": "Sororité et Amitié"
+    },
+    "tags": [
+      "amitie",
+      "sororite",
+      "communaute",
+      "jalousie",
+      "soutien",
+      "aiguiser"
+    ],
+    "title": "Compagnes spirituelles",
+    "subtitle": "Cette amitié qui nous aide à continuer",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "aspirant à l'amitié",
+        "guérison de la jalousie",
+        "cherchant la communauté"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces trois jours vous aident à redécouvrir l'amitié comme quelque chose qui peut véritablement soutenir et nourrir l'âme.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#D8C8E0",
+      "color_secondary": "#4A2C5A",
+      "image_key": "cover_two_women_walking_warm_evening",
+      "icon": "two-hands-clasped-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Ecclésiaste 4:9-10",
+        "book_code": "ECC",
+        "chapter": 4,
+        "verses": "9-10"
+      },
+      {
+        "display": "Proverbes 27:17",
+        "book_code": "PRO",
+        "chapter": 27,
+        "verses": "17"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Nous avons tous besoin de personnes avec lesquelles être vrais",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ecclésiaste 4:9-10",
+            "book_code": "ECC",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "Louis Segond 1910",
+            "text": "Deux valent mieux qu'un seul, parce qu'ils retirent un bon salaire de leur travail. Car s'ils tombent, l'un relève l'autre ; mais malheur à celui qui est seul et qui tombe sans avoir un second pour le relever."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'une des choses les plus précieuses de l'amitié adulte n'est pas simplement d'avoir quelqu'un avec qui rire, mais d'avoir quelqu'un devant qui vous n'avez pas besoin d'être complètement arrangé. En grandissant, beaucoup d'entre nous deviennent habiles à fonctionner, à expliquer et à rester présentables. Nous savons comment être réfléchis, spirituels, amusants et utiles. Mais ces compétences peuvent parfois cacher une douleur plus silencieuse : très peu de gens se sentent assez en sécurité pour nos pensées inachevées, nos griefs non filtrés ou notre confusion tendre.",
+            "Je pense que beaucoup d'entre nous connaissent la différence entre la compagnie et la sécurité. Vous pouvez être entouré de gens et vous sentir profondément seul s'il n'y a pas d'endroit où votre vrai moi est accueilli. Souvent, ce qui nous stabilise le plus n'est pas un conseil. C'est l'expérience d'être reçu sans avoir d'abord besoin de montrer de la force. Dieu nous porte fréquemment par ce type de compagnonnage. Il nous réconforte par l'Écriture et la prière, oui, mais aussi par un ami qui écoute sans se presser, qui reste sans exiger de perfection, et qui se souvient de ce qui compte pour nous.",
+            "L'Ecclésiaste dit que deux valent mieux qu'un, et Hébreux appelle les croyants à s'encourager mutuellement vers l'amour et les bonnes œuvres. Le compagnonnage spirituel est plus que de faire des choses chrétiennes ensemble. C'est la grâce d'être moins seul dans les parties les plus profondes de votre vie. Un bon ami rend l'honnêteté plus possible. Elle ne supprime pas le besoin de Dieu, mais elle vous aide souvent à revenir à Lui plus sincèrement.",
+            "**La bonne amitié rend l'honnêteté plus facile.** Remerciez Dieu aujourd'hui pour toute personne qui a été cette sorte de présence dans votre vie. Et si vous aspirez toujours à une telle amitié, apportez aussi ce désir à Dieu. Il sait combien l'âme a besoin de compagnie sûre."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de ne pas m'avoir conçu pour marcher seul. Aide-moi à chérir les amitiés qui me tiennent véritablement compagnie, et donne-moi plus de relations marquées par l'honnêteté, la tendresse et la force mutuelle. Éclaire aussi ce qui se cache dans mon cœur en termes de comparaison et de blessure, afin que je ne continue pas à me gérer par la suppression, mais que j'apprenne l'honnêteté et la purification devant Toi. Merci de ne pas être repoussé par ma faiblesse, mais disposé à venir près de moi, à me soutenir et à continuer à m'instruire. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ecclésiaste 4:9-10",
+              "book_code": "ECC",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "Louis Segond 1910",
+              "text": "Deux valent mieux qu'un seul, parce qu'ils retirent un bon salaire de leur travail. Car s'ils tombent, l'un relève l'autre ; mais malheur à celui qui est seul et qui tombe sans avoir un second pour le relever."
+            },
+            {
+              "display": "Hébreux 10:24-25",
+              "book_code": "HEB",
+              "chapter": 10,
+              "verses": "24-25",
+              "translation": "Louis Segond 1910",
+              "text": "Soyons attentifs les uns aux autres, pour nous exciter à la charité et aux bonnes œuvres. N'abandonnez pas votre assemblée, comme c'est la coutume de quelques-uns ; mais exhortez-vous mutuellement, et cela d'autant plus que vous voyez s'approcher le jour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Être connu nous réconforte plus profondément que la simple compagnie",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ruth 1:16",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "16",
+            "translation": "Louis Segond 1910",
+            "text": "Naomi dit : Voici, ta belle-sœur s'en est retournée vers son peuple et vers ses dieux ; retourne comme elle. Mais Ruth répondit : Ne me prie pas de t'abandonner et de m'éloigner de toi ; car où tu iras, j'irai, et où tu demeureras, je demeurerai ; ton peuple sera mon peuple, et ton Dieu sera mon Dieu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Toute sorte de compagnie ne touche pas le cœur. Beaucoup d'entre nous avons expérimenté d'être socialement actifs et pourtant intérieurement seuls. Il peut y avoir des conversations, des réunions, des messages et des activités, et pourtant quelque chose d'essentiel reste intouché. Ce qui réconforte le plus profondément n'est pas simplement que quelqu'un soit présent. C'est que quelqu'un comprenne. Il connaît la différence entre vos réponses polies et votre fatigue réelle. Il entend la douleur sous la phrase. Il se souvient de ce qui a été lourd pour vous.",
+            "C'est en partie ce qui rend le compagnonnage de Ruth si beau. Son soin n'était pas éclatant. Elle est restée. Elle est restée près lors d'une saison de deuil et d'incertitude. Dans l'amitié adulte, ce genre de stabilité est rare et précieux. Les gens peuvent apparaître pour des moments de joie, mais tout le monde ne sait pas comment rester pendant la fatigue, le deuil, la confusion ou le changement.",
+            "Être connu réconforte l'âme d'une manière que le bruit ne peut jamais le faire. L'activité peut nous distraire pour une soirée, mais la compréhension donne du repos. Elle restaure un sentiment d'être tenu dans le cœur d'une autre personne. Je pense que c'est l'un des dons silencieux de Dieu en amitié. Il n'éloigne pas toujours notre solitude immédiatement, mais Il y répond parfois en nous donnant quelqu'un qui sait comment rester assez près pour comprendre.",
+            "Ce genre d'amitié ne résout pas chaque douleur, mais cela empêche la solitude d'avoir le dernier mot. Cela laisse l'âme respirer à nouveau.",
+            "**La beauté de l'amitié n'est pas seulement d'apparaître, mais de rester.** Demandez à Dieu aujourd'hui des relations marquées non seulement par le plaisir et la facilité, mais par une véritable connaissance. Et demandez-Lui de former cette même capacité à rester chez vous pour les autres."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, donne-moi des amitiés qui savent rester, et fais de moi aussi cette sorte d'amie. Que je n'aie pas seulement de la compagnie, mais aussi la grâce d'être profondément comprise. Si je désire en ce moment cette sorte de reconnaissance, rencontre-moi là. Et si Tu m'enseignes d'abord à devenir cette sorte d'amie, donne-moi la patience, la tendresse et la volonté de rester. Éclaire aussi la comparaison et la blessure que je préférerais cacher, afin que je n'aie pas à me gérer par la suppression, mais que j'apprenne l'honnêteté et la purification devant Toi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ruth 1:16",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "16",
+              "translation": "Louis Segond 1910",
+              "text": "Naomi dit : Voici, ta belle-sœur s'en est retournée vers son peuple et vers ses dieux ; retourne comme elle. Mais Ruth répondit : Ne me prie pas de t'abandonner et de m'éloigner de toi ; car où tu iras, j'irai, et où tu demeureras, je demeurerai ; ton peuple sera mon peuple, et ton Dieu sera mon Dieu."
+            },
+            {
+              "display": "Proverbes 17:17",
+              "book_code": "PRO",
+              "chapter": 17,
+              "verses": "17",
+              "translation": "Louis Segond 1910",
+              "text": "L'ami aime en tout temps, et c'est pour le malheur qu'un frère est né."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Dieu nous soutient souvent par l'amitié",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 27:17",
+            "book_code": "PRO",
+            "chapter": 27,
+            "verses": "17",
+            "translation": "Louis Segond 1910",
+            "text": "Le fer s'aiguise par le fer ; de même l'homme aiguise la face de son ami."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Parfois, nous parlons de dépendance envers Dieu d'une manière qui laisse très peu de place à la compagnie humaine, comme si avoir besoin d'autres personnes était automatiquement un signe de faiblesse spirituelle. Cependant, l'Écriture ne présente pas la vie chrétienne de cette façon. Galates nous appelle à porter les fardeaux les uns des autres. Les Proverbes parlent d'amis qui s'aiguisent mutuellement. Dieu ministre aux gens directement, mais Il ministre aussi par l'intermédiaire des gens.",
+            "L'amitié spirituelle ne rivalise pas avec Dieu. Elle collabore à Son soin. Un bon ami s'assoit avec la tristesse sans chercher à l'éloigner rapidement. Elle vous rappelle la vérité quand votre propre cœur est devenu brumeux. Elle prie pour vous quand vous n'avez plus beaucoup de paroles. Elle ne devient pas votre sauveur, mais elle devient l'une des façons dont Dieu vous empêche de vous sentir abandonné.",
+            "Beaucoup d'entre nous pouvons nous souvenir d'une saison qui n'est pas devenue plus facile immédiatement, mais qui est devenue plus supportable parce que quelqu'un est resté près. Ce n'est pas la preuve que notre foi était faible. C'est peut-être la preuve que Dieu était bienveillant par les mains et la présence humaines. Nous n'avons pas été conçus pour survivre uniquement par la force privée.",
+            "Quand nous reconnaissons cette bienveillance, la gratitude elle-même peut approfondir l'amitié. Nous commençons à voir le compagnonnage comme l'un des dons choisis de Dieu, non pas simplement comme un extra agréable. Nous devenons aussi un peu moins fiers, parce que recevoir le soutien avec bienveillance est sa propre forme d'humilité.",
+            "**Parfois, la sollicitude de Dieu arrive en portant le visage d'un ami.** Remerciez-le aujourd'hui pour cette grâce où vous l'avez reçue. Et demandez-lui s'Il vous invite à devenir cette sorte de présence fortifiante pour quelqu'un d'autre."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci d'encourager souvent les gens par l'amitié. Merci de ne pas m'avoir demandé de survivre par la seule force privée, et d'avoir permis à Ton réconfort de venir si souvent sous une forme humaine concrète. Aide-moi à chérir cette grâce, et fais-moi quelqu'un qui soutient véritablement les autres, qui reste près et qui aide à ramener les gens à Toi. Si quelqu'un autour de moi a besoin d'un compagnonnage fidèle en ce moment, donne-moi la sensibilité et la stabilité pour marcher avec lui correctement. Purifie ce qui est sensible, fier, réservé ou blessé en moi au sein de l'amitié. Aide-moi à parler honnêtement et à écouter doucement, afin que cette relation puisse devenir plus pleinement un lieu par lequel Ta grâce peut se mouvoir. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 27:17",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "17",
+              "translation": "Louis Segond 1910",
+              "text": "Le fer s'aiguise par le fer ; de même l'homme aiguise la face de son ami."
+            },
+            {
+              "display": "Galates 6:2",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "Portez les fardeaux les uns des autres, et vous accomplirez ainsi la loi de Christ."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

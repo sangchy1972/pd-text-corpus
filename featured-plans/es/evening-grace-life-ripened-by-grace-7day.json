@@ -1,0 +1,471 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS12",
+    "slug": "life-ripened-by-grace",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estaciones de la Vida",
+      "secondary": "evening-grace",
+      "secondary_label": "Gracia del Atardecer"
+    },
+    "tags": [
+      "mujeres-mayores",
+      "envejecimiento",
+      "sabiduria",
+      "legado",
+      "presencia",
+      "siendo-aun"
+    ],
+    "title": "Una Vida Madurada por la Gracia",
+    "subtitle": "Mirando atrás, viviendo ahora y caminando hacia adelante con paz",
+    "audience": {
+      "life_stage": [
+        "mujeres mayores",
+        "sesenta y más",
+        "vida tardía"
+      ],
+      "emotional_state": [
+        "reflexiva",
+        "en paz",
+        "siendo todavía"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Un viaje para mujeres que reflexionan sobre la fidelidad de Dios a lo largo de los años y aprenden a habitar el capítulo posterior de la vida con paz y esperanza.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_evening_lamp_quiet_window",
+      "icon": "lit-candle-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 71:17-18",
+        "book_code": "PSA",
+        "chapter": 71,
+        "verses": "5-6,17-18"
+      },
+      {
+        "display": "Salmo 145:4",
+        "book_code": "PSA",
+        "chapter": 145,
+        "verses": "4"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Mirar hacia atrás significa ver a Dios, no solo el camino",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 71:17-18",
+            "book_code": "PSA",
+            "chapter": 71,
+            "verses": "5-6,17-18",
+            "translation": "Reina-Valera 1909",
+            "text": "O Dios, Tú me has enseñado desde mi juventud... Oh Dios, incluso cuando soy viejo y canoso, no me abandones, hasta que declare Tu fortaleza a esta generación..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Los años posteriores a menudo traen más reflexión. Una mujer recuerda los caminos que recorrió, las decisiones que tomó, los dones que recibió, las pérdidas que llevó, y las estaciones que pensó que la deshacerían pero de alguna manera no lo hicieron. Mirar hacia atrás no es el problema. La pregunta más profunda es cómo miramos hacia atrás.",
+            "Si la memoria se convierte solo en un registro de lo que se perdió, se malgastó o se hirió, entonces la reflexión puede volverse pesada muy rápidamente. Pero cuando a Dios se le permite regresar a la memoria, algo cambia. La historia se convierte en más que un catálogo de experiencia personal. Se convierte en testimonio. «Me has sostenido todo el tiempo.»",
+            "El Salmo 71 es tan poderoso porque el salmista recuerda la fidelidad de Dios desde la juventud hasta la vejez. No rescribe su vida como sin dolor. La recuerda como acompañada. Eso lo hace todo diferente. La paz de los años posteriores no necesariamente viene de un futuro controlable. A menudo viene de una confianza más profunda de que el Dios que te llevó entonces todavía te lleva ahora.",
+            "**Una vida madurada por la gracia no es una vida sin remordimiento. Es una vida en la cual incluso el remordimiento comienza a ser reinterpretado a la luz de la fidelidad de Dios.** Así que revisita una estación oscura hoy, no solo para recordar qué te hirió, sino también para preguntar dónde Dios te estaba sosteniendo cuando aún no podías verlo.",
+            "Ese tipo de remembranza puede convertirse en parte de la paz posterior."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, te doy gracias por el regalo de los años posteriores y el regalo de mirar hacia atrás. No dejes que interprete el pasado solo a través del arrepentimiento, la carencia o la pérdida. Enséñame a ver Tu mano en la memoria de nuevo. Si algunas estaciones antiguas aún duelen, guárdame de hundirme en ellas sin esperanza. En su lugar, muéstrame cómo me sostenías, me preservabas y te negabas a abandonarme incluso entonces. Que la remembranza se vuelva menos amarga y más llena de la vista de Tu fidelidad. Gracias porque desde la juventud hasta ahora no me has dejado. Permanece conmigo en los días aún por venir. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 71:17-18",
+              "book_code": "PSA",
+              "chapter": 71,
+              "verses": "5-6,17-18",
+              "translation": "Reina-Valera 1909",
+              "text": "O Dios, Tú me has enseñado desde mi juventud... Oh Dios, incluso cuando soy viejo y canoso, no me abandones, hasta que declare Tu fortaleza a esta generación..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "La madurez significa vivir en paz con la historia que llevas",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Filipenses 4:11-13",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "11-13",
+            "translation": "Reina-Valera 1909",
+            "text": "He aprendido a estar contento en cualquiera que sea mi situación... Todo lo puedo en Cristo que me fortalece."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una de las grandes tareas de la vida posterior es aprender a vivir con tu historia en lugar de revisar constantemente en tu mente. Toda mujer que llega a los años posteriores lleva algo inconcluso, algo de dolor, algunas decisiones que elegiría diferentemente, algunos capítulos que desearía que hubieran sido de otra manera. La madurez no es recibir un registro de vida impecable. Es aprender a ser tranquila ante Dios mientras aún llevas una historia imperfecta.",
+            "Pablo dice que ha aprendido a estar contento. Esa palabra aprendido importa. La satisfacción no es automática. Se forma. Así es la paz posterior. No viene porque nada sea lamentable. Viene porque una mujer gradualmente deja de gastar toda su energía interna peleando con la realidad y comienza a vivir más profundamente dentro de la misericordia de Dios.",
+            "**Una vida madurada por la gracia puede no ser más ordenada que otras vidas, pero a menudo es más tranquila por dentro.** Si ciertos recuerdos te han estado jaloneando durante años, tráelos a Dios de nuevo hoy. Pero no los traigas solo como evidencia en tu contra. Tráelos también como material para la satisfacción, la entrega y la misericordia.",
+            "Dios no requiere que hermosifiques tu historia completa antes de darte paz. Te encuentra dentro de la historia que realmente tienes."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, reconozco que todavía hay partes de mí que continúan argumentando con mi propia historia. Reviso los lugares imperfectos, los arrepentimientos y los momentos irreversibles, y silenciosamente me juzgo de nuevo. Gracias porque no esperas hasta que haya arreglado mi historia en algo ordenado antes de ofrecer paz. Enséñame, como a Pablo, a aprender la satisfacción, no porque todo está completo, sino porque Eres real, confiable y capaz de sostenerme. Ayúdame a aprender cómo vivir tranquilamente con la historia que tengo, no peleando sin fin con la realidad, sino entregándola más profundamente a Ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Filipenses 4:11-13",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "11-13",
+              "translation": "Reina-Valera 1909",
+              "text": "He aprendido a estar contento en cualquiera que sea mi situación... Todo lo puedo en Cristo que me fortalece."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "El descanso es libertad de la autojustificación sin fin",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Hebreos 4:9-10",
+            "book_code": "HEB",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "Reina-Valera 1909",
+            "text": "Por lo tanto, queda un descanso para el pueblo de Dios. Porque el que ha entrado en Su descanso, también ha cesado de sus propias obras..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "En los años posteriores, muchas personas se ralentizan hacia afuera mientras permanecen interiormente inquietas. El horario puede ser más ligero, sin embargo el alma aún se esfuerza por probar, comparar, justificar y permanecer significativa. Por eso el verdadero descanso no es meramente más horas vacías. Es un tipo diferente de libertad: no tener más que demostrar tu valor a través del mantenimiento constante de ti misma.",
+            "Hebreos habla del descanso de Dios, y ese descanso es más que inactividad. Es participación en lo que Dios ya ha completado, ya ha sostenido, ya ha asegurado. Eso importa profundamente en los años posteriores. Una mujer puede comenzar a soltar el instinto de mantener probando que aún importa continuando a llevar, producir o impresionar.",
+            "**Una vida madurada por la gracia a menudo es conducida a un descanso más profundo, no porque la vida se vuelva vacía, sino porque el alma se vuelve tranquila.** Ese tipo de descanso es profundamente precioso. Dice: no tengo que seguir fabricando mi legitimidad. Puedo vivir de lo que Dios ya ha declarado y ya ha sostenido.",
+            "Así que si tu corazón aún corre fuerte incluso cuando la vida es más tranquila, deja que Dios te invite a más que mejor relajación. Déjalo invitarte a la confianza. El descanso posterior es el albergue de un alma que ha viajado mucho."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, reconozco que todavía hay muchos lugares en mí que no saben cómo detenerse. Incluso cuando la vida se ralentiza hacia afuera, interiormente sigo probando, preocupándome y agarrándome fuertemente. Gracias porque el descanso que ofreces no es meramente un horario menos ocupado, sino un alma verdaderamente tranquila. Enséñame a dejar de mis propias obras y dejar de depender del rendimiento y mantenimiento para la seguridad. Si he vivido demasiado tiempo de la autojustificación, trae mi corazón de vuelta a lo que Ya has hecho, Ya has sostenido y Ya has amado. Que los años posteriores de mi vida se vuelvan no solo más vacíos de ruido, sino más llenos de descanso. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Hebreos 4:9-10",
+              "book_code": "HEB",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "Reina-Valera 1909",
+              "text": "Por lo tanto, queda un descanso para el pueblo de Dios. Porque el que ha entrado en Su descanso, también ha cesado de sus propias obras..."
+            },
+            {
+              "display": "Mateo 11:28-29",
+              "book_code": "MAT",
+              "chapter": 11,
+              "verses": "28-29",
+              "translation": "Reina-Valera 1909",
+              "text": "Vengan a Mí todos ustedes que están fatigados y cargados, y Yo les daré descanso... y encontrarán descanso para sus almas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "La esperanza en los años posteriores se vuelve más tranquila y más profunda",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Romanos 8:24-25",
+            "book_code": "ROM",
+            "chapter": 8,
+            "verses": "24-25",
+            "translation": "Reina-Valera 1909",
+            "text": "Porque en esperanza hemos sido salvos... Pero si esperamos lo que no vemos, con paciencia lo aguardamos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Algunas personas asumen que la esperanza pertenece principalmente a los años cuando las opciones aún se sienten numerosas y abiertas. Pero la esperanza madura a menudo crece más pura en los años posteriores. Se vuelve menos apegada a un resultado deseado específico y más enraizada en el conocimiento tranquilo de que Dios permanece confiable, presente y soberano.",
+            "Romanos dice que somos salvos por la esperanza. Los Salmos repetidamente colocan la esperanza en Dios incluso desde la vejez. La esperanza posterior puede ser menos emocionalmente brillante que la expectativa juvenil, pero a menudo es más estable. Cuando una mujer que ha vivido muchos giros aún puede decir: «Mi esperanza está en Ti,» esa no es esperanza menor. Es esperanza probada.",
+            "**La esperanza en los años posteriores no se reduce. Se refina.** Puede sonar más tranquila, pero a menudo dura más. Tiene menos ilusiones y más sustancia. Ya no depende de que todo resulte idealmente. Descansa más profundamente en el carácter de Dios.",
+            "Así que no supongas que porque tu esperanza se siente menos dramática, se ha debilitado. Simplemente puede haberse profundizado. La esperanza más tranquila aún puede ser esperanza santa."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias por mostrarme que la esperanza no pertenece solo a los años cuando el camino por delante se ve ancho y lleno. Si mi esperanza se siente más tranquila que antes, guárdame de asumir que eso significa frialdad o pérdida. Tal vez la estés refinando, aflojándola de resultados específicos y asegurándola más profundamente a Ti. Gracias porque aún eres digno de mi confianza y aún eres digno de mi alabanza en los años posteriores. Que mi esperanza se vuelva no más pequeña, sino más profunda en Ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Romanos 8:24-25",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "24-25",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque en esperanza hemos sido salvos... Pero si esperamos lo que no vemos, con paciencia lo aguardamos."
+            },
+            {
+              "display": "Salmo 71:14",
+              "book_code": "PSA",
+              "chapter": 71,
+              "verses": "14",
+              "translation": "Reina-Valera 1909",
+              "text": "Pero yo continuaré esperando, y te alabaré más y más."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "La paz crece a medida que crece la confianza",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Isaías 26:3",
+            "book_code": "ISA",
+            "chapter": 26,
+            "verses": "3",
+            "translation": "Reina-Valera 1909",
+            "text": "Al de carácter firme guardarás en completa paz, porque en Ti confía."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La paz de los años posteriores rara vez viene porque la vida finalmente se resolvió. Muchas mujeres en la segunda mitad de la vida aún enfrentan cambios corporales, preocupaciones relacionales, dolor, incertidumbre y preguntas sin respuesta. Sin embargo, una vida madurada por la gracia a menudo comienza a llevar un tipo diferente de paz. No porque todo esté completo, sino porque la confianza se ha profundizado.",
+            "Isaías dice que Dios guarda en paz perfecta al que mantiene su mente en Él. La paz posterior no es entumecimiento. No es indiferencia. Es la paz de una mujer que aún se preocupa profundamente, pero ya no cree que debe personalmente sostener el mundo entero.",
+            "Ella aún se duele. Ella aún ama. Ella aún espera. Pero cada vez sabe más dónde colocar el peso de lo que no puede controlar.",
+            "**La paz en los años posteriores no es automática. A menudo es el fruto de la confianza larga.** Si anhelas ese tipo de paz, devuélvete a ti misma nuevamente al Dios que te ha llevado hasta ahora. Una de las bellezas de la gracia posterior es no solo que has resistido mucho, sino que estás aprendiendo más profundamente en quién apoyarte."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, te doy gracias porque no he caminado estos años sola. Si muchas cosas aún sin resolver me inquietan interiormente, tranquiliza mi corazón en Ti nuevamente. Enséñame a confiar en Ti más profundamente, no porque todo esté ya completo, sino porque has permanecido fiel. Guárdame de confundir la paz posterior con entumecimiento, y guárdame de asumir que porque aún me preocupo, estoy lejos de la paz. Planta esa paz profunda y tranquila en mí, para que en los años posteriores de la vida me vuelva no más ansiosa, sino más dependiente de Ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Isaías 26:3",
+              "book_code": "ISA",
+              "chapter": 26,
+              "verses": "3",
+              "translation": "Reina-Valera 1909",
+              "text": "Al de carácter firme guardarás en completa paz, porque en Ti confía."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "Mirar hacia atrás puede liberar el camino hacia adelante",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 77:11-12",
+            "book_code": "PSA",
+            "chapter": 77,
+            "verses": "11-12",
+            "translation": "Reina-Valera 1909",
+            "text": "Me acordaré de las obras del Señor... Meditaré en todas Tus obras..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Cuando la reflexión de la vida posterior se hace con Dios, puede producir algo hermoso. No encarcelera a una mujer en el pasado. La libera hacia el futuro. Ella comienza a ver dónde Dios sustentó, preservó, corrigió y bendijo de maneras que no reconoció en ese momento. Tal remembranza lentamente la libera de ciclos sin fin de «si solo.»",
+            "Israel es repetidamente instruido a recordar lo que el Señor ha hecho. El recuerdo bíblico no es nostalgia por su propio bien. Es una práctica espiritual que fortalece la confianza en el presente. De la misma manera, la reflexión posterior no está destinada a ser rumiación sin fin. Puede convertirse en testimonio.",
+            "**Cuando Dios está presente en la memoria, el remordimiento puede suavizarse en gratitud y el miedo puede suavizarse en firmeza.** Ya no vuelves a entrar en el pasado para revivir cada herida. Vuelves para recopilar evidencia de fidelidad.",
+            "Ese tipo de recuerdo hace el camino restante más ligero. Le enseña al corazón: el Dios que no me falló allá no me fallará aquí tampoco."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, guarda mi recuerdo para que no me mantenga arrastrando hacia atrás hacia el remordimiento y el miedo. Que se vuelva un lugar donde recuerdo Tu fidelidad en su lugar. Si principalmente he mirado hacia atrás para contar lo que se perdió y lo que duele, enséñame a notar nuevamente dónde me levantaste, suministraste, corregiste y preservaste. Que la memoria se vuelva no solo pesada, sino testimonio. Gracias porque no me fallaste en años anteriores, y gracias porque por eso puedo confiar en Ti más libremente para el camino aún por delante. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 77:11-12",
+              "book_code": "PSA",
+              "chapter": 77,
+              "verses": "11-12",
+              "translation": "Reina-Valera 1909",
+              "text": "Me acordaré de las obras del Señor... Meditaré en todas Tus obras..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "Una vida madurada por la gracia se vuelve cada vez más como alabanza",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 145:4",
+            "book_code": "PSA",
+            "chapter": 145,
+            "verses": "4",
+            "translation": "Reina-Valera 1909",
+            "text": "Una generación hablará de Tus obras a otra, y declarará Tus poderosos actos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una vida madurada por la gracia no necesariamente termina con un registro impecable. Pero a menudo se vuelve cada vez más como alabanza. No porque todo funcionó perfectamente. No porque el arrepentimiento desapareció. Pero porque durante muchos años, una mujer llega a reconocer que Dios realmente ha sido fiel todo el tiempo.",
+            "Ella recuerda debilidad, desvíos, pérdidas y estaciones poco glamorosas. Sin embargo, precisamente porque las recuerda, la alabanza se vuelve más real. Ya no es solo fervor juvenil. Se convierte en testimonio sazonado: Señor, verdaderamente fuiste fiel.",
+            "El Salmo 145 habla de una generación alabando a Dios a otra generación. La alabanza posterior a menudo lleva ese tipo de peso. No es entusiasmo delgado. Es la adoración de una mujer que ha visto lo suficiente de la vida para saber tanto el dolor como la misericordia, y que aún elige bendecir al Señor.",
+            "**La madurez en los años posteriores no es solo la capacidad de explicar la vida. Es la capacidad de seguir alabando a Dios dentro de una vida inconclusa.** Ese puede ser uno de los finales más ricos que una vida puede tener: no agotado por el tiempo, sino conducido por el tiempo hacia una doxología más profunda."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias porque estás conduciendo mi vida no solo hacia un final, sino hacia una alabanza más profunda. Si aún hay muchos lugares que no puedo explicar o completamente remediar, deja que vea Tu fidelidad allí. Que los años posteriores de mi vida se vuelvan no solo más reflexivos, sino más agradecidos; no solo más tranquilos, sino más capaces de hablar de Tus obras a quienes vienen después. Gracias porque no me has dejado, y gracias porque incluso una vida inconclusa puede sinceramente alabarte. Que mi vida se vuelva cada vez más como una canción tranquila pero veraz de adoración. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 145:4",
+              "book_code": "PSA",
+              "chapter": 145,
+              "verses": "4",
+              "translation": "Reina-Valera 1909",
+              "text": "Una generación hablará de Tus obras a otra, y declarará Tus poderosos actos."
+            },
+            {
+              "display": "Salmo 71:17-18",
+              "book_code": "PSA",
+              "chapter": 71,
+              "verses": "17-18",
+              "translation": "Reina-Valera 1909",
+              "text": "Oh Dios, Tú me has enseñado desde mi juventud... Oh Dios, incluso cuando soy viejo y canoso, no me abandones, hasta que declare Tu fortaleza a esta generación..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

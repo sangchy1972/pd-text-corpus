@@ -1,0 +1,350 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS02",
+    "slug": "hearing-his-voice",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Lebensjahreszeiten",
+      "secondary": "early-light",
+      "secondary_label": "Frühes Licht"
+    },
+    "tags": [
+      "junge frauen",
+      "berufseinstieg",
+      "berufung",
+      "identitaet",
+      "ehrgeiz",
+      "frueherwachsenheit"
+    ],
+    "title": "Gottes Stimme in einer lauten Welt hören",
+    "subtitle": "Stille Führung finden, wenn das Leben laut wird",
+    "audience": {
+      "life_stage": [
+        "junge Frauen",
+        "zwanziger Jahre",
+        "Berufseinstieg"
+      ],
+      "emotional_state": [
+        "hoffnungsvoll",
+        "unsicher",
+        "suchend nach Richtung"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Für die junge Frau, die in einer Welt voller Meinungen, Optionen und Lärm nach Orientierung sucht und Gott klarer hören möchte.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#A8D8B9",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_woman_morning_window_spring_light",
+      "icon": "young-tree-with-blossoms-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Johannes 10:3-5",
+        "book_code": "JHN",
+        "chapter": 10,
+        "verses": "3-5"
+      },
+      {
+        "display": "1. Samuel 3:9-10",
+        "book_code": "1SA",
+        "chapter": 3,
+        "verses": "9-10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Nicht jede laute Stimme verdient meinen Gehorsam",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Johannes 10:3-5",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "3-5",
+            "translation": "Lutherbibel 1912",
+            "text": "Und die Schafe hören seine Stimme; und er ruft seine eigenen Schafe beim Namen und führt sie aus... und die Schafe folgen ihm, denn sie kennen seine Stimme. Einem Fremden aber folgen sie nicht, sondern fliehen vor ihm; denn sie kennen der Fremden Stimme nicht."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Eine der tiefsten Formen der Erschöpfung in der Jugend ist nicht immer, zu viel zu tun. Es ist, zu viele Stimmen zu hören, die dir sagen, wie du leben sollst. Bevor der Tag überhaupt beginnt, lehrt dich bereits jemand, wie du deine Karriere aufbaust, deine Gewohnheiten optimierst, deinen Körper pflegst, deine Beziehungen verbesserst und vermeidest, deine Zwanziger zu verschwenden. Vieles davon klingt weise. Vieles davon klingt dringend. Aber wenn alle diese Stimmen zusammen hereinströmen, wird die Seele oft weniger klar, nicht mehr.",
+            "Im Johannesevangelium sagt Jesus, dass die Schafe die Stimme des Hirten kennen und dass sie einem Fremden nicht folgen, weil sie seine Stimme nicht kennen. Dieses Bild ist zutiefst tröstlich. Gottes Stimme zu unterscheiden wird nicht als eine Gabe dargestellt, die nur für ungewöhnlich fortgeschrittene Gläubige reserviert ist. Sie wird als eine Beziehung der Vertrautheit beschrieben. Die Schafe kennen den Hirten, weil sie ihm gehören und in seiner Nähe bleiben.",
+            "Das ist wichtig in einer lauten Welt. Die lauteste Stimme ist nicht automatisch die wahrste. Die polierte Stimme ist nicht immer der sicherste Leitfaden. Viele junge Frauen werden nicht abgelenkt, weil sie fahrlässig sind, sondern weil sie aufrichtig nach Orientierung sehnen und anfangen, Dringlichkeit mit Weisheit zu verwechseln.",
+            "**Gottes Stimme mag nicht immer die lauteste sein, aber sie wird dich zu größerer Wahrheit, Standfestigkeit und Frieden führen.** Sie wird nicht einfach deine Angst entfachen oder deine Ehrgeiz schmeicheln. Sie wird dich zu einer klareren, gefesteten Lebensweise zurückrufen.",
+            "Stelle dir heute eine einfache Frage über die Stimmen, die dich prägen: Macht diese Stimme mich gehetzter oder treuer? Voller oder klarer vor Gott? Diese Frage wird nicht alles lösen, aber sie kann dir helfen, dein Gehör neu einzustellen. Die Stimme, die es am meisten wert ist zu erkennen, ist immer noch die des Hirten."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, die Welt ist wirklich sehr laut, und mein Herz wird leicht von verschiedenen Stimmen hin und her gezogen. Manchmal möchte ich Antworten so schnell bekommen, dass ich zuerst die Dringlichkeit, den Rhythmus und die Sorge anderer in mich aufnehme. Erbarme dich meiner und trainiere mich, deine Stimme wiederzuerkennen. Lass mich nicht Lautstärke für Zuverlässigkeit halten, nicht Beliebtheit für Wahrheit, nicht Druck für Führung. Baue in mir einen stilleren Unterscheidungssinn auf, damit ich immer besser verstehe, was von dir kommt und was mein Herz nur verwirrt. Danke dir, dass du mich nicht aus der Ferne befiehlst, sondern mich wie ein Hirte seine Schafe kennst und führst. Lass mich unter vielen Stimmen lernen, dir zu folgen. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Johannes 10:3-5",
+              "book_code": "JHN",
+              "chapter": 10,
+              "verses": "3-5",
+              "translation": "Lutherbibel 1912",
+              "text": "Und die Schafe hören seine Stimme; und er ruft seine eigenen Schafe beim Namen und führt sie aus... und die Schafe folgen ihm, denn sie kennen seine Stimme. Einem Fremden aber folgen sie nicht, sondern fliehen vor ihm; denn sie kennen der Fremden Stimme nicht."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Gottes Führung kommt nicht immer auf einmal",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Apostelgeschichte 16:6-10",
+            "book_code": "ACT",
+            "chapter": 16,
+            "verses": "6-10",
+            "translation": "Lutherbibel 1912",
+            "text": "Da sie aber von dem heiligen Geist gewehrt wurden, das Wort zu predigen in Asien... versuchten sie nach Bithynien zu reisen; aber der Geist Jesu litt es nicht... und ein Gesicht erschien dem Paulus in der Nacht; ein Mann aus Mazedonien stand da und bat ihn und sprach: Komm herüber nach Mazedonien und hilf uns!"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wenn viele junge Menschen Gott um Führung bitten, wollen sie oft nicht nur seine Gegenwart, sondern die vollständige Karte. Welchen Job sollte ich nehmen? Sollte ich umziehen? Sollte ich bleiben und weitermachen, oder ist es Zeit, die Richtung zu ändern? Bin ich treu oder verschwende ich Zeit? Der Druck des jungen Erwachsenseins ist nicht immer ein Mangel an Wunsch. Es ist oft das Gewicht von zu vielen Möglichkeiten.",
+            "Wir neigen dazu anzunehmen, dass Gott, wenn er uns wirklich führt, alles auf einmal offensichtlich macht. Aber Apostelgeschichte 16 erzählt eine realistischere Geschichte. Paulus und seine Begleiter bekommen die makedonische Vision nicht am Anfang. Zuerst werden sie gehindert. Sie versuchen einen Weg, dann einen anderen. Sie werden umgeleitet, bevor der Weg klarer wird. Gottes Führung entfaltet sich, während sie sich bewegen, zuhören, anpassen und verfügbar bleiben.",
+            "Das ist wichtig, weil es zeigt, dass geistliche Führung nicht immer linear ist. Gott übergibt nicht immer das endgültige Bild am Anfang. Manchmal führt er in Stufen. Er schließt einen Weg, erschüttert einen anderen, und dann wird schließlich genug Licht für den nächsten gehorsamen Schritt gegeben.",
+            "**Manchmal ist Gott nicht abwesend. Er führt dich einfach auf eine Weise, die Vertrauen statt totale Kontrolle erfordert.** Für eine junge Frau, die von Optionen umgeben ist, kann sich das zutiefst unbequem anfühlen. Aber Unsicherheit ist nicht immer der Beweis, dass du vom Weg abgekommen bist. Es kann einfach bedeuten, dass du noch in Echtzeit geleitet wirst.",
+            "Stelle dir daher heute nicht nur die Frage: \"Warum weiß ich noch nicht alles?\" Frag auch: \"Was hat Gott mir bereits deutlich genug für heute gemacht?\" Führung kommt oft so: nicht als vollständige Ankündigung, sondern als ein Weg, der sich langsam öffnet."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich wünsche mich oft, dass du den Weg vor mir auf einmal erklärst, damit ich nicht mit Unsicherheit vorwärts gehen muss. Du weißt, dass ich gerade in einem Abschnitt lebe, der voll von Optionen ist und in dem ich leicht Angst habe, die falsche zu wählen. Hilf mir, den nicht völlig geklärten Weg nicht als deine Abwesenheit auszulegen. Gib mir ein williges Herz, wenn du eine Tür schließt, einen anderen Weg verlangsamt oder dich dafür entscheidest, noch nicht alles zu offenbaren. Danke dir, dass du nicht nur am Ziel auf mich wartest. Du bist bei mir in den Kurven, den Pausen, den Anpassungen und den Neuanfängen. Lehre mich nicht nur eine Karte zu wollen, sondern auch dich zu wollen. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Apostelgeschichte 16:6-10",
+              "book_code": "ACT",
+              "chapter": 16,
+              "verses": "6-10",
+              "translation": "Lutherbibel 1912",
+              "text": "Da sie aber von dem heiligen Geist gewehrt wurden, das Wort zu predigen in Asien... versuchten sie nach Bithynien zu reisen; aber der Geist Jesu litt es nicht... und ein Gesicht erschien dem Paulus in der Nacht; ein Mann aus Mazedonien stand da und bat ihn und sprach: Komm herüber nach Mazedonien und hilf uns!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Gott spricht oft in der Stille, nicht im größten Lärm",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jesaja 30:15",
+            "book_code": "ISA",
+            "chapter": 30,
+            "verses": "15",
+            "translation": "Lutherbibel 1912",
+            "text": "Denn also spricht der Herr, der Heilige Israels: Durch Umkehr und Ruhe werdet ihr errettet; durch Stille und Vertrauen wird eure Stärke sein."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Unser Zeitalter verwechselt leicht intensive Gefühle mit klarer Führung. Wenn etwas sich stark, aufregend, dringend oder emotional aufgeladen anfühlt, nehmen wir an, dass es am meisten zählen muss. Aber das junge Erwachsenenalter ist bereits laut genug. Soziale Medien, Meinungen, Stadtgeschwindigkeit, müde Körper, digitale Stimulation und Zukunftsdruck können einen Menschen in einem Zustand ständiger Reaktion halten. In einem solchen Leben kann Gottes Stimme zu leise wirken, um bemerkt zu werden.",
+            "Deshalb sind Jesajas Worte hier wichtig. In Jesaja 30 sagt der Herr seinem Volk, dass sie durch Rückkehr und Ruhe errettet werden und dass ihre Stärke in der Stille und Zuversicht liegt. Die Schrift lehrt uns etwas Wichtiges: Gott leitet nicht immer durch Spektakel. Er besänftigt und leitet oft durch Stille, Aufnahmebereitschaft und ein Herz, das langsam genug geworden ist, um ihn zu empfangen.",
+            "Viele junge Frauen ignorieren Gott nicht absichtlich. Sie sind einfach daran gewöhnt geworden, nur auf das zu achten, was laut ist. Aber nicht alles Laute ist tief, und nicht alles Stille ist schwach.",
+            "**Wenn die Seele nie stillhält, wird subtile aber echte Führung oft übersehen.** Stille ist keine verschwendete Zeit. Sie ist einer der Orte, wo das innere Leben wieder hörbar wird. Du erhältst vielleicht nicht jedes Mal, wenn du dich vor Gott stillst, eine dramatische Antwort, aber mit der Zeit wirst du unterscheidungsfähiger. Du beginnst zu bemerken, was nur deine Emotion verstärkt und was sanft deine Richtung neu ordnet.",
+            "Mache heute ein wenig Platz für diese Art des Zuhörens. Stell den Hintergrundlärm für ein paar Minuten beiseite. Lege das Handy weg. Lass dein Herz stille werden vor dem Herrn. Du führst nicht spirituell auf. Du machst dich selbst wieder verfügbar."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe ein, wie sehr ich es gewohnt bin, von lauten Dingen angezogen zu werden, und auch wie sehr ich es gewohnt bin, im Trubel und in der Reizüberflutung zu leben. Erbarme dich meiner und lass mich dich nicht nur in Intensität suchen, und lass mich nicht annehmen, dass deine Führung nicht real ist, nur weil sie nicht dramatisch ist. Trainiere mein Herz, still zu werden, innezuhalten und in kleineren Dingen auf dich zu warten. Wenn ich schon lange von Lärm umgeben bin, schaffe Raum in mir, damit ich die Stimme wieder höre, die mich zu Hause bringt und stabilisiert. Danke dir, dass du nicht nur zu äußeren Stürmen sprichst. Du sprichst auch sanft in die verworrenen Orte in mir hinein. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jesaja 30:15",
+              "book_code": "ISA",
+              "chapter": 30,
+              "verses": "15",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn also spricht der Herr, der Heilige Israels: Durch Umkehr und Ruhe werdet ihr errettet; durch Stille und Vertrauen wird eure Stärke sein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Gottes Stimme trägt Wahrheit und bringt Frucht hervor",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Matthäus 7:16-18",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "16-18",
+            "translation": "Lutherbibel 1912",
+            "text": "An ihren Früchten sollt ihr sie erkennen... Ein guter Baum kann nicht böse Früchte bringen; und ein böser Baum kann nicht gute Früchte bringen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das Unterscheiden von Gottes Stimme ist nicht nur die Frage \"Habe ich einen Eindruck?\", sondern auch \"Welche Art von Person wird diese Richtung mich zu werden führen?\" Einige Stimmen erregen dich, machen dich aber auch rastloser. Manche Gelegenheiten sehen beeindruckend aus, lassen dich aber langsam deine Ehrlichkeit, Gebetshaltung oder Ruhe verlieren. Im jungen Erwachsenenalter ist es leicht, von Dingen abgelenkt zu werden, die \"richtig aussehen\", weil sie nicht unbedingt offensichtlich falsch sind, sondern respektabel, vielversprechend und bewundernswert sein könnten.",
+            "Jesus lehrt, dass Bäume an ihrer Frucht erkannt werden. Dieses Prinzip hilft uns hier. Eine Stimme, die dich durchgehend stolzer, gehetzter, aufführerischer, gebetslos oder innerlich zersplittert macht, sollte nicht vertraut werden, nur weil sie ehrgeizig oder erfolgreich klingt. Gottes Führung mag dich dehnen, dich korrigieren oder dich bitten, etwas loszulassen, das du festhalten wolltest, aber letztendlich wird sie andere Früchte tragen. Sie wird dich zu größerer Integrität, sauberen Motiven, steterer Hingabe und tieferem Frieden führen.",
+            "**Die Stimme Gottes beeinflusst nicht nur, wohin du gehst. Sie gestaltet auch, wer du wirst, während du dorthin gehst.** Deshalb muss die Unterscheidung tiefer gehen als nur Gelegenheit. Die wahre Frage ist nicht nur: \"Kann ich das tun?\", sondern: \"Was tut das meiner Seele an?\"",
+            "Wenn du gerade eine Richtung abwägst, frag ehrlich: Was füttert sie in mir? Eitelkeit? Angst? Vergleich? Panik? Oder Geduld, Ehrlichkeit und Ehrfurcht? Gott ist selten an Beeindruckung um ihrer selbst willen interessiert. Er sucht nach Frucht, die bleibt."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, befreie mich von der Art der Unterscheidung, die nur auf Erscheinungen, Gelegenheiten oder das schaut, was andere beneiden werden. Lehre mich, nicht nur zu fragen, was gut klingt, sondern was gute Frucht trägt. Wenn es Richtungen gibt, die glänzend aussehen, aber mich nach und nach um meinen Frieden, meine Ehrlichkeit oder mein Vertrauen auf dich bringen, gib mir ein klares Licht zu sehen und den Mut loszulassen. Und wenn es Wege gibt, die weniger beeindruckend aussehen, aber Treue, Selbstbeherrschung, Sanftheit und Wahrheit in mir wachsen lassen würden, lass mich sie nicht übersehen. Danke dir, dass du dich nicht nur um meine Richtung kümmerst, sondern auch um die Person, die ich werde. Lass das, dem ich folge, wirklich du sein. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Matthäus 7:16-18",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "16-18",
+              "translation": "Lutherbibel 1912",
+              "text": "An ihren Früchten sollt ihr sie erkennen... Ein guter Baum kann nicht böse Früchte bringen; und ein böser Baum kann nicht gute Früchte bringen."
+            },
+            {
+              "display": "Galater 5:22-23",
+              "book_code": "GAL",
+              "chapter": 5,
+              "verses": "22-23",
+              "translation": "Lutherbibel 1912",
+              "text": "Die Frucht aber des Geistes ist Liebe, Freude, Friede, Geduld, Freundlichkeit, Güte, Glaube, Sanftmut, Enthaltsamkeit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Gott zu hören bedeutet auch, auf ihn zu antworten",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Samuel 3:9-10",
+            "book_code": "1SA",
+            "chapter": 3,
+            "verses": "9-10",
+            "translation": "Lutherbibel 1912",
+            "text": "Darum sprach Eli zu Samuel: Gehe hin und schlafe; und so er dich ruft, so sprich: Rede, Herr; denn dein Knecht hört... Und der Herr kam und trat hin und rief wie die anderen Male: Samuel, Samuel! Und Samuel antwortete: Rede; denn dein Knecht hört."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Oft, wenn wir sagen, dass wir Gott hören möchten, wollen wir wirklich eine beruhigende Antwort erhalten. Aber in der Schrift ist Gott zu hören selten nur eine Frage des Informationserhalts. Es ist normalerweise eine Einladung zur Antwort. Als der junge Samuel Gott nachts rufen hörte, erkannte er die Stimme zunächst nicht. Mit Elis Hilfe lernte er zu antworten: \"Sprich; denn dein Knecht hört.\" Diese Haltung ist wichtig. Die Unterscheidung beginnt nicht mit Meisterschaft, sondern mit Willigkeit.",
+            "Dies ist besonders wichtig im jungen Erwachsenenalter, denn das geistliche Leben kann zu einer anderen Form von Informationsangst werden. Verpasse ich Gottes Plan? Finde ich nicht die richtige Version meiner Zukunft? Aber was das Herz reift, ist nicht nur, etwas Neues zu hören. Es ist, treu auf das zu reagieren, das bereits klargemacht worden ist.",
+            "Manchmal sagt Gott nicht mehr, weil wir immer noch eingeladen werden, auf das zu gehorchen, das wir bereits gehört haben. Ein zuhörendes Leben wird nicht durch die Jagd nach ständiger Neuheit aufgebaut. Es wird durch ein Herz aufgebaut, das verfügbar, lehrwillig und bereit bleibt zu antworten.",
+            "**Diejenigen, die wirklich lernen, Gott zu hören, werden oft zu Menschen, die lernen, ihm zu antworten.** Diese Antwort kann leise sein. Sie kann eine ehrliche Entscheidung, eine aufgegebene Gewohnheit, ein kleiner Gehorsamsakt oder ein wiederhergestellter täglicher Rhythmus mit Gott sein. Aber jede Antwort vertieft die Beziehung.",
+            "Suche daher heute nicht zuerst nach einem dramatischeren Wort. Frag stattdessen: Was hat Gott mir bereits zu verstehen gegeben? Wo hat er mir bereits geantwortet? Das Hören wird schärfer, wenn der Gehorsam einfacher wird. \"Sprich, Herr\" ist ein wunderschönes Gebet, aber so ist auch dieses: \"Ich bin bereit zu antworten.\""
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke dir, dass du nicht nur bereit bist zu sprechen, sondern auch mich lehren möchtest zuzuhören. Vergib mir, dass ich manchmal eher nach einer beruhigenden Antwort suche als nach einem Wort, das mich umwandelt. Gib mir ein Herz wie Samuels, das nicht so tut, als würde es alles verstehen, das nicht daran wird zu kontrollieren, sondern einfach vor dir sagt: \"Herr, sprich; denn dein Knecht hört.\" Wenn du bereits Orte in meinem Leben aufgezeigt hast, die Anpassung, Aufgabe, Beginn oder Stopp brauchen, gib mir den Mut zu antworten. Halte mich davon ab, nur geistliche Informationen zu sammeln, ohne sie in meinem wirklichen Leben zu leben. Lass mich immer vertrauter mit deiner Stimme werden und williger, dass diese Stimme meine Schritte formt. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Samuel 3:9-10",
+              "book_code": "1SA",
+              "chapter": 3,
+              "verses": "9-10",
+              "translation": "Lutherbibel 1912",
+              "text": "Darum sprach Eli zu Samuel: Gehe hin und schlafe; und so er dich ruft, so sprich: Rede, Herr; denn dein Knecht hört... Und der Herr kam und trat hin und rief wie die anderen Male: Samuel, Samuel! Und Samuel antwortete: Rede; denn dein Knecht hört."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

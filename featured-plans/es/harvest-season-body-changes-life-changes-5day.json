@@ -1,0 +1,372 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS08",
+    "slug": "body-changes-life-changes",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estaciones de la Vida",
+      "secondary": "harvest-season",
+      "secondary_label": "Tiempo de Cosecha"
+    },
+    "tags": [
+      "mediana-edad",
+      "cambios-corporales",
+      "reorientacion",
+      "sabiduria",
+      "perimenopausia",
+      "menopausia"
+    ],
+    "title": "Cuando Tu Cuerpo Cambia y También Tu Vida",
+    "subtitle": "Encontrando a Dios en el cambio físico, los giros interiores y una nueva etapa de la feminidad",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cuarenta-cincuenta",
+        "mediana edad"
+      ],
+      "emotional_state": [
+        "reflexiva",
+        "reorientándose",
+        "abrazando el cambio"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Para mujeres que navegam cambios corporales, energía fluctuante y las preguntas interiores que con frecuencia surgen en una nueva etapa de la vida.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#E8B888",
+      "color_secondary": "#7A4A2C",
+      "image_key": "cover_woman_open_window_autumn_warm",
+      "icon": "ripening-fruit-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 139:13-14",
+        "book_code": "PSA",
+        "chapter": 139,
+        "verses": "13-14"
+      },
+      {
+        "display": "Job 12:12-13",
+        "book_code": "JOB",
+        "chapter": 12,
+        "verses": "12-13"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Cuando el Cuerpo Cambia, También Mi Comprensión de Mí Misma Debe Profundizar",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 139:13-14",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "13-14",
+            "translation": "Reina-Valera 1909",
+            "text": "Porque tú formaste mis entrañas; tú me hiciste en el vientre de mi madre. Te alabo; porque formidable, maravilloso soy..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "El cambio corporal rara vez llega de una sola vez. Puede comenzar con alteraciones del sueño, fatiga, cambios emocionales, ciclos que se modifican, concentración reducida, o una sensación sutil de que tu yo una vez familiar se ha vuelto más difícil de predecir. Para muchas mujeres, la parte más difícil no es solo los síntomas. Es la manera en que el cambio cuestiona la identidad en el nivel práctico. Quizás has sido durante mucho tiempo la mujer que podía cargar, recuperarse, hacer múltiples tareas y seguir adelante. Ahora el cuerpo mismo está diciendo: esta estación no puede vivirse exactamente como antes.",
+            "El Salmo 139 dice que somos formadas de una manera temerosa y maravillosa. En la mediana edad, esa verdad puede convertirse en un tipo diferente de consuelo. Dios no ha dejado de conocer tu cuerpo porque ha entrado en una nueva etapa. No ha retirado Su cuidado porque tus ritmos han cambiado. A menudo leemos el cambio corporal como pérdida de control o como fracaso personal. Dios no lo hace así.",
+            "Él recuerda que somos polvo. Eso significa que Su cuidado hacia ti nunca está alejado de tu realidad física.",
+            "**La madurez a veces significa dejar de exigir que tu cuerpo siga sirviéndote exactamente como una vez lo hizo, sino aprender a conocerlo de nuevo con reverencia y misericordia.** Eso no es rendición ante la derrota. Es movimiento desde la hostilidad hacia el mayordomazgo, desde la vergüenza hacia la honestidad.",
+            "Así que quizás una de las cosas más espirituales que puedas hacer hoy es dejar de exigir a tu cuerpo que pretenda estar aún en otra década. Pregunta en su lugar por sabiduría para la estación en que realmente te encuentras."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, confieso que cuando mi cuerpo comienza a cambiar, mis primeras reacciones son a menudo ansiedad, frustración e incluso vergüenza. Me he acostumbrado a una cierta manera de funcionar, y he confundido la continuidad con seguridad. Te agradezco que no hayas reducido Tu conocimiento de mí o Tu compasión hacia mí solo porque mi cuerpo ha entrado en una nueva etapa. Enséñame a enfrentarme a mí misma con mayor honestidad y gentileza. Líbrame de exigir cumplimiento sin fin de mi cuerpo o de leer la limitación como fracaso. Dame sabiduría fresca para saber cómo cuidarme, ajustarme y continuar viviendo en verdad en el cuerpo que aún te pertenece. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 139:13-14",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "13-14",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque tú formaste mis entrañas; tú me hiciste en el vientre de mi madre. Te alabo; porque formidable, maravilloso soy..."
+            },
+            {
+              "display": "Salmo 103:13-14",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "13-14",
+              "translation": "Reina-Valera 1909",
+              "text": "Como el padre se compadece de los hijos, se compadece Jehová de los que le temen. Porque él conoce nuestra condición; se acuerda de que somos polvo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Mayor Vulnerabilidad No Significa Mayor Distancia de Dios",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Isaías 46:3-4",
+            "book_code": "ISA",
+            "chapter": 46,
+            "verses": "3-4",
+            "translation": "Reina-Valera 1909",
+            "text": "Escuchadme, casa de Jacob, y todo el remanente de la casa de Israel, los que sois llevados desde el vientre, los que sois tomados desde la matriz. Y hasta la vejez yo mismo, y hasta las canas os llevaré yo; yo hice, yo llevaré, y yo salvaré."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Conforme el cuerpo cambia, la vulnerabilidad a menudo se vuelve más notable. Una mala noche de sueño persiste más tiempo. Los cambios emocionales permanecen en el cuerpo más largo. La recuperación toma más tiempo. Lo que una vez pudo superarse con fuerza de voluntad quizás ya no responda de la misma manera. Para una mujer que ha sido competente, resiliente y digna de confianza, esto puede sentirse desorientador. Incluso puede sentirse como volverse menos útil.",
+            "Pero Pablo nos da un marco mejor. La fortaleza de Dios se perfecciona en la debilidad. La debilidad no es alabada por su propio bien. Más bien, la debilidad interrumpe la ilusión de autosuficiencia. La mediana edad a menudo trae a las mujeres a un contacto más cercano con sus límites, no solo físicos sino también emocionales y energéticos. El evangelio no te pide que niegues esto. Te invita a descubrir que Dios no se aleja cuando te vuelves más consciente de tus limitaciones.",
+            "Con frecuencia se vuelve más profundamente conocido allí.",
+            "**La vulnerabilidad no automáticamente significa declive. A veces significa que Dios te está moviendo de la autosuficiencia hacia una verdadera dependencia.** Esa no es una madurez glamorosa, pero es profundamente real.",
+            "Así que quizás la pregunta ya no es solo, '¿Por qué no soy la misma?' Quizás también se convierte en, 'Señor, ¿cómo quieres encontrarme en la forma de debilidad que ahora cargo?' Esa pregunta abre un tipo diferente de fortaleza."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, confieso que no disfruto esta etapa de sentir mis límites más rápido y más frecuentemente. La vulnerabilidad no se siente naturalmente como gracia para mí. Se siente como un recordatorio de lo que ha cambiado. Y sin embargo dices que Tu gracia es suficiente. Líbrame de retraerme porque me siento más finita, y líbrame de despreciarme a mí misma porque no soy como una vez fui. Si estás usando estos cambios para aflojar mi dependencia de mí misma, haz ese trabajo con gentileza. Y déjame conocerte más profundamente en el proceso. No permitas que caiga en la desesperación por la limitación, sino hazme verdaderamente sostenida por Ti dentro de ella. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Isaías 46:3-4",
+              "book_code": "ISA",
+              "chapter": 46,
+              "verses": "3-4",
+              "translation": "Reina-Valera 1909",
+              "text": "Escuchadme, casa de Jacob, y todo el remanente de la casa de Israel, los que sois llevados desde el vientre, los que sois tomados desde la matriz. Y hasta la vejez yo mismo, y hasta las canas os llevaré yo; yo hice, yo llevaré, y yo salvaré."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "Algunos Cambios No Son Averías, sino Invitaciones a Reordenar la Vida",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Éxodo 16:16-18",
+            "book_code": "EXO",
+            "chapter": 16,
+            "verses": "16-18",
+            "translation": "Reina-Valera 1909",
+            "text": "Esto es lo que Jehová ha mandado: Recoged de él cada uno según lo que pueda comer... y cuando lo midieron por gomor, no sobró al que había recogido mucho, ni faltó al que había recogido poco; cada uno recogió conforme a lo que había de comer."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Un error común en los años de mediana edad es tratar cada cambio como una avería. El cuerpo ya no responde de la misma manera. Algo está mal. Se necesita más descanso. Algo está mal. Los viejos ritmos ya no funcionan. Algo está mal. Nuestro primer instinto se convierte en: ¿cómo restauro la versión anterior de mí misma?",
+            "Esto no es negar la importancia de la atención médica o el tratamiento inteligente. Por supuesto que eso importa. Pero junto con eso, muchas mujeres también necesitan un replanteamiento espiritual. No todo cambio simplemente está destinado a ser revertido. Algunos cambios son invitaciones a vivir de manera diferente.",
+            "En el desierto, Dios enseñó a Israel a recibir maná un día a la vez. Estaba reentrena su relación con la provisión y el ritmo. De una manera diferente, el cambio corporal puede reentrenar la relación de una mujer con el trabajo, el descanso, la nutrición, el ritmo y los límites personales. Puede requerir más sueño, más reflexión, menos exceso de trabajo y una estructura más suave. Eso puede parecer frustrante. Pero también puede ser instrucción santa.",
+            "**Algunos cambios no son solo para ser arreglados. También son para ser escuchados.** Pregúntate hoy: ¿a qué debo 'regresar a la normalidad' con más desesperación? Luego pregunta delante de Dios si esta etapa también puede estar pidiendo una vida reordenada. La sabiduría de mediana edad a menudo no consiste en restaurar el patrón anterior. Consiste en humbildemente recibir uno nuevo. Este no es momento de volver a lo viejo, sino de escuchar bien a lo nuevo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, confieso que a menudo solo quiero reparar todo volviendo a su forma anterior, porque los patrones viejos se sienten más seguros para mí. Pero si estás usando estos cambios para mostrarme que algunas maneras de vivir ya no pueden permanecer igual, dame humildad y sabiduría. Enséñame no solo a resistir, sino también a escuchar. Muéstrame qué necesita tratamiento, qué necesita ajuste, qué necesita ralentizarse y qué necesita reordenarse. Líbrame de exigir la versión anterior de mí misma para siempre, y líbrame de convertir el cambio en queja constante. Que aprenda no meramente a hacer frente a una nueva etapa, sino a vivirla ante Ti de una nueva manera. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Éxodo 16:16-18",
+              "book_code": "EXO",
+              "chapter": 16,
+              "verses": "16-18",
+              "translation": "Reina-Valera 1909",
+              "text": "Esto es lo que Jehová ha mandado: Recoged de él cada uno según lo que pueda comer... y cuando lo midieron por gomor, no sobró al que había recogido mucho, ni faltó al que había recogido poco; cada uno recogió conforme a lo que había de comer."
+            },
+            {
+              "display": "Proverbios 3:7-8",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "7-8",
+              "translation": "Reina-Valera 1909",
+              "text": "No seas sabio en tu propia opinión; teme a Jehová, y apártate del mal. Porque será medicina a tu cuerpo, y refrigerio a tus huesos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Cuando las Emociones Cambian con el Cuerpo, Dios Permanece Firme",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Hebreos 13:8",
+            "book_code": "HEB",
+            "chapter": 13,
+            "verses": "8",
+            "translation": "Reina-Valera 1909",
+            "text": "Jesucristo es el mismo ayer, y hoy, y por los siglos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "El cambio corporal rara vez permanece solo físico. Muchas mujeres notan que se vuelven más sensibles, más fácilmente irritadas, más inesperadamente tristes, o menos emocionalmente resistentes que antes. Eso puede ser profundamente frustrante, especialmente cuando sabes que no estás eligiendo estas reacciones y aun así tienes que vivir dentro de ellas.",
+            "Hebreos dice que Jesucristo es el mismo ayer, hoy y siempre. Esa verdad se vuelve preciosa en estaciones de fluctuación interna. No niega tus cambios emocionales. Los ancla. Cuando te sientes diferente a ti misma, Cristo permanece Él mismo. No está menos presente porque tus emociones sean menos estables. No es menos compasivo porque tu mundo interno se siente más difícil de manejar.",
+            "**A veces la fe no significa recuperar rápidamente la calma. Significa saber que Dios no ha cambiado incluso cuando sientes cambio en todas partes en ti.** Ese tipo de estabilidad puede sostener a una mujer cuando la confianza en uno mismo se siente inestable.",
+            "Así que hoy, si tus emociones se sienten como el clima e impredecibles, no comiences solo con auto-reproche. Comienza también con la constancia de Dios. No tienes que volverte más fácil de convivir antes de ser recibida por Él. Él permanece lo suficientemente firme para tu cuerpo y tu alma."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, cuando ni siquiera mis propias reacciones comienzan a sentirse familiares para mí, te agradezco que tú no hayas cambiado. Conoces la irritación, la tristeza, la sensibilidad y el cansancio que no siempre puedo explicar, y sabes cuán fácilmente me llevan al auto-reproche. Sostenme en estas fluctuaciones. Líbrame de tratar el estado interior de hoy como mi definición final. En la mañana, déjame escuchar de nuevo Tu misericordia, y muéstrame el camino en que debo andar hoy. Enséñame a inclinarme más profundamente en Tu estabilidad, no porque ya haya recuperado la calma, sino porque permaneces digna de confianza. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Hebreos 13:8",
+              "book_code": "HEB",
+              "chapter": 13,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Jesucristo es el mismo ayer, y hoy, y por los siglos."
+            },
+            {
+              "display": "Salmo 143:8",
+              "book_code": "PSA",
+              "chapter": 143,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Hazme oír por la mañana Tu misericordia, porque en Ti confío; hazme saber el camino por donde debo andar, porque a Ti levanto mi alma."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Esta Etapa Puede Ser un Profundizamiento, No Solo una Pérdida",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Job 12:12-13",
+            "book_code": "JOB",
+            "chapter": 12,
+            "verses": "12-13",
+            "translation": "Reina-Valera 1909",
+            "text": "En los ancianos hay sabiduría, y en la larga vida inteligencia. Con Dios están la sabiduría y el poder; suyo son el consejo y la inteligencia."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una razón por la que el cambio corporal se siente tan doloroso es que atrae atención constante a lo que parece perdido. Menos energía. Menos previsibilidad. Menos recuperación fácil. Menos familiaridad. Si una mujer entra en esta etapa usando solo el lenguaje de la pérdida, puede perder lo que Dios también puede estar dando.",
+            "Lo que Dios da en estos años quizás no se vea glamoroso. Quizás no sea facilidad. Pero puede ser mayor honestidad, un ritmo más sabio, discernimiento más fuerte, autocuidado más veraz y un tipo diferente de estabilidad. Job dice que con la edad viene la sabiduría. La edad no hace automáticamente a una persona madura, pero el tiempo puede convertirse en uno de los instrumentos de Dios para formar profundidad.",
+            "Para muchas mujeres, esta etapa fuerza una reevaluación de lo que realmente es el valor. Se vuelve más difícil definirte solo por resistencia, eficiencia o fuerza de voluntad. Esa disrupción puede parecer no deseada, pero también puede convertirse en una puerta a un tipo de madurez más verdadera.",
+            "**Esta estación puede no ser más fácil, pero puede ser más honesta y más pesada en Dios.** Así que no niegues las pérdidas. Nómbralas. Pero no te detengas allí. Pregunta qué sabiduría también está siendo añadida. Esa pregunta puede ayudarte a entrar en esta etapa no con hostilidad, sino con reverencia."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, confieso que fácilmente veo solo lo que esta estación ha quitado, y mucho menos fácilmente noto lo que también puedas estar dando. Si esta etapa me está enseñando ritmo, límites, honestidad y cuidado, líbrame de responder solo con resentimiento. Que también vea la sabiduría escondida aquí. Te agradezco que no hayas reducido Tu llamado en mi vida solo porque ya no funciono como una vez lo hice. Enséñame a entrar en esta etapa con reverencia en lugar de hostilidad, y a encontrar estos cambios con gratitud en lugar de vergüenza. Que no solo llore lo que se ha ido, sino que también reconozca la madurez más profunda que estás formando. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Job 12:12-13",
+              "book_code": "JOB",
+              "chapter": 12,
+              "verses": "12-13",
+              "translation": "Reina-Valera 1909",
+              "text": "En los ancianos hay sabiduría, y en la larga vida inteligencia. Con Dios están la sabiduría y el poder; suyo son el consejo y la inteligencia."
+            },
+            {
+              "display": "Proverbios 4:7",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "7",
+              "translation": "Reina-Valera 1909",
+              "text": "Sabiduría ante todo; adquiere sabiduría..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG15",
+    "slug": "slow-to-hear-god",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardín de las Emociones",
+      "secondary": "weariness-burnout",
+      "secondary_label": "Cansancio y Agotamiento"
+    },
+    "tags": [
+      "cansancio",
+      "agotamiento",
+      "descanso",
+      "pastor",
+      "limites",
+      "sabado"
+    ],
+    "title": "Disminuir lo Suficiente para Oír a Dios",
+    "subtitle": "En nuestro mundo acelerado, el descanso se ve como lujo, no como necesidad. Pero Dios nos invita a disminuir la velocidad—no por debilidad, sino porque en la quietud encontramos claridad, fortaleza renovada y un conocimiento más profundo de Él. Durante estos siete días, aprenderemos que la lentitud no es pereza. Es un acto de fe.",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "cansada",
+        "agotada",
+        "exhausta"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "En nuestro mundo acelerado, el descanso se ve como lujo, no como necesidad. Pero Dios nos invita a disminuir la velocidad—no por debilidad, sino porque en la quietud encontramos claridad, fortaleza renovada y un conocimiento más profundo de Él. Durante estos siete días, aprenderemos que la lentitud no es pereza. Es un acto de fe.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#A3C8B5",
+      "color_secondary": "#355945",
+      "image_key": "cover_woman_resting_pillow_morning_burnout",
+      "icon": "quiet-tea-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 46:10",
+        "book_code": "PSA",
+        "chapter": 46,
+        "verses": "10"
+      },
+      {
+        "display": "Éxodo 20:8-10",
+        "book_code": "EXO",
+        "chapter": 20,
+        "verses": "8-10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Por Qué Nos Cuesta Descansar",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 46:10",
+            "book_code": "PSA",
+            "chapter": 46,
+            "verses": "10",
+            "translation": "Reina-Valera 1909",
+            "text": "Estad quietos, y conoced que yo soy Dios; Seré exaltado entre las gentes; exaltado seré en la tierra."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas no resisten el descanso porque no les agrade la paz. Lo resisten porque la quietud se ha vuelto extraña. En el momento en que la vida se ralentiza, los pensamientos se hacen más fuertes. La ansiedad sube. Las emociones postergadas emergen a la superficie. El ajetreo actúa entonces como anestesia. Mantiene las partes más profundas del corazón sin ser sentidas.",
+            "El Salmo 46 dice: \"Estad quietos, y conoced que yo soy Dios.\" El Salmo 131 nos ofrece la imagen de un alma aquietada como un niño descansando en el regazo. Juntos muestran que la quietud no es mera inactividad. Es un lugar de reorientación. **La lentitud se siente difícil no solo porque la vida está llena, sino porque la quietud revela cuán inquietos nos hemos vuelto en nuestro interior.**",
+            "Muchas mujeres han aprendido a conocerse principalmente en el movimiento. Saben cómo responder, organizar, consolar, recordar y llevar. Están menos familiarizadas con quiénes son cuando nada está siendo producido. Por eso el silencio puede sentirse extrañamente vulnerable. Pero Dios no nos encuentra solo en el impulso. También nos encuentra en la quietud.",
+            "Parte de la sanación es tener menos miedo a la quietud. Es aprender que el corazón no tiene que llenar cada momento para permanecer seguro. En la presencia de Dios, la quietud no es vacío. Es uno de los lugares donde el alma comienza a encontrar hogar."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Dios, enséñame que el descanso no es debilidad. Muéstrame cómo soltar el control que tanta seguridad me promete. Ayúdame a descender a la quietud, sabiendo que allí, en el silencio, estaré más cerca de ti.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "Estad quietos, y conoced que yo soy Dios; Seré exaltado entre las gentes; exaltado seré en la tierra."
+            },
+            {
+              "display": "Salmo 131:2",
+              "book_code": "PSA",
+              "chapter": 131,
+              "verses": "2",
+              "translation": "Reina-Valera 1909",
+              "text": "Ciertamente me he comportado y callé como niño destetado de su madre; Como el niño destetado es mi alma en mí."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Lo Que La Quietud Revela",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Lucas 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "Reina-Valera 1909",
+            "text": "Y respondiendo Jesús, le dijo: Marta, Marta, solicita y te turbas con muchas cosas. Pero una cosa es necesaria; y María ha escogido la buena parte, la cual no le será quitada."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "No es casualidad que evitemos la quietud. En la pausa, lo que hemos estado negando sube a la superficie. La culpa que hemos sidocastigando en el ajetreo. El duelo que hemos estado silenciando. La soledad que hemos estado ocultando. **Mientras nos movemos, no tenemos que sentir estas cosas. Pero Jesús nos enseña que hay una mejor manera.**",
+            "Lucas 10 cuenta de Marta, quien está \"ajetreda en muchos servicios.\" Ella cree que estar ocupada es lo que cuenta para Dios. Pero Jesús la invita a detenerse. A sentarse. A estar presentes en lugar de ser solo funcional. No porque lo que ella hace sea malo, sino porque lo que ella pierde es tan importante.",
+            "La quietud es donde el alma comienza a decir la verdad sobre sí misma. Es donde el cuerpo agotado finalmente dice \"no puedo más.\" Es donde el corazón, sin la distracción del movimiento, comienza a recordar lo que necesita. Lentitud como honestidad.",
+            "Si tememos esta revelación, es porque aún no hemos aprendido que Dios puede sostener lo que descubrimos en la quietud. Pero Él puede. De hecho, Él quiere que lo hagamos. Quiere que traigamos toda la verdad de nuestro ser a su presencia."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, dame el coraje de detenerme y ver lo que he estado evitando. Ayúdame a confiar en que en tu presencia, incluso lo más oscuro será sanado.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Lucas 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "Reina-Valera 1909",
+              "text": "Y respondiendo Jesús, le dijo: Marta, Marta, solicita y te turbas con muchas cosas. Pero una cosa es necesaria; y María ha escogido la buena parte, la cual no le será quitada."
+            },
+            {
+              "display": "Proverbios 19:2",
+              "book_code": "PRO",
+              "chapter": 19,
+              "verses": "2",
+              "translation": "Reina-Valera 1909",
+              "text": "El alma sin ciencia no es buena; Y el que se apresura con los pies, peca."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "Descanso Como Acto De Fe",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Isaías 30:15",
+            "book_code": "ISA",
+            "chapter": 30,
+            "verses": "15",
+            "translation": "Reina-Valera 1909",
+            "text": "Porque así dijo el Señor Jehová, el Santo de Israel: En descanso y en confianza será vuestra fortaleza: y no quisisteis."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "El mundo nos enseña que debemos trabajar para ser valiosos. Que nuestro mérito viene de lo que producimos. Pero Dios presenta el descanso como un mandamiento. No como algo que ganamos cuando todo está hecho, sino como algo que tomamos porque somos dignos simplemente por existir.",
+            "Isaías 30:15 dice: \"En descanso y en confianza será vuestra fortaleza.\" No en actividad. No en control. No en demostrarnos a nosotros mismos de qué estamos hechos. **El verdadero poder viene cuando nos detenemos y decimos, \"Confío en que Dios sostiene esto, no yo.\"**",
+            "Tomar un descanso es un acto de fe radical. Es creer que el mundo seguirá girando. Que Dios está en su trono. Que lo que nos ama no se basa en nuestro rendimiento. Es negarnos a nosotros mismos la ilusión de que nuestra validez depende de lo que hacemos.",
+            "Cuando finalmente nos permitimos descansar, descubrimos algo hermoso: somos amados tal como somos. No tal como producimos. No tal como cumplimos. Solo siendo. Y en esa verdad, encontramos la libertad para vivir diferente."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre, ayúdame a descansar como un acto de fe. Enséñame a confiar en que soy digno simplemente por ser tuya, no por lo que logro.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Isaías 30:15",
+              "book_code": "ISA",
+              "chapter": 30,
+              "verses": "15",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque así dijo el Señor Jehová, el Santo de Israel: En descanso y en confianza será vuestra fortaleza: y no quisisteis."
+            },
+            {
+              "display": "Juan 15:4",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "4",
+              "translation": "Reina-Valera 1909",
+              "text": "Estad en mí, y yo en vosotros. Como el pámpano no puede llevar fruto de sí mismo, si no estuviere en la vid, así tampoco vosotros, si no estuviereis en mí."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Cuerpos Que Necesitan Descanso",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Reyes 19:7-8",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "7-8",
+            "translation": "Reina-Valera 1909",
+            "text": "Y el ángel de Jehová volvió la segunda vez, y le tocó, y dijo: Levántate y come, porque largo camino te resta. Y se levantó, y comió y bebió; y fortalecido con aquella comida, caminó cuarenta días y cuarenta noches hasta Horeb, el monte de Dios."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A veces ignoramos los límites de nuestro cuerpo. Lo tratamos como si fuera una máquina que puede funcionar indefinidamente con suficiente determinación. Pero no es así. El cuerpo tiene necesidades. Tiene ritmos. Tiene un tiempo para trabajar y un tiempo para restaurarse.",
+            "Cuando Elías huyó en el desierto, agotado y derrotado, Dios no lo reprendió por su debilidad. En cambio, le dijo: \"Levántate y come, porque largo camino te resta.\" **Dios honra los límites del cuerpo porque Él es quien los creó.** El descanso y la comida no son signos de fracaso espiritual. Son actos de sabiduría corporal.",
+            "En una cultura que celebra el agotamiento como dedicación, el descanso se siente como negligencia. Pero cuidar el cuerpo es cuidar el templo del Espíritu Santo. Es un acto de mayordomía. Es decirle a Dios: \"Confío en que mi valor no desaparece cuando duermo.\"",
+            "¿Cómo podemos escuchar la voz de Dios si no damos a nuestro cuerpo el descanso que necesita para estar atento? ¿Cómo podemos servir desde un lugar de plenitud si estamos funcionando constantemente desde el agotamiento? El descanso corporal es un acto espiritual."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, ayúdame a honrar los límites de mi cuerpo. Enséñame que el cuidado de mí misma es un acto de fe, no de egoísmo.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Reyes 19:7-8",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "7-8",
+              "translation": "Reina-Valera 1909",
+              "text": "Y el ángel de Jehová volvió la segunda vez, y le tocó, y dijo: Levántate y come, porque largo camino te resta. Y se levantó, y comió y bebió; y fortalecido con aquella comida, caminó cuarenta días y cuarenta noches hasta Horeb, el monte de Dios."
+            },
+            {
+              "display": "1 Corintios 6:19-20",
+              "book_code": "1CO",
+              "chapter": 6,
+              "verses": "19-20",
+              "translation": "Reina-Valera 1909",
+              "text": "¿O ignoráis que vuestro cuerpo es templo del Espíritu Santo, el cual está en vosotros, el cual tenéis de Dios, y que no sois vuestros? Porque comprados sois por precio: glorificad pues a Dios en vuestro cuerpo y en vuestro espíritu, los cuales son de Dios."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Pequeñeces Vistas Por Un Dios Grande",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Lucas 12:6-7",
+            "book_code": "LUK",
+            "chapter": 12,
+            "verses": "6-7",
+            "translation": "Reina-Valera 1909",
+            "text": "¿No se venden cinco pajarillos por dos cuartos? Pues ni uno de ellos está olvidado delante de Dios. Y aun los cabellos de vuestra cabeza están todos contados. No temáis pues; de más valor sois vosotros que muchos pajarillos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hay algo poderoso en permitirnos ser pequeñas. No insignificantes, sino pequeñas. Limitadas. Finitas. Cuando dejamos de pretender que podemos manejarlo todo, dejamos espacio para que Dios sea suficiente.",
+            "Jesús pregunta: \"¿No se venden cinco pajarillos por dos cuartos? Pues ni uno de ellos está olvidado delante de Dios.\" Y luego dice: \"De más valor sois vosotros que muchos pajarillos.\" **Un Dios que ve cada pájaro pequeño, que cuenta cada cabello en nuestras cabezas, está completamente presente a nuestro pequeñez.**",
+            "Permitirnos descansar es aceptar nuestra pequeñez. Es decir: \"No tengo que arreglarlo todo. No tengo que ser fuerte en todo momento. Soy valiosa no porque sea indispensable, sino porque soy de Dios.\"",
+            "Cuando descansamos, reconocemos que el mundo no gira sobre nuestros hombros. Y eso no es desalentador. Es liberador. Significa que podemos soltar. Podemos confiar. Podemos permitirnos estar, por un momento, simplemente vivas y amadas."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Dios, ayúdame a aceptar mi pequeñez. Enséñame que soy valiosa precisamente porque soy completamente vista y amada por ti.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Lucas 12:6-7",
+              "book_code": "LUK",
+              "chapter": 12,
+              "verses": "6-7",
+              "translation": "Reina-Valera 1909",
+              "text": "¿No se venden cinco pajarillos por dos cuartos? Pues ni uno de ellos está olvidado delante de Dios. Y aun los cabellos de vuestra cabeza están todos contados. No temáis pues; de más valor sois vosotros que muchos pajarillos."
+            },
+            {
+              "display": "Efesios 2:10",
+              "book_code": "EPH",
+              "chapter": 2,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano para que anduviésemos en ellas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "El Silbido Apacible",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Reyes 19:11-12",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "11-12",
+            "translation": "Reina-Valera 1909",
+            "text": "Y le dijo: Sal fuera, y ponte en el monte delante de Jehová. Y he aquí que Jehová pasaba, y un grande y poderoso viento rompía los montes, y quebraba las peñas delante de Jehová; mas Jehová no estaba en el viento. Y tras el viento un terremoto; mas Jehová no estaba en el terremoto. Y tras el terremoto un fuego; mas Jehová no estaba en el fuego. Y tras el fuego un silbo apacible y delicado."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Elías buscó a Dios en el terremoto, el fuego, el viento. Pero Dios no estaba en la violencia. Estaba en el \"silbido apacible y delicado.\" A veces, la voz de Dios no es audible en el ruido. Es escuchada en la quietud.",
+            "En una vida llena de demandas, eventos y urgencia, es fácil perder la voz apacible de Dios. No porque no esté hablando, sino porque no estamos lo suficientemente quietos para oír. **El descanso no es tiempo perdido de la tarea de vivir. Es el tiempo en el que finalmente escuchamos lo que Dios ha estado tratando de decirnos todo el camino.**",
+            "Marcos nos dice que Jesús invitó a sus discípulos a \"venir aparte a un lugar desierto y descansar un poco.\" No era una sugerencia. Era una necesidad espiritual. La conexión con Dios requiere espacio. Requiere silencio. Requiere una mente no ocupada por la agenda de mañana.",
+            "¿Qué podríamos escuchar si nos permitiéramos descansar lo suficiente para oír? ¿Qué verdades de Dios están esperando ser recibidas en el silencio? ¿Qué sanación podría suceder si bajáramos la velocidad lo suficiente?"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, ayúdame a bajar la velocidad. Aquietame lo suficiente para escuchar tu silbido apacible. Hablame en el silencio.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Reyes 19:11-12",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "11-12",
+              "translation": "Reina-Valera 1909",
+              "text": "Y le dijo: Sal fuera, y ponte en el monte delante de Jehová. Y he aquí que Jehová pasaba, y un grande y poderoso viento rompía los montes, y quebraba las peñas delante de Jehová; mas Jehová no estaba en el viento. Y tras el viento un terremoto; mas Jehová no estaba en el terremoto. Y tras el terremoto un fuego; mas Jehová no estaba en el fuego. Y tras el fuego un silbo apacible y delicado."
+            },
+            {
+              "display": "Marcos 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "Reina-Valera 1909",
+              "text": "Y les dijo: Venid vosotros aparte a un lugar desierto, y descansad un poco. Porque había muchos que iban y venían, y ni aun tenían lugar para comer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "Habitando En El Descanso",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Éxodo 20:8-10",
+            "book_code": "EXO",
+            "chapter": 20,
+            "verses": "8-10",
+            "translation": "Reina-Valera 1909",
+            "text": "Acuérdate del día de reposo para santificarlo. Seis días trabajarás, y harás toda tu obra; Mas el séptimo día es reposo para Jehová tu Dios; no hagas en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni tu extranjero que está dentro de tus puertas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "El sábado es un regalo. No una pausa en la verdadera vida. Es parte de la vida. Es un ritmo que Dios estableció desde el principio: trabajo y descanso. Producción y contemplación. Esfuerzo y receptividad. Ambos son sagrados.",
+            "\"Seis días trabajarás... Mas el séptimo día es reposo para Jehová tu Dios.\" No es un lujo. No es desperdicio. Es santo. **Establecer un ritmo de descanso es una forma de vivir según el orden de Dios, no según la prisa del mundo.**",
+            "Cuando habitamos en el descanso, descubrimos algo: somos capaces de llevar más fruto en el trabajo porque no estamos funcionando desde el agotamiento. Pensamos con claridad. Servimos con generosidad. Amamos con presencia. El descanso no reduce nuestra eficacia; la mejora profundamente.",
+            "Así que termina esta semana con una invitación: que el descanso no sea una excepción en tu vida. Que sea un patrón. Que sea un acto de fe repetido. Que sea un lugar a dónde regresas, y en donde descubres que sigues siendo amada, valiosa, y suficiente simplemente porque eres de Dios."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Dios, enséñame a hacer del descanso un ritmo de vida. No como una recompensa después de agotarme, sino como parte de tu plan sagrado. Ayúdame a creer que valgo la pena descansar.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Éxodo 20:8-10",
+              "book_code": "EXO",
+              "chapter": 20,
+              "verses": "8-10",
+              "translation": "Reina-Valera 1909",
+              "text": "Acuérdate del día de reposo para santificarlo. Seis días trabajarás, y harás toda tu obra; Mas el séptimo día es reposo para Jehová tu Dios; no hagas en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni tu extranjero que está dentro de tus puertas."
+            },
+            {
+              "display": "Juan 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "Reina-Valera 1909",
+              "text": "Yo soy la vid, vosotros los pámpanos; el que está en mí, y yo en él, éste lleva mucho fruto; porque sin mí nada podéis hacer."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

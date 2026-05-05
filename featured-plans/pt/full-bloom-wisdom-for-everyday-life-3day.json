@@ -1,0 +1,255 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS04",
+    "slug": "wisdom-for-everyday-life",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estações da Vida",
+      "secondary": "full-bloom",
+      "secondary_label": "Plena Floração"
+    },
+    "tags": [
+      "meio-de-carreira",
+      "matrimonio",
+      "dinheiro",
+      "casa",
+      "equilibrio",
+      "responsabilidade"
+    ],
+    "title": "Sabedoria para o Dinheiro, Lar e Vida Cotidiana",
+    "subtitle": "Buscando a Deus no peso prático da vida diária",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "trinta-quarenta",
+        "meio de carreira"
+      ],
+      "emotional_state": [
+        "responsável",
+        "sobrecarregada",
+        "buscando equilíbrio"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para a mulher que carrega o peso prático da vida cotidiana e deseja a sabedoria de Deus no dinheiro, lar e decisões ordinárias.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_open_field_summer_balance",
+      "icon": "bouquet-of-wheat-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Provérbios 24:3-4",
+        "book_code": "PRO",
+        "chapter": 24,
+        "verses": "3-4"
+      },
+      {
+        "display": "Provérbios 31:27,30-31",
+        "book_code": "PRO",
+        "chapter": 31,
+        "verses": "27,30-31"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Deus Também Está Presente na Forma Como Faço Orçamento, Gasto e Organizo Minha Vida",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 24:3-4",
+            "book_code": "PRO",
+            "chapter": 24,
+            "verses": "3-4",
+            "translation": "Almeida",
+            "text": "Com sabedoria se edifica a casa, e com inteligência se consolida; e pelos conhecimentos se enchem os aposentos de todo bem precioso e agradável."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Nos anos de pleno florescimento da vida, a pressão muitas vezes se torna profundamente prática. As contas chegam. Os mantimentos acabam. As crianças precisam de coisas. Os pais podem começar a precisar de apoio. Eletrodomésticos quebrados não se consertam sozinhos. Seu próprio corpo tem limites. Muitas mulheres se tornam altamente capazes nesta fase. Elas carregam, decidem, calculam, reorganizam e estendem aquilo que têm. Mas por dentro, pode haver um cansaço silencioso, aquele que vem de ser quem está constantemente gerenciando a realidade.",
+            "Provérbios não trata essas realidades como espiritualmente desimportantes. Fala frequentemente sobre diligência, planejamento, moderação, provisão, e a forma como uma casa é construída por meio da sabedoria. Mas muitas mulheres ainda imaginam a vida espiritual como algo mais elevado do que orçar, cozinhar, organizar, consertar ou decidir o que pode esperar e o que não pode. A Escritura não separa os dois tão claramente. Deus trabalha no prático porque o prático expõe o coração. Dinheiro, ordem e provisão diária frequentemente revelam medo, desejo, confiança e autodomínio.",
+            "**Maturidade não é lidar com a realidade sem tensão. É aprender a carregar a realidade com a sabedoria de Deus.** Recursos limitados não são vergonhosos. Orçar não é falta de generosidade. Moderação não é falta de fé. Tudo isso pode se tornar formas de mordomia.",
+            "Então traga uma questão concreta diante de Deus hoje. Uma decisão de orçamento. Uma necessidade do lar. Uma responsabilidade prática que você vem evitando. Peça sabedoria ali. Deus não está interessado apenas em momentos espirituais dramáticos. Ele também dá sabedoria para mulheres vivendo fielmente dentro de realidades econômicas e domésticas ordinárias."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada porque Tu não és real apenas nas grandes coisas. Tu também estás presente nas realidades diárias que preciso carregar. Tu vês o trabalho mental do dinheiro, das decisões do lar, do planejamento, do cuidado e da escolha constante. Tu sabes como as pequenas coisas podem desgastar um coração. Por favor, dá-me sabedoria do alto, para que eu não tome decisões apenas pela tensão, impulso ou hábito. Ensina-me a temer a Ti na vida prática. Guarda-me de tratar limites como vergonha, moderação como perda, ou mordomia diária como algo inferior à vida espiritual. Obrigada por entrares nos detalhes concretos do meu mundo. Ensina-me a administrar o que está em minhas mãos hoje com ordem, clareza e confiança. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 24:3-4",
+              "book_code": "PRO",
+              "chapter": 24,
+              "verses": "3-4",
+              "translation": "Almeida",
+              "text": "Com sabedoria se edifica a casa, e com inteligência se consolida; e pelos conhecimentos se enchem os aposentos de todo bem precioso e agradável."
+            },
+            {
+              "display": "Tiago 1:5",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "E, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, e o não lança em rosto, e ser-lhe-á dada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "O Amor Precisa de Ordem para Durar na Vida Cotidiana",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 14:1",
+            "book_code": "PRO",
+            "chapter": 14,
+            "verses": "1",
+            "translation": "Almeida",
+            "text": "A mulher sábia edifica a sua casa; mas a tola a destrói com as mãos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas mulheres conhecem um tipo particular de cansaço que não vem de uma crise dramática, mas de ter que se lembrar de tudo. O que precisa ser reposto. O que foi adiado muito tempo. Quem não está bem. Qual refeição ainda precisa acontecer. Qual conta está esperando. Qual cômodo está ficando inabitável. O calor de um lar frequentemente existe porque alguém continua cuidando de seus ritmos.",
+            "Mas quando uma mulher vive por muito tempo em constante remendo, conserto e absorção, a alegria pode vazar silenciosamente de sua vida. Responsabilidade permanece, mas deleite fica fino.",
+            "A Escritura diz que a mulher sábia edifica sua casa. Isto não é um mandamento para mulheres carregarem sozinhas cada fardo doméstico. É um lembrete de que uma casa não funciona apenas no afeto. Precisa de sabedoria, estrutura, ritmo e cuidado intencional. A instrução de Paulo de que todas as coisas sejam feitas decentemente e com ordem nos dá um princípio que também importa em casa: ordem não é controle frio. Frequentemente é o que permite que a vida e o amor continuem respirando.",
+            "**Às vezes maturidade significa não apenas carregar mais, mas construir melhor ordem para que o amor possa durar.** Isto pode significar reconfigurar ritmos, nomear responsabilidades, simplificar a forma como a casa funciona, ou admitir que o padrão atual é insustentável.",
+            "Deus não está preocupado apenas se você ama suas pessoas. Ele também se importa com esse amor sendo sustentado por uma estrutura mais saudável. Então traga uma área recorrente de caos doméstico diante dEle hoje. Peça não apenas resistência, mas sabedoria para construir diferentemente."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada porque Tu entendes como uma casa é sustentada através de muitos atos pequenos e invisíveis. Tu vês o esforço que gasto para manter a vida se movendo, e Tu também vês o caos acumulado que começou a apertar algo dentro de mim. Dá-me sabedoria não apenas para continuar suportando, mas para construir ordem. Ajuda-me a discernir o que pode ser simplificado, o que precisa ser reorganizado, quais responsabilidades devem ser nomeadas mais claramente, e quais ritmos precisam mudar. Se vivi tempo demais apenas remendando e absorvendo, tem misericórdia de mim e dá-me olhos para reconstruir. Deixa que minha casa seja sustentada não pela tensão constante de uma pessoa, mas por Tua sabedoria, melhor ordem e mais espaço para o amor respirar. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 14:1",
+              "book_code": "PRO",
+              "chapter": 14,
+              "verses": "1",
+              "translation": "Almeida",
+              "text": "A mulher sábia edifica a sua casa; mas a tola a destrói com as mãos."
+            },
+            {
+              "display": "1 Coríntios 14:40",
+              "book_code": "1CO",
+              "chapter": 14,
+              "verses": "40",
+              "translation": "Almeida",
+              "text": "Mas tudo seja feito decentemente e com ordem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "A Mordomia Fiel do Dia a Dia Já É Uma Forma de Frutificação",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 31:27,30-31",
+            "book_code": "PRO",
+            "chapter": 31,
+            "verses": "27,30-31",
+            "translation": "Almeida",
+            "text": "Ela observa o proceder de sua casa e não come o pão da preguiça... A graça é enganosa, e a beleza é vã; mas a mulher que teme ao Senhor, essa será louvada. Dai-lhe do fruto das suas mãos, e as suas obras a louvem nas portas da cidade."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Os anos de pleno florescimento podem facilmente convencer uma mulher de que apenas resultados visíveis importam. Promoções, propriedade, projetos bem-sucedidos, filhos indo bem, e uma vida bem apresentada todos parecem mensuráveis. Nenhuma dessas coisas é inerentemente ruim. Mas se se tornarem a única forma de uma mulher avaliar frutificação, ela lentamente perderá uma abundância mais profunda: o trabalho fiel, repetitivo, principalmente invisível que realmente sustenta um lar e uma vida.",
+            "A mulher em Provérbios 31 não é honrada por um momento dramático. Ela é descrita através de padrões: ela prepara, planeja, trabalha, provê, percebe, fala com sabedoria e estende suas mãos em cuidado. Sua vida é frutífera não porque é reluzente, mas porque é ordenada consistentemente por sabedoria.",
+            "Isto importa para muitas mulheres nesta estação. Você pode não estar vivendo um triunfo visível, mas está impedindo que as coisas desabem. Você está usando recursos cuidadosamente, mantendo ritmos vivos, falando com sabedoria, alimentando pessoas, carregando decisões, e fazendo espaço para outros florescerem. A Escritura não trata isto como trabalho inferior.",
+            "**Algumas formas de frutificação não são momentos de destaque, mas a dignidade lenta de se tornar uma mulher que pode fielmente carregar o ordinário.** Isto não significa que você nunca deva pedir ajuda. Significa que você não deve chamar sua fidelidade diária de insignificante. Quando você vive com honestidade, atenção, diligência e misericórdia nas tarefas diante de você, isto também é fruto."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada porque não valorizas apenas os resultados visíveis que outros podem medir. Tu também vês a longa fidelidade dos dias ordinários. Cura a parte de mim que só se sente digna quando posso apontar para um resultado óbvio. Ensina-me a ver a mordomia diária através de Teus olhos. Se a longa responsabilidade me fez esquecer que esses pequenos atos têm peso real, restaura em mim tanto dignidade quanto clareza. E protege-me de transformar fidelidade em auto-apagamento ou responsabilidade em ressentimento silencioso. Faz-me uma mulher de sabedoria, misericórdia e ritmo diante de Ti, para que o que faço com minhas mãos não seja meramente ocupado, mas verdadeiramente frutífero. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 31:27,30-31",
+              "book_code": "PRO",
+              "chapter": 31,
+              "verses": "27,30-31",
+              "translation": "Almeida",
+              "text": "Ela observa o proceder de sua casa e não come o pão da preguiça... A graça é enganosa, e a beleza é vã; mas a mulher que teme ao Senhor, essa será louvada. Dai-lhe do fruto das suas mãos, e as suas obras a louvem nas portas da cidade."
+            },
+            {
+              "display": "João 15:16",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "16",
+              "translation": "Almeida",
+              "text": "Não me escolhestes vós a mim, mas eu vos escolhi a vós, e vos designei para que vades e deis fruto, e o vosso fruto permaneça."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

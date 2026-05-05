@@ -1,0 +1,501 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG15",
+    "slug": "slow-to-hear-god",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garden of Emotions",
+      "secondary": "weariness-burnout",
+      "secondary_label": "Weariness & Burnout"
+    },
+    "tags": [
+      "weariness",
+      "burnout",
+      "rest",
+      "shepherd",
+      "boundaries",
+      "sabbath"
+    ],
+    "title": "Slowing Down Enough to Hear God",
+    "subtitle": "These seven days help you slow down enough to hear God again and return the pace of your life to His hands.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "weary",
+        "burned-out",
+        "depleted"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "These seven days help you slow down enough to hear God again and return the pace of your life to His hands.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#A3C8B5",
+      "color_secondary": "#355945",
+      "image_key": "cover_woman_resting_pillow_morning_burnout",
+      "icon": "quiet-tea-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 46:10",
+        "book_code": "PSA",
+        "chapter": 46,
+        "verses": "10"
+      },
+      {
+        "display": "Exodus 20:8-10",
+        "book_code": "EXO",
+        "chapter": 20,
+        "verses": "8-10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "Why Does Stillness Make Me Uneasy",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 46:10",
+            "book_code": "PSA",
+            "chapter": 46,
+            "verses": "10",
+            "translation": "KJV",
+            "text": "Be still, and know that I am God."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some people do not resist rest because they dislike peace. They resist it because stillness has become unfamiliar. The moment life slows, thoughts grow louder. Anxiety rises. Deferred emotions come to the surface. Busyness then acts like anesthesia. It keeps the deeper parts of the heart from being felt.",
+            "Psalm 46 says, “Be still, and know that I am God.” Psalm 131 offers the image of a quieted soul like a child resting close. Together they show that stillness is not mere inactivity. It is a place of reorientation. **Slowness feels difficult not only because life is crowded, but because quiet reveals how unsettled we have become within.**",
+            "Many women have learned to know themselves mainly in motion. They know how to respond, organize, comfort, remember, and carry. They are less familiar with who they are when nothing is being produced. That is why silence can feel strangely vulnerable. But God does not meet us only in momentum. He meets us in stillness too.",
+            "Part of healing is becoming less afraid of quiet. It is learning that the heart does not have to fill every moment in order to remain safe. In God’s presence, stillness is not emptiness. It is one of the places where the soul begins to come home."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, You remain God when I stop, and I worship You for that. The world is not held together by my busyness, and my worth is not sustained by constant motion. Forgive me for filling every quiet space because stillness feels uncomfortable. Teach me today not to run from silence, and not to rush to fix myself in it, but simply to remain before You. If anxiety, emptiness, or hidden tiredness rises within me, let Your light rest gently there. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "KJV",
+              "text": "Be still, and know that I am God."
+            },
+            {
+              "display": "Psalm 131:2",
+              "book_code": "PSA",
+              "chapter": 131,
+              "verses": "2",
+              "translation": "KJV",
+              "text": "Surely I have behaved and quieted myself, as a child that is weaned of his mother."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Sometimes Speed Is Not Diligence; It Is Fear",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Luke 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "KJV",
+            "text": "Martha, Martha, thou art careful and troubled about many things: but one thing is needful."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Speed is often admired because it looks like competence. But not every fast pace is healthy diligence. Sometimes speed is fear in respectable clothing. Fear of falling behind. Fear of disappointing someone. Fear of feeling less useful. Fear of what silence might uncover.",
+            "Martha’s hurried spirit is tied to inner trouble, not just to an overfilled schedule. Proverbs warns that haste has its own dangers. **Some speed comes from calling, but some comes from anxiety. When fear becomes the engine, exhaustion is never far away.**",
+            "This matters because a woman can spend years being praised for habits that are slowly hollowing her out. She may appear productive while living under a quiet pressure to keep proving her worth. In that case, slowing down becomes emotionally difficult because it feels like losing ground, even if the ground was never solid to begin with.",
+            "God’s peace reaches beneath the schedule to the fear beneath it. He does not merely ask us to do less. He teaches us to live without using speed as proof that we matter. When that fear begins to loosen, slowness no longer feels like failure. It begins to feel like freedom."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, shine on the true forces driving me. Thank You that You do not measure me by speed, but by whether I walk in truth. I praise You because You do not drive Your children with fear; You lead them with love and truth. If fear, self-protection, or the need to prove myself is hiding inside my busyness, do not let me keep hurrying blindly. Bring me out of the bondage of needing to stay useful at all times, and make my diligence freer and quieter. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Luke 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "KJV",
+              "text": "Martha, Martha, thou art careful and troubled about many things: but one thing is needful."
+            },
+            {
+              "display": "Proverbs 19:2",
+              "book_code": "PRO",
+              "chapter": 19,
+              "verses": "2",
+              "translation": "KJV",
+              "text": "He that hasteth with his feet sinneth."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Slowing Down Is Not Waste; It Is Realignment",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Isaiah 30:15",
+            "book_code": "ISA",
+            "chapter": 30,
+            "verses": "15",
+            "translation": "KJV",
+            "text": "In returning and rest shall ye be saved; in quietness and in confidence shall be your strength."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many people hear the phrase “slow down” and immediately think of lost momentum. Slow sounds inefficient, unserious, or indulgent. But Scripture presents slowness differently. Isaiah says strength is found in quietness and trust. Jesus speaks of abiding. In both cases, the deeper issue is not inactivity. It is alignment.",
+            "We do not always drift from God through rebellion. Often we drift through momentum. We keep moving, keep finishing, keep responding, and eventually discover that our hearts are no longer centered even if our lives are still functioning. **Slowing down is not wasted time when it helps your motives, direction, and energy return to God’s ordering.**",
+            "That kind of realignment does not have to be dramatic. Sometimes it happens in small thresholds: a pause between tasks, a quieter midday, a walk without noise, an evening honest enough to admit that life has been driving you harder than grace has been leading you. These moments may seem small, but they recalibrate the inner life.",
+            "Slowness, then, is not a style. It is a way of returning. A woman who learns to return often will not be carried off so easily by urgency. She may still have much to do, but her life will begin to move from a steadier center."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I praise You because the strength You give is found not only in movement, but in returning. Thank You that when I drift, You allow me to come back instead of leaving me in confusion. Realign my heart, and realign my pace. If I have been driven by demands for too long, bring me back to Your center. May I become a woman who does not merely complete tasks, but abides in You even while she works. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Isaiah 30:15",
+              "book_code": "ISA",
+              "chapter": 30,
+              "verses": "15",
+              "translation": "KJV",
+              "text": "In returning and rest shall ye be saved; in quietness and in confidence shall be your strength."
+            },
+            {
+              "display": "John 15:4",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "4",
+              "translation": "KJV",
+              "text": "Abide in me, and I in you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "My Body Is Not a Problem to Push Through",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "1 Kings 19:7-8",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "7-8",
+            "translation": "KJV",
+            "text": "Arise and eat; because the journey is too great for thee… And he arose, and did eat and drink."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "It is easy to treat the body as an instrument of output, useful only as long as it keeps functioning. But Scripture does not speak that way. Elijah is fed and allowed to sleep. Paul says the body is the temple of the Holy Ghost. For the exhausted person, that is deeply reassuring. Your body is not a minor inconvenience standing in the way of spiritual life. It is part of the life God is tending.",
+            "Many women do not neglect their bodies because they despise them. They neglect them because something else always seems more urgent. Sleep is shortened. Meals become rushed. Pain is postponed. Exhaustion is managed instead of understood. Yet the body keeps telling the truth. **When the body continues speaking through fatigue, pain, irritability, and depletion, maturity is not ignoring it more skillfully. It is learning to listen.**",
+            "God’s care is often deeply ordinary. He cares through food, through sleep, through treatment, through medication, through sunlight, through wise medical attention, and through people who help us stop pretending we are less finite than we are. To receive such care is not to become less spiritual. It is to become more honest about being human.",
+            "The woman who begins to honor her body is not necessarily becoming fragile. She is becoming truthful. She is refusing to prove devotion through self-erasure. She is allowing the goodness of God to reach her in embodied ways."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Creator God, thank You for giving me a body, and thank You for not treating its weariness lightly. I praise You because You care for people not only in spirit, but also in sleep, pain, hunger, and recovery. Forgive me for using my body as a tool until it is nearly worn through. Teach me to honor the limits of being created, and let my body receive care within Your grace. If I need help, give me humility to receive it. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "1 Kings 19:7-8",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "7-8",
+              "translation": "KJV",
+              "text": "Arise and eat; because the journey is too great for thee… And he arose, and did eat and drink."
+            },
+            {
+              "display": "1 Corinthians 6:19-20",
+              "book_code": "1CO",
+              "chapter": 6,
+              "verses": "19-20",
+              "translation": "KJV",
+              "text": "Know ye not that your body is the temple of the Holy Ghost… therefore glorify God in your body."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "My Worth Does Not Depend on Constant Output",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Luke 12:6-7",
+            "book_code": "LUK",
+            "chapter": 12,
+            "verses": "6-7",
+            "translation": "KJV",
+            "text": "Not one of them is forgotten before God… Fear not therefore: ye are of more value than many sparrows."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Much burnout is fed by a quiet belief: I must remain useful in order to remain secure. Busyness then becomes more than a schedule. It becomes evidence that you still matter. When you are needed, producing, and keeping things moving, you feel safe. When you slow down, anxiety appears because worth has become tied to output.",
+            "Jesus says you are of more value than many sparrows. Paul says you are God’s workmanship. The order is essential. **Good works may flow from your life, but they do not establish your value. Your worth begins in the way God sees you.**",
+            "This is why rest can feel so emotionally complicated. It is not always only about fatigue. Sometimes it exposes how much identity has been fastened to being helpful, impressive, or consistently available. In that kind of life, stopping feels less like rest and more like disappearance.",
+            "God’s healing reaches beneath productivity to personhood. He teaches the heart to stand in belovedness before it stands in usefulness. The woman who receives that truth does not become lazy. She becomes freer. She can work with greater peace because she is no longer trying to earn the value she already has in God’s sight."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, before I accomplish anything, You already love me, and I thank You for that. I praise You because my value is not decided by performance, but by the fact that I belong to You. Rescue me from the life that feels safe only when I am useful and needed. If busyness has become part of my identity, tear down that illusion. Teach me to stand first as Your beloved child, and only then to go and work faithfully. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Luke 12:6-7",
+              "book_code": "LUK",
+              "chapter": 12,
+              "verses": "6-7",
+              "translation": "KJV",
+              "text": "Not one of them is forgotten before God… Fear not therefore: ye are of more value than many sparrows."
+            },
+            {
+              "display": "Ephesians 2:10",
+              "book_code": "EPH",
+              "chapter": 2,
+              "verses": "10",
+              "translation": "KJV",
+              "text": "For we are his workmanship, created in Christ Jesus unto good works."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Day 6",
+      "title": "God Often Speaks in Slower Places",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "1 Kings 19:11-12",
+            "book_code": "1KI",
+            "chapter": 19,
+            "verses": "11-12",
+            "translation": "KJV",
+            "text": "And behold, the LORD passed by… but the LORD was not in the wind… and after the fire a still small voice."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "We often assume God speaks most clearly through what is dramatic. Because of that, many people live in a level of noise that leaves almost no room for quiet listening. Yet Elijah meets God not in the wind, the earthquake, or the fire, but in a still small voice. For a weary person, that is deeply instructive. God may not be absent. It may be that our lives have become too crowded to hear well.",
+            "Jesus takes His disciples to a quiet place not so they can disappear from the world, but so they can become receptive again. **Some forms of burnout come not only from lack of sleep, but from the loss of slower places where the heart can actually listen.**",
+            "A woman can continue reading Scripture, praying, and serving while still moving too fast to truly receive what God is saying. The issue is not always sincerity. Sometimes it is pace. When life has no margin, even God’s voice can be reduced to background sound.",
+            "Slowness helps create interior room. It trains attention. It gives the soul a chance to notice what is holy, what is noisy, and what has been pulling too hard for too long. In that quieter place, many things begin to sort themselves out, not because life becomes simple, but because the heart becomes more able to hear."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Speaking Lord, thank You that You do not reveal Yourself only in what is loud, but also draw near in quietness. I praise You because You are the God of fire and the God of the still small voice. Forgive me for filling my life so completely that Your word is drowned out by other sounds. Give me a listening heart, and give me a life that leaves room for You. Teach me to recognize Your voice again in slower places. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "1 Kings 19:11-12",
+              "book_code": "1KI",
+              "chapter": 19,
+              "verses": "11-12",
+              "translation": "KJV",
+              "text": "And behold, the LORD passed by… but the LORD was not in the wind… and after the fire a still small voice."
+            },
+            {
+              "display": "Mark 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "KJV",
+              "text": "Come ye yourselves apart into a desert place, and rest a while."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Day 7",
+      "title": "Rest Can Become a Way of Life",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Exodus 20:8-10",
+            "book_code": "EXO",
+            "chapter": 20,
+            "verses": "8-10",
+            "translation": "KJV",
+            "text": "Remember the sabbath day, to keep it holy… but the seventh day is the sabbath of the LORD thy God."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many people treat rest as something that belongs to a later chapter. After this deadline, after this season, after the children are older, after life calms down, then they will recover. But Scripture does not present rest as an afterthought. Sabbath is woven into holy living. Jesus says branches cannot bear fruit apart from the vine, which means connection is more basic than output.",
+            "That is especially important for the burned-out heart. Temporary relief may help, but it does not create a different life. **If rest remains something you hope to reach after everything else is finished, it will never become stable. Rest becomes strength when it is built into the structure of your life.**",
+            "This asks something difficult of us. It asks us to admit that some things will remain unfinished when we stop. It asks us to trust that God is still God when our hands are no longer moving. For many women, that trust feels more demanding than productivity ever did. Yet it is holy work.",
+            "Over time, a Sabbath-shaped life becomes less about emergency recovery and more about order. God’s presence begins to shape the week. Boundaries become less apologetic. Quiet becomes less accidental. Rest becomes not merely a break from life, but part of the form life takes under God’s care."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You for giving rest not as a luxury, but as a way of life Your children are invited to enter. I praise You because You know I need more than temporary recovery; I need rhythms that keep me near You. Help me stop postponing rest and postponing communion with You. Teach me to build real structures of Sabbath into my days, my weeks, and my seasons, so that I may live under Your presence and order with greater peace. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Exodus 20:8-10",
+              "book_code": "EXO",
+              "chapter": 20,
+              "verses": "8-10",
+              "translation": "KJV",
+              "text": "Remember the sabbath day, to keep it holy… but the seventh day is the sabbath of the LORD thy God."
+            },
+            {
+              "display": "John 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "KJV",
+              "text": "I am the vine, ye are the branches… for without me ye can do nothing."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

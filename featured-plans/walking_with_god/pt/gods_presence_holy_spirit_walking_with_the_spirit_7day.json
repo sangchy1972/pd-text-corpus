@@ -1,0 +1,522 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "HS01",
+    "slug": "walking-with-the-spirit",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Caminhando com Deus",
+      "secondary": "gods-presence",
+      "secondary_label": "A Presença de Deus"
+    },
+    "tags": [
+      "presenca-de-deus",
+      "vida-espiritual",
+      "intimidade",
+      "espirito-santo",
+      "espirito-santo",
+      "cheio-do-espirito",
+      "direcao",
+      "fruto-do-espirito"
+    ],
+    "title": "Caminhando com o Espírito Santo: 7 Dias para Conhecer, Ouvir e Seguir",
+    "subtitle": "",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "buscando a presença",
+        "orando",
+        "em luto"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Ao longo de 7 dias, retorne às promessas de Jesus e ao ensino dos apóstolos para redescobrir quem é o Espírito Santo, como Ele funciona, e como é caminhar com Ele na vida cotidiana.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture_focus → teaching → additional_scriptures → prayer",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_morning_dove_warm_light",
+      "icon": "dove-and-flame-circle"
+    },
+    "hook": {
+      "heading": "Por que este plano",
+      "paragraphs": [
+        "Uma mulher pode amar profundamente a Cristo e ainda assim sentir incerteza sobre como descrever a vida com o Espírito Santo nos dias comuns. Nós o associamos com poder, consolo e guia, mas frequentemente de formas que permanecem confusas. A Escritura nunca coloca o Espírito nas margens da vida cristã.",
+        "Esta semana, não perseguiremos atmosfera nem reduziremos o Espírito a uma ideia vaga. **Conhecer o Espírito Santo não é perseguir um sentimento místico. É viver mais profundamente na presença de Deus.**"
+      ]
+    },
+    "key_verses": [
+      {
+        "display": "João 14:16-17",
+        "book_code": "JHN",
+        "chapter": 14,
+        "verses": "16-17"
+      },
+      {
+        "display": "Gálatas 5:25",
+        "book_code": "GAL",
+        "chapter": 5,
+        "verses": "25"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "O Consolador que Jesus Prometeu",
+      "subtitle": "O Espírito Santo não é uma força vaga, mas o Consolador que Jesus prometeu.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "João 14:16-17",
+            "book_code": "JHN",
+            "chapter": 14,
+            "verses": "16-17",
+            "translation": "Almeida",
+            "text": "E eu rogarei ao Pai, e vos dará outro Consolador, a fim de que fique convosco para sempre; o Espírito da verdade, que o mundo não pode receber, porque não o vê, nem o conhece; mas vós o conheceis, porque habita convosco e estará em vós."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Há mulheres que caminham com Cristo há anos e ainda sentem incerteza quando a conversa se volta para o Espírito Santo. Ele pode parecer importante na doutrina e, ao mesmo tempo, estranhamente difícil de nomear na vida cotidiana, especialmente em épocas quando a fidelidade se sente mais quieta do que dramática. Por esta razão, as palavras de Jesus em João 14 são tão importantes. Cristo não fala sobre o Espírito como uma possibilidade abstrata. Ele o dá como uma promessa.",
+            "Leia João 14:16-17 lentamente.",
+            "**\"Ele vos dará outro Consolador.\"**",
+            "Jesus diz que o Pai dará \"outro Consolador\" ou \"outro Ajudador\". A linguagem é precisa. Não um substituto inferior. Não uma influência distante. Outro do mesmo tipo. Cristo está dizendo a seus discípulos que sua partida não os deixará espiritualmente abandonados. O Espírito vem como a presença contínua e o ministério de Deus entre seu povo. É por isso que Romanos 8 pode falar tão fortemente: pertencer a Cristo é ter o Espírito.",
+            "Isto é tão importante pastoralmente quanto doutrinariamente. Muitos crentes sinceros, incluindo muitas mulheres carregando lares, trabalho, ministério e cansaço oculto, silenciosamente assumem que o Espírito é para uma categoria mais dramática de cristão do que eles mesmos. A Escritura nunca permite essa divisão. O Espírito não é para uma classe espiritual superior. Ele é o dom de Deus à Igreja. **Você não começa a conhecer o Espírito Santo fabricando um sentimento. Você começa confiando na promessa que Jesus fez.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "João 16:13",
+              "book_code": "JHN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "Almeida",
+              "text": "Quando vier, porém, o Espírito da verdade, vos guiará a toda a verdade; porque não falará por si mesmo, mas dirá tudo o que tiver ouvido, e vos comunicará as coisas que hão de vir."
+            },
+            {
+              "display": "Atos 1:8",
+              "book_code": "ACT",
+              "chapter": 1,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "Mas recebereis a virtude do Espírito Santo, que há de vir sobre vós; e ser-me-eis testemunhas, tanto em Jerusalém como em toda a Judeia e Samaria, e até aos confins da terra."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor fiel, agradecemos porque não deixaste teu povo na solidão ou distância, mas conforme tua promessa deste o Consolador para permanecer com todos os que te pertencem. Ilumina todo pensamento superficial, incerto ou confuso que temos tido a respeito do Espírito Santo. Estabelece-nos primeiramente em tua Palavra revelada, para que possamos conhecer o Espírito não como uma experiência marginal, mas como teu dom gracioso e presença permanente. Que, conhecendo isto, tenhamos muito mais medo de ti, muito mais amor por ti, e descansemos com muito mais segurança em tua promessa. Por Cristo Jesus, nosso Senhor, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "O Espírito Santo é uma Pessoa",
+      "subtitle": "O Espírito Santo não é uma \"coisa\", mas alguém.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Romanos 8:14-16",
+            "book_code": "ROM",
+            "chapter": 8,
+            "verses": "14-16",
+            "translation": "Almeida",
+            "text": "Pois todos os que são guiados pelo Espírito de Deus são filhos de Deus. Porque não recebestes o espírito de escravidão para outra vez cairdes em temor, mas recebestes o espírito de adoção, pelo qual clamamos: Aba, Pai. O mesmo Espírito testifica com o nosso espírito que somos filhos de Deus."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Em muitas igrejas, é mais fácil falar sobre o poder do Espírito do que sobre sua pessoalidade. Mas a Escritura se recusa a nos deixar mantê-lo no nível de atmosfera ou influência. O Espírito pode ser entristecido. Essa verdade única muda toda a conversa.",
+            "Leia Romanos 8:14-16 e Efésios 4:30 juntos. O Espírito guia, dá testemunho, nos atrai para confiança filial, e pode ser entristecido pelo pecado. Estes não são os atos de uma força vaga. São os atos de alguém que conhece, ama e age. O Novo Testamento não trata o Espírito como eletricidade religiosa. Fala dele como uma Pessoa divina.",
+            "Isto muda a vida cristã num nível prático. O pecado não é meramente a quebra de uma regra abstrata; é resistência à presença santa de Deus em nós. A obediência não é mera auto-melhoria moral; é amor responsivo para com aquele que habita em nós. **Confessar que o Espírito é pessoal é admitir que toda a nossa forma de viver tem lugar diante de alguém, não meramente diante de algo.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Efésios 4:30",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "30",
+              "translation": "Almeida",
+              "text": "E não entristeçais o Espírito Santo de Deus, no qual estais selados para o dia da redenção."
+            },
+            {
+              "display": "Atos 5:3-4",
+              "book_code": "ACT",
+              "chapter": 5,
+              "verses": "3-4",
+              "translation": "Almeida",
+              "text": "E Pedro disse: Ananias, por que encheu Satanás o teu coração, para que mentisses ao Espírito Santo, e retivesses parte do preço da terra? ... Por que formaste este desígnio em teu coração? Não mentiste aos homens, mas a Deus."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Espírito Santo, perdoa-nos por toda forma negligente e superficial em que te considerámos, como se fosses meramente ajuda, sentimento ou poder, e não o Senhor mesmo. Agradecemos porque não és uma força impessoal e fria, mas aquele que pessoalmente nos guia, nos convence, nos conforta, e dá testemunho de que somos filhos de Deus. Torna nossos corações tenros diante de ti. Guarda-nos de resistir à tua luz ou desprezar teu trabalho gracioso, e ensina-nos em todas as coisas a honrar-te como santo. Por Jesus Cristo, nosso Senhor, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Ouvindo Sua Voz",
+      "subtitle": "Sua orientação não produz confusão, mas verdade.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "João 10:27",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "27",
+            "translation": "Almeida",
+            "text": "As minhas ovelhas ouvem a minha voz, e eu as conheço, e elas me seguem."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Poucos desejos soam mais espirituais do que querer a direção de Deus, e poucos desejos se tornam mais confundidos quando a Escritura não é permitida para os firmar. Muitos crentes dizem que querem ouvir o Espírito enquanto secretamente imaginam algo espetacular, imediato e inequivocamente dramático. A Bíblia nos dá um quadro mais duradouro.",
+            "Leia João 16:13 lentamente.",
+            "**\"Vos guiará a toda a verdade.\"**",
+            "O Espírito é chamado o Espírito da verdade, e esse título nos diz muito. Ele não lisonjeia o capricho, não batiza o impulso, nem nos leva para longe da Palavra escrita que ele próprio inspirou. Ele nos guia para a verdade. Essa orientação frequentemente vem através da Escritura se abrindo com clareza inusitada, através de convicção interior, através da correção sábia da Igreja, através da restrição providencial, e através de portas que se fecham conforme a obediência continua adiante.",
+            "Atos 16 é especialmente instrutivo. Paulo e seus companheiros já estavam se movendo em missão quando o Espírito os redirecionou. A orientação veio no caminho da obediência, não na passividade. **Reconhecer a voz do Espírito não é tornar-se hábil em decodificar impressões privadas. É tornar-se uma pessoa cujos instintos são cada vez mais moldados pela Escritura, humildade e obediência.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Atos 16:6-10",
+              "book_code": "ACT",
+              "chapter": 16,
+              "verses": "6-10",
+              "translation": "Almeida",
+              "text": "Atravessando a Frígia e a região da Galácia, foram impedidos pelo Espírito Santo de falar a palavra na Ásia. Quando chegaram à Mísia, tentaram ir para a Bitínia, mas o Espírito de Jesus não o permitiu. ... E depois que viu a visão, imediatamente procurámos partir para a Macedônia, concluindo que Deus nos chamava para evangelizá-los."
+            },
+            {
+              "display": "Salmos 32:8",
+              "book_code": "PSA",
+              "chapter": 32,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "Instruir-te-ei e ensinar-te-ei o caminho por onde deves andar; guiar-te-ei com o meu olho."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Espírito da verdade, guia-nos a toda a verdade. Perdoa-nos pelas vezes em que desejámos respostas claras enquanto resistíamos ao caminho da obediência; e perdoa-nos também quando buscámos direção enquanto negligenciávamos a Escritura, a comunhão da Igreja, e o chamado para a santidade. Ensina-nos por tua Palavra, corrige-nos por tua luz, e concede-nos discernimento nas passagens ordinárias da vida. Salva-nos de perseguir impressões vagas, e forma em nós uma prontidão humilde, obediente e governada pela verdade para ouvir tua voz. Por Jesus Cristo, nosso Senhor, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Uma Vida Cheia do Espírito",
+      "subtitle": "Ser cheio do Espírito não é um momento, mas uma forma de viver.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Efésios 5:18-21",
+            "book_code": "EPH",
+            "chapter": 5,
+            "verses": "18-21",
+            "translation": "Almeida",
+            "text": "E não vos embriagueis com vinho, em que há dissolução, mas enchei-vos do Espírito, Falando entre vós com salmos, hinos e cânticos espirituais, cantando e salmodiando ao Senhor no vosso coração, Dando sempre graças por tudo a nosso Deus e Pai, em nome de nosso Senhor Jesus Cristo, Sujeitando-vos uns aos outros no temor de Cristo."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Poucas frases bíblicas são mais familiares e mais mal compreendidas do que \"sede cheios do Espírito\". Alguns a ouvem e pensam num pico espiritual raro. Outros a ouvem e pensam em intensidade emocional. Paulo quer algo mais firme e mais penetrante do que qualquer um desses.",
+            "Leia Efésios 5:18-21 lentamente.",
+            "**\"Enchei-vos do Espírito.\"**",
+            "O contraste com a embriaguez é impressionante. Uma influência desordena a pessoa; a outra ordena a pessoa sob o governo gracioso de Deus. Ser cheio do Espírito não é a perda do eu verdadeiro, mas a libertação de uma vida para adoração, gratidão e mutualidade santa. Os efeitos que Paulo nomeia são comunitários e morais antes de serem dramáticos. Uma Igreja cheia do Espírito canta, dá graças, e aprende humildade um para com o outro.",
+            "Lucas 11 e Atos 4 ajudam a resguardar a passagem da distorção. O Espírito é alegremente dado pelo Pai, e os crentes podem buscar enchimento fresco novamente e novamente. Mas o fruto desse enchimento não é auto-exibição. É coragem renovada, santidade renovada, alegria renovada. **Ser cheio do Espírito não é meramente sentir-se elevado. É ser trazido novamente sob a influência viva de Deus.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "Atos 4:31",
+              "book_code": "ACT",
+              "chapter": 4,
+              "verses": "31",
+              "translation": "Almeida",
+              "text": "E, tendo eles orado, tremeu o lugar em que estavam reunidos; e todos foram cheios do Espírito Santo, e com ousadia falavam a palavra de Deus."
+            },
+            {
+              "display": "Lucas 11:13",
+              "book_code": "LUK",
+              "chapter": 11,
+              "verses": "13",
+              "translation": "Almeida",
+              "text": "Pois se vós, sendo maus, sabeis dar boas coisas aos vossos filhos, quanto mais o vosso Pai celestial dará o Espírito Santo àqueles que lho pedirem?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai celestial, vimos até ti confessando que muito frequentemente nos contentamos com hábito religioso exterior enquanto conhecemos muito pouco de uma vida verdadeiramente governada, renovada e cheia pelo Espírito. Tem misericórdia de nós, para que não permaneçamos no nível da forma ou carreguemos a vida cristã como uma casca vazia. Ensina-nos a pedir diariamente e a receber diariamente. Que nossa fala, nossos pensamentos, nossas afeições e nossa conduta mostrem marcas mais claras da obra graciosa do Espírito. Limpa-nos, renova-nos, e enche-nos, para que possamos viver em adoração, gratidão e humildade mútua diante de ti. Por Jesus Cristo, nosso Senhor, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "O Fruto que Ele Produz em Você",
+      "subtitle": "O fruto do Espírito não é forçado. É formado.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Gálatas 5:22-23",
+            "book_code": "GAL",
+            "chapter": 5,
+            "verses": "22-23",
+            "translation": "Almeida",
+            "text": "Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fidelidade, mansidão, temperança. Contra estas coisas não há lei."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O fruto do Espírito é uma das passagens mais gentis do Novo Testamento, e também uma das mais penetrantes. Pergunta não quais dons impressionam pessoas, mas que tipo de pessoa o evangelho está realmente formando.",
+            "Leia Gálatas 5:22-23 lentamente.",
+            "**\"O fruto do Espírito é amor, alegria, paz...\"**",
+            "Paulo não fala de desempenho espiritual, mas de fruto. Fruto leva tempo. Não pode ser gritado para existir. Cresce da vida compartilhada com a vide. É por isso que João 15 é tão importante aqui. Permanecer em Cristo não é passividade, mas dependência firme. Oração, Escritura, arrependimento, adoração, e retorno a Cristo após falha não são atos impressionantes. São as condições ordinárias nas quais o Espírito forma um tipo diferente de pessoa.",
+            "Observe também que este fruto é profundamente relacional. Paciência importa apenas onde há pessoas difíceis. Mansidão importa apenas onde poder poderia ser usado duramente. Domínio próprio importa apenas onde o desejo ameaça reinar. **O Espírito não está tentando nos decorar. Ele está nos conformando ao caráter de Cristo.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "João 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "Eu sou a videira, vós sois as varas; quem está em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer."
+            },
+            {
+              "display": "Salmos 1:3",
+              "book_code": "PSA",
+              "chapter": 1,
+              "verses": "3",
+              "translation": "Almeida",
+              "text": "Pois será como a árvore plantada junto a corrente de águas, que dá fruto no seu tempo, e cuja folha não cai; e tudo quanto fizer prosperará."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, liberta-nos da vida que tenta polir a pessoa exterior mediante mero esforço enquanto se recusa a estar profundamente enraizada em ti. Confessamos como prontamente tentamos manufaturar piedade por força de vontade, esquecendo que o fruto é obra do Espírito. Ensina-nos a permanecer em Cristo, a ficar em teu amor, a continuar em oração, a nos aproximarmos de tua Palavra, e quando caímos, a retornar rapidamente em arrependimento. Que o que é visto em nós não seja aparência religiosa, mas amor, alegria, paz, longanimidade, e um caráter cada vez mais conforme a Cristo. Por Jesus Cristo, nosso Senhor, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Dia 6",
+      "title": "Os Dons que o Espírito Dá",
+      "subtitle": "Os dons espirituais são para edificar a Igreja, não para exaltar a si mesmo.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "1 Coríntios 12:4-11",
+            "book_code": "1CO",
+            "chapter": 12,
+            "verses": "4-11",
+            "translation": "Almeida",
+            "text": "Ora, há diversidade de dons, mas o Espírito é o mesmo. E há diversidade de ministérios, mas o Senhor é o mesmo. E há diversidade de operações, mas é o mesmo Deus que opera tudo em todos. Mas a manifestação do Espírito é dada a cada um para proveito... Mas um só e o mesmo Espírito opera todas estas coisas, distribuindo particularmente a cada um como quer."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Conversas sobre dons espirituais frequentemente vão errado em duas direções opostas. Alguns cristãos se fascinam com visibilidade e posição. Outros silenciosamente assumem que têm pouco a oferecer. Primeira Coríntios 12 corrige ambos os erros.",
+            "Leia 1 Coríntios 12:4-11 lentamente.",
+            "**\"Dado a cada um para proveito.\"**",
+            "Paulo repete a mesma verdade de diferentes ângulos: há variedades de dons, mas um Espírito; variedades de serviço, mas um Senhor; variedades de operações, mas um Deus. A ênfase não cai sobre status espiritual, mas sobre generosidade divina e propósito eclesial. \"A cada um é dado...\" Essas palavras cortam contra orgulho e insegurança. Nenhum crente é destinado a se gloriar, e nenhum crente é destinado a se afastar.",
+            "Primeira Pedro 4 nos ajuda a ouvir a aresta pastoral desta doutrina. Dons são confiados para serem usados. São mordomias, não ornamentos. Alguns são públicos e facilmente notados. Outros são quietos e indispensáveis. **Um dom espiritual não é primeiro um emblema de identidade. É uma forma de responsabilidade dentro do corpo de Cristo.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "1 Pedro 4:10-11",
+              "book_code": "1PE",
+              "chapter": 4,
+              "verses": "10-11",
+              "translation": "Almeida",
+              "text": "Cada um administre aos outros o dom como recebeu, como bom dispenseiro da multiforme graça de Deus. Se alguém fala, fale de acordo com as palavras de Deus; se alguém ministra, ministre conforme a força que Deus supre; para que em tudo Deus seja glorificado por Jesus Cristo, a quem pertence a glória e o domínio pelos séculos dos séculos. Amém."
+            },
+            {
+              "display": "Romanos 12:3-8",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "3-8",
+              "translation": "Almeida",
+              "text": "Porque pela graça que me foi dada, digo a cada um dentre vós que não tenha de si mesmo um conceito mais elevado do que convenha; antes, tenha um conceito sóbrio, segundo a medida da fé que Deus repartiu a cada um... tendo diferentes dons segundo a graça que nos é dada, se alguém tem o dom de profecia, use-o na medida da fé; se alguém tem o dom de servir, sirva; se alguém tem o dom de ensinar, ensine."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Espírito Santo, agradecemos porque segundo teu beneplácito sábio tu distribuis dons por toda a Igreja, e a cada membro do corpo. Guarda-nos de desprezar o que deste, e guarda-nos igualmente de usá-lo mal. Que não nos abatamos porque um dom é quieto, ou nos exaltemos porque um dom é visível. Ensina-nos a receber tudo o que tal graça é mordomia de tua mão, para que possamos servir fielmente, não buscar nossa própria honra, mas o bem de outros, o fortalecimento da Igreja, e a exaltação do nome de Cristo. Por Jesus Cristo, nosso Senhor, amém.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Dia 7",
+      "title": "A Vida Diária com o Espírito",
+      "subtitle": "Caminhar com o Espírito não é ocasional. É diário.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Gálatas 5:25",
+            "book_code": "GAL",
+            "chapter": 5,
+            "verses": "25",
+            "translation": "Almeida",
+            "text": "Se vivemos pelo Espírito, andemos também segundo o Espírito."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Há algo maravilhosamente sem glamour na visão do Novo Testamento da vida no Espírito. Não é construída em picos ocasionais, mas num caminho diário. A linguagem de Paulo em Gálatas 5:25 é concreta, quase terrena: se vivemos pelo Espírito, devemos caminhar de acordo com o Espírito.",
+            "Leia o verso lentamente.",
+            "**\"Andemos segundo o Espírito.\"**",
+            "Mantém unidas o dom e a responsabilidade. A vida no Espírito já foi dada; agora o crente é chamado a se mover de uma maneira consistente com essa vida. A imagem não é de um salto dramático, mas de um ritmo, um passo, um padrão de existência cada vez mais governado pela presença do Espírito. Isto acontece em lugares ordinários: rendição matinal, arrependimento meio do dia, pequenas obediências, tentações resistidas, retornos rápidos à oração, e revisão grata ao fechar do dia.",
+            "É por isso que caminhar com o Espírito é tão profundo e tão exigente. Pede não por um momento memorável, mas por uma vida que gradualmente se torna permeável a Deus. **A evidência mais clara da obra do Espírito é frequentemente não espetáculo, mas fidelidade sustentada, santa e ordinária.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementares",
+          "verses": [
+            {
+              "display": "João 16:13",
+              "book_code": "JHN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "Almeida",
+              "text": "Quando vier, porém, o Espírito da verdade, vos guiará a toda a verdade; porque não falará por si mesmo, mas dirá tudo o que tiver ouvido, e vos comunicará as coisas que hão de vir."
+            },
+            {
+              "display": "Romanos 8:11",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "11",
+              "translation": "Almeida",
+              "text": "Se o Espírito daquele que ressuscitou a Jesus dentre os mortos habita em vós, aquele que ressuscitou a Cristo Jesus dentre os mortos vivificará também os vossos corpos mortais, pelo seu Espírito que habita em vós."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Espírito Santo, guarda-nos de tratar a vida espiritual como uma sucessão de alturas breves e barulhentas. Ensina-nos em vez disto a caminhar contigo nos dias comuns que nos foram designados. Que o começar de cada dia, cada decisão, cada arrependimento, e cada conflito se tornem uma ocasião para obediência mais próxima ao teu guiar. Forma-nos pacientemente através dos anos, para que não persigamos entusiasmo passageiro, mas cresçamos em santidade, fidelidade e mansidão. Continua tua obra graciosa dentro de nós até que a semelhança de Cristo seja mais claramente vista. Por Jesus Cristo, nosso Senhor, amém.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG01",
+    "slug": "anxiety-closing-in",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardim das Emoções",
+      "secondary": "anxiety-fear",
+      "secondary_label": "Ansiedade e Medo"
+    },
+    "tags": [
+      "ansiedade",
+      "medo",
+      "sobrecarga",
+      "descanso-em-deus",
+      "confianca"
+    ],
+    "title": "Quando a Ansiedade Está Me Fechando",
+    "subtitle": "Para aquele que se sente oprimido agora e precisa mais da proximidade de Deus do que de explicações.",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "ansiosa",
+        "sobrecarregada",
+        "temerosa"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para aquele que se sente oprimido agora e precisa mais da proximidade de Deus do que de explicações.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#B5C7E0",
+      "color_secondary": "#3B5775",
+      "image_key": "cover_woman_quiet_window_morning_light_anxiety",
+      "icon": "quiet-rock-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 61:1-2",
+        "book_code": "PSA",
+        "chapter": 61,
+        "verses": "1-2"
+      },
+      {
+        "display": "Isaías 41:10",
+        "book_code": "ISA",
+        "chapter": 41,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Senhor, Estou Completamente Transtornado Agora",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 61:1-2",
+            "book_code": "PSA",
+            "chapter": 61,
+            "verses": "1-2",
+            "translation": "Almeida",
+            "text": "Ouve, ó Deus, o meu clamor; escuta a minha oração. Desde o fim da terra clamo a ti, quando o meu coração está transtornado; leva-me até à rocha que é mais alta que eu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Às vezes, a ansiedade não emerge lentamente. Ela irrompe. Uma mensagem, um resultado ou uma possibilidade súbita pode apertar tudo dentro de você. Sua mente começa a correr, seu corpo segue, e até tarefas simples parecem mais pesadas do que eram uma hora atrás. Em momentos assim, muitas pessoas primeiro se tornam duras consigo mesmas. Elas perguntam: \"Por que estou reagindo assim novamente?\" Mas a Escritura começa em um lugar mais gentil.",
+            "O Salmo 61 oferece palavras para o momento exato em que seu mundo interior se sente sobrecarregado: \"Quando meu coração está transtornado.\" Davi não espera até estar calmo. Ele clama enquanto ainda está inundado. Isso importa porque significa que você não precisa de uma oração polida para vir a Deus. Você pode vir a Ele ofegante, disperso e com medo. Primeira Pedro 5:7 oferece o motivo: \"porque ele cuida de vocês.\" Você não é convidado a lançar seu cuidado sobre Deus porque está fracassando. Você é convidado a lançá-lo nele porque ele cuida.",
+            "**O primeiro passo em um momento de ansiedade não é ganhar controle sobre si mesmo. É se virar para o Deus que está disposto a sustentá-lo.** Isso muda o tom de todo o dia. Você não precisa resolver seu medo antes de orar. Você não precisa explicar cada pensamento antes de clamar.",
+            "Hoje, comece simplesmente. Coloque sua mão sobre seu peito, respire mais lentamente e diga: \"Senhor, sinto-me transtornado. Sustenta-me.\" **Você não precisa esperar até se sentir em paz para começar a alcançar Deus.** Mesmo que nada mude imediatamente, essa oração já é um deslocamento sagrado. Você não está mais preso dentro do medo sozinho.",
+            "Deixe isso ser suficiente por hoje. Um clamor curto e honesto a Deus não é uma resposta pequena. Já é um movimento em direção à segurança."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, venho a ti não fingindo estar calmo, mas admitindo que sinto-me transtornado. Tu conheces o repentino fluxo de medo, os pensamentos acelerados, a tensão no meu corpo e o desamparo por baixo de tudo. Obrigado por não pedires que eu me recomponha antes de clamar a ti. Hoje peço simplesmente que me sustentes. Como diz o salmo, leva-me à rocha que é mais alta que eu. Tira-me suavemente do pânico e mais perto da tua presença, e ajuda-me a crer que teu cuidado é mais real que meu medo. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 61:1-2",
+              "book_code": "PSA",
+              "chapter": 61,
+              "verses": "1-2",
+              "translation": "Almeida",
+              "text": "Ouve, ó Deus, o meu clamor; escuta a minha oração. Desde o fim da terra clamo a ti, quando o meu coração está transtornado; leva-me até à rocha que é mais alta que eu."
+            },
+            {
+              "display": "1 Pedro 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Almeida",
+              "text": "Lançando sobre ele toda a vossa ansiedade, porque ele cuida de vós."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "A Tempestade É Real, Mas Jesus Ainda Está Aqui",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Marcos 4:37-40",
+            "book_code": "MRK",
+            "chapter": 4,
+            "verses": "37-40",
+            "translation": "Almeida",
+            "text": "E levantou-se uma grande tempestade de vento e as ondas batiam contra o barco, de modo que já estava cheio de água. Ele, porém, estava na popa, dormindo sobre uma almofada; e despertaram-no e lhe disseram: Mestre, não te importa que estejamos perecendo? Então, despertando-se, repreendeu o vento, e disse ao mar: Cala-te, aquieta-te. E o vento se aquietou, e fez-se grande bonança."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas vezes, a parte mais assustadora da ansiedade não é o problema em si, mas a sensação de estar deixado sozinho com isso. A situação não mudou, a resposta não veio, e o medo começa a sussurrar que talvez isso continue piorando. É por isso que a ansiedade pode parecer tão isoladora. Mesmo quando outras pessoas estão por perto, o coração ainda pode se sentir abandonado.",
+            "Marcos 4 fala diretamente nessa experiência. Os discípulos estão presos em uma tempestade real. O vento é forte, a água está subindo e o medo deles não é exagerado. O que torna a história reconfortante não é que eles permaneçam calmos. Eles não permanecem. Eles entram em pânico e acordam Jesus com uma pergunta que muitas pessoas ansiosas ainda fazem de diferentes formas: \"Não te importas que estejamos perecendo?\"",
+            "Antes de Jesus acalmar o mar, ele já está no barco. Sua presença não começa depois que a tempestade termina. Ele está lá enquanto a tempestade ainda é alta. João 14:27 nos ajuda a entender isso mais profundamente. Jesus dá paz, mas não do tipo que o mundo dá. Sua paz não é negação. É sua própria presença e autoridade no meio do que ainda parece instável.",
+            "**Antes do mar ficar quieto, Jesus já está lá.** Isso significa que seu medo não precisa estar terminado antes de Deus estar perto. O relacionamento ainda pode se sentir frágil. A incerteza ainda pode ser irresoluta. Mas o Senhor não se afastou do seu barco.",
+            "Hoje, nomeie sua tempestade com honestidade. Diga: \"Senhor, tu vês isso, e ainda estás aqui.\" **Essa verdade pode não resolver tudo hoje, mas impede o medo de contar a história inteira.** A paz muitas vezes começa ali: não com respostas imediatas, mas com a realização tranquilizadora de que você não foi abandonado no meio do que o assusta.",
+            "Quando o medo te disser que estás sozinho, responde com a verdade da presença de Cristo. Ele não está atrasado para sua tempestade."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, obrigado por me lembrar hoje através da tua palavra que a tempestade é real, mas também é real a tua presença. Muitas vezes o que mais temo não é apenas a situação em si, mas a sensação de estar abandonado no meio dela. No entanto, hoje tu me mostras que não deixaste os discípulos em sua tempestade e não me deixaste na minha. Fala tua paz nos lugares em mim que se sentem turbulentos e inquietos. Quando minha mente continua correndo para o pior, lembra-me que tu ainda governas o que me assusta. E guarda as pessoas que amo, para que elas também conheçam tua presença em suas próprias tempestades. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Marcos 4:37-40",
+              "book_code": "MRK",
+              "chapter": 4,
+              "verses": "37-40",
+              "translation": "Almeida",
+              "text": "E levantou-se uma grande tempestade de vento e as ondas batiam contra o barco, de modo que já estava cheio de água. Ele, porém, estava na popa, dormindo sobre uma almofada; e despertaram-no e lhe disseram: Mestre, não te importa que estejamos perecendo? Então, despertando-se, repreendeu o vento, e disse ao mar: Cala-te, aquieta-te. E o vento se aquietou, e fez-se grande bonança."
+            },
+            {
+              "display": "João 14:27",
+              "book_code": "JHN",
+              "chapter": 14,
+              "verses": "27",
+              "translation": "Almeida",
+              "text": "Deixo-vos a paz, a minha paz vos dou; não vo-la dou como a dá o mundo. Não se turbe o vosso coração, nem se atemorize."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Não Preciso do Resultado Antes de Poder Descansar",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Isaías 41:10",
+            "book_code": "ISA",
+            "chapter": 41,
+            "verses": "10",
+            "translation": "Almeida",
+            "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Até o terceiro dia, sua situação pode não parecer muito diferente. A resposta ainda pode estar pendente, o fardo ainda pode ser real e o caminho adiante ainda pode parecer pouco claro. Isso pode ser desanimador. A ansiedade muitas vezes dói mais não porque você não possa enfrentar a dificuldade, mas porque você não sabe como continuar avançando quando nada se sente estabelecido.",
+            "Isaías 41 oferece uma ordem diferente daquela que o medo dá. O medo diz: \"Primeiro consiga a resposta, aí você pode respirar.\" Deus diz: \"Não temas; porque eu sou contigo.\" Ele oferece sua presença antes de oferecer clareza. Isso importa porque o que acalma a alma muitas vezes não é explicação, mas companhia. Deus frequentemente te oferece a si mesmo antes de te oferecer certeza.",
+            "O Salmo 46 aprofunda esse convite. Ele chama Deus de nosso refúgio e força, uma ajuda muitíssimo presente na angústia, e aí diz: \"Aquietai-vos, e sabei que eu sou Deus.\" Isso não é um comando frio para parar de sentir. É uma interrupção misericordiosa do pânico. É Deus dizendo que a serenidade é possível antes da história inteira estar clara.",
+            "**Você não precisa do resultado antes de poder começar a descansar na presença de Deus.** O descanso pode não significar que todas as suas perguntas se foram. Pode simplesmente significar que você não está mais tentando respondê-las sozinho.",
+            "Leve uma frase com você hoje: \"Deus está comigo\" ou \"Não preciso do resultado antes de poder descansar.\" **A presença de Deus pode sustentá-lo mesmo enquanto o futuro ainda é incerto.** Repita essa verdade quando sua mente se adiantar. Deixe que chame seu coração de volta da especulação para a confiança. Às vezes, a paz vem não por resolver a incerteza, mas por encontrar Deus dentro dela.",
+            "A serenidade pode parecer desconhecida no início, mas é uma forma pela qual a alma reaprender onde a segurança verdadeiramente vive."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor fiel, eu frequentemente assumo que só posso descansar uma vez que o problema está resolvido e o resultado é claro. Mas hoje tu me lembras que o teu primeiro presente para mim nem sempre é explicação, mas presença. Obrigado por dizeres: \"Não temas; porque eu sou contigo.\" Deixa essa promessa afundar-se mais profundamente em mim do que meus próprios pensamentos de medo. Ajuda-me a ficar quieto diante de ti enquanto o caminho ainda é incerto. Ensina-me a confiar que mesmo sem todas as respostas, tu me fortalecerás e me sustentarás. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Isaías 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "Almeida",
+              "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça."
+            },
+            {
+              "display": "Salmo 46:1-2,10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "1-2,10",
+              "translation": "Almeida",
+              "text": "Deus é o nosso refúgio e força, um socorro muito presente na angústia... Aquietai-vos, e sabei que eu sou Deus; serei exaltado entre as nações, serei exaltado na terra."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

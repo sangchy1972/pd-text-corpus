@@ -1,0 +1,248 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS10",
+    "slug": "growing-older-with-grace",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Lebensjahreszeiten",
+      "secondary": "evening-grace",
+      "secondary_label": "Gnade des Abends"
+    },
+    "tags": [
+      "aeltere-frauen",
+      "altern",
+      "weisheit",
+      "vermaechtnis",
+      "gegenwart",
+      "noch-werdend"
+    ],
+    "title": "Mit zunehmendem Alter in einer Welt, die von Jugend besessen ist, wachsen",
+    "subtitle": "Das Alter als Gnade empfangen, nicht als Verlust",
+    "audience": {
+      "life_stage": [
+        "ältere Frauen",
+        "sechziger und älter",
+        "späteres Leben"
+      ],
+      "emotional_state": [
+        "nachdenklich",
+        "im Frieden",
+        "noch werdend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Für die Frau, die lernt, das Alter nicht als Auslöschung zu empfangen, sondern als eine Form der Gnade in einer Kultur, die Jugend vergöttert.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_evening_lamp_quiet_window",
+      "icon": "lit-candle-circle"
+    },
+    "key_verses": [
+      {
+        "display": "1. Petrus 3:3-4",
+        "book_code": "1PE",
+        "chapter": 3,
+        "verses": "3-4"
+      },
+      {
+        "display": "Psalm 46:10",
+        "book_code": "PSA",
+        "chapter": 46,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Die Welt belohnt Jugend; Gott ehrt Reife",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Petrus 3:3-4",
+            "book_code": "1PE",
+            "chapter": 3,
+            "verses": "3-4",
+            "translation": "Lutherbibel 1912",
+            "text": "Euer Schmuck soll nicht der äußerliche sein, wie Haarflechten und Goldschmuck und Kleiderpracht, sondern der verborgene Mensch des Herzens mit dem unvergänglichen Schmuck eines sanften und ruhigen Geistes, welcher vor Gott sehr kostbar ist."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Die Welt ist sehr geschickt darin, Frauen um ihr Alter angespannt zu machen. Werbung sagt ihnen, was sie verbergen, was sie reparieren, was sie zurückgewinnen sollen. Die sozialen Medien trainieren sie stillschweigend, einer Version ihrer selbst nachzujagen, die noch jung genug aussieht, um gelobt zu werden. Sogar wohlmeinende Ermutigungen können implizieren, dass eine Frau nur dann wertvoll bleibt, wenn sie weiterhin ihrer früheren Gestalt ähnelt.",
+            "Die Heilige Schrift spricht nicht auf diese Weise. Sie bindet den Wert einer Frau nicht an Frische, Glätte oder äußere Vitalität. Petrus spricht von der Schönheit eines sanften und ruhigen Geistes, der vor Gott von großem Wert ist. Diese Art von Schönheit ist nicht der Versuch, das Alter zu leugnen. Sie wird oft durch das Alter klarer. Sie wird durch Verlust, Treue, Geduld und lange Gemeinschaft mit Gott gebildet.",
+            "**Das Alter schmälert die Herrlichkeit nicht automatisch. In Gottes Händen kann es zu einer der Weisen werden, wie Gnade sie vertieft.** Das ist besonders für Frauen in späteren Jahren wichtig, denn die Angst unter körperlichen Veränderungen besteht oft nicht nur aus körperlichem Verfall. Es ist die Angst, weniger sichtbar, weniger geschätzt, weniger bedeutsam zu werden.",
+            "Aber Gott fragt eine Frau nicht, wie erfolgreich sie der Zeit widerstanden hat. Er schaut auf das Leben, das in ihr geformt wird. Späte Schönheit ist nicht minderwertige Schönheit. Sie ist oft ehrlicher, gründlicher und schwerer zu verfälschen.",
+            "Lassen Sie Gott heute Ihren Griff lockern, dass Sie aussehen oder sich fühlen müssen wie früher. Er mag Sie lehren, wie Sie eine ruhigere, gefestigtere, heiligere Art von Glanz empfangen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, diese Welt lehrt mich oft, mich vor dem Alter zu fürchten und die Ähnlichkeit mit der Vergangenheit als Beweis des Wertes zu behandeln. Erbarme dich meiner und wende meine Augen zurück zu dir. Ich danke dir, dass dir nicht wichtig ist, wie gut ich der Zeit widerstehe, sondern wie wahrhaft du mich in ihr formst. Lehre mich, die Schönheit dieser Jahreszeit zu empfangen, ohne Reife als Verblühen oder Veränderung als schändlich zu bezeichnen. Wenn mein Herz noch voller Vergleich, Anspannung oder Trauer um das Alter ist, tröste mich sanft und definiere die Schönheit für mich neu. Lass mein Herz in dir stiller werden und mein Leben in deiner Gegenwart strahlender. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Petrus 3:3-4",
+              "book_code": "1PE",
+              "chapter": 3,
+              "verses": "3-4",
+              "translation": "Lutherbibel 1912",
+              "text": "Euer Schmuck soll nicht der äußerliche sein, wie Haarflechten und Goldschmuck und Kleiderpracht, sondern der verborgene Mensch des Herzens mit dem unvergänglichen Schmuck eines sanften und ruhigen Geistes, welcher vor Gott sehr kostbar ist."
+            },
+            {
+              "display": "Sprüche 31:30",
+              "book_code": "PRO",
+              "chapter": 31,
+              "verses": "30",
+              "translation": "Lutherbibel 1912",
+              "text": "Lieblich ist Gnade und Schönheit; aber ein Weib, das den Herrn fürchtet, wird gerühmt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Das Älterwerden ist nicht die Bühne verlassen; viele Früchte zeigen sich in späteren Jahren",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 92:13-14",
+            "book_code": "PSA",
+            "chapter": 92,
+            "verses": "13-14",
+            "translation": "Lutherbibel 1912",
+            "text": "Die Gerechten werden grünen wie ein Palmbaum, und werden wachsen wie die Cedern auf dem Libanon. Die in des Herrn Hause gepflanzt sind, werden in den Vorhöfen unsers Gottes aufwachsen. Und werden im Alter noch Früchte bringen, voll Kraft und Wohlgeruch."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Frauen haben Angst vor späteren Jahren, nicht nur wegen körperlicher Veränderungen, sondern wegen einer tieferen Besorgnis: Werde ich langsam zur Nebenfigur? Wenn sich berufliche Rollen ändern, Kinder aufwachsen, Familienstrukturen verschieben und die öffentliche Aufmerksamkeit abnimmt, fragen sich viele Frauen, ob der gewichtigste Teil des Lebens bereits vorbei ist. Das ist, wie die Welt das Altern oft darstellt. Das ist nicht, wie Gott es darstellt.",
+            "Psalm 92 sagt, dass diejenigen, die im Hause des Herrn gepflanzt sind, auch im Alter noch Früchte bringen werden. Das ist ein so wunderschönes Versprechen, weil es nicht erzwingt, dass späte Früchte frühe Früchte nachahmen. Es fordert eine Frau nicht auf, ihre jüngere Form wieder zu erleben. Es sagt, dass Fruchtbarkeit möglich bleibt, obwohl sie eine andere Form annehmen kann.",
+            "**Im Königreich Gottes sind späte Jahre nicht übrige Jahre. Sie sind oft eine weitere Jahreszeit der Frucht.** Wenn Sie im Stillen gefürchtet haben, dass Ihre Bedeutsamkeit abnimmt, lassen Sie Gott diese Angst herausfordern. Er ist nicht nur der Gott der öffentlichen Höhepunkte. Er ist auch der Gott von ruhigerer, langsamerer, tieferer Nützlichkeit.",
+            "Späte Früchte mögen weniger wie Schnelligkeit und mehr wie Beständigkeit aussehen. Weniger wie Sichtbarkeit und mehr wie Nährung. Weniger wie Schärfe und mehr wie Segen. Einige der haltbarsten Formen des Einflusses entstehen nicht aus äußerem Schwung, sondern aus Jahrzehnten der Treue, Verfeinerung und Gemeinschaft mit Gott."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe, dass ich manchmal fürchte, dass die späteren Jahre nur der Erhaltung, dem Verlust und dem ruhigen Verschwinden dienen. Danke dir dafür, dass du mich daran erinnerst, dass in dir das Alter noch Früchte tragen kann. Befreie mich von der Lüge, dass der bedeutsamste Teil meines Lebens bereits hinter mir liegt. Halte mich davon ab, meine Bedeutsamkeit an der wechselnden Aufmerksamkeit der Welt zu messen. Wenn du beabsichtigst, in diesen späteren Jahren neue Früchte zu tragen, hilf mir, diese Früchte zu empfangen, ohne zu verlangen, dass sie wieder wie Jugend aussehen. Lass mich in dir gepflanzt bleiben und noch immer in deiner Gegenwart florieren. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 92:13-14",
+              "book_code": "PSA",
+              "chapter": 92,
+              "verses": "13-14",
+              "translation": "Lutherbibel 1912",
+              "text": "Die Gerechten werden grünen wie ein Palmbaum, und werden wachsen wie die Cedern auf dem Libanon. Die in des Herrn Hause gepflanzt sind, werden in den Vorhöfen unsers Gottes aufwachsen. Und werden im Alter noch Früchte bringen, voll Kraft und Wohlgeruch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Einige Stille ist nicht leer, sondern Gott bringt das Leben zu tieferen Orten",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 46:10",
+            "book_code": "PSA",
+            "chapter": 46,
+            "verses": "10",
+            "translation": "Lutherbibel 1912",
+            "text": "Seid stille und erkennet, daß ich Gott bin..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Späte Jahre sind oft stiller. Das Haus ist nicht so laut. Der Zeitplan ist weniger gefüllt. Die unmittelbaren Anforderungen anderer Menschen können abnehmen. Öffentliche Dringlichkeit wird sanfter. Für manche Frauen ist diese Stille eine Erleichterung. Für andere fühlt es sich bloßgestellt an. Es macht Verlust, Abwesenheit und Fragen der verbleibenden Zweckbestimmung sichtbarer.",
+            "Die Heilige Schrift behandelt Stille nicht immer als Leere. \"Seid stille und erkennet, daß ich Gott bin.\" Das ist kein Satz von Verbannung. Das ist eine Einladung in eine andere Art der Fülle. Stille in Gottes Händen kann nicht weniger Leben, sondern tieferes Leben werden. Einige Arten der Nähe zu Gott erfordern genau die Geräumigkeit, die frühere Jahrzehnte nicht bieten konnten.",
+            "**Wenn Stille mit Gott bewohnt wird, muss sie nicht als Leere interpretiert werden.** Sie kann zu einer anderen Form der Fülle werden. Wenn also Ihr Leben stiller geworden ist, fragen Sie nicht nur, was entfernt wurde. Fragen Sie auch, welche neue Tiefe jetzt möglich sein kann.",
+            "Wenn eine Frau Jahre damit verbracht hat, zu reagieren, sich zu kümmern, zu organisieren und zu tragen, kann Stille sich unfamiliar anfühlen. Sie weiß möglicherweise nicht, wie sie damit umgehen kann, ohne Angst zu haben.",
+            "Die späteren Jahre mögen nicht lauter sein als früher, aber sie können innerlich reicher sein als du dir je vorgestellt hast."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, wenn das Leben stiller wird, weiß ich nicht immer, ob ich diese Stille als Geschenk oder als Verlust annehmen soll. Du kennst die Leere, die aufsteigen kann, wenn sich der Rhythmus verlangsamt, und du weißt, wie leicht ich anfange zu fragen, was mir noch von mir bleibt. Danke dir dafür, dass du mich daran erinnerst, dass Stille nicht automatisch Leere ist. Sie kann auch ein Ort der Tiefe werden. Lehre mich, vor dieser Stille nicht zu fliehen oder sie mit Lärm zu füllen. Wenn du diese Jahreszeit der Stille nutzt, um mich in tiefere Erkenntnis deiner selbst zu führen, hilf mir, sie willig zu betreten. Lass die späteren Jahre meines Lebens nicht nur weniger geschäftig, sondern voller von dir werden. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Seid stille und erkennet, daß ich Gott bin..."
+            },
+            {
+              "display": "Lukas 10:39",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "39",
+              "translation": "Lutherbibel 1912",
+              "text": "Und diese hatte eine Schwester, Maria genannt, die saß zu den Füßen Jesu und hörete seiner Rede zu."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

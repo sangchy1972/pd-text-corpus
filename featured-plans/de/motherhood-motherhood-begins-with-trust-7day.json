@@ -1,0 +1,508 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI12",
+    "slug": "motherhood-begins-with-trust",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "motherhood",
+      "secondary_label": "Mutterschaft"
+    },
+    "tags": [
+      "mutterschaft",
+      "erziehung",
+      "vertrauen",
+      "perfektionismus",
+      "gnade",
+      "ruhe"
+    ],
+    "title": "Mutterschaft beginnt mit Vertrauen",
+    "subtitle": "Lerne, deine Kinder, deine Ängste und dich selbst Gott anzuvertrauen",
+    "audience": {
+      "life_stage": [
+        "Mütter",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "müde",
+        "liebevoll",
+        "vertrauend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese sieben Tage führen dich tiefer durch Kontrolle, Sorge, Opfer und Identitätsverlust in der Mutterschaft hindurch und lehren dich die langsame Arbeit des Vertrauens.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#C8E0CC",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_mother_morning_window_quiet",
+      "icon": "cradle-and-leaves-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Jesaja 41:10",
+        "book_code": "ISA",
+        "chapter": 41,
+        "verses": "10"
+      },
+      {
+        "display": "1. Samuel 1:27-28",
+        "book_code": "1SA",
+        "chapter": 1,
+        "verses": "27-28"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Je tiefer wir lieben, desto leichter fürchten wir uns",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jesaja 41:10",
+            "book_code": "ISA",
+            "chapter": 41,
+            "verses": "10",
+            "translation": "Lutherbibel 1912",
+            "text": "Fürchte dich nicht, denn ich bin mit dir..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Die Angst einer Mutter kommt nicht aus Schwäche, sondern aus tiefer Liebe.",
+            "Von dem Moment an, in dem ein Kind uns kostbar wird, entwickelt das Herz neue Wege zu zittern. Wir fürchten Krankheit, Herzbreak, schlechte Einflüsse, Einsamkeit, Fehltritte und alle Dinge, die wir nicht vorhersehen oder verhindern können. Die Liebe macht uns zart, und Zartheit macht uns verletzlich. Viele Mütter versagen nicht darin, Gott zu vertrauen; sie tragen die Art von Furcht, die überall dort aufsteigt, wo tiefe Liebe fließt.",
+            "Aber wenn diese Angst nie vor Gott gebracht wird, bleibt sie selten klein. Sie wächst zu Überachtsamkeit, Kontrolle, mentaler Wiederholung und einem Leib, der nicht mehr zur Ruhe kommen kann, auch wenn der Tag ruhig ist. Psalm 56 sagt: \"Wenn ich mich fürchte, will ich dir trauen.\" Jesaja 41 sagt: \"Fürchte dich nicht; denn ich bin bei dir.\" Gott schämt sich nicht der Muttersorge. Er lädt sie in seine Gegenwart ein, damit Angst nicht die einzige Sprache wird, durch die die Liebe weiß, wie sie sorgen soll.",
+            "Viele von uns kennen das Gefühl, äußerlich funktionsfähig zu sein, während wir innerlich angespannt sind. Das Kind mag in diesem Moment wohlauf sein, doch das Herz der Mutter bereitet sich bereits auf jeden möglichen Verlust vor. Wachstum heißt nicht immer, sofort angstlos zu werden. Manchmal bedeutet es, nicht zu lernen, die Angst allein zu verarbeiten. Wir beginnen ehrlicher zu sagen: Herr, das fürchte ich. Ich habe Angst um sie, und ich habe Angst vor dem, wie wenig ich kontrolliere.",
+            "**Angst in der Mutterschaft muss in Gottes Gegenwart gebracht werden, nicht allein gelassen, um zu wachsen.** Benenne heute eine Angst und lege sie vor ihm hin. Beeile dich nicht, stark zu wirken. Sei einfach ehrlich. Gott versteht, wie eine Mutter liebt und wie eine Mutter zittert."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich bringe die tiefste Angst vor dir, die ich als Mutter trage. Lass sie nicht in meinem Herzen unaufhörlich wachsen, sondern lass sie in deiner Gegenwart langsam Platz bekommen. Halte mich auch dort, wo ich mich selbst am leichtesten verurteile, mich überfordere und mich selbst verliere. Lass mich nicht aus Anspannung heraus lieben, sondern lass mich aus deinem Erbarmen neue Kraft bekommen, damit mein Kind und ich in deiner Obhut leben. Danke, dass du meine Schwachheit nicht verachtest, sondern bereit bist, nahe zu kommen, mich zu stützen und mich zu lehren. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jesaja 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Fürchte dich nicht, denn ich bin mit dir..."
+            },
+            {
+              "display": "Psalm 56:3",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "3",
+              "translation": "Lutherbibel 1912",
+              "text": "Wenn ich mich fürchte, will ich dir trauen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Vertrauen ist nicht Vernachlässigung; es ist die Rückgabe von Gottes Platz an Gott",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Lutherbibel 1912",
+            "text": "Vertraue dem Herrn von ganzem Herzen..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Einige Mütter finden es schwer, ihre Kinder Gott anzuvertrauen, nicht weil sie zu wenig lieben, sondern weil sie zu intensiv sorgen.",
+            "Wir spüren das Gewicht der Verantwortung. Wir wissen, wie leicht ein Kind verletzt werden kann. Wir sehen, wie vieles wichtig ist. Also beginnt das Herz anzunehmen, dass ein strafferer Griff bessere Sorge bedeutet. Wenn wir mehr überwachen, mehr planen, mehr eingreifen, mehr erklären, können wir vielleicht die Dinge sicherer halten. Verantwortung selbst ist nicht das Problem. Aber Verantwortung kann sich leise in Kontrolle verhärten, wenn wir beginnen, so zu handeln, als hinge alles davon ab, wie fest wir zugreifen.",
+            "Sprüche sagt uns, dem Herrn mit unserem ganzen Herzen zu vertrauen und nicht nur auf unser Verständnis zu verlassen. 1. Petrus sagt uns, alle unsere Sorgen auf ihn zu werfen, weil er sich um uns kümmert. Vertrauen bedeutet nicht, die Mutterschaft aufzugeben. Es bedeutet, die Ordnung der Wirklichkeit wieder richtig zu stellen. Ich liebe immer noch, antworte, führe, schütze und bleibe wachsam. Aber ich höre auf, Gottes Platz einzunehmen. Ich erinnere mich daran, dass meine Rolle Treue ist, nicht souveräne Kontrolle.",
+            "Dies ist einer der ernüchternderen Wachstumspunkte in der Mutterschaft. Wir verwechseln oft Festhalten mit Lieben. Aber etwas unserer Anspannung kommt daher, dass wir vergessen haben, dass wir nie der endgültige Hüter eines anderen menschlichen Lebens sein sollten. Echtes Vertrauen stellt die Proportionen wieder her. Es gibt Gott seinen richtigen Platz zurück und befreit die Mutter davon, mehr als eine Mutter sein zu müssen.",
+            "**Dein Kind Gott anzuvertrauen ist nicht weniger lieben. Es ist anzuerkennen, dass Gott sicherer hält als du es könntest.** Wähle heute einen Bereich, den du am stärksten zu kontrollieren versucht hast, und lege ihn zurück in seine Hände. Lass das Vertrauen beginnen, indem du das richtige Gewicht auf die richtigen Schultern zurücklegst."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lehre mich, wie ich anvertraue, nicht weniger Verantwortung trage, sondern höre auf, als wäre ich der Retter. Ich lege mein Kind, die Zukunft und die Dinge, die ich zu fest gegriffen habe, zurück in deine Hände. Lehre mich auch, während ich mein Kind liebe, meine Seele nicht außerhalb deiner Gegenwart zu lassen, denn ich bin nicht nur eine Rolle zu erfüllen, sondern eine Frau, die du immer noch zart siehst. Danke, dass du nicht von meiner Schwachheit abgestoßen wirst, sondern bereit bist, nahe zu kommen, mich zu stützen und weiter zu lehren. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Lutherbibel 1912",
+              "text": "Vertraue dem Herrn von ganzem Herzen..."
+            },
+            {
+              "display": "1. Petrus 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Lutherbibel 1912",
+              "text": "Alle eure Sorge werft auf ihn..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Die Geschichte meines Kindes wird nicht von mir allein geschrieben",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 127:3",
+            "book_code": "PSA",
+            "chapter": 127,
+            "verses": "3",
+            "translation": "Lutherbibel 1912",
+            "text": "Siehe, Kinder sind eine Gabe des Herrn..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Die Mutterschaft kann leise die Verantwortung in totale Verantwortung verwandeln.",
+            "Wenn dein Kind kämpft, fragst du dich vielleicht sofort, was du übersehen hast, was du früher hätte tun sollen, oder wie du es beheben kannst, bevor es etwas Größeres wird. Wenn sie ängstlich, zurückgezogen, zornig, hinter den Erwartungen, verletzt oder unsicher ist, bewegt sich das Herz einer Mutter oft schnell zur Selbstanklage. Wir lieben tief, also beobachten wir genau. Aber mit der Zeit kann die Liebe anfangen, mehr zu tragen, als sie tragen sollte. Wir beginnen so zu handeln, als hinge jedes Ergebnis von unserer Einsicht, unserer Beständigkeit, unserem Timing, unserer Kraft ab.",
+            "Die Schrift führt uns immer wieder an einen wahreren Ort zurück. Psalm 127 sagt, Kinder sind eine Gabe des Herrn. Eine Gabe ist nicht dasselbe wie ein privates Projekt. Jeremia 29 erinnert uns daran, dass Gott selbst die Gedanken kennt, die er gegen sein Volk hegt. Das schließt dein Kind ein. Du nimmst auf bedeutungsvolle Weise an ihrer Geschichte teil, aber du bist nicht ihr alleiniger Autor. Deine Gebete zählen. Deine tägliche Treue zählt. Dein Trost, deine Zurechtweisung und deine Sorge zählen. Aber nichts davon ersetzt die tiefere Wahrheit, dass Gott schon immer in das Leben deines Kindes hinein wirkte, jenseits von dem, was du sehen kannst.",
+            "Ich denke, dies ist einer der schwierigeren Wachstumspunkte in der Mutterschaft. Wir fürchten oft, dass das Lockerlassen unseres Griffs weniger Lieben bedeutet. Aber Vertrauen ist nicht Vernachlässigung. Es ist, sich daran zu erinnern, dass Gott dein Kind liebt ohne die Grenzen, die deine Mutterschaft prägen. Er bittet dich nicht, die ganze Geschichte zu schreiben. Er bittet dich, treu in deinem Teil zu gehen, während du ihm vertraust mit dem, was jenseits deiner Reichweite liegt.",
+            "**Treue Erziehung zählt, aber Gott bleibt der wahre Herr des Lebens deines Kindes.** Bring ihm heute den Teil der Geschichte deines Kindes, den du am stärksten festgreifst. Lass ihn dich daran erinnern, dass seine Hände sie schon immer tiefer gehalten haben als deine es je könnten."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du mir erlaubst, am Leben meines Kindes teilzuhaben, und danke, dass du mich erinnert, dass ich nicht der alleinige Autor dieser Geschichte bin. Während ich treu erziehe, vertiefe mein Vertrauen darin, dass deine Hand schon dort ist. Lehre mich, auch während ich mein Kind liebe, meine Seele nicht außerhalb deiner Gegenwart zu lassen, denn ich bin nicht nur eine Rolle zu erfüllen, sondern eine Frau, die du immer noch zart siehst. Danke, dass du nicht von meiner Schwachheit abgestoßen wirst, sondern bereit bist, nahe zu kommen, mich zu stützen und weiter zu lehren. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 127:3",
+              "book_code": "PSA",
+              "chapter": 127,
+              "verses": "3",
+              "translation": "Lutherbibel 1912",
+              "text": "Siehe, Kinder sind eine Gabe des Herrn..."
+            },
+            {
+              "display": "Jeremia 29:11",
+              "book_code": "JER",
+              "chapter": 29,
+              "verses": "11",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich kenne die Gedanken, die ich gegen euch denke..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Nach der Mutterschaft muss ich auch mich selbst wiederfinden",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 139:14",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "14",
+            "translation": "Lutherbibel 1912",
+            "text": "Ich danke dir dafür, dass ich wunderbar gemacht bin..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Einige Verluste passieren nicht dramatisch. Sie passieren leise, in wiederholter Handlung.",
+            "Du fütterst, antwortest, reinigst, planst, erinnerst, beruhigst, trägst, passt an und bleibst verfügbar. Du magst dein Kind immer noch tief lieben und sogar dankbar für diese Zeit sein, doch irgendwann merkst du, dass du aufgehört hast, eine einfache Frage zu stellen: Wie geht es mir? Nicht wie es dem Haus geht oder wie es dem Kind geht oder ob der Tag gut zusammenhielt. Wie geht es mir als Frau, als Person, als jemandem, den Gott immer noch mit Namen kennt? Was ist aus meinem inneren Leben geworden, meiner Freude, meiner Ruhe, meiner Stimme, meiner Nähe zu Gott?",
+            "Diese Art von Selbstverlust bedeutet nicht, dass du unloving oder geistlich unreif bist. Es bedeutet oft, dass die Rolle schwer, konstant und aufzehrend war für lange Zeit. Gott ehrt Mutterschaft wirklich, aber er hat deine Persönlichkeit nicht gelöscht, weil du eine Mutter wurdest. Psalm 139 spricht noch immer über dir. Jesaja 43 spricht noch immer über dir. Diese Worte waren nicht nur für die Frau, die du warst, bevor du Kinder bekamst. Sie sind für die Frau jetzt, vielleicht müde, vielleicht zerstreut, vielleicht unsicher, wo dein eigenes Selbst hin ist.",
+            "Das ist einer der zärtlicheren Orte, wo Reife wird. Reife bedeutet nicht zu so tun, als würdest du keine Sorge mehr brauchen. Es bedeutet zu lernen, deine Seele in das Gespräch zurückzubringen ohne Scham. Nicht weil du wichtiger bist als dein Kind, sondern weil Gott nie aufgehört hat, sich um dich zu kümmern, während du dich um alle anderen kümmertst. Manchmal ist das Heiligste, was eine Mutter tun kann, die Wahrheit über ihre eigene Erschöpfung zu sagen, bevor Taubheit zu tief einsetzt.",
+            "**Mutterschaft beendet nicht die Frage, wer du bist. Es macht diese Frage wichtiger zu beachten.** Frag heute sanft, welcher Teil von dir zu lange ohne Aufmerksamkeit gelebt hat. Ihn zurück zu Gott zu bringen ist nicht Egoismus. Es ist Ehrlichkeit."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, wenn ich mich in der Mutterschaft selbst verloren habe, bring mich zurück. Lass mich daran denken, dass ich, auch als Mutter, jemand bin, den du mit Namen kennst. Sammle die zerstreuten Teile von mir, die zu lange nur im Antwortzustand gelebt haben. Zeige mir, was in mir Ruhe, Aufmerksamkeit und Sanftheit braucht, und halte mich davon ab, diese Bedürfnis Egoismus zu nennen. Hilf mir, zu dir als ganze Person zurückzukehren, nicht nur als jemand, der alles für andere zusammenhält. Lehre mich, auch während ich mein Kind liebe, meine Seele nicht außerhalb deiner Gegenwart zu lassen, denn ich bin nicht nur eine Rolle zu erfüllen, sondern eine Frau, die du immer noch zart siehst. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 139:14",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "14",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich danke dir dafür, dass ich wunderbar gemacht bin..."
+            },
+            {
+              "display": "Jesaja 43:1",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich habe dich bei deinem Namen gerufen; du bist mein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Alltägliche Treue wird geistliches Vermächtnis",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "2. Timotheus 1:5",
+            "book_code": "2TI",
+            "chapter": 1,
+            "verses": "5",
+            "translation": "Lutherbibel 1912",
+            "text": "Ich gedenke des aufrichtigen Glaubens..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wir stellen uns das geistliche Vermächtnis oft als etwas Dramatisches vor. Wir stellen uns bedeutungsvolle Gespräche vor, schön getimte Weisheit, denkwürdige Familienandachten, oder die Art von Mutterschaft, die offensichtlich beeindruckend wirkt. Aber Kinder treffen den Glauben in der Regel viel früher und leiser. Sie treffen ihn in der gewöhnlichen Textur unseres Lebens.",
+            "Sie bemerken, wie wir den Tag beginnen, wie wir unter Druck reagieren, wie wir uns entschuldigen, nachdem wir scharf sprechen, wie wir beten, wenn wir nicht wissen, was wir tun sollen, wie wir Enttäuschung tragen, und ob wir immer wieder zu Gott zurückkehren in der Mitte der Unvollkommenheit. Das Bild der Schrift vom Vermächtnis ist oft versteckter und relationaler, als wir erwarten. Paulus spricht vom aufrichtigen Glauben, der zuerst in Timotheus' Großmutter und Mutter lebte. Diese Art Vermächtnis begann nicht auf einer Bühne. Es wurde in gewöhnlicher, wiederholter Treue geformt.",
+            "Das ist eine der tröstlicheren Wahrheiten für Mütter. Geistliches Vermächtnis wartet nicht, bis du fehlerfrei wirst. Es wächst, während du immer noch lernst. Dein Kind könnte ebenso sehr geprägt werden, indem es dich um Vergebung bitten sieht, wie von dir das Lehren über Gott zu hören. Sie könnte ebenso viel lernen, wenn sie sieht, wie du in Schwachheit auf Gott angewiesen bist, wie von dir zu hören, wie du ihn in Stärke beschreibst.",
+            "Ich denke, dies befreit uns von großem Druck. Nicht alle von uns werden große, polierte Beispiele hinterlassen. Aber viele von uns hinterlassen Spuren des Glaubens am Tisch, im Auto, beim Schlafengehen, in der Küche, in den Momenten nach schwierigen Gesprächen, in der Art, wie wir zu Gott zurückkehren, wenn wir müde und menschlich sind. Gott weiß, wie man das Gewöhnliche gebraucht.",
+            "**Kinder lernen von Gott nicht nur, was wir sagen, sondern wie wir uns auf ihn stützen.** Also unterschätze heute keine kleine Treue. Deine gewöhnliche Abhängigkeit könnte Teil des Vermächtnisses von jemand anderem werden."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, hilf mir, in einfachen Tagen treu zu sein. Lass mein Kind dich nicht nur in dem sehen, was ich lehre, sondern auch in dem, wie ich dir vertraue. Lehre mich, auch während ich mein Kind liebe, meine Seele nicht außerhalb deiner Gegenwart zu lassen, denn ich bin nicht nur eine Rolle zu erfüllen, sondern eine Frau, die du immer noch zart siehst. Danke, dass du nicht von meiner Schwachheit abgestoßen wirst, sondern bereit bist, nahe zu kommen, mich zu stützen und weiter zu lehren. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "2. Timotheus 1:5",
+              "book_code": "2TI",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich gedenke des aufrichtigen Glaubens..."
+            },
+            {
+              "display": "5. Mose 6:7",
+              "book_code": "DEU",
+              "chapter": 6,
+              "verses": "7",
+              "translation": "Lutherbibel 1912",
+              "text": "Und schärfe sie deinen Kindern ein..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Gott formt auch mich",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Römer 5:3-4",
+            "book_code": "ROM",
+            "chapter": 5,
+            "verses": "3-4",
+            "translation": "Lutherbibel 1912",
+            "text": "Trübsal bringt Geduld, Geduld bringt Bewährung, Bewährung bringt Hoffnung."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal sind wir so darauf konzentriert, was das Kind erlebt, dass wir vergessen, dass die Mutterschaft uns auch immer noch formt.",
+            "Sie bringt viele Dinge an die Oberfläche, die das gewöhnliche Leben verstecken kann. Du magst denken, dass du geduldig bist, bis du mehrere Tage nicht gut geschlafen hast; du magst denken, dass du bereits großartig in der Anvertrauung bist, bis dein Kind in einem Kampf gerät, den du völlig nicht kontrollieren kannst; du magst denken, dass du bereits reif genug bist, bis du entdeckst, dass du in Müdigkeit auch jähzornig, beleidigt und angespannt sein kannst. Mutterschaft hat eine ehrliche Kraft, sie bringt den wirklichen Zustand des Herzens ans Licht. Aber Gott tut das nicht, um uns zu beschämen. Er tut das, weil er formt.",
+            "Römer 5 sagt, dass Trübsal Geduld bringt, Geduld bringt Bewährung, und Bewährung bringt Hoffnung. Diese Wahrheit gehört nicht nur zu dramatischen Zeiten, sondern auch zu der langen, wiederholten, unbeachteten Belastung des alltäglichen Mutterdaseins. Gott benutzt Müdigkeit, Grenze, Warten und Liebe, um tiefe Bildung zu tun. Er zeigt uns, wo wir zerbrechlich sind, wo wir kontrollierend sind, wo wir unabhängig sind, wo wir Gnade brauchen. Und mit der Zeit, wenn wir ihm nahe bleiben, wächst er auch etwas Leiseres und Stärkeres in uns: Demut, Geduld, Zartheit, Ausdauer, Abhängigkeit.",
+            "Ich denke, diese Perspektive zählt, weil sie die Frage ändert. Statt nur zu fragen: Mache ich das gut genug? beginnen wir zu fragen: Was wächst Gott in mir durch diese Zeit? Diese Frage macht die Schwierigkeit nicht weniger, aber sie gibt der Schwierigkeit Richtung.",
+            "**In der Mutterschaft formt Gott nicht nur ein Kind. Er formt eine Frau.** Frag ihn heute, was diese Zeit offenbart, erweicht und stärkt in dir. Die Orte, die dir Unzulänglichkeit fühlen lassen, könnten genau die Orte sein, wo sein sanftes Werk bereits am Werk ist."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, hilf mir zu sehen, dass du in der Mutterschaft nicht nur mich benutzt, sondern auch mich formst. Lass mich nicht nur darauf konzentriert sein, was mein Kind wird, sondern bereit sein, mich auch in deinen Händen langsam zu bilden. Halte mich besonders dort, wo ich am meisten versucht bin, mich selbst zu verurteilen, mich zu überfordern und mich selbst aus den Augen zu verlieren. Lass mich nicht aus Anspannung heraus lieben, sondern lass mich neue Kraft aus deinem Erbarmen bekommen, damit mein Kind und ich unter deiner Obhut leben. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Römer 5:3-4",
+              "book_code": "ROM",
+              "chapter": 5,
+              "verses": "3-4",
+              "translation": "Lutherbibel 1912",
+              "text": "Trübsal bringt Geduld, Geduld bringt Bewährung, Bewährung bringt Hoffnung."
+            },
+            {
+              "display": "Philipper 1:6",
+              "book_code": "PHP",
+              "chapter": 1,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Der das gute Werk in euch angefangen hat, wird es auch vollbringen..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Vertrauen beendet Liebe nicht; es gibt der Liebe Ruhe",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Samuel 1:27-28",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "27-28",
+            "translation": "Lutherbibel 1912",
+            "text": "Um dieses Kind habe ich gebetet; und der Herr hat mir meine Bitte gewährt, die ich an ihn getan habe. Darum habe ich es auch dem Herrn übergeben..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Am Ende dieser sieben Tage verstehen wir vielleicht die schwierigste und sanfteste Wahrheit: Vertrauen bedeutet nicht, dass du weniger liebst. Es bedeutet, dass du aufhörst, allein zu lieben.",
+            "Die Liebe einer Mutter wird leicht zu einem angespannten Griff. Wir planen, antizipieren, schützen, beten, tragen, überwachen und bleiben mental wach, weil die Liebe Wache halten will. Aber wenn diese Achtsamkeit nie in Gott ausruht, beginnt sie die Frau, die sie trägt, zu erschöpfen. Selbst wenn nichts Dringendes passiert, könnten deine Gedanken vielleicht immer noch üben, was schief gehen könnte. Selbst wenn du sagst, dass du Gott vertraust, könnte dein Leib sich immer noch wie bereit für Auswirkungen anfühlen. Deshalb ist Vertrauen so tief wichtig. Nicht weil es Sorge reduziert, sondern weil es der Sorge einen Ort gibt, wo sie ruhen kann.",
+            "Hannas Opfer von Samuel war keine kalte Freigabe. Es war ein Akt der Liebe, der zurück in die Hände Gottes gelegt wurde. Psalm 55 sagt, deinen Kummer auf den Herrn zu werfen, und er wird dich erhalten. Mütter brauchen das Wort nicht nur für ihre Kinder, sondern auch für sich selbst. Wenn du nie erhalten wirst, beginnt deine Liebe sich in Spannung zu verhärten. Gott fragt dich nicht, aufzuhören zu sorgen. Er fragt dich, ihn das tragen zu lassen, was nie nur auf deinen Schultern allein bleiben sollte.",
+            "Ich denke, viele von uns lernen das langsam. Wir lieben immer noch. Wir bemerken immer noch. Wir beten immer noch. Wir arbeiten immer noch hart. Aber wir beginnen mit mehr Ehrlichkeit zu sagen: Herr, ich will nicht lieben, als hinge alles nur von mir ab.",
+            "**Vertrauen reduziert nicht die Liebe. Es gibt der Liebe einen Ort, wo sie in Gott ruhen kann.** Lege dein Kind, dich selbst und die Zukunft heute in seine Hände, und lass die Liebe, die du trägst, wieder atmen in seinem Halten."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich lege mein Kind in deine Hände, und ich lege mich als Mutter auch in deine Hände. Lass meine Liebe nicht länger nur durch mein eigenes Anspannen getragen werden, sondern lass sie in deiner Gegenwart Ruhe finden. Halte mich auch davor, dass äußere Ergebnisse mich schneller definieren als dein innerer Frieden es tut. Lass mich in meiner Arbeit treu sein und in meinem Geist wach. Danke, dass du nicht von meiner Schwachheit abgestoßen wirst, sondern bereit bist, nahe zu kommen, mich zu stützen und weiter zu lehren. Im Namen Jesu bete ich, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Samuel 1:27-28",
+              "book_code": "1SA",
+              "chapter": 1,
+              "verses": "27-28",
+              "translation": "Lutherbibel 1912",
+              "text": "Um dieses Kind habe ich gebetet; und der Herr hat mir meine Bitte gewährt, die ich an ihn getan habe. Darum habe ich es auch dem Herrn übergeben..."
+            },
+            {
+              "display": "Psalm 55:22",
+              "book_code": "PSA",
+              "chapter": 55,
+              "verses": "22",
+              "translation": "Lutherbibel 1912",
+              "text": "Wirf deine Sorge auf den Herrn; er wird dich erhalten..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG16",
+    "slug": "discovering-everyday-miracles",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "joy-gratitude",
+      "secondary_label": "Joie et Gratitude"
+    },
+    "tags": [
+      "joie",
+      "gratitude",
+      "emerveillement",
+      "louange",
+      "attention",
+      "reconnaissance"
+    ],
+    "title": "Découvrir les Miracles du Quotidien",
+    "subtitle": "Pour celle qui désire ressentir à nouveau la beauté dans la vie ordinaire et reconnaître la tendresse douce de Dieu.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "retrouvant la joie",
+        "reconnaissante",
+        "réflexive"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour celle qui désire ressentir à nouveau la beauté dans la vie ordinaire et reconnaître la tendresse douce de Dieu.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_morning_sunlight_garden_joy",
+      "icon": "small-flower-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psaume 103:1-5",
+        "book_code": "PSA",
+        "chapter": 103,
+        "verses": "1-5"
+      },
+      {
+        "display": "Jean 15:9-11",
+        "book_code": "JHN",
+        "chapter": 15,
+        "verses": "9-11"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "La Grâce est Souvent Plus Proche que je ne le Pense",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 103:1-5",
+            "book_code": "PSA",
+            "chapter": 103,
+            "verses": "1-5",
+            "translation": "Louis Segond 1910",
+            "text": "Mon âme, bénis l'Éternel! Que tout ce qui est en moi bénisse son saint nom! Mon âme, bénis l'Éternel, et n'oublie aucun de ses bienfaits! C'est lui qui pardonne tous tes péchés, qui guérit tous tes maux, qui délivre ta vie de la fosse, qui te couronne de bonté et de miséricorde, qui rassasie de biens ton existence, qui te rajeunit comme l'aigle."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Parfois, la grâce n'est pas devenue lointaine. C'est nous qui avons simplement cessé de la remarquer avec soin. Quand la vie devient pleine, notre attention se rétrécit. Nous regardons d'abord ce qui est inachevé, ce qui est incertain, et ce qui nécessite encore notre énergie. Avec le temps, le cœur peut devenir très habile à détecter ce qui manque et étrangement lent à reconnaître ce qui nous a été silencieusement donné.",
+            "Le Psaume 103 parle directement à cette condition. David dit à sa propre âme de ne pas oublier les bienveillances du Seigneur. Cela signifie que l'oubli fait partie de la vie humaine ordinaire. Nous oublions dans l'affairement, dans la monotonie, et sous la pression. Pendant ce temps, Dieu continue à soutenir, à protéger et à pourvoir d'une manière si ordinaire que cela peut nous échapper sans jamais devenir louange.",
+            "La grâce est souvent bien plus près que nous ne le pensons. Elle peut ressembler au souffle d'un autre jour, à une conversation qui vous a stabilisée, à un repas qui vous a nourrie, à un corps qui a tenu bon, à un moment de silence inattendu, ou au simple fait que vous avez été portée à travers quelque chose qui autrefois semblait trop lourd. **Beaucoup de cadeaux n'arrivent pas avec fracas. Ils sont assez proches pour être manqués par un cœur pressé.**",
+            "La joie commence souvent à revenir quand l'attention change. Non pas parce que chaque problème disparaît, mais parce que l'âme commence à se réveiller à nouveau à ce qui a déjà été placé dans ses mains. Une femme ne devient pas superficielle en remarquant de telles choses. Elle devient plus vivante à la grâce."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Notre Père dans le ciel, je commence par Te remercier pour ce souffle, cette lumière, et ce cœur qui peut encore se tourner vers Toi. Tu es un bon Dieu, et Ta bonté est souvent silencieuse, mais constante dans les jours ordinaires. Pardonne-moi de me précipiter en avant et de ne pas m'arrêter pour reconnaître Ta main. Réveille en moi les endroits émoussés. Enseigne-moi non seulement à remarquer ce qui manque, mais aussi à voir les cadeaux que Tu as déjà placés autour de moi. Que je vive aujourd'hui non seulement en accomplissant des tâches, mais en Te reconnaissant avec gratitude. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 103:1-5",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "1-5",
+              "translation": "Louis Segond 1910",
+              "text": "Mon âme, bénis l'Éternel! Que tout ce qui est en moi bénisse son saint nom! Mon âme, bénis l'Éternel, et n'oublie aucun de ses bienfaits! C'est lui qui pardonne tous tes péchés, qui guérit tous tes maux, qui délivre ta vie de la fosse, qui te couronne de bonté et de miséricorde, qui rassasie de biens ton existence, qui te rajeunit comme l'aigle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Même un Jour Ordinaire Peut Porter la Tendresse de Dieu",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Luc 24:28-32",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "28-32",
+            "translation": "Louis Segond 1910",
+            "text": "Lorsqu'ils approchèrent du village où ils allaient, il fit semblant d'aller plus loin. Mais ils le pressèrent, en disant: Reste avec nous. Et il entra pour rester avec eux. Pendant qu'il était à table avec eux, il prit le pain; et, après avoir rendu grâces, il le rompit, et le leur distribua. Alors leurs yeux s'ouvrirent, et ils le reconnurent; mais il avait disparu de devant eux. Et ils se dirent l'un à l'autre: Notre cœur ne brûlait-il pas au dedans de nous, lorsqu'il nous parlait en chemin?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens supposent que la présence de Dieu doit être dramatique pour être réelle. Nous imaginons que s'Il est vraiment présent, quelque chose d'évident doit se produire. Pourtant, l'Écriture montre souvent quelque chose de plus doux. Jésus n'est pas seulement reconnu dans les moments de gloire, mais dans les routes, les tables, les repas, les pauses, et les scènes humaines ordinaires. Les deux disciples sur la route d'Emmaüs marchent avec Lui avant de réaliser qui Il est. Leurs yeux s'ouvrent dans un simple acte de pain partagé.",
+            "Cette histoire semble profondément pertinente maintenant. Beaucoup de femmes se déplacent dans leurs journées en portant tellement de bruit mental que même quand la grâce est proche, elle peut rester inaperçue pendant un moment. Ce n'est pas toujours que Dieu est absent. C'est parfois que l'âme se meut trop vite pour remarquer. **Dieu place souvent Sa tendresse dans l'ordinaire, pas en dehors de lui.**",
+            "Jacques dit que tout bon don et tout don parfait vient d'en haut. Cela signifie que les biens doux de la vie ne doivent pas devenir dramatiques pour compter comme grâce. Une parole bienveillante, une conversation apaisée, un matin avec assez de force, la lumière du soleil à travers une fenêtre, un repas paisible, ou l'allègement tranquille de la tension peuvent tous porter les empreintes de Dieu.",
+            "L'émerveillement commence à revenir quand nous cessons d'exiger que la grâce n'arrive que sous des formes grandioses. Le jour ordinaire porte peut-être plus de tendresse que nous ne l'avions d'abord réalisé. Parfois, la joie commence là, dans la simple reconnaissance que Dieu a été plus bienveillant que le jour ne l'avait d'abord semblé."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, je Te remercie parce que Tu n'es pas aussi distant que je l'imagine parfois. Tu marches à côté des gens sur la route et Tu attends d'être reconnu même à la table. Je Te louange parce que Tu ne méprises pas l'ordinaire, et Tu ne traites pas un jour ordinaire comme petit. Rends mes yeux un peu plus clairs aujourd'hui. Ne laisse pas mon cœur rester agité et pressé en manquant le réconfort que Tu as déjà placé dans la journée. Si Tu parles par de petites choses, aide-moi à T'entendre. Si Tu me traites avec tendresse, aide-moi à le chérir. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Luc 24:28-32",
+              "book_code": "LUK",
+              "chapter": 24,
+              "verses": "28-32",
+              "translation": "Louis Segond 1910",
+              "text": "Lorsqu'ils approchèrent du village où ils allaient, il fit semblant d'aller plus loin. Mais ils le pressèrent, en disant: Reste avec nous. Et il entra pour rester avec eux. Pendant qu'il était à table avec eux, il prit le pain; et, après avoir rendu grâces, il le rompit, et le leur distribua. Alors leurs yeux s'ouvrirent, et ils le reconnurent; mais il avait disparu de devant eux. Et ils se dirent l'un à l'autre: Notre cœur ne brûlait-il pas au dedans de nous, lorsqu'il nous parlait en chemin?"
+            },
+            {
+              "display": "Jacques 1:17",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "17",
+              "translation": "Louis Segond 1910",
+              "text": "Toute grâce excellente et tout don parfait viennent d'en haut, du Père des lumières."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Quand je Recommence à Remarquer, la Joie Revient avec Elle",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jean 15:9-11",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "9-11",
+            "translation": "Louis Segond 1910",
+            "text": "Comme le Père m'a aimé, je vous ai aussi aimés. Demeurez dans mon amour... Je vous ai dit ces choses, afin que ma joie demeure en vous, et que votre joie soit parfaite."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens pensent que la joie ne compte que si elle semble forte. Si elle n'est pas dramatique, émotionnelle, ou évidente, ils supposent qu'elle n'est pas vraiment là. Mais Jésus parle de Sa joie demeurant en nous. C'est une phrase douce. Il ne propose pas une explosion d'enthousiasme. Il parle de quelque chose qui peut vivre dans le cœur.",
+            "Cela aide à expliquer pourquoi la joie spirituelle est souvent plus tranquille que nous ne l'attendons. Elle peut apparaître comme un matin plus léger, un intérêt renouvelé pour la petite beauté, un doux retour du rire, ou la simple réalisation que la vie n'a plus l'air aussi grise qu'il y a une semaine. **La joie n'arrive pas toujours comme du bruit. Elle revient souvent en se réveillant lentement.**",
+            "Jean 15 lie la joie au fait de demeurer dans l'amour du Christ. Cela signifie que la joie n'est pas principalement fabriquée par l'émotion. Elle grandit de la relation. Quand une femme commence à vivre à nouveau de l'assurance qu'elle est aimée, accompagnée, et soutenue, la joie commence à revenir de manière petite mais profondément réelle.",
+            "La belle chose est que cette joie change la qualité de la vie avant de changer chaque circonstance. Elle rend à l'âme son élasticité. Elle fait place à la joie. Elle restaure la capacité à répondre à la vie avec plus que du devoir. Ce genre de joie n'est pas superficiel. C'est l'un des signes que le cœur revient à la vie en Dieu."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur Jésus, Tu sais qu'il y a des moments où je veux ressentir à nouveau la joie mais ne sais pas comment y revenir. Merci de ne pas m'exiger de devenir brillante avant de recevoir ce que Tu donnes. Tu es la source de la joie, et Tu ramènes l'eau dans les places sèches. Garde-moi dans Ton amour et détourne-moi de chercher en dehors de moi la lumière. S'il y a encore des places sombres, fatiguées, ou engourdies en moi, touche-les Toi-même. Remets cette joie tranquille mais réelle dans mon cœur, afin que je me souvienne que la vie n'est pas seulement le devoir, mais peut aussi contenir de la gladitude. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jean 15:9-11",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "9-11",
+              "translation": "Louis Segond 1910",
+              "text": "Comme le Père m'a aimé, je vous ai aussi aimés. Demeurez dans mon amour... Je vous ai dit ces choses, afin que ma joie demeure en vous, et que votre joie soit parfaite."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

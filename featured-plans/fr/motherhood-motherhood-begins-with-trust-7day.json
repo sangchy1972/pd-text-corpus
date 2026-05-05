@@ -1,0 +1,508 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI12",
+    "slug": "motherhood-begins-with-trust",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rôles et Identité",
+      "secondary": "motherhood",
+      "secondary_label": "Maternité"
+    },
+    "tags": [
+      "maternite",
+      "education",
+      "confiance",
+      "perfectionnisme",
+      "grace",
+      "repos"
+    ],
+    "title": "La maternité commence par la confiance",
+    "subtitle": "Apprendre à confier ses enfants, ses peurs et soi-même à Dieu",
+    "audience": {
+      "life_stage": [
+        "mères",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "lasse",
+        "aimante",
+        "confiante"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces sept jours vous font traverser plus profondément le contrôle, l'inquiétude, le sacrifice et la perte d'identité dans la maternité, en enseignant le travail lent de la confiance.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#C8E0CC",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_mother_morning_window_quiet",
+      "icon": "cradle-and-leaves-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Ésaïe 41:10",
+        "book_code": "ISA",
+        "chapter": 41,
+        "verses": "10"
+      },
+      {
+        "display": "1 Samuel 1:27-28",
+        "book_code": "1SA",
+        "chapter": 1,
+        "verses": "27-28"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Plus nous aimons profondément, plus nous craignons facilement",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ésaïe 41:10",
+            "book_code": "ISA",
+            "chapter": 41,
+            "verses": "10",
+            "translation": "Louis Segond 1910",
+            "text": "Ne crains point, car je suis avec toi..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Une grande part des peurs d'une mère ne vient pas de la faiblesse, mais de l'amour profond.",
+            "À partir du moment où un enfant devient précieux pour nous, le cœur développe de nouvelles façons de trembler. Nous craignons la maladie, la peine de cœur, les mauvaises influences, la solitude, les faux pas, nos propres limites, et tout ce que nous ne pouvons pas prévoir ni empêcher. L'amour nous rend tendre, et la tendresse nous rend vulnérables. Beaucoup de mères ne manquent pas de confiance en Dieu; elles portent le genre de crainte qui surgit partout où l'amour court profondément.",
+            "Mais lorsque cette crainte n'est jamais apportée à Dieu, elle grandit rarement seule. Elle se transforme en hypervigilance, en contrôle, en répétition mentale, et en un corps qui ne peut plus se reposer même quand la journée est tranquille. Le Psaume 56 dit: « Dans la crainte, je mets en toi ma confiance. » Ésaïe 41 dit: « Ne crains point, car je suis avec toi. » Dieu ne condamne pas la crainte maternelle. Il l'invite en Sa présence pour que la crainte ne soit pas le seul langage par lequel l'amour sait comment prendre soin.",
+            "Beaucoup d'entre nous savons ce que c'est que de paraître fonctionnel extérieurement tandis qu'intérieurement on est tendu. L'enfant peut aller bien en ce moment, pourtant le cœur de la mère prépare déjà chaque perte possible. La croissance ne signifie pas toujours devenir instantanément sans peur. Parfois cela signifie apprendre à ne pas traiter la peur seul. Nous commençons à dire plus honnêtement: Seigneur, c'est ce dont j'ai peur. J'ai peur pour elle, et j'ai peur de combien peu je contrôle.",
+            "**La crainte dans la maternité doit être apportée à la présence de Dieu, non laissée seule pour grandir.** Nommez aujourd'hui une peur et placez-la devant Lui. N'ayez pas hâte de paraître forte. Soyez simplement réelle. Dieu comprend comment une mère aime et comment une mère tremble."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je t'apporte les peurs les plus profondes que je porte en tant que mère. Ne les laisse pas grandir indéfiniment dans mon cœur. Apaise-les en Ta présence. Soutiens-moi particulièrement aux endroits où je suis la plus tentée par la culpabilité, l'épuisement et la perte de moi-même. Que je continue à aimer non par une tension constante, mais en recevant une force nouvelle de Ta miséricorde, afin que mon enfant et moi vivions sous Ton soin. Merci de ne pas repousser ma faiblesse, mais de vouloir venir près, me soutenir et continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ésaïe 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Ne crains point, car je suis avec toi..."
+            },
+            {
+              "display": "Psaume 56:4",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "En Dieu je mets ma confiance, je n'aurai pas de crainte..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "La confiance n'est pas l'abandon; c'est redonner à Dieu Sa place",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Louis Segond 1910",
+            "text": "Confie-toi en l'Éternel de tout ton cœur..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certaines mères ont du mal à confier leurs enfants à Dieu non pas parce qu'elles aiment trop peu, mais parce qu'elles se soucient si intensément.",
+            "Nous ressentons le poids de la responsabilité. Nous savons combien facilement un enfant peut être blessé. Nous voyons combien de choses comptent. Alors le cœur commence à supposer qu'une prise plus ferme signifie une meilleure attention. Si nous surveillons plus, planifions davantage, intervenons davantage, expliquons davantage, peut-être pouvons-nous garder les choses plus sûres. La responsabilité elle-même n'est pas le problème. Mais la responsabilité peut tranquillement se durcir en contrôle lorsque nous commençons à agir comme si tout dépendait de la fermeté de notre prise.",
+            "Les Proverbes nous disent de faire confiance au Seigneur de tout notre cœur et de ne pas nous appuyer seulement sur notre propre intelligence. Première Pierre nous dit de jeter tous nos soucis sur Lui parce qu'Il prend soin de nous. Confier n'est pas s'éloigner de la maternité. C'est remettre l'ordre de la réalité à sa place. Je continue à aimer, réagir, guider, protéger et rester attentive. Mais j'arrête d'essayer d'occuper la place de Dieu. Je me souviens que mon rôle est la fidélité, non le contrôle souverain.",
+            "C'est l'un des points de croissance plus humiliants dans la maternité. Nous confondons souvent étreindre fortement avec aimer. Mais une partie de notre tension vient du fait d'oublier que nous n'avons jamais été censés être le gardien final d'une autre vie humaine. La véritable reddition restaure les proportions. Elle remet Dieu à Sa juste place et libère la mère de l'essai d'être plus qu'une mère.",
+            "**Confier votre enfant à Dieu ne signifie pas aimer moins. C'est reconnaître que Dieu tient plus sûrement que vous ne le pouvez.** Choisissez aujourd'hui un domaine où vous avez essayé le plus fortement de contrôler et replacez-le entre Ses mains. Laissez la confiance commencer en restaurant le poids juste aux bonnes épaules."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, enseigne-moi comment confier sans me retirer de la responsabilité. Garde-moi de vivre comme si j'étais le sauveur. Je place mon enfant, l'avenir, et les lieux où j'ai trop serré les mains en Ta présence. Enseigne-moi, même en aimant mon enfant, à ne pas laisser ma propre âme en dehors de Ta présence, car je ne suis pas seulement un rôle à remplir, mais une femme que Tu vois encore tendrement. Merci de ne pas repousser ma faiblesse, mais de vouloir venir près, me soutenir et continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Louis Segond 1910",
+              "text": "Confie-toi en l'Éternel de tout ton cœur..."
+            },
+            {
+              "display": "1 Pierre 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Louis Segond 1910",
+              "text": "Déposez soin de toute votre inquiétude auprès de lui, car lui-même prend soin de vous."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "L'histoire de mon enfant n'est pas écrite par moi seule",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 127:3",
+            "book_code": "PSA",
+            "chapter": 127,
+            "verses": "3",
+            "translation": "Louis Segond 1910",
+            "text": "Voici, des enfants sont un don de l'Éternel, une récompense, c'est un fruit du sein..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La maternité peut tranquillement transformer la responsabilité en responsabilité totale.",
+            "Quand votre enfant est en difficulté, vous pouvez immédiatement vous demander ce que vous avez manqué, ce que vous auriez dû faire plus tôt, ou comment vous pouvez le réparer avant que cela ne devienne quelque chose de plus grand. Si elle est anxieuse, repliée sur elle-même, en colère, en retard, blessée ou incertaine, le cœur d'une mère se tourne souvent rapidement vers l'auto-accusation. Nous aimons profondément, alors nous observons attentivement. Mais au fil du temps, l'amour peut commencer à porter plus qu'il ne devrait. Nous commençons à agir comme si chaque résultat dépendait de nos intuitions, notre constance, notre timing, notre force.",
+            "L'Écriture nous ramène continuellement à un endroit plus vrai. Le Psaume 127 dit que les enfants sont un héritage du Seigneur. Un héritage n'est pas la même chose qu'un projet privé. Jérémie 29 nous rappelle que Dieu Lui-même connaît les pensées qu'Il pense envers Son peuple. Cela inclut votre enfant. Vous participez de manière significative à son histoire, mais vous n'en êtes pas le seul auteur. Vos prières comptent. Votre fidélité quotidienne compte. Votre confort, correction et soin comptent. Mais aucune de ces choses ne remplace la vérité plus profonde que Dieu a toujours œuvré dans la vie de votre enfant au-delà de ce que vous pouvez voir.",
+            "Je pense que c'est l'un des points de croissance plus difficiles dans la maternité. Nous avons souvent peur que relâcher notre prise signifie aimer moins. Mais confier n'est pas négligence. C'est se souvenir que Dieu aime votre enfant sans les limites qui façonnent votre maternité. Il ne vous demande pas d'écrire l'histoire entière. Il vous demande de marcher fidèlement dans votre part en Lui faisant confiance pour ce qui dépasse vos capacités.",
+            "**La parenté fidèle compte, mais Dieu reste le vrai Seigneur de la vie de votre enfant.** Apportez-Lui aujourd'hui la part de l'histoire de votre enfant que vous serrez le plus fortement. Laissez-Le vous rappeler que Ses mains l'ont toujours tenue plus profondément que les vôtres ne le pourraient jamais."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de me laisser participer à la vie de mon enfant, et merci de me rappeler que je ne suis pas le seul auteur de cette histoire. Tandis que je suis une mère fidèle, approfondis ma confiance que Ta main est déjà là. Enseigne-moi, même en aimant mon enfant, à ne pas laisser ma propre âme en dehors de Ta présence, car je ne suis pas seulement un rôle à remplir, mais une femme que Tu vois encore tendrement. Merci de ne pas repousser ma faiblesse, mais de vouloir venir près, me soutenir et continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 127:3",
+              "book_code": "PSA",
+              "chapter": 127,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "Voici, des enfants sont un don de l'Éternel, une récompense, c'est un fruit du sein..."
+            },
+            {
+              "display": "Jérémie 29:11",
+              "book_code": "JER",
+              "chapter": 29,
+              "verses": "11",
+              "translation": "Louis Segond 1910",
+              "text": "Car je connais les pensées que j'ai formées sur vous, dit l'Éternel, pensées de paix et non de malheur..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Après être devenue mère, j'ai aussi besoin de me retrouver moi-même",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 139:14",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "14",
+            "translation": "Louis Segond 1910",
+            "text": "Je te loue de ce que j'ai été merveilleusement créé..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certaines pertes ne se produisent pas dramatiquement. Elles se produisent tranquillement, à l'intérieur de la répétition.",
+            "Vous continuez à nourrir, réagir, nettoyer, planifier, vous souvenir, apaiser, porter, ajuster et rester disponible. Vous pouvez toujours aimer profondément votre enfant et même ressentir de la gratitude pour cette saison, pourtant quelque part en chemin vous remarquez que vous avez arrêté de poser une question simple: comment vais-je? Pas comment va la maison, ou comment va l'enfant, ou si la journée s'est bien déroulée. Comment je vais, moi, en tant que femme, en tant que personne, en tant que quelqu'un que Dieu connaît encore par son nom? Qu'est devenu ma vie intérieure, ma joie, mon repos, ma voix, ma proximité avec Dieu?",
+            "Ce genre de perte de soi ne signifie pas que vous êtes peu aimante ou spirituellement immature. Cela signifie souvent que le rôle a été lourd, constant et consommant pendant longtemps. Dieu honore vraiment la maternité, mais Il n'a pas effacé votre personnalité parce que vous êtes devenue mère. Le Psaume 139 parle toujours de vous. Ésaïe 43 parle toujours de vous. Ces paroles n'étaient pas seulement pour la femme que vous étiez avant les enfants. Elles le sont pour la femme que vous êtes maintenant, peut-être fatiguée, peut-être dispersée, peut-être incertaine où votre propre soi a disparu.",
+            "C'est un lieu où la croissance devient particulièrement tendre. La maturité n'est pas prétendre que vous n'avez plus besoin de soin. C'est apprendre à ramener votre propre âme dans la conversation sans honte. Non pas parce que vous comptez plus que votre enfant, mais parce que Dieu n'a jamais cessé de s'occuper de vous tandis que vous preniez soin de tout le monde d'autre. Parfois la chose la plus sainte qu'une mère peut faire est de dire la vérité sur son propre épuisement avant que l'engourdissement ne s'installe trop profondément.",
+            "**La maternité n'éteint pas la question de qui vous êtes. Elle rend cette question plus importante à cultiver.** Demandez doucement aujourd'hui quelle part de vous est allée trop longtemps sans attention. Ramener cette part à Dieu n'est pas de l'égoïsme. C'est l'honnêteté."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, si j'ai lentement perdu de vue moi-même dans la maternité, ramène-moi. Rappelle-moi que même comme une mère, je reste quelqu'un que Tu connais par le nom. Rassemble les parties dispersées de moi qui ont vécu trop longtemps seulement en mode réactif. Montre-moi ce en moi qui a besoin de repos, d'attention et de douceur, et garde-moi de l'appeler égoïsme. Enseigne-moi, même en aimant mon enfant, à ne pas laisser ma propre âme en dehors de Ta présence, car je ne suis pas seulement un rôle à remplir, mais une femme que Tu vois encore tendrement. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 139:14",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "14",
+              "translation": "Louis Segond 1910",
+              "text": "Je te loue de ce que j'ai été merveilleusement créé..."
+            },
+            {
+              "display": "Ésaïe 43:1",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "1",
+              "translation": "Louis Segond 1910",
+              "text": "Je t'ai appelé par ton nom; tu es à moi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "L'accompagnement dans les jours ordinaires devient un héritage spirituel",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "2 Timothée 1:5",
+            "book_code": "2TI",
+            "chapter": 1,
+            "verses": "5",
+            "translation": "Louis Segond 1910",
+            "text": "Je me souviens de la foi sincère qui t'anime..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Nous imaginons souvent l'héritage spirituel comme quelque chose de dramatique. Nous envisageons des conversations significatives, une sagesse magnifiquement chronométrée, des dévotions familiales mémorables, ou une maternité qui se sent clairement impressionnante. Mais les enfants rencontrent généralement la foi beaucoup plus tôt et plus tranquillement que cela. Ils la rencontrent dans la texture ordinaire de nos vies.",
+            "Ils remarquent comment nous commençons la journée, comment nous réagissons sous la pression, comment nous nous excusons après avoir parlé durement, comment nous prions quand nous ne savons pas quoi faire, comment nous portons la déception, et si nous continuons à revenir à Dieu au milieu de l'imperfection. L'image biblique de l'héritage est souvent plus cachée et relationnelle que nous l'attendons. Paul parle de la foi sincère qui a d'abord habité la grand-mère et la mère de Timothée. Ce genre d'héritage n'a pas commencé sur une scène. Il s'est formé dans la fidélité ordinaire et répétée.",
+            "C'est l'une des vérités plus réconfortantes pour les mères. L'héritage spirituel n'attend pas que vous deveniez parfaite. Il grandit tandis que vous apprenez encore. Votre enfant peut être façonnée autant en vous entendant demander le pardon qu'en vous écoutant enseigner. Elle peut apprendre autant en vous regardant dépendre de Dieu dans la faiblesse qu'en vous écoutant Le décrire dans la force.",
+            "Je pense que cela nous sauve de beaucoup de pression. Nous ne laisserons pas tous un grand exemple poli. Mais beaucoup d'entre nous laissons des traces de foi à la table, dans la voiture, à l'heure du coucher, à la cuisine, dans les moments après les conversations difficiles, dans la manière dont nous nous tournons vers Dieu quand nous sommes fatiguées et humaines. Dieu sait comment utiliser l'ordinaire.",
+            "**Les enfants apprennent à connaître Dieu non seulement par ce que nous disons, mais par la manière dont nous nous appuyons sur Lui.** Ne rejetez donc pas la fidélité ordinaire aujourd'hui. Votre dépendance ordinaire peut devenir une partie de l'héritage de quelqu'un d'autre."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, aide-moi à rester fidèle aux jours ordinaires. Que mon enfant me voie non seulement dans ce que j'enseigne, mais aussi dans comment je dépends de Toi. Enseigne-moi, même en aimant mon enfant, à ne pas laisser ma propre âme en dehors de Ta présence, car je ne suis pas seulement un rôle à remplir, mais une femme que Tu vois encore tendrement. Merci de ne pas repousser ma faiblesse, mais de vouloir venir près, me soutenir et continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "2 Timothée 1:5",
+              "book_code": "2TI",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "Louis Segond 1910",
+              "text": "Je me souviens de la foi sincère qui t'anime..."
+            },
+            {
+              "display": "Deutéronome 6:7",
+              "book_code": "DEU",
+              "chapter": 6,
+              "verses": "7",
+              "translation": "Louis Segond 1910",
+              "text": "Tu les inculqueras à tes enfants..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Dieu ne travaille pas seulement sur mon enfant, Il travaille aussi sur moi",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Romains 5:3-4",
+            "book_code": "ROM",
+            "chapter": 5,
+            "verses": "3-4",
+            "translation": "Louis Segond 1910",
+            "text": "Bien plus, nous nous glorifions dans les tribulations, sachant que la tribulation produit la persévérance, la persévérance la victoire dans l'épreuve, et cette victoire l'espérance."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Parfois, nous restons tellement concentrés sur ce que la maternité fait à l'enfant que nous oublions qu'elle a toujours aussi nous remodeler.",
+            "Ce rôle a un moyen de révéler ce que la vie ordinaire peut tenir caché. Vous pouvez penser que vous êtes patient jusqu'à ce que vous manquiez de sommeil pendant trop longtemps. Vous pouvez penser que vous faites confiance à Dieu jusqu'à ce que votre enfant entre dans une lutte que vous ne pouvez pas contrôler. Vous pouvez supposer que vous êtes émotionnellement stable jusqu'à ce que l'épuisement rend vos limites impossibles à ignorer. La maternité expose des choses. Mais Dieu ne les expose pas pour nous humilier. Il les expose parce qu'Il nous façonne.",
+            "Les Romains 5 disent que la souffrance produit la persévérance, la persévérance produit l'expérience, et l'expérience produit l'espérance. Cette vérité appartient non seulement aux saisons dramatiques, mais aussi à la longue tension répétitive et inobservée de la maternité ordinaire. Dieu utilise la fatigue, la limitation, l'attente et l'amour pour effectuer une formation profonde. Il nous montre où nous sommes fragiles, où nous contrôlons, où nous sommes autosuffisants, où nous avons besoin de grâce. Et avec le temps, si nous restons près de Lui, Il grandit aussi quelque chose de plus tranquille et plus fort en nous: l'humilité, la patience, la tendresse, l'endurance, la dépendance.",
+            "Je pense que cette perspective compte parce qu'elle change la question. Au lieu de simplement nous demander, Est-ce que je fais cela assez bien?, nous commençons à demander, Qu'est-ce que Dieu grandit en moi à travers cela? Cette question ne supprime pas la difficulté, mais elle lui donne une direction.",
+            "**Dans la maternité, Dieu ne grandit pas seulement un enfant. Il façonne une femme.** Demandez-Lui aujourd'hui ce que cette saison révèle, assouplit et renforce en vous. Les lieux qui vous rendent sentir inadéquate peuvent être exactement les lieux où Son travail doux est déjà en cours."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, aide-moi à voir que dans la maternité Tu ne m'utilises pas seulement, mais Tu me façonnes aussi. Que je me concentre non seulement sur ce que mon enfant devient, mais aussi sur ce que Tu me formes à devenir. Soutiens-moi particulièrement aux endroits où je suis la plus tentée par la culpabilité, l'épuisement et la perte de moi-même. Que je continue à aimer non par une tension constante, mais en recevant une force nouvelle de Ta miséricorde, afin que mon enfant et moi vivions sous Ton soin. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Romains 5:3-4",
+              "book_code": "ROM",
+              "chapter": 5,
+              "verses": "3-4",
+              "translation": "Louis Segond 1910",
+              "text": "Bien plus, nous nous glorifions dans les tribulations, sachant que la tribulation produit la persévérance, la persévérance la victoire dans l'épreuve, et cette victoire l'espérance."
+            },
+            {
+              "display": "Philippiens 1:6",
+              "book_code": "PHP",
+              "chapter": 1,
+              "verses": "6",
+              "translation": "Louis Segond 1910",
+              "text": "Je suis persuadé que celui qui a commencé en vous cette bonne œuvre la poursuivra jusqu'à son terme au jour de Jésus-Christ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "Confier n'éteint pas l'amour; cela donne l'amour du repos",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "1 Samuel 1:27-28",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "27-28",
+            "translation": "Louis Segond 1910",
+            "text": "C'est pour cet enfant que j'ai prié; et l'Éternel m'a accordé ce que je lui demandais. À mon tour, je le voue à l'Éternel..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "À la fin de cette semaine, peut-être la vérité la plus difficile est-elle aussi la plus douce: confier ne signifie pas que vous aimez moins. Cela signifie que vous cessez d'aimer seul.",
+            "L'amour d'une mère se transforme facilement en une prise serrée. Nous planifions, anticipons, protégeons, prions, portons, surveillons et restons alertes mentalement parce que l'amour veut garder la montre. Mais quand cette vigilance ne repose jamais en Dieu, elle commence à épuiser la femme qui la porte. Même quand rien d'urgent ne se passe, votre esprit peut continuer à répéter ce qui pourrait mal tourner. Même quand vous dites que vous faites confiance à Dieu, votre corps peut toujours se sentir en alerte. C'est pourquoi confier compte si profondément. Non pas parce que cela réduit le soin, mais parce que cela donne un endroit où le soin peut se reposer.",
+            "L'offrande de Samuel par Hannah n'était pas une libération froide. C'était un acte d'amour remis entre les mains de Dieu. Le Psaume 55 dit de jeter ton fardeau sur le Seigneur, et Il te soutendra. Les mères ont besoin de cette parole non seulement pour leurs enfants, mais aussi pour elles-mêmes. Si vous ne sont jamais soutenues, votre amour commence à se durcir en tension. Dieu ne vous demande pas d'arrêter de prendre soin. Il vous demande de Le laisser porter ce qui n'a jamais été censé rester sur vos seules épaules.",
+            "Je pense que beaucoup d'entre nous apprenons cela lentement. Nous aimons toujours. Nous remarquons toujours. Nous prions toujours. Nous travaillons toujours dur. Mais nous commençons à dire avec plus d'honnêteté: Seigneur, je ne veux plus aimer comme si tout dépendait seulement de moi.",
+            "**Confier ne réduit pas l'amour. Cela donne à l'amour une place où se reposer en Dieu.** Placez votre enfant, vous-même et l'avenir dans Ses mains aujourd'hui, et laissez l'amour que vous portez respirer à nouveau sous Sa garde."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je place mon enfant entre Tes mains, et je me place aussi moi-même comme mère entre Tes mains. Que mon amour ne soit plus quelque chose que je porte seul par la tension, mais quelque chose qui trouve du repos en Ta présence. Garde-moi de ce que les résultats externes définissent plus rapidement que Ta paix ne le fasse. Rends-moi fidèle dans mon travail et vigilante dans mon esprit. Merci de ne pas repousser ma faiblesse, mais de vouloir venir près, me soutenir et continuer à m'enseigner. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "1 Samuel 1:27-28",
+              "book_code": "1SA",
+              "chapter": 1,
+              "verses": "27-28",
+              "translation": "Louis Segond 1910",
+              "text": "C'est pour cet enfant que j'ai prié; et l'Éternel m'a accordé ce que je lui demandais. À mon tour, je le voue à l'Éternel..."
+            },
+            {
+              "display": "Psaume 55:23",
+              "book_code": "PSA",
+              "chapter": 55,
+              "verses": "22",
+              "translation": "Louis Segond 1910",
+              "text": "Remets ton sort à l'Éternel, et il te soutendra..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

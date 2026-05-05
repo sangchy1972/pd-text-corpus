@@ -1,0 +1,237 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG16",
+    "slug": "discovering-everyday-miracles",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardim das Emoções",
+      "secondary": "joy-gratitude",
+      "secondary_label": "Alegria e Gratidão"
+    },
+    "tags": [
+      "alegria",
+      "gratidao",
+      "maravilha",
+      "louvor",
+      "atencao",
+      "agradecimento"
+    ],
+    "title": "Descobrindo Milagres do Dia a Dia",
+    "subtitle": "Para quem deseja sentir beleza novamente na vida ordinária e reconhecer a proximidade delicada de Deus.",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "redescobrindo a alegria",
+        "grata",
+        "reflexiva"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para quem deseja sentir beleza novamente na vida ordinária e reconhecer a proximidade delicada de Deus.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_morning_sunlight_garden_joy",
+      "icon": "small-flower-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 103:1-5",
+        "book_code": "PSA",
+        "chapter": 103,
+        "verses": "1-5"
+      },
+      {
+        "display": "João 15:9-11",
+        "book_code": "JHN",
+        "chapter": 15,
+        "verses": "9-11"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "A Graça é Frequentemente Mais Próxima do que Penso",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 103:1-5",
+            "book_code": "PSA",
+            "chapter": 103,
+            "verses": "1-5",
+            "translation": "Almeida",
+            "text": "Bendize, ó minha alma, ao Senhor, e tudo o que há em mim bendiga o seu santo nome. Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum dos seus benefícios. Ele é quem te perdoa todas as tuas culpas, quem te cura de todas as tuas enfermidades. Ele é quem redime a tua vida da perdição, quem te coroa de graça e de misericórdia. Ele é quem satisfaz a tua boca de bens, de modo que a tua mocidade se renova como a da águia."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Às vezes, a graça não se afastou. Simplesmente paramos de notá-la bem. Quando a vida fica cheia, nossa atenção se estreita. Olhamos primeiro para o que está inacabado, o que é incerto, e o que ainda precisa de nossa energia. Com o tempo, o coração pode ficar muito hábil em reconhecer o que falta e estranhamente lento em reconhecer o que foi silenciosamente dado.",
+            "O Salmo 103 fala diretamente sobre essa condição. Davi diz à sua própria alma para não esquecer os benefícios do Senhor. Isso significa que o esquecimento faz parte da vida humana ordinária. Esquecemos na ocupação, na rotina e na pressão. Enquanto isso, Deus continua a sustentar, proteger e prover de maneiras tão ordinárias que podem passar por nós sem nunca se tornarem louvor.",
+            "A graça é frequentemente muito mais próxima do que pensamos. Pode parecer o fôlego de mais um dia, uma conversa que o acalmou, uma refeição que o sustentou, um corpo que resistiu, um momento de silêncio inesperado, ou o simples fato de você ter atravessado algo que um dia pareceu peso demais. **Muitos dons não chegam dramaticamente. Eles ficam tão perto que um coração apressado pode deixá-los passar.**",
+            "A alegria frequentemente começa a retornar quando a atenção muda. Não porque cada problema desaparece, mas porque a alma começa a despertar novamente para o que já foi colocado em suas mãos. Uma mulher não se torna superficial ao notar tais coisas. Ela se torna mais viva para a graça."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai nosso no céu, começo agradecendo-Te por este fôlego, esta luz e este coração que ainda pode se voltar para Ti. Tu és um Deus bom, e Tua bondade é frequentemente quieta, mas constante nos dias ordinários. Perdoa-me por correr adiante e deixar de parar e reconhecer Tua mão. Desperta os lugares entorpecidos em mim novamente. Ensina-me não apenas a notar o que falta, mas também a ver os dons que já colocaste ao meu redor. Que eu viva hoje não meramente completando tarefas, mas reconhecendo-Te com gratidão. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 103:1-5",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "1-5",
+              "translation": "Almeida",
+              "text": "Bendize, ó minha alma, ao Senhor, e tudo o que há em mim bendiga o seu santo nome. Bendize, ó minha alma, ao Senhor, e não te esqueças de nenhum dos seus benefícios. Ele é quem te perdoa todas as tuas culpas, quem te cura de todas as tuas enfermidades. Ele é quem redime a tua vida da perdição, quem te coroa de graça e de misericórdia. Ele é quem satisfaz a tua boca de bens, de modo que a tua mocidade se renova como a da águia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Um Dia Ordinário Também Pode Levar a Ternura de Deus",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Lucas 24:28-32",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "28-32",
+            "translation": "Almeida",
+            "text": "Chegaram perto da aldeia para a qual iam; e Jesus fez de conta que ia mais adiante. Porém eles o constrangeram, dizendo: Fica conosco... E aconteceu que, estando à mesa com eles, tomou o pão, e abençoou-o, e o partiu, e lho deu. Abriram-se-lhes os olhos, e o reconheceram... E diziam um ao outro: Porventura não ardia em nós o nosso coração quando ele nos falava no caminho?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas pessoas assumem que a proximidade de Deus deve ser dramática para ser real. Imaginamos que se Ele está verdadeiramente presente, algo óbvio deveria acontecer. Porém a Escritura frequentemente mostra algo mais delicado. Jesus não é apenas reconhecido em momentos de glória, mas em caminhos, mesas, refeições, pausas e cenas humanas ordinárias. Os dois discípulos na estrada de Emaús caminham com Ele antes de perceberem quem Ele é. Seus olhos se abrem em um simples ato de pão compartilhado.",
+            "Essa história é profundamente relevante agora. Muitas mulheres se movem por seus dias carregando muito ruído mental que, mesmo quando a graça está próxima, pode permanecer desconhecida por um tempo. Nem sempre é que Deus está ausente. Às vezes é que a alma se move muito rapidamente para notar. **Deus frequentemente coloca sua ternura dentro do ordinário, não fora dele.**",
+            "Tiago diz que cada bom e perfeito dom vem do alto. Isso significa que os bens suaves da vida não precisam se tornar dramáticos para contar como graça. Uma palavra gentil, uma conversa tranquila, uma manhã com força suficiente, luz do sol através de uma janela, uma refeição pacífica ou o repouso silencioso da tensão podem todos levar as marcas de Deus.",
+            "A maravilha começa a retornar quando paramos de exigir que a graça chegue apenas em formas grandiosas. O dia ordinário pode estar carregando mais ternura do que percebemos à primeira vista. Às vezes a alegria começa ali, no simples reconhecimento de que Deus foi mais gentil do que o dia parecia."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, agradece-Te porque não és tão distante como às vezes imagino. Caminhas ao lado das pessoas no caminho e esperas ser reconhecido até à mesa. Louvo-Te porque não desprezas o ordinário, e não tratas um dia ordinário como pequeno. Torna meus olhos um pouco mais claros hoje. Não deixe meu coração ficar inquieto e apressado enquanto perde o conforto que já colocaste dentro do dia. Se estás falando através de coisas pequenas, ajuda-me a ouvir-Te. Se estás cuidando de mim com ternura, ajuda-me a apreciá-lo. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Lucas 24:28-32",
+              "book_code": "LUK",
+              "chapter": 24,
+              "verses": "28-32",
+              "translation": "Almeida",
+              "text": "Chegaram perto da aldeia para a qual iam; e Jesus fez de conta que ia mais adiante. Porém eles o constrangeram, dizendo: Fica conosco... E aconteceu que, estando à mesa com eles, tomou o pão, e abençoou-o, e o partiu, e lho deu. Abriram-se-lhes os olhos, e o reconheceram... E diziam um ao outro: Porventura não ardia em nós o nosso coração quando ele nos falava no caminho?"
+            },
+            {
+              "display": "Tiago 1:17",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "17",
+              "translation": "Almeida",
+              "text": "Toda a boa dádiva e todo o dom perfeito vêm do alto, descendo do Pai das luzes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Quando Começo a Notar Novamente, a Alegria Retorna com Isso",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "João 15:9-11",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "9-11",
+            "translation": "Almeida",
+            "text": "Como o Pai me amou, também eu vos amei a vós; permanecei no meu amor... Tenho-vos dito isto, para que a minha alegria permaneça em vós, e a vossa alegria seja completa."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas pessoas pensam que a alegria só conta quando é intensa. Se não é dramática, emocional ou óbvia, elas assumem que não está realmente ali. Mas Jesus fala de Sua alegria permanecendo em nós. Essa é uma frase delicada. Ele não está oferecendo um acesso de entusiasmo. Ele está falando de algo que pode viver no coração.",
+            "Isso ajuda a explicar por que a alegria espiritual é frequentemente mais quieta do que esperamos. Pode aparecer como uma manhã mais leve, um renovado interesse em pequenas belezas, um suave retorno do riso, ou a simples percepção de que a vida não parece mais cinzenta como na semana passada. **A alegria não chega sempre como barulho. Frequentemente retorna despertando lentamente.**",
+            "João 15 une a alegria a permanecer no amor de Cristo. Isso significa que a alegria não é principalmente fabricada através da emoção. Ela nasce da relação. Quando uma mulher começa a viver novamente da certeza de que é amada, acompanhada e sustentada, a alegria começa a retornar de maneiras que são pequenas mas profundamente reais.",
+            "A coisa bonita é que essa alegria muda a qualidade da vida antes de mudar todas as circunstâncias. Ela dá elasticidade à alma novamente. Ela abre espaço para a delícia. Ela restaura a capacidade de responder à vida com mais do que dever. Esse tipo de alegria não é superficial. É um dos sinais de que o coração está voltando à vida em Deus."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, Tu sabes que há momentos em que desejo sentir alegria novamente mas não sei como retornar a ela. Obrigado porque não exiges que eu me torne brilhante antes de receber o que dás. Tu és a fonte da alegria, e tens água para lugares secos. Mantém-me em Teu amor e afasta-me de procurar fora de mim mesma a luz. Se há ainda lugares escuros, cansados ou entorpecidos em mim, toca-os Tu mesmo. Coloca essa alegria quieta mas real de volta no meu coração, para que eu lembre que a vida não é apenas dever, mas também pode conter alegria. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "João 15:9-11",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "9-11",
+              "translation": "Almeida",
+              "text": "Como o Pai me amou, também eu vos amei a vós; permanecei no meu amor... Tenho-vos dito isto, para que a minha alegria permaneça em vós, e a vossa alegria seja completa."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

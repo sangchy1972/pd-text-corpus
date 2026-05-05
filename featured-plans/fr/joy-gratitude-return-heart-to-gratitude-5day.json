@@ -1,0 +1,345 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG17",
+    "slug": "return-heart-to-gratitude",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "joy-gratitude",
+      "secondary_label": "Joie et Gratitude"
+    },
+    "tags": [
+      "joie",
+      "gratitude",
+      "emerveillement",
+      "louange",
+      "attention",
+      "reconnaissance"
+    ],
+    "title": "Remettre le Cœur à la Gratitude",
+    "subtitle": "Pour la femme qui a vécu si rapidement, si pleinement, si intensément que la gratitude ne vient plus facilement.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "retrouvant la joie",
+        "reconnaissante",
+        "réflexive"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour la femme qui a vécu si rapidement, si pleinement, si intensément que la gratitude ne vient plus facilement.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#F4D88A",
+      "color_secondary": "#7A8C3A",
+      "image_key": "cover_woman_morning_sunlight_garden_joy",
+      "icon": "small-flower-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psaume 103:1-5",
+        "book_code": "PSA",
+        "chapter": 103,
+        "verses": "1-5"
+      },
+      {
+        "display": "2 Corinthiens 9:8-11",
+        "book_code": "2CO",
+        "chapter": 9,
+        "verses": "8-11"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "La Gratitude Commence Toujours par Remarquer",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 103:1-5",
+            "book_code": "PSA",
+            "chapter": 103,
+            "verses": "1-5",
+            "translation": "Louis Segond 1910",
+            "text": "Mon âme, bénis l'Éternel ! Seigneur, mon Dieu, tu es infiniment grand ! Tu es revêtu d'éclat et de majesté. L'Éternel prend pitié de ceux qui le craignent, Et il manifeste sa tendresse à ceux qui l'aiment. Il est comme le père qui a de la compassion pour ses enfants. Oublie pas que l'Éternel pardonne toutes tes iniquités, Qu'il guérit toutes tes maladies, Qu'il retire ta vie de la fosse, Qu'il te couronne de bonté et de miséricorde, Qu'il rassasie de biens ta bouche, En sorte que ta jeunesse se renouvelle comme celle de l'aigle."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La gratitude commence rarement par une soudaine clarté émotionnelle. Le plus souvent, elle commence par remarquer. Remarquer la lumière du matin, une parole douce, un repas, un corps qui a tenu bon, une chose difficile qui n'est pas devenue aussi lourde qu'elle aurait pu l'être. Une vie pressée devient facilement une vie qui reçoit beaucoup mais enregistre peu.",
+            "Le Psaume 103 est frappant car David parle à sa propre âme et lui dit de ne pas oublier. La gratitude, donc, n'est pas simplement un sentiment qui apparaît de lui-même. C'est une façon de voir qui a besoin d'être retrouvée. **Un cœur reconnaissant commence généralement par être un cœur attentif.**",
+            "C'est pourquoi la joie revient parfois avant que les circonstances ne changent beaucoup. Le même jour peut sembler différent lorsque l'âme fait à nouveau attention. Ce qui hier semblait ordinaire peut aujourd'hui commencer à briller un peu. Non parce que la vie est devenue magnifique, mais parce que la grâce est devenue visible.",
+            "C'est là le commencement tranquille de la gratitude. Il ne demande pas une histoire dramatique. Il commence simplement à remarquer que Dieu a été plus bon, plus près et plus généreux que le cœur ne l'avait d'abord réalisé."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père miséricordieux, je te remercie de n'être jamais un Dieu avare. Tu places la grâce dans ma vie petit à petit, tantôt comme provision, tantôt comme réconfort, et tantôt simplement comme force pour continuer. Tu es digne de louange car ton soin est à la fois aimant et attentif. Enseigne-moi à devenir une personne attentive. Ne laisse pas la hâte rendre mon cœur grossier. Que je voie ta bonté aujourd'hui, que je voie ce que j'ai déjà reçu, et que la gratitude commence à grandir en moi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 103:1-5",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "1-5",
+              "translation": "Louis Segond 1910",
+              "text": "Mon âme, bénis l'Éternel ! Seigneur, mon Dieu, tu es infiniment grand ! Tu es revêtu d'éclat et de majesté. L'Éternel prend pitié de ceux qui le craignent, Et il manifeste sa tendresse à ceux qui l'aiment. Il est comme le père qui a de la compassion pour ses enfants. Oublie pas que l'Éternel pardonne toutes tes iniquités, Qu'il guérit toutes tes maladies, Qu'il retire ta vie de la fosse, Qu'il te couronne de bonté et de miséricorde, Qu'il rassasie de biens ta bouche, En sorte que ta jeunesse se renouvelle comme celle de l'aigle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "La Gratitude Exprimée Illumine le Cœur",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Luc 17:15-19",
+            "book_code": "LUK",
+            "chapter": 17,
+            "verses": "15-19",
+            "translation": "Louis Segond 1910",
+            "text": "L'un d'eux, voyant qu'il était guéri, revint sur ses pas, glorifiant Dieu à haute voix. Il se jeta face contre terre aux pieds de Jésus, et lui rendit grâces. C'était un Samaritain. Jésus dit : N'y en a-t-il pas dix qui aient été guéris ? Où sont les neuf ? N'y a-t-il eu que cet étranger qui soit revenu pour rendre gloire à Dieu ? Puis il dit au malade : Lève-toi, va ; ta foi t'a sauvé."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Nous pensons parfois qu'une appréciation silencieuse suffit. Mais le lépreux reconnaissant en Luc 17 montre quelque chose de plus. Dix sont guéris, mais un seul revient. Sa gratitude devient visible et audible. Il ne se contente pas de se sentir reconnaissant. Il revient et le dit.",
+            "Cela importe parce que la gratitude exprimée fait quelque chose au cœur. Ce qui s'envolait devient reçu. Ce qui restait vague devient nommé. **La gratitude nous change quand elle est exprimée, pas seulement quand elle est ressentie en silence.**",
+            "Quand les remerciements sont énoncés, la gentillesse ordinaire devient plus solide. La grâce laisse une marque plus profonde. Le cœur devient moins insensible aux bonnes choses parce qu'il a commencé à les reconnaître à haute voix. Cela est vrai non seulement avec Dieu, mais aussi avec les gens. Les relations s'animent souvent quand la gratitude devient spécifique et audible.",
+            "La gratitude exprimée n'est pas une simple politesse. C'est l'une des façons dont l'âme reste éveillée. Elle empêche l'émerveillement de s'envoler trop vite. Elle aide le cœur à retenir le bien avant que la hâte ne l'emporte."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je t'apporte ces lèvres souvent silencieuses. Tu m'as donné beaucoup, et pourtant j'ai souvent reçu vite et remercié lentement. Merci de rester patient avec moi et de m'accueillir encore, comme celui qui est revenu. Tu es digne de louange. Tu n'as pas besoin de paroles parfaites de moi ; tu trouves de la joie dans un cœur honnête. Enseigne-moi à parler, non pour sembler spirituelle, mais parce que je sais vraiment que la grâce vient de toi. Que un simple « merci » revive en moi aujourd'hui. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Luc 17:15-19",
+              "book_code": "LUK",
+              "chapter": 17,
+              "verses": "15-19",
+              "translation": "Louis Segond 1910",
+              "text": "L'un d'eux, voyant qu'il était guéri, revint sur ses pas, glorifiant Dieu à haute voix. Il se jeta face contre terre aux pieds de Jésus, et lui rendit grâces. C'était un Samaritain. Jésus dit : N'y en a-t-il pas dix qui aient été guéris ? Où sont les neuf ? N'y a-t-il eu que cet étranger qui soit revenu pour rendre gloire à Dieu ? Puis il dit au malade : Lève-toi, va ; ta foi t'a sauvé."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "La Gratitude Adoucit le Cœur",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Colossiens 3:15-17",
+            "book_code": "COL",
+            "chapter": 3,
+            "verses": "15-17",
+            "translation": "Louis Segond 1910",
+            "text": "Et que la paix de Christ, à laquelle vous avez été appelés pour former un seul corps, règne dans vos cœurs. Et soyez reconnaissants. Que la parole de Christ habite parmi vous abondamment ; instruisez-vous et exhortez-vous les uns les autres en toute sagesse, par des psaumes, par des hymnes, par des cantiques spirituels, chantant à Dieu dans vos cœurs avec reconnaissance. Et quoi que vous fassiez, en parole ou en œuvre, faites tout au nom du Seigneur Jésus, en rendant grâces par lui à Dieu le Père."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Une vie sous responsabilité constante peut durcir le cœur. Non intentionnellement, mais graduellement. Une femme peut continuer à fonctionner, à aimer, à gérer, et remarquer que quelque chose à l'intérieur s'est durci. L'irritation monte plus vite. L'émerveillement vient moins facilement. La gratitude commence à sembler mince.",
+            "Colossiens lie la reconnaissance avec la paix du Christ régnant sur le cœur. C'est une belle connexion. La gratitude n'est pas une vertu décorative. Elle façonne le climat intérieur d'une personne. **Un cœur reconnaissant devient souvent un cœur plus doux.**",
+            "Cela ne se produit pas parce que la gratitude ignore ce qui est difficile. Cela se produit parce que la gratitude empêche la difficulté d'être la seule force qui façonne l'âme. Elle laisse de la place à la tendresse. Elle garde le cœur de ne pas être gouverné entièrement par la tension, la demande et la critique.",
+            "Avec le temps, la gratitude change la façon dont nous tenons les gens et même la façon dont nous nous tenons nous-mêmes. Elle rend l'appréciation plus naturelle, la dureté moins nécessaire, et l'amour moins mécanique. En ce sens, la gratitude n'est pas seulement une réponse. Elle est une formation."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, tu sais que je ne deviens pas dure intentionnellement. Parfois la vie dure si longtemps que le cœur se resserre sans que je ne m'en aperçoive. Merci de ne pas être fatigué de moi dans cet état, mais de vouloir m'assouplir à nouveau avec la paix et la grâce. Tu es un Dieu doux ; tu ne brises pas ce qui est meurtri. Plante de nouveau la gratitude en moi, et laisse-la adoucir les endroits que la pression a raidis. Garde-moi aussi de laisser la hâte me voler la capacité de sentir l'amour et la beauté. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Colossiens 3:15-17",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "15-17",
+              "translation": "Louis Segond 1910",
+              "text": "Et que la paix de Christ, à laquelle vous avez été appelés pour former un seul corps, règne dans vos cœurs. Et soyez reconnaissants. Que la parole de Christ habite parmi vous abondamment ; instruisez-vous et exhortez-vous les uns les autres en toute sagesse, par des psaumes, par des hymnes, par des cantiques spirituels, chantant à Dieu dans vos cœurs avec reconnaissance. Et quoi que vous fassiez, en parole ou en œuvre, faites tout au nom du Seigneur Jésus, en rendant grâces par lui à Dieu le Père."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "La Joie Grandit dans la Reconnaissance",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Philippiens 4:4-7",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "4-7",
+            "translation": "Louis Segond 1910",
+            "text": "Réjouissez-vous toujours dans le Seigneur ; je le répète, réjouissez-vous. Que votre douceur soit connue de tous les hommes. Le Seigneur est proche. Ne vous inquiétez de rien ; mais en toute chose faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâces. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-Christ."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens pensent à la joie comme imprévisible, quelque chose qui n'apparaît que quand la vie est facile ou l'humeur claire. Pourtant Philippiens 4 place la joie, la prière, la reconnaissance et la paix très proches l'une de l'autre. Cela suggère que la joie n'est pas entièrement aléatoire. Elle est façonnée par ce vers quoi le cœur se tourne.",
+            "Quand la gratitude devient partie de la vie d'une femme, la joie grandit souvent plus régulièrement. Elle ne dépend plus seulement de si les circonstances sont agréables. Elle commence à s'enraciner dans la relation avec Dieu. **La joie peut ne pas toujours arriver avec intensité, mais elle grandit souvent dans le sol de la reconnaissance.**",
+            "Cela explique pourquoi certaines des personnes les plus joyeuses ne sont pas les moins chargées. Elles ont connu la peine, la pression et l'incertitude. Mais elles n'ont pas laissé ces choses devenir la seule atmosphère du cœur. Elles rendent toujours grâces. Elles remarquent toujours la grâce. Et la joie, tranquillement, continue d'y grandir.",
+            "Ce n'est pas un déni émotionnel. C'est une cultivation spirituelle. La gratitude entraîne le cœur à continuer de se tourner vers le Donateur, et en ce tournant, la joie commence à s'enfoncer plus profondément en dedans."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, que mon cœur devienne tranquille devant toi aujourd'hui. Tu es le Dieu de la paix et le Seigneur qui donne la joie. Merci de ne pas me forcer à feindre le bonheur, mais d'être disposé à cultiver la joie même dans la petite gratitude honnête. Sauve-moi du sentiment que rien n'est jamais assez, et ne laisse pas l'inquiétude occuper chaque recoin de moi. Si je viens devant toi aujourd'hui avec seulement un peu de foi, reçois même cela, car tu n'as jamais méprisé de petits commencements. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Philippiens 4:4-7",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "4-7",
+              "translation": "Louis Segond 1910",
+              "text": "Réjouissez-vous toujours dans le Seigneur ; je le répète, réjouissez-vous. Que votre douceur soit connue de tous les hommes. Le Seigneur est proche. Ne vous inquiétez de rien ; mais en toute chose faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâces. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-Christ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Les Gens Bénis Deviennent une Bénédiction",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "2 Corinthiens 9:8-11",
+            "book_code": "2CO",
+            "chapter": 9,
+            "verses": "8-11",
+            "translation": "Louis Segond 1910",
+            "text": "Et Dieu peut vous combler de toutes sortes de grâces, afin que, possédant toujours en toutes choses de quoi satisfaire à tous vos besoins, vous ayez encore en abondance pour toute bonne œuvre. Selon qu'il est écrit : Il a distribué, il a donné aux pauvres ; Sa justice subsiste à jamais. Celui qui fournit de la semence au semeur, et du pain pour sa nourriture, vous fournira et augmentera votre provision de semence, et il multipliera les fruits de votre justice. Vous serez enrichis de toutes manières pour une générosité qui produira en vous l'action de grâces envers Dieu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La gratitude, à son apogée, ne s'arrête pas au confort personnel. Elle devient générosité. Deuxièmement Corinthiens dit que Dieu pourvoit à la grâce en abondance pour que son peuple abonde en bonnes œuvres. La bénédiction n'est pas seulement quelque chose que nous recevons. Elle devient souvent quelque chose que nous transmettons.",
+            "Un cœur reconnaissant est rarement avare. Il devient plus prêt à encourager, à remarquer la bonté chez les autres, et à parler de vie plus librement. **La vraie gratitude illumine le cœur, mais elle élargit aussi l'âme.** Elle rend une femme plus capable de bénir.",
+            "Le Psaume 126 montre le même mouvement. La bonté de Dieu devient joie, et la joie devient témoignage. La grâce n'a jamais été destinée à rester enfermée dans l'expérience privée. Elle se déplace souvent vers l'extérieur par la gentillesse ordinaire, les paroles plus chaleureuses, l'amour patient, ou une main plus ouverte.",
+            "Une vie bénie n'est pas celle qui hoarde ce qu'elle a reçu. C'est celle qui laisse la grâce continuer à circuler. Même la petite générosité peut devenir témoignage quand elle émane de la gratitude."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père généreux, merci que la grâce que tu donnes n'est rarement que juste assez. Souvent tu donnes plus, pour que la chaleur continue de circuler à travers une vie. Tu es le Dieu qui bénit, et tu trouves de la joie quand l'amour continue par les mains humaines. Garde-moi de transformer la gratitude en auto-satisfaction, et ne laisse pas la grâce rester enfermée en moi. Si tu le veux, donne-moi un cœur ouvert aujourd'hui, afin que ce que j'ai reçu puisse tranquillement devenir réconfort et bénédiction pour quelqu'un d'autre. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "2 Corinthiens 9:8-11",
+              "book_code": "2CO",
+              "chapter": 9,
+              "verses": "8-11",
+              "translation": "Louis Segond 1910",
+              "text": "Et Dieu peut vous combler de toutes sortes de grâces, afin que, possédant toujours en toutes choses de quoi satisfaire à tous vos besoins, vous ayez encore en abondance pour toute bonne œuvre. Selon qu'il est écrit : Il a distribué, il a donné aux pauvres ; Sa justice subsiste à jamais. Celui qui fournit de la semence au semeur, et du pain pour sa nourriture, vous fournira et augmentera votre provision de semence, et il multipliera les fruits de votre justice. Vous serez enrichis de toutes manières pour une générosité qui produira en vous l'action de grâces envers Dieu."
+            },
+            {
+              "display": "Psaume 126:2-3",
+              "book_code": "PSA",
+              "chapter": 126,
+              "verses": "2-3",
+              "translation": "Louis Segond 1910",
+              "text": "Notre bouche était remplie de rire, et notre langue de chants de joie. On disait parmi les nations : L'Éternel a fait de grandes choses pour eux. L'Éternel a fait de grandes choses pour nous, et nous en sommes dans la joie."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

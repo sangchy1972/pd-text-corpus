@@ -1,0 +1,384 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI11",
+    "slug": "not-perfect-still-good-mom",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "motherhood",
+      "secondary_label": "Mutterschaft"
+    },
+    "tags": [
+      "mutterschaft",
+      "erziehung",
+      "vertrauen",
+      "perfektionismus",
+      "gnade",
+      "ruhe"
+    ],
+    "title": "Nicht vollkommen, doch eine gute Mutter",
+    "subtitle": "Die Schuld loslassen und aus einem erfüllteren Ort lieben",
+    "audience": {
+      "life_stage": [
+        "Mütter",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "müde",
+        "liebevoll",
+        "vertrauend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese fünf Tage helfen dir zu vertrauen, dass du dein Kind gut lieben kannst, auch ohne eine perfekte Mutter zu sein.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#C8E0CC",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_mother_morning_window_quiet",
+      "icon": "cradle-and-leaves-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Galater 6:4",
+        "book_code": "GAL",
+        "chapter": 6,
+        "verses": "4"
+      },
+      {
+        "display": "2. Timotheus 1:5",
+        "book_code": "2TI",
+        "chapter": 1,
+        "verses": "5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Vergleich schnürt dem Herzen einer Mutter",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Galater 6:4",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "4",
+            "translation": "Lutherbibel 1912",
+            "text": "Ein jeglicher versuche sein eigen Werk, alsdann wird er Ruhm bei sich selber haben und nicht gegen einen andern."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Der Vergleich in der Mutterschaft versteckt sich oft hinter der Sprache des Lernens.",
+            "Wir vergleichen Kinder, Routinen, Geduld, Energie, Disziplin, die geistliche Atmosphäre und das Gleichgewicht. Am Anfang scheint es harmlos. Wir beobachten nur, sammeln Ideen, bemerken, was funktioniert. Doch irgendwann wird die Beobachtung zur Selbstmessung. Ihr Zuhause sieht ruhiger aus. Ihr Kind wirkt leichter. Ihr Ton klingt sanfter. Sie wirkt organisierter, ausgeruhter, auf natürliche Weise mütterlicher. Und langsam beginnt das Herz, die sichtbaren Stärken einer anderen Frau in private Beweise gegen sich selbst umzuwandeln.",
+            "Galater ruft uns dazu auf, unser eigenes Leben vor Gott zu prüfen. Das zählt, weil jedes Kind, jedes Zuhause, jede Jahreszeit und jede Mutter einen anderen Rhythmus trägt. Das, was du vergleichst, ist oft deine ungefilterte Realität gegen den sichtbarsten Moment von jemand anderem. Vergleich macht nicht einfach, dass wir eine andere Frau bewundern. Er schnürt die Seele zu, bis wir vergessen, wie Gott tatsächlich in unserem eigenen Haus wirkt.",
+            "Ich denke, viele Mütter brauchen Rettung von diesem Zuschnüren. Nicht weil Wachstum unwichtig ist, sondern weil Wachstum, das in Scham wurzelt, selten gute Früchte trägt. Gott fragt dich nicht, eine Kopie der Mutterschaft einer anderen Frau zu werden. Er begegnet dir in deinem wirklichen Kind, deinen wirklichen Grenzen, deinem wirklichen Zuhause und deinem wirklichen Bedarf nach Gnade.",
+            "Er ist nicht zu spät für dein echtes Leben. Die Mutterschaft, die er in dir formt, darf ehrlich, unvollkommen und tief von Gnade abhängig sein.",
+            "**Die sichtbare Leichtigkeit einer anderen Mutter bedeutet nicht, dass du versagst.** Bitte Gott heute, deine Augen auf dein eigenes Zuhause und auf die echten Wege, auf denen du dort liebst, zurückzubringen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ziehe mein Herz aus dem Vergleich. Hilf mir, nicht länger das Leben anderer Mütter als Beweis gegen mich selbst zu nutzen. Hilf mir zu sehen, wie du in meinem Zuhause und in meinem Kind durch eine unvollkommene Mutter wirkst, die wirklich liebt. Erleuchte auch die Vergleiche und Verletzungen, die ich lieber verstecken würde, damit ich mich nicht länger durch Unterdrückung selbst beherrsche, sondern Ehrlichkeit und Reinigung vor dir lerne. Danke, dass du dich meiner Schwäche nicht abwendest, sondern bereit bist, näher zu kommen, mich zu stützen und mir weiterhin beizubringen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Galater 6:4",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "4",
+              "translation": "Lutherbibel 1912",
+              "text": "Ein jeglicher versuche sein eigen Werk, alsdann wird er Ruhm bei sich selber haben und nicht gegen einen andern."
+            },
+            {
+              "display": "Psalm 23:1",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Ein Psalm Davids. Der HERR ist mein Hirte, mir wird nichts mangeln."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Meine Grenzen zerstören mein Kind nicht automatisch",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 127:3",
+            "book_code": "PSA",
+            "chapter": 127,
+            "verses": "3",
+            "translation": "Lutherbibel 1912",
+            "text": "Siehe, Kinder sind eine Gabe des HERRN, und Leibesfrucht ist sein Geschenk."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Mütter tragen eine tiefe Furcht, dass ihre Grenzen ihre Kinder beschädigen werden.",
+            "Diese Furcht kann uns antreiben, anspannen und in Panik versetzen, wenn wir zu kurz kommen. Wir sorgen uns, dass eine müde Reaktion, ein emotionaler Ausbruch, eine Jahreszeit der Erschöpfung oder eine unweise Entscheidung eine zu große Wunde hinterlassen wird. Liebe will natürlicherweise schützen. Aber mütterliche Furcht geht oft weiter und nimmt leise an: Wenn mein Kind verletzt ist, muss ich am tiefsten Punkt versagt haben.",
+            "Psalm 127 erinnert uns daran, dass Kinder zuerst dem Herrn gehören. Das löscht nicht die Ernsthaftigkeit der Mutterschaft aus, stellt aber die Proportion wieder her. Gott gab deinem Kind nicht nur eine Mutter. Er gab deinem Kind auch seine eigene Sorge. Wir sind zum Gehorsam, zur Reue, zum Lernen und zur Liebe gerufen, aber nicht zur Allwissenheit. Wenn wir versuchen, als Mutter zu wirken, als müssten wir in jeder Weise ausreichend sein, tragen wir ein Gewicht, das Gott uns nie zu tragen geboten hat.",
+            "Das bedeutet nicht, dass dein Einfluss bedeutungslos ist. Es weigert sich nur, dich zu einem Retter zu machen. Das Leben deines Kindes wird durch mehr als deine besten Momente und mehr als deine schlechtesten geprägt. Gottes Erbarmen, Schutz, Züchtigung und Vorsehung sind auch am Werk. Der wirkliche Glaube in der Mutterschaft beginnt oft, wenn wir zugeben, dass unsere Grenzen real sind, und Gottes Sorge noch größer ist.",
+            "**Eine Mutter ist dazu berufen, treu zu sein, nicht Gott zu spielen.** Wenn du befürchtet hast, dass deine Schwäche dein Kind zunichte machen wird, bitte Gott, dich daran zu erinnern, dass seine Hände stärker als deine sind und seine Gegenwart in deinem Kind tiefer ist als deine Furcht."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, befreie mich von der Furcht, dass ich, wenn ich nicht alles richtig mache, mein Kind ruiniere. Lehre mich Treue und lehre mich Hingabe. Danke, dass du mein Kind mehr liebst als ich, und dass deine Sorge stärker ist als meine. Lehre mich, auch während ich mein Kind liebe, meine eigene Seele nicht außerhalb deiner Gegenwart zu verlassen, denn ich bin nicht nur eine Rolle, die ich erfüllen soll, sondern eine Frau, die du immer noch zärtlich siehst. Danke, dass du dich meiner Schwäche nicht abwendest, sondern bereit bist, näher zu kommen, mich zu stützen und mir weiterhin beizubringen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 127:3",
+              "book_code": "PSA",
+              "chapter": 127,
+              "verses": "3",
+              "translation": "Lutherbibel 1912",
+              "text": "Siehe, Kinder sind eine Gabe des HERRN, und Leibesfrucht ist sein Geschenk."
+            },
+            {
+              "display": "Sprüche 3:5",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Vertrau auf den HERRN von ganzem Herzen und verlass dich nicht auf deinen Verstand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Erschöpfung ist kein Versagen; sie könnte ein Signal sein",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Markus 6:31",
+            "book_code": "MRK",
+            "chapter": 6,
+            "verses": "31",
+            "translation": "Lutherbibel 1912",
+            "text": "Und er sprach zu ihnen: Kommet her an einen wüsten Ort für euch allein und ruhet ein wenig. Denn ihrer waren viele, die kamen und gingen, und sie hatten nicht einmal Zeit, zu essen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Die Mutterschaft kann Erschöpfung so normal wirken lassen, dass man sie übersieht.",
+            "Kinder warten nicht, bis du dich erholt hast, um dich zu brauchen. Das Zuhause macht nicht automatisch eine Pause, weil dein inneres Leben sich verdünnt. Viele Mütter lernen, Müdigkeit wie Hintergrundgeräusche zu behandeln. Reizbarkeit, Gefühllosigkeit, Tränen knapp unter der Oberfläche, geistige Nebel, Groll und emotionale Flachheit werden alle in den Satz gepackt: Das ist eben Mutterschaft. Aber wenn dein Körper, deine Gefühle und deine Seele immer wieder Erschöpfung anzeigen, sollte das nicht immer mit nur noch ein bisschen durchhalten beantwortet werden.",
+            "Jesus lud seine Jünger ein, abzutreten und zu ruhen. Psalm 23 zeigt einen Hirten, der nicht nur leitet, sondern auch wiederherstellt. Müdigkeit kann eine der Wege sein, auf denen Gott uns sagt, dass wir keine Maschinen sind und dass Erschöpfung kein Zeichen der Heiligkeit ist. Manchmal ist Erschöpfung nicht der Beweis dafür, dass du unloving bist. Es ist der Beweis dafür, dass du für sehr lange Zeit ausgegossen hast, ohne genug Ergänzung.",
+            "Viele Mütter brauchen eine neue Erlaubnis hier. Die Fähigkeit zu weiterzumachen ist nicht immer das Gleiche wie der Aufruf weiterzumachen. Reife ist kein konstantes Überschreiten. Es ist das Erlernen, kreatürliche Grenzen als Teil des treuen Lebens vor Gott zu ehren.",
+            "Sorge zu empfangen, schwächt die Mutterschaft nicht ab. Es verhindert oft, dass die Mutterschaft zu stiller Selbstauslöschung wird.",
+            "**Erschöpfung bedeutet nicht, dass du schlecht liebst. Manchmal bedeutet es, dass du für lange Zeit ausgegossen hast.** Sei heute ehrlich über deine Müdigkeit. Lass sie zu einem Gebet werden, anstatt sie weiterhin abzulehnen. Gott kann dich sanfter begegnen, sobald du aufhörst, vorzutäuschen, dass dir gut geht."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gebe zu, dass ich müde bin. Lass mich nicht weitermachen, meine Erschöpfung zu behandeln, als würde sie nicht zählen. Führe mich zu Orten der Ruhe und lehre mich, mich nicht der Wiederherstellung zu schämen. Halte mich besonders dort, wo ich am meisten zu Schuld, Erschöpfung und dem Vergessen meiner selbst versucht bin. Lass mich weiterlieben, nicht durch ständige innere Anspannung, sondern durch das Empfangen neuer Kraft aus deiner Barmherzigkeit, damit mein Kind und ich unter deiner Sorge leben. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Markus 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "Lutherbibel 1912",
+              "text": "Und er sprach zu ihnen: Kommet her an einen wüsten Ort für euch allein und ruhet ein wenig. Denn ihrer waren viele, die kamen und gingen, und sie hatten nicht einmal Zeit, zu essen."
+            },
+            {
+              "display": "Psalm 23:2",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "2",
+              "translation": "Lutherbibel 1912",
+              "text": "Er weidet mich auf grüner Aue und führet mich zum frischen Wasser."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Mütter brauchen auch Hirtenschaft",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 23:2-3",
+            "book_code": "PSA",
+            "chapter": 23,
+            "verses": "2-3",
+            "translation": "Lutherbibel 1912",
+            "text": "Er weidet mich auf grüner Aue und führet mich zum frischen Wasser. Er erquicket meine Seele."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wenn du die ganze Zeit damit verbringst, andere zu versorgen, ist es leicht, zu vergessen, dass auch du Hirtenschaft brauchst.",
+            "Die Mutterschaft trainiert das Herz zu äußerer Bewegung. Du bemerkst, antwortest, vorausahnst, beruhigst, planst, korrigierst, erinnerst und absorbierst. Mit der Zeit beginnen deine eigenen Bedürfnisse, sich wie eine Unterbrechung der dringenderen Bedürfnisse aller anderen anzufühlen. Es ist nicht immer, dass du nicht umsorgt werden möchtest. Manchmal hast du dich einfach so sehr an das Versorgen von außen gewöhnt, dass du nicht mehr weißt, wie du für dich selbst um Sorge kommst.",
+            "Aber Gott hat Mütter nie als Maschinen des Dienstes behandelt. Psalm 23 ist voller Bilder von Führung, Fütterung, Wiederherstellung und Ruhelegen. Mütter brauchen auch das. Du bist nicht nur würdig von Gottes Aufmerksamkeit, wenn das Haus funktioniert. Du wirst auch geliebt, wenn du müde, reizbar, emotional dünn und bedürftig nach Platz bist. Jesus sagt, er ist der gute Hirte, und dieses Versprechen gehört nicht nur den Kindern, die du pflegst, sondern der Frau, die pflegt.",
+            "Manchmal ist das tiefere Problem nicht ein Mangel an Anstrengung, sondern ein langer Mangel an Nährung. Wir können sogar beginnen, die Zeit mit Gott in ein anderes Produktivitätswerkzeug zu verwandeln, als würde seine Rolle darin bestehen, uns nur für mehr Output neu zu füllen. Aber er bietet mehr als funktionale Wiederherstellung an. Er bietet relationale Ruhe an. Er möchte, dass du dich erinnern kannst, dass du nicht nur eine Bezugsperson bist. Du bist auch eines seiner Schafe.",
+            "**Gott hat dich nicht nur vor dein Kind gestellt. Er hat sich auch vor dich gestellt.** Lasse heute ein wenig Platz, um einfach von ihm genährt zu werden, nicht weil du produktiver werden musst, sondern weil das Empfangen seiner Sorge auch Teil der treuen Mutterschaft ist."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, hirt mich heute. Lass mich nicht nur die eine sein, die immer für alle anderen sorgt. Lass mich auch wieder erleben, wie du mich leitest, mich tröstest und mich nährst. Verlangsame mich genug, um zu empfangen, was du gibst. Begegne mir in den Teilen meines Herzens, die trocken, ungeduldig oder still aus leeren Reserven sind. Erinnere mich daran, dass ich nicht warten muss, bis ich Ruhe verdiene, bevor ich in deine Nähe komme. Nähre meine Seele, damit ich aus einem Ort weiterleben kann, der von deiner Sorge gehalten wird. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 23:2-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "2-3",
+              "translation": "Lutherbibel 1912",
+              "text": "Er weidet mich auf grüner Aue und führet mich zum frischen Wasser. Er erquicket meine Seele."
+            },
+            {
+              "display": "Johannes 10:11",
+              "book_code": "JHN",
+              "chapter": 10,
+              "verses": "11",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich bin der gute Hirte. Der gute Hirte läßt sein Leben für die Schafe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Unvollkommene Liebe kann ein Kind immer noch prägen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "2. Timotheus 1:5",
+            "book_code": "2TI",
+            "chapter": 1,
+            "verses": "5",
+            "translation": "Lutherbibel 1912",
+            "text": "Denn ich bin erinnert an deinen ungefärbten Glauben, welcher war zuerst in deiner Großmutter Lois und in deiner Mutter Eunike; ich bin aber versichert, daß derselbe auch in dir ist."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Mütter befürchten, dass sie, wenn sie nicht gut genug sind, nichts Schönes oder Großes an ihre Kinder weitergeben können.",
+            "Aber in der Schrift kommt geistlicher Einfluss nicht durch fehlerlose Leistung zustande. Er kommt oft durch aufrichtigen Glauben, Reue, Gebet, Ausdauer und ein Leben, das sich immer wieder Gott zuwendet. Kinder brauchen nicht eine Mutter ohne Risse. Sie brauchen eine Mutter, die weiß, wohin sie mit ihren Rissen gehen soll.",
+            "Ich denke, das ist sowohl tröstlich als auch korrigierend für Mütter. Wir nehmen leicht an, dass das Hinterlassen von etwas Schönem in einem Kind eine nahezu fehlerlose Handhabung des Alltags erfordert. Aber oft ist das, woran sich ein Kind am tiefsten erinnert, nicht, ob jede Situation perfekt bewältigt wurde. Es ist, wie deine Mutter mit ihren Grenzen umgegangen ist. Entschuldigst du dich, wenn du Unrecht tust? Wendest du dich Gott zu, wenn du versagst? Liebst du weiter, ohne so zu tun, als wärst du unverwundbar? Diese Momente sichtbarer Abhängigkeit können ein Kind mehr prägen als polierte Leistung es je könnte.",
+            "Geistliches Erbe ist gewöhnlich stiller, als wir uns vorstellen. Es entsteht an normalen Tagen, wenn ein Kind sieht, wie du auf Schwäche, Enttäuschung, Konflikt, Müdigkeit und Gnade reagierst. Dein Leben lehrt nicht nur durch das, was du gut machst, sondern auch dadurch, wohin du gehst, wenn du es nicht gut machst. Das bedeutet, dass deine Unvollkommenheiten deinen Einfluss nicht automatisch stornieren. In Christus kann sogar dein Bedarf Teil des Erbes werden.",
+            "**Was ein Kind am tiefsten prägt, ist nicht immer eine perfekte Mutter, sondern eine echte, die sich auf Gott verlässt.** Bitte ihn heute, dir zu helfen, die Perfektion nicht länger zu spielen und stattdessen wahrheitsgetreuer innerhalb der Gnade zu leben. Das selbst ist ein mächtiges Erbe."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, halte mich davon ab, die Perfektion als das Wichtigste zu betrachten, das ich meinem Kind anbieten kann. Wenn ich unter dem Druck der Notwendigkeit gelebt habe, alles richtig zu machen, befreie mich. Lehre mich, mich ehrlicher auf dich zu verlassen, freier zu bereuen, meine Grenzen demütiger zuzugeben und stiller zu lieben. Lass mein Kind nicht nur Anstrengung und Verantwortung in mir sehen, sondern auch eine Frau, die immer wieder zu dir zurückkehrt. Möge die Gnade, in der ich lebe, zum Segen meines Kindes werden. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "2. Timotheus 1:5",
+              "book_code": "2TI",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn ich bin erinnert an deinen ungefärbten Glauben, welcher war zuerst in deiner Großmutter Lois und in deiner Mutter Eunike; ich bin aber versichert, daß derselbe auch in dir ist."
+            },
+            {
+              "display": "5. Mose 6:6-7",
+              "book_code": "DEU",
+              "chapter": 6,
+              "verses": "6-7",
+              "translation": "Lutherbibel 1912",
+              "text": "Und diese Worte, die ich dir heute gebiete, sollst du zu Herzen nehmen und sie deinen Kindern einschärfen und davon reden, wenn du in deinem Hause sitzt, und wenn du auf dem Wege gehst, und wenn du dich niederlegst, und wenn du aufstehst."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

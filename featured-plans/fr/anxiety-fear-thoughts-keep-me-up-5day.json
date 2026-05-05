@@ -1,0 +1,384 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG02",
+    "slug": "thoughts-keep-me-up",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "anxiety-fear",
+      "secondary_label": "Anxiété et Peur"
+    },
+    "tags": [
+      "anxiete",
+      "peur",
+      "accablement",
+      "repos-en-dieu",
+      "confiance"
+    ],
+    "title": "Les pensées qui m'empêchent de dormir",
+    "subtitle": "Pour celle qui tient tout ensemble le jour, mais reste éveillée la nuit avec un esprit qui ne se calme pas.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "anxieuse",
+        "accablée",
+        "craintive"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour celle qui tient tout ensemble le jour, mais reste éveillée la nuit avec un esprit qui ne se calme pas.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#B5C7E0",
+      "color_secondary": "#3B5775",
+      "image_key": "cover_woman_quiet_window_morning_light_anxiety",
+      "icon": "quiet-rock-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Philippiens 4:6-8",
+        "book_code": "PHP",
+        "chapter": 4,
+        "verses": "6-8"
+      },
+      {
+        "display": "Psaume 121:1-2",
+        "book_code": "PSA",
+        "chapter": 121,
+        "verses": "1-2"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Pourquoi est-ce que je réfléchis toujours trop?",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Philippiens 4:6-8",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "6-8",
+            "translation": "Louis Segond 1910",
+            "text": "Ne vous inquiétez de rien; mais en toute occasion, par la prière et la supplication, avec actions de grâces, faites connaître vos demandes à Dieu. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-Christ. Au reste, frères, que tout ce qui est vrai, tout ce qui est honorable, tout ce qui est juste, tout ce qui est pur, tout ce qui est aimable, tout ce qui mérite l'approbation, soit l'objet de vos pensées."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Il y a une sorte d'anxiété qui ne s'effondre pas soudainement, mais qui boucle constamment. Vous ressassez une conversation, imaginez ce que quelqu'un voulait dire, et revenez à la même inquiétude comme si une nouvelle réflexion pouvait enfin vous rassurer. Votre esprit reste encombré du matin au soir. Beaucoup de personnes qui réfléchissent trop ne cherchent pas le drame. Elles cherchent à se sentir en sécurité.",
+            "Philippiens 4 nous propose une autre direction. Paul ne dit pas simplement : « Arrêtez de penser. » Il nous dit d'apporter tout à Dieu, puis de demeurer sur ce qui est vrai, honorable, juste, pur et beau. L'Écriture ne traite pas l'esprit comme quelque chose à indulger sans limite ou à arrêter par la force. Elle le traite comme quelque chose qui peut être guidé.",
+            "**L'objectif n'est pas la perfection mentale. C'est apprendre à remarquer quand votre esprit tourne en rond et à le ramener à Dieu.** Quand la même inquiétude revient, mettez-vous en pause et demandez-vous si vous priez ou si vous vous répétez simplement.",
+            "**La paix croît souvent quand vous cessez de demander à votre esprit de vous sauver et que vous laissez Dieu le rediriger.** Ce changement est généralement lent, mais il est réel. Chaque retour à la prière affaiblit l'élan de la peur et enseigne à votre vie intérieure une manière différente de vivre.",
+            "Chaque petit retour compte. Une pensée réorientée peut sembler ordinaire, mais elle fait partie de la façon dont Dieu enseigne à l'esprit un chemin plus doux.",
+            "Le Psaume 94 est particulièrement tendre : « Au milieu de la multitude de mes pensées au-dedans de moi, tes consolations réjouissaient mon âme. » La Bible sait ce que ressent une esprit encombré. Dieu n'est pas surpris par le bruit mental. Il ne honte pas un esprit occupé ou ne traite pas la pensée anxieuse comme inaccessible. Il parle de consolation au milieu de tout cela."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Père, tu sais combien il est difficile pour mon esprit de ralentir. Les pensées viennent, et avant que je m'en aperçoive, elles m'entraînent en cercles. Merci de ne pas me demander de prétendre que rien ne m'importe. Tu m'invites à t'apporter tout. Aide-moi à discerner ce que j'ai besoin de remettre entre tes mains et ce qui n'est que de l'anxiété qui tourne dans mon esprit. Entre dans mes pensées encombrées avec ta consolation, et enseigne à mon cœur à ne pas être gouverné par chaque pensée, mais à devenir plus stable en toi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Philippiens 4:6-8",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "6-8",
+              "translation": "Louis Segond 1910",
+              "text": "Ne vous inquiétez de rien; mais en toute occasion, par la prière et la supplication, avec actions de grâces, faites connaître vos demandes à Dieu. Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus-Christ. Au reste, frères, que tout ce qui est vrai, tout ce qui est honorable, tout ce qui est juste, tout ce qui est pur, tout ce qui est aimable, tout ce qui mérite l'approbation, soit l'objet de vos pensées."
+            },
+            {
+              "display": "Psaume 94:19",
+              "book_code": "PSA",
+              "chapter": 94,
+              "verses": "19",
+              "translation": "Louis Segond 1910",
+              "text": "Quand mes pensées m'assaillaient au dedans de moi, tes consolations réjouissaient mon âme."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Suis-je en train de porter trop pour trop de gens?",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Luc 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "Louis Segond 1910",
+            "text": "Marthe, Marthe, tu t'inquiètes et tu te tourmentes pour beaucoup de choses. Une seule chose est nécessaire."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certaines anxiétés naissent non pas parce que vous êtes naturellement nerveuse, mais parce que vous portez constamment les gens dans votre esprit. Vous vous souvenez de ce que les autres oublient. Vous anticipez les besoins, surveillez les humeurs, prévenez les conflits et absorbez la tension émotionnelle avant même qu'on ne vous le demande. La responsabilité devient lentement un réflexe. Au fil du temps, la ligne entre aimer les gens et les porter peut devenir floue jusqu'à ce que l'anxiété commence à sembler normale.",
+            "Peut-être que cela vous est familier : un enfant se réveille malade au milieu de la nuit, et en quelques minutes, vous portez déjà toute la journée suivante dans votre esprit. Ou une petite tension dans une amitié continue de rejouer longtemps après que le moment soit passé. Cette sorte d'anxiété se cache souvent derrière la compétence. Les autres peuvent même vous faire l'éloge d'être fiable, tandis que votre monde intérieur devient fatigué.",
+            "Luc 10 nous présente Marthe, « préoccupée et agitée pour beaucoup de choses. » Jésus ne la réprimande pas de se soucier. Il remarque que son cœur a été tiré dans trop de directions. Cela compte. Le problème n'est pas l'amour lui-même. C'est ce qui se passe quand le soin devient chargé d'une pression intérieure constante.",
+            "**Dieu ne nie pas que vous avez des fardeaux. Il vous rappelle que tous ne sont pas censés rester entre vos mains.** Demandez-vous honnêtement aujourd'hui : suis-je fatiguée parce que la vie est pleine, ou parce que j'ai commencé à porter ce qui appartient à tout le monde comme si c'était le mien?",
+            "**La paix croît quand l'amour n'est plus mélangé à une sur-responsabilité.** Cela ne vous rend pas moins aimante. Cela rend souvent votre amour plus stable, plus libre et plus humain. Dieu peut vous enseigner comment prendre soin fidèlement sans vivre comme un sauveur privé.",
+            "Demandez-lui de vous montrer à quoi ressemble l'amour quand il n'est plus mélangé à une tension intérieure constante. Cette clarté peut devenir une forme de miséricorde. Et ce genre de miséricorde peut empêcher le devoir de se transformer silencieusement en peur."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je tourne souvent le fait de m'occuper des autres, de les aimer, en une vie de tension constante. Tu sais pourquoi je continue à en faire plus, à penser plus et à porter plus, et tu sais aussi combien cela est devenu épuisant. Merci de voir mon agitation comme tu as vu celle de Marthe et de m'appeler doucement en retour à ce qui compte vraiment. Aide-moi à discerner ce qui m'appartient à faire fidèlement et ce que j'ai assumé au-delà de ce que tu m'as demandé. Enseigne-moi à remettre mes fardeaux à toi plutôt que d'utiliser la tension comme preuve que je m'occupe des autres. Bénis aussi ceux qui passent leur vie à prendre soin des autres et qui sont rarement pris en charge. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Luc 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "Louis Segond 1910",
+              "text": "Marthe, Marthe, tu t'inquiètes et tu te tourmentes pour beaucoup de choses. Une seule chose est nécessaire."
+            },
+            {
+              "display": "Psaume 55:22",
+              "book_code": "PSA",
+              "chapter": 55,
+              "verses": "22",
+              "translation": "Louis Segond 1910",
+              "text": "Remets ton sort à l'Éternel, et il te soutendra; jamais il ne laissera chanceler le juste."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Demain n'est pas arrivé, mais je suis déjà fatiguée",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Matthieu 6:31-34",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "31-34",
+            "translation": "Louis Segond 1910",
+            "text": "Ne vous inquiétez donc pas du lendemain; car le lendemain aura soin de lui-même. À chaque jour suffit sa peine."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'une des signes les plus clairs de l'anxiété quotidienne est de se sentir épuisée par des choses qui n'ont pas encore eu lieu. La conversation, la facture, l'incertitude qui vient, le message sans réponse, la possibilité que vous redoutez — rien n'est complètement ici, et pourtant votre esprit l'a déjà vécu plusieurs fois. C'est pourquoi les cœurs anxieux deviennent si fatigués. Ils ne portent pas seulement aujourd'hui. Ils répètent demain en même temps.",
+            "Jésus parle avec une grande perspicacité pratique quand Il dit : « À chaque jour suffit sa peine. » Il ne décourage pas la planification sage. Il protège le cœur de traîner le poids du futur dans le présent et d'appeler cela de la sagesse. L'anxiété veut se préparer en surchargeant. Jésus enseigne une autre voie : restez dans aujourd'hui. C'est là que l'obéissance se produit, et c'est là que la grâce est souvent donnée.",
+            "**L'anxiété veut que vous prévisualiziez la vie entière, mais Dieu met souvent seulement cette étape d'aujourd'hui entre vos mains.**",
+            "Les Lamentations ajoutent que les miséricordes de Dieu sont « nouvelles chaque matin. » La grâce vient souvent en portions quotidiennes, pas en une livraison géante de certitude. **Vous n'avez pas besoin de la force du mois prochain ce soir. Vous avez besoin de la miséricorde d'aujourd'hui.**",
+            "Quand votre esprit va de l'avant, demandez : qu'est-ce qui est vraiment devant moi en ce moment? Une tâche, une prière, une pause nécessaire. Rester dans aujourd'hui n'est pas un déni. C'est une manière de faire confiance que quand demain arrive, la miséricorde de Dieu arrivera aussi. Cette vérité ne rend pas l'avenir petit, mais elle empêche l'avenir d'engloutir toute la journée. Souvent, la paix commence quand vous revenez des demains imaginés à la grâce que Dieu donne maintenant."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je porte souvent ce qui ne s'est pas encore produit et je rends aujourd'hui plus lourd par l'incertitude de demain. Merci de me rappeler que chaque jour suffit à sa peine. Ramène mon cœur de la fatigue de vivre avant moi-même. Aide-moi à remarquer la grâce que tu me donnes déjà en ce moment présent. Enseigne-moi à ne pas me dépenser à l'avance, mais à marcher avec toi pas après pas. Aide-moi aussi à croire que quand demain arrive, ta nouvelle miséricorde sera certainement là aussi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Matthieu 6:31-34",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "31-34",
+              "translation": "Louis Segond 1910",
+              "text": "Ne vous inquiétez donc pas du lendemain; car le lendemain aura soin de lui-même. À chaque jour suffit sa peine."
+            },
+            {
+              "display": "Lamentations 3:22-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "22-23",
+              "translation": "Louis Segond 1910",
+              "text": "Les bontés de l'Éternel ne sont pas épuisées, ses compassions ne sont pas à leur terme; elles se renouvellent chaque matin. Grande est ta fidélité!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Quand l'inquiétude est devenue une habitude",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Proverbes 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Louis Segond 1910",
+            "text": "Confie-toi en l'Éternel de tout ton cœur, et ne t'appuie pas sur ta sagesse. Reconnais-le dans toutes tes voies, et il aplanira tes sentiers."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Parfois, l'inquiétude cesse d'être seulement une réaction à un moment et devient une façon de vivre très naturelle. Vous attendez le pire, vous vous serrez rapidement, et vous traitez la tension intérieure comme la preuve que vous êtes responsable. Au fil du temps, l'anxiété peut devenir moins une réaction et plus un paramètre par défaut. Vous ne pouvez même pas remarquer combien de fois votre esprit se tourne d'abord vers la peur, parce que le schéma semble maintenant ordinaire.",
+            "Proverbes 3 parle directement à cela en nous disant de ne pas nous appuyer sur notre propre intelligence. Le problème n'est pas que la réflexion est mauvaise. Le problème est que la réflexion anxieuse essaie facilement de devenir notre source de sécurité la plus profonde. Nous rejouons, analysons, prédisons et préparons comme si suffisamment d'efforts mentaux pouvaient finalement calmer le cœur. Mais notre intelligence n'est pas censée être notre refuge.",
+            "Ésaïe 26 dit que Dieu garde dans une paix parfaite celui dont l'esprit s'appuie sur Lui. La paix, alors, n'est pas l'absence de pensée. C'est le ré-ancrage de la pensée. Même si l'inquiétude est devenue familière, elle ne doit pas rester définitive.",
+            "**Ce qui est devenu une habitude de tension peut, au fil du temps, être rencontré par une habitude de retour à Dieu.** Remarquez quand votre anxiété s'élève le plus souvent. Préparez une courte verse ou une prière pour ce moment. **Les petits retours répétés sont souvent comment l'esprit apprend une nouvelle maison.** Ne méprisez pas la façon dont ce processus semble répétitif. Le vrai changement est souvent construit à travers une fidélité régulière et ordinaire. Dieu peut former de nouveaux réflexes dans un cœur qui s'attend à la peur depuis longtemps.",
+            "Une nouvelle habitude de paix ne semble rarement dramatique au début. Elle semble généralement répétitive, humble et très ordinaire. Cela ne la rend pas moins sainte. Dieu est assez patient pour enseigner la paix par la répétition. Dieu peut construire un réflexe plus tranquille en vous, même si l'ancien est là depuis des années. Demandez-lui de montrer quand votre anxiété s'élève le plus souvent et préparez une pensée, un verset ou une prière pour ce moment. Une nouvelle habitude sera construite, pas à pas, dans l'ordinaire."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, très souvent je ne suis pas simplement préoccupée par moment; j'ai grandi en m'habituant à l'inquiétude comme une manière de vivre. Merci de ne pas te lasser de moi et de ne pas t'éloigner parce que je répète les mêmes peurs. Aide-moi à voir les schémas anxieux qui sont devenus automatiques en moi. Enseigne-moi à ne pas traiter la tension constante comme de la sécurité. Au lieu de me pencher sur ma propre intelligence, aide mon esprit à rester plus fermement en toi. Remodèle lentement mes habitudes, et laisse mon retour à toi devenir plus naturel que de spiraler dans la peur. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Proverbes 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Louis Segond 1910",
+              "text": "Confie-toi en l'Éternel de tout ton cœur, et ne t'appuie pas sur ta sagesse. Reconnais-le dans toutes tes voies, et il aplanira tes sentiers."
+            },
+            {
+              "display": "Ésaïe 26:3",
+              "book_code": "ISA",
+              "chapter": 26,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "Tu garderas en une paix parfaite celui dont l'esprit s'appuie sur toi, car il se confie en toi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Retourner à une vie avec plus de paix",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 121:1-2",
+            "book_code": "PSA",
+            "chapter": 121,
+            "verses": "1-2",
+            "translation": "Louis Segond 1910",
+            "text": "Je lève mes yeux vers les montagnes... D'où me viendra le secours? Le secours me vient de l'Éternel, qui a fait les cieux et la terre."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'anxiété quotidienne disparaît rarement par une seule percée émotionnelle intense. Plus souvent, Dieu enseigne la paix à travers la répétition ordinaire. Vous pouvez toujours ressentir de l'inquiétude, mais vous commencez à la remarquer plus tôt et à revenir plus rapidement. Le changement n'est pas toujours dramatique, mais il est réel. Beaucoup de personnes anxieuses aspirent à un grand tournant. Dieu travaille souvent par un renouvellement régulier.",
+            "Le Psaume 121 change la posture de l'âme : « Je lève mes yeux vers les montagnes... Mon secours vient de l'Éternel. » L'anxiété nous garde en train de regarder vers le bas le problème jusqu'à ce qu'il remplisse tout le cadre. Le psaume nous enseigne à lever nos yeux à nouveau. Cela ne fait pas disparaître le problème, mais cela restaure les proportions.",
+            "Philippiens 4:9 ajoute quelque chose d'important. Paul ne parle pas seulement de la paix comme un sentiment, mais du « Dieu de paix » étant avec ceux qui pratiquent ce qu'ils ont reçu. La paix est souvent cultivée dans les modèles. Les petites habitudes fidèles créent de l'espace pour la fermeté de Dieu.",
+            "**La paix n'est pas seulement reçue; elle est aussi cultivée à travers des rythmes de retour.** Commencez petit. Choisissez un rythme qui peut faire partie de votre semaine : quelques minutes calmes le matin, prier avant de réagir, ou terminer la journée avec un verset. Ces pratiques ne sont pas magiques. Ce sont des façons de faire de la place au Dieu de paix dans la vie ordinaire.",
+            "**Dieu construit souvent la stabilité avant que le prochain moment difficile n'arrive.** Les petits rythmes aident le cœur à reconnaître sa présence plus rapidement. Au fil du temps, ce retour répété peut rendre votre vie intérieure moins gouvernée par la panique et plus familière avec la paix.",
+            "Le point n'est pas de construire une routine parfaite, mais de devenir plus disponible à la paix de Dieu aux endroits où vous vous effondrez le plus souvent. Même un petit rythme peut commencer à changer l'atmosphère d'une semaine entière. C'est souvent ainsi que la stabilité prend racine lentement dans les vies anxieuses."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de ne pas seulement me consoler dans mes moments les plus anxieux; tu m'enseignes aussi comment vivre plus fermement au fil du temps. Écris cette vérité sur mon cœur : mon secours vient de toi. Aide-moi à cesser de regarder seulement le problème et apprendre à lever mes yeux vers toi encore et encore. Donne-moi la grâce de construire de nouveaux rythmes de prière, de silence, de surrender et de confiance. Que la paix devienne plus qu'un sentiment passager. Dans les jours ordinaires, forme en moi une vie qui repose plus profondément en toi, et que cette stabilité devienne aussi une consolation tranquille pour les autres. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 121:1-2",
+              "book_code": "PSA",
+              "chapter": 121,
+              "verses": "1-2",
+              "translation": "Louis Segond 1910",
+              "text": "Je lève mes yeux vers les montagnes... D'où me viendra le secours? Le secours me vient de l'Éternel, qui a fait les cieux et la terre."
+            },
+            {
+              "display": "Philippiens 4:9",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "9",
+              "translation": "Louis Segond 1910",
+              "text": "Ce que vous avez appris, reçu et entendu de moi, et ce que vous avez vu en moi, pratiquez-le. Et le Dieu de paix sera avec vous."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

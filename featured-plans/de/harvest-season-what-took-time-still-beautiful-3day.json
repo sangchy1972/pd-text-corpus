@@ -1,0 +1,246 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS07",
+    "slug": "what-took-time-still-beautiful",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Lebensjahreszeiten",
+      "secondary": "harvest-season",
+      "secondary_label": "Erntezeit"
+    },
+    "tags": [
+      "lebensmitte",
+      "koerperliche-veraenderungen",
+      "neuausrichtung",
+      "weisheit",
+      "perimenopause",
+      "menopause"
+    ],
+    "title": "Was länger dauerte, ist immer noch schön",
+    "subtitle": "Die langsameren Gaben des Wachstums und der Reife ehren",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "vierziger-fünfziger",
+        "Lebensmitte"
+      ],
+      "emotional_state": [
+        "nachdenklich",
+        "sich neu orientierend",
+        "Veränderung annehmend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Für die Frau, die lernt, langsameres Wachstum, verzögerte Früchte und langsam entstandene Schönheit mit gütigeren und treueren Augen zu sehen.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#E8B888",
+      "color_secondary": "#7A4A2C",
+      "image_key": "cover_woman_open_window_autumn_warm",
+      "icon": "ripening-fruit-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 27:13-14",
+        "book_code": "PSA",
+        "chapter": 27,
+        "verses": "13-14"
+      },
+      {
+        "display": "1. Mose 18:13-14",
+        "book_code": "GEN",
+        "chapter": 18,
+        "verses": "13-14"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Was langsam wuchs, könnte tiefer gewachsen sein",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 27:13-14",
+            "book_code": "PSA",
+            "chapter": 27,
+            "verses": "13-14",
+            "translation": "Lutherbibel 1912",
+            "text": "Ich wäre Verzagtheit erliegen, hätte ich nicht geglaubt, die Güte des Herrn zu schauen im Lande der Lebendigen. Warte des Herrn! Sei getrost und unverzagt und warte des Herrn!"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wenn wir in die Erntezeit des Lebens kommen, beginnen viele Frauen, auf ihr Leben mit einer neuen Art von Ehrlichkeit zurückzublicken. Sie erinnern sich an das, was später kam als erwartet, was länger dauerte als andere sagten, was damals wie Verzögerung wirkte, und was sich anfühlte, als wäre man zurückgelassen worden. In der Jugend behandeln wir oft das Schnelle als gut, das Frühe als gesegnet, und sichtbare Erfolge als Sicherheit. Aber in der Lebensmitte bemerken viele Frauen, dass das, was sie wirklich hielt, nicht immer das Erste war. Es war oft das, was länger brauchte zum Wachsen.",
+            "Der Psalm 27 sagt: »Ich wäre Verzagtheit erliegen, hätte ich nicht geglaubt, die Güte des Herrn zu schauen im Lande der Lebendigen.« Dann sagt er: »Warte des Herrn.« Das ist keine leichte Beschwichtigung. Es ist eine Wahrheit, die oft nur langsam gelebt werden kann. Gottes Zeit spricht nicht immer unsere Sprache. Manche Formen der Stabilität kommen spät. Manche Einsichten vertiefen sich nur nach Jahren. Manche Frucht bleibt lange unsichtbar. Die Schrift behandelt das nicht als minderwertiges Leben. Sie lädt uns in ein weiseres Maß für Schönheit ein.",
+            "**Reife ist oft nicht davon, dass man Dinge schneller bekommt, sondern dass man lernt, sie tiefer zu tragen.** Dinge, die durch Warten, Enttäuschung und wiederholte Hingabe geformt wurden, haben oft tiefere Wurzeln. Sanftheit nach Verlust, Dankbarkeit nach Mangel, Unterscheidung nach Umwegen und Standhaftigkeit nach Unsicherheit sind nicht zweitrangige Gaben. Sie sind heilige.",
+            "Wenn du also noch den Schmerz mit dir trägst von »Ich hätte dort früher sein sollen«, bring diesen Schmerz vor Gott. Er heilt vielleicht nicht nur deine Chronologie, sondern auch dein Maß für Schönheit. Eine langsamere Geschichte ist nicht automatisch eine kleinere."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich bekenne, dass ich noch immer einen Schmerz in mir trage über das, was später kam, als ich wollte. Ich blicke manchmal zurück und frage mich, ob das Leben leichter oder besser gewesen wäre, wenn manches früher geschehen wäre. Danke, dass du diesen Schmerz nicht abhust und mich nicht drängelst, ihn schnell zu überwinden. Heile den Teil von mir, der immer noch Wert an Geschwindigkeit misst. Lehre mich zu vertrauen, dass die Schönheit, die du formst, nicht immer schnell kommt. Wenn manche Frucht in meinem Leben nur durch Warten, Umwege, Trauer und Neuordnung wächst, halte mich davon ab, sie zu verachten. Lass mich lernen, Tiefe zu würdigen, die Zeit brauchte, und zu glauben, dass du meine Jahreszeiten nicht verpasst hast. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 27:13-14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "13-14",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich wäre Verzagtheit erliegen, hätte ich nicht geglaubt, die Güte des Herrn zu schauen im Lande der Lebendigen. Warte des Herrn! Sei getrost und unverzagt und warte des Herrn!"
+            },
+            {
+              "display": "Jakobus 5:7-8",
+              "book_code": "JAS",
+              "chapter": 5,
+              "verses": "7-8",
+              "translation": "Lutherbibel 1912",
+              "text": "So seid nun geduldig, liebe Brüder, bis zur Zukunft des Herrn. Siehe, der Ackersmann wartet auf die köstliche Frucht der Erde und ist geduldig darüber... Seid auch ihr geduldig und stärket eure Herzen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Manche Schönheit zeigt sich nur mit den Jahren",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 16:31",
+            "book_code": "PRO",
+            "chapter": 16,
+            "verses": "31",
+            "translation": "Lutherbibel 1912",
+            "text": "Das ergraute Haar ist eine Krone der Herrlichkeit, wenn sie im Wege der Gerechtigkeit gefunden wird."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "In der Jugend neigen wir dazu, Schönheit zu bemerken, die sofort sichtbar ist. Frische, Geschwindigkeit, Ausstrahlung, Schärfe, Bewunderung, sichtbare Kraft. Aber in den Ernstjahren beginnt Gott oft, die Art zu verändern, wie eine Frau Schönheit sieht. Sie beginnt, Qualitäten zu bemerken, die nicht beim ersten Blick aufleuchten: Besonnenheit in der Rede, Sanftheit nach Leid, Standhaftigkeit nach Enttäuschung, und die Fähigkeit, dankbar zu bleiben, ohne naiv zu werden.",
+            "Das Buch der Sprüche sagt, dass das ergraute Haar eine Krone der Herrlichkeit ist, wenn es im Wege der Gerechtigkeit gefunden wird. Das ist ein radikal anderer Blick auf Altern. Die Welt stellt Altern oft als Verlust, Niedergang oder Irrelevanzwerdung dar. So viele Frauen treten in die mittleren und späteren Jahre schon ein, als müssten sie ihre Würde gegen die Zeit selbst verteidigen. Die Schrift spricht nicht so. Sie ehrt die Schönheit, die durch Zeit wächst.",
+            "**Der Wert der Jahre ist nicht nur, dass du sie überstandest, sondern dass sie dich zu jemandem geformt haben, der gewichtiger, weiser und ganzer ist.** Es gibt eine Schönheit, die nicht gegen Zeit kämpft, indem sie so tut, als hätte die Zeit sie nicht berührt. Sie empfängt die Zeit als eines von Gottes Formungswerkzeugen.",
+            "Schau also heute nicht nur auf das, was sich äußerlich geändert hat. Blick auch auf das, was innen gereift ist. Weisheit, Sanftheit, Standhaftigkeit und Tiefe sind keine Trostpreise. Sie sind Teil der Herrlichkeit der Reife."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, die Welt lehrt mich oft, das Altern zu fürchten und Veränderung zu widerstehen, und es ist leicht, meinen Blick nur auf das zu lenken, was verloren ging. Danke, dass du mir einen anderen Weg zum Sehen gibst. Du siehst Reife nicht als Verblassen an, sondern als eine Art Herrlichkeit, die deine Hand über Zeit in mein Leben zeichnet. Befreie mich von der Anspannung, meine Bedeutung beweisen zu müssen. Lehre mich, die Zeichen der Jahre ohne Scham anzunehmen. Wenn Sanftheit in mir durch Tränen wuchs, wenn Weisheit durch Scheitern wuchs, und wenn Besonnenheit durch langen Kampf wuchs, halte mich davon ab, diese Gaben zu verachten. Hilf mir, diese Zeit vor dir zu ehren und eine Frau zu werden, deren Leben mehr Segen für andere trägt. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 16:31",
+              "book_code": "PRO",
+              "chapter": 16,
+              "verses": "31",
+              "translation": "Lutherbibel 1912",
+              "text": "Das ergraute Haar ist eine Krone der Herrlichkeit, wenn sie im Wege der Gerechtigkeit gefunden wird."
+            },
+            {
+              "display": "Titus 2:3-5",
+              "book_code": "TIT",
+              "chapter": 2,
+              "verses": "3-5",
+              "translation": "Lutherbibel 1912",
+              "text": "Die alten Frauen gleicherweise, daß sie in ihrem Wesen heilig, nicht Verleumderinnen, nicht dem Wein ergeben sind, sondern Lehrerinnen des Guten; daß sie die jungen Frauen unterweisen..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Nicht alles, was spät kommt, ist verloren",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Mose 18:13-14",
+            "book_code": "GEN",
+            "chapter": 18,
+            "verses": "13-14",
+            "translation": "Lutherbibel 1912",
+            "text": "Und der Herr sprach zu Abraham: Warum lacht Sara und spricht: Sollte ich wirklich noch gebären, da ich alt bin? Sollte dem Herrn etwas unmöglich sein? Um diese Zeit, im nächsten Jahr, will ich wieder zu dir kommen, und Sara soll einen Sohn haben."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "In der Lebensmitte stellen viele Frauen sich leise eine Frage: Wenn manche Dinge bis jetzt noch nicht geschehen sind, sind sie dann nicht schon zu spät? Vielleicht eine bestimmte Stabilität. Vielleicht ein bestimmter Friede. Vielleicht ein lange ersehntes Kapitel, das nicht kam, als es erwartet wurde. Die Ernstjahre tragen oft ein stärkeres Bewusstsein der Zeit mit sich, und Zeit kann sich wie ein Urteil anfühlen.",
+            "Aber die Schrift gibt uns Sara. Als sie hört, dass sie in ihrem Alter noch einen Sohn bekommen wird, lacht sie, denn es klingt für sie zu spät. Gott stimmt ihrer Folgerung nicht zu. Er sagt nicht: »Ja, die Zeit ist vorbei.« Er hält sein Versprechen in einer Jahreszeit, die unmöglich wirkte.",
+            "**Spät ist nicht dasselbe wie verloren. Verzögert ist nicht dasselbe wie tot.** Wenn es Orte in deinem Herzen gibt, wo du bereits den Satz gesprochen hast, »Für mich ist es zu spät«, bring diese Worte vor Gott. Lass ihn sie infrage stellen. Manche Dinge könnten sich noch anders entfalten, als du dachtest. Andere mögen nicht in derselben Form zurückkommen, aber dennoch echte Frucht bringen. Die Lebensmitte ist nicht nur die Jahreszeit von dem, was vorbei ist. Sie könnte auch die Jahreszeit von dem werden, was spät reift.",
+            "Nicht jede Frauengeschichte wird sich auf dieselbe Weise entfalten, aber Saras Geschichte lehrt etwas Wesentliches: Gott ist nicht gebunden an unsere instinktive Definition von zu spät. Er erfüllt unsere Hoffnungen nicht immer in der genau gleichen Form, wie wir sie uns zuerst vorgestellt haben, aber er sieht die späteren Jahre nicht als spiritual geschlossen an."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich bekenne, dass ich an manchen Orten meines Herzens bereits Urteile über meine eigene Geschichte gefällt habe. Ich habe leise gesagt: »Es ist zu spät. Es ist vorbei. Der Teil kommt wahrscheinlich nicht mehr.« Danke, dass du mein Leben nicht nach den Urteilen schreibst, die ich in Angst spreche. Du siehst die späteren Kapitel einer Frauengeschichte nicht gering an. Bring die Entmutigung, die ich um die Zeit gebaut habe, in deine Gegenwart, und setz deine Wahrheit dort ein. Wenn es noch Frucht gibt, die du geben möchtest, halte mein Herz davor ab, sich aus Selbstschutz zu verschließen. Und wenn manche Hoffnungen umbenannt werden müssen, anstatt einfach zurückzukommen, gib mir Sanftheit und Vertrauen. Lehre mich, Verzögerung nicht mit Hoffnungslosigkeit gleichzusetzen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Mose 18:13-14",
+              "book_code": "GEN",
+              "chapter": 18,
+              "verses": "13-14",
+              "translation": "Lutherbibel 1912",
+              "text": "Und der Herr sprach zu Abraham: Warum lacht Sara und spricht: Sollte ich wirklich noch gebären, da ich alt bin? Sollte dem Herrn etwas unmöglich sein? Um diese Zeit, im nächsten Jahr, will ich wieder zu dir kommen, und Sara soll einen Sohn haben."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

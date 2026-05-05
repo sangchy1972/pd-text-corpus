@@ -1,0 +1,384 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI11",
+    "slug": "not-perfect-still-good-mom",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles & Identity",
+      "secondary": "motherhood",
+      "secondary_label": "Motherhood"
+    },
+    "tags": [
+      "motherhood",
+      "parenting",
+      "trust",
+      "perfectionism",
+      "grace",
+      "rest"
+    ],
+    "title": "Not Perfect, Still a Good Mom",
+    "subtitle": "Letting go of guilt and loving from a fuller place",
+    "audience": {
+      "life_stage": [
+        "mothers",
+        "any-age"
+      ],
+      "emotional_state": [
+        "weary",
+        "loving",
+        "trusting"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "These five days help you trust that you can love well even without being a perfect mother.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#C8E0CC",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_mother_morning_window_quiet",
+      "icon": "cradle-and-leaves-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Galatians 6:4",
+        "book_code": "GAL",
+        "chapter": 6,
+        "verses": "4"
+      },
+      {
+        "display": "2 Timothy 1:5",
+        "book_code": "2TI",
+        "chapter": 1,
+        "verses": "5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "Comparison Tightens a Mother’s Heart",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Galatians 6:4",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "4",
+            "translation": "KJV",
+            "text": "But let every man prove his own work..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Comparison in motherhood often hides behind the language of learning.",
+            "We compare children, routines, patience, energy, discipline, spiritual atmosphere, and balance. At first it seems harmless. We are only observing, gathering ideas, noticing what works. But somewhere along the way observation becomes self-measurement. Her home looks calmer. Her child seems easier. Her tone sounds gentler. She appears more organized, more rested, more naturally maternal. And slowly the heart starts turning another woman’s visible strengths into private evidence against itself.",
+            "Galatians calls us back to examining our own life before God. That matters because every child, home, season, and mother carries a different rhythm. What you are comparing is often your unfiltered reality against someone else’s most visible moment. Comparison does not simply make us admire another woman. It tightens the soul until we forget how God is actually working in our own house.",
+            "I think many mothers need rescue from that tightening. Not because growth is unimportant, but because growth rooted in shame rarely bears good fruit. God is not asking you to become a copy of another woman’s motherhood. He is meeting you inside your actual child, your actual limitations, your actual home, and your actual need for grace.",
+            "He is not late to your real life. The motherhood He is shaping in you is allowed to look honest, imperfect, and deeply dependent on grace.",
+            "**Another mother’s visible ease does not mean you are failing.** Ask God today to return your eyes to your own home and the real ways you have been loving there. Learning can remain, but self-contempt does not need to lead it."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, draw my heart out of comparison. Keep me from using other mothers’ lives as evidence against my own. Help me see how You are working in my home and in my child through a mother who is imperfect but truly loving. Also shine Your light on the comparison and hurt I would rather hide, so that I do not keep managing myself through suppression, but learn honesty and cleansing before You. Thank You that You are not repelled by my weakness, but willing to come near, support me, and keep teaching me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Galatians 6:4",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "4",
+              "translation": "KJV",
+              "text": "But let every man prove his own work..."
+            },
+            {
+              "display": "Psalm 23:1",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1",
+              "translation": "KJV",
+              "text": "The Lord is my shepherd; I shall not want."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "My Limits Do Not Automatically Ruin My Child",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 127:3",
+            "book_code": "PSA",
+            "chapter": 127,
+            "verses": "3",
+            "translation": "KJV",
+            "text": "Lo, children are an heritage of the Lord..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many mothers carry a deep fear that their limitations will damage their children.",
+            "That fear can make us strive, tighten, and panic whenever we fall short. We worry that one tired reaction, one emotional outburst, one season of depletion, or one unwise choice will leave a mark too large to heal. Love naturally wants to protect. But maternal fear often goes further and quietly assumes: if my child is wounded, it must mean I have failed at the deepest level.",
+            "Psalm 127 reminds us that children belong first to the Lord. That does not erase the seriousness of motherhood, but it does restore proportion. God did not give your child only a mother. He also gave your child His own watchful care. We are called to faithfulness, repentance, learning, and love, but not to omnipotence. When we try to mother as though we must be enough in every way, we begin carrying a weight God never asked us to hold.",
+            "This does not minimize your influence. It simply refuses to make you into a savior. Your child’s life is being shaped by more than your best moments and more than your worst ones. God’s mercy, protection, correction, and providence are at work too. Real trust in motherhood often begins when we admit that our limits are real, and God’s care is greater still.",
+            "**A mother is called to be faithful, not to play God.** If you have been afraid that your weakness will undo your child, ask God to remind you that His hands are stronger than yours, and His presence in your child’s life is deeper than your fear."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, free me from the fear that if I do not do everything right, I will ruin my child. Teach me faithfulness, and teach me surrender. Thank You that You love my child more than I do, and that Your care is stronger than mine. Teach me, even as I love my child, not to leave my own soul outside Your presence, because I am not only a role to fulfill, but a woman You still tenderly see. Thank You that You are not repelled by my weakness, but willing to come near, support me, and keep teaching me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 127:3",
+              "book_code": "PSA",
+              "chapter": 127,
+              "verses": "3",
+              "translation": "KJV",
+              "text": "Lo, children are an heritage of the Lord..."
+            },
+            {
+              "display": "Proverbs 3:5",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5",
+              "translation": "KJV",
+              "text": "Trust in the Lord with all thine heart..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Exhaustion Is Not Failure; It May Be a Signal",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Mark 6:31",
+            "book_code": "MRK",
+            "chapter": 6,
+            "verses": "31",
+            "translation": "KJV",
+            "text": "Come ye yourselves apart... and rest a while."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Motherhood can make exhaustion feel normal enough to ignore.",
+            "Children do not wait until you are recovered to need you. The home does not automatically pause because your inner life is thinning out. So many mothers learn to treat fatigue like background noise. Irritability, numbness, tears close to the surface, mental fog, resentment, and emotional flatness all get folded into the phrase this is just motherhood. But if your body, emotions, and soul keep signaling depletion, that should not always be answered with just keep going.",
+            "Jesus invited His disciples to come away and rest. Psalm 23 shows a Shepherd who not only leads but restores. Weariness can become one of the ways God tells us that we are not machines, and that depletion is not a badge of holiness. Sometimes exhaustion is not proof that you are unloving. It is proof that you have been pouring out for a very long time without enough replenishment.",
+            "Many mothers need fresh permission here. Being able to keep pushing is not always the same as being called to keep pushing. Maturity is not constant override. It is learning to honor creaturely limits as part of faithful living before God.",
+            "Receiving care does not weaken motherhood. It often keeps motherhood from turning into silent self-erasure.",
+            "**Exhaustion does not mean you love poorly. Sometimes it means you have been pouring out for a long time.** Be honest today about your tiredness. Let it become a prayer rather than something you keep dismissing. God can meet you more gently once you stop pretending you are fine."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I admit that I am tired. Do not let me keep treating my exhaustion as though it does not matter. Lead me to places of rest, and teach me not to be ashamed of needing restoration. Hold me especially where I am most tempted toward guilt, depletion, and losing sight of myself. Let me keep loving not by constant inner strain, but by receiving fresh strength from Your mercy, so that both my child and I may live under Your care. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Mark 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "KJV",
+              "text": "Come ye yourselves apart... and rest a while."
+            },
+            {
+              "display": "Psalm 23:2",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "2",
+              "translation": "KJV",
+              "text": "He maketh me to lie down in green pastures..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "Mothers Also Need Shepherding",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 23:2-3",
+            "book_code": "PSA",
+            "chapter": 23,
+            "verses": "2-3",
+            "translation": "KJV",
+            "text": "He maketh me to lie down... he restoreth my soul."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "When you spend your days caring for others, it becomes easy to forget that you too need shepherding.",
+            "Motherhood trains the heart toward outward movement. You notice, respond, anticipate, soothe, plan, correct, remember, and absorb. Over time, your own needs begin to feel like an interruption to the more urgent needs of everyone else. It is not always that you do not want care. Sometimes you have simply become so practiced at caring outward that you no longer know how to come back for care yourself.",
+            "But God has never treated mothers as machines of service. Psalm 23 is full of images of being led, fed, restored, and made to lie down. Mothers need that too. You are not only worthy of God’s attention when the house is functioning. You are also loved when you are weary, irritable, emotionally thin, and in need of space. Jesus says He is the Good Shepherd, and that promise belongs not only to the children you are tending, but to the woman doing the tending.",
+            "Sometimes the deeper issue is not a lack of effort, but a long lack of being nourished. We can even start turning time with God into another productivity tool, as though His role were merely to refill us for more output. But He offers more than functional recovery. He offers relational rest. He wants you to remember that you are not only a caregiver. You are also one of His sheep.",
+            "**God did not only place you in front of your child. He also placed Himself in front of you.** Leave a little room today simply to be fed by Him, not because you need to become more productive, but because receiving His care is also part of faithful motherhood."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, shepherd me today. Do not let me remain only the one who keeps caring for everyone else. Let me also experience being led, comforted, and fed by You again. Slow me enough to receive what You are giving. Meet me in the parts of my heart that are dry, impatient, or quietly running on empty. Remind me that I do not have to wait until I deserve rest before I come near to You. Feed my soul so that I may keep loving from a place that is held by Your care. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 23:2-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "2-3",
+              "translation": "KJV",
+              "text": "He maketh me to lie down... he restoreth my soul."
+            },
+            {
+              "display": "John 10:11",
+              "book_code": "JHN",
+              "chapter": 10,
+              "verses": "11",
+              "translation": "KJV",
+              "text": "I am the good shepherd..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "Imperfect Love Can Still Form a Child",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "2 Timothy 1:5",
+            "book_code": "2TI",
+            "chapter": 1,
+            "verses": "5",
+            "translation": "KJV",
+            "text": "When I call to remembrance the unfeigned faith... which dwelt first in thy grandmother Lois, and thy mother Eunice..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many mothers fear that if they are not good enough, they will fail to leave anything strong or beautiful in their children.",
+            "But in Scripture, spiritual influence does not come through flawless performance. It often comes through sincere faith, repentance, prayer, endurance, and a life that keeps turning toward God. Children do not need a mother without cracks. They need a mother who knows where to go with her cracks.",
+            "I think this is both comforting and correcting for mothers. We easily assume that leaving something beautiful in a child requires near-flawless handling of daily life. But often what a child remembers most deeply is not whether every situation was managed perfectly. It is whether her mother knew how to repent, how to ask forgiveness, how to return to God when tired, and how to keep loving without pretending to be invulnerable. Those moments of visible dependence can shape a child more than polished performance ever could.",
+            "Spiritual legacy is usually quieter than we imagine. It is formed in ordinary days when a child watches how you respond to weakness, disappointment, conflict, fatigue, and grace. Your life teaches not only by what you do well, but by where you go when you do not do well. That means your imperfections do not automatically cancel your influence. In Christ, even your need can become part of the inheritance.",
+            "**What shapes a child most deeply is not always a perfect mother, but a real one who leans on God.** Ask Him today to help you stop performing perfection and begin living more truthfully inside grace. That itself is a powerful inheritance."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, keep me from treating perfection as the greatest thing I can offer my child. If I have been living under the strain of needing to do everything right, release me. Teach me to rely on You more honestly, repent more freely, admit my limits more humbly, and love more quietly. Let my child see not only effort and responsibility in me, but also a woman who keeps returning to You. May the grace I live in become part of the blessing my child receives. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "2 Timothy 1:5",
+              "book_code": "2TI",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "KJV",
+              "text": "When I call to remembrance the unfeigned faith... which dwelt first in thy grandmother Lois, and thy mother Eunice..."
+            },
+            {
+              "display": "Deuteronomy 6:6-7",
+              "book_code": "DEU",
+              "chapter": 6,
+              "verses": "6-7",
+              "translation": "KJV",
+              "text": "These words... shall be in thine heart: and thou shalt teach them diligently unto thy children..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

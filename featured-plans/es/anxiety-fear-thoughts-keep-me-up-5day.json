@@ -1,0 +1,384 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG02",
+    "slug": "thoughts-keep-me-up",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardín de las Emociones",
+      "secondary": "anxiety-fear",
+      "secondary_label": "Ansiedad y Temor"
+    },
+    "tags": [
+      "ansiedad",
+      "temor",
+      "agobio",
+      "descanso-en-dios",
+      "confianza"
+    ],
+    "title": "Los Pensamientos Que Me Mantienen Despierta",
+    "subtitle": "Para la mujer que sostiene todo durante el día, pero permanece despierta por la noche con una mente que no puede calmarse.",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "ansiosa",
+        "agobiada",
+        "temerosa"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Para la mujer que sostiene todo durante el día, pero permanece despierta por la noche con una mente que no puede calmarse.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#B5C7E0",
+      "color_secondary": "#3B5775",
+      "image_key": "cover_woman_quiet_window_morning_light_anxiety",
+      "icon": "quiet-rock-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Filipenses 4:6-8",
+        "book_code": "PHP",
+        "chapter": 4,
+        "verses": "6-8"
+      },
+      {
+        "display": "Salmo 121:1-2",
+        "book_code": "PSA",
+        "chapter": 121,
+        "verses": "1-2"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "¿Por Qué Siempre Pienso Demasiado en Todo?",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Filipenses 4:6-8",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "6-8",
+            "translation": "Reina-Valera 1909",
+            "text": "Por nada estéis afanosos; sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego... Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro... en esto pensad."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Algunos tipos de ansiedad no explotan. Se repiten. Rodean la misma conversación, la misma posibilidad o el mismo miedo una y otra vez hasta que tu mente se siente abarrotada de la mañana a la noche. Repasas lo que dijiste, imaginas lo que alguien quiso decir y vuelves a la misma preocupación como si una ronda más de pensamiento finalmente te hiciera sentir segura. Muchas personas que piensan demasiado no están intentando ser dramáticas. Están intentando sentirse seguras.",
+            "Filipenses 4 ofrece otra dirección. Pablo no simplemente dice: \"Deja de pensar\". Nos dice que llevar todo a Dios y luego permanecer en lo que es verdadero, honorable, justo, puro y amable. Las Escrituras no tratan la mente como algo que hay que indultar sin límites o apagar por la fuerza. La tratan como algo que puede ser guiado.",
+            "El Salmo 94 es especialmente tierno aquí: \"En la multitud de mis pensamientos dentro de mí, tus consuelos deleitan mi alma\". La Biblia sabe cómo se sienten los pensamientos abarrotados. Dios no se sorprende por el ruido mental. No avergüenza una mente ocupada ni trata el pensamiento ansioso como inasequible. Habla consuelo en medio de ello.",
+            "**El objetivo no es la perfección mental. Es aprender a notar cuando tu mente está dando vueltas y devolverla a Dios.** Cuando la misma preocupación regresa, haz una pausa y pregúntate si estás orando o simplemente repitiendo el ciclo. Convierte ese pensamiento en una oración clara.",
+            "**La paz suele crecer cuando dejas de pedirle a tu mente que te rescate y comienzas a dejar que Dios la redirija.** Ese cambio generalmente es lento, pero es real. Cada regreso a la oración debilita el impulso del miedo y le enseña a tu vida interior una manera diferente de vivir.",
+            "Cada pequeño regreso importa. Un pensamiento redirigido puede parecer ordinario, pero es parte de cómo Dios le enseña a la mente un camino más gentil."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre, sabes cuán difícil es para mi mente desacelerarse. Los pensamientos vienen y, antes de que lo sepa, me están guiando en círculos. Te agradezco que no me pidas que finja que nada importa. Me invitas a traer todo a ti. Ayúdame a discernir qué necesito entregar y qué es simplemente ansiedad dando vueltas en mi mente. Entra en mis pensamientos abarrotados con tu consuelo, y enséñale a mi corazón a no ser gobernado por cada pensamiento, sino a crecer más estable en ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Filipenses 4:6-8",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "6-8",
+              "translation": "Reina-Valera 1909",
+              "text": "Por nada estéis afanosos; sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego... Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro... en esto pensad."
+            },
+            {
+              "display": "Salmo 94:19",
+              "book_code": "PSA",
+              "chapter": 94,
+              "verses": "19",
+              "translation": "Reina-Valera 1909",
+              "text": "En la multitud de mis pensamientos dentro de mí, tus consuelos alegraron mi alma."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "¿Estoy Llevando Demasiado Peso por Demasiadas Personas?",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Lucas 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "Reina-Valera 1909",
+            "text": "Marta, Marta, afanada y turbada estás con muchas cosas. Pero una cosa es necesaria; y María ha escogido la buena parte."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Algunas ansiedades crecen no porque seas naturalmente nerviosa, sino porque constantemente llevas personas en tu mente. Recuerdas lo que otros olvidan. Anticipas necesidades, monitoreas estados de ánimo, prevines conflictos y absorbes la tensión emocional antes de que alguien pida. La responsabilidad lentamente se convierte en reflejo. Con el tiempo, la línea entre amar a las personas y llevarlas puede borrarse hasta que la ansiedad comienza a sentirse normal.",
+            "Quizás esto se vea familiar: un niño se despierta enfermo en medio de la noche, y en minutos ya estás llevando todo el próximo día en tu mente. O una pequeña tensión en una amistad sigue repitiéndose mucho después de que el momento haya pasado. Este tipo de ansiedad a menudo se esconde dentro de la competencia. Otras personas incluso pueden elogiar lo confiable que eres, mientras tu mundo interior crece cansado.",
+            "**A menudo, lo que realmente aplasta a las personas no es solo la situación, sino el hábito de \"tengo que pensar primero en todo para todos\".** Lucas 10 nos da a Marta, \"cuidadosa y turbada acerca de muchas cosas\". Jesús no la reprende por cuidar. Nota que su corazón ha sido estirado en demasiadas direcciones.",
+            "Dios no niega que tengas cargas. Te recuerda que no todas ellas estaban destinadas a quedarse en tus manos. Pregúntate honestamente hoy: ¿estoy cansada porque la vida es plena, o porque he comenzado a llevar lo que pertenece a todos los demás como si fuera mío?",
+            "**La paz crece cuando el amor ya no está fusionado con la excesiva responsabilidad.** Eso no te hace menos amorosa. A menudo hace que tu amor sea más estable, más libre y más humano. Dios puede enseñarte cómo cuidar fielmente sin vivir como un salvador privado.",
+            "Pídale que te muestre cómo se ve el amor cuando ya no está mezclado con tensión interior constante. Esa claridad puede convertirse en una forma de misericordia. Y ese tipo de misericordia puede evitar que el deber se convierta silenciosamente en miedo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, a menudo convierto el cuidado de otros y el amor por otros en una vida de tensión constante. Sabes por qué sigo haciendo más, pensando más y llevando más, y también sabes lo agotador que se ha vuelto. Te agradezco que veas mi ocupación como viste la de Marta y que gentilmente me llames de vuelta a lo que más importa. Ayúdame a discernir qué es mío para hacer fielmente y qué he asumido más allá de lo que me pediste. Enséñame a depositar mis cargas en ti en lugar de usar la tensión como prueba de que me importa. Bendice también a los que pasan sus vidas cuidando a otros y rara vez son cuidados. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Lucas 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "Reina-Valera 1909",
+              "text": "Marta, Marta, afanada y turbada estás con muchas cosas. Pero una cosa es necesaria; y María ha escogido la buena parte."
+            },
+            {
+              "display": "Salmo 55:22",
+              "book_code": "PSA",
+              "chapter": 55,
+              "verses": "22",
+              "translation": "Reina-Valera 1909",
+              "text": "Echa sobre Jehová tu carga, y él te sustentará; No dejará caer al justo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "Mañana Aún No Llega, Pero Ya Estoy Cansada de Ella",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Mateo 6:31-34",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "31-34",
+            "translation": "Reina-Valera 1909",
+            "text": "Así que, no os afanéis por el día de mañana, que el día de mañana traerá su afán. Basta a cada día su propio mal."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Uno de los signos más claros de la ansiedad diaria es sentirse agotado por cosas que aún no han sucedido. La conversación, la factura, la incertidumbre por delante, el mensaje sin respuesta, la posibilidad que temes — ninguno está completamente aquí, y aún tu mente ya ha vivido a través de ello varias veces. Por eso los corazones ansiosos se cansen tanto. No solo están llevando hoy. Están ensayando mañana al mismo tiempo.",
+            "Jesús habla con profunda practicidad cuando dice: \"Así que, no os afanéis por el día de mañana\". No está desalentando la planificación sabia. Está protegiendo el corazón de arrastrar el peso futuro al presente y llamar a eso sabiduría. La ansiedad quiere prepararse sobrecargando. Jesús enseña otro camino: permanece dentro de hoy. Ese es donde ocurre la obediencia, y ese es donde la gracia a menudo se da.",
+            "Lamentaciones añade que las misericordias de Dios son \"nuevas cada mañana\". La gracia a menudo viene en porciones diarias, no en una entrega gigante de certeza. **No necesitas la fuerza del próximo mes esta noche. Necesitas la misericordia de hoy.**",
+            "Cuando tu mente se adelanta, pregúntate: ¿qué está realmente frente a mí ahora mismo? Una tarea, una oración, una pausa necesaria. **Permanecer en hoy no es negación. Es una forma de confiar en que cuando mañana llegue, la misericordia de Dios llegará con ella.** Esa verdad no hace que el futuro sea pequeño, pero evita que el futuro se trague todo el día. A menudo la paz comienza cuando regresas de los mañanas imaginados a la gracia que Dios está dando ahora.",
+            "Un corazón más tranquilo suele construirse un día fiel a la vez. Dios te encuentra allí, no solo al final del camino, sino en medio de hoy. Eso es a menudo donde mañana pierde parte de su poder sobre el presente. Eso es suficiente para este día."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, a menudo cargo lo que aún no ha sucedido y hago que hoy sea más pesado con la incertidumbre de mañana. Te agradezco que me recuerdes que cada día tiene suficiente problema por su cuenta. Trae mi corazón de vuelta del cansancio de vivir por delante de mí. Ayúdame a notar la gracia que ya me has dado en este momento presente. Enséñame a no gastarme por adelantado, sino a caminar contigo un paso a la vez. Ayúdame a confiar en que cuando mañana llegue, tu misericordia me encontrará allí. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Mateo 6:31-34",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "31-34",
+              "translation": "Reina-Valera 1909",
+              "text": "Así que, no os afanéis por el día de mañana, que el día de mañana traerá su afán. Basta a cada día su propio mal."
+            },
+            {
+              "display": "Lamentaciones 3:22-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "22-23",
+              "translation": "Reina-Valera 1909",
+              "text": "Por la misericordia de Jehová no hemos sido consumidos, porque nunca decayeron sus misericordias. Nuevas son cada mañana; grande es tu fidelidad."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Cuando la Preocupación Se Ha Convertido en un Hábito",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Proverbios 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "Reina-Valera 1909",
+            "text": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A veces la preocupación se vuelve tan familiar que se siente normal. Esperas lo peor, te tensionas rápidamente y tratas la tensión interna como prueba de que estás siendo responsable. Con el tiempo, la ansiedad puede dejar de ser una reacción y convertirse en un parámetro predeterminado. Ni siquiera puedes notar con qué frecuencia tu mente se mueve hacia el miedo primero, porque el patrón ahora se siente ordinario.",
+            "Proverbios 3 habla directamente sobre esto diciéndonos que no nos apoyemos en nuestro propio entendimiento. El problema no es que pensar sea malo. El problema es que el pensamiento ansioso fácilmente intenta convertirse en nuestra fuente más profunda de seguridad. Ensayamos, analizamos, predecimos y nos preparamos como si suficiente esfuerzo mental finalmente pudiera calmar el corazón. Pero nuestro entendimiento no está destinado a ser nuestro refugio.",
+            "Isaías 26 dice que Dios guarda en completa paz a aquel cuya mente está puesta en Él. La paz, entonces, no es la ausencia de pensamiento. Es el reancla del pensamiento. Incluso si la preocupación se ha vuelto familiar, no tiene por qué seguir siendo final.",
+            "**Lo que se ha convertido en un hábito de tensión puede, con el tiempo, ser encontrado por un hábito de volver a Dios.** Observa cuándo sube tu ansiedad con más frecuencia. Prepara una breve versículo u oración para ese momento. **Los pequeños regresos repetidos a menudo son cómo la mente aprende un nuevo hogar.** No desestimes lo repetitivo que se siente ese proceso. El cambio real a menudo se construye a través de una fidelidad constante y ordinaria. Dios puede formar nuevos instintos en un corazón que ha esperado el miedo primero durante mucho tiempo.",
+            "Un nuevo hábito de paz rara vez se siente dramático al principio. Generalmente se siente repetitivo, humilde y muy ordinario. Eso no lo hace menos santo. Dios es lo suficientemente paciente para enseñar paz a través de la repetición. Dios puede construir un reflejo más tranquilo en ti, incluso si el viejo ha estado allí durante años."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, muchas veces no me preocupo solo ocasionalmente; me he acostumbrado a preocuparme como forma de vida. Te agradezco que no te canses de mí y no te apartes porque repito los mismos miedos. Ayúdame a ver los patrones ansiosos que se han vuelto automáticos en mí. Enséñame a no tratar la tensión constante como seguridad. En lugar de apoyarme en mi propio entendimiento, ayuda a mi mente a permanecer más firmemente en ti. Lentamente reforma mis hábitos y haz que volver a ti se vuelva más natural que espiralear en el miedo. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Proverbios 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "Reina-Valera 1909",
+              "text": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas."
+            },
+            {
+              "display": "Isaías 26:3",
+              "book_code": "ISA",
+              "chapter": 26,
+              "verses": "3",
+              "translation": "Reina-Valera 1909",
+              "text": "Al que es de firme propósito guardarás en completa paz, porque en ti ha confiado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Volviendo a una Vida con Más Paz",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 121:1-2",
+            "book_code": "PSA",
+            "chapter": 121,
+            "verses": "1-2",
+            "translation": "Reina-Valera 1909",
+            "text": "Alzaré mis ojos a los montes, ¿De dónde vendrá mi socorro? Mi socorro viene de Jehová, que hizo los cielos y la tierra."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La ansiedad diaria rara vez desaparece a través de un avance emocional único. Más a menudo, Dios enseña paz a través de la repetición ordinaria. Es posible que aún sientas preocupación, pero comienzas a notarla más rápidamente y regresas más rápidamente. El cambio no siempre es dramático, pero es real. Muchas personas ansiosas anhelan un gran punto de quiebre. Dios a menudo trabaja a través del reentrenamiento constante.",
+            "El Salmo 121 cambia la postura del alma: \"Mi ayuda viene del Señor\". La ansiedad nos mantiene mirando hacia abajo el problema hasta que llena todo el marco. El salmo nos enseña a elevar nuestros ojos nuevamente. Eso no hace que el problema desaparezca, pero restaura la proporción.",
+            "Filipenses 4:9 añade algo importante. Pablo habla no solo de la paz como un sentimiento, sino del \"Dios de paz\" estando con aquellos que practican lo que han recibido. La paz a menudo se cultiva en patrones. Los pequeños hábitos fieles crean espacio para la firmeza de Dios.",
+            "**La paz no solo se recibe; también se cultiva a través de ritmos de regreso.** Comienza pequeño. Elige un ritmo que pueda convertirse en parte de tu semana: algunos minutos tranquilos por la mañana, orar antes de reaccionar, o terminar el día con un versículo. Estas prácticas no son magia. Son formas de hacer espacio para el Dios de paz en la vida ordinaria.",
+            "**Dios a menudo construye firmeza antes de que llegue el próximo momento difícil.** Los pequeños ritmos ayudan al corazón a reconocer su presencia más rápidamente. Con el tiempo, ese giro repetido puede hacer que tu vida interior esté menos gobernada por el pánico y más familiarizada con la paz.",
+            "El punto no es construir una rutina perfecta, sino estar más disponible para la paz de Dios en los lugares donde más a menudo te desmoronas. Incluso un pequeño ritmo puede comenzar a cambiar la atmósfera de toda una semana. Eso es a menudo cómo la firmeza comienza lentamente a echar raíces en vidas ansiosas."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, te agradezco que no solo me consueles en mis momentos más ansiosos; también deseas enseñarme cómo vivir más establemente con el tiempo. Graba esta verdad en mi corazón: mi ayuda viene de ti. Ayúdame a dejar de mirar solo el problema y aprender a elevar mis ojos a ti una y otra vez. Dame gracia para construir nuevos ritmos de oración, quietud, entrega y confianza. Que la paz se convierta en más que un sentimiento pasajero. En los días ordinarios, forma en mí una vida que descansa más profundamente en ti, y que esa firmeza se convierta en un consuelo tranquilo para otros también. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 121:1-2",
+              "book_code": "PSA",
+              "chapter": 121,
+              "verses": "1-2",
+              "translation": "Reina-Valera 1909",
+              "text": "Alzaré mis ojos a los montes, ¿De dónde vendrá mi socorro? Mi socorro viene de Jehová, que hizo los cielos y la tierra."
+            },
+            {
+              "display": "Filipenses 4:9",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "9",
+              "translation": "Reina-Valera 1909",
+              "text": "Lo que aprendisteis y recibisteis y oísteis y visteis en mí, esto haced; y el Dios de paz estará con vosotros."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

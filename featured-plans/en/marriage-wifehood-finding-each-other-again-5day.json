@@ -1,0 +1,389 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI08",
+    "slug": "finding-each-other-again",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles & Identity",
+      "secondary": "marriage-wifehood",
+      "secondary_label": "Marriage & Wifehood"
+    },
+    "tags": [
+      "marriage",
+      "wifehood",
+      "partnership",
+      "communication",
+      "covenant",
+      "love"
+    ],
+    "title": "Finding Each Other Again",
+    "subtitle": "Rebuilding connection after distance and disappointment",
+    "audience": {
+      "life_stage": [
+        "married-women",
+        "wives"
+      ],
+      "emotional_state": [
+        "committed",
+        "stretched",
+        "seeking-renewal"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "When marriage has been stretched thin by busyness, disappointment, and silence, these five days help you face the distance and begin finding connection again.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#D4B896",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_quiet_kitchen_morning_warm",
+      "icon": "two-rings-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Ecclesiastes 4:9-10",
+        "book_code": "ECC",
+        "chapter": 4,
+        "verses": "9-10"
+      },
+      {
+        "display": "1 Corinthians 13:7",
+        "book_code": "1CO",
+        "chapter": 13,
+        "verses": "7"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "When Did We Start Growing Distant",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Ecclesiastes 4:9-10",
+            "book_code": "ECC",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "KJV",
+            "text": "Two are better than one... For if they fall, the one will lift up his fellow."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many marriages do not break all at once. They drift.",
+            "At first it may look like busyness. Then tiredness. Then conversations become mostly about logistics, schedules, errands, and obligations. Eventually even inner things feel harder to say, because it no longer feels certain they will be received. Distance often enters quietly. By the time we fully notice it, the issue is no longer just a stressful season. Intimacy itself has thinned.",
+            "Ecclesiastes says that two are better than one. Marriage was not meant to become two people functioning side by side without shared closeness. Yet daily strain can slowly reduce a relationship to task-sharing and survival. The connection does not always disappear because love is gone. Sometimes it disappears because love has not been tended.",
+            "There is grace in naming this honestly. Not to accuse, but to tell the truth about what has quietly been lost. Some couples have not stopped caring. They have simply stopped caring for the relationship itself amid the weight of daily life. God often begins repair there, not with polished solutions, but with honest recognition.",
+            "Once distance is named, it no longer has to keep hiding behind busyness. Truth creates a place where care can begin again.",
+            "**Distance in marriage often grows not because we stopped caring, but because we stopped caring for the connection itself.** Today, do not rush to solve everything. Ask more quietly: when did we begin to grow far from each other? God often begins repair with honest naming.",
+            "Even naming the drift can be an act of hope."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, help me honestly see the distance in our marriage instead of explaining everything away as busyness. If we truly have grown far, give me courage to admit it and a heart still willing to seek repair. Keep me from merely getting through life, and teach me to care again for the relationship itself. Guard my heart from slowly hardening under disappointment, fatigue, or quiet resentment. Teach me to speak truthfully, stand gently, and bring even my unspoken needs into Your presence instead of burying them in silence. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Ecclesiastes 4:9-10",
+              "book_code": "ECC",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "KJV",
+              "text": "Two are better than one... For if they fall, the one will lift up his fellow."
+            },
+            {
+              "display": "Revelation 2:4-5",
+              "book_code": "REV",
+              "chapter": 2,
+              "verses": "4-5",
+              "translation": "KJV",
+              "text": "Nevertheless I have somewhat against thee, because thou hast left thy first love... Remember therefore from whence thou art fallen..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Feeling Unseen at Home Is Its Own Kind of Loneliness",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 139:1",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "O Lord, thou hast searched me, and known me."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "There is a particular kind of loneliness that can exist inside marriage: being with someone and still feeling unseen.",
+            "You may be carrying much, giving much, keeping many things going, and yet the effort becomes invisible. Your fatigue, emotional weight, and need for comfort remain mostly untouched. Over time, silence grows. Not because you need less, but because you no longer trust that speaking will lead to being met.",
+            "The Psalms often return to this cry: Lord, You see me. That matters deeply in marriage, because when the person closest to us does not seem to notice our inner world, another question begins to surface: do I matter here? But God does not overlook what has gone unseen. He does not dismiss your daily burden or your quiet giving.",
+            "Sometimes we live so long without being understood that we begin telling ourselves we no longer need it. But numbness is not peace. God may first heal this ache by helping you tell the truth about it. Before anything changes between you and your spouse, He can begin protecting your heart by reminding you that your need to be seen is not childish or excessive.",
+            "Being seen does not solve every marital pain, but it does restore dignity to the part of you that has felt overlooked for too long. That matters deeply to God.",
+            "**One of the deepest pains in marriage is not conflict alone, but the long ache of not being truly seen.** If you feel that loneliness today, do not immediately silence it. Bring it before God first. Let yourself admit that you need understanding."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, You know the quiet but deep pain of feeling unseen in marriage. Thank You that You see the tiredness I have not spoken and the parts of me that have gone misunderstood. Comfort me first, and give me courage to admit that I do have needs. I am not without need; I may simply have gone too long without being received. Guard my heart from slowly hardening under disappointment, fatigue, or quiet resentment. Teach me to speak truthfully, stand gently, and bring even my unspoken needs into Your presence instead of burying them in silence. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 139:1",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "1",
+              "translation": "KJV",
+              "text": "O Lord, thou hast searched me, and known me."
+            },
+            {
+              "display": "Genesis 16:13",
+              "book_code": "GEN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "KJV",
+              "text": "Thou God seest me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Repair Often Begins with One Honest Restart",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "2 Corinthians 5:17",
+            "book_code": "2CO",
+            "chapter": 5,
+            "verses": "17",
+            "translation": "KJV",
+            "text": "Therefore if any man be in Christ, he is a new creature..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "After distance has settled into a marriage, one of the hardest feelings is the sense that it may already be too late.",
+            "There has been too much silence, too much disappointment, too many failed conversations. Even the desire to reconnect can feel fragile because you are no longer sure where to begin. Yet Scripture never treats renewal as possible only when the past was minor. God’s power is often most visible where something real has already been damaged.",
+            "Second Corinthians says that in Christ, all things become new. Marriage is not restored by one verse alone, but that truth still matters. God does not only invite us to grieve what was. He is also able to begin something new in what remains. Repair often starts smaller than we expect. One honest sentence. One softened moment. One admission that the distance is real and should no longer be ignored.",
+            "That kind of beginning is humble. It does not deny the past, and it does not promise instant healing. It simply refuses to let old disappointment have the final word. Many repairs in marriage start not with certainty, but with one quiet willingness: I do not want to keep living like this. I am willing to try moving toward you again.",
+            "**A real restart is not pretending nothing happened. It is refusing to let what happened have the final word.** Ask God today for one small place to begin. You do not have to solve the whole marriage in one conversation. You may only need the courage for one honest step."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, if I have been feeling that it is too late, too hard, or too tiring, place new hope inside me. Do not make me pretend the past did not wound us. Instead, help me see that the past does not have to speak the final word. Give me one doorway into beginning again, and keep my heart from giving up too quickly on repair. If there is a place where I need to repent, speak, wait, or learn love again, lead me there Yourself, and do not let pride keep grace from entering. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "2 Corinthians 5:17",
+              "book_code": "2CO",
+              "chapter": 5,
+              "verses": "17",
+              "translation": "KJV",
+              "text": "Therefore if any man be in Christ, he is a new creature..."
+            },
+            {
+              "display": "Ezekiel 36:26",
+              "book_code": "EZK",
+              "chapter": 36,
+              "verses": "26",
+              "translation": "KJV",
+              "text": "A new heart also will I give you..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "Rebuilding Connection Often Matters More Than Winning the Point",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Romans 12:18",
+            "book_code": "ROM",
+            "chapter": 12,
+            "verses": "18",
+            "translation": "KJV",
+            "text": "If it be possible... live peaceably with all men."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "In marriage, many conflicts become more damaging not because the issue itself is huge, but because both people become committed to proving they are right.",
+            "Facts matter. Truth matters. But when every conversation becomes a struggle over who is more justified, who has suffered more, or who deserves more understanding, the relationship starts losing the sense that you are still on the same team. Marriage does not fail because there are problems. It weakens when problems repeatedly place spouses in opposing camps.",
+            "Romans urges us, as much as it depends on us, to live peaceably. In marriage that does not mean avoiding truth. It means loosening our grip on victory enough to make room for reconnection. Sometimes what a relationship needs most is not a better argument, but deeper listening.",
+            "This is difficult because hurt naturally wants to be justified. We long to be clearly understood. Yet when that longing becomes the whole goal, conversations harden. Often the turning point is not that someone finally argues better, but that someone becomes willing to listen beneath the point. That kind of yielding is not defeat. It is making room for love again.",
+            "Connection does not remove the need for truth, but it makes truth easier to receive. That is why love keeps calling us back from courtroom habits.",
+            "**Often what marriage needs first is not a winner, but a renewed sense of connection.** Think today about the point you most want your spouse to understand. Then ask whether your deeper desire is to be right, or for the relationship to come alive again."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, loosen in me the need to win. If I have been consumed with proving that I am right, hurt, or deserving of understanding, remind me that marriage is not a courtroom. Help me not give up truth, but help me even less give up connection. Guard my heart from slowly hardening under disappointment, fatigue, or quiet resentment. Teach me to speak truthfully, stand gently, and bring even my unspoken needs into Your presence instead of burying them in silence. Thank You that You are not repelled by my weakness, but willing to come near, support me, and keep teaching me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Romans 12:18",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "18",
+              "translation": "KJV",
+              "text": "If it be possible... live peaceably with all men."
+            },
+            {
+              "display": "Philippians 2:4",
+              "book_code": "PHP",
+              "chapter": 2,
+              "verses": "4",
+              "translation": "KJV",
+              "text": "Look not every man on his own things, but every man also on the things of others."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "Finding Each Other Again Is Not Going Back, but Loving Well Now",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "1 Corinthians 13:7",
+            "book_code": "1CO",
+            "chapter": 13,
+            "verses": "7",
+            "translation": "KJV",
+            "text": "Beareth all things, believeth all things, hopeth all things, endureth all things."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "When people long for repair in marriage, they often imagine going back.",
+            "But after years of work, stress, children, disappointment, and change, neither person is exactly who they once were. Real repair is not forcing the relationship to return to an earlier version. It is learning to love the people who stand here now. That requires curiosity, humility, and a willingness to meet each other again in the present.",
+            "First Corinthians says that love bears, believes, hopes, and endures. Part of that love is the willingness to understand again. Not because nothing has changed, but because much has. Some marriages need not only forgiveness for old wounds, but fresh attention to who each spouse has become.",
+            "That takes humility. It is easier to long for an earlier version of the relationship than to meet the changed person in front of us with curiosity. But God often does new work in the present, not by reversing time, but by teaching us how to love truthfully now.",
+            "Sometimes renewal looks less like recovering what was lost and more like discovering what faithfulness can become after both people have changed.",
+            "**Rebuilding marriage is not always recovering the past. Often it is learning how to love well in the present.** Ask God to help you not merely miss what once was, but to meet today with openness. There may be grace waiting not behind you, but here.",
+            "New mercy often meets us more in the present than in nostalgia for the past.",
+            "Love grows wiser when it stops insisting that healing must look like the past."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, help me not only long for the past, but also honestly face the marriage that exists today. If I have been hoping only to return to former days, show me that You can do new work here and now. Help me see the person in front of me again, and teach me again how to love. If there is a place where I need to repent, speak, wait, or learn love again, lead me there Yourself, and do not let pride keep grace from entering. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "1 Corinthians 13:7",
+              "book_code": "1CO",
+              "chapter": 13,
+              "verses": "7",
+              "translation": "KJV",
+              "text": "Beareth all things, believeth all things, hopeth all things, endureth all things."
+            },
+            {
+              "display": "Lamentations 3:22-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "22-23",
+              "translation": "KJV",
+              "text": "It is of the Lord's mercies that we are not consumed... they are new every morning."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

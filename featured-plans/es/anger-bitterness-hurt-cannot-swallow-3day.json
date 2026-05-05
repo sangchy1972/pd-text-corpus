@@ -1,0 +1,255 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG07",
+    "slug": "hurt-cannot-swallow",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardín de las Emociones",
+      "secondary": "anger-bitterness",
+      "secondary_label": "Ira y Amargura"
+    },
+    "tags": [
+      "ira",
+      "amargura",
+      "perdon",
+      "limites",
+      "sanidad"
+    ],
+    "title": "El dolor que aún no puedo tragar",
+    "subtitle": "Para la mujer que se ve tranquila por fuera, pero aún carga el dolor y la ira que no puede liberar del todo.",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "enojada",
+        "resentida",
+        "herida"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Para la mujer que se ve tranquila por fuera, pero aún carga el dolor y la ira que no puede liberar del todo.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#E0BCA0",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_open_field_evening_anger_softening",
+      "icon": "softening-stone-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Efesios 4:26-27",
+        "book_code": "EPH",
+        "chapter": 4,
+        "verses": "26-27"
+      },
+      {
+        "display": "1 Pedro 5:7",
+        "book_code": "1PE",
+        "chapter": 5,
+        "verses": "7"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Esta ira es la voz de una herida",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Efesios 4:26-27",
+            "book_code": "EPH",
+            "chapter": 4,
+            "verses": "26-27",
+            "translation": "Reina-Valera 1909",
+            "text": "Airaos, pero no pequéis: no se ponga el sol sobre vuestro enojo, ni deis lugar al diablo."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas sienten incomodidad con su ira mucho antes de entenderla. Les enseñaron a ser educadas, razonables y serenas, así que cuando surge la ira, rápidamente la renombran. La llaman cansancio, decepción o estrés. Pero a menudo, la ira es la voz de una herida. Algo sucedió que cruzó una línea, expuso una injusticia o tocó un lugar que ya se sentía tierno. Lo que permanece en el corazón no es una intensidad aleatoria. Es el dolor intentando hablar.",
+            "Efesios 4 es importante porque no comienza fingiendo que la ira nunca existe. Dice: \"Airaos, pero no pequéis\". Esta frase es el corazón del asunto porque da permiso antes de dar dirección. La Escritura reconoce que la ira frecuentemente guarda verdad. Algo real fue violado. Alguien fue herido. Un límite fue cruzado. La ira puede ser un mensajero fiel cuando la escuchamos bien. Lo que no puede ser fiel es quedarse atrapada dentro, sin nombre, convirtiéndose en amargura. El Salmo 62 invita: \"Delante de él derrama tu corazón\". Este es el lugar donde la ira puede empezar a convertirse en verdad que sana en lugar de veneno que envenena.",
+            "La ira que no tiene voz a menudo se convierte en frialdad. Se convierte en distancia. Se convierte en dureza lenta que te aísla incluso de las personas que amas. Pero la ira que se expresa ante Dios tiene la oportunidad de transformarse. Puede enseñarte algo verdadero sobre ti misma, sobre lo que realmente importa, sobre dónde necesitas establecer límites más fuertes. Cuando llevas tu ira ante Dios, no la estás justificando. Estás permitiendo que sea escuchada. Y a menudo, en ese espacio de ser completamente escuchada, comienza a soltarse.",
+            "**Hoy lo más importante no es controlar tu ira de inmediato, sino primero reconocer: detrás de esta ira hay una herida real.** Esto te hará comenzar a moverte del auto-reproche hacia la verdad. No necesitas apresurarte a explicar por qué el otro actuó así. No necesitas apresurarte a juzgar si deberías estar furiosa. Primero pregúntate: ¿Cuál fue la palabra, la escena, la forma en que fui tratada que mi corazón aún no puede soltar?",
+            "**Escribe eso. No lo embellezas ni lo justifiques.** Puedes escribir una sola frase completamente honesta: \"Señor, esto me hirió profundamente\". Mucha sanación no comienza con análisis. Comienza cuando finalmente nombras la herida. Cuando dejas de cubrirla con \"estoy bien\", el consuelo de Dios puede finalmente entrar en ese lugar."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre, he cargado con esta ira durante tanto tiempo que casi se siente como si fuera quién soy. He aprendido a no hablar de ella, a mantenerla callada, a actuar como si estuviera bien cuando no lo estoy. Pero hoy me das permiso para traerla ante ti tal como es. Ayúdame a ver que bajo esta ira hay una herida real, no una debilidad vergonzosa. Ayúdame a dejar de castigarme por sentir lo que siento. Y mientras traigo esta ira a tu presencia, transformala no borrando lo que pasó, sino enseñándome dónde estaba el verdadero mal y dónde necesito proteger mejor mi corazón. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Efesios 4:26-27",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "26-27",
+              "translation": "Reina-Valera 1909",
+              "text": "Airaos, pero no pequéis: no se ponga el sol sobre vuestro enojo, ni deis lugar al diablo."
+            },
+            {
+              "display": "Salmo 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Confiad en él en todo tiempo, oh pueblos; delante de él derramad vuestro corazón: Dios es nuestro refugio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "No toda forma de ira me lleva por el camino equivocado",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Marcos 3:5",
+            "book_code": "MRK",
+            "chapter": 3,
+            "verses": "5",
+            "translation": "Reina-Valera 1909",
+            "text": "Entonces mirándolos alrededor con ira, estando entristecido por la dureza de sus corazones, dice al hombre: Extiende tu mano. Y la extendió; y su mano fue restaurada sana."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hay una diferencia importante entre ira que viene del orgullo herido y la ira que viene de la injusticia. Uno quiere desquitarse. La otra quiere restaurar lo que fue roto. Uno infla el ego cuando se siente controlado. La otra protege lo que es realmente valioso. Cuando Jesús vio a los que hacían dinero de la religión en el templo, sintió ira. Cuando vio que los líderes religiosos condenaban a los enfermos en lugar de sanarlos, sintió ira. Esa ira no lo llevó al mal. Lo llevó al acto más amoroso de su ministerio: limpiar el templo, defender lo sagrado, restaurar la casa de Dios.",
+            "Marcos 3 muestra esto directamente. Jesús mira alrededor con ira porque los líderes religiosos rehúsan ayudar en sábado. Pero Su ira no lo hace actuar con venganza. Lo hace actuar con compasión. Esa distinción es crucial. Tu ira puede ser un regalo si la diriges bien. Si tu ira viene porque alguien que amas fue tratado injustamente, eso es una ira santa. Si tu ira es contra la falsedad, la crueldad o lo que daña, Dios no te está pidiendo que la entierres. Te está pidiendo que la redirijas hacia la sanidad en lugar de la venganza.",
+            "Juan 2 muestra a Jesús enojado por lo profano que rodea a Su Padre. No pecó en Su ira. Su ira fue el acto más amoroso posible. En cada caso, la ira de Jesús protegía lo sagrado, no protegía Su propio orgullo. Esa es la marca de una ira redimida: defiende lo que está siendo dañado, no lo que está siendo desafiado.",
+            "**La pregunta no es si debes sentir ira, sino qué harás con ella.** Aquí está la prueba: ¿Esta ira está buscando justicia o buscando lastimar? ¿Está protegiendo lo que es bueno o está castigando lo que es malo? ¿Está diciendo \"no\" a lo que está mal en defensa de algo más puro, o está simplemente diciendo \"yo fuerte, tú débil\"?",
+            "**Si sientes ira porque tu límite fue violado, eso es información valiosa.** Si sientes ira porque alguien que amas fue herido injustamente, eso puede ser una llamada a proteger. Pero si sientes ira porque quieres humillar, controlar o demostrar que tienes razón, necesitas conocer la diferencia. La ira santa es rara, pero real. Es la ira que Jesús mismo sintió. No te hace dura. Te hace más tierna hacia los que sufren."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Jesús, gracias porque no simplemente me pides que mate mis sentimientos. Tú sentiste ira. Tú la expresaste. Pero la usaste para sanar, no para dañar. Ayúdame a entender la diferencia entre la ira que protege y la que castiga, entre la que defiende y la que ataca. Muéstrame dónde mi ira viene de una herida y dónde viene de la verdadera injusticia que necesita ser enfrentada. Redirige mi furor hacia la sanidad si es una herida. Redirige mi furor hacia la protección si es injusticia que veo a otros sufriendo. Pero sana la que viene del orgullo herido y la venganza enojada. En tu nombre, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Marcos 3:5",
+              "book_code": "MRK",
+              "chapter": 3,
+              "verses": "5",
+              "translation": "Reina-Valera 1909",
+              "text": "Entonces mirándolos alrededor con ira, estando entristecido por la dureza de sus corazones, dice al hombre: Extiende tu mano. Y la extendió; y su mano fue restaurada sana."
+            },
+            {
+              "display": "Juan 2:15-16",
+              "book_code": "JHN",
+              "chapter": 2,
+              "verses": "15-16",
+              "translation": "Reina-Valera 1909",
+              "text": "E hizo un azote de cordeles, y echó fuera del templo a todos, y las ovejas y los bueyes; y esparció el dinero de los que vendían palomas, y volcó las mesas; y dijo a los que vendían palomas: Quitad esto de aquí; no hagáis de la casa de mi Padre casa de mercado."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "No necesito esta ira para seguir protegiéndome",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Pedro 5:7",
+            "book_code": "1PE",
+            "chapter": 5,
+            "verses": "7",
+            "translation": "Reina-Valera 1909",
+            "text": "Echad toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Para el tercer día, la pregunta más profunda es a menudo esta: ¿por qué es tan difícil dejar ir la ira? En muchos casos, no es porque disfrutes estar furiosa. Es porque la ira se ha convertido silenciosamente en una forma de protección. Te recuerda lo que sucedió. Te mantiene alerta. Te ayuda a sentir que no serás herida tan fácilmente de nuevo. Con el tiempo, la ira puede comenzar a sentirse como armadura.",
+            "Pero la armadura protege y confina al mismo tiempo. Puede blindarte de algo de dolor, pero también puede mantener tu corazón tenso, guardado e incapaz de descansar. Por eso la amargura se vuelve tan costosa. No simplemente recuerda la herida. Comienza a organizar la vida alrededor de ella.",
+            "Primera Pedro 5 dice que eches toda tu preocupación en Dios, \"porque él tiene cuidado de ti\". Eso importa aquí porque muchas personas no se aferran a la ira simplemente porque sean tercas. Se aferran a ella porque tienen miedo de que si la sueltan, nadie tomará su dolor en serio. Pero el Evangelio ofrece una seguridad diferente: no necesitas tu ira para seguir guardando tu herida cuando un Dios amoroso ya está cerca.",
+            "**Ezequiel 36 promete un corazón nuevo. Eso significa que incluso las partes de ti que aprendieron a sobrevivir a través de dureza, vigilancia o distancia emocional pueden ser renovadas.** No necesitas esta ira para seguir protegiéndote para siempre. Hay otra manera de vivir.",
+            "**La rendición no es derrota. Es negarte a dejar que la herida siga viviendo dentro de ti como tu protector.** Eso no significa que la herida ya no importe. Significa que estás comenzando a colocarla en manos más fuertes. Hoy, intenta una simple oración: \"Señor, no quiero que esta ira siga gobernándome. Por favor guarda lo que he estado usando para proteger\". Ahí es donde a menudo comienza la verdadera liberación."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre, he tenido esta ira durante tanto tiempo que casi es lo único que siento que es mío. Mientras estuviera furiosa, al menos tenía un lugar donde refugiarme. Al menos nadie podía acercarse y herirme de nuevo. Pero también significa que nadie bueno puede acercarse tampoco. Hoy reconozco que me he cansado de vivir detrás de este muro. Ayúdame a creer que puedo ser protegida sin ser dura. Que puedo establecer límites sin mantener una guerra. Que puedo ser fuerte sin ser vengativa. Renueva mi corazón como prometes hacerlo. No me pidas que olvide lo que pasó, pero sí pídeme que crea que Dios mismo ve mi dolor, y que estaré bien aunque suelte esta ira que he cargado durante tanto tiempo. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Pedro 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Reina-Valera 1909",
+              "text": "Echad toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros."
+            },
+            {
+              "display": "Ezequiel 36:26",
+              "book_code": "EZK",
+              "chapter": 36,
+              "verses": "26",
+              "translation": "Reina-Valera 1909",
+              "text": "Os daré un corazón nuevo, y un espíritu nuevo pondré dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

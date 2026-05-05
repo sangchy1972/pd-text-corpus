@@ -1,0 +1,508 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI12",
+    "slug": "motherhood-begins-with-trust",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles & Identity",
+      "secondary": "motherhood",
+      "secondary_label": "Motherhood"
+    },
+    "tags": [
+      "motherhood",
+      "parenting",
+      "trust",
+      "perfectionism",
+      "grace",
+      "rest"
+    ],
+    "title": "Motherhood Begins with Trust",
+    "subtitle": "Learning to entrust your children, your fears, and yourself to God",
+    "audience": {
+      "life_stage": [
+        "mothers",
+        "any-age"
+      ],
+      "emotional_state": [
+        "weary",
+        "loving",
+        "trusting"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "These seven days move more deeply through control, worry, sacrifice, and identity loss in motherhood, teaching the slow work of trust.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#C8E0CC",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_mother_morning_window_quiet",
+      "icon": "cradle-and-leaves-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Isaiah 41:10",
+        "book_code": "ISA",
+        "chapter": 41,
+        "verses": "10"
+      },
+      {
+        "display": "1 Samuel 1:27-28",
+        "book_code": "1SA",
+        "chapter": 1,
+        "verses": "27-28"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "The Deeper We Love, the More Easily We Fear",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Isaiah 41:10",
+            "book_code": "ISA",
+            "chapter": 41,
+            "verses": "10",
+            "translation": "KJV",
+            "text": "Fear thou not; for I am with thee..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Much of a mother’s fear does not come from weakness, but from deep love.",
+            "From the moment a child becomes precious to us, the heart develops new ways to tremble. We fear sickness, heartbreak, bad influences, loneliness, wrong turns, our own limitations, and all the things we cannot predict or prevent. Love makes us tender, and tenderness makes us vulnerable. Many mothers are not failing to trust God; they are carrying the kind of fear that rises wherever love runs deep.",
+            "But when that fear is never brought to God, it rarely stays small. It grows into over-vigilance, control, mental rehearsal, and a body that can no longer rest even when the day is quiet. Psalm 56 says, \"What time I am afraid, I will trust in thee.\" Isaiah 41 says, \"Fear thou not; for I am with thee.\" God does not shame maternal fear. He invites it into His presence so that fear does not become the only language through which love knows how to care.",
+            "Many of us know what it is like to look outwardly functional while inwardly braced. The child may be fine in the moment, yet the mother’s heart is already preparing for every possible loss. Growth does not always mean becoming instantly unafraid. Sometimes it means learning not to process fear alone. We begin to say more honestly, Lord, this is what I am afraid of. I am afraid for her, and I am afraid of how little I control.",
+            "**Fear inside motherhood must be brought into God’s presence, not left to grow alone.** Name one fear today and place it before Him. Do not rush to sound strong. Just be real. God understands both how a mother loves and how a mother trembles."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I bring before You the deepest fears I carry as a mother. Do not let them grow unchecked in my heart. Let them be steadied in Your presence. Hold me especially where I am most tempted toward guilt, depletion, and losing sight of myself. Let me keep loving not by constant inner strain, but by receiving fresh strength from Your mercy, so that both my child and I may live under Your care. Thank You that You are not repelled by my weakness, but willing to come near, support me, and keep teaching me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Isaiah 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "KJV",
+              "text": "Fear thou not; for I am with thee..."
+            },
+            {
+              "display": "Psalm 56:3",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "3",
+              "translation": "KJV",
+              "text": "What time I am afraid, I will trust in thee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Trust Is Not Neglect; It Is Returning God to His Place",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Proverbs 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "KJV",
+            "text": "Trust in the Lord with all thine heart..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some mothers struggle to entrust their children to God not because they love too little, but because they care so intensely.",
+            "We feel the weight of responsibility. We know how easily a child can be wounded. We see how many things matter. So the heart begins to assume that tighter grip means better care. If we monitor more, plan more, intervene more, explain more, maybe we can keep things safer. Responsibility itself is not the problem. But responsibility can quietly harden into control when we begin acting as though everything depends on how tightly we hold on.",
+            "Proverbs tells us to trust in the Lord with all our heart and not lean only on our own understanding. First Peter tells us to cast all our care upon Him because He cares for us. Entrusting is not stepping away from mothering. It is putting the order of reality back in place. I still love, respond, guide, protect, and stay attentive. But I stop trying to occupy God’s place. I remember that my role is faithfulness, not sovereign control.",
+            "This is one of the more humbling growth points in motherhood. We often confuse gripping with loving. But some of our tightness comes from forgetting that we were never meant to be the final keeper of another human life. True surrender restores proportion. It returns God to His rightful place and frees the mother from trying to be more than a mother.",
+            "**Entrusting your child to God is not loving less. It is acknowledging that God holds more securely than you do.** Choose one area you have been trying hardest to control and place it back into His hands today. Let trust begin by restoring the right weight to the right shoulders."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, teach me how to entrust without withdrawing from responsibility. Keep me from living as though I were the savior. I place my child, the future, and the places I have been gripping too tightly back into Your hands. Teach me, even as I love my child, not to leave my own soul outside Your presence, because I am not only a role to fulfill, but a woman You still tenderly see. Thank You that You are not repelled by my weakness, but willing to come near, support me, and keep teaching me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Proverbs 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "KJV",
+              "text": "Trust in the Lord with all thine heart..."
+            },
+            {
+              "display": "1 Peter 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "KJV",
+              "text": "Casting all your care upon him..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "My Child’s Story Is Not Written by Me Alone",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 127:3",
+            "book_code": "PSA",
+            "chapter": 127,
+            "verses": "3",
+            "translation": "KJV",
+            "text": "Lo, children are an heritage of the Lord..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Motherhood can quietly turn responsibility into total responsibility.",
+            "When your child is struggling, you may immediately wonder what you missed, what you should have done earlier, or how you can fix it before it becomes something larger. If she is anxious, withdrawn, angry, behind, wounded, or uncertain, a mother’s heart often moves quickly toward self-blame. We love deeply, so we watch closely. But over time, love can start carrying more than it was meant to carry. We begin acting as though every outcome rests on our insight, our consistency, our timing, our strength.",
+            "Scripture keeps leading us back to a more truthful place. Psalm 127 says children are a heritage from the Lord. A heritage is not the same as a private project. Jeremiah 29 reminds us that God Himself knows the thoughts He thinks toward His people. That includes your child. You participate in her story in meaningful ways, but you are not its sole author. Your prayers matter. Your daily faithfulness matters. Your comfort, correction, and care matter. But none of those things replace the deeper truth that God has always been at work in your child’s life beyond what you can see.",
+            "I think this is one of the harder growth points in motherhood. We often fear that loosening our grip means loving less. But entrusting is not neglect. It is remembering that God loves your child without the limits that shape your motherhood. He is not asking you to write the entire story. He is asking you to walk faithfully in your part while trusting Him with what is beyond you.",
+            "**Faithful parenting matters, but God remains the true Lord of your child’s life.** Bring to Him today the part of your child’s story you are gripping most tightly. Let Him remind you that His hands have always held her more deeply than yours ever could."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You for letting me participate in my child’s life, and thank You for reminding me that I am not the only author of that story. As I parent faithfully, deepen my trust that Your hand is already there. Teach me, even as I love my child, not to leave my own soul outside Your presence, because I am not only a role to fulfill, but a woman You still tenderly see. Thank You that You are not repelled by my weakness, but willing to come near, support me, and keep teaching me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 127:3",
+              "book_code": "PSA",
+              "chapter": 127,
+              "verses": "3",
+              "translation": "KJV",
+              "text": "Lo, children are an heritage of the Lord..."
+            },
+            {
+              "display": "Jeremiah 29:11",
+              "book_code": "JER",
+              "chapter": 29,
+              "verses": "11",
+              "translation": "KJV",
+              "text": "For I know the thoughts that I think toward you..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "Motherhood May Also Require Me to Find Myself Again",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 139:14",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "14",
+            "translation": "KJV",
+            "text": "I will praise thee; for I am fearfully and wonderfully made..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some losses do not happen dramatically. They happen quietly, inside repetition.",
+            "You keep feeding, responding, cleaning, planning, remembering, soothing, carrying, adjusting, and staying available. You may still love your child deeply and even feel grateful for this season, yet somewhere along the way you notice that you have stopped asking a simple question: how am I doing? Not how the house is doing, or how the child is doing, or whether the day held together well enough. How am I, as a woman, as a person, as someone God still knows by name? What has become of my inner life, my delight, my rest, my voice, my nearness to God?",
+            "This kind of self-loss does not mean you are unloving or spiritually immature. It often means the role has been heavy, constant, and consuming for a long time. God truly honors motherhood, but He has not erased your personhood because you became a mother. Psalm 139 still speaks over you. Isaiah 43 still speaks over you. Those words were not only for the woman you were before children. They are for the woman you are now, perhaps tired, perhaps scattered, perhaps unsure where your own self has gone.",
+            "This is one place where growth becomes especially tender. Maturity is not pretending you no longer need care. It is learning to bring your own soul back into the conversation without shame. Not because you matter more than your child, but because God never stopped caring for you while you cared for everyone else. Sometimes the holiest thing a mother can do is tell the truth about her own depletion before numbness settles in too deeply.",
+            "**Motherhood does not end the question of who you are. It makes that question more important to tend.** Ask gently today what part of you has gone too long without attention. Bringing that part back to God is not selfishness. It is honesty."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, if I have slowly lost sight of myself inside motherhood, bring me back. Remind me that even as a mother, I remain someone You know by name. Gather the scattered parts of me that have lived too long only in response mode. Show me what in me needs rest, attention, and gentleness, and keep me from calling that need selfishness. Help me return to You as a whole person, not only as someone holding everything together for others. Teach me, even as I love my child, not to leave my own soul outside Your presence, because I am not only a role to fulfill, but a woman You still tenderly see. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 139:14",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "14",
+              "translation": "KJV",
+              "text": "I will praise thee; for I am fearfully and wonderfully made..."
+            },
+            {
+              "display": "Isaiah 43:1",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "1",
+              "translation": "KJV",
+              "text": "I have called thee by thy name; thou art mine."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "Everyday Faithfulness Becomes Spiritual Legacy",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "2 Timothy 1:5",
+            "book_code": "2TI",
+            "chapter": 1,
+            "verses": "5",
+            "translation": "KJV",
+            "text": "When I call to remembrance the unfeigned faith..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "We often imagine spiritual legacy as something dramatic. We picture meaningful talks, beautifully timed wisdom, memorable family devotions, or the kind of motherhood that feels obviously impressive. But children usually meet faith much earlier and more quietly than that. They meet it in the ordinary texture of our lives.",
+            "They notice how we begin the day, how we respond under pressure, how we apologize after speaking sharply, how we pray when we do not know what to do, how we carry disappointment, and whether we keep returning to God in the middle of imperfection. Scripture’s picture of legacy is often more hidden and relational than we expect. Paul speaks of the sincere faith that first lived in Timothy’s grandmother and mother. That kind of inheritance did not begin on a stage. It was formed in ordinary, repeated faithfulness.",
+            "This is one of the more comforting truths for mothers. Spiritual legacy does not wait until you become flawless. It grows while you are still learning. Your child may be shaped as much by hearing you ask forgiveness as by hearing you teach. She may learn as much from watching you depend on God in weakness as from listening to you describe Him in strength.",
+            "I think this rescues us from a lot of pressure. Not all of us will leave behind grand, polished examples. But many of us are leaving traces of faith at the table, in the car, at bedtime, in the kitchen, in the moments after hard conversations, in the way we turn back to God when we are tired and human. God knows how to use the ordinary.",
+            "**Children learn about God not only from what we say, but from how we lean on Him.** So do not dismiss small faithfulness today. Your ordinary dependence may be becoming part of someone else’s inheritance."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, help me remain faithful in ordinary days. Let my child see You not only in what I teach, but also in how I depend on You. Teach me, even as I love my child, not to leave my own soul outside Your presence, because I am not only a role to fulfill, but a woman You still tenderly see. Thank You that You are not repelled by my weakness, but willing to come near, support me, and keep teaching me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "2 Timothy 1:5",
+              "book_code": "2TI",
+              "chapter": 1,
+              "verses": "5",
+              "translation": "KJV",
+              "text": "When I call to remembrance the unfeigned faith..."
+            },
+            {
+              "display": "Deuteronomy 6:7",
+              "book_code": "DEU",
+              "chapter": 6,
+              "verses": "7",
+              "translation": "KJV",
+              "text": "And thou shalt teach them diligently unto thy children..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Day 6",
+      "title": "God Is Forming Me Too",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Romans 5:3-4",
+            "book_code": "ROM",
+            "chapter": 5,
+            "verses": "3-4",
+            "translation": "KJV",
+            "text": "Tribulation worketh patience; and patience, experience; and experience, hope."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Sometimes we stay so focused on what motherhood is doing to the child that we forget what it is doing in us.",
+            "This role has a way of revealing what ordinary life can keep hidden. You may think you are patient until you are running on little sleep for too long. You may think you trust God until your child enters a struggle you cannot control. You may assume you are emotionally steady until exhaustion makes your limits impossible to ignore. Motherhood exposes things. But God does not expose them in order to shame us. He exposes them because He is shaping us.",
+            "Romans 5 says suffering produces patience, patience produces experience, and experience produces hope. That truth belongs not only to dramatic seasons, but also to the long, repetitive, unnoticed strain of ordinary mothering. God uses weariness, limitation, waiting, and love to do deep formation. He shows us where we are fragile, where we are controlling, where we are self-reliant, where we need grace. And over time, if we stay near Him, He also grows something quieter and stronger in us: humility, patience, tenderness, endurance, dependence.",
+            "I think this perspective matters because it changes the question. Instead of only asking, Am I doing this well enough? we begin asking, What is God growing in me through this? That question does not remove the difficulty, but it gives the difficulty direction.",
+            "**In motherhood, God is not only raising a child. He is shaping a woman.** Ask Him today what this season is revealing, softening, and strengthening in you. The places that make you feel inadequate may be the very places where His gentle work is already underway."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, help me see that in motherhood You are not only using me, but also shaping me. Keep me from focusing only on what my child is becoming. Let me also become more fully what You are forming in me. Hold me especially where I am most tempted toward guilt, depletion, and losing sight of myself. Let me keep loving not by constant inner strain, but by receiving fresh strength from Your mercy, so that both my child and I may live under Your care. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Romans 5:3-4",
+              "book_code": "ROM",
+              "chapter": 5,
+              "verses": "3-4",
+              "translation": "KJV",
+              "text": "Tribulation worketh patience; and patience, experience; and experience, hope."
+            },
+            {
+              "display": "Philippians 1:6",
+              "book_code": "PHP",
+              "chapter": 1,
+              "verses": "6",
+              "translation": "KJV",
+              "text": "He which hath begun a good work in you will perform it..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Day 7",
+      "title": "Entrusting Does Not End Love; It Gives Love Rest",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "1 Samuel 1:27-28",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "27-28",
+            "translation": "KJV",
+            "text": "For this child I prayed... therefore also I have lent him to the Lord..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "By the end of these seven days, perhaps the hardest truth is also the gentlest one: entrusting does not mean you love less. It means you stop trying to love by yourself.",
+            "A mother’s love easily becomes a tightened grip. We plan, anticipate, protect, pray, carry, monitor, and stay mentally alert because love wants to keep watch. But when that vigilance never rests in God, it begins to exhaust the woman who is carrying it. Even when nothing urgent is happening, your mind may keep rehearsing what could go wrong. Even when you say you trust God, your body may still feel braced for impact. This is why entrusting matters so deeply. Not because it lessens care, but because it gives care somewhere to rest.",
+            "Hannah’s offering of Samuel was not a cold release. It was an act of love placed back into the hands of God. Psalm 55 says to cast your burden on the Lord, and He will sustain you. Mothers need that word not only for their children, but for themselves. If you are never sustained, your love begins to harden into strain. God does not ask you to stop caring. He asks you to let Him carry what was never meant to remain on your shoulders alone.",
+            "I think many of us are learning this slowly. We still love. We still notice. We still pray. We still work hard. But we begin to say with more honesty, Lord, I do not want to keep loving as though everything depends only on me.",
+            "**Entrusting does not reduce love. It gives love a place to rest in God.** Place your child, yourself, and the future in His hands today, and let the love you carry breathe again inside His keeping."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I place my child into Your hands, and I place myself as a mother into Your hands as well. Let my love no longer be something I carry alone by strain, but something that finds rest in Your presence. Keep outward results from defining me more quickly than Your peace does. Make me faithful in my work and awake in my spirit. Thank You that You are not repelled by my weakness, but willing to come near, support me, and keep teaching me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "1 Samuel 1:27-28",
+              "book_code": "1SA",
+              "chapter": 1,
+              "verses": "27-28",
+              "translation": "KJV",
+              "text": "For this child I prayed... therefore also I have lent him to the Lord..."
+            },
+            {
+              "display": "Psalm 55:22",
+              "book_code": "PSA",
+              "chapter": 55,
+              "verses": "22",
+              "translation": "KJV",
+              "text": "Cast thy burden upon the Lord, and he shall sustain thee..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

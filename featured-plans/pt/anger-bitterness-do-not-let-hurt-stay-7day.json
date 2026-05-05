@@ -1,0 +1,500 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG09",
+    "slug": "do-not-let-hurt-stay",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardim das Emoções",
+      "secondary": "anger-bitterness",
+      "secondary_label": "Ira e Amargura"
+    },
+    "tags": [
+      "ira",
+      "amargura",
+      "perdao",
+      "limites",
+      "cura"
+    ],
+    "title": "Não Deixe o que Machuca Viver Continuando em Seu Coração",
+    "subtitle": "Estes sete dias vão mais fundo em mágoa, limites, perdão e o endurecimento lento que pode acontecer quando a dor é deixada sem atendimento.",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "zangada",
+        "ressentida",
+        "ferida"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes sete dias vão mais fundo em mágoa, limites, perdão e o endurecimento lento que pode acontecer quando a dor é deixada sem atendimento.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#E0BCA0",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_open_field_evening_anger_softening",
+      "icon": "softening-stone-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 62:8",
+        "book_code": "PSA",
+        "chapter": 62,
+        "verses": "8"
+      },
+      {
+        "display": "Ezequiel 36:26",
+        "book_code": "EZK",
+        "chapter": 36,
+        "verses": "26"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Dia 1",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 62:8",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "8",
+            "translation": "Almeida",
+            "text": "Derramem sobre ele os vossos corações; Deus é um refúgio para nós. (Pausa)"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A ira é frequentemente tratada como um problema a ser eliminado o mais rápido possível. Mas quando nos apressamos a silenciá-la, podemos perder o que ela está revelando. Em muitos casos, a ira não é aleatória. É um sinal. Aponta para algo que foi violado, ignorado ou ferido.",
+            "Quando reprimimos a ira repetidamente, sem ouvir o que ela está tentando nos dizer, ela não desaparece—se enrola, se torna amargura, e eventualmente endurece nosso coração. A mágoa que não é reconhecida se torna ressentimento. O ressentimento ignorado se torna dureza.",
+            "**A ira saudável é aquela que nos move para defender o que é certo, depois recua quando a verdade foi dita.** Ela é imediata, focada e tem propósito. Ela não demora. A ira que permanece além de seu propósito—ira alimentada, revisitada e acariciada—é a que envenena.",
+            "**Hoje, permitimos que nossa ira nos ensine,** mas não que nos controle. Ouça-a. Compreenda o que foi violado. E então, deixe-a seguir adiante, confiando em que há justiça maior que a nossa em trabalho."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, ajude-me a ouvir minha ira sem deixá-la consumir meu coração. Conceda-me sabedoria para reconhecer o que foi ferido, e coragem para deixar ir o que não posso controlar.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "Derramem sobre ele os vossos corações; Deus é um refúgio para nós. (Pausa)"
+            },
+            {
+              "display": "Efésios 4:26",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "26",
+              "translation": "Almeida",
+              "text": "Irai-vos, porém não pequeis; não se ponha o sol sobre a vossa ira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Dia 2",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Hebreus 12:15",
+            "book_code": "HEB",
+            "chapter": 12,
+            "verses": "15",
+            "translation": "Almeida",
+            "text": "Cuidando diligentemente de que ninguém se prive da graça de Deus; de que nenhuma raiz de amargura brotando vos perturbe, e por ela muitos se contaminem"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Existem momentos em que a raiva é não apenas apropriada, mas necessária. Quando vemos injustiça, quando somos pessoalmente violados, quando um limite é cruzado—a ira é o coração batendo em defesa. É a alma dizendo: \"Isto não é aceitável.\"",
+            "Até mesmo Jesus se enfureceu. Ele virou as mesas dos cambistas. Não porque fez isso levianamente, mas porque algo sagrado estava sendo profanado. Sua raiva não era pessoal; era propósito. Ela tinha um ponto de vista e terminou.",
+            "**O problema não é sentir ira. O problema é quando deixamos que ela nos resida, quando a transformamos em nosso endereço permanente.** Quando nos recusamos a liberá-la, transformamos um sinal em uma prisão.",
+            "**Assim, hoje, examine suas raivas antigas.** Qual delas ainda está vivendo em você, alimentada por relógios que param de contar? É hora de dar-lhe seu propósito e deixá-la ir."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Deus, conceda-me a graça de sentir sem guardar. Mostrar-me a diferença entre a ira que defende e a ira que destrói.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Hebreus 12:15",
+              "book_code": "HEB",
+              "chapter": 12,
+              "verses": "15",
+              "translation": "Almeida",
+              "text": "Cuidando diligentemente de que ninguém se prive da graça de Deus; de que nenhuma raiz de amargura brotando vos perturbe, e por ela muitos se contaminem"
+            },
+            {
+              "display": "Marcos 3:5",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23",
+              "translation": "Almeida",
+              "text": "E Jesus, olhando ao redor para eles com ira, entristecido pela dureza dos seus corações, disse ao homem: Estende a tua mão"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Dia 3",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Provérbios 4:23",
+            "book_code": "ROM",
+            "chapter": 12,
+            "verses": "19",
+            "translation": "Almeida",
+            "text": "Guarda o teu coração mais do que tudo quanto se deve guardar; porque dele procedem as fontes da vida"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Mas e aqueles que nos magoaram? Aqueles que violaram nossa confiança, machucaram nossos corações, nos deixaram com cicatrizes que ainda ardem? Nossa ira para com eles é legítima. A questão é: quanto tempo ela pode viver conosco sem nos envenenar?",
+            "**Há uma diferença entre julgar alguém e guardar ressentimento contra ele.** Podemos ver claramente o que alguém fez, chamar uma coisa pelo seu nome verdadeiro, e ainda assim não permitir que a mágoa ferva em nosso peito a cada lembrança.",
+            "Guardar rancor é permitir que aquele que nos magoou continue a nos ferir todos os dias. É dar a eles residência permanente em nossos pensamentos, em nossa reatividade emocional, em nossa capacidade de confiar. Você ainda está deixando-os ferir você.",
+            "**Não é fraqueza perdoar. É força—a força de reclamar seu próprio coração de volta daquele que o tomou.** Hoje, nomeie alguém. Sinta a mágoa. E então comece o trabalho árduo de deixar."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, o rancor é pesado. Mostrar-me como deixar aqueles que me machucaram sem esperar que mudem ou reconheçam meu sofrimento. Reclamar meu próprio coração.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Provérbios 4:23",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "19",
+              "translation": "Almeida",
+              "text": "Guarda o teu coração mais do que tudo quanto se deve guardar; porque dele procedem as fontes da vida"
+            },
+            {
+              "display": "Romanos 12:19",
+              "book_code": "PSA",
+              "chapter": 9,
+              "verses": "9",
+              "translation": "Almeida",
+              "text": "Não vos vingueis a vós mesmos, amados, mas dai lugar à ira; porque está escrito: A mim me pertence a vingança; eu pagarei, diz o Senhor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Dia 4",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 9:9",
+            "book_code": "MRK",
+            "chapter": 3,
+            "verses": "5",
+            "translation": "Almeida",
+            "text": "O Senhor será refúgio para o oprimido, um refúgio nos tempos de angústia"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O perdão não significa que o que eles fizeram foi aceitável. Não significa que você deve permanecer por perto, que a confiança deve ser restaurada automaticamente, ou que a ferida desapareceu. O perdão significa que você recusa continuar permitindo que aquilo dirija sua vida.",
+            "Quando perdoamos, não estamos deixando ninguém sair livre—exceto nós mesmos. Estamos dizendo: você não conseguiu a chave do meu futuro. Você não fica. Você não define quem sou ou o que acredito sobre mim.",
+            "**O perdão é egoísta no melhor sentido da palavra—é priorizar sua própria paz.** Nem sempre o outro saberá ou compreenderá. Mas seu coração saberá. Seu corpo saberá. Você sentirá o peso diminuir.",
+            "**Pode levar semanas ou anos.** Não é uma decisão única. É um ato repetido, um dia de cada vez. Sempre que aquela velha raiva volta, você diz novamente: não, eu libero isso. Eu recuso permanecer neste inferno por causa do que alguém fez."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Conceda-me a humildade para reconhecer que guardar rancor não me torna melhor. E a coragem de soltar, repetidamente, aqueles que me magoaram.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 9:9",
+              "book_code": "MRK",
+              "chapter": 3,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "O Senhor será refúgio para o oprimido, um refúgio nos tempos de angústia"
+            },
+            {
+              "display": "João 2:15-16",
+              "book_code": "JHN",
+              "chapter": 2,
+              "verses": "15-16",
+              "translation": "Almeida",
+              "text": "E tendo feito um açoite de cordas, lançou todos fora do templo, bem como as ovelhas e os bois; e derramou o dinheiro dos que vendiam pombas, e transtornou as mesas. E disse aos que vendiam pombas: Tirai isto daqui; não façais da casa de meu Pai casa de negócio"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "Dia 5",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Mateus 10:16",
+            "book_code": "MAT",
+            "chapter": 10,
+            "verses": "16",
+            "translation": "Almeida",
+            "text": "Eis que eu vos envio como ovelhas para o meio de lobos; portanto, sede prudentes como as serpentes e simples como as pombas"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Mas há outro tipo de mágoa que não vem de uma pessoa específica, mas de anos de pequenas negligências, de falta de voz, de permanecer pequeno para agradar aos outros. Essa mágoa é mais silenciosa. Ela não tem um vilão—tem apenas você, ficando progressivamente mais duro.",
+            "Pode ser a mágoa de nunca ter sido visto pelas pessoas que se importavam. De ter sido escolhido por último repetidamente. De ter deixado seus sonhos esperar enquanto cuidava de todos. De ter dito sim quando seu coração dizia não. De ter ficado por tanto tempo que esqueceu de sua própria voz.",
+            "**Esse tipo de rancor—voltado para dentro, dirigido para si mesmo—é o mais perigoso. Porque enquanto culpamos os outros, pelo menos sabemos que há injustiça. Mas quando nos culpamos a nós mesmos, endurecemos contra nós mesmos.**",
+            "**Hoje, seja gentil consigo mesmo.** Reconheça o custo. Reconheça aquela voz que você silenciou. Reconheça os sonhos que você adiou. Não para autoflagelação, mas para recuperação. Para começar, a partir de agora, a falar sua verdade."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, abra os olhos do meu coração para ver como fui negligente comigo mesmo. Ajude-me a perdoar-me pelos anos de silêncio. E conceda-me o dom de reclamar minha própria vida.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Mateus 10:16",
+              "book_code": "MAT",
+              "chapter": 10,
+              "verses": "16",
+              "translation": "Almeida",
+              "text": "Eis que eu vos envio como ovelhas para o meio de lobos; portanto, sede prudentes como as serpentes e simples como as pombas"
+            },
+            {
+              "display": "Provérbios 15:1",
+              "book_code": "PRO",
+              "chapter": 15,
+              "verses": "1",
+              "translation": "Almeida",
+              "text": "A resposta branda desvia a ira, mas a palavra dura suscita a ira"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Dia 6",
+      "title": "Dia 6",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Colossenses 3:13",
+            "book_code": "COL",
+            "chapter": 3,
+            "verses": "13",
+            "translation": "Almeida",
+            "text": "Suportando-vos uns aos outros, e perdoando-vos uns aos outros, caso alguém tenha queixa contra outro; assim como Cristo vos perdoou, assim fazei vós também"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A mágoa que viveu em seu coração por tanto tempo não deixará apenas porque você decidiu. Ela virou estrutura. Virou a maneira como você se relaciona—sempre pronto para ser ferido de novo, sempre verificando, nunca relaxando completamente. Virou a maneira como você vê os outros—sempre esperando pela traição.",
+            "Limpar isso leva tempo. Leva consciência. Leva escolha após escolha, dia após dia, para responder de forma diferente do que seus ferimentos pedem. Leva compaixão por si mesmo no processo.",
+            "**Você não chegará aí pela força bruta ou pela determinação.** Você chega por meio do arrependimento—não sobre o que você fez, mas sobre a ilusão de que guardar rancor o protegeria. Chegará lá por graça, que é aquele momento inesperado quando o peso simplesmente... se vai.",
+            "**E chegar-se-á ali, repetidamente, pela escolha de acreditar que há outra maneira de viver.** Que você merece paz. Que seu coração merece ser suave novamente. Que é possível ser vulnerável sem ser ingênuo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, sou tão cansado de estar vigilante. Cansado de guardar. Abra meu coração endurecido e mostre-me o caminho de volta para casa.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Colossenses 3:13",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "13",
+              "translation": "Almeida",
+              "text": "Suportando-vos uns aos outros, e perdoando-vos uns aos outros, caso alguém tenha queixa contra outro; assim como Cristo vos perdoou, assim fazei vós também"
+            },
+            {
+              "display": "Lucas 23:34",
+              "book_code": "LUK",
+              "chapter": 23,
+              "verses": "34",
+              "translation": "Almeida",
+              "text": "E Jesus dizia: Pai, perdoa-lhes, porque não sabem o que fazem. E, repartindo os seus vestidos, deitaram sortes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Dia 7",
+      "title": "Dia 7",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Ezequiel 36:26",
+            "book_code": "EZK",
+            "chapter": 36,
+            "verses": "26",
+            "translation": "Almeida",
+            "text": "Dar-vos-ei coração novo, e porei dentro de vós espírito novo; e tirarei da vossa carne o coração de pedra, e vos darei coração de carne"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Há um momento em que você olha para trás e percebe que aquela velha dor não é mais quem você é. Que você construiu nova vida sobre seus escombros. Que a pessoa que o magoou está em seu passado, não em seu presente.",
+            "Isso não significa que foi fácil. Ou que você o esqueceu. Ou que não há cicatrizes. Significa que você deixou de deixá-lo definir você. Significa que você recuperou o controle de sua narrativa.",
+            "**E aqui está a coisa linda: quando você libera a mágoa que viveu em seu coração, o que fica é espaço.** Espaço para alegria. Espaço para confiança renovada. Espaço para amar pessoas novas sem pedir-lhes que paguem pela dívida antiga.",
+            "**Este é o trabalho da sua vida—não para os outros, mas para você.** Para ensinar seu coração que é seguro se abrir novamente. Que você pode estar vulnerável sem ser destruído. E que há vida além do que lhe feriu."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigado que esta semana não apenas me mostrou minha ira, mas também me mostrou a possibilidade de Sua renovação. Você sabe exatamente onde a amargura me endureceu, e Você sabe como me acostumei a guardar-me, retirar-me e esperar menos. Hoje coloco esses lugares diante de Você novamente. Você é o Deus que dá um novo coração e traz vida de volta aos lugares áridos. Remova o coração de pedra e dê-me um coração de carne. Restaure o que a dor prolongada deixou adormecido, afiado ou fechado. E traga essa mesma renovação para todos que vivem sob ressentimento e dor há muito tempo. Deixe que a liberdade venha não através do esquecimento do passado, mas através de ser renovado por Você em maior brandura, clareza e esperança. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Ezequiel 36:26",
+              "book_code": "EZK",
+              "chapter": 36,
+              "verses": "26",
+              "translation": "Almeida",
+              "text": "Dar-vos-ei coração novo, e porei dentro de vós espírito novo; e tirarei da vossa carne o coração de pedra, e vos darei coração de carne"
+            },
+            {
+              "display": "Filipenses 4:8",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "Finalmente, irmãos, tudo o que é verdadeiro, tudo o que é honesto, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, se há alguma virtude, e se há algum louvor, nisso pensai"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG02",
+    "slug": "thoughts-keep-me-up",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garden of Emotions",
+      "secondary": "anxiety-fear",
+      "secondary_label": "Anxiety & Fear"
+    },
+    "tags": [
+      "anxiety",
+      "fear",
+      "overwhelm",
+      "rest-in-god",
+      "panic",
+      "trust"
+    ],
+    "title": "The Thoughts That Keep Me Up at Night",
+    "subtitle": "For the woman who holds everything together by day, yet lies awake at night with a mind that will not quiet down.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "anxious",
+        "overwhelmed",
+        "fearful"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "For the woman who holds everything together by day, yet lies awake at night with a mind that will not quiet down.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#B5C7E0",
+      "color_secondary": "#3B5775",
+      "image_key": "cover_woman_quiet_window_morning_light_anxiety",
+      "icon": "quiet-rock-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Philippians 4:6-8",
+        "book_code": "PHP",
+        "chapter": 4,
+        "verses": "6-8"
+      },
+      {
+        "display": "Psalm 121:1-2",
+        "book_code": "PSA",
+        "chapter": 121,
+        "verses": "1-2"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "Why Do I Always Overthink Everything",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Philippians 4:6-8",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "6-8",
+            "translation": "KJV",
+            "text": "Be careful for nothing... let your requests be made known unto God... whatsoever things are true... think on these things."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some anxiety does not explode. It loops. It circles the same conversation, the same possibility, or the same fear until your mind feels crowded from morning to night. You replay what you said, imagine what someone meant, and return to the same concern as if one more round of thinking might finally make you feel secure. Many people who overthink are not trying to be dramatic. They are trying to feel safe.",
+            "Philippians 4 offers another direction. Paul does not simply say, \"Stop thinking.\" He tells us to bring everything to God and then to dwell on what is true, honorable, just, pure, and lovely. Scripture does not treat the mind as something to either indulge without limit or shut down by force. It treats the mind as something that can be guided.",
+            "Psalm 94 is especially tender here: \"In the multitude of my thoughts within me thy comforts delight my soul.\" The Bible knows what crowded thoughts feel like. God is not surprised by mental noise. He does not shame a busy mind or treat anxious thinking as unreachable. He speaks comfort into the middle of it.",
+            "**The goal is not mental perfection. It is learning to notice when your mind is circling and bring it back to God.** When the same worry returns, pause and ask whether you are praying or simply looping. Turn that thought into one clear prayer.",
+            "**Peace often grows when you stop asking your mind to rescue you and start letting God redirect it.** That change is usually slow, but it is real. Each return to prayer weakens fear’s momentum and teaches your inner life a different way to live.",
+            "Each small return matters. A redirected thought may seem ordinary, but it is part of how God teaches the mind a gentler path."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, You know how difficult it is for my mind to slow down. Thoughts come, and before I know it, they are leading me in circles. Thank You that You do not ask me to pretend nothing matters. You invite me to bring everything to You. Help me discern what I need to surrender and what is simply anxiety looping in my mind. Enter my crowded thoughts with Your comfort, and teach my heart not to be ruled by every thought, but to grow steadier in You. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Philippians 4:6-8",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "6-8",
+              "translation": "KJV",
+              "text": "Be careful for nothing... let your requests be made known unto God... whatsoever things are true... think on these things."
+            },
+            {
+              "display": "Psalm 94:19",
+              "book_code": "PSA",
+              "chapter": 94,
+              "verses": "19",
+              "translation": "KJV",
+              "text": "In the multitude of my thoughts within me thy comforts delight my soul."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Am I Carrying Too Much for Too Many People",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Luke 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "KJV",
+            "text": "Martha, Martha, thou art careful and troubled about many things: but one thing is needful."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some anxiety grows not because you are naturally nervous, but because you are constantly carrying people in your mind. You remember what others forget. You anticipate needs, monitor moods, prevent conflict, and absorb emotional strain before anyone asks. Responsibility slowly becomes reflex. Over time, the line between loving people and carrying them can blur until anxiety starts to feel normal.",
+            "Maybe this looks familiar: a child wakes up sick in the middle of the night, and within minutes you are already carrying the whole next day in your mind. Or a small tension in a friendship keeps replaying long after the moment is over. This kind of anxiety often hides inside competence. Other people may even praise how dependable you are, while your inner world grows tired.",
+            "Luke 10 gives us Martha, \"careful and troubled about many things.\" Jesus does not rebuke her for caring. He notices that her heart has been pulled in too many directions. That matters. The problem is not love itself. The problem is what happens when care becomes loaded with constant inner pressure.",
+            "**God does not deny that you have burdens. He reminds you that not all of them were meant to stay in your hands.** Ask honestly today: am I tired because life is full, or because I have begun to carry what belongs to everyone else as though it were all mine?",
+            "**Peace grows when love is no longer fused with over-responsibility.** That does not make you less loving. It often makes your love steadier, freer, and more human. God can teach you how to care faithfully without living like a private savior.",
+            "Ask Him to show you what love looks like when it is no longer mixed with constant inner strain. That clarity can become a form of mercy. And that kind of mercy can keep duty from quietly turning into fear."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I often turn caring for others into a life of constant tension. You know why I keep doing more, thinking more, and carrying more, and You also know how exhausting that has become. Thank You for seeing my busyness the way You saw Martha’s and for gently calling me back to what matters most. Help me discern what is mine to do faithfully and what I have taken on beyond what You asked of me. Teach me to cast my burdens on You instead of using tension as proof that I care. Bless also those who spend their lives caring for others and are rarely cared for themselves. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Luke 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "KJV",
+              "text": "Martha, Martha, thou art careful and troubled about many things: but one thing is needful."
+            },
+            {
+              "display": "Psalm 55:22",
+              "book_code": "PSA",
+              "chapter": 55,
+              "verses": "22",
+              "translation": "KJV",
+              "text": "Cast thy burden upon the LORD, and he shall sustain thee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Tomorrow Isn’t Here, but I’m Already Tired of It",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Matthew 6:31-34",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "31-34",
+            "translation": "KJV",
+            "text": "Take therefore no thought for the morrow... Sufficient unto the day is the evil thereof."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "One of the clearest signs of daily anxiety is feeling exhausted by things that have not happened yet. The conversation, the bill, the uncertainty ahead, the unanswered message, the possibility you dread - none of it is fully here, and still your mind has already lived through it several times. That is why anxious hearts become so tired. They are not only carrying today. They are rehearsing tomorrow at the same time.",
+            "Jesus speaks with deep practicality when He says, \"Sufficient unto the day is the evil thereof.\" He is not discouraging wise planning. He is protecting the heart from dragging future weight into the present and calling that wisdom. Anxiety wants to prepare by overcarrying. Jesus teaches another way: stay inside today. That is where obedience happens, and that is where grace is often given.",
+            "Lamentations adds that God’s mercies are \"new every morning.\" Grace often comes in daily portions, not in one giant delivery of certainty. **You do not need next month’s strength tonight. You need today’s mercy.**",
+            "When your mind runs ahead, ask: what is actually in front of me right now? One task, one prayer, one needed pause. **Staying in today is not denial. It is a way of trusting that when tomorrow arrives, God’s mercy will arrive with it.** That truth does not make the future small, but it keeps the future from swallowing the whole day. Often peace begins when you return from imagined tomorrows to the grace God is giving now.",
+            "A quieter heart is usually built one faithful day at a time. God meets you there, not only at the end of the road, but in the middle of today. That is often where tomorrow loses some of its power over the present. That is enough for this day."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I often carry what has not happened yet and make today heavier with tomorrow’s uncertainty. Thank You for reminding me that each day has enough trouble of its own. Bring my heart back from the weariness of living ahead of myself. Help me notice the grace You are already giving me in this present moment. Teach me not to spend myself in advance, but to walk with You one step at a time. Help me trust that when tomorrow comes, Your mercy will meet me there. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Matthew 6:31-34",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "31-34",
+              "translation": "KJV",
+              "text": "Take therefore no thought for the morrow... Sufficient unto the day is the evil thereof."
+            },
+            {
+              "display": "Lamentations 3:22-23",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "22-23",
+              "translation": "KJV",
+              "text": "It is of the LORD'S mercies that we are not consumed... they are new every morning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "When Worry Has Become a Habit",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Proverbs 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "KJV",
+            "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Sometimes worry becomes so familiar that it feels normal. You expect the worst, tighten quickly, and treat inner tension as proof that you are being responsible. Over time, anxiety can become less of a reaction and more of a default setting. You may not even notice how often your mind moves toward fear first, because the pattern now feels ordinary.",
+            "Proverbs 3 speaks directly into this by telling us not to lean on our own understanding. The issue is not that thinking is wrong. The issue is that anxious thinking easily tries to become our deepest source of safety. We rehearse, analyze, predict, and prepare as though enough mental effort might finally calm the heart. But our understanding is not meant to be our refuge.",
+            "Isaiah 26 says God keeps in perfect peace the one whose mind is stayed on Him. Peace, then, is not the absence of thought. It is the re-anchoring of thought. Even if worry has become familiar, it does not have to remain final.",
+            "**What has become a habit of tension can, over time, be met by a habit of turning back to God.** Notice when your anxiety most often rises. Prepare a short verse or prayer for that moment. **Small repeated returns are often how the mind learns a new home.** Do not despise how repetitive that process feels. Real change is often built through steady, ordinary faithfulness. God can form new instincts in a heart that has long expected fear first.",
+            "A new habit of peace rarely feels dramatic at first. It usually feels repetitive, humble, and very ordinary. That does not make it less holy. God is patient enough to teach peace through repetition. God can build a quieter reflex in you, even if the old one has been there for years."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, so often I am not simply worried for a moment; I have grown used to worry as a way of living. Thank You that You do not grow weary of me and do not step away because I repeat the same fears. Help me see the anxious patterns that have become automatic in me. Teach me not to treat constant tension as security. Instead of leaning on my own understanding, help my mind stay more steadily on You. Slowly reshape my habits, and let returning to You become more natural than spiraling in fear. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Proverbs 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "KJV",
+              "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding..."
+            },
+            {
+              "display": "Isaiah 26:3",
+              "book_code": "ISA",
+              "chapter": 26,
+              "verses": "3",
+              "translation": "KJV",
+              "text": "Thou wilt keep him in perfect peace, whose mind is stayed on thee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "Returning to a Life with More Peace",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 121:1-2",
+            "book_code": "PSA",
+            "chapter": 121,
+            "verses": "1-2",
+            "translation": "KJV",
+            "text": "I will lift up mine eyes unto the hills... My help cometh from the LORD."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Daily anxiety rarely disappears through one emotional breakthrough. More often, God teaches peace through ordinary repetition. You may still feel worry, but you begin to notice it sooner and return more quickly. The change is not always dramatic, but it is real. Many anxious people long for one giant turning point. God often works through steady retraining.",
+            "Psalm 121 shifts the posture of the soul: \"My help cometh from the Lord.\" Anxiety keeps us staring downward at the problem until it fills the whole frame. The psalm teaches us to lift our eyes again. That does not make the problem vanish, but it restores proportion.",
+            "Philippians 4:9 adds something important. Paul speaks not only of peace as a feeling, but of the \"God of peace\" being with those who practice what they have received. Peace is often cultivated in patterns. Small faithful habits create space for God’s steadiness.",
+            "**Peace is not only received; it is also cultivated through rhythms of returning.** Begin small. Choose one rhythm that can become part of your week: a few quiet minutes in the morning, praying before reacting, or ending the day with one verse. These practices are not magic. They are ways of making room for the God of peace in ordinary life.",
+            "**God often builds steadiness before the next hard moment arrives.** Small rhythms help the heart recognize His presence more quickly. Over time, that repeated turning can make your inner life less governed by panic and more familiar with peace.",
+            "The point is not to build a perfect routine, but to become more available to God’s peace in the places where you most often unravel. Even a small rhythm can begin changing the atmosphere of a whole week. That is often how steadiness slowly takes root in anxious lives."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You that You do not only comfort me in my most anxious moments; You also teach me how to live more steadily over time. Write this truth on my heart: my help comes from You. Help me stop staring only at the problem and learn to lift my eyes to You again and again. Give me grace to build new rhythms of prayer, stillness, surrender, and trust. Let peace become more than a passing feeling. In ordinary days, form in me a life that rests more deeply in You, and let that steadiness become a quiet comfort to others as well. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 121:1-2",
+              "book_code": "PSA",
+              "chapter": 121,
+              "verses": "1-2",
+              "translation": "KJV",
+              "text": "I will lift up mine eyes unto the hills... My help cometh from the LORD."
+            },
+            {
+              "display": "Philippians 4:9",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "9",
+              "translation": "KJV",
+              "text": "Those things, which ye have both learned... do: and the God of peace shall be with you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

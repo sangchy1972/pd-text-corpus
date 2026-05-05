@@ -1,0 +1,377 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI17",
+    "slug": "whole-while-you-wait",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Papéis e Identidade",
+      "secondary": "single-whole",
+      "secondary_label": "Solteira e Plena"
+    },
+    "tags": [
+      "solteira",
+      "plenitude",
+      "solidao",
+      "espera",
+      "chamado",
+      "realizacao"
+    ],
+    "title": "Inteira Enquanto Espera",
+    "subtitle": "Vivendo plenamente antes que a vida pareça como você esperava",
+    "audience": {
+      "life_stage": [
+        "mulheres solteiras",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "plena",
+        "anseiando",
+        "contente na espera"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes cinco dias ajudam você a trazer seu coração de volta a Deus no meio da espera, ansiedade com o tempo, comparação e sensação de insuficiência, para que você possa começar a viver de um lugar de integridade agora.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#E0D4C0",
+      "color_secondary": "#5A4226",
+      "image_key": "cover_woman_quiet_room_solitude_warm",
+      "icon": "single-tree-and-sun-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Salmo 27:14",
+        "book_code": "PSA",
+        "chapter": 27,
+        "verses": "14"
+      },
+      {
+        "display": "João 10:10",
+        "book_code": "JHN",
+        "chapter": 10,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "A Espera Frequentemente Nos Faz Duvidar de Nós Mesmos",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 27:14",
+            "book_code": "PSA",
+            "chapter": 27,
+            "verses": "14",
+            "translation": "Almeida",
+            "text": "Espere no Senhor; seja corajoso, e Ele fortalecerá seu coração..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O que torna a espera tão difícil não é apenas que a resposta ainda não veio. É que, com o tempo, a espera pode começar a soar como um veredito sobre nós. Talvez eu não seja suficiente. Talvez algo esteja errado comigo. Talvez se eu fosse mais desejável, mais amável, mais segura, mais impressionante ou mais espiritualmente madura, as coisas tivessem se desdobrado até agora. A dor da espera frequentemente vem não apenas do atraso, mas da história que o atraso começa a contar dentro do coração.",
+            "Mas o Salmo 27 apresenta a espera de forma muito diferente. Esperar no Senhor não é humilhação. É o lugar onde Deus fortalece o coração. Romanos 8 fala da espera paciente como algo ligado à esperança, não à vergonha. A Escritura não retrata a espera como uma forma de vida de segunda categoria. Frequentemente a retrata como um lugar onde a confiança está sendo silenciosamente formada.",
+            "Muitos de nós conhecemos quão impiedoso o questionamento \"por que ainda não?\" pode se tornar. Ele não permanece como uma pergunta sobre o tempo. Transforma-se em uma pergunta sobre valor. É aí que a espera começa a ferir a alma. Mas Deus não está de lado, concordando com essa interpretação. Ele não está retardando porque você é menos digna de amor ou alegria.",
+            "**A espera não é rejeição de Deus sobre você, nem é prova de que você carece de valor.** Traga a voz da auto-dúvida a Deus hoje. Não simplesmente discuta com ela em suas próprias forças. Nomeie-a diante Dele. Deixe Sua verdade se aproximar da parte de você que tem sido silenciosamente transformando atraso em acusação."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, liberte-me do hábito de duvidar de mim mesma porque a espera tem sido longa. Você sabe que não simplesmente espero. Frequentemente espero enquanto transformo atraso em evidência de que não sou suficiente. Corrija essa mentira em mim. Fortaleça meu coração nesta estação e me lembre que um anseio sem resposta não é o mesmo que uma vida não amada. Se a resposta ainda não veio, isso não significa que Seu afeto ainda não veio. Fique perto de mim na espera, no silêncio e na tristeza que às vezes chega sem aviso. Não deixe que eu entregue minha dor ao apressamento ou comparação, mas ensine-me a receber a plenitude que Você já está colocando em minha vida hoje. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "Almeida",
+              "text": "Espere no Senhor; seja corajoso, e Ele fortalecerá seu coração..."
+            },
+            {
+              "display": "Romanos 8:25",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "25",
+              "translation": "Almeida",
+              "text": "Mas se esperamos o que não vemos, com paciência aguardamos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Quando Outros Avançam, Não Preciso Diminuir a Mim Mesma",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Gálatas 6:4",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "4",
+            "translation": "Almeida",
+            "text": "Mas cada um examine sua própria obra..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "É humano sentir uma picada quando outras pessoas entram em relacionamentos, casamento ou o próximo estágio que você esperava silenciosamente. O problema nem sempre é a picada em si. O problema mais profundo é o que a picada começa a dizer sobre você. O noivado de alguém, estabilidade ou felicidade visível de outro pode rapidamente se tornar interpretado como evidência contra sua própria desejabilidade, valor ou futuro. A comparação não apenas nos faz notar o que outros têm. Nos tenta a transformar sua bênção em um veredito sobre nossa própria falta.",
+            "Mas Deus nunca designou as histórias de outras pessoas para explicar seu valor. Gálatas 6 diz a cada pessoa para examinar sua própria vida. Isso não é negação emocional. É uma forma de retornar ao seu próprio terreno. Isaías diz que Deus o gravou nas palmas de Suas mãos. Ele não se tornou menos atento a você porque a oração de alguém foi respondida mais cedo. Ele não o esqueceu no meio de abençoar outras pessoas.",
+            "Muitos de nós conhecemos o sentimento complicado de estar genuinamente feliz por alguém e discretamente desanimado ao mesmo tempo. Deus não é ameaçado por essa complexidade. Mas Ele quer curar o hábito de transformar a alegria de outra pessoa em seu auto-desprezo. A comparação frequentemente revela não apenas inveja, mas uma insegurança mais profunda sobre se nós mesmos seremos vistos, escolhidos ou queridos.",
+            "**O \"já\" de alguém não precisa se tornar seu motivo para diminução pessoal.** Quando a comparação surgir hoje, não force você mesma para uma falsa ordem emocional. Traga tudo isso a Deus. Diga a Ele o que dói, o que a assusta e o que este momento parece estar dizendo sobre você. Sua verdade pode se aproximar dos lugares tenros que a comparação expõe."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, quando vejo outros avançando, me guarde de transformar isso em desprezo por mim mesma. Você sabe como pareço calma por fora enquanto internamente já estou comparando, duvidando e me sentindo menos digna. Interrompa esse puxão para baixo. Cure o medo mais profundo subjacente, o medo de que eu possa não ser vista, escolhida ou dada ao que anseio. Obrigada por Sua intenção para comigo não ter encolhido por causa da história de mais ninguém. Fique perto de mim na espera, no silêncio e na tristeza que às vezes chega sem aviso. Não deixe que eu entregue minha dor ao apressamento ou comparação, mas ensine-me a receber a plenitude que Você já está colocando em minha vida hoje. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Gálatas 6:4",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "4",
+              "translation": "Almeida",
+              "text": "Mas cada um examine sua própria obra..."
+            },
+            {
+              "display": "Isaías 49:16",
+              "book_code": "ISA",
+              "chapter": 49,
+              "verses": "16",
+              "translation": "Almeida",
+              "text": "Eis que gravei você nas palmas de minhas mãos..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Integridade Não É Adiada Até o Romance Chegar",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 16:11",
+            "book_code": "PSA",
+            "chapter": 16,
+            "verses": "11",
+            "translation": "Almeida",
+            "text": "Na Sua presença há plenitude de alegria..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas pessoas presumem que a integridade começa quando o amor chega. Uma vez que há um relacionamento, uma vez que há alguém que a escolhe claramente, uma vez que o futuro finalmente parece compartilhado, então talvez seu coração descanse. Mas essa crença torna a vida de solteira insuportavelmente apertada. Ensina você a adiar a paz até algum capítulo posterior, como se você não pudesse verdadeiramente começar até que outra pessoa chegasse.",
+            "O Salmo 16 diz que a plenitude de alegria está na presença de Deus, e João 15 nos chama a permanecer em Cristo. Deus não está minimizando a importância do amor humano. Ele está falando à raiz mais profunda da alma. Se a integridade é adiada até o romance aparecer, os relacionamentos começam a carregar mais do que deveriam. Tornam-se não apenas companheirismo, mas resgate. Esse é muito peso para qualquer amor humano carregar.",
+            "Muitos de nós conhecemos a dor de querer ser escolhido. Frequentemente essa dor é sobre mais do que romance. Toca perguntas mais profundas: sou amável, desejável, digno de compromisso, digno de ser mantido? Deus não zomba desse anseio. Mas também não quer que você coloque toda a resposta ao seu valor em um futuro relacionamento. Ele quer começar a formar estabilidade em você agora.",
+            "**A integridade não é um prêmio esperando ao final do romance. Ela pode começar a crescer em Deus já.** Traga o vazio mais profundo em você de volta a Ele hoje. Não para que você finija que não ansia mais por amor, mas para que seu senso de identidade não esteja mais sendo mantido em reém por algo que ainda não veio."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, mantenha-me de adiar indefinidamente a integridade. Confesso que frequentemente sinto como se uma parte muito importante de mim não pudesse se acalmar até que o amor chegasse. Mas hoje peço que Você faça Sua casa mais profundamente em mim. Desenvolva uma vida mais estável em mim em Sua presença. Não apague meu anseio por ser amada, mas me liberte de colocar meu senso inteiro de integridade em um relacionamento futuro. Fique perto de mim na espera, no silêncio e na tristeza que às vezes chega sem aviso. Não deixe que eu entregue minha dor ao apressamento ou comparação, mas ensine-me a receber a plenitude que Você já está colocando em minha vida hoje. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "Almeida",
+              "text": "Na Sua presença há plenitude de alegria..."
+            },
+            {
+              "display": "João 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "Almeida",
+              "text": "Aquele que permanece em Mim, e Eu nele..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Minha Vida Não Foi Colocada em Pausa",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Efésios 5:15-16",
+            "book_code": "EPH",
+            "chapter": 5,
+            "verses": "15-16",
+            "translation": "Almeida",
+            "text": "Vede, pois, com diligência como vos conduzis... redimindo o tempo..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A vida de solteira pode criar a ilusão de que a vida real ainda não começou. Esse sentimento se intensifica quando as pessoas ao seu redor estão entrando em marcos visíveis. Sem intenção, você começa a tratar sua vida presente como provisória. Vou construir uma casa mais tarde. Vou viajar mais tarde. Vou servir mais profundamente mais tarde. Vou levar minhas aspirações a sério mais tarde. Vou me sentir verdadeiramente viva mais tarde. O futuro tranquilamente se torna o lugar onde sua vida está autorizada a se tornar real.",
+            "Mas Deus está trabalhando em seu presente, não apenas em algum capítulo posterior. Efésios fala de redimir o tempo. Isso não significa espremer produtividade de cada minuto. Significa reconhecer que os dias que você tem agora importam diante de Deus. Filipenses fala de avançar, não porque a vida está completamente estabelecida, mas porque Deus ainda está liderando. A solteria não é um intervalo antes de sua história real começar. É parte de sua história real.",
+            "Muitos de nós sabemos como é difícil acreditar nisso emocionalmente. Podemos concordar em teoria e ainda nos sentir invisíveis em certas estações, feriados ou momentos sociais. Mas Deus não escreveu seu presente como um enredo paralelo. Ele está falando aqui, formando aqui, convidando aqui. Sua vida não está em suspensão simplesmente porque um desejo permanece sem resposta.",
+            "**Sua vida não é uma sala de espera. É sua vida real.** Pergunte a Deus hoje o que Ele a convida a levar a sério agora. A resposta pode ser tranquila, mas quando paramos de adiar nossas vidas, algo na alma começa a acordar novamente."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, mantenha-me de tratar o presente como tempo secundário. Se tenho silenciosamente acreditado que a vida real só começa quando um futuro capítulo chegar, traga-me de volta. Obrigada por Você não ter escrito hoje como descartável de fundo. Ajude-me a parar de simplesmente passar pelos meus dias e comece a viver mais intencionalmente dentro da vida, chamado e graça que Você está me dando agora. Fique perto de mim na espera, no silêncio e na tristeza que às vezes chega sem aviso. Não deixe que eu entregue minha dor ao apressamento ou comparação, mas ensine-me a receber a plenitude que Você já está colocando em minha vida hoje. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Efésios 5:15-16",
+              "book_code": "EPH",
+              "chapter": 5,
+              "verses": "15-16",
+              "translation": "Almeida",
+              "text": "Vede, pois, com diligência como vos conduzis... redimindo o tempo..."
+            },
+            {
+              "display": "Filipenses 3:13-14",
+              "book_code": "PHP",
+              "chapter": 3,
+              "verses": "13-14",
+              "translation": "Almeida",
+              "text": "Esquecendo das coisas que ficam para trás, e avançando para as que estão adiante..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "Uma Vida Plena É Possível Até Enquanto Espera",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "João 10:10",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "10",
+            "translation": "Almeida",
+            "text": "Eu vim para que tenham vida, e a tenham em sua plenitude."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Plenitude não vem em apenas uma forma. Mas muitos de nós nos tornamos presos por uma imaginação muito estreita do que uma vida plena deveria parecer. Presumimos que ser escolhida romanticamente, entrar em casamento e se mudar para um certo tipo de vida visível é a versão verdadeira da abundância. Se essa única coisa ainda não chegou, tudo mais em nossas vidas pode começar a se sentir como um substituto menor. Amizade profunda, trabalho significativo, liberdade de tempo, crescimento em Deus, maturidade emocional e visão em expansão são todos presentes reais, mas frequentemente hesitamos em nomeá-los como plenitude porque não correspondem ao quadro que mais ansiamos.",
+            "Jesus diz em João 10 que Ele veio para que possamos ter vida abundante. Essa abundância não é uma história de tamanho único. O Salmo 84 diz que Deus não nega nenhuma coisa boa aos que andam retamente. Isso não significa que todo desejo é respondido imediatamente. Significa que Deus não pretende que uma vida com Ele seja espiritualmente estéril. A espera ainda pode doer, mas a dor não precisa se tornar o significado inteiro da estação.",
+            "Parte da maturidade na solteria é aprender a manter duas verdades de uma vez: estou ainda esperando, e já estou recebendo muito. Esse tipo de vida não nega o anseio, e também não ignora a graça. Deus não a está chamando para insensibilidade. Ele a está ensinando a viver com esperança e gratidão.",
+            "**Uma vida em espera ainda pode ser uma vida cheia de Deus.** Hoje, nomeie os presentes que Deus já está derramando em sua vida. Não para silenciar seu anseio, mas para impedir que \"ainda não\" cubra tudo o que já é verdade."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada por eu poder ainda viver uma vida plena enquanto espero. Mantenha-me de apenas olhar para o que ainda não veio, e aguçe meus olhos para ver a graça real que Você já está dando. Ajude-me a não negar o anseio nem negligenciar a gratidão. Enquanto ainda espero pelo que espero, deixe-me estar enraizada na abundância de vida que Você já está derramando. Fique perto de mim em momentos tranquilos e na dor que às vezes retorna sem aviso. Não deixe que eu entregue minha vida ao apressamento ou comparação, mas ensine-me a receber hoje como um lugar onde Sua bondade já está em ação. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "João 10:10",
+              "book_code": "JHN",
+              "chapter": 10,
+              "verses": "10",
+              "translation": "Almeida",
+              "text": "Eu vim para que tenham vida, e a tenham em sua plenitude."
+            },
+            {
+              "display": "Salmo 84:11",
+              "book_code": "PSA",
+              "chapter": 84,
+              "verses": "11",
+              "translation": "Almeida",
+              "text": "Nenhuma coisa boa ele nega aos que andam retamente."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

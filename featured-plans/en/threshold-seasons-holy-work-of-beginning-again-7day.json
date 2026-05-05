@@ -1,0 +1,455 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS15",
+    "slug": "holy-work-of-beginning-again",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Life Seasons",
+      "secondary": "threshold-seasons",
+      "secondary_label": "Threshold Seasons"
+    },
+    "tags": [
+      "transition",
+      "starting-over",
+      "new-chapter",
+      "in-between",
+      "calling",
+      "reset"
+    ],
+    "title": "The Holy Work of Beginning Again",
+    "subtitle": "Finding God at the threshold of loss, change, and new life",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "in-transition",
+        "starting-over",
+        "seeking-direction"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "For women standing at the threshold of change who want to meet God not only after transition, but within it.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#B0C8D5",
+      "color_secondary": "#3F5C70",
+      "image_key": "cover_woman_at_doorway_soft_light",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Exodus 3:4-5",
+        "book_code": "EXO",
+        "chapter": 3,
+        "verses": "4-5"
+      },
+      {
+        "display": "Proverbs 3:5-6",
+        "book_code": "PRO",
+        "chapter": 3,
+        "verses": "5-6"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "Beginning Again Is Holy Because God Is There",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Exodus 3:4-5",
+            "book_code": "EXO",
+            "chapter": 3,
+            "verses": "4-5",
+            "translation": "KJV",
+            "text": "God called unto him out of the midst of the bush... Draw not nigh hither: put off thy shoes... for the place whereon thou standest is holy ground."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Beginning again can sound like an inspiring phrase, but women who have lived through real rupture know how costly it can be. It may come through relocation, job loss, divorce, widowhood, children leaving home, recovery after illness, or a long season ending without emotional closure. We call it holy work not because it is easy or romantic, but because God meets people there.",
+            "He does not wait until rebuilding is complete before drawing near. He comes when you are still standing among fragments, still uncertain, still glancing backward.",
+            "When Moses encounters the burning bush, the wilderness becomes holy ground because God is present there. That matters for transition. Threshold places rarely look holy. They look messy, inconvenient, and unfinished. Yet one of the mysteries of grace is that God often chooses such places for self-revelation.",
+            "**Beginning again is holy not because the situation is beautiful yet, but because God is willing to inhabit it before it is resolved.** So if you are standing in a place that does not feel at all like a lovely new beginning, do not deny the mess. Simply remember that God is not repelled by it. He can speak here too."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You that You do not wait for me to tidy everything before You come near. You know that the place where I stand right now is not neat or easy. It holds unfinishedness, strangeness, and forms of confusion I cannot fully explain. And yet You meet me here. Teach me to recognize Your presence even in places that look ordinary or broken. If this beginning is holy ground because You are here, teach me to stand with reverence and to listen with hope. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Exodus 3:4-5",
+              "book_code": "EXO",
+              "chapter": 3,
+              "verses": "4-5",
+              "translation": "KJV",
+              "text": "God called unto him out of the midst of the bush... Draw not nigh hither: put off thy shoes... for the place whereon thou standest is holy ground."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Some New Life Begins with Grieving the Old One",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Joel 2:25",
+            "book_code": "JOL",
+            "chapter": 2,
+            "verses": "25",
+            "translation": "KJV",
+            "text": "I will restore to you the years that the locust hath eaten..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Beginning again is often described too optimistically, as though courage and positivity should allow quick transition. But deep beginnings usually do not start with excitement. They start with grief. A woman must admit that something really has ended. A former rhythm, relationship, city, role, or version of life is no longer hers in the same way.",
+            "Without grief, new beginnings can become performative. The body moves forward while the heart remains standing at the old doorway.",
+            "Joel speaks of God restoring the years the locust has eaten. That promise is powerful because it does not deny loss. It names it. For women beginning again, that matters deeply. God does not require you to minimize what was taken or pretend that hope cancels sorrow. He allows you to say both: this has been lost, and I am still bringing it to You.",
+            "**Some forms of new life emerge only after honest grief has softened the ground.** So if you are still weeping for the old life, do not treat those tears as spiritual failure. They may be part of how God prepares the soil for what comes next."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I confess that I do not meet beginning again with cheerful strength every day. Some endings still ache, and some losses are still difficult even to name. Thank You that You do not require me to become light before You lead me. Receive my grief, and teach me that these tears are not wasted. If new life often begins only after honest mourning, give me courage not to suppress what hurts, and give me hope that You can bring fruit out of ground watered by tears. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Joel 2:25",
+              "book_code": "JOL",
+              "chapter": 2,
+              "verses": "25",
+              "translation": "KJV",
+              "text": "I will restore to you the years that the locust hath eaten..."
+            },
+            {
+              "display": "Psalm 126:5",
+              "book_code": "PSA",
+              "chapter": 126,
+              "verses": "5",
+              "translation": "KJV",
+              "text": "They that sow in tears shall reap in joy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "God Begins Rebuilding Before the Ruins Disappear",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Nehemiah 2:17-18",
+            "book_code": "NEH",
+            "chapter": 2,
+            "verses": "17-18",
+            "translation": "KJV",
+            "text": "Ye see the distress that we are in, how Jerusalem lieth waste... come, and let us build up the wall of Jerusalem... So they strengthened their hands for this good work."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some women resist truly beginning again because they do not feel whole enough yet. The heart is not fully healed. The finances are not fully restored. The body is still different. The relationships remain unresolved. So they quietly tell themselves: once this looks more put together, then I will begin.",
+            "But God often works differently. When Nehemiah rebuilds Jerusalem’s walls, the ruin has not first disappeared. The shame is still fresh. The opposition is still present. The rubble still exists. Rebuilding happens in the presence of damage, not only after it is gone.",
+            "That should comfort the woman who feels too unfinished to begin. God does not wait for your life to resemble an ideal version before He calls you to rebuild. He teaches you to build among the rubble.",
+            "**Rebuilding does not deny the ruins. It trusts that God can still build while the ruins are visible.** So if you have been postponing new faithfulness because you are not fully restored yet, hear this gently: you do not have to wait until all the rubble disappears before beginning again.",
+            "God is not embarrassed by the site of your rebuilding."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I often feel too unrecovered to truly begin. I tell myself that once I am more whole, more stable, or more put together, then I will start again. Thank You for reminding me that You do not wait for all ruins to disappear before rebuilding begins. Give me courage to trust You while brokenness is still visible. Keep me from delaying faithfulness because I am not yet fully restored, and keep me from despising Your work because rubble remains. Teach me to rebuild one stone at a time under Your guidance. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Nehemiah 2:17-18",
+              "book_code": "NEH",
+              "chapter": 2,
+              "verses": "17-18",
+              "translation": "KJV",
+              "text": "Ye see the distress that we are in, how Jerusalem lieth waste... come, and let us build up the wall of Jerusalem... So they strengthened their hands for this good work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "Small Beginnings Can Still Be Holy",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Zechariah 4:10",
+            "book_code": "ZEC",
+            "chapter": 4,
+            "verses": "10",
+            "translation": "KJV",
+            "text": "Who hath despised the day of small things?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "We often imagine beginning again as something dramatic. A move. A major new role. A public reinvention. A sweeping change. But many holy beginnings are much smaller than that. The first cleaned room. The first honest budget. The first meal made for yourself again. The first prayer in a new place. The first return to community. The first admission that yes, it is time to move forward.",
+            "Zechariah asks, \"Who hath despised the day of small things?\" That question matters deeply in transition because new life is rarely loud at first. It often begins as a little light, a little order, a little willingness to re-enter living.",
+            "If a woman values only dramatic change, she may miss the sacred work God is doing through small acts of obedience. Scripture tells us not to despise those beginnings. They are often the truest starting points of larger restoration.",
+            "**God does not overlook the small beginnings that even you may be tempted to dismiss.** So if all you can do today is one small step, do not call it nothing. For a woman rising from loss, dislocation, or long waiting, one small step can be deeply holy."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You that You work not only through dramatic reversals, but also through small, quiet, easily overlooked beginnings. Rescue me from the mindset that only large progress counts. Keep me from despising the one small step I am able to take today. If my beginning looks slow, hidden, or unimpressive, let me still know that You see it and that my heart need not lose courage. Teach me not to despise the day of small things, but to see in each small obedience that You are doing something new. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Zechariah 4:10",
+              "book_code": "ZEC",
+              "chapter": 4,
+              "verses": "10",
+              "translation": "KJV",
+              "text": "Who hath despised the day of small things?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "New Life Often Brings Direction Before Confidence",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Hebrews 11:8",
+            "book_code": "HEB",
+            "chapter": 11,
+            "verses": "8",
+            "translation": "KJV",
+            "text": "By faith Abraham... obeyed; and he went out, not knowing whither he went."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many people assume they should feel confident before beginning again. Real life often works in the opposite order. Direction comes first; confidence grows later. A woman may know only that she can no longer remain where she is, that a certain door must close, or that a new rhythm must begin. That is direction. It is not the same as confidence.",
+            "What makes transition difficult is this mismatch: the feet begin moving while the heart is still catching up.",
+            "Hebrews says that Abraham went out, not knowing whither he went. Scripture does not treat that as weak faith. It treats it as real faith. God does not require you to feel fully secure before you obey. Many holy beginnings start with a woman who lacks certainty but senses God’s call strongly enough to take the next step anyway.",
+            "**In God’s leading, direction often comes before confidence.** That should comfort you. You do not have to wait until your emotions match your obedience. You may walk trembling and still be walking faithfully.",
+            "Steadiness often grows on the road, not before it."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You that You do not require strong confidence before You invite obedience. You know that right now I may have a little direction but not much confidence. Keep me from assuming that because I still tremble, I cannot move forward. As You led Abraham, lead me to obey even within incomplete clarity. Teach me not to treat lack of confidence as lack of guidance. Help me trust that steadiness often grows while following You, not before. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Hebrews 11:8",
+              "book_code": "HEB",
+              "chapter": 11,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "By faith Abraham... obeyed; and he went out, not knowing whither he went."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Day 6",
+      "title": "New Chapters Come with New Mercies",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Isaiah 43:18-19",
+            "book_code": "ISA",
+            "chapter": 43,
+            "verses": "18-19",
+            "translation": "KJV",
+            "text": "Thus saith the Lord, Remember ye not the former things... Behold, I will do a new thing... I will even make a way in the wilderness, and rivers in the desert."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Women who begin again often fear carrying old wounds into the new chapter. They know they are not fully healed. They know some fears still live in them. Some insecurities still flare. So they wonder whether the unresolved past will sabotage whatever comes next.",
+            "Scripture does not answer that fear by saying, \"Become completely whole first.\" It answers by saying that God is able to do a new thing and make a way even in wilderness places. That promise is not for people who are already finished healing. It is for people still walking.",
+            "Transition often means entering new life while still carrying some old tenderness. But God does not send you into a new chapter with old wounds only. He also sends fresh grace with you.",
+            "**A new chapter does not require a woundless version of you. It requires God’s grace for the version of you who is walking into today.** That is profoundly comforting. You do not have to obsess over whether you are fully ready. You need grace for the day you are in, and God has promised not to abandon you there."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I confess that I am afraid of bringing old wounds, old fears, and old vulnerabilities into a new chapter. I fear that the not-yet-healed parts of me will spoil what comes next. Thank You that the hope You give me is not, \"Wait until you are completely whole,\" but, \"I am still able to do a new thing while you are walking with scars.\" Keep me from living today under anxious scrutiny of my own readiness. Let me live instead within the grace You are giving me today. If I am still weak, do not move away from me. If I am still easily triggered, meet me there first. Let me enter this new chapter carrying not only my past, but also the way You make in wilderness places. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Isaiah 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "KJV",
+              "text": "Thus saith the Lord, Remember ye not the former things... Behold, I will do a new thing... I will even make a way in the wilderness, and rivers in the desert."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Day 7",
+      "title": "The Holy Work Ends in Deeper Surrender",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Proverbs 3:5-6",
+            "book_code": "PRO",
+            "chapter": 3,
+            "verses": "5-6",
+            "translation": "KJV",
+            "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "This journey of beginning again is not meant to end with, \"Now I have rebuilt beautifully,\" or, \"Now I finally understand the whole future.\" Its deeper ending is simpler and holier: after loss, change, uncertainty, and rebuilding, a woman becomes more able to say, Lord, I will follow You.",
+            "That is not passive resignation. It is trust formed through lived uncertainty.",
+            "Proverbs says, \"Trust in the Lord with all thine heart; and lean not unto thine own understanding... and he shall direct thy paths.\" That is often where holy beginnings lead. Not to greater control, but to greater surrender. Not to total mastery of the future, but to a steadier willingness to walk with Christ into it.",
+            "**The deepest fruit of beginning again is often not better self-management, but deeper followership.** So end here with a simple prayer: Lord, I do not know everything, but I am willing to go with You. For a woman at a threshold, that is already profound faith."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You that this holy work does not end in greater control, but in deeper following. You know how much I still do not know, and You know how incomplete my sense of the future remains. Yet You do not wait for perfect understanding before You call me. Today I offer myself to You again and say, Lord, I will follow You. Keep me from imagining faith as the possession of full answers. Teach me instead to understand faith as willingness to walk with You before all the answers arrive. Let the end of this new beginning be not that I have become impressive, but that I have become more ready to follow You. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Proverbs 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "KJV",
+              "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding. In all thy ways acknowledge him, and he shall direct thy paths."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

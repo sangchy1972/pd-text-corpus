@@ -1,0 +1,501 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI18",
+    "slug": "sacred-adventure-singleness",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles e Identidad",
+      "secondary": "single-whole",
+      "secondary_label": "Soltera y Plena"
+    },
+    "tags": [
+      "soltera",
+      "plenitud",
+      "soledad",
+      "espera",
+      "llamado",
+      "plenitud"
+    ],
+    "title": "La Aventura Sagrada de la Soltería",
+    "subtitle": "Una época de libertad, formación y confianza más profunda",
+    "audience": {
+      "life_stage": [
+        "mujeres solteras",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "plena",
+        "anhelante",
+        "contenta en la espera"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Estos siete días te llevan más profundamente a través de la soledad, la presión, el anhelo, la libertad y la confianza en la soltería, ayudándote a recibir esta época como un viaje que Dios se toma en serio.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#E0D4C0",
+      "color_secondary": "#5A4226",
+      "image_key": "cover_woman_quiet_room_solitude_warm",
+      "icon": "single-tree-and-sun-circle"
+    },
+    "key_verses": [
+      {
+        "display": "1 Corintios 7:32",
+        "book_code": "1CO",
+        "chapter": 7,
+        "verses": "32"
+      },
+      {
+        "display": "Éxodo 3:5",
+        "book_code": "EXO",
+        "chapter": 3,
+        "verses": "5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "La Soltería No Es una Vida Menor",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Corintios 7:32",
+            "book_code": "1CO",
+            "chapter": 7,
+            "verses": "32",
+            "translation": "Reina-Valera 1909",
+            "text": "El que no está casado, se ocupa de las cosas del Señor, de cómo agradar al Señor."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Incluso cuando no lo decimos en voz alta, muchos de nosotros llevamos la impresión tranquila de que la soltería es de alguna manera una forma menor de vida. Cuando otros se adentran en el matrimonio, la familia y la estabilidad visible, nuestras propias vidas pueden comenzar a sentirse provisionales, inacabadas o secundarias. Con el tiempo, esto no sigue siendo solo una incomodidad social. Moldeamos cómo nos vemos a nosotros mismos. Comenzamos a tratar nuestras propias vidas presentes como si no fueran todavía lo real.",
+            "Pero cuando Pablo escribe sobre la soltería en 1 Corintios 7, no la describe como un defecto, un retraso o una condición espiritualmente vergonzosa. La describe como una forma real de vivir ante Dios, una en la que una persona puede estar atenta al Señor y completamente comprometida en una vida significativa. Dios no coloca tu vida en una categoría menor porque no estés casada. No está esperando a que alcances otro estado relacional antes de tomarte en serio.",
+            "Lo que a menudo necesita sanación no es el anhelo del matrimonio en sí, sino la mentira de que tu vida actual es por lo tanto una versión reducida de lo que podría ser. Así no es como Dios habla. Tu vida no es un marcador de posición de baja resolución hasta que suceda algo mejor. Él está dando a tus días presentes dignidad, peso, vocación y propósito.",
+            "**La soltería no es una versión reducida de la vida. Sigue siendo una vida que Dios está escribiendo con seriedad.** Pídele hoy que sane el lugar en ti que aún siente como si no hubieras comenzado completamente. Deja que Él corrija no solo tu dolor, sino la historia que has estado contando sobre tu vida presente."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, sácame de la mentira de que la soltería es una vida menor. Si he estado tratando mi yo presente y la obra que haces en mí como algo secundario, perdóname y sáname. Gracias porque no me has colocado en el fondo ni me has tratado como una versión incompleta de alguien más digno. Desde hoy, ayúdame a honrar la vida presente que me has dado y cree más profundamente que tiene peso real ante ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Corintios 7:32",
+              "book_code": "1CO",
+              "chapter": 7,
+              "verses": "32",
+              "translation": "Reina-Valera 1909",
+              "text": "El que no está casado, se ocupa de las cosas del Señor, de cómo agradar al Señor."
+            },
+            {
+              "display": "Salmo 84:5",
+              "book_code": "PSA",
+              "chapter": 84,
+              "verses": "5",
+              "translation": "Reina-Valera 1909",
+              "text": "Bienaventurado el hombre que tiene en ti sus fuerzas, en cuyo corazón están tus caminos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "La Soledad No Es Fracaso; A Menudo Es Solo un Anhelo Hablando",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 34:18",
+            "book_code": "PSA",
+            "chapter": 34,
+            "verses": "18",
+            "translation": "Reina-Valera 1909",
+            "text": "Cercano está Jehová a los quebrantados de corazón, y salva a los contritos de espíritu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La soledad puede sentirse expuesta, que es parte de la razón por la que muchos de nosotros tratamos de ocultarla. En la cultura de la iglesia especialmente, algunas personas solteras silenciosamente asumen que si realmente amaran a Dios profundamente, no sentirían este dolor tan fuertemente. Entonces empaquetamos la soledad en algo más aceptable. Tratamos de parecer compuestas, maduras e innecesarias. Pero la soledad oculta no desaparece. Simplemente espera silenciosamente hasta que una fiesta, una noche tardía, una invitación o el amor visible de alguien más la toque de nuevo.",
+            "Sin embargo, la soledad no siempre es evidencia de fe débil. A menudo es simplemente evidencia de anhelo honesto. El deseo de compañía no es vergonzoso, y Dios no lo trata como inmadurez espiritual. Los Salmos nos invitan a derramar nuestros corazones ante Él. Eso significa que no tenemos que volvernos emocionalmente pulidas antes de orar. De hecho, los lugares más crudos en nosotras somos a menudo los que más necesitan oración.",
+            "Una de las grandes libertades de la soltería es admitir la verdad: sí me siento sola, y sí quiero ser acompañada. Decir eso en voz alta no te hace menos espiritual. Te hace más honesta. Dios no está amenazado por tu anhelo, ni está decepcionado por tus lágrimas. Es mucho más probable que te encuentre allí que te avergüence allí.",
+            "**La soledad no es fracaso. A menudo es el anhelo hablando más fuertemente.** No lo ocultes a Dios hoy. Deja que el dolor se convierta en conversación. Deja que el lugar que estés tentada a cubrir se convierta en el lugar donde oras más honestamente."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, traigo ante ti la soledad real en mi interior. Gracias porque no avergüenzas mi anhelo ni descartas mi necesidad. Si he estado pretendiendo que me importa menos de lo que realmente me importa, enséñame honestidad en tu presencia. Recuérdame que la soledad no significa que haya fracasado. Significa que necesito traer mi corazón más profundamente a ti. Acércate a mí, y en mis momentos más vulnerables déjame saber que no he sido abandonada. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 34:18",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "18",
+              "translation": "Reina-Valera 1909",
+              "text": "Cercano está Jehová a los quebrantados de corazón, y salva a los contritos de espíritu."
+            },
+            {
+              "display": "Salmo 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Confiad en él en todo tiempo, oh pueblos; derramad delante de él vuestro corazón."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "La Libertad También Es un Don de Esta Época",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Corintios 7:35",
+            "book_code": "1CO",
+            "chapter": 7,
+            "verses": "35",
+            "translation": "Reina-Valera 1909",
+            "text": "Y digo esto para vuestro provecho; no para tenderos lazo, sino para lo honesto y decente, y para que sin impedimento os acerquéis al Señor."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La soltería no contiene solo carencia. También contiene un tipo particular de libertad. La dificultad es que cuando nos enfocamos mucho en lo que aún no nos ha sido dado, se vuelve más difícil ver lo que esta época realmente está ofreciendo. Puede haber libertad de tiempo, libertad de movimiento, libertad para el crecimiento enfocado, libertad para tomar ciertos riesgos, libertad para cultivar amistades profundas, o libertad para prestar atención a Dios de formas que otra época puede moldear diferentemente.",
+            "Cuando Pablo habla sobre la soltería en 1 Corintios 7, no la idolatra, ni tampoco disminuye el matrimonio. Simplemente reconoce que diferentes épocas llevan diferentes tipos de atención. El Salmo 119 habla de caminar en libertad. Dios no te está dando solo una época de espera. También te está dando espacio. Espacio para conocerte, para sanar, para volverse más enraizada, para servir, para crear, y para ser formada sin algunas de las divisiones de atención que otra época puede traer.",
+            "Muchas de nosotras luchamos aquí porque si solo interpretamos la soltería a través de la lente de la ausencia, cada libertad comienza a sentirse como un premio de consolación. Pero Dios no te está dando una vida de segunda categoría. Te está dando dones reales en esta época, incluso si no es la época que habrías elegido para siempre. Aún puedes anhelar el matrimonio mientras también recibes la libertad de hoy con gratitud.",
+            "**Dios da más que espera en la soltería. También da libertad.** Pregúntale hoy qué espacios, permisos o posibilidades Él ha puesto en esta época que aún no has recibido completamente. A veces la gentileza hacia el presente comienza allí."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, ayúdame a ver no solo lo que le falta a la soltería, sino también la libertad que estás dando aquí. Si he estado viviendo esta época solo como espera, abre mis ojos de nuevo al espacio, crecimiento y posibilidades que ya has puesto en mis manos. Enséñame no solo a soportar, sino también a recibir. Quédate conmigo en la espera, en la quietud, y en la tristeza que a veces llega sin advertencia. No dejes que le entregue mi dolor a la prisa o la comparación, sino enséñame a recibir la plenitud que ya estás poniendo en mi vida hoy. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Corintios 7:35",
+              "book_code": "1CO",
+              "chapter": 7,
+              "verses": "35",
+              "translation": "Reina-Valera 1909",
+              "text": "Y digo esto para vuestro provecho; no para tenderos lazo, sino para lo honesto y decente, y para que sin impedimento os acerquéis al Señor."
+            },
+            {
+              "display": "Salmo 119:45",
+              "book_code": "PSA",
+              "chapter": 119,
+              "verses": "45",
+              "translation": "Reina-Valera 1909",
+              "text": "Y andaré en libertad, porque busqué tus mandamientos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "La Soledad Puede Convertirse en un Lugar de Autoconocimiento",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 139:23-24",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "23-24",
+            "translation": "Reina-Valera 1909",
+            "text": "Examíname, oh Dios, y conoce mi corazón; pruébame y conoce mis pensamientos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A veces lo que más tememos de la quietud no es la quietud en sí. Es lo que la quietud revela. Cuando la vida es agitada, muchas cosas pueden permanecer difusas en el fondo. Pero cuando finalmente nos desaceleramos, el dolor no procesado, el deseo oculto, el miedo no resuelto y las preguntas sin respuesta pueden surgir todo a la vez. Esa es parte de la razón por la que algunas personas se mantienen constantemente ocupadas. La quietud no solo se siente vacía. Se siente expuesta.",
+            "Sin embargo, Dios no tiene miedo de lo que se vuelve visible allí. El Salmo 139 lo invita a buscarnos y conocernos. La soledad, cuando se une a su presencia, puede convertirse en un lugar de autoconocimiento más profundo. En la quietud, puedes comenzar a notar lo que has estado evitando, lo que más anhelas, qué heridas estás llevando, y qué miedos están moldeando tus elecciones. La soltería a menudo trae más de estos momentos a la superficie, y aunque puede sentirse incómodo, también puede ser santo.",
+            "El autoconocimiento en la presencia de Dios no está destinado a hacernos ensimismadas. Nos hace más libres. Cuando comenzamos a reconocer nuestros propios patrones y anhelos, es menos probable que sigamos siendo gobernadas secretamente por ellos. Dios no nos expone para humillarnos. Nos trae a la claridad para que podamos vivir más honestamente.",
+            "**La soledad con Dios no es blankness. Puede convertirse en autoconocimiento más profundo.** Dedica un poco de tiempo hoy sin otra agenda que la presencia. Pregúntale al Señor qué quiere mostrarte más claramente sobre tu propio corazón. No necesitas una respuesta completa de una vez. La disposición a ver ya es una gracia."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, déjame dejar de temer la soledad solamente. Déjame conocerme a mí misma más honestamente en la soledad contigo. Si he estado usando la ocupación para cubrir lo que es real en mí, trae esas cosas a la luz gentilmente. No dejes que me vuelva más hábil en ocultarme. Enséñame a ser más honesta ante ti. En la quietud, déjame crecer no solo más consciente de mí misma, sino también más consciente de ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 139:23-24",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "23-24",
+              "translation": "Reina-Valera 1909",
+              "text": "Examíname, oh Dios, y conoce mi corazón; pruébame y conoce mis pensamientos."
+            },
+            {
+              "display": "Lamentaciones 3:28",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "28",
+              "translation": "Reina-Valera 1909",
+              "text": "Se siente solitario y guarda silencio, porque es lo que el Señor impuso sobre él."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Querer Matrimonio No Me Hace Menos Espiritual",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Filipenses 4:6",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "6",
+            "translation": "Reina-Valera 1909",
+            "text": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Algunos cristianos solteros llevan culpa tranquila por el hecho de que todavía quieren el matrimonio profundamente. Puede sentirse como si la espiritualidad madura ya debería haber disuelto ese deseo, como si cuanto más dedicada estés a Dios, menos deberías importarte ser elegida por otra persona. Pero el anhelo de cercanía relacional no es espiritualmente inferior. No significa que ames a Dios menos. Los seres humanos fueron hechos para la relación, y el deseo en sí no es el problema.",
+            "Filipenses 4 dice que podemos traer nuestras peticiones a Dios. Eso incluye no solo preocupaciones obviamente espirituales, sino también anhelos profundamente humanos. No necesitas disfrazar tu esperanza de matrimonio detrás de un lenguaje más aceptable, ni pretender que el deseo ha desaparecido. Dios no está decepcionado por tu honestidad. De hecho, una de las marcas de la fe madura es que no ya deja de anhelar, sino que sabe a dónde llevar el anhelo.",
+            "Muchas personas sufren porque están divididas dentro de sí mismas. Anhelan compañía y simultáneamente sienten vergüenza del anhelo. Pero Dios no te pide que vivas en esa división. Preferiría que le dijeras la verdad claramente. Lo que se trae a Él puede ser purificado, estabilizado y sostenido. Lo que se oculta a menudo se vuelve más turbulento.",
+            "**Querer matrimonio no es el problema. Llevar ese deseo honestamente a Dios es el camino hacia adelante.** Habla tu anhelo sin disfraz hoy. Déjalo convertirse en oración en lugar de confusión privada. Dios no tiene miedo de cuánto quieres lo que quieres."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, traigo ante ti mi esperanza de matrimonio e intimidad. Guárdame de sentir vergüenza de este deseo, y guárdame de culparme continuamente por tener un deseo. Gracias porque eres lo suficientemente espacioso para recibir mi anhelo. Enséñame cómo colocar en tus manos ese anhelo para que no permanezca solo como una tormenta dentro de mí, sino que se asiente en tu presencia. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Filipenses 4:6",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias."
+            },
+            {
+              "display": "Salmo 37:4",
+              "book_code": "PSA",
+              "chapter": 37,
+              "verses": "4",
+              "translation": "Reina-Valera 1909",
+              "text": "Deléitate asimismo en Jehová, y él te concederá las peticiones de tu corazón."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "Mi Futuro No Necesita Ser Visto Para Ser Confiable",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Isaías 41:10",
+            "book_code": "ISA",
+            "chapter": 41,
+            "verses": "10",
+            "translation": "Reina-Valera 1909",
+            "text": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una de las partes más difíciles de la soltería es la invisibilidad del futuro. No puedes ver si alguien vendrá, si tu historia cambiará, o si la época en la que estás durará mucho más de lo que esperabas. A menudo la ansiedad más profunda no es sobre estar solo hoy. Es sobre la posibilidad de estar solo en un futuro que aún no puedes imaginar. Cuando el futuro se siente en blanco, la mente es rápida en comenzar a llenarlo de miedo.",
+            "Sin embargo, Dios generalmente no nos conforta entregándonos el mapa completo. Hebreos 11 dice que la fe es la certeza de lo que no se ve. Eso no es un llamado al optimismo vago. Es un recordatorio de que la confiabilidad del futuro no depende de nuestra visibilidad, sino de la presencia de Dios. Isaías 41 dice, \"No temas; porque yo estoy contigo.\" Muy a menudo la primera respuesta de Dios a nuestra incertidumbre no es explicación, sino compañía. Puede que no te muestre diez años adelante, pero promete que no caminarás hacia lo desconocido sin Él.",
+            "Muchas de nosotras queremos certeza porque creemos que finalmente calmará el corazón. Pero Dios a menudo forma la confianza enseñándonos a descansar en Él antes de que podamos ver claramente. Eso no es fácil. Es obra santa. Es cómo un alma aprende que puede sobrevivir sin saberlo todo a la vez.",
+            "**Un futuro no visto no es un futuro no sostenido.** Trae la parte más asustadosamente poco clara de tu futuro de vuelta a Dios hoy. No porque de repente te sientas valiente, sino porque estás eligiendo no dejar que la invisibilidad se convierta en una excusa para la incredulidad."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, cuando el futuro no se ve, mi corazón se asusta tan fácilmente. Sabes que no solo tengo miedo de estar solo hoy. A menudo tengo miedo de todos los futuros que no puedo ver. Recuérdame que la invisibilidad no significa ausencia, y que no tener un mapa no significa que no haya guía. Hoy coloco las partes menos claras de mi futuro de vuelta en tus manos. Sostén los miedos que no sé cómo sostener bien yo misma. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Isaías 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo."
+            },
+            {
+              "display": "Hebreos 11:1",
+              "book_code": "HEB",
+              "chapter": 11,
+              "verses": "1",
+              "translation": "Reina-Valera 1909",
+              "text": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "Esta Época de Soltería También Puede Convertirse en Tierra Santa",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Éxodo 3:5",
+            "book_code": "EXO",
+            "chapter": 3,
+            "verses": "5",
+            "translation": "Reina-Valera 1909",
+            "text": "No llegues hasta aquí; quita tu calzado de tus pies, porque el lugar en que tú estás, tierra santa es."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Tal vez lo último para recordar es esto: no desprecies esta época. La soltería puede no ser el arreglo que habrías elegido. Puede no siempre sentirse brillante, pacífica o fácil de honrar. Puede haber soledad, retraso, ternura y pérdida dentro de ella. Pero incluso con todo eso, aún puede convertirse en tierra santa. No porque sea indolora, sino porque Dios está presente dentro de ella.",
+            "Cuando se le dijo a Moisés que el lugar donde estaba era tierra santa, la santidad no provenía de un ambiente perfecto. Provenía de la presencia de Dios. De manera similar, tu soltería puede convertirse en sagrada no porque coincida con tu línea de tiempo preferida, sino porque Dios está allí seriamente atendiendo tu vida. Te está enseñando, exponiendo, fortaleciendo, confortando y ampliando. No está esperando hasta que dejes esta época antes de comenzar a formarte más profundamente.",
+            "Uno de los pensamientos más reconfortantes es que una época tomada en serio por Dios nunca es una época desperdiciada. Eso no requiere que pretendas que cada parte de la soltería ha sido fácil. Simplemente significa que el dolor no tiene la autoridad de definir el significado de este capítulo. Dios sí. Él está contigo aquí.",
+            "**Una época que Dios trata en serio nunca es una época que pasa en vano.** Agradécele hoy que incluso en una época que no elegiste completamente, Él no ha retirado su atención. Pregúntale qué tipo de mujer te está moldeando en este lugar."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, no dejes que desprecio esta época. Incluso cuando no es fácil, ayúdame a creer que estás aquí tomándome en serio, formándome y guiándome. Gracias porque no has tratado mis años de soltería como espacio en blanco, ni esperaste a que terminaran antes de valorarme profundamente. Ayúdame a no solo desear dejar esta época, sino también a estar dispuesta a conocerte y conocerme a mí misma más profundamente dentro de ella. Consagra incluso este capítulo inacabado, y que se convierta en tierra santa donde aprendo confianza más profunda, honestidad más completa, y alegría más estable en ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Éxodo 3:5",
+              "book_code": "EXO",
+              "chapter": 3,
+              "verses": "5",
+              "translation": "Reina-Valera 1909",
+              "text": "No llegues hasta aquí; quita tu calzado de tus pies, porque el lugar en que tú estás, tierra santa es."
+            },
+            {
+              "display": "Salmo 32:8",
+              "book_code": "PSA",
+              "chapter": 32,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Te haré entender, y te enseñaré el camino en que debes andar; sobre ti fijaré mis ojos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

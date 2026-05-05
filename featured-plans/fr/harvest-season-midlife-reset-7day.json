@@ -1,0 +1,485 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS09",
+    "slug": "midlife-reset",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Saisons de la Vie",
+      "secondary": "harvest-season",
+      "secondary_label": "Saison des Moissons"
+    },
+    "tags": [
+      "mi-vie",
+      "changements-corporels",
+      "recentrage",
+      "sagesse",
+      "perimenopause",
+      "menopause"
+    ],
+    "title": "La Grande Réorganisation de la Vie",
+    "subtitle": "Laisser Dieu réordonner ce qui importe dans votre prochain chapitre",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "quarantaine-cinquantaine",
+        "mi-vie"
+      ],
+      "emotional_state": [
+        "réflexive",
+        "en réorientation",
+        "accueillant le changement"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Pour les femmes de la cinquantaine qui sentent que Dieu ne termine pas leur histoire, mais la réordonne avec une sagesse plus profonde et des priorités plus claires.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#E8B888",
+      "color_secondary": "#7A4A2C",
+      "image_key": "cover_woman_open_window_autumn_warm",
+      "icon": "ripening-fruit-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Ésaïe 43:18-19",
+        "book_code": "ISA",
+        "chapter": 43,
+        "verses": "18-19"
+      },
+      {
+        "display": "Josué 14:10-12",
+        "book_code": "JOS",
+        "chapter": 14,
+        "verses": "10-12"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "La Réorganisation Ne Signifie Pas Toujours Que Quelque Chose S'Est Mal Passé",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ésaïe 43:18-19",
+            "book_code": "ISA",
+            "chapter": 43,
+            "verses": "18-19",
+            "translation": "Louis Segond 1910",
+            "text": "Vous ne vous souviendrez plus des choses passées; elles ne vous reviendront plus à l'esprit. Voici, je vais faire une chose nouvelle, sur le point de surgir: ne la connaîtrez-vous pas?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La vie en milieu d'âge apporte souvent une subtile inquiétude. La vie continue, les responsabilités restent réelles, et de l'extérieur, beaucoup peut sembler fonctionnel. Pourtant, intérieurement, une femme commence à sentir qu'elle ne peut plus vivre exactement de la même manière. Les rythmes, les priorités, les définitions du succès et les structures qui l'ont portée autrefois ne lui conviennent plus aussi bien.",
+            "Beaucoup de femmes se blâment à ce moment-là. Elles supposent que le besoin de réorganiser signifie qu'elles n'ont pas bien géré, qu'elles n'ont pas su rester reconnaissantes, ou qu'elles n'ont pas su rester fortes. Mais souvent, la vérité plus profonde est plus simple : la saison a changé.",
+            "Dieu dit dans Ésaïe qu'il fait une chose nouvelle et qu'elle jaillit. Cette promesse ne s'applique pas seulement aux bouleversements dramatiques. Elle parle aussi de la réorganisation intérieure plus lente. Une réinitialisation n'est pas toujours un rejet du passé. Parfois, c'est une reconnaissance que la saison passée a accompli son œuvre, et Dieu arrange maintenant la vie différemment.",
+            "**La réorganisation ne signifie pas toujours que vous avez mal agi. Parfois, cela signifie que Dieu vous conduit vers un nouvel ajustement pour votre prochain chapitre.** Cela change le ton émotionnel du changement. La réinitialisation n'a plus besoin de sonner comme une crise. Elle peut sonner comme une invitation.",
+            "Alors, dites quelque chose de doux mais vrai : peut-être ne suis-je pas brisée. Peut-être ai-je atteint le point où la vie a besoin d'être réordonnée. Cette honnêteté peut devenir la porte vers la paix."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je reconnais que quand je commence à sentir que la vie a besoin d'être réordonnée, je me blâme souvent d'abord, comme si j'avais dû échouer pour en arriver là. Merci de me rappeler que parfois, la vérité plus profonde n'est pas que je suis brisée, mais que la saison a changé. Donne-moi de la clarté pour que je ne m'accroche pas aux anciennes structures par peur, et que je ne tombe pas dans la honte simplement parce que la vie a besoin d'être réarrangée. Si tu me conduis vers un nouveau chapitre, garde-moi de réagir seulement. Aide-moi à réorganiser avec toi. Que cette réinitialisation ne soit pas un déchirement paniqué, mais une réarrangement entre tes mains. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ésaïe 43:18-19",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "18-19",
+              "translation": "Louis Segond 1910",
+              "text": "Vous ne vous souviendrez plus des choses passées; elles ne vous reviendront plus à l'esprit. Voici, je vais faire une chose nouvelle, sur le point de surgir: ne la connaîtrez-vous pas?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "La Vie en Milieu d'Âge Demande Souvent de Lâcher Prise sur les Anciennes Définitions",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Philippiens 3:7-8,13-14",
+            "book_code": "PHP",
+            "chapter": 3,
+            "verses": "7-8,13-14",
+            "translation": "Louis Segond 1910",
+            "text": "Mais ces choses qui étaient pour moi des gains, je les ai regardées comme une perte, à cause de Christ. Et même je regarde toutes choses comme une perte, comparées à l'excellence de la connaissance de Jésus-Christ mon Seigneur... Frères, je ne pense pas l'avoir saisi; mais je fais une chose: oubliant ce qui est en arrière et me portant vers ce qui est en avant, je cours vers le but, pour remporter le prix de la vocation céleste de Dieu en Jésus-Christ."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'une des luttes les plus profondes du milieu de la vie est non seulement de porter trop, mais de continuer à vous interpréter vous-même à travers d'anciennes définitions. Peut-être votre valeur a-t-elle longtemps été liée à la productivité, à l'utilité, à la résilience, ou à la capacité à tenir tout ensemble. Ces définitions vous ont peut-être aidée à fonctionner pendant un temps. Mais plus tard, elles peuvent devenir une forme de servitude.",
+            "Quand le corps change, les rôles se déplacent, les enfants grandissent, les parents vieillissent, et la vie devient plus complexe, les anciennes définitions de soi deviennent souvent trop petites ou trop rigides. Une femme peut entrer une nouvelle étape extérieurement tout en demandant intérieurement une preuve d'une étape antérieure.",
+            "Paul parle dans Philippiens de compter les anciens avantages comme une perte pour le Christ, et d'oublier ce qui est derrière et de s'efforcer vers ce qui est devant. Il ne méprise pas le passé. Il refuse de laisser les anciennes mesures dominer le présent.",
+            "**Certaines formes de lâcher prise ne sont pas une perte de soi, mais une libération des définitions qui ne peuvent plus porter la vérité de qui vous devenez.** Ce genre de renoncement demande du courage. Il vous demande : de quoi ai-je peur qui restera de moi si j'arrête de me prouver de l'ancienne manière ?",
+            "Dieu commence souvent la vraie réorganisation du milieu de la vie juste là. Non en dépouillant l'identité, mais en relâchant la prise des mesures dépassées pour qu'une vie plus profonde puisse émerger."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, montre-moi où je suis encore lié par d'anciennes définitions. Si j'ai longtemps expliqué ma valeur par la productivité, l'utilité, la dureté, ou le fait d'être fiable, détache doucement ces cordes. Merci de ne pas essayer de me vider, mais de me conduire vers une maturité plus vraie. Si lâcher prise sur d'anciennes définitions me fait peur, ne me presse pas et ne me laisse pas fuir. Rencontre-moi au lieu où j'hésitais le plus à lâcher prise. Enseigne-moi à me replacer entre tes mains. Garde-moi de répéter le système de preuve de la dernière saison quand tu m'invites à une liberté plus profonde dans la prochaine. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Philippiens 3:7-8,13-14",
+              "book_code": "PHP",
+              "chapter": 3,
+              "verses": "7-8,13-14",
+              "translation": "Louis Segond 1910",
+              "text": "Mais ces choses qui étaient pour moi des gains, je les ai regardées comme une perte, à cause de Christ. Et même je regarde toutes choses comme une perte, comparées à l'excellence de la connaissance de Jésus-Christ mon Seigneur... Frères, je ne pense pas l'avoir saisi; mais je fais une chose: oubliant ce qui est en arrière et me portant vers ce qui est en avant, je cours vers le but, pour remporter le prix de la vocation céleste de Dieu en Jésus-Christ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Dieu Utilise Parfois la Soustraction pour Protéger ce Qui Vient Après",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Juges 7:2",
+            "book_code": "JDG",
+            "chapter": 7,
+            "verses": "2",
+            "translation": "Louis Segond 1910",
+            "text": "L'Éternel dit à Gédéon: Le peuple qui est avec toi est trop nombreux... de peur qu'Israël ne se glorifie contre moi..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Ce qui est souvent le plus difficile dans la réorganisation du milieu de la vie, ce n'est pas l'ajout, mais la soustraction. Moins d'énergie. Moins de capacité sociale. Moins de tolérance pour l'excès. Moins de capacité à faire plusieurs choses à la fois. Nous interprétons instinctivement la soustraction comme un déclin. Mais le Dieu de l'Écriture ne bénit pas seulement par l'augmentation. Parfois, il protège par la réduction.",
+            "L'histoire de Gédéon est frappante parce que Dieu réduit délibérément ce qui ressemble à la force. Le but n'est pas la cruauté. C'est la clarté. Dieu sait que si les gens continuent de dépendre de la quantité et de la capacité apparente, ils pourraient ne jamais apprendre la vraie confiance.",
+            "La soustraction du milieu de la vie peut fonctionner de façon similaire. Quand vous ne pouvez plus faire tout aller l'ancien chemin, des questions plus profondes deviennent inévitables. Qu'est-ce qui m'appartient de continuer à porter ? Qu'est-ce que je maintiens seulement par habitude, vanité, peur ou momentum ? La réduction rend le discernement plus urgent.",
+            "**Dieu ne conduit pas toujours en vous donnant plus à tenir. Parfois, il conduit en enlevant certaines choses pour que ce qui importe le plus puisse rester.** Si vous pleurez le fait que vous ne pouvez plus faire ce que vous aviez l'habitude de faire, nommez ce deuil. Mais demandez aussi si certaines de ces soustractions peuvent être la miséricorde déguisée.",
+            "La perte n'est pas toujours l'abandon. Parfois, c'est la protection pour le prochain chapitre."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je reconnais que la soustraction est difficile pour moi. J'ai appris à traiter la haute capacité comme la preuve que j'ai encore de la valeur, donc quand certaines capacités commencent à rétrécir, je me sens déçue et exposée. Donne-moi une nouvelle façon de voir. Garde-moi de lire la soustraction seulement comme une perte. Enseigne-moi à demander s'il peut aussi y avoir de la protection là-dedans. Si tu utilises la réduction pour enseigner le discernement et l'élagage pour préserver ce qui vient après, garde-moi de te résister à chaque tournant. Et s'il te plaît, réconforte le vrai deuil qui vient avec le changement, pour que même dans la douleur, je puisse te faire confiance en ne pas diminuer ton soin pour moi. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Juges 7:2",
+              "book_code": "JDG",
+              "chapter": 7,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel dit à Gédéon: Le peuple qui est avec toi est trop nombreux... de peur qu'Israël ne se glorifie contre moi..."
+            },
+            {
+              "display": "Jean 15:2",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "2",
+              "translation": "Louis Segond 1910",
+              "text": "Tout sarment qui porte du fruit, il l'émonde, afin qu'il porte encore plus de fruit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "La Réorganisation du Milieu de la Vie Demande Aussi de Réattribuer le Cœur",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Néhémie 6:3",
+            "book_code": "NEH",
+            "chapter": 6,
+            "verses": "3",
+            "translation": "Louis Segond 1910",
+            "text": "Je leur envoyai dire: J'occupe une grande œuvre, et je ne peux pas descendre. Pourquoi l'ouvrage cesserait-il, pendant que je la quitterais pour descendre vers vous?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Réorganiser la vie n'est pas seulement réarranger les horaires ou redistribuer les responsabilités. À un niveau plus profond, c'est réattribuer le cœur. Où va votre énergie émotionnelle ? Vers les relations et les appels qui comptent vraiment ? Ou vers les anxiétés, les vieilles habitudes et les demandes récurrentes qui vous consomment sans produire la vie ?",
+            "Le milieu de la vie rend cette question souvent inévitable parce que le cœur ne se sent plus infiniment disponible. Vous sentez plus clairement que vous ne pouvez pas vous donner entièrement à tout à la fois.",
+            "L'œuvre de reconstruction de Néhémie impliquait non seulement le travail, mais la distraction, la pression, l'opposition, et des voix le tirant loin de la tâche. L'une de ses formes de sagesse était de refuser de donner un poids égal à chaque interruption. Le milieu de la vie demande quelque chose de similaire. Chaque demande ne mérite pas un espace égal du cœur. Chaque voix urgente ne mérite pas de résidence intérieure.",
+            "**Une partie de la clarté du milieu de la vie est d'apprendre non seulement comment organiser votre vie, mais comment réserver votre cœur pour ce qui porte vraiment du poids devant Dieu.** Cela peut sembler une perte au début, surtout si vous avez l'habitude de vous sur-distribuer. Mais avec le temps, cela devient la liberté.",
+            "La maturité n'est pas la froideur. C'est savoir pourquoi votre cœur appartient plus pleinement à certains endroits qu'à d'autres."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, tu sais que mon problème n'est pas seulement le manque de temps. Mon cœur aussi est tiré dans trop de directions. Donne-moi la clarté requise pour cette saison de la vie. Montre-moi ce qui mérite encore une attention entière et ce qui m'a simplement occupée trop longtemps sans porter une vraie vie. Si j'ai versé mon énergie intérieure dans les mauvais endroits, attire-moi doucement. Et donne-moi la liberté face à la culpabilité quand je ne peux pas répondre à chaque demande. Enseigne-moi à garder mon cœur devant toi, non comme un acte de fermeture de soi, mais pour que je puisse me donner plus fidèlement à ce qui compte vraiment. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Néhémie 6:3",
+              "book_code": "NEH",
+              "chapter": 6,
+              "verses": "3",
+              "translation": "Louis Segond 1910",
+              "text": "Je leur envoyai dire: J'occupe une grande œuvre, et je ne peux pas descendre. Pourquoi l'ouvrage cesserait-il, pendant que je la quitterais pour descendre vers vous?"
+            },
+            {
+              "display": "Proverbes 4:25",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "25",
+              "translation": "Louis Segond 1910",
+              "text": "Que tes yeux regardent en face, et que tes paupières se dirigent devant toi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "La Sagesse Commence Souvent en Admettant que l'Ancienne Manière Ne Fonctionne Plus",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Matthieu 9:17",
+            "book_code": "MAT",
+            "chapter": 9,
+            "verses": "17",
+            "translation": "Louis Segond 1910",
+            "text": "On ne met pas non plus du vin nouveau dans de vieilles outres; autrement, les outres se crèvent, le vin se répand, et les outres sont perdues. Mais on met le vin nouveau dans des outres neuves, et l'un et l'autre se conservent."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de réinitialisations du milieu de la vie commencent par une phrase qui semble tout sauf inspirante : je ne peux plus vivre de cette façon. Parfois c'est le corps qui le dit d'abord. Parfois c'est l'âme. Parfois c'est une relation. Parfois la sécheresse spirituelle devient impossible à ignorer. Pourtant, la plupart des gens n'accueillent pas cette phrase. Ils l'interprètent comme un échec, comme si admettre l'insoutenabilité équivalait à la défaite.",
+            "Souvent, c'est le début de la sagesse.",
+            "Jésus dit que le vin nouveau doit être mis dans des outres neuves. L'ancien récipient a peut-être autrefois été utile, mais il n'est plus capable de contenir ce qui est maintenant donné. Cette image parle puissamment au milieu de la vie. Les anciens modèles, identités et rythmes vous ont peut-être vraiment servi dans une saison antérieure. Mais ils ne peuvent peut-être plus contenir la vie que Dieu vous invite maintenant à vivre.",
+            "**Admettre que l'ancienne manière ne fonctionne plus n'est pas un échec. C'est comment de la place est faite pour un meilleur ordre.** Si vous continuez à vous forcer dans une forme obsolète, vous et la grâce destinée à cette saison risquez de souffrir.",
+            "Donc, si vous sentez que les vieux modèles ne peuvent plus porter votre vie, ne répondez pas à cette vérité seulement par l'auto-critique. Apportez-la devant Dieu. Dites clairement : je ne peux plus vivre de cette façon. Beaucoup de réorganisations saintes commencent là."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je reconnais qu'à certains endroits, je ne peux vraiment plus vivre comme avant. Et je reconnais aussi que j'ai peur de dire cela à haute voix, parce que cela semble trop proche de l'échec. Merci de m'apprendre que l'honnêteté n'est pas l'échec, et que nommer mes limites n'est pas la défaite. Si tu me montres, par ces endroits mal ajustés, que j'ai besoin de nouvelles outres, de nouveaux rythmes et d'un nouvel ordre, donne-moi du courage pour ne pas m'accrocher sans fin à l'ancienne façon. Donne-moi l'humilité de recevoir un nouveau récipient, un nouvel arrangement et une nouvelle forme de vie. Garde-moi de me forcer de nouveau dans des structures qui ne peuvent plus porter ce que tu fais. Fais de la place en moi pour la nouvelle grâce. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Matthieu 9:17",
+              "book_code": "MAT",
+              "chapter": 9,
+              "verses": "17",
+              "translation": "Louis Segond 1910",
+              "text": "On ne met pas non plus du vin nouveau dans de vieilles outres; autrement, les outres se crèvent, le vin se répand, et les outres sont perdues. Mais on met le vin nouveau dans des outres neuves, et l'un et l'autre se conservent."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "La Véritable Réinitialisation Signifie Recentrer, Non Effacer",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 90:12",
+            "book_code": "PSA",
+            "chapter": 90,
+            "verses": "12",
+            "translation": "Louis Segond 1910",
+            "text": "Enseigne-nous à bien compter nos jours, afin que nous appliquions notre cœur à la sagesse."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Le mot « réinitialisation » peut sembler extrême, comme s'il s'agissait de tout jeter et de recommencer de zéro. Mais la réinitialisation spirituelle du milieu de la vie est souvent plus douce et plus sage que cela. Elle consiste moins à effacer le passé qu'à recentrer le présent. Elle rassemble ce qui s'est éparpillé. Elle restaure le poids à ce qui importe et la légèreté à ce qui ne devrait jamais vous dominer.",
+            "Moïse prie dans le Psaume 90 que Dieu nous enseigne à compter nos jours pour que nous gagnions un cœur de sagesse. L'un des cadeaux cachés du milieu de la vie est que le temps devient plus réel. Si cette conscience est tenue dans l'anxiété, elle devient panique. Mais si elle est tenue devant Dieu, elle peut devenir sagesse. Vous arrêtez de vouloir tout. Vous arrêtez de porter chaque attente également. Vous commencez à vous poser de meilleures questions.",
+            "Qu'est-ce qui vaut encore la peine de vous donner ? Qu'est-ce qui ne vaut plus la peine de prendre autant de vie ? Qu'est-ce qui appartient au centre maintenant ?",
+            "**Une véritable réinitialisation n'est pas l'effacement de soi. C'est la réorientation de la vie vers ce qui est finalement le plus digne.** C'est pourquoi cela peut sembler simultanément une perte et un soulagement. Vous ne devenez pas moins. Vous devenez plus alignée.",
+            "Ce genre de recentrage permet à une femme de vivre avec une paix plus profonde. Elle n'a plus besoin de prouver sa valeur en portant tout. Elle peut commencer à porter ce qui est vraiment sien avec une plus grande sagesse."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, réinitialise mon centre. Si au fil des années ma vie s'est trop éparpillée et trop gouvernée par des choses secondaires, ne me donne pas seulement plus de force pour continuer à les porter. Donne-moi la sagesse de me rassembler de nouveau. Enseigne-moi à compter mes jours, non pas dans la panique, mais dans la clarté. Aide-moi à discerner ce qui vaut vraiment la peine de continuer, ce qui doit graduellement être relâché, ce qui est excellent, et ce qui m'a simplement occupée trop longtemps. Que cette réorganisation ne me vide pas, mais m'aligne plus vraiment avec ce que tu apprécies. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 90:12",
+              "book_code": "PSA",
+              "chapter": 90,
+              "verses": "12",
+              "translation": "Louis Segond 1910",
+              "text": "Enseigne-nous à bien compter nos jours, afin que nous appliquions notre cœur à la sagesse."
+            },
+            {
+              "display": "Philippiens 1:10",
+              "book_code": "PHP",
+              "chapter": 1,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "afin que vous discerniez les choses excellentes..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "Le Milieu de la Vie N'est Pas la Fin de l'Histoire",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Josué 14:10-12",
+            "book_code": "JOS",
+            "chapter": 14,
+            "verses": "10-12",
+            "translation": "Louis Segond 1910",
+            "text": "Voici, l'Éternel m'a fait vivre jusqu'à ce jour, comme il l'a dit. Il y a quarante-cinq ans que l'Éternel parlait ainsi à Moïse... Et maintenant voici, je suis ce jour âgé de quatre-vingt-cinq ans. Je suis encore vigoureux comme au jour où Moïse m'a envoyé... Donne-moi cette montagne..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'une des malentendus les plus profondes au sujet du milieu de la vie est de le considérer comme « les meilleurs jours sont passés ». C'est comme si ce qui est vraiment vivant, ce qui s'épanouit vraiment, ce qui est vraiment nouveau n'appartenait qu'à la jeunesse. Mais le Dieu de l'Écriture ne raconte pas cette histoire. Abraham entre dans une confiance plus profonde plus tard. Sarah voit la promesse plus tard. Moïse entre pleinement dans l'appel à quatre-vingts ans. Caleb parle encore de force et d'héritage dans la vieillesse. Dieu n'est pas limité par nos idées de ce qui compte comme les années principales.",
+            "La véritable beauté des années de récolte n'est pas, « Tu comptes toujours malgré le vieillissement. » C'est que Dieu utilise souvent cette saison pour approfondir la pureté, simplifier les priorités, renforcer la sagesse et dépouiller la performance. Une femme peut ne plus vouloir chasser après tout, mais elle peut savoir plus clairement ce qui importe. Elle peut ne plus être alimentée par la brillance extérieure, mais elle peut porter un poids intérieur bien plus grand.",
+            "**Le milieu de la vie n'est pas où Dieu vous déplace vers les marges. C'est souvent où il vous conduit vers un terrain plus profond.** Si vous avez tranquillement craint que le meilleur soit déjà derrière vous, apportez cette peur en présence de Dieu. Il n'est pas seulement le Dieu des commencements. Il est aussi le Dieu de la maturation, de la réorganisation et de la fécondité ultérieure.",
+            "Alors, n'écrivez pas votre propre chapitre du milieu comme une fin avant que Dieu ne le fasse. Il peut encore le nommer comme une profondeur nouvelle.",
+            "Le milieu de la vie n'est pas où Dieu vous met à l'écart. C'est souvent où il vous mène vers un terrain plus profond."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de ne pas être seulement le Dieu des commencements et des sommets, mais aussi le Dieu des années ultérieures, de la réorganisation et de la maturation. Si j'ai tranquillement craint que la meilleure partie soit déjà derrière moi, guéris cette peur et garde-moi de rédiger ma propre histoire comme une fin trop tôt. Merci que cette saison peut contenir une sagesse plus profonde, une intégrité plus vraie, et un fruit plus mûr. Garde-moi de me placer à la marge et de traiter ce chapitre comme de simples réparations. Conduis-moi vers un terrain plus profond. Laisse-moi encore porter du fruit, être encore utilisée par toi, et rester encore verte en ta présence dans les années à venir. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Josué 14:10-12",
+              "book_code": "JOS",
+              "chapter": 14,
+              "verses": "10-12",
+              "translation": "Louis Segond 1910",
+              "text": "Voici, l'Éternel m'a fait vivre jusqu'à ce jour, comme il l'a dit. Il y a quarante-cinq ans que l'Éternel parlait ainsi à Moïse... Et maintenant voici, je suis ce jour âgé de quatre-vingt-cinq ans. Je suis encore vigoureux comme au jour où Moïse m'a envoyé... Donne-moi cette montagne..."
+            },
+            {
+              "display": "Psaume 92:13-14",
+              "book_code": "PSA",
+              "chapter": 92,
+              "verses": "13-14",
+              "translation": "Louis Segond 1910",
+              "text": "Les justes germeront dans la maison de l'Éternel... Ils porteront encore du fruit dans la vieillesse, ils seront pleins de sève et de verdeur..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI17",
+    "slug": "whole-while-you-wait",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rôles et Identité",
+      "secondary": "single-whole",
+      "secondary_label": "Célibataire et Entière"
+    },
+    "tags": [
+      "celibataire",
+      "plenitude",
+      "solitude",
+      "attente",
+      "appel",
+      "accomplissement"
+    ],
+    "title": "Complète tandis que tu attends",
+    "subtitle": "Vivre pleinement avant que la vie ne soit ce que tu espérais",
+    "audience": {
+      "life_stage": [
+        "femmes célibataires",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "entière",
+        "aspirant",
+        "contente dans l'attente"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces cinq jours t'aideront à ramener ton cœur devant Dieu au milieu de l'attente, de l'anxiété temporelle, de la comparaison et du sentiment d'insuffisance, afin que tu puisses commencer à vivre dans la plénitude dès maintenant.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#E0D4C0",
+      "color_secondary": "#5A4226",
+      "image_key": "cover_woman_quiet_room_solitude_warm",
+      "icon": "single-tree-and-sun-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psaume 27:14",
+        "book_code": "PSA",
+        "chapter": 27,
+        "verses": "14"
+      },
+      {
+        "display": "Jean 10:10",
+        "book_code": "JHN",
+        "chapter": 10,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "L'attente nous pousse souvent à douter de nous-mêmes",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 27:14",
+            "book_code": "PSA",
+            "chapter": 27,
+            "verses": "14",
+            "translation": "Louis Segond 1910",
+            "text": "Attends l'Éternel ! Fortifie-toi et que ton cœur s'affermisse ! Attends l'Éternel !"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Ce qui rend l'attente si difficile, ce n'est pas seulement que la réponse n'est pas venue. C'est que, avec le temps, l'attente peut commencer à sonner comme un verdict sur nous. Peut-être ne suis-je pas assez bien. Peut-être qu'il y a quelque chose qui cloche chez moi. Peut-être que si j'étais plus désirable, plus aimable, plus en sécurité, plus impressionnante, ou plus mûre spirituellement, les choses se seraient déroulées différemment maintenant. La douleur de l'attente vient souvent non seulement du délai, mais de l'histoire que le délai commence à se raconter dans le cœur.",
+            "Or le Psaume 27 présente l'attente très différemment. Attendre le Seigneur n'est pas une humiliation. C'est le lieu où Dieu fortifie le cœur. Romains 8 parle de l'attente patiente comme étant jointe à l'espérance, non à la honte. L'Écriture ne présente pas l'attente comme une forme de vie de second rang. Elle la présente souvent comme un lieu où la confiance se forme silencieusement.",
+            "Beaucoup d'entre nous connaissons la rigueur de la question « pourquoi pas encore ? ». Elle ne reste pas une question sur le timing. Elle se transforme en une question sur la valeur. C'est là que l'attente commence à blesser l'âme. Mais Dieu ne reste pas à l'écart, d'accord avec cette interprétation. Il ne retarde pas parce que tu es moins digne d'amour ou de joie.",
+            "**L'attente n'est pas le rejet de Dieu envers toi, et elle n'est pas la preuve que tu manques de valeur.** Apporte la voix du doute de soi devant Dieu aujourd'hui. Ne te borne pas à la combattre avec tes propres forces. Nomme-la devant lui. Laisse sa vérité s'approcher de la partie de toi qui a silencieusement transformé le délai en accusation."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, libère-moi de l'habitude de douter de moi parce que l'attente a été longue. Tu sais que je ne fais pas seulement attendre. J'attends souvent en transformant le délai en preuve que je ne suis pas assez. Corrige ce mensonge en moi. Fortifie mon cœur en cette saison, et rappelle-moi qu'un désir sans réponse n'est pas la même chose qu'une vie sans amour. Si la réponse n'est pas encore venue, cela ne signifie pas que ton affection n'est pas déjà venue. Reste près de moi dans l'attente, dans le silence, et dans la tristesse qui arrive parfois sans prévenir. Ne me laisse pas confier mon angoisse à la hâte ou à la comparaison, mais apprends-moi à recevoir la plénitude que tu places déjà dans ma vie aujourd'hui. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "Louis Segond 1910",
+              "text": "Attends l'Éternel ! Fortifie-toi et que ton cœur s'affermisse ! Attends l'Éternel !"
+            },
+            {
+              "display": "Romains 8:25",
+              "book_code": "ROM",
+              "chapter": 8,
+              "verses": "25",
+              "translation": "Louis Segond 1910",
+              "text": "Mais si nous espérons ce que nous ne voyons pas, nous l'attendons avec persévérance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "Quand d'autres avancent, je n'ai pas besoin de me diminuer",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Galates 6:4",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "4",
+            "translation": "Louis Segond 1910",
+            "text": "Que chacun éprouve ses œuvres..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "C'est naturel de ressentir une piqûre quand d'autres se lancent dans des relations, le mariage, ou la prochaine étape que tu as silencieusement espérée. Le problème n'est pas toujours la piqûre elle-même. Le problème plus profond est ce que la piqûre commence à dire de toi. Les fiançailles de quelqu'un d'autre, sa stabilité, ou son bonheur visible peuvent rapidement être interprétés comme une preuve contre ta propre désirabilité, ta valeur, ou ton avenir. La comparaison ne nous fait pas seulement remarquer ce que les autres ont. Elle nous tente de transformer leur bénédiction en un verdict sur notre propre manque.",
+            "Mais Dieu n'a jamais assigné les histoires des autres à expliquer ta valeur. Galates 6 dit à chacun d'examiner sa propre vie. Ce n'est pas une négation émotionnelle. C'est une façon de revenir à ton propre terrain. Ésaïe dit que Dieu t'a gravée sur les paumes de ses mains. Il n'est pas devenu moins attentif à toi parce que la prière de quelqu'un d'autre a été exaucée plus tôt. Il ne t'a pas oubliée au milieu de la bénédiction d'autres personnes.",
+            "Beaucoup d'entre nous connaissons le sentiment compliqué d'être sincèrement heureux pour quelqu'un et silencieusement découragé en même temps. Dieu n'est pas menacé par cette complexité. Mais il veut guérir l'habitude de transformer la joie d'une autre personne en ton mépris de toi-même. La comparaison révèle souvent non seulement l'envie, mais une insécurité plus profonde quant à savoir si tu seras toi-même vue, choisie, ou chérie.",
+            "**Le « déjà » de quelqu'un d'autre n'a pas besoin de devenir ta raison de te diminuer.** Quand la comparaison surgit aujourd'hui, ne te force pas dans une propreté émotionnelle artificielle. Apporte tout cela à Dieu. Dis-lui ce qui fait mal, ce qui te fait peur, et ce que ce moment semble dire de toi. Sa vérité peut s'approcher des endroits tendres que la comparaison expose."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, quand je vois d'autres avancer, garde-moi de transformer cela en mépris pour moi-même. Tu sais combien je peux paraître calme à l'extérieur tandis qu'à l'intérieur je compare déjà, je doute, et je me sens moins digne. Interromps cette spirale descendante. Guéris la peur plus profonde qui se cache dessous, la peur que je ne sois pas vue, choisie, ou donnée ce que je désire. Merci de ce que ton intention envers moi n'a pas diminué à cause de l'histoire de quelqu'un d'autre. Reste près de moi dans l'attente, dans le silence, et dans la tristesse qui arrive parfois sans prévenir. Ne me laisse pas confier mon angoisse à la hâte ou à la comparaison, mais apprends-moi à recevoir la plénitude que tu places déjà dans ma vie aujourd'hui. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Galates 6:4",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "4",
+              "translation": "Louis Segond 1910",
+              "text": "Que chacun éprouve ses œuvres..."
+            },
+            {
+              "display": "Ésaïe 49:16",
+              "book_code": "ISA",
+              "chapter": 49,
+              "verses": "16",
+              "translation": "Louis Segond 1910",
+              "text": "Voici, je t'ai gravée sur mes mains..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "La plénitude ne vient pas quand la romance arrive",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 16:11",
+            "book_code": "PSA",
+            "chapter": 16,
+            "verses": "11",
+            "translation": "Louis Segond 1910",
+            "text": "En ta présence se trouve la plénitude de joie..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Beaucoup de gens supposent que la plénitude commence quand l'amour arrive. Une fois qu'il y a une relation, une fois que quelqu'un te choisit clairement, une fois que l'avenir ressemble enfin à un partage, alors peut-être que ton cœur reposera. Mais cette croyance rend la solitude insupportablement serrée. Elle t'enseigne de repousser la paix jusqu'à un chapitre ultérieur, comme si tu ne pouvais pas vraiment commencer avant qu'une autre personne n'arrive.",
+            "Le Psaume 16 dit que la plénitude de joie est en la présence de Dieu, et Jean 15 nous appelle à demeurer en Christ. Dieu ne minimise pas l'importance de l'amour humain. Il parle de la racine plus profonde de l'âme. Si la plénitude attend l'amour romantique, alors les relations commencent à porter plus qu'elles ne sont supposées porter. Elles deviennent non seulement une compagnie, mais un sauvetage. C'est trop de poids pour que n'importe quel amour humain puisse le porter.",
+            "Beaucoup d'entre nous connaissons le désir d'être choisi. Souvent, ce désir concerne bien plus que la romance. Il touche des questions plus profondes : suis-je aimable, désirable, digne d'engagement, digne d'être gardée ? Dieu ne se moque pas de ce désir. Mais il ne veut pas non plus que tu places la réponse entière à ta valeur dans une relation future. Il veut commencer à former une stabilité en toi maintenant.",
+            "**La plénitude n'est pas un prix attendant à la fin de la romance. Elle peut commencer à grandir en Dieu dès maintenant.** Apporte le vide le plus profond en toi devant lui aujourd'hui. Non pour que tu prétends que tu ne désires plus l'amour, mais afin que ton sens de soi ne soit plus retenu en otage par quelque chose qui n'est pas encore venu."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, empêche-moi de repousser indéfiniment la plénitude. J'avoue que je sens souvent comme si une partie très importante de moi ne peut se reposer que si l'amour arrive. Mais aujourd'hui je te demande de faire ta demeure plus profondément en moi. Fais grandir une vie plus stable en moi dans ta présence. N'efface pas mon désir d'être aimée, mais libère-moi de placer tout mon sens de plénitude dans une relation future. Reste près de moi dans l'attente, dans le silence, et dans la tristesse qui arrive parfois sans prévenir. Ne me laisse pas confier mon angoisse à la hâte ou à la comparaison, mais apprends-moi à recevoir la plénitude que tu places déjà dans ma vie aujourd'hui. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "Louis Segond 1910",
+              "text": "En ta présence se trouve la plénitude de joie..."
+            },
+            {
+              "display": "Jean 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "Louis Segond 1910",
+              "text": "Celui qui demeure en moi et en qui je demeure porte beaucoup de fruit..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Ma vie n'a pas été mise en pause",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Éphésiens 5:15-16",
+            "book_code": "EPH",
+            "chapter": 5,
+            "verses": "15-16",
+            "translation": "Louis Segond 1910",
+            "text": "Prenez donc garde à vivre avec soin... rachetez le temps..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La solitude peut créer l'illusion que la vraie vie n'a pas encore commencé. Ce sentiment s'intensifie quand les gens autour de toi se lancent dans des jalons visibles. Sans le vouloir, tu commences à traiter ta vie présente comme provisoire. Je construirai une maison plus tard. Je voyagerai plus tard. Je servirai plus profondément plus tard. Je prendrai mes désirs au sérieux plus tard. Je me sentirai vraiment vivante plus tard. L'avenir devient silencieusement le lieu où ta vie est autorisée à devenir réelle.",
+            "Mais Dieu est à l'œuvre dans ton présent, non seulement dans un chapitre ultérieur. Éphésiens parle de racheter le temps. Cela ne signifie pas presser la productivité de chaque minute. Cela signifie reconnaître que les jours que tu as maintenant comptent devant Dieu. Philippiens parle de poursuivre vers l'avant, non pas parce que la vie est entièrement stable, mais parce que Dieu continue à diriger. La solitude n'est pas un intermède avant que ta vraie histoire ne commence. Elle fait partie de ta vraie histoire.",
+            "Beaucoup d'entre nous savons combien c'est difficile à croire émotionnellement. Nous pouvons être d'accord en théorie et nous sentir toujours invisibles dans certaines saisons, vacances, ou moments sociaux. Pourtant, Dieu n'a pas écrit ton présent comme un sous-intrigue. Il parle ici, forme ici, invite ici. Ta vie n'est pas en attente simplement parce qu'un désir reste sans réponse.",
+            "**Ta vie n'est pas une salle d'attente. C'est ta vraie vie.** Demande à Dieu aujourd'hui ce qu'il t'invite à prendre au sérieux maintenant. La réponse peut être tranquille, mais quand nous arrêtons de repousser nos vies, quelque chose dans l'âme commence à se réveiller à nouveau."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, garde-moi de traiter le présent comme du temps secondaire. Si j'ai silencieusement cru que la vraie vie ne commence que quand un chapitre futur arrive, ramène-moi. Merci de ne pas avoir écrit aujourd'hui comme jetable. Aide-moi à arrêter de simplement traverser mes jours et à commencer à vivre plus intentionnellement à l'intérieur de la vie, de l'appel, et de la grâce que tu me donnes maintenant. Reste près de moi dans l'attente, dans le silence, et dans la tristesse qui arrive parfois sans prévenir. Ne me laisse pas confier mon angoisse à la hâte ou à la comparaison, mais apprends-moi à recevoir la plénitude que tu places déjà dans ma vie aujourd'hui. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Éphésiens 5:15-16",
+              "book_code": "EPH",
+              "chapter": 5,
+              "verses": "15-16",
+              "translation": "Louis Segond 1910",
+              "text": "Prenez donc garde à vivre avec soin... rachetez le temps..."
+            },
+            {
+              "display": "Philippiens 3:13-14",
+              "book_code": "PHP",
+              "chapter": 3,
+              "verses": "13-14",
+              "translation": "Louis Segond 1910",
+              "text": "Oubliant ce qui est derrière, je me porte en avant vers ce qui est devant..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "Une vie pleine est possible même dans l'attente",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Jean 10:10",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "10",
+            "translation": "Louis Segond 1910",
+            "text": "Je suis venu afin que les brebis aient la vie, et qu'elles l'aient en abondance."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "L'abondance ne vient que sous une seule forme. Pourtant, beaucoup d'entre nous sont piégés par une imagination très étroite de ce qu'une vie pleine est censée ressembler. Nous supposons qu'être choisi romantiquement, entrer en mariage, et se lancer dans une certaine forme de vie visible est la vraie version de l'abondance. Si cette une seule chose n'est pas encore arrivée, tout le reste de nos vies peut commencer à ressembler à un substitut inférieur. L'amitié profonde, le travail significatif, la liberté de temps, la croissance en Dieu, la maturité émotionnelle, et l'expansion de la vision sont tous des vrais cadeaux, mais nous hésitons souvent à les nommer comme une plénitude parce qu'ils ne correspondent pas à l'image que nous désirons le plus.",
+            "Jésus dit dans Jean 10 qu'il est venu afin que nous ayons la vie en abondance. Cette abondance n'est pas une histoire unique. Le Psaume 84 dit que Dieu ne refuse aucune bonne chose à ceux qui marchent dans l'intégrité. Cela ne signifie pas que chaque désir est exaucé immédiatement. Cela signifie que Dieu n'a pas l'intention pour une vie avec lui d'être spirituellement stérile. L'attente peut toujours faire mal, mais la douleur n'a pas besoin de devenir tout le sens de la saison.",
+            "Partie de la maturité en solitude consiste à apprendre à tenir deux vérités à la fois : j'attends toujours, et je reçois déjà beaucoup. Ce genre de vie ne nie pas le désir, et elle ne ignore pas non plus la grâce. Dieu ne t'appelle pas à l'engourdissement. Il t'enseigne à vivre avec l'espérance et la gratitude.",
+            "**Une vie d'attente peut toujours être une vie remplie par Dieu.** Aujourd'hui, nomme les cadeaux que Dieu place déjà dans ta vie. Non pour réduire au silence ton désir, mais pour empêcher « pas encore » de tout couvrir ce qui est déjà vrai."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci de ce que je peux toujours vivre une vie pleine en attendant. Garde-moi de regarder seulement ce qui n'est pas encore venu, et affûte mes yeux pour voir la vraie grâce que tu donnes déjà. Aide-moi à ne pas nier le désir ni à négliger la gratitude. Tandis que j'attends toujours ce que j'espère, laisse-moi rester enracinée dans l'abondance de vie que tu verses déjà. Reste près de moi dans les moments tranquilles et dans la douleur qui revient parfois sans prévenir. Ne me laisse pas confier ma vie à la hâte ou à la comparaison, mais apprends-moi à recevoir aujourd'hui comme un lieu où ta bonté est déjà à l'œuvre. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Jean 10:10",
+              "book_code": "JHN",
+              "chapter": 10,
+              "verses": "10",
+              "translation": "Louis Segond 1910",
+              "text": "Je suis venu afin que les brebis aient la vie, et qu'elles l'aient en abondance."
+            },
+            {
+              "display": "Psaume 84:11",
+              "book_code": "PSA",
+              "chapter": 84,
+              "verses": "11",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel ne refuse aucune bonne chose à ceux qui marchent dans l'intégrité."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI15",
+    "slug": "redefining-success",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles & Identity",
+      "secondary": "work-calling",
+      "secondary_label": "Work & Calling"
+    },
+    "tags": [
+      "work",
+      "calling",
+      "career",
+      "people-pleasing",
+      "success",
+      "faith-at-work"
+    ],
+    "title": "Redefining Success",
+    "subtitle": "When achievement is no longer enough",
+    "audience": {
+      "life_stage": [
+        "working-women",
+        "professionals"
+      ],
+      "emotional_state": [
+        "responsible",
+        "stretched",
+        "redefining-success"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "These seven days move more deeply through achievement anxiety, burnout, and emptiness, helping you rediscover what success truly means.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#B8C8D8",
+      "color_secondary": "#2C4A6B",
+      "image_key": "cover_woman_at_desk_morning_calm",
+      "icon": "open-book-and-light-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Micah 6:8",
+        "book_code": "MIC",
+        "chapter": 6,
+        "verses": "8"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "The Success Script Often Arrives Before We Choose It",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Micah 6:8",
+            "book_code": "MIC",
+            "chapter": 6,
+            "verses": "8",
+            "translation": "KJV",
+            "text": "He hath shewed thee... what doth the Lord require of thee..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many of us learned the shape of \"success\" long before we ever examined it.",
+            "Be visible. Be accomplished. Keep moving upward. Stay impressive. Produce results. Over time, we do not simply work hard. We begin serving a script we never fully questioned. If we never stop to ask what success means before God, we may keep climbing while our inner life grows thinner.",
+            "Sometimes the hardest part is realizing that we never really chose the script. We absorbed it. Through praise, pressure, comparison, admiration, and fear, we learned what kind of woman seems worthy of respect. So we keep moving, keep proving, keep achieving, and rarely stop to ask whether the life we are chasing is actually the life God is asking us to build. A person can be deeply competent and profoundly disconnected from her own soul at the same time.",
+            "I think that is why this question matters so much. God is not against excellence, influence, or fruitfulness. But He does ask what is driving them. If we never discern whose standards we are serving, we can become outwardly successful while inwardly hollow. Renewal often begins with that interruption: whose definition of success has been ruling me?",
+            "That question may feel unsettling, but it is also merciful. It gives the soul permission to stop calling every admired life a calling from God.",
+            "**Some of us are not only tired; we are tired from chasing standards we never truly chose.** Ask today whether what you are pursuing is actually what God is asking of you."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, show me what I have really been chasing, and show me where those standards first took root in me. If the script driving my life did not come from You, give me courage to pause and discern again. Do not let me become merely more impressive; teach me to become more attentive to Your voice. Free me from the life that feels safe only when it is constantly proving itself, and teach me to receive Your definition of what is truly worth pursuing. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Micah 6:8",
+              "book_code": "MIC",
+              "chapter": 6,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "He hath shewed thee... what doth the Lord require of thee..."
+            },
+            {
+              "display": "Proverbs 16:3",
+              "book_code": "PRO",
+              "chapter": 16,
+              "verses": "3",
+              "translation": "KJV",
+              "text": "Commit thy works unto the Lord..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Ambition Is Not the Problem; Losing the Soul Is",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Mark 8:36",
+            "book_code": "MRK",
+            "chapter": 8,
+            "verses": "36",
+            "translation": "KJV",
+            "text": "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "God is not threatened by ambition.",
+            "But when ambition starts consuming rest, relationships, honesty, and spiritual depth, it stops being energy and becomes mastery. Jesus asked what it profits a person to gain the whole world and lose the soul. That question still cuts through modern success.",
+            "The danger is often subtle at first. We tell ourselves we are simply driven, responsible, or committed. But over time ambition can begin demanding more than it should. We stop resting well. We become less patient with people. Prayer gets thinner. Joy gets harder to find. We start measuring ourselves by momentum alone. At some point success is no longer something we pursue. It becomes something that rules us.",
+            "Jesus’ question is severe because it forces us to think in terms of cost, not only reward. What are you gaining, and what are you becoming while you gain it? If the pursuit of more leaves you less alive, less honest, less loving, or less able to hear God, then ambition has crossed a line. God does not ask us to abandon calling. He asks us not to let calling become an altar on which the soul is sacrificed.",
+            "Ambition can still be offered back to God, purified, and reordered. That too is part of His mercy.",
+            "**The deepest danger is not hard work, but becoming unrecognizable to yourself through it.** Notice today what your striving may be costing you.",
+            "God can still teach ambition to kneel instead of rule.",
+            "He is able to turn striving back into stewardship and pressure back into prayer."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, if my striving has begun to consume my heart, warn me and restrain me. Do not let me keep moving forward while leaving my soul behind. Keep me from sacrificing rest, honesty, and closeness with You for the appearance of success. Teach me to discern the difference between healthy ambition and ambition that has crossed into mastery. Let me remain faithful in my work without losing my soul in the process. Lead me out of the habits of people-pleasing, anxiety, and proving myself through performance. Let me remain steady under pressure, free inside responsibility, and mindful in each workday that I am ultimately accountable to You. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Mark 8:36",
+              "book_code": "MRK",
+              "chapter": 8,
+              "verses": "36",
+              "translation": "KJV",
+              "text": "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?"
+            },
+            {
+              "display": "Psalm 127:2",
+              "book_code": "PSA",
+              "chapter": 127,
+              "verses": "2",
+              "translation": "KJV",
+              "text": "It is vain for you to rise up early..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Burnout Is Not Always Weakness, but Long Unrest",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Exodus 20:8",
+            "book_code": "EXO",
+            "chapter": 20,
+            "verses": "8",
+            "translation": "KJV",
+            "text": "Remember the sabbath day, to keep it holy."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Burnout rarely falls on us all at once. It usually arrives as a long-delayed message from the body, the mind, and the soul together: you have been going without being restored for too long.",
+            "Many women in demanding work are very skilled at functioning past their own limits. We rename exhaustion as a busy season. We call numbness professionalism. We keep showing up, answering, carrying, producing, and managing because stopping feels threatening. It can feel risky to pause when you have responsibilities, standards, and people depending on you. Sometimes it is not even work itself that keeps us running, but fear. Fear of falling behind. Fear of being replaced. Fear of disappointing people. Fear that if we slow down, we will have to face how depleted we really are.",
+            "But God did not design rest as a reward for people who eventually finish everything. He built rest into the rhythm of human life because He knows we are limited. The sabbath command is not decorative. Psalm 23 does not only show a Shepherd who leads; it shows a Shepherd who makes us lie down and restores the soul. That image confronts the modern lie that constant motion is maturity. It is possible to look highly responsible while quietly abandoning your inner life.",
+            "I understand the reflex to keep going. Many of us do. When we stop, guilt often rises before peace does. Yet real growth may not be becoming the woman who can carry more and more. It may be becoming the woman who can finally admit, without shame, that she needs restoration. Rest is not irresponsibility. It is a refusal to treat yourself like an endless resource.",
+            "**The person who never dares to pause does not become stronger forever. She often becomes emptier.** Ask God today how long it has been since your soul, not only your schedule, truly rested."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, help me face burnout honestly, and help me honor rest again. Do not let me keep treating stillness as danger. Restore my soul. Keep outward results from defining me more quickly than Your peace does. Make me faithful in my work and awake in my spirit. Thank You that You are not repelled by my weakness, but willing to come near, support me, and keep teaching me. Lead me out of the habits of people-pleasing, anxiety, and proving myself through performance. Let me remain steady under pressure, free inside responsibility, and mindful in each workday that I am ultimately accountable to You. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Exodus 20:8",
+              "book_code": "EXO",
+              "chapter": 20,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "Remember the sabbath day, to keep it holy."
+            },
+            {
+              "display": "Psalm 23:2-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "2-3",
+              "translation": "KJV",
+              "text": "He maketh me to lie down... he restoreth my soul."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "Faithfulness Matters More Than Image",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "1 Corinthians 4:2",
+            "book_code": "1CO",
+            "chapter": 4,
+            "verses": "2",
+            "translation": "KJV",
+            "text": "It is required in stewards, that a man be found faithful."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Our age is very good at teaching us how to appear convincing. It is much less interested in teaching us how to be quietly faithful.",
+            "In professional life, image management can feel almost inseparable from survival. We notice what kind of woman seems easier to trust, easier to promote, easier to praise. So we learn how to sound competent, look composed, stay impressive, and keep weakness out of sight. Some of that may be understandable. But over time, a person can spend so much energy managing perception that she loses touch with the simpler question: am I being faithful before God?",
+            "Paul says that what is required of stewards is that they be found faithful. Faithfulness is rarely glamorous. It may not be the quickest path to applause. Often it lives in the hidden places: how you handle the small assignment, how you keep your word, how you work when no one is praising you, how you stay honest when image would be easier. Faithfulness keeps the soul integrated because it brings your inner life and outer life closer together.",
+            "I think many women need permission to care less about appearing flawless. We already carry enough pressure to be polished, articulate, emotionally intelligent, productive, and easy to trust. But if all that polish comes at the cost of truth, peace, and obedience, then the image is asking too much.",
+            "**Before God, being faithful carries more weight than merely looking successful.** Ask yourself today whether you have been spending more energy on how you appear, or on how you are actually living before Him."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, teach me to love faithfulness again rather than merely chasing image. Help me care more about being true before You than looking impressive before others. Keep outward results from defining me more quickly than Your peace does. Make me faithful in my work and awake in my spirit. Thank You that You are not repelled by my weakness, but willing to come near, support me, and keep teaching me. Lead me out of the habits of people-pleasing, anxiety, and proving myself through performance. Let me remain steady under pressure, free inside responsibility, and mindful in each workday that I am ultimately accountable to You. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "1 Corinthians 4:2",
+              "book_code": "1CO",
+              "chapter": 4,
+              "verses": "2",
+              "translation": "KJV",
+              "text": "It is required in stewards, that a man be found faithful."
+            },
+            {
+              "display": "Luke 16:10",
+              "book_code": "LUK",
+              "chapter": 16,
+              "verses": "10",
+              "translation": "KJV",
+              "text": "He that is faithful in that which is least is faithful also in much."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "Real Calling Is More Than Constant Output",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "John 15:5",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "5",
+            "translation": "KJV",
+            "text": "Without me ye can do nothing."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "We often treat calling like a results-based question. What am I supposed to build? Where can my gifts be used most effectively? How much impact should my life have if I am truly responding to God?",
+            "That way of thinking is not entirely wrong. Calling does move into work, service, creativity, responsibility, and influence. But when calling is reduced to output, it becomes another system of pressure. You start living as though peace must wait until enough has been produced. Your days become a long attempt to justify your worth by staying useful. Without realizing it, you may begin using the language of calling while actually being driven by achievement.",
+            "John 15 offers a corrective. \"Without me ye can do nothing\" is not only a reminder to pray for help. It is a statement about where fruitfulness comes from. Calling is not God turning you into a high-capacity machine. It is God drawing you into abiding so that what you do grows out of relationship with Him. Philippians 1:6 says that He who began a good work in you will carry it on. Not only through you, but in you. Real calling always includes both: what God is doing through your life, and what He is forming within your life.",
+            "I think many sincere women need this freedom. We are often so trained to track results that we miss the warning signs of inner depletion. We may still be producing, but our peace is thinning. Our relationships are narrowing. Our rest is disappearing. Our connection with God starts feeling secondary. If what you are calling calling has left you with output and almost no interior life, then something is out of alignment.",
+            "**Calling is not only about what gets done. It is also about who you are becoming while doing it.** Offer your work back to God today, and ask Him to guard your soul as carefully as He uses your gifts."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, guard me from reducing my calling to output alone. As You use my work, keep shaping me as a person. If I have become too used to asking how much I have done, and too slow to ask what kind of woman I am becoming before You, correct me. Keep outward results from defining me more quickly than Your peace does, and let me remain faithful in my work without losing prayer, honesty, and spiritual wakefulness. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "John 15:5",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "5",
+              "translation": "KJV",
+              "text": "Without me ye can do nothing."
+            },
+            {
+              "display": "Philippians 1:6",
+              "book_code": "PHP",
+              "chapter": 1,
+              "verses": "6",
+              "translation": "KJV",
+              "text": "He which hath begun a good work in you will perform it..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Day 6",
+      "title": "Success Without Peace Still Leaves the Soul Hungry",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 73:26",
+            "book_code": "PSA",
+            "chapter": 73,
+            "verses": "26",
+            "translation": "KJV",
+            "text": "God is the strength of my heart, and my portion for ever."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "One of the more confusing experiences in adult life is not having too little, but having enough on paper and still feeling unsettled.",
+            "Perhaps your work is going well. Perhaps other people respect what you do. Perhaps you reached something you once wanted very badly. And yet the relief did not last. You felt satisfied for a moment, then quickly found yourself reaching for the next thing. It is easy to judge yourself here and assume the problem is simple ingratitude. But often it is something deeper and more revealing than that: success was never built to feed the soul.",
+            "Psalm 73 says that God is the strength of the heart and its portion forever. That verse matters because it names what our ambition often tries to avoid admitting. The heart is hungry for more than accomplishment. Achievement can offer applause, relief, status, and temporary reassurance, but it cannot become home. Jesus calls Himself the bread of life because He alone can enter the place in us that remains unsatisfied even after the goals are met.",
+            "I think this is a necessary word for women who have learned to answer emptiness with more effort. When the ache returns, we assume we need a larger success, a stronger identity, a more impressive season. But sometimes the invitation is not to add more, but to return. To let God define what fullness is before the world does.",
+            "**Success may bring applause, but it cannot become home for the soul.** Tell God today about the emptiness achievement has not healed. Let that honesty become the beginning of a truer hunger."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, if I have been asking success to fill what only You can fill, bring me back gently. Remind me that my true home is not in achievement, but in You. If I look capable on the outside while growing hollow inside, do not let me keep living that way. Keep me from covering a deeper hunger with more accomplishment, and teach me the kind of steadiness that does not depend on applause. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 73:26",
+              "book_code": "PSA",
+              "chapter": 73,
+              "verses": "26",
+              "translation": "KJV",
+              "text": "God is the strength of my heart, and my portion for ever."
+            },
+            {
+              "display": "John 6:35",
+              "book_code": "JHN",
+              "chapter": 6,
+              "verses": "35",
+              "translation": "KJV",
+              "text": "I am the bread of life..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Day 7",
+      "title": "Success Before God Is Deeper and Freer",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Micah 6:8",
+            "book_code": "MIC",
+            "chapter": 6,
+            "verses": "8",
+            "translation": "KJV",
+            "text": "To do justly... and to walk humbly with thy God."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "By the end of these seven days, perhaps success is beginning to take on a different shape.",
+            "It may look less like faster, higher, more visible, and more admired, and more like faithfulness, wholeness, peace, and honest work before God. You may still care deeply about excellence. You may still want to grow, build, lead, and contribute well. But the center of that desire begins to shift. You are no longer trying to prove that you deserve to matter. You are learning to live truthfully as someone who already belongs to God.",
+            "I love this redefinition because it loosens the old script. We begin to see that success may include rest, boundaries, inner clarity, and the refusal to make achievement into a home for the soul. It may include being deeply faithful in places no one else fully notices. God sees those hidden places, and being seen by Him is enough to free us from much of the world’s urgency.",
+            "This is not resignation. It is freedom. We still pursue growth, responsibility, and good work, but we no longer turn work into a god. Real freedom is being able to labor sincerely while remaining inwardly at rest in the One to whom we belong.",
+            "**True success is not only how far I go, but how faithfully I walk with God while going there.** Bring your old definition of success before Him and let Him rewrite it. Ask Him to form in you a deeper and freer life than achievement alone could ever give."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, redefine success within me. Keep me from being driven by old scripts, and teach me to value faithfulness, wholeness, and steadiness before You. If I have been turning results into identity and busyness into worth, bring me back. Keep outward success from defining me more quickly than Your peace does. Make me faithful in my work and awake in my spirit, and teach me that true abundance is not being admired by the world, but living within Your presence and pleasure. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Micah 6:8",
+              "book_code": "MIC",
+              "chapter": 6,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "To do justly... and to walk humbly with thy God."
+            },
+            {
+              "display": "Proverbs 16:9",
+              "book_code": "PRO",
+              "chapter": 16,
+              "verses": "9",
+              "translation": "KJV",
+              "text": "A man's heart deviseth his way: but the Lord directeth his steps."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

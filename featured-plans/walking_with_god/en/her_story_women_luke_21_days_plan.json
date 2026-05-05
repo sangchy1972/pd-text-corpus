@@ -1,0 +1,1577 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LK01",
+    "slug": "walking-with-jesus-in-luke",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Walking with God",
+      "secondary": "her-story",
+      "secondary_label": "Her Story"
+    },
+    "tags": [
+      "her-story",
+      "women-of-scripture",
+      "biblical-women",
+      "narrative",
+      "women-of-luke",
+      "gospel-of-luke",
+      "biblical-women",
+      "narrative",
+      "mary",
+      "elizabeth"
+    ],
+    "title": "Walking with Jesus in Luke",
+    "subtitle": "This is a gentle but grounded `21-day` journey through the Gospel of Luke, created especially for women who want to know Jesus more deeply through the stories of the women around Him. Day by day, you will walk with the women Luke remembers and see how they are noticed by God, met by Christ, restored by grace, and entrusted with witness. If you long to grow more familiar with the Gospel story, and if you need the steadying presence of Jesus in the middle of busyness, weakness, waiting, or sorrow, this plan is designed to help you draw near to Him.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "curious",
+        "reflective",
+        "seeking-meaning"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "This is a gentle but grounded `21-day` journey through the Gospel of Luke, created especially for women who want to know Jesus more deeply through the stories of the women around Him. Day by day, you will walk with the women Luke remembers and see how they are noticed by God, met by Christ, restored by grace, and entrusted with witness. If you long to grow more familiar with the Gospel story, and if you need the steadying presence of Jesus in the middle of busyness, weakness, waiting, or sorrow, this plan is designed to help you draw near to Him.",
+    "duration_days": 21,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → opening → teaching → today_as_you_read → additional_scriptures → prayer",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#E0D4B8",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_quiet_garden_morning_warm",
+      "icon": "dove-and-cross-circle"
+    },
+    "phases": [],
+    "key_verses": [
+      {
+        "display": "Luke 1:38",
+        "book_code": "LUK",
+        "chapter": 1,
+        "verses": "38"
+      },
+      {
+        "display": "Luke 24:22",
+        "book_code": "LUK",
+        "chapter": 24,
+        "verses": "22"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-04"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "Mary’s Yes",
+      "subtitle": "When God places a road before you that you cannot fully see, faith does not begin with full clarity. It begins with willingness.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 1:38",
+            "book_code": "LUK",
+            "chapter": 1,
+            "verses": "38",
+            "translation": "KJV",
+            "text": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "We begin this journey with Mary. Luke opens the Gospel story not with spectacle, but with a young woman being met by God. Here we see that obedience is not waiting until everything makes sense. It is placing yourself in God’s hands before everything is clear.",
+            "“And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word.” Luke 1:38"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "When the angel comes to Mary, he does not bring a small task. He brings a calling that will alter her whole life. She will bear the Son of God, but she will also carry misunderstanding, risk, and the weight of what she cannot yet explain. Luke does not present her as untouched by this. She is troubled. She asks a real question. That makes her obedience feel true.",
+            "The beauty of Mary in this passage is not that she understands everything. It is that she entrusts herself to God before she does. **“Be it unto me according to thy word.”** This is not passive resignation. It is surrender filled with trust. Mary does not yet see the road ahead, but she is willing to place herself in the hands of the God who does.",
+            "I once walked with a woman who sensed that God was asking her to leave a job that had slowly drained her spirit. She resisted, not because she did not want to obey, but because the future felt too uncertain. Later she told me that the prayer that changed her was very simple: “Lord, I am afraid, but I am willing.” She did not receive every answer at once. But she learned that the turning point was not full clarity. It was placing herself in God’s hands before she had it.",
+            "We may never receive a calling like Mary’s, but we know what it is to face a responsibility we did not expect or a surrender we would rather postpone. Mary reminds us that faith often begins before clarity does."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Read the scene closely and notice what first troubles Mary, and why she is still able to say yes even without full clarity. Then consider whether your own instinct is to wait for certainty first, or to learn surrender before you have it."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 1:37",
+              "book_code": "LUK",
+              "chapter": 1,
+              "verses": "37",
+              "translation": "KJV",
+              "text": "For with God nothing shall be impossible."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, You are the God who speaks and also fulfills what You have spoken. We praise You because Your purposes are higher than human plans, and Your grace so often rests on those the world overlooks. Give us hearts that are soft and willing, so that even before we understand everything, we may trust Your goodness and follow Your leading. Strengthen Your church and Your daughters to say, “Be it unto us according to Your word.” Let Your will be honored, and let Your name be glorified through our obedience. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Elizabeth’s Blessing",
+      "subtitle": "An older woman sees the weight a younger woman is carrying, and before she explains or evaluates, she blesses.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 1:45",
+            "book_code": "LUK",
+            "chapter": 1,
+            "verses": "45",
+            "translation": "KJV",
+            "text": "And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "This passage brings us to the meeting between Mary and Elizabeth. Two women come together, one carrying promise, the other already marked by grace. Here we see how God often steadies one woman through the eyes and words of another.",
+            "“And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord.” Luke 1:45"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "After the angel speaks to Mary, she goes to Elizabeth. Luke gives us a deeply tender scene: an older woman welcoming a younger one, and a woman who has known God’s mercy recognizing the work of God in someone else. Elizabeth does not begin with questions or caution. She begins with blessing.",
+            "That matters because when God is doing something costly in a person’s life, understanding does not always come first. Often what comes first is pressure, vulnerability, and the loneliness of carrying something others cannot yet see. Elizabeth does not make Mary defend herself. She sees her through the eyes of faith. **Spiritual maturity is not only knowing how God has met you. It is also learning to recognize His work in another woman and strengthen her before she fully steadies herself.**",
+            "That is part of Elizabeth’s beauty in Luke. She is not the center of the story, but at the right moment she becomes a sheltering presence inside it. Because she has known God’s kindness, she is able to speak words shaped by grace. Her blessing is not polite religious language. It is timely, discerning, and generous.",
+            "Many of us know what it is to carry something tender or difficult to explain. In such moments, one true word of recognition can become a place to stand. This passage asks whether we are willing to become that kind of woman for someone else. In a world quick to comment, there is something deeply Christlike about being the person who first sees, first blesses, and first steadies. It reminds us that spiritual maturity includes learning to recognize what God may already be growing in another person."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "As you return to the passage, notice what Elizabeth says first and how quickly she recognizes God’s work in Mary. Then consider whether you tend to notice weakness before you notice what God may already be growing."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 1:42",
+              "book_code": "LUK",
+              "chapter": 1,
+              "verses": "42",
+              "translation": "KJV",
+              "text": "Blessed art thou among women, and blessed is the fruit of thy womb."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, we praise You because You do not reveal Yourself only through great events. So often You strengthen Your people through the insight and words of those who have walked with You faithfully. Thank You for building Your household with grace that steadies one another. Make us women who can recognize Your work, and give us gentle mouths and discerning hearts, so that when others are not yet steady, we may strengthen them with truth and mercy. Remember those who are walking difficult and misunderstood roads today, and uphold them by Your word. Let there be more blessing than judgment among us, and more eyes that recognize Your work than hearts that dismiss it. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Mary’s Song",
+      "subtitle": "A young woman who seems small in the world’s eyes becomes the first to sing of how God turns the world upside down.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 1:46-47",
+            "book_code": "LUK",
+            "chapter": 1,
+            "verses": "46-47",
+            "translation": "KJV",
+            "text": "And Mary said, My soul doth magnify the Lord, and my spirit hath rejoiced in God my Saviour."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "Today we listen to Mary’s song, often called the Magnificat. This is not simply a private outpouring of emotion. It is a young woman beginning to see the larger shape of God’s kingdom through what God is doing. Here we see that He remembers the lowly and often reveals His glory through those the world overlooks.",
+            "“And Mary said, My soul doth magnify the Lord, and my spirit hath rejoiced in God my Saviour.” Luke 1:46-47"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Mary’s beauty in Luke is not only that she says yes. It is also that she sings. The Magnificat is not merely a private outpouring of feeling. It is a young woman, still standing inside uncertainty, naming the character of God with remarkable clarity. She begins, “My soul doth magnify the Lord; and my spirit hath rejoiced in God my Saviour.” Her life has not suddenly become simple, yet she has already chosen to make God large in her heart.",
+            "Then her song opens outward. Mary is not only grateful that God has noticed her. She is seeing the pattern of His kingdom. He scatters the proud, brings down the mighty, lifts the lowly, and fills the hungry. God does not move according to the world’s measures of status, polish, or power. **The Gospel does not begin with people rising high enough to reach God. It begins with God drawing near to the lowly.**",
+            "That is one reason Luke gives this song such weight. Mary is not pushed to the edges of the story. She becomes one of the first voices to declare what God’s reign is like. And her words still speak now, because we live surrounded by standards that keep telling us who matters most. Mary reminds us that God measures differently. He remembers the humble. He keeps His promises.",
+            "If your heart feels more burdened than songful today, you do not need to force triumph. You may simply need to begin where Mary begins: by letting God become weightier than the voices that have been defining you. This song reminds us that spiritual order begins to return when God is made weightier than fear, comparison, and every other voice."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Read the song slowly and notice where it begins and how it widens into a vision of God’s kingdom. Then ask what has been growing largest in your own heart lately."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 1:48",
+              "book_code": "LUK",
+              "chapter": 1,
+              "verses": "48",
+              "translation": "KJV",
+              "text": "For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, You alone are great, and You alone are worthy to be magnified. We praise You because You remember the lowly, keep Your covenant, and reveal Your grace through lives the world may overlook. Deliver us from the world’s measures, so that comparison, status, and outcomes do not outweigh Your presence in our hearts. Reorder us within, that we may magnify You before we measure ourselves or anyone else. Let Your church keep singing of Your ways, so that the lowly are comforted, the proud are warned, and Your name is lifted high among us. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "Anna’s Long Faithfulness",
+      "subtitle": "An elderly widow, faithful in quiet years of prayer, lived long enough to see the Lord she had been waiting for.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 2:37",
+            "book_code": "LUK",
+            "chapter": 2,
+            "verses": "37",
+            "translation": "KJV",
+            "text": "Which departed not from the temple, but served God with fastings and prayers night and day."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "Luke gives Anna only a few lines, yet through them he shows us how an older woman welcomed the Savior through years of quiet faithfulness. This passage reminds us that God does not overlook the waiting and praying the world hardly notices.",
+            "“Which departed not from the temple, but served God with fastings and prayers night and day.” Luke 2:37"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Anna appears quietly in Luke, but her life carries great weight. She is old. She has been widowed for many years. She spends her days in the temple, fasting, praying, and serving God. Luke does not first tell us what she achieved. He shows us who she became: a woman who did not turn away from God after loss.",
+            "That is part of what makes Anna so beautiful. Her story is not built on one dramatic moment. It is built on long faithfulness. **Some of the deepest beauty in a spiritual life is not intensity for a season, but remaining before God through many ordinary years.** Anna did not know exactly when the Savior would come, but she kept her life turned toward the Lord. And when Jesus was brought into the temple, she was there. She recognized Him. She gave thanks. She spoke of Him to those who were waiting for redemption.",
+            "This passage speaks gently to anyone living through a long season. Long prayer. Long grief. Long obedience. Long hiddenness. Anna reminds us that waiting is not emptiness, and hidden faithfulness is not wasted faithfulness. God remembers the prayers that seem to disappear into quiet years. He sees the love that keeps showing up before Him. Long, quiet years spent before God are never lost in His sight."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Notice how Anna has ordered her life around waiting on God, and how quickly she recognizes Jesus when He appears. Then consider how you tend to view long, quiet, unseen faithfulness."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 2:38",
+              "book_code": "LUK",
+              "chapter": 2,
+              "verses": "38",
+              "translation": "KJV",
+              "text": "And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, we praise You because You remember the faithfulness no one else notices, and You see the prayers carried through long years. You do not despise hidden worship, and You do not forget quiet waiting. Give Your people patience and clear sight, so that we do not lose heart in long seasons or doubt You in hidden places. Make Your church more like Anna: watchful, thankful, and ready to recognize Your work when it appears. Let our waiting not be emptiness, but preparation for the hour of Your appearing. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "Peter’s Mother-in-Law Rises",
+      "subtitle": "A woman laid low by illness is raised by Jesus and restored to the life she was meant to live.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 4:39",
+            "book_code": "LUK",
+            "chapter": 4,
+            "verses": "39",
+            "translation": "KJV",
+            "text": "And he stood over her, and rebuked the fever; and it left her: and immediately she arose and ministered unto them."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "This short scene tells of the healing of Peter’s mother-in-law, and it carries real force. Luke shows us that when Jesus heals, He does not merely remove affliction. He often restores a person to the life she was meant to live.",
+            "“And he stood over her, and rebuked the fever; and it left her: and immediately she arose and ministered unto them.” Luke 4:39"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Peter’s mother-in-law appears only briefly in Luke, and that is part of what makes the story so striking. She is sick with a high fever, lying helpless while others ask Jesus for help. Then Luke tells us, in a few simple lines, that Jesus stands over her, rebukes the fever, and it leaves. After that comes the detail that gives the story its shape: “immediately she arose and ministered unto them.”",
+            "The beauty of the passage is not only that the fever is gone. It is that she rises. **When Jesus heals, He does not only remove suffering. He often restores a person to life, movement, and love again.** This woman is not left frozen in the moment of her healing. She returns, naturally and quietly, to the life she can now inhabit again. The restoration is practical. It enters her body, her strength, her relationships, and her daily rhythm.",
+            "This speaks gently to anyone who feels pressed down by weakness, exhaustion, or some long inner heaviness. We may not all be lying in bed with a visible fever, but many of us know what it is to lose the strength to rise, to care, or to give ourselves to ordinary life. This story reminds us that Jesus does not watch from a distance. He comes near. He stands beside the one who is laid low. And He is still able to raise people back into the life they could not recover on their own.",
+            "Even now, Jesus still knows how to help a woman rise, especially in the places where weakness has begun to feel normal."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Notice how Jesus deals with Peter’s mother-in-law’s sickness, and why Luke bothers to mention that she rises and serves at once. Then consider how the Lord’s restoring work often returns people to ordinary life with new strength."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 145:14",
+              "book_code": "PSA",
+              "chapter": 145,
+              "verses": "14",
+              "translation": "KJV",
+              "text": "The Lord upholdeth all that fall, and raiseth up all those that be bowed down."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because You are not a Lord who watches from far away. You draw near, You raise up, and You restore. You see the helplessness of sickness and the heaviness of exhausted hearts. Let Your healing and renewing mercy come among us. Strengthen the weak, renew the weary, and restore Your people so that we are not only comforted, but made ready again for love and faithfulness. Let even our bodies, our daily rhythms, and our service be rebuilt by Your presence. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Day 6",
+      "title": "The Women Who Sustained Jesus’ Ministry",
+      "subtitle": "These women were not only helped by Jesus. They also joined His work and supported it with what they had.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 8:3",
+            "book_code": "LUK",
+            "chapter": 8,
+            "verses": "3",
+            "translation": "KJV",
+            "text": "And many others, which ministered unto him of their substance."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "Luke 8 pauses to name a group of women traveling with Jesus. The pause itself matters. Luke wants us to see that women were not spectators in the Gospel story. They truly took part in the work of Jesus.",
+            "“And many others, which ministered unto him of their substance.” Luke 8:3"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "At the beginning of Luke 8, Luke pauses to name a group of women: Mary Magdalene, Joanna, Susanna, and many others. They had been healed, delivered, and changed by Jesus. Now they travel with Him, and Luke tells us that they minister to Him out of their own substance. It is a brief passage, but it matters greatly, because Luke is making something clear: women were not standing at the edge of Jesus’ ministry, watching it happen. They were part of it.",
+            "These women first received grace, and then they responded with what they had. **Those who are truly met by Jesus do not only receive from Him; they also begin to place themselves inside the work He is doing.** Their participation is not flashy. It may not be the most visible part of the story. But it is real, costly, and remembered by God.",
+            "This passage also corrects a common misunderstanding. We can easily imagine that the most important spiritual work belongs only to the most visible people. But Luke names these women so we will not miss them. God sees those who quietly sustain what others more publicly lead. Some serve with words. Some serve by staying near. Some serve by giving, supporting, welcoming, or simply making the work possible.",
+            "You do not have to stand in the brightest place to be truly participating in the work of Jesus. In His kingdom, hidden faithfulness is still precious."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "As this passage unfolds, notice what these women had first received from Jesus, and why Luke takes care to name them and record their support. Then consider whether you tend to underestimate the forms of service that quietly sustain the work of God."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 8:2",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "2",
+              "translation": "KJV",
+              "text": "And certain women, which had been healed of evil spirits and infirmities."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, we praise You because You do not only heal, free, and comfort people. You also draw them into Your work. Thank You for remembering those who are not at the front of the story, yet truly help carry the work of the Gospel. Make Your people willing not only to receive grace, but to answer it; not only to admire what You are doing, but to take part in it. Teach us to offer our time, our resources, our strength, and our steadiness, so that the Gospel is carried forward, Christ is honored, and the church is strengthened. Let all that we have become an instrument in Your service. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Day 7",
+      "title": "The Woman Who Reached for Jesus",
+      "subtitle": "A woman marked for years by shame and isolation reaches toward Jesus in fear, and finds healing and peace.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 8:48",
+            "book_code": "LUK",
+            "chapter": 8,
+            "verses": "48",
+            "translation": "KJV",
+            "text": "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "The story of the woman with the issue of blood brings us to someone who comes to Jesus from long suffering, shame, and desperation rather than ease or dignity. This passage shows us that Jesus does not turn away from such a woman.",
+            "“And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace.” Luke 8:48"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "This woman has been suffering for twelve years. She has spent all she has and is still not healed. Her pain is not only physical. It is also social and deeply shaming. She comes to Jesus from behind and reaches for His garment because she has nowhere else to go.",
+            "What makes this story so beautiful is that when she touches Jesus, her uncleanness does not pass into Him. His wholeness passes into her. Then Jesus does something even more tender. He does not let her slip away unnamed. He calls her forward and says, “Daughter.” **Jesus is not only healing her body. He is bringing her out of shame and restoring her in peace.**",
+            "I once listened to a woman tell me, almost in a whisper, that she had carried a hidden struggle for so many years that every prayer felt like standing outside the door. One day we read this passage together. She wept and said only, “She touched Jesus, and He did not pull away.” Her whole life did not change overnight. But it was the first time she truly believed she did not have to come to Him only in hiding.",
+            "This story still speaks to those who feel hidden, diminished, or ashamed. It reminds us that Jesus does not only heal what is wounded; He also brings hidden lives back into peace and belonging."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Watch for why this woman comes from behind, and why Jesus does not let her slip away unnoticed. Then consider what He gives her beyond physical healing."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 8:44",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "44",
+              "translation": "KJV",
+              "text": "Came behind him, and touched the border of his garment: and immediately her issue of blood stanched."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because You do not turn away from the broken. You are not repelled by human shame, nor do You turn Your face from wounded lives. Thank You that You not only heal, but also restore people with the tenderness of belonging. Give courage to those who only dare to come near in secret, and let Your peace enter the hidden places of pain and shame. Make Your church more like You: a people who do not push the broken away, but help draw them back into grace. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "day_label": "Day 8",
+      "title": "Jairus’s Daughter",
+      "subtitle": "A twelve-year-old girl is gently called back to life by Jesus when everyone else thinks the story is over.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 8:54",
+            "book_code": "LUK",
+            "chapter": 8,
+            "verses": "54",
+            "translation": "KJV",
+            "text": "And he put them all out, and took her by the hand, and called, saying, Maid, arise."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "The story of Jairus’s daughter is brief, and the girl herself is very young, yet the scene shows us how Jesus brings life when despair thinks the final word has already been spoken.",
+            "“And he put them all out, and took her by the hand, and called, saying, Maid, arise.” Luke 8:54"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Jairus’s daughter is only twelve years old. She falls sick, and then she dies. By the time the message arrives, others have already decided the meaning of the moment: “Thy daughter is dead; trouble not the Master.” It is a painfully human sentence. It means the story is over, the hope is gone, and no more can be done.",
+            "But Jesus does not stop where others stop. He keeps walking. He enters the room, takes the girl by the hand, and says, “Maid, arise.” Then Luke adds a detail that carries great tenderness: after she rises, Jesus tells them to give her something to eat. **The life Jesus brings is not only dramatic power. It is also attentive love.** He does not merely raise her and step back. He notices what she needs next.",
+            "That is part of what makes this story so moving. To Jesus, this girl is not a stage for His power. She is a person He truly sees. And that matters for us, because many of us know what it is to live under the voice that says, “It is too late now.” A hope feels dead. A relationship feels finished. A part of the heart feels like it has not been alive for a long time.",
+            "This passage does not ask us to force optimism. It simply brings us back to the One who is not bound by the conclusions others have already reached. The story of Jairus’s daughter reminds us that Jesus still knows how to speak into places that seem final and say, “Arise.”"
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Notice the conclusion others reach before Jesus enters the room, and what He does next. Then watch how power and tenderness appear together in the same story."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 8:55",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "55",
+              "translation": "KJV",
+              "text": "And her spirit came again, and she arose straightway: and he commanded to give her meat."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because You do not rule according to human despair. You are still able to bring life into places where others have already said it is too late. Thank You that You reveal not only resurrection power, but also tender care for what comes next. Give hope to those whose hearts carry places of quiet death, and teach Your people not to let human conclusions replace Your living word. In every place that seems finished, help us remember that You are still able to say, “Arise.” In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "day_label": "Day 9",
+      "title": "Martha and Mary",
+      "subtitle": "Two sisters both love Jesus, yet He gently shows how even loving service can lose its center.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 10:42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "42",
+            "translation": "KJV",
+            "text": "Mary hath chosen that good part, which shall not be taken away from her."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "The story of Martha and Mary feels familiar to many women because it lives so close to the experience of carrying, managing, and keeping everything going. Jesus brings us back here to His searching words: “one thing is needful.”",
+            "“Mary hath chosen that good part, which shall not be taken away from her.” Luke 10:42"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "When Martha welcomes Jesus into her home, she is doing something beautiful. She is not cold toward Him, and she is certainly not lazy. She is active, responsible, and full of care. But as the work multiplies, Luke tells us that she is “cumbered about much serving.” Her activity begins to pull her inwardly off center. Before long, her frustration spills toward her sister, and even toward the Lord: “Dost thou not care?”",
+            "That question feels painfully familiar. Many women know what it is to carry so much that love begins to turn into strain. The task may be good, the responsibility may be real, and yet the heart slowly fills with agitation, resentment, and loneliness.",
+            "Jesus does not mock Martha’s service. He calls her by name: “Martha, Martha.” Then He gently reveals the deeper issue. The problem is not service itself. It is being drawn away by many things until the center is lost. **A woman can drift from the Lord not only through neglect, but also through busyness.** Mary’s posture at Jesus’ feet is not a rejection of responsibility. It is a recognition that before anything else, the soul must remain near the Lord Himself.",
+            "This passage is not teaching us to despise work or avoid service. It is teaching us to guard the center. The Lord is not shaming the weary here. He is calling them back to what cannot be taken away and restoring the heart to its true center."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "As you read, notice whether Martha’s problem is merely too much work, or a heart slowly pulled away from the center. Then consider why Mary’s choice is called something that cannot be taken away."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 10:41",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41",
+              "translation": "KJV",
+              "text": "Martha, Martha, thou art careful and troubled about many things."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because You do not despise service, yet You gently call people back to the center. Thank You that You understand the weariness that comes with responsibility and the way busyness can slowly crowd out rest. Restore the one thing needful among Your people, so that we do not merely do things for You, but truly remain with You. Let our service flow not from agitation or resentment, but from the peace, love, and renewal that come from Your presence. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "day_label": "Day 10",
+      "title": "The Woman Bent Double",
+      "subtitle": "A woman bent over for eighteen years is seen, called, freed, and made to stand upright again by Jesus.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 13:12",
+            "book_code": "LUK",
+            "chapter": 13,
+            "verses": "12",
+            "translation": "KJV",
+            "text": "And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "This woman enters the scene already carrying eighteen years of pain. Luke describes her suffering plainly, and he also describes Jesus’ response plainly: He sees her, calls her forward, and speaks to her. This passage shows us that being seen by Christ is itself the beginning of grace.",
+            "“And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity.” Luke 13:12"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "This woman has been bent over for eighteen years. That is long enough for suffering to begin shaping a person’s whole way of living. Her body has learned the curve. Her eyes have learned to look downward. Her days have been organized around limitation for so long that she may hardly remember any other way of being.",
+            "What is most beautiful in the passage is that Jesus sees her. He does not wait for her to make a speech. He does not wait for her to prove her worthiness. He calls her forward and says, “Woman, thou art loosed from thine infirmity.” Then He touches her, and she stands upright. **Some suffering is painful not only because it hurts, but because after long enough it begins to feel normal. Jesus is able to free a person even from the bent shape she has grown used to carrying.**",
+            "This is not only a healing story. It is also a story of restored dignity. Later Jesus calls her “a daughter of Abraham,” as if to say in front of everyone that she is not someone to be overlooked or postponed. She belongs to God, and she is worthy of being set free.",
+            "Many women know what it is to live bent beneath something that has lasted a long time: fear, shame, weariness, pressure, or a shrunken way of moving through life. This passage reminds us that Jesus still sees, still calls, and still lifts people upright, even when a burden has lasted so long that it has begun to feel like part of life itself."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Notice what Jesus sees first and how He takes the initiative toward this woman. Then consider why He later calls her “a daughter of Abraham,” and how this story restores dignity as well as strength."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 13:16",
+              "book_code": "LUK",
+              "chapter": 13,
+              "verses": "16",
+              "translation": "KJV",
+              "text": "And ought not this woman, being a daughter of Abraham, whom Satan hath bound, lo, these eighteen years, be loosed from this bond on the sabbath day?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because You see the pain that has been overlooked for too long, and You delight to raise up those who have been bowed down. Thank You that You do not only heal the body; You also restore dignity and belonging. Remember those who have lived beneath heavy burdens for a long time, and let them find new strength through Your word and touch. And make Your church more like You, quick not to overlook the weak, but ready to help lift them up. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "day_label": "Day 11",
+      "title": "The Woman Who Kept Looking",
+      "subtitle": "Jesus uses the ordinary story of a woman searching her house to show how carefully God seeks what is lost.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 15:8",
+            "book_code": "LUK",
+            "chapter": 15,
+            "verses": "8",
+            "translation": "KJV",
+            "text": "Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it?"
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "The parable of the woman who lost a coin sounds small and domestic, yet it carries one of the tenderest pictures of God’s heart in Luke. God does not respond to loss with distance, but with determined search.",
+            "“Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it?” Luke 15:8"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Jesus does not choose this image casually. He tells the story of a woman searching for a lost coin in order to show us something about God Himself. She has ten pieces of silver and loses one. To someone else, it may not seem worth much. But to her, that one coin matters enough to light a lamp, sweep the house, and search carefully until she finds it.",
+            "That is where the force of the parable lies. She does not shrug and move on. She does not say it is too small to matter. She searches because what is lost still has value in her eyes. **Jesus wants us to understand that God seeks the lost not reluctantly, but because what is lost is still precious to Him.**",
+            "Placed alongside the lost sheep and the prodigal son, this story adds something especially tender. Sometimes what is lost does not look dramatic. A person can become lost quietly. Through weariness. Through distraction. Through discouragement. Through a slow inner drifting that hardly anyone else notices. Yet the Lord still sees the absence. He still lights the lamp. He still searches.",
+            "This parable speaks gently to anyone who feels she has misplaced part of her own soul. Perhaps you have not walked away in some obvious way, yet you know that something in you has gone dim. Something has been missing for longer than you want to admit. Jesus tells this story so we will know that God is not cold toward such loss. He is attentive, searching, and glad to restore what has been found again."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Read the parable closely and notice the specific things the woman does to search for the coin, and why Jesus chooses such an ordinary domestic image to reveal the heart of God. Stay with the phrase “seek diligently.”"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 15:9",
+              "book_code": "LUK",
+              "chapter": 15,
+              "verses": "9",
+              "translation": "KJV",
+              "text": "And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, we praise You because You are not indifferent to what is lost. You light the lamp, You search carefully, and You rejoice when what was lost is found. Thank You that even in human drifting, dimness, and distance, You still move toward people in grace. Shine Your light into the places that have grown cold, dark, and far away, and draw the lost back before You. And make Your church more able to share in Your seeking heart, never quick to give up on people, but ready to rejoice in Your restoring work. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "day_label": "Day 12",
+      "title": "The Widow Who Kept Coming",
+      "subtitle": "A widow with no visible power teaches us, by coming again and again, that prayer is not the last resort of the weak but the persistence of faith.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 18:1",
+            "book_code": "LUK",
+            "chapter": 18,
+            "verses": "1",
+            "translation": "KJV",
+            "text": "And he spake a parable unto them to this end, that men ought always to pray, and not to faint."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "Jesus tells the parable of the persistent widow for one clear reason: that people “ought always to pray, and not to faint.” It reminds us that returning to God again and again is not a sign of weak faith. It is often the shape faithful prayer takes.",
+            "“And he spake a parable unto them to this end, that men ought always to pray, and not to faint.” Luke 18:1"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "The widow in this parable has no visible power. She has no status, no influence, and no obvious leverage. What she does have is persistence. She keeps coming. Jesus tells this story as a contrast: if even an unjust judge can finally be moved, how much more will the righteous God hear those who cry to Him.",
+            "What makes the widow so compelling is that she does not let weakness keep her away. She returns because she knows she has nowhere else to go. **Very often, the deepest form of persevering prayer is not loud confidence but quiet refusal to leave the presence of God.**",
+            "I once walked with a mother who had been praying for her child for years. At one point she said, with real weariness, “I am afraid that if I keep praying like this, it will sound as though I am trying to force God’s hand.” Over time she began to see that returning to God again and again was not forcing Him. It was confessing that she still believed He was the Lord who hears. The situation did not change overnight. But something in her heart did.",
+            "The widow reminds us that the Lord does not despise those who keep coming. Returning to God through long waiting is not the failure of faith, but often one of its truest forms."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "As you read, notice why the widow keeps returning when she seems to have so little power, and what Jesus most wants His hearers to remember from the parable. Then consider how central “not losing heart” is in this passage."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 18:7",
+              "book_code": "LUK",
+              "chapter": 18,
+              "verses": "7",
+              "translation": "KJV",
+              "text": "And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, we praise You because You are the kind of God before whom people may come again and again. You are not wearied by our cries, nor dismissive of long prayer. Thank You that You are both just and merciful, the God who hears and the God who strengthens the discouraged. Place perseverance again within Your people, so that when answers still seem delayed, we do not leave You; and when waiting grows long, we still believe that You hear. Let prayer among us become not a passing emotion, but a lasting path of trust. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "day_label": "Day 13",
+      "title": "The Widow’s Two Coins",
+      "subtitle": "A gift few would notice becomes, in Jesus’ eyes, a sign of wholehearted trust.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 21:3",
+            "book_code": "LUK",
+            "chapter": 21,
+            "verses": "3",
+            "translation": "KJV",
+            "text": "Of a truth I say unto you, that this poor widow hath cast in more than they all."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "Here we come to the widow who puts in two small coins. In the middle of a crowded temple scene, Luke shows us that Jesus does not only notice how much people give. He notices how a heart is placed before God.",
+            "“Of a truth I say unto you, that this poor widow hath cast in more than they all.” Luke 21:3"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Jesus watches many people giving in the temple, and then He notices one poor widow. She puts in two small coins, an offering so slight that most people would have missed it entirely. Yet Jesus stops over her gift and says that she has given more than everyone else. Why? Because others gave out of abundance, while she gave out of want. She placed in the treasury what looked small to others, but to Jesus it carried the weight of trust.",
+            "This passage is not romanticizing poverty, nor is it turning giving into a comparison of percentages. **Jesus is showing us that He sees not only the gift, but the heart that entrusts itself to God through it.** The widow has no platform, no speech, and no visible importance. But in the eyes of Christ, her offering is not small, because it is joined to surrender.",
+            "There is a particular tenderness in this scene. The kingdom measures differently. People look first at size, effect, and impression. Jesus looks first at whether a life is truly being placed in the Father’s hands. He does not overlook what seems hidden and slight when it is offered to God in trust."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Notice why Jesus singles this widow out. He is not comparing amounts alone. Sit with the force of the phrase that she gave “all the living that she had.”"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 21:4",
+              "book_code": "LUK",
+              "chapter": 21,
+              "verses": "4",
+              "translation": "KJV",
+              "text": "For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, we praise You because You do not measure as people do. You see the heart, and You remember what is offered in trust. Thank You that You do not despise what seems small, but delight in lives honestly placed before You. Teach Your people not to measure themselves by visibility or abundance. Let our time, our resources, our steadiness, and our love become willing worship in Your sight. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "day_label": "Day 14",
+      "title": "The Daughters of Jerusalem",
+      "subtitle": "On the road of His own suffering, Jesus still turns and speaks to a group of weeping women.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 23:28",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "28",
+            "translation": "KJV",
+            "text": "But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "This passage brings us to Jesus’ words to the daughters of Jerusalem as He walks toward the cross. They weep for Him, but He turns their tears toward something deeper.",
+            "“But Jesus turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.” Luke 23:28"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Luke tells us that as Jesus goes toward the cross, a company of women follows Him, mourning and lamenting. Their grief is real. They are not indifferent to His suffering. Yet Jesus turns to them and says, “Weep not for me, but weep for yourselves, and for your children.”",
+            "He is not rejecting their tears. He is deepening them. **Jesus will not let sorrow remain only at the level of emotion. He turns it toward truth.** These women are not simply standing before a tragic scene. They are standing before the judgment of sin and the crisis of an age that does not know the things that belong to its peace.",
+            "That makes this moment especially striking. Jesus is carrying His own suffering, yet He still turns outward. He still speaks. He still cares enough to warn, awaken, and redirect. Even on the way to the cross, He is not absorbed only in Himself. He is shepherding the people in front of Him."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Notice what these women are doing, and why Jesus does not leave their grief where it is. Then watch how, even in suffering, He is still turning outward to shepherd others."
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 23:31",
+              "book_code": "LUK",
+              "chapter": 23,
+              "verses": "31",
+              "translation": "KJV",
+              "text": "For if they do these things in a green tree, what shall be done in the dry?"
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because You do not only stir emotion. You lead people into truth. Thank You that even in Your suffering, You still speak, warn, and awaken. Keep Your people from being merely moved by the cross at a distance. Bring us instead into true repentance, clear sight, and holy fear before it. Let our sorrow be deepened by truth and led toward obedience. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "day_label": "Day 15",
+      "title": "The Women Who Stayed to Witness",
+      "subtitle": "When many others fall back, these women still do not leave. They remain, watching from a distance.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 23:49",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "49",
+            "translation": "KJV",
+            "text": "And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "Luke then lets us see the women who remain near the cross, standing at a distance and watching. They do not change the outcome, and they say very little, yet they do not leave.",
+            "“And all his acquaintance, and the women that followed him from Galilee, stood afar off, beholding these things.” Luke 23:49"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "After Jesus dies, Luke does not immediately move away from the scene. He tells us that there are still people standing there, including the women who had followed Jesus from Galilee. They cannot stop the cross. They cannot undo what is unfolding. But they remain. They stand at a distance, beholding these things.",
+            "There is a quiet kind of faithfulness here. **Sometimes witness is not doing something dramatic. It is refusing to turn away when you cannot change what is happening.** These women are not at the center of the scene in any obvious way, yet they become true witnesses of it. They see how Jesus dies, and because they remain, they are also able to witness what follows.",
+            "I once walked with a woman through the loss of someone she loved. Later she told me the hardest part was not crying, but having to watch events unfold while being unable to stop them. When we read this passage together, she said softly, “So even standing there can be faithfulness.” I have remembered those words ever since.",
+            "Luke reminds us that the Lord does not overlook those who stay present in the dark. He remembers the love that cannot control the moment, but still refuses to leave it."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Notice why Luke bothers to say that these women stood “afar off” and kept watching. What kind of witness is formed simply by remaining present?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 8:2-3",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "2-3",
+              "translation": "KJV",
+              "text": "And certain women... and many others, which ministered unto him of their substance."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because You remember the love that stays through dark hours. Thank You that You do not despise silent faithfulness, nor overlook those who cannot change the moment but refuse to abandon it. Give Your people this kind of endurance, so that in pain, loss, and confusion, we do not turn away from You or from the love You have entrusted to us. Let our staying, watching, and accompanying become true witness in Your sight. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "day_label": "Day 16",
+      "title": "The Women Who Prepared Spices",
+      "subtitle": "When hope seems sealed away, these women still do the last loving thing they know to do.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 23:55-56",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "55-56",
+            "translation": "KJV",
+            "text": "And the women also, which came with him from Galilee, followed after, and beheld the sepulchre, and how his body was laid. And they returned, and prepared spices and ointments."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "Here Luke writes of the women who follow Jesus to the tomb and then return to prepare spices. They do not yet know resurrection, yet love still keeps moving in them.",
+            "“And they returned, and prepared spices and ointments.” Luke 23:56"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "After Jesus is laid in the tomb, Luke does not let these women disappear from the story. He tells us that they see the tomb, and they see how His body is laid. Then they return and prepare spices and ointments. It is a practical act, a sorrowful act, and a loving act. They do not know what is coming next. They simply do the last thing love still knows how to do.",
+            "What makes this scene so moving is this: **love does not always continue because hope is visible. Sometimes it continues precisely when hope cannot yet be seen.** These women are not doing something dramatic. They are doing something faithful. And Luke records it because even small acts of devotion in grief are not lost in the Gospel story.",
+            "This passage also reminds us that faith is not always immediate understanding. Sometimes it is continuing in love before understanding has arrived. The women prepare spices not because they have already seen resurrection, but because they still love Jesus."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Notice what these women first see, and what they do next. Why does Luke take care to record both their seeing and their preparing?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "John 14:15",
+              "book_code": "JHN",
+              "chapter": 14,
+              "verses": "15",
+              "translation": "KJV",
+              "text": "If ye love me, keep my commandments."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because You remember the love that continues in grief. Thank You that You do not overlook the quiet, practical, ordinary acts of devotion that rise from faithful hearts. Teach Your people to go on loving in obedience even when we do not yet see clearly. Keep our hearts turned toward You, not only in bright hours, but also in silence and waiting. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "day_label": "Day 17",
+      "title": "The Sabbath of Silence",
+      "subtitle": "Before God reveals the next thing, these women stop and wait in the stillness of the Sabbath.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 23:56",
+            "book_code": "LUK",
+            "chapter": 23,
+            "verses": "56",
+            "translation": "KJV",
+            "text": "And rested the sabbath day according to the commandment."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "What Luke shows us here is a quiet detail that is easy to miss: after preparing spices, these women rest on the Sabbath. Between the cross and the resurrection, he lets us see a stretch of silence.",
+            "“And rested the sabbath day according to the commandment.” Luke 23:56"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Luke gives us one very quiet sentence: “And rested the sabbath day according to the commandment.” Emotionally, this can hardly have been an easy day of rest. These women have seen Jesus die. They have seen where He is buried. They have prepared spices for His body. Their hearts must have been full of grief, confusion, and unfinished love. Yet before anything else happens, they stop and keep the Sabbath.",
+            "This is not indifference, and it is not passivity. It is obedience in the dark. **Sometimes faith is not moving ahead quickly. It is refusing to outrun the word of God when the next step is still hidden.** These women do not yet understand that resurrection morning is near, but they already honor God in silence.",
+            "That gives this small verse unusual depth. The gap between cross and resurrection is not a place where God has ceased to work. It is a place where His people must sometimes wait without seeing. The women’s rest becomes a quiet act of trust: even when the heart is troubled, the word of God is still to be honored."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Read this quiet verse slowly. What have these women already prepared, and why do they still stop to rest? What does it mean that they keep the Sabbath “according to the commandment” in the middle of grief?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Psalm 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "KJV",
+              "text": "Be still, and know that I am God."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Father, we praise You because even when You seem silent, You are still reigning. Thank You that between cross and resurrection, You had not abandoned Your people. Teach us to honor Your word when we do not yet understand, and to rest when the next step has not yet been made clear. Give Your church stillness, reverence, and hearts that know how to wait for You. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "day_label": "Day 18",
+      "title": "The Women at Daybreak",
+      "subtitle": "They come with spices, thinking they have come to mourn, but they are the first to hear the announcement of resurrection.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 24:1-2",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "1-2",
+            "translation": "KJV",
+            "text": "Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared. And they found the stone rolled away from the sepulchre."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "At daybreak, Luke first leads us to the women on their way to the tomb. They leave home carrying spices prepared the day before, not knowing they are walking toward an empty grave.",
+            "“Now upon the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared.” Luke 24:1"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "When these women come to the tomb, they are not arriving with triumphant expectation. They come carrying spices, carrying grief, and carrying one last act of care they know how to offer. They expect to continue tending to death. Instead, they find the stone rolled away and the body of the Lord Jesus gone.",
+            "That is part of the wonder of resurrection morning. **People come still bearing yesterday’s sorrow, and God meets them first with the news of life.** These women are not the first to the tomb because they possess brighter faith than everyone else. They are simply moving forward in love and faithfulness. And in that very movement, resurrection meets them.",
+            "I once walked with a woman through a season of loss so deep that she told me each day felt like doing only the next necessary thing. Later, when she read this passage, she said quietly, “So a person can still be met by resurrection before she feels ready for joy.” I have remembered that line ever since.",
+            "Luke reminds us that God often prepares a new morning while people are still carrying the weight of the old one."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "As this resurrection scene opens, notice what these women bring in their hands, and what they likely expect to find. What does the rolled-away stone mean for the whole movement of the passage?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 24:6",
+              "book_code": "LUK",
+              "chapter": 24,
+              "verses": "6",
+              "translation": "KJV",
+              "text": "He is not here, but is risen."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because You are the risen Lord. Thank You that while people are still carrying the weight of yesterday, You are already preparing the morning ahead of them. Strengthen those who still walk in grief, weariness, and uncertainty, and let them be met by the hope of Your resurrection as they continue on. Make Your church not only a people who affirm resurrection, but a people truly awakened and steadied by it. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "day_label": "Day 19",
+      "title": "They Remembered His Words",
+      "subtitle": "Resurrection brings not only astonishment, but a new remembering of what Jesus had already said.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 24:6-8",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "6-8",
+            "translation": "KJV",
+            "text": "He is not here, but is risen... And they remembered his words."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "Next comes a crucial turning point: after hearing the angels, the women “remembered his words.” Resurrection does not only shock them. It also makes the words of Jesus shine again.",
+            "“And they remembered his words.” Luke 24:8"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "After the angels say, “He is not here, but is risen,” Luke adds a brief but crucial sentence: “And they remembered his words.” This is one of the most important movements in the resurrection account. The women do not remain only in astonishment. They begin connecting what they are seeing with what Jesus had already told them.",
+            "That matters deeply. **Faith is not only stirred by a startling event. It is steadied when the words of Jesus are remembered and recognized as true.** Resurrection is not a divine surprise that appeared from nowhere. It is the fulfillment of what Christ had already spoken.",
+            "In that sense, remembering becomes part of understanding. The women are not merely witnesses of an empty tomb. They are becoming women who see that the Lord’s words were trustworthy all along. Luke lets us notice this because spiritual clarity often comes this way. God does not always begin by giving us something brand new. Often He brings us back to what He has already said, and only then do we begin to understand it rightly."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Notice what the angels tell the women to remember, and why Luke highlights that they remembered Jesus’ words. How does remembering reshape the meaning of what they are seeing?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 9:22",
+              "book_code": "LUK",
+              "chapter": 9,
+              "verses": "22",
+              "translation": "KJV",
+              "text": "The Son of man must suffer many things... and be raised the third day."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because every word You speak is true and trustworthy. Thank You that You do not leave Your people to live on emotion or surprise alone. You steady us by Your word. Make us more familiar with Your voice in Scripture, and bring to remembrance what You have already spoken when our hearts need to be corrected and strengthened. Let Your church remember Your words and stand firmly in them. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "day_label": "Day 20",
+      "title": "The Women Who Told the News",
+      "subtitle": "The news of resurrection is first entrusted to women, and they speak it even when it is not immediately believed.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 24:9",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "9",
+            "translation": "KJV",
+            "text": "And returned from the sepulchre, and told all these things unto the eleven, and to all the rest."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "Here Luke records the women telling the apostles the news of resurrection. He carefully preserves their names, and he does not hide how their words are first received.",
+            "“And returned from the sepulchre, and told all these things unto the eleven, and to all the rest.” Luke 24:9"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "When the women return from the tomb, they do not keep what they have seen to themselves. They go and tell the eleven and the rest. Luke even records their names: Mary Magdalene, Joanna, Mary the mother of James, and others with them. They are not vague figures at the edge of the story. They are the first carriers of resurrection news.",
+            "What is striking is that the apostles do not immediately believe them. Their words seem to be dismissed as idle talk. Yet Luke does not reduce the weight of their witness because of that response. **The Lord does not wait until a message will be easily received before entrusting it to faithful people.** These women speak because they have truly seen and truly heard.",
+            "I once listened to a woman describe how difficult it was to speak about what Christ had done in her life when the people closest to her responded with polite disbelief. Later she said, “I realized witness is not first about being accepted. It is about being true to what I have seen of the Lord.” That insight has always felt close to this passage.",
+            "Luke reminds us that God honors the voices of His daughters, and He uses those who speak faithfully even before others are ready to understand."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "Watch how carefully Luke names these women, and how their words are first received. What does this passage show about witness before it is believed?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 24:11",
+              "book_code": "LUK",
+              "chapter": 24,
+              "verses": "11",
+              "translation": "KJV",
+              "text": "And their words seemed to them as idle tales, and they believed them not."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because You entrust resurrection news to people and delight to use faithful witness. Thank You that You did not despise the voices of these women, but made them the first bearers of Easter proclamation. Teach Your people not to measure faithfulness by immediate acceptance, but to speak truthfully because we have truly come to know You. Let Your church honor the voices You choose to use, and be strengthened again and again by the Gospel of the risen Christ. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "day_label": "Day 21",
+      "title": "Seeing Jesus Through These Women",
+      "subtitle": "At the end of these 21 days, we do not remember only these women. Through them, we remember Jesus more clearly.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Focus Verse",
+          "verse": {
+            "display": "Luke 24:22",
+            "book_code": "LUK",
+            "chapter": 24,
+            "verses": "22",
+            "translation": "KJV",
+            "text": "Yea, and certain women also of our company made us astonished, which were early at the sepulchre."
+          }
+        },
+        {
+          "type": "opening",
+          "ui_hint": "card.body_text",
+          "heading": "Today's Opening",
+          "paragraphs": [
+            "We close the journey with a line from Luke’s final chapter. Even when others look back on resurrection morning, they cannot tell the story without these women. They are not at the edge of the Gospel. They are part of how Jesus makes Himself known.",
+            "“Yea, and certain women also of our company made us astonished, which were early at the sepulchre.” Luke 24:22"
+          ]
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "By the end of Luke’s Gospel, even the disciples on the road to Emmaus cannot retell the story without mentioning the women: “certain women also of our company made us astonished.” That sentence is worth lingering over. At the close of the Gospel, these women are still not incidental. They remain woven into the story’s center. They have witnessed the coming of Christ, His ministry, His suffering, His burial, and His resurrection.",
+            "Yet the greater gift is this: through them, we have been seeing Jesus Himself. We have seen how He welcomes Mary’s surrender, strengthens Elizabeth and Anna, heals women marked by shame, raises those bent low, turns to women even on the road to the cross, and entrusts resurrection news first to them. **What remains after these twenty-one days is not only a set of women’s stories, but a clearer vision of Christ through them.**",
+            "And that is where this journey is meant to leave us. Not with admiration for a theme, but with deeper recognition of the Lord. Luke quietly and firmly shows us that Jesus sees, honors, remembers, restores, and uses the daughters of God."
+          ]
+        },
+        {
+          "type": "today_as_you_read",
+          "ui_hint": "card.body_text",
+          "heading": "Today as You Read",
+          "paragraphs": [
+            "As you read the close of the journey, notice why the disciples still mention these women when retelling resurrection morning. Looking back across Luke, what kind of Lord has become most clear through them?"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Additional Scriptures",
+          "verses": [
+            {
+              "display": "Luke 8:1-3",
+              "book_code": "LUK",
+              "chapter": 8,
+              "verses": "1-3",
+              "translation": "KJV",
+              "text": "And certain women... and many others, which ministered unto him of their substance."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord Jesus, we praise You because through these women in the Gospel, You have shown us Your own heart. Thank You that You see, honor, heal, strengthen, and use the daughters of God, and through them lead Your church into a clearer knowledge of You. After this journey, keep us from remembering only the stories. Teach us to follow the Lord they reveal. Let Your people trust You more deeply, and let Your daughters find rest, dignity, and strength in Your gaze. In Jesus’ name, amen.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

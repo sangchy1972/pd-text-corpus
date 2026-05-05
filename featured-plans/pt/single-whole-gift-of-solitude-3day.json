@@ -1,0 +1,253 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI16",
+    "slug": "gift-of-solitude",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Papéis e Identidade",
+      "secondary": "single-whole",
+      "secondary_label": "Solteira e Plena"
+    },
+    "tags": [
+      "solteira",
+      "plenitude",
+      "solidao",
+      "espera",
+      "chamado",
+      "realizacao"
+    ],
+    "title": "O Dom da Solidão",
+    "subtitle": "Descobrindo paz e presença no tempo sozinha",
+    "audience": {
+      "life_stage": [
+        "mulheres solteiras",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "plena",
+        "anseiando",
+        "contente na espera"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes três dias o ajudam a trazer o peso da solidão de volta a Deus para que a solidão comece a parecer menos uma falta e mais um espaço onde Sua presença pode o encontrar.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#E0D4C0",
+      "color_secondary": "#5A4226",
+      "image_key": "cover_woman_quiet_room_solitude_warm",
+      "icon": "single-tree-and-sun-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Marcos 1:35",
+        "book_code": "MRK",
+        "chapter": 1,
+        "verses": "35"
+      },
+      {
+        "display": "Efésios 2:10",
+        "book_code": "EPH",
+        "chapter": 2,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Quando a Quietude Dói",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Marcos 1:35",
+            "book_code": "MRK",
+            "chapter": 1,
+            "verses": "35",
+            "translation": "Almeida",
+            "text": "De madrugada, antes do amanhecer, Jesus se levantou, saiu e foi para um lugar deserto, onde pôs-se a orar."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Uma das partes mais difíceis da vida de solteira não é sempre o que outras pessoas notam. É os momentos silenciosos que elas não veem. Chegar a casa em um quarto vazio. Terminar um fim de semana sem ninguém para conversar. Sentir aquela pequena dor depois de ver outras pessoas se movem pela vida em pares. O vazio nem sempre é dramático, mas é real. Muitos de nós respondemos preenchendo cada espaço aberto. Rolamos, agendamos, nos distraímos e ficamos ocupadas porque a quietude pode fazer a dor parecer mais aguda.",
+            "Mas a Escritura não trata a solidão como um lugar onde Deus desaparece. Jesus mesmo frequentemente se retirava sozinho para orar. O Salmo 46 diz: \"Fiquem quietos e saibam que eu sou Deus.\" Isso não é uma tentativa de romantizar a solidão. É um lembrete de que a quietude não apenas expõe o que está faltando. Ela também pode revelar quem está presente. Podemos desejar profundamente amor e companhia, e esse desejo não é errado. Mas se cada momento solitário se torna prova de que nossa vida está faltando algo, nossos corações lutarão para descansar.",
+            "Penso que muitos de nós conhecemos o impulso de correr do vazio. No entanto, parte do trabalho mais profundo que Deus faz em nós acontece precisamente nos lugares que mais nos sentimos tentadas a evitar. Não porque Ele substitua o amor humano, mas porque Ele nos encontra onde o anseio é mais exposto. Na solidão, frequentemente ouvimos não apenas nosso anseio, mas também Sua proximidade.",
+            "**O tempo sozinha não é automaticamente abandono. Pode se tornar um lugar de encontro.** Hoje, não se apresse em preencher cada espaço silencioso. Sente-se com Deus por alguns minutos desacelerados. O quarto pode ainda parecer silencioso, mas você pode começar a perceber que silencioso não é a mesma coisa que ser deixada sozinha."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai, quando a quietude me assusta, me ajude a ver Sua presença em vez da minha falta. Que eu possa encontrar repouso em Você em cada momento silencioso. Amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Marcos 1:35",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35",
+              "translation": "Almeida",
+              "text": "De madrugada, antes do amanhecer, Jesus se levantou, saiu e foi para um lugar deserto, onde pôs-se a orar."
+            },
+            {
+              "display": "Salmo 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Almeida",
+              "text": "Fiquem quietos e saibam que eu sou Deus; serei exaltado entre as nações, serei exaltado na terra."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Encontrada na Solidão",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Isaías 43:1",
+            "book_code": "ISA",
+            "chapter": 43,
+            "verses": "1",
+            "translation": "Almeida",
+            "text": "Mas agora, assim diz o Senhor, que te criou, ó Jacó, e que te formou, ó Israel: Não tenha medo, pois Eu o resgatei; Eu o chamei pelo seu nome; você é meu."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Há algo profundo que acontece quando nos permitimos estar sozinhas sem resistência. Quando paramos de lutar contra o vazio e deixamos que Deus nos alcance nele. Isso não torna a solidão confortável. Ainda pode doer. Mas muda o que o vazio significa. Deixa de ser apenas o que nos falta e se torna um espaço onde somos verdadeiramente vistas.",
+            "Muitos de nós foram ensinadas a acreditar que estar sozinha é uma posição de espera. Que nossa vida real começa quando encontramos o parceiro certo, quando nos preenchemos com a atividade certa, quando finalmente chegamos onde estamos indo. Mas Deus não vê você dessa forma. Sua vida, sua importância, Sua aprovação não dependem de quem você conhece ou o que você realiza. **Você é completa em Sua visão agora mesmo.**",
+            "Quando nos permitimos descansar nessa verdade, mesmo que apenas por alguns minutos, descobrimos algo surpreendente. A solidão deixa de ser uma afirmação de que estamos sozinhas e se torna um recordar de que fomos escolhidas. Que estamos sendo aperfeiçoadas. Que cada momento em que nos entregamos a Deus em quietude o honra e nos forma.",
+            "O trabalho que Ele está fazendo em você neste tempo não é menor do que se você estivesse rodeada de pessoas. Sua presença cura o que a companhia não pode. Sua voz é mais clara na quietude. E você é verdadeiramente conhecida."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, ajude-me a entender que minha vida tem valor hoje, não em algum dia futuro. Que eu saiba que sou verdadeiramente conhecida e amada. Amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Isaías 43:1",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "1",
+              "translation": "Almeida",
+              "text": "Mas agora, assim diz o Senhor, que te criou, ó Jacó, e que te formou, ó Israel: Não tenha medo, pois Eu o resgatei; Eu o chamei pelo seu nome; você é meu."
+            },
+            {
+              "display": "Salmo 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "Almeida",
+              "text": "Espere no Senhor; seja corajoso e deixe seu coração ser forte; sim, espere no Senhor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Solidão Redimida",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Efésios 2:10",
+            "book_code": "EPH",
+            "chapter": 2,
+            "verses": "10",
+            "translation": "Almeida",
+            "text": "Pois somos obra-prima de Deus, criados em Cristo Jesus para fazer as boas obras que Deus preparou de antemão para nós fazerem."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "No final desses três dias, você pode se descobrir não apenas aceitando a solidão, mas começando a vê-la de forma diferente. Não é que a dor desapareceu ou que você não deseje companhia. É que a solidão agora tem textura. Tem dimensão. Tem significado que vai além da falta.",
+            "A solidão, quando enfrentada com Deus, nos ensina coisas que a multidão nunca pode. Nos ensina sobre nossa própria profundidade. Sobre nossa capacidade de ouvir. Sobre como Deus nos vê quando nenhum outro está vendo. Esses presentes não são consolos de segunda categoria. Eles são a formação de nossa alma.",
+            "**O próximo capítulo de sua vida está sendo escrito agora**, em cada escolha que você faz para se voltar para Deus em vez de se afastar dele. Quando você escolhe a quietude não porque está sozinha, mas porque está se encontrando com Ele. Isso é quando a solidão para de ser apenas o que você perdeu e se torna o que você está ganhando.",
+            "À medida que você sai deste tempo, leve a recordação de Sua presença consigo. O vazio ainda pode vir. Mas agora você sabe: você não está sozinha nele. E você nunca esteve."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Deus eterno, obrigado por me encontrar na solidão. Que eu continue a trazer meu coração inteiro para Você, em qualquer circunstância. E que eu saiba, profundamente, que Você nunca me deixará. Amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Efésios 2:10",
+              "book_code": "EPH",
+              "chapter": 2,
+              "verses": "10",
+              "translation": "Almeida",
+              "text": "Pois somos obra-prima de Deus, criados em Cristo Jesus para fazer as boas obras que Deus preparou de antemão para nós fazerem."
+            },
+            {
+              "display": "Salmo 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "Almeida",
+              "text": "Você me fará conhecer a senda da vida; em Sua presença há plenitude de alegria; em Sua mão direita há prazeres para sempre."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

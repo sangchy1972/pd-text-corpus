@@ -1,0 +1,258 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG04",
+    "slug": "tears-become-prayer",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardim das Emoções",
+      "secondary": "grief-disappointment",
+      "secondary_label": "Tristeza e Desilusão"
+    },
+    "tags": [
+      "tristeza",
+      "desilusao",
+      "esperanca-tardia",
+      "pranto",
+      "consolo"
+    ],
+    "title": "Deixe Suas Lágrimas se Tornarem Oração",
+    "subtitle": "Para a mulher que ainda está funcionando por fora, mas por dentro se sente cansada, frágil e à beira das lágrimas.",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "em luto",
+        "desiludida",
+        "chorosa"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para a mulher que ainda está funcionando por fora, mas por dentro se sente cansada, frágil e à beira das lágrimas.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_quiet_garden_soft_rain_grief",
+      "icon": "falling-leaf-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Mateus 5:4",
+        "book_code": "MAT",
+        "chapter": 5,
+        "verses": "4"
+      },
+      {
+        "display": "João 11:33-36",
+        "book_code": "JHN",
+        "chapter": 11,
+        "verses": "33-36"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "Reconheça Que Realmente Perdeu Algo",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Mateus 5:4",
+            "book_code": "MAT",
+            "chapter": 5,
+            "verses": "4",
+            "translation": "Almeida",
+            "text": "Bem-aventurados os que choram, pois serão consolados."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Uma das partes mais difíceis do luto é como a vida continua se movendo rapidamente. Há mensagens para responder, necessidades práticas para gerenciar e rotinas que não fazem pausa só porque seu coração está dolorido. Isso pode fazer a tristeza parecer estranhamente escondida. Por fora, você ainda pode estar fazendo o que é necessário. Por dentro, algo pode estar profundamente ferido.",
+            "Muitas pessoas se tornam severas consigo mesmas nessa lacuna. Dizem: \"Não seja dramática\" ou \"Você deveria estar melhor agora.\" Mas o luto não fica menor porque você se força a continuar se movendo. Jesus fala com ternura quando diz: \"Bem-aventurados os que choram, pois serão consolados.\" Ele não elogia a recuperação rápida. Ele nomeia os que choram como pessoas que precisam de consolo.",
+            "O Salmo 34 diz: \"O Senhor é próximo dos que têm coração quebrantado.\" Isso significa que o luto não é uma interrupção embaraçosa da vida espiritual. É um dos lugares onde Deus especialmente se aproxima.",
+            "**O luto não é uma falha espiritual. É frequentemente o eco de ter amado, esperado, confiado ou investido profundamente.** Se algo importa o suficiente para machucá-lo, isso não o torna fraco. O torna humano.",
+            "O convite de hoje é simples: não apresse a perda. Nomeie-a diante de Deus. **A Escritura não nos ensina a exibir força diante de Deus. Nos ensina a trazer a realidade para Sua presença.** Você pode orar: \"Senhor, isso é o que perdi,\" mesmo que seja tudo que você conseguir dizer. Essa honestidade não é o oposto de fé. É frequentemente o começo de ser consolado.",
+            "Se as lágrimas vêm mais facilmente que as palavras hoje, deixe-as vir. Deus não está pedindo que você traduza o luto perfeitamente antes que Ele o receba. Ele não se sente envergonhado pelo sofrimento que ainda parece inacabado. Hoje também."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Pai celestial, hoje não quero mais minimizar minha perda. Tu sabes o que perdi e como isso silenciosamente tem pesado em meu coração. Obrigada por não me pedir para me recuperar antes de chegar perto. Ajuda-me a reconhecer esta dor em vez de fingir que é menor do que é. Se tudo o que consigo fazer hoje é chorar diante de Ti, recebe-me assim. Tu disseste que Te aproximas dos de coração quebrantado. Aproxima-te da parte mais vazia, mais pesada e mais sem palavras de mim. E consola aqueles que também estão em luto, dizendo adeus ou chorando sozinhos hoje. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Mateus 5:4",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "4",
+              "translation": "Almeida",
+              "text": "Bem-aventurados os que choram, pois serão consolados."
+            },
+            {
+              "display": "Salmo 34:18",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "18",
+              "translation": "Almeida",
+              "text": "Perto está o Senhor dos que têm coração quebrantado, e salva os de espírito contrito."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Quando Ninguém Realmente Compreende",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "1 Samuel 1:12-16",
+            "book_code": "1SA",
+            "chapter": 1,
+            "verses": "12-16",
+            "translation": "Almeida",
+            "text": "E aconteceu que, enquanto ela orava continuamente perante o Senhor, Eli observava a sua boca. Porém Ana falava em seu coração, e apenas os seus lábios se moviam, e não se ouvia a sua voz; por isso Eli pensou que ela estava embriagada... E Ana respondeu: Não, meu senhor; sou mulher de espírito afligido... mas derramava a minha alma perante o Senhor."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Alguns sofrimentos se sentem especialmente solitários porque não são bem compreendidos. Existem perdas que as pessoas rapidamente reconhecem, e depois existem perdas que o deixam sozinho em seu próprio coração. Talvez outros achem que você deveria ter superado isso agora. Talvez reduzam sua dor com conselhos ou a comparem com outra coisa. Quando isso acontece, o luto ganha uma segunda camada. Você não está apenas dolorido por causa do que aconteceu. Você também está dolorido porque não se sente realmente visto.",
+            "Esse tipo de solidão pode fazer as pessoas se retirarem. Com o tempo, você pode parar de tentar explicar. Pode sorrir, mudar de assunto ou dizer: \"Estou bem,\" porque parece mais fácil do que tentar traduzir algo que os outros continuam entendendo mal. O silêncio também pode se tornar pesado.",
+            "A história de Ana fala com ternura para essa experiência. Ela veio diante do Senhor com um \"espírito entristecido,\" e Eli interpretou mal o que viu. Mas Deus não. O Salmo 56 diz que Ele guarda nossas lágrimas em Sua vasilha. Essa imagem é íntima e cuidadosa. Significa que seu sofrimento não é turvo em Sua vista.",
+            "**Mesmo quando as pessoas não conseguem compreender completamente seu luto, Deus compreende.** Isso não apaga a dor de ser incompreendido, mas significa que você não está abandonado dentro dela. **Você não precisa encontrar linguagem perfeita antes de vir para Ele. Pode simplesmente orar: \"Senhor, Tu sabes.\"**",
+            "Se uma frase de alguém ficou com você dolorosamente, traga essa frase diante de Deus hoje. Peça a Ele que coloque Sua verdade sobre ela. Ele vê suas lágrimas, conhece sua história e não interpreta mal o que é mais doloroso em você.",
+            "Ser conhecido por Deus não remove toda dor de solidão, mas mantém o luto de se tornar um lugar onde você se sente apagado. Essa oração é pequena, mas não é rasa."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigada por não interpretar mal minhas lágrimas. Outros talvez não saibam por que estou sofrendo tão profundamente. Podem ter falado rapidamente ou levemente, e isso me fez sentir ainda mais cansada. Mas Tu sabes. Tu vês o que está surgindo dentro de mim quando pareço quieta por fora. Tu ouves os suspiros que não quero mais explicar às pessoas. Hoje trago a Ti a dor de ser incompreendida, as feridas de ser minimizada e o cansaço de não querer mais falar. Consola-me com a paz de ser plenamente conhecida por Ti, e deixa Tua voz se tornar mais forte que as vozes que me feriram. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "1 Samuel 1:12-16",
+              "book_code": "1SA",
+              "chapter": 1,
+              "verses": "12-16",
+              "translation": "Almeida",
+              "text": "E aconteceu que, enquanto ela orava continuamente perante o Senhor, Eli observava a sua boca. Porém Ana falava em seu coração, e apenas os seus lábios se moviam, e não se ouvia a sua voz; por isso Eli pensou que ela estava embriagada... E Ana respondeu: Não, meu senhor; sou mulher de espírito afligido... mas derramava a minha alma perante o Senhor."
+            },
+            {
+              "display": "Salmo 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "Tu contas as minhas migrações; coloca as minhas lágrimas em Teu odre; porventura não estão elas no Teu livro?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Lágrimas e Esperança Podem Existir Juntas",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "João 11:33-36",
+            "book_code": "JHN",
+            "chapter": 11,
+            "verses": "33-36",
+            "translation": "Almeida",
+            "text": "Quando Jesus a viu chorando, e os judeus que vieram com ela também chorando, indignou-se em espírito e perturbou-se... Jesus chorou. Disseram então os judeus: Vêde como o amava!"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas pessoas sentem tristeza e depois se julgam por ainda sentirem. Elas assumem que se realmente confiassem em Deus, não sofreriam tanto. Por causa disso, pessoas em luto frequentemente carregam dois fardos ao mesmo tempo. O primeiro fardo é o luto real. O segundo é auto-julgamento: \"Por que ainda estou machucada?\" Esse segundo fardo pode ser especialmente cruel porque transforma o coração contra si mesmo.",
+            "João 11 nos dá um quadro diferente. Jesus se apresentou diante do túmulo de Lázaro sabendo que a ressurreição estava chegando, e mesmo assim \"Jesus chorou.\" Ele não contornou o luto porque possuía esperança. Ele entrou no luto enquanto ainda segurava esperança. Isso importa para qualquer pessoa que alguma vez se sentiu culpada por ainda estar sofrendo.",
+            "A esperança futura não apaga a dor presente. Lágrimas não são prova de que a fé falhou. Jesus nos mostra que o luto e o amor pertencem juntos, e que a esperança nem sempre se parece emocionalmente triunfante.",
+            "**Esperança e tristeza não são inimigas. Podem viver no mesmo coração.** Você pode dizer: \"Senhor, sei que Tu estás aqui, e ainda assim dói.\" **A fé honesta não nega a dor. Ela traz a dor para a presença de Deus sem fingir que é menor do que realmente é.**",
+            "Hoje, fale-se mais gentilmente quando o sofrimento surgir. Em vez de dizer: \"Devo ter superado isso,\" tente dizer: \"O Senhor sabe por que isso dói.\" Essa verdade mais gentil frequentemente se torna parte da cura. Você não precisa escolher entre ser uma pessoa de esperança e uma pessoa que chora. Em Cristo, você tem permissão para ser ambas.",
+            "A ternura do Senhor faz espaço para essa complexidade. Ele não fica perturbado pelo fato de seu luto ainda ter voz. A compaixão de Cristo faz espaço para ambos. Sua ternura pode manter suas lágrimas e sua confiança sem forçar que nenhuma desapareça."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, obrigada por me mostrar que as lágrimas não me empurram para fora da esperança. Tu mesmo chocaste perante o sofrimento, então entendes completamente o que é acreditar e ainda assim sofrer. Ajuda-me hoje a não me condenar por estar em luto e a não exigir calma imediata de meu próprio coração. Ensina-me a dizer honestamente diante de Ti: Sei que Tu estás aqui, e ainda assim dói. Deixa Tua ternura me sustentar, para que a esperança não silencie minhas lágrimas, mas fique comigo dentro delas. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "João 11:33-36",
+              "book_code": "JHN",
+              "chapter": 11,
+              "verses": "33-36",
+              "translation": "Almeida",
+              "text": "Quando Jesus a viu chorando, e os judeus que vieram com ela também chorando, indignou-se em espírito e perturbou-se... Jesus chorou. Disseram então os judeus: Vêde como o amava!"
+            },
+            {
+              "display": "Hebreus 4:15",
+              "book_code": "HEB",
+              "chapter": 4,
+              "verses": "15",
+              "translation": "Almeida",
+              "text": "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; mas foi em tudo tentado como nós, porém sem pecado."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

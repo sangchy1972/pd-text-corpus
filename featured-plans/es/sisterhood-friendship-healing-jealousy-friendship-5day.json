@@ -1,0 +1,382 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI20",
+    "slug": "healing-jealousy-friendship",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles e Identidad",
+      "secondary": "sisterhood-friendship",
+      "secondary_label": "Hermandad y Amistad"
+    },
+    "tags": [
+      "amistad",
+      "hermandad",
+      "comunidad",
+      "celos",
+      "apoyo",
+      "afilarse"
+    ],
+    "title": "Sanar los Celos en la Amistad",
+    "subtitle": "Cuando la comparación entra silenciosamente en la relación",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "anhelando amistad",
+        "sanando celos",
+        "buscando comunidad"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Estos cinco días te ayudan a enfrentar los celos, el desequilibrio y la sensibilidad en la amistad para que el amor pueda volverse más limpio otra vez.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#D8C8E0",
+      "color_secondary": "#4A2C5A",
+      "image_key": "cover_two_women_walking_warm_evening",
+      "icon": "two-hands-clasped-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Santiago 3:16",
+        "book_code": "JAS",
+        "chapter": 3,
+        "verses": "16"
+      },
+      {
+        "display": "Filipenses 2:3",
+        "book_code": "PHP",
+        "chapter": 2,
+        "verses": "3"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Los Celos a Menudo Son Más Herida Que Odio",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Santiago 3:16",
+            "book_code": "JAS",
+            "chapter": 3,
+            "verses": "16",
+            "translation": "Reina-Valera 1909",
+            "text": "Porque donde hay envidia y contención, allí hay perturbación..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Los celos en la amistad son especialmente dolorosos porque vienen mezclados con amor. Puedes querer genuinamente lo mejor para tu amiga, desear que todo le vaya bien, y aun así sentirte atravesada cuando algo bueno sucede en su vida que tú también profundamente querías. Parte de lo que hace esto tan incómodo no es solo la envidia misma, sino la vergüenza que rápidamente la sigue. ¿Por qué estoy reaccionando así? ¿Por qué no puedo simplemente estar feliz? Muchas personas se juzgan duramente a sí mismas antes de sentir curiosidad por lo que la reacción podría estar revelando.",
+            "A menudo los celos no tienen que ver con la crueldad. Tienen que ver con el dolor. Pueden revelar inseguridad, falta, decepción, o el miedo a ser dejada atrás. El brillo de tu amiga puede haber tocado un lugar en ti que todavía se siente frágil. Dios no tiene miedo de esa reacción oculta. Él no necesita que te presentes como emocionalmente resuelta antes de que Él escuche. De hecho, la sanación a menudo comienza cuando dejamos de negar la herida que hay debajo de los celos.",
+            "Santiago advierte que la envidia produce desorden, lo que significa que los celos no deben dejarse crecer en secreto. Pero el primer paso para enfrentarlos no es pretender que no los sientes. Es nombrarlos con honestidad suficiente para que Dios pueda alcanzar la herida más profunda que exponen. A veces, la agudeza que sientes hacia la bendición de otra persona es realmente duelo por tu propia falta.",
+            "**Ser herida por el brillo de una amiga no significa automáticamente que seas cruel. Puede significar que hay herida en ti que aún necesita cuidado.** Hoy no te apures a culparte, ni tampoco a analizarte como si no fueras lo suficientemente generosa. Lleva primero esta dificultad ante Dios. Deja que Él toque ese lugar verdaderamente herido, en lugar de que sigas solo peleando con la envidia superficial."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, traigo ante ti los celos e incomodidad en la amistad que apenas quiero reconocer. No dejes que se queden escondidos y se profundicen. Sáname tiernamente. También ilumina la comparación y el dolor que preferiría ocultar, para que no siga manejándome a través de la represión, sino que aprenda honestidad y limpieza ante ti. Te agradezco porque no te repeles de mi debilidad, sino que estás dispuesto a acercarte, sostenerme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Santiago 3:16",
+              "book_code": "JAS",
+              "chapter": 3,
+              "verses": "16",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque donde hay envidia y contención, allí hay perturbación..."
+            },
+            {
+              "display": "Salmo 139:23",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "23",
+              "translation": "Reina-Valera 1909",
+              "text": "Examíname, oh Dios..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "La Comparación Hace Que la Amistad Se Sienta Más Tensa",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Gálatas 5:26",
+            "book_code": "GAL",
+            "chapter": 5,
+            "verses": "26",
+            "translation": "Reina-Valera 1909",
+            "text": "No nos hagamos vanagloriosos, provocándonos unos a otros, envidiándonos unos a otros."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una vez que la comparación entra en la amistad, la relación puede parecer normal por fuera mientras se pone tensa por dentro.",
+            "Todavía hablan. Todavía se importan. Todavía pueden aparecer la una por la otra. Pero por dentro, algo ha cambiado. Comienzas a clasificar sin querer. ¿Quién parece más admirada, más segura, más exitosa, más amada, más establecida? A veces estos pensamientos ni siquiera llegan como oraciones completas. Vienen como un ligero hundimiento cuando tu amiga comparte buenas noticias, o una sutil presión de asegurarme de que también sueno bien cuando hablas.",
+            "Por eso la comparación daña silenciosamente la amistad. No solo crea envidia. Hace el corazón guardado. Comienzas a estar más consciente de cómo te ves a ti misma ante ella. Empiezas a proteger tu imagen dentro de la relación. Y cuando eso sucede, la amistad pierde algo de su facilidad. El amor estaba destinado a moverse libremente, pero la comparación lo interrumpe constantemente con la pregunta oculta: ¿estoy perdiendo terreno?",
+            "Gálatas nos advierte contra la vana gloria y los celos mutuos. Filipenses también habla contra la gloria vacía. Esos versículos exponen algo importante: a veces lo que llamamos dolor de amistad es también dolor de imagen. No solo tenemos miedo de perder intimidad. Tenemos miedo de parecer inferior.",
+            "A veces el corazón puede sostener tanto gratitud como incomodidad a la vez. Dios es capaz de lidiar con ambas, y con el tiempo Él puede aflojar el nudo entre ellas.",
+            "**La comparación hace que el amor sea menos libre.** Pregunta a Dios hoy si la competencia silenciosa ha entrado en tu amistad. No para que te avergüences de ti misma, sino para que la relación pueda comenzar a respirar de nuevo en la verdad."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, si he comenzado silenciosamente a comparar o competir con mi amiga, muéstrame. Saca mi corazón de la vanidad y la defensividad. Limpia lo que es sensible, orgulloso, guardado o herido en mí dentro de la amistad. Ayúdame a hablar honestamente y escuchar gentilmente, para que esta relación pueda convertirse más plenamente en un lugar a través del cual tu gracia puede fluir. Te agradezco porque no te repeles de mi debilidad, sino que estás dispuesto a acercarte, sostenerme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Gálatas 5:26",
+              "book_code": "GAL",
+              "chapter": 5,
+              "verses": "26",
+              "translation": "Reina-Valera 1909",
+              "text": "No nos hagamos vanagloriosos, provocándonos unos a otros, envidiándonos unos a otros."
+            },
+            {
+              "display": "Filipenses 2:3",
+              "book_code": "PHP",
+              "chapter": 2,
+              "verses": "3",
+              "translation": "Reina-Valera 1909",
+              "text": "Nada hagáis por contienda o por vanagloria..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "La Honestidad Sana Más Que la Represión",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Juan 1:7",
+            "book_code": "1JN",
+            "chapter": 1,
+            "verses": "7",
+            "translation": "Reina-Valera 1909",
+            "text": "Si andamos en luz, como él está en luz..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Cuando enfrentamos celos, desequilibrio e incomodidad en la amistad, muchas veces nuestra primera reacción no es honestidad sino represión.",
+            "Parte de la razón es comprensible. No nos gusta vernos a nosotras mismas de esta manera. Queremos ser generosas, espiritualmente maduras, sinceramente felices por nuestras amigas. No queremos admitir que también podemos ser sensibles, posesivas, resentidas, o silenciosamente frías. La represión parece más limpia. Si no lo nombramos, quizás se desvanezca. Pero el dolor no hablado rara vez desaparece. Generalmente se instala en la relación de otras formas: distancia, aspereza, retirada emocional, comentarios pasivos, o una lenta renuencia a permanecer abierta.",
+            "Las Escrituras no llaman salud a este tipo de ocultamiento. Primera de Juan dice que si andamos en la luz, tenemos comunión unos con otros. El Salmo 62 nos invita a derramar nuestro corazón ante Dios. La luz no significa llegar pulida. Significa rehusar seguir viviendo cubierta. En la amistad esto importa profundamente, porque muchas relaciones no se rompen por una crisis obvia. Se erosionan a través de largas temporadas de verdad no expresada.",
+            "Esto puede convertirse en un punto de crecimiento significativo para nosotras como mujeres. En lugar de solo decir, no debería sentir esto, comenzamos a preguntar: ¿por qué me duele tanto? ¿Estoy envidiosa, o me siento pasada por alto? ¿Me amenaza su bendición, o esto está exponiendo una falta que nunca he llevado a Dios? Las preguntas honestas crean espacio para sanación que la negación nunca puede.",
+            "**La debilidad que es vista es debilidad que puede ser sanada.** Dile a Dios claramente hoy dónde se ha vuelto dolorosa la amistad para ti. Traer tu desorden a la luz puede ser el primer paso hacia hacer el amor limpio nuevamente."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, no dejes que solo reprima mi envidia y dolor. Dame honestidad y luz, para que pueda ser traída a orden y sanada ante ti. Limpia lo que es sensible, orgulloso, guardado o herido en mí dentro de la amistad. Ayúdame a hablar honestamente y escuchar gentilmente, para que esta relación pueda convertirse más plenamente en un lugar a través del cual tu gracia puede fluir. Te agradezco porque no te repeles de mi debilidad, sino que estás dispuesto a acercarte, sostenerme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Juan 1:7",
+              "book_code": "1JN",
+              "chapter": 1,
+              "verses": "7",
+              "translation": "Reina-Valera 1909",
+              "text": "Si andamos en luz, como él está en luz..."
+            },
+            {
+              "display": "Salmo 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Derrama ante él tu corazón..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "El Amor Aprende a Regocijarse en el Bien de una Amiga",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "1 Corintios 13:4-6",
+            "book_code": "1CO",
+            "chapter": 13,
+            "verses": "4-6",
+            "translation": "Reina-Valera 1909",
+            "text": "El amor no es envidioso... se alegra con la verdad."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Regocijarse sinceramente por una amiga frecuentemente requiere más trabajo espiritual del que esperamos.",
+            "No porque no la amemos, sino porque nuestros corazones no siempre están completamente libres de escasez. Cuando tu amiga recibe algo que tú has profundamente querido para ti misma, la celebración se convierte en algo más que buenas maneras. Se convierte en formación. Quizás ella entró en una relación mientras tú todavía esperas. Quizás su trabajo está prosperando mientras el tuyo se siente estancado. Quizás ella parece naturalmente amada y elegida de maneras en que tú tranquilamente anhelas. En esos momentos el corazón puede apretarse antes de abrirse.",
+            "Romanos nos dice que nos regocijemos con los que se regocijan, y Primera de Corintios dice que el amor no es envidioso. Esos versículos no pretenden avergonzarnos para que fingamos. Son invitaciones a un tipo de amor más libre. La bendición de otra mujer no disminuye tu porción ante Dios. El brillo de tu amiga no hace que su cuidado por ti se apague. Aprendemos a regocijarnos no porque no tenemos dolor, sino porque estamos comenzando a confiar en que la bondad de Dios no es un suministro limitado.",
+            "A menudo pienso en esto como el ensanchamiento del amor. Al principio el corazón puede solo tener espacio para su propia decepción. Pero Dios puede lentamente ampliarlo para que seamos capaces de sostener ambas verdades a la vez: todavía anhelo algo, y también puedo agradecerte por lo que mi amiga ha recibido. Ese tipo de amor no es falso. Es formado.",
+            "**El brillo de una amiga no hace que el regalo de Dios para ti se apague.** Agradécele a Dios hoy por una cosa buena en la vida de tu amiga, incluso si tus sentimientos todavía están alcanzándola. Deja que la gratitud sea una de las formas en que Él afloja el agarre de la comparación."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, haz limpio mi amor. Ayúdame a no ver la bendición de mi amiga como una amenaza, y enséñame a regocijarme con sinceridad a través del tiempo. Dame discernimiento y límites saludables, para que mi gentileza no se convierte en auto-traición y mi amor no me cuesta mi propia integridad. Te agradezco porque no te repeles de mi debilidad, sino que estás dispuesto a acercarte, sostenerme y seguir enseñándome. Limpia lo que es sensible, orgulloso, guardado o herido en mí dentro de la amistad. Ayúdame a hablar honestamente y escuchar gentilmente, para que esta relación pueda convertirse más plenamente en un lugar a través del cual tu gracia puede fluir. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "1 Corintios 13:4-6",
+              "book_code": "1CO",
+              "chapter": 13,
+              "verses": "4-6",
+              "translation": "Reina-Valera 1909",
+              "text": "El amor no es envidioso... se alegra con la verdad."
+            },
+            {
+              "display": "Romanos 12:15",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "15",
+              "translation": "Reina-Valera 1909",
+              "text": "Regocijaos con los que se regocijan..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "La Humildad Deja Que la Amistad Respire de Nuevo",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Filipenses 2:3",
+            "book_code": "PHP",
+            "chapter": 2,
+            "verses": "3",
+            "translation": "Reina-Valera 1909",
+            "text": "Con humildad, estimando cada uno a los demás como superiores a sí mismo..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchos de los lugares más tensos en la amistad no son finalmente aflojados por argumentos, sino por humildad.",
+            "La humildad importa porque comienza a sacar la relación de la órbita constante del yo: mi dolor, mi imagen, mi posición, mi miedo a perder, mi necesidad de ser entendida primero. Cuando la amistad ya se ha vuelto dolorosa, el yo naturalmente se mueve al centro. Reiteramos nuestro propio dolor, nuestra propia defensividad, nuestra propia versión de lo que sucedió. Algo de eso es humano. Pero si el amor alguna vez va a respirar de nuevo, alguien eventualmente tiene que volverse suave ante Dios.",
+            "Las Escrituras dicen que Dios da gracia a los humildes. Filipenses nos llama hacia la humildad de mente. La humildad no significa borrar tu dolor o actuar como si no importaras. Significa bajarte del trono interior y admitir que tus sentimientos, aunque reales, pueden no ser toda la verdad. Significa estar dispuesta a que Dios reordene la forma en que amas. Un corazón humilde no es un corazón sin emoción. Es un corazón no gobernado solo por la emoción.",
+            "Creo que esto es especialmente necesario en la amistad adulta, donde las relaciones a menudo no colapsan por una traición dramática, sino porque ambas personas se vuelven cada vez más incapaces de ceder, suavizarse, o revisitar la historia con gracia. La humildad no garantiza reparación, pero hace espacio para misericordia, para ver más claro, y para libertad de la auto-protección sin fin.",
+            "**La humildad no te hace más pequeña. Hace el amor más libre.** Trae el lugar más tenso en tu amistad ante Dios hoy, y pídele la clase de suavidad que no disminuye la verdad, sino que libera el amor del agarre del orgullo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, dame humildad. Guárdame de vivir solo desde mi propio dolor, mis propias comparaciones, y mi propia posición. Trae tanto a mí como a esta amistad de vuelta hacia la libertad en ti. Limpia lo que es sensible, orgulloso, guardado o herido en mí dentro de la amistad. Ayúdame a hablar honestamente y escuchar gentilmente, para que esta relación pueda convertirse más plenamente en un lugar a través del cual tu gracia puede fluir. Te agradezco porque no te repeles de mi debilidad, sino que estás dispuesto a acercarte, sostenerme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Filipenses 2:3",
+              "book_code": "PHP",
+              "chapter": 2,
+              "verses": "3",
+              "translation": "Reina-Valera 1909",
+              "text": "Con humildad, estimando cada uno a los demás como superiores a sí mismo..."
+            },
+            {
+              "display": "Santiago 4:6",
+              "book_code": "JAS",
+              "chapter": 4,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Dios resiste a los soberbios, y da gracia a los humildes."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

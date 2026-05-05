@@ -1,0 +1,501 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI18",
+    "slug": "sacred-adventure-singleness",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "single-whole",
+      "secondary_label": "Ledig und Ganz"
+    },
+    "tags": [
+      "ledig",
+      "ganzheit",
+      "einsamkeit",
+      "warten",
+      "berufung",
+      "erfuellung"
+    ],
+    "title": "Das heilige Abenteuer der Alleinsein",
+    "subtitle": "Eine Zeit der Freiheit, Formung und tieferem Vertrauen",
+    "audience": {
+      "life_stage": [
+        "ledige Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "ganz",
+        "sehnsüchtig",
+        "zufrieden im Warten"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese sieben Tage führen dich tiefer durch Einsamkeit, Druck, Sehnen, Freiheit und Vertrauen in der Alleinsein, und helfen dir, diese Zeit als eine Reise anzunehmen, die Gott ernst nimmt.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#E0D4C0",
+      "color_secondary": "#5A4226",
+      "image_key": "cover_woman_quiet_room_solitude_warm",
+      "icon": "single-tree-and-sun-circle"
+    },
+    "key_verses": [
+      {
+        "display": "1. Korinther 7:32",
+        "book_code": "1CO",
+        "chapter": 7,
+        "verses": "32"
+      },
+      {
+        "display": "2. Mose 3:5",
+        "book_code": "EXO",
+        "chapter": 3,
+        "verses": "5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Alleinsein ist nicht weniger wert als anderes Leben",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Korinther 7:32",
+            "book_code": "1CO",
+            "chapter": 7,
+            "verses": "32",
+            "translation": "Lutherbibel 1912",
+            "text": "Der Unverheiratete trägt Sorge um die Sachen des Herrn..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal sagen wir es nicht laut aus, aber viele von uns tragen still das Gefühl: Alleinsein ist eine geringere Form des Lebens. Wenn andere heiraten, Familie gründen und Stabilität finden, fühlt sich unser Leben vorläufig, unvollständig an. Mit der Zeit formen wir so unser Selbstbild. Wir behandeln unser gegenwärtiges Leben, als wäre es nicht die echte Sache.",
+            "Doch Paulus beschreibt in 1. Korinther 7 Alleinsein nicht als Mangel oder geistliche Unreife. Er beschreibt es als echten Weg vor Gott, eine Art zu existieren, in der man aufmerksam und bedeutsam leben kann. Gott ordnet dein Leben nicht in eine niedrigere Kategorie. Er wartet nicht, bis du einen anderen Status erreichst, bevor er dich ernst nimmt.",
+            "Das, was oft Heilung braucht, ist nicht die Sehnsucht nach Ehe, sondern die Lüge, dass dein Leben jetzt eine reduzierte Version ist. So spricht Gott nicht. Dein Leben ist nicht ein Platzhalter. Er gibt deinen gegenwärtigen Tagen Würde, Gewicht, Ruf und Sinn.",
+            "**Alleinsein ist nicht eine geringere Version des Lebens. Es ist immer noch ein Leben, das Gott mit Ernsthaftigkeit schreibt.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, bring mich aus der Lüge heraus, dass Alleinsein weniger wert ist. Wenn ich mein gegenwärtiges Leben als nebensächlich behandelt habe, vergib und heile mich. Danke, dass du mich nicht in den Hintergrund gestellt hast. Ab heute hilf mir, das gegenwärtige Leben, das du mir gegeben hast, zu ehren und zu glauben, dass es wahrhaftiges Gewicht vor dir trägt. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Korinther 7:32",
+              "book_code": "1CO",
+              "chapter": 7,
+              "verses": "32",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Unverheiratete trägt Sorge um die Sachen des Herrn..."
+            },
+            {
+              "display": "Psalm 84:5",
+              "book_code": "PSA",
+              "chapter": 84,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Wohl dem, dessen Stärke in dir ist und der von Herzen dir nachwandelt!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Einsamkeit ist nicht Misserfolg; oft ist es Sehnsucht, die spricht",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 34:18",
+            "book_code": "PSA",
+            "chapter": 34,
+            "verses": "18",
+            "translation": "Lutherbibel 1912",
+            "text": "Der Herr ist nahe denen, die zerbrochenen Herzens sind..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Einsamkeit macht verletzlich und es ist leicht, sich dafür zu schämen. Manche single Menschen nehmen an, dass wenn sie Gott wirklich lieben, würden sie diesen Schmerz nicht spüren. Also verpacken wir Einsamkeit in etwas Akzeptableres. Aber verborgene Einsamkeit verschwindet nicht. Sie wartet bis zu einem Feiertag oder bis jemand anderes geliebt wird.",
+            "Doch Einsamkeit ist nicht immer schwacher Glaube. Oft ist es echte Sehnsucht. Der Wunsch nach Gemeinschaft ist nicht schändlich. Die Psalmen laden uns ein, unser Herz vor Gott auszuschütten. Wir müssen nicht emotional poliert sein, bevor wir beten. Die rawest Plätze brauchen Gebet am meisten.",
+            "Eine der großen Freiheiten ist, die Wahrheit zu sagen: Ich bin einsam und möchte begleitet sein. Das macht dich nicht weniger geistlich. Es macht dich ehrlicher. Gott ist nicht bedroht von deiner Sehnsucht und nicht enttäuscht von deinen Tränen. Er wird dir eher dort begegnen als dich dort beschämen.",
+            "**Einsamkeit ist nicht Misserfolg. Sie ist oft Sehnsucht, die lauter spricht.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich bringe meine echte Einsamkeit vor dir dar. Danke, dass du meine Sehnsucht nicht beschämst. Wenn ich so getan habe, als würde ich nicht kümmern, lehr mich Ehrlichkeit in deiner Gegenwart. Lass mich wissen, dass Einsamkeit nicht bedeutet, dass ich versagt habe. Komm mir nahe und lass mich wissen, dass ich nicht verlassen bin. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 34:18",
+              "book_code": "PSA",
+              "chapter": 34,
+              "verses": "18",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Herr ist nahe denen, die zerbrochenen Herzens sind..."
+            },
+            {
+              "display": "Psalm 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Schüttet euer Herz vor ihm aus..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Freiheit ist auch ein Geschenk dieser Zeit",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Korinther 7:35",
+            "book_code": "1CO",
+            "chapter": 7,
+            "verses": "35",
+            "translation": "Lutherbibel 1912",
+            "text": "Damit ihr ohne Zerstreuung dem Herrn dienen könnt."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Alleinsein enthält nicht nur Mangel. Es enthält auch eine besondere Freiheit. Die Schwierigkeit ist, dass wenn wir auf das fokussieren, was uns fehlt, sehen wir nicht, was diese Zeit uns anbietet. Es kann Zeitfreiheit sein, Bewegungsfreiheit, fokussierte geistliche Formung, Raum für tiefe Freundschaften oder Raum, Gott auf Wegen zu dienen, die eine andere Zeit nicht erlaubt.",
+            "Paulus idealisiert Alleinsein nicht, noch vermindert er die Ehe. Er erkennt an, dass verschiedene Zeiten verschiedene Aufmerksamkeit tragen. Psalm 119 spricht davon, in Freiheit zu gehen. Gott gibt dir nicht nur Verzögerung. Er gibt dir auch Raum. Raum, dich zu kennen, zu heilen, dich zu dienen und geformt zu werden, ohne die Aufmerksamkeitsteilungen einer anderen Zeit.",
+            "Viele kämpfen hier, weil wenn wir Alleinsein nur als Mangel sehen, fühlt sich jede Freiheit wie ein Trostpreis an. Aber Gott gibt dir nicht ein minderwertiges Leben. Er gibt dir echte Gaben in dieser Zeit. Du kannst immer noch nach Ehe sehnen, während du auch heute dankbar bist.",
+            "**Gott gibt mehr als Warten in Alleinsein. Er gibt auch Freiheit.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, hilf mir, nicht nur den Mangel zu sehen, sondern die Freiheit hier. Wenn ich diese Zeit nur als Warten gelebt habe, öffne meine Augen für den Raum und die Möglichkeiten, die du schon in meine Hände gelegt hast. Lehre mich zu empfangen. Bleib mir nahe. Lass mich die Fülle nicht der Eile übergeben. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Korinther 7:35",
+              "book_code": "1CO",
+              "chapter": 7,
+              "verses": "35",
+              "translation": "Lutherbibel 1912",
+              "text": "Damit ihr ohne Zerstreuung dem Herrn dienen könnt."
+            },
+            {
+              "display": "Psalm 119:45",
+              "book_code": "PSA",
+              "chapter": 119,
+              "verses": "45",
+              "translation": "Lutherbibel 1912",
+              "text": "Und ich wandle in Freiheit, denn ich trachte nach deinen Geboten."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Einsamkeit kann ein Ort der Selbsterkenntnis werden",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 139:23-24",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "23-24",
+            "translation": "Lutherbibel 1912",
+            "text": "Erforsche mich, Gott, und erkenne mein Herz..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal fürchten wir Stille nicht, weil sie leer ist, sondern weil sie offenbaren wird, wer wir sind. Wenn das Leben beschäftigt ist, können viele Dinge verborgen bleiben. Aber wenn wir verlangsamen, können unverarbeitete Trauer, verborgene Wünsche, Furcht und unbeantwortete Fragen alle an die Oberfläche kommen. Das ist, warum manche Menschen sich beschäftigen. Stille fühlt sich freilegend an.",
+            "Doch Gott fürchtet sich nicht davor, was sichtbar wird. Psalm 139 lädt ihn ein, uns zu erforschen. Einsamkeit, mit seiner Gegenwart verbunden, kann ein Ort tieferer Selbsterkenntnis werden. In der Stille bemerke ich, was ich vermieden habe, wonach ich mich sehne, welche Wunden ich trage und welche Ängste meine Wahlen gestalten. Alleinsein bringt oft mehr solche Momente. Während das sich unwohl anfühlt, kann es auch heilig sein.",
+            "Selbsterkenntnis in Gottes Gegenwart macht uns nicht selbstversessen. Sie macht uns freier. Wenn wir unsere Muster erkennen, werden wir weniger von ihnen regiert. Gott legt dich frei, um dich zu klären, nicht zu demütigen. Er bringt dich in Klarheit, damit du wahrhaft leben kannst.",
+            "**Alleinsein mit Gott ist nicht Leere. Es kann tiefere Selbsterkenntnis werden.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, halt mich davon ab, Alleinsein zu fürchten. Lass es ein Ort werden, wo ich mich wahrhaft in deiner Gegenwart kenne. Wenn ich mich beschäftigt habe, um zu verbergen, bringe das sanft ins Licht. Lehre mich Ehrlichkeit. In Stille lass mich dich und mich selbst tiefer kennen. Bleib mir nahe. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 139:23-24",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "23-24",
+              "translation": "Lutherbibel 1912",
+              "text": "Erforsche mich, Gott, und erkenne mein Herz..."
+            },
+            {
+              "display": "Klagelieder 3:28",
+              "book_code": "LAM",
+              "chapter": 3,
+              "verses": "28",
+              "translation": "Lutherbibel 1912",
+              "text": "Er sitzt allein und schweigt..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Die Sehnsucht nach Eheschließung macht mich nicht weniger geistlich",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Philipper 4:6",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "6",
+            "translation": "Lutherbibel 1912",
+            "text": "Lasset eure Anliegen vor Gott kund werden..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche single Christen tragen Schuldgefühle, dass sie sich immer noch Ehe wünschen. Es fühlt sich an, als sollte reife Geistlichkeit diesen Wunsch aufgelöst haben. Aber die Sehnsucht nach Beziehung ist nicht geistlich minderwertig. Es bedeutet nicht, dass du Gott weniger liebst. Menschen wurden für Beziehung geschaffen. Wunsch selbst ist nicht das Problem.",
+            "Philipper 4 sagt, dass wir unsere Anliegen vor Gott bringen dürfen. Das bezieht sich nicht nur auf geistliche Dinge, sondern auch auf tiefgreifend menschliche Sehnsüchte. Du musst deine Hoffnung nicht verbergen oder so tun, als verschwinde die Sehnsucht. Gott ist nicht enttäuscht von deiner Ehrlichkeit. Reifer Glaube sehnt immer noch, aber er weiß, wohin er die Sehnsucht bringt.",
+            "Viele leiden, weil sie sich selbst gespalten fühlen. Sie sehnen sich nach Gemeinschaft und schämen sich gleichzeitig. Aber Gott bittet dich nicht, so zu leben. Er möchte, dass du ihm die Wahrheit sagst. Das, was zu ihm gebracht wird, wird gereinigt und gehalten. Das Verborgene wird oft turbulent.",
+            "**Die Sehnsucht nach Ehe ist nicht das Problem. Sie ehrlich vor Gott zu bringen ist der Weg.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich bringe meine Sehnsucht nach Eheschließung ehrlich vor dich. Halt mich davon ab, mich zu schämen. Danke, dass du großzügig genug bist, meine Sehnsucht zu empfangen. Lehre mich, sie in deine Hände zu legen, damit sie nicht nur ein Sturm bleibt, sondern in deiner Gegenwart beruhigt wird. Reinige das Verletzliche in mir. Hilf mir, ehrlich zu sprechen. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Philipper 4:6",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Lasset eure Anliegen vor Gott kund werden..."
+            },
+            {
+              "display": "Psalm 37:4",
+              "book_code": "PSA",
+              "chapter": 37,
+              "verses": "4",
+              "translation": "Lutherbibel 1912",
+              "text": "Erfreue dich am Herrn, so wird er dir geben, das dein Herz begehrt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Meine Zukunft muss nicht sichtbar sein, um vertrauenswürdig zu sein",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jesaja 41:10",
+            "book_code": "ISA",
+            "chapter": 41,
+            "verses": "10",
+            "translation": "Lutherbibel 1912",
+            "text": "Fürchte dich nicht, ich bin mit dir..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Die Unsicherheit in Alleinsein ist am schwersten, wenn man die Zukunft nicht sieht. Du kannst nicht sehen, ob jemand kommt, ob sich deine Geschichte ändert. Oft ist die tiefste Angst nicht, heute allein zu sein, sondern allein in einer Zukunft, die du nicht vorstellen kannst. Wenn die Zukunft leer aussieht, füllt der Verstand sie schnell mit Furcht.",
+            "Aber Gott tröstet uns nicht, indem er die ganze Karte zeigt. Hebräer 11 sagt, dass Glaube die Substanz der gehofften Dinge ist. Das ist nicht vager Optimismus. Es erinnert, dass die Vertrauenswürdigkeit der Zukunft nicht von unserer Sicht abhängt, sondern von Gottes Gegenwart. Jesaja 41 sagt: Fürchte dich nicht, ich bin mit dir. Oft ist Gottes erste Antwort nicht Erklärung, sondern Begleitung. Er zeigt dir nicht alles, aber er verspricht, dass du nicht allein gehen wirst.",
+            "Viele wünschen sich Gewissheit, weil sie denken, sie beruhige das Herz. Aber Gott bildet Vertrauen oft, indem er lehrt, in ihm auszuruhen, bevor wir klar sehen. Das ist nicht leicht. Es ist heilige Arbeit. Es ist, wie eine Seele lernt zu überleben, ohne alles zu wissen.",
+            "**Eine unsichtbare Zukunft ist keine ungehaltene Zukunft.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, wenn die Zukunft unklar ist, wird mein Herz schnell ängstlich. Du weißt, dass ich nicht nur Angst habe, heute allein zu sein. Ich fürchte mich vor Zukunften, die ich nicht sehe. Erinnere mich, dass Unsichtbarkeit nicht Abwesenheit bedeutet. Heute lege ich die Teile meiner Zukunft, die ich nicht kenne, in deine Hände. Halte die Ängste. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jesaja 41:10",
+              "book_code": "ISA",
+              "chapter": 41,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Fürchte dich nicht, ich bin mit dir..."
+            },
+            {
+              "display": "Hebräer 11:1",
+              "book_code": "HEB",
+              "chapter": 11,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Glaube ist eine Gewißheit desjenigen, das man hofft, eine Überzeugung von Dingen, die man nicht sieht."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Diese Alleinsein-Zeit kann auch heiliger Boden werden",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "2. Mose 3:5",
+            "book_code": "EXO",
+            "chapter": 3,
+            "verses": "5",
+            "translation": "Lutherbibel 1912",
+            "text": "Ziehe deine Schuhe aus; der Ort, auf dem du stehest, ist heiliges Land."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das letzte zum Erinnern: Verachte diese Zeit nicht. Alleinsein mag nicht die Anordnung sein, die du gewählt hättest. Es mag sich nicht immer hell oder leicht anfühlen. Es kann Einsamkeit, Verzögerung und Verlust haben. Aber sogar damit kann es heiliger Boden werden. Nicht weil es schmerzlos ist, sondern weil Gott darin gegenwärtig ist.",
+            "Als Moses gesagt wurde, dass der Ort heilig war, kam die Heiligkeit nicht von der Umgebung. Sie kam von Gottes Gegenwart. Auf ähnliche Weise kann dein Alleinsein heilig werden, nicht weil es perfekt ist, sondern weil Gott dort dein Leben ernstnimmt. Er lehrt, befreit, stärkt und formt dich. Er wartet nicht, bis du diese Zeit verlässt, bevor er anfängt, dich tiefer zu formen.",
+            "Einer der tröstlichsten Gedanken ist, dass eine Zeit, die Gott ernstnimmt, niemals verloren ist. Das erfordert nicht, dass du so tust, als hätte alles leicht gewesen. Es bedeutet nur, dass Schmerz nicht die Autorität hat, die Bedeutung dieses Kapitels zu definieren. Gott tut. Er ist mit dir.",
+            "**Eine Zeit, die Gott ernstnimmt, ist niemals eine Zeit, die vergeht.**"
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, halt mich davon ab, diese Zeit zu verachten. Sogar wenn sie nicht leicht ist, hilf mir zu glauben, dass du hier bist, dein Leben ernstnimmst, dich formst. Danke, dass du diese single Jahre nicht als Leerstelle behandelt hast. Hilf mir nicht nur, sie zu verlassen zu sehnen, sondern auch dich und mich tiefer darin zu kennen. Weih dieses Kapitel ein als heiliger Boden. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "2. Mose 3:5",
+              "book_code": "EXO",
+              "chapter": 3,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Ziehe deine Schuhe aus; der Ort, auf dem du stehest, ist heiliges Land."
+            },
+            {
+              "display": "Psalm 32:8",
+              "book_code": "PSA",
+              "chapter": 32,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich will dich unterweisen und dir den Weg zeigen, den du gehen sollst..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

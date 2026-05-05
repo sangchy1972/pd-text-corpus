@@ -1,0 +1,253 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI16",
+    "slug": "gift-of-solitude",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles e Identidad",
+      "secondary": "single-whole",
+      "secondary_label": "Soltera y Plena"
+    },
+    "tags": [
+      "soltera",
+      "plenitud",
+      "soledad",
+      "espera",
+      "llamado",
+      "plenitud"
+    ],
+    "title": "El Don de la Soledad",
+    "subtitle": "Descubriendo paz y presencia en el tiempo a solas",
+    "audience": {
+      "life_stage": [
+        "mujeres solteras",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "plena",
+        "anhelante",
+        "contenta en la espera"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Estos tres días te ayudan a llevar el peso de la soledad ante Dios, para que la soledad comience a sentirse menos como carencia y más como un espacio donde Su presencia puede encontrarte.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#E0D4C0",
+      "color_secondary": "#5A4226",
+      "image_key": "cover_woman_quiet_room_solitude_warm",
+      "icon": "single-tree-and-sun-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Marcos 1:35",
+        "book_code": "MRK",
+        "chapter": 1,
+        "verses": "35"
+      },
+      {
+        "display": "Efesios 2:10",
+        "book_code": "EPH",
+        "chapter": 2,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "La Soledad No Es Automáticamente Vacío",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Marcos 1:35",
+            "book_code": "MRK",
+            "chapter": 1,
+            "verses": "35",
+            "translation": "Reina-Valera 1909",
+            "text": "Levantándose muy de mañana, siendo aún muy oscuro, se salió y se fue a un lugar desierto, y allí oraba."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una de las partes más difíciles de la soltería no siempre es lo que otros ven. Son los momentos tranquilos que no ven. Llegar a casa a una habitación vacía. Terminar un fin de semana sin nadie con quien conversar. Sentir ese pequeño dolor después de ver a otros vivir en parejas. El vacío no siempre es dramático, pero es real. Muchos de nosotros respondemos llenando cada espacio abierto. Desplazamos, programamos, nos distraemos y permanecemos ocupados porque la quietud puede hacer que el dolor se sienta más agudo.",
+            "Pero la Escritura no trata la soledad como un lugar donde Dios desaparece. Jesús mismo se retiraba a menudo para orar a solas. El Salmo 46 dice: «Estad quietos, y conoced que yo soy Dios». Eso no es un intento de romantizar la soledad. Es un recordatorio de que la quietud no solo expone lo que nos falta. También puede revelar quién está presente. Podemos desear profundamente el amor y la compañía, y ese deseo no es malo. Pero si cada momento solitario se convierte en prueba de que nuestra vida es deficiente, nuestros corazones lucharán por descansar.",
+            "Creo que muchos de nosotros conocemos el impulso de huir del vacío. Sin embargo, algunos de los trabajos más profundos que Dios hace en nosotros suceden precisamente en los lugares que más nos tienta evitar. No porque reemplace el amor humano, sino porque nos encuentra donde el anhelo está más expuesto. En la soledad, a menudo escuchamos no solo nuestro dolor, sino también Su cercanía.",
+            "**El tiempo a solas no es automáticamente abandono. Puede convertirse en un lugar de encuentro.** Hoy, no te apresures a llenar cada espacio tranquilo. Siéntate con Dios durante unos pocos minutos sin prisa. La habitación puede seguir sintiéndose tranquila, pero puede que comiences a notar que la tranquilidad no es lo mismo que ser dejada sola."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, Tú sabes lo incómoda que puede sentirse la quietud para mí. Tú sabes el dolor que puede venir cuando regreso a casa, cuando el ruido se desvanece y me quedo nuevamente con mi propio corazón. Mantenme de correr constantemente de mí misma a través del ajetreo, y mantenme de asumir que la soledad significa que he quedado rezagada. Hoy traigo este vacío ante Ti. Encuéntrame en los lugares mismos que más quiero evitar. Enséñame, lentamente, que aunque nadie más esté a mi lado, no estoy abandonada allí. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Marcos 1:35",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35",
+              "translation": "Reina-Valera 1909",
+              "text": "Levantándose muy de mañana, siendo aún muy oscuro, se salió y se fue a un lugar desierto, y allí oraba."
+            },
+            {
+              "display": "Salmo 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "Estad quietos, y conoced que yo soy Dios..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "El Mundo Se Apresura, Pero Dios No Se Apresura a Definirme",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Isaías 43:1",
+            "book_code": "ISA",
+            "chapter": 43,
+            "verses": "1",
+            "translation": "Reina-Valera 1909",
+            "text": "Ahora dice Jehová, Creador tuyo, oh Jacob, y Formador tuyo, oh Israel: No temas, que yo te redimí; te llamé por tu nombre; mío eres tú."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Las mujeres solteras a menudo viven bajo una presión tranquila pero implacable. Puede que no siempre haya preguntas directas, pero el mensaje cultural es constante: cuándo sucederá, cuándo te asentarás, cuándo comenzará tu verdadera vida. Ver a tus pares entrar en relaciones, matrimonio y familia puede hacer que tu propia línea de tiempo se sienta de repente expuesta. Incluso si estabas bien hace un momento, la comparación puede hacerte sentir que has quedado rezagada sin advertencia.",
+            "Pero Dios no habla de ti en el lenguaje de la demora y la deficiencia. Isaías 43 dice que te ha llamado por nombre y que eres suya. No hay ningún indicio allí de que primero necesites convertirte en otra persona o entrar en una etapa posterior para ser completamente vista. Te conoce ahora, te ama ahora y te reclama ahora. El Salmo 27 nos llama a esperar en el Señor, pero esa espera no es una posición humillante. Es un lugar donde Dios fortalece el corazón.",
+            "Muchos de nosotros sabemos lo que se siente ser apresuramos por líneas de tiempo que no elegimos conscientemente. Podemos ser arrastrados por el movimiento de las vidas de otras personas antes de que nos detengamos para preguntar qué está diciendo Dios sobre la nuestra. Sin embargo, una de las misericordias tiernas del evangelio es que Dios no se apresura a definirnos por hitos públicos. No te trata como inacabada porque aún estés esperando.",
+            "**Dios no te ve como una versión retrasada de tu verdadero yo.** Cuando la ansiedad por la línea de tiempo se eleva hoy, haz una pausa antes de preguntar cómo alcanzar. Pregunta primero: Señor, ¿cómo me ves ahora mismo? Los corazones se vuelven más firmes cuando regresan a la mirada de Dios en lugar del ritmo de la multitud."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, tráeme de nuevo desde la presión del tiempo. Tú sabes lo rápido que mi corazón se desestabiliza cuando veo a otros entrando en lo que anhelé. Comienzo a dudarme a mí misma, preguntándome si me falta algo o si he quedado rezagada. Habla de nuevo hoy lo que es verdadero: no soy una versión retrasada de mi verdadero yo. Soy alguien a quien Tú conoces, amas y llamas por nombre ahora mismo. Fortalece mi corazón y mantenme de dejar que el ritmo de otras personas se convierta en la medida de mi valor. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Isaías 43:1",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "1",
+              "translation": "Reina-Valera 1909",
+              "text": "Ahora dice Jehová, Creador tuyo, oh Jacob, y Formador tuyo, oh Israel: No temas, que yo te redimí; te llamé por tu nombre; mío eres tú."
+            },
+            {
+              "display": "Salmo 27:14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "14",
+              "translation": "Reina-Valera 1909",
+              "text": "Aguarda a Jehová; Esfuérzate, y aliéntate tu corazón; Sí, aguarda a Jehová."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "La Soltería No Es Una Estación Vacía",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Efesios 2:10",
+            "book_code": "EPH",
+            "chapter": 2,
+            "verses": "10",
+            "translation": "Reina-Valera 1909",
+            "text": "Porque somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano para que anduviésemos en ellas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Si seguimos tratando la soltería como una sala de espera antes de que comience la vida real, lucharemos por habitar el presente con alguna profundidad. Muchos de nosotros sabemos, al menos intelectualmente, que deberíamos valorar la estación en que estamos. Sin embargo, interiormente aún archivamos la soltería bajo «temporal». Postergamos la alegría, postergamos la atención, postergamos la vida de todo corazón, y silenciosamente asumimos que más tarde será el capítulo verdadero mientras que ahora es solo un patrón de espera.",
+            "Pero Dios no trata tu presente de esa manera. Efesios dice que somos Su hechura. Eso significa que ya te está formando, moldeando y escribiendo algo significativo ahora, no solo después de que tus circunstancias cambien. El Salmo 16 dice que en Su presencia hay plenitud de gozo. Dios no está diciendo que anhelar el matrimonio sea malo. Te está recordando que incluso antes de que ese anhelo sea respondido, la vida no necesita permanecer medio vivida. Aún hay llamado, belleza, utilidad, deleite, amistad y crecimiento disponibles en esta estación.",
+            "Una de las cosas más tristes de la presión de la línea de tiempo es que puede entrenarnos para pasar por alto lo que ya se está dando. Nos enfocamos tanto en lo que aún no ha llegado que no honramos la gracia ya presente. Pero Dios no está desperdiciando estos años, y tampoco quiere que los trates como desechables.",
+            "**La soltería no es espacio en blanco. Es una estación que Dios aún escribe con cuidado.** Hoy, ora una oración simple: Señor, no dejes que pierda lo que estás haciendo ahora. Esa oración no significa que tu futuro ya no importe. Significa que estás aprendiendo a creer que tu presente también importa."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, mantenme de ver la soltería solo como espera y de tratar el presente como meramente una introducción a algún futuro mejor. Si he asumido tranquilamente que la vida real comienza después, corrígeme suavemente. Gracias porque estás escribiendo mi vida ahora, dándome amor, llamado, crecimiento y propósito ahora. Ayúdame a no despreciar esta estación ni a pasar por alto el trabajo que ya estás haciendo dentro de ella. Permanece cerca de mí en la espera, en la quietud y en la tristeza que a veces llega sin advertencia. No dejes que entregue mi dolor a la prisa o la comparación, sino enséñame a recibir la plenitud que ya estás colocando en mi vida hoy. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Efesios 2:10",
+              "book_code": "EPH",
+              "chapter": 2,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano para que anduviésemos en ellas."
+            },
+            {
+              "display": "Salmo 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "Reina-Valera 1909",
+              "text": "Me mostrarás la senda de la vida; En tu presencia hay plenitud de gozo; Delicias a tu diestra para siempre."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

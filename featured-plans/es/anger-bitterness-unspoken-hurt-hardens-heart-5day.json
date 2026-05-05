@@ -1,0 +1,376 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG08",
+    "slug": "unspoken-hurt-hardens-heart",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardín de las Emociones",
+      "secondary": "anger-bitterness",
+      "secondary_label": "Ira y Amargura"
+    },
+    "tags": [
+      "ira",
+      "amargura",
+      "perdon",
+      "limites",
+      "sanidad"
+    ],
+    "title": "Cuando la Herida No Expresada Comienza a Endurecer el Corazón",
+    "subtitle": "Para la mujer que nunca explotó, pero se ha vuelto más retraída y más cansada a través del dolor repetido.",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "enojada",
+        "resentida",
+        "herida"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Para la mujer que nunca explotó, pero se ha vuelto más retraída y más cansada a través del dolor repetido.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#E0BCA0",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_open_field_evening_anger_softening",
+      "icon": "softening-stone-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Efesios 4:26-27",
+        "book_code": "EPH",
+        "chapter": 4,
+        "verses": "26-27"
+      },
+      {
+        "display": "Ezequiel 36:26",
+        "book_code": "EZK",
+        "chapter": 36,
+        "verses": "26"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "La Ira Enterrada No Desaparece Simplemente",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Efesios 4:26-27",
+            "book_code": "EPH",
+            "chapter": 4,
+            "verses": "26-27",
+            "translation": "Reina-Valera 1909",
+            "text": "Enojáos, pero no pequéis; no se ponga el sol sobre vuestro enojo, ni deis lugar al diablo."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Hay personas que no explotan fácilmente en cólera, y eso no significa que la ira esté ausente. Simplemente puede estar oculta. Muchas mujeres son diestras en tragar el dolor porque no quieren crear conflicto, parecer difíciles o decepcionar a otros. Pero la ira enterrada no desaparece. Se asimila en el tono, la distancia, el cansancio o el resentimiento silencioso. Puede manifestarse como aislamiento emocional, desconfianza reducida, o una creciente incapacidad de responder con calidez.",
+            "El Salmo 39 describe bien esto. El poeta guarda silencio, pero dice que el fuego ardía dentro. Efesios 4 añade que no debemos dejar que la ira permanezca sin ser abordada. Eso no es un mandato para forzar una resolución rápida. Es una advertencia de que la ira no tratada no permanece neutral. Cuando el dolor se entierra repetidamente, frecuentemente encuentra otra forma de manifestarse.",
+            "**La ira enterrada no desaparece; espera otra forma.** Por eso la represión puede parecer madura mientras sigue causando daño. Lo que mantienes negándote a nombrar puede seguir moldeando la forma en que amas, confías y hablas.",
+            "Hoy, presta atención a dónde se ha vuelto más fría tu corazón de lo que solía estar. **A veces la dureza no comienza con crueldad. Comienza con dolor que nunca encontró un lugar honesto a donde ir.** Lleva ese dolor a Dios primero. No te pide que te vuelvas dramática. Te invita a que te vuelvas veraz para que la ira oculta ya no siga organizando silenciosamente tu corazón."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, reconozco que a menudo no carezco de ira; simplemente la empujo hacia abajo. Temo el conflicto, el malentendido y parecer difícil, así que elijo el silencio. Pero te doy gracias porque eres el Dios que escucha lo que nunca se dice completamente. Sabes que el dolor que nunca expreso no desaparece verdaderamente. Enséñame a no confundir la represión con la madurez, y mantenme de ocultar heridas reales bajo palabras corteses. Llévame de la ocultación a la verdad, del silencio a ser escuchada por ti. Ayúdame a volverme más honesta en el amor, no más fría en la autoprotección. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Efesios 4:26-27",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "26-27",
+              "translation": "Reina-Valera 1909",
+              "text": "Enojáos, pero no pequéis; no se ponga el sol sobre vuestro enojo, ni deis lugar al diablo."
+            },
+            {
+              "display": "Salmo 39:2-3",
+              "book_code": "PSA",
+              "chapter": 39,
+              "verses": "2-3",
+              "translation": "Reina-Valera 1909",
+              "text": "Enmudecí con silencio, callé aun de lo bueno; y se agravó mi dolor. Se encendió mi corazón dentro de mí; en mi meditación se encendió fuego."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Sigo Reviviendo Porque la Herida Aún No Ha Sanado",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Hebreos 12:15",
+            "book_code": "HEB",
+            "chapter": 12,
+            "verses": "15",
+            "translation": "Reina-Valera 1909",
+            "text": "Mirad bien que ninguno se quede sin la gracia de Dios; que brotando alguna raíz de amargura, os estorbe, y por ella muchos sean contaminados."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Algunos eventos han pasado hace un tiempo, pero siguen regresando con fuerza sorpresiva. Una frase, un tono, cierto tipo de silencio, o una situación familiar puede de repente transportarte de nuevo al mismo dolor. Cuando eso sucede, muchas personas se frustran consigo mismas. Piensan: \"¿Por qué todavía me afecta esto?\" Pero la repetición no es siempre una señal de fracaso espiritual. A menudo es una señal de que la herida aún no ha sanado.",
+            "Hebreos 12 advierte sobre la raíz de amargura. Una raíz es poderosa precisamente porque está oculta. Crece bajo la superficie mientras moldea silenciosamente lo que aparece arriba. Proverbios 4 también nos dice que cuidemos el corazón. Eso no significa pretender que nada duele. Significa prestar atención a lo que sigue influyendo en la forma en que respondes, confías y te relacionas.",
+            "**Revives lo una y otra vez no porque seas débil, sino porque la herida aún está hablando.** Esa es una diferencia importante. En lugar de condenarte a ti misma por revivir el dolor, pregunta qué es lo que el dolor sigue tratando de decir la verdad.",
+            "Hoy, nota qué es lo que más fácilmente te lleva de vuelta a la ira. **Un desencadenante repetido a menudo revela un lugar que aún no ha sido completamente cuidado por la gracia.** Lleva ese lugar a Dios suavemente. No necesitas apresurarte en el proceso. El Señor es lo suficientemente paciente para encontrarse con lo que aún duele, aunque haya estado doliendo durante mucho tiempo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, a menudo me impaciento conmigo misma y me pregunto por qué ese evento me sigue afectando, por qué todavía puedo ser tan fácilmente herida por él. Hoy, ayúdame a responder con verdad en lugar de acusación. Gracias porque no eres un Dios que apresura a los heridos, sino Uno que camina pacientemente con ellos. Ilumina los lugares donde soy más fácilmente desencadenada. Mantenme de meramente reprimirlo, y mantenme de ser gobernada por él. Ven a la herida que aún está hablando y trae tu verdad y sanidad allí. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Hebreos 12:15",
+              "book_code": "HEB",
+              "chapter": 12,
+              "verses": "15",
+              "translation": "Reina-Valera 1909",
+              "text": "Mirad bien que ninguno se quede sin la gracia de Dios; que brotando alguna raíz de amargura, os estorbe, y por ella muchos sean contaminados."
+            },
+            {
+              "display": "Proverbios 4:23",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23",
+              "translation": "Reina-Valera 1909",
+              "text": "Guarda tu corazón sobre todas las cosas; porque de él mana la vida."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "A Veces la Ira Me Está Diciendo Que Mis Límites Fueron Cruzados",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Mateo 10:16",
+            "book_code": "MAT",
+            "chapter": 10,
+            "verses": "16",
+            "translation": "Reina-Valera 1909",
+            "text": "He aquí, yo os envío como ovejas en medio de lobos: sed, pues, prudentes como serpientes, y sencillos como palomas."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas mujeres reaccionan a la ira cuestionándose inmediatamente. Se preguntan si son demasiado sensibles, demasiado exigentes, o demasiado fácilmente ofendidas. Pero a veces la ira no revela hipersensibilidad. Revela que algo importante fue cruzado. Se ignoró una línea. Un patrón se volvió insalubre. Una necesidad fue repetidamente descartada.",
+            "Jesús dice a sus seguidores que sean \"prudentes como serpientes, y sencillos como palomas.\" Eso importa profundamente cuando pensamos en límites. La gentileza no significa no tener ninguno. La sabiduría y la ternura están diseñadas para vivir juntas. Proverbios 15 también nos recuerda que una respuesta suave puede apartar la ira. La suavidad no es debilidad. Es fuerza que ya no necesita crueldad para ser clara.",
+            "**A veces la ira te está diciendo que un límite fue cruzado.** Eso no responde automáticamente cada pregunta, pero te da una más clara a formular. En lugar de solo decir: \"¿Por qué estoy tan molesta?\" es posible que necesites preguntar: \"¿Qué ha estado sucediendo aquí que no debe seguir sucediendo?\"",
+            "Hoy, considera dónde tu ira surge más rápidamente. **La ira repetida a veces puede señalar una violación repetida.** Eso puede involucrar tiempo, habla, respeto, responsabilidad emocional, o una expectativa de que siempre debes absorber lo que otros se rehúsan a llevar. Dios no te pide que pruebes amor a través del borrado continuo de ti misma. Él puede estar usando tu ira para alertarte a un lugar donde la verdad y los límites necesitan ser restaurados."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, cuando me enojo, a menudo comienzo cuestionándome si simplemente soy demasiado sensible o demasiado exigente. Hoy, ayúdame a discernir más tranquila y más honestamente. Alguna ira puede estar diciéndome que límites reales han sido cruzados. Gracias porque no me pides que aguante hasta desaparecer, sino que viva claramente en amor. Dame sabiduría para ver qué no debe continuar, y dame gentileza para no depender de la agudeza o la venganza para protegerme. Si necesito hablar, dame palabras apropiadas. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Mateo 10:16",
+              "book_code": "MAT",
+              "chapter": 10,
+              "verses": "16",
+              "translation": "Reina-Valera 1909",
+              "text": "He aquí, yo os envío como ovejas en medio de lobos: sed, pues, prudentes como serpientes, y sencillos como palomas."
+            },
+            {
+              "display": "Proverbios 15:1",
+              "book_code": "PRO",
+              "chapter": 15,
+              "verses": "1",
+              "translation": "Reina-Valera 1909",
+              "text": "La blanda respuesta quita la ira; mas la palabra áspera hace subir el furor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "El Perdón No Hace la Herida Más Pequeña",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Colosenses 3:13",
+            "book_code": "COL",
+            "chapter": 3,
+            "verses": "13",
+            "translation": "Reina-Valera 1909",
+            "text": "Sopórtense los unos a los otros, y perdonense, si alguno tuviere queja contra otro: como os perdonó el Señor, así también hacedlo vosotros."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Muchas personas resisten la palabra perdón porque asumen que significa hacer la ofensa más pequeña de lo que fue. Temen que significa pretender que ya no están heridas, reabrirse a una cercanía insegura, o actuar como si nada serio sucedió. Pero el perdón bíblico no es negación. Jesús dice: \"Padre, perdónalos\", desde la cruz, no desde una distancia sin dolor. La herida permanece real. El mal permanece siendo malo. El perdón no borra eso.",
+            "Colosenses 3 fundamenta el perdón en la misericordia que nosotros mismos hemos recibido: \"Así como Cristo os perdonó, así también hacedlo vosotros.\" Ese orden importa. Somos primero personas perdonadas, luego invitadas a volvernos personas que perdonan. El perdón no es desempeño moral. Es una forma de liberación que brota de la gracia.",
+            "Para muchas personas, el perdón comienza muy pequeño. Puede comenzar no con un sentimiento, sino con una disposición: \"Señor, no estoy listo para decir que esto ya no importa, pero no quiero que el odio siga gobernándome.\" Dios es capaz de conocer ese comienzo honesto. **El perdón no hace la herida más pequeña. Mantiene la herida de seguir siendo dueña de la sala más profunda de tu corazón.**",
+            "También es importante decir que el perdón y los límites pueden existir juntos. Puedes soltar el juicio final a Dios sin pretender que la confianza ya ha sido reconstruida. **El perdón no es lo mismo que cercanía inmediata, y no es lo mismo que llamar bueno al mal.** Es un acto de rendirse a la venganza sin rendirse a la verdad. Hoy, dile a Dios qué temes que te cueste el perdón. Él es lo suficientemente paciente para enseñarte cómo la liberación y la sabiduría pueden caminar juntas."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, cuando pienso en el perdón, a menudo siento resistencia porque temo que signifique hacer la ofensa más pequeña de lo que fue. Pero sabes que fue real, y sabes que duele profundamente. Gracias por recordarme a través de tu Palabra que el perdón no es negación, sino liberación; no es excusa, sino libertad de que esta herida deje de gobernarme. Hoy te traigo mi miedo, resistencia y resentimiento sobre el perdón. Si todo lo que puedo honestamente decir es: \"Señor, estoy dispuesta a comenzar a estar dispuesta\", por favor recibe ese comienzo. Y ten misericordia de la que me hirió; si vive en oscuridad, tráela a arrepentimiento y verdad. Enséñame, en gracia y verdad, cómo caminar lentamente hacia la libertad. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Colosenses 3:13",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "13",
+              "translation": "Reina-Valera 1909",
+              "text": "Sopórtense los unos a los otros, y perdonense, si alguno tuviere queja contra otro: como os perdonó el Señor, así también hacedlo vosotros."
+            },
+            {
+              "display": "Lucas 23:34",
+              "book_code": "LUK",
+              "chapter": 23,
+              "verses": "34",
+              "translation": "Reina-Valera 1909",
+              "text": "Entonces Jesús dijo: Padre, perdónalos, que no saben qué hacen. Y repartieron entre sí sus vestiduras, echando suertes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Dios Puede Llevar un Corazón Endurecido de Vuelta a la Suavidad",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Ezequiel 36:26",
+            "book_code": "EZK",
+            "chapter": 36,
+            "verses": "26",
+            "translation": "Reina-Valera 1909",
+            "text": "Os daré corazón nuevo, y espíritu nuevo pondré dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Uno de los costos más profundos de la ira prolongada no es meramente el conflicto, sino el endurecimiento. Con el tiempo, el resentimiento no tratado puede hacer que una persona sea más guardada, menos confiada, y menos abierta a la esperanza. Puedes encontrar que eres más rápida para asumir lo peor, más lenta para explicarte, y más propensa a proteger tu corazón cerrándolo. La amargura no solo recuerda dolor. Comienza a remodelar el mundo interior alrededor del dolor.",
+            "Por eso Ezequiel 36 es una promesa tan poderosa. Dios habla de remover el corazón de piedra y dar un corazón de carne. No te está pidiendo meramente que actúes más suavemente. Te está prometiendo renovación en el nivel del corazón mismo. Filipenses 4 también nos recuerda que nuestros pensamientos pueden ser traídos de vuelta hacia lo que es verdadero, justo, puro y digno. La renovación no significa borrar el pasado. Significa que el pasado ya no tiene autoridad final sobre quién te estás convirtiendo.",
+            "**La amargura no es tu forma final. Dios puede llevar un corazón endurecido de vuelta a la suavidad.** La suavidad no significa ingenuidad. No significa que dejes de discernir o establecer límites. Significa que tu corazón ya no tiene que sobrevivir solo volviéndose frío. Hay otra forma de vivir.",
+            "Pregunta a Dios hoy: ¿dónde me ha endurecido la amargura? **La renovación del Señor a menudo comienza donde dejamos de pretender que no estamos tocadas.** Tal vez el lugar duro es tu confianza, tus expectativas, tu ternura, o tu sentido de valía. Lleva ese lugar a Él. Él es capaz de restaurar no solo el comportamiento externo, sino la capacidad interior de esperar, amar, y vivir sin armadura constante."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, reconozco que algunas heridas no solo me han entristecido; también me han endurecido. Sabes cuán rápidamente me muevo hacia la autoprotección, cuán poco quiero esperar, y cuán asustada estoy de ser herida de nuevo. Gracias porque prometes un corazón nuevo en lugar de pedirme que finjas suavidad por mí misma. Hoy te traigo los lugares donde la amargura se ha endurecido en mí. No mejores meramente mi superficie. Renueva mi vida interior. Enséñame a volverme suave de nuevo en tus manos, no sin discernimiento, no sin límites, sino no más forzada a sobrevivir volviéndome fría. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Ezequiel 36:26",
+              "book_code": "EZK",
+              "chapter": 36,
+              "verses": "26",
+              "translation": "Reina-Valera 1909",
+              "text": "Os daré corazón nuevo, y espíritu nuevo pondré dentro de vosotros; y quitaré de vuestra carne el corazón de piedra, y os daré un corazón de carne."
+            },
+            {
+              "display": "Filipenses 4:8",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre; si hay virtud alguna, si algo digno de alabanza, en esto pensad."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

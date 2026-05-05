@@ -1,0 +1,248 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS10",
+    "slug": "growing-older-with-grace",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Estações da Vida",
+      "secondary": "evening-grace",
+      "secondary_label": "Graça do Entardecer"
+    },
+    "tags": [
+      "mulheres-mais-velhas",
+      "envelhecimento",
+      "sabedoria",
+      "legado",
+      "presenca",
+      "tornando-se-ainda"
+    ],
+    "title": "Envelhecendo num Mundo Obcecado com a Juventude",
+    "subtitle": "Recebendo a idade como graça, não como perda",
+    "audience": {
+      "life_stage": [
+        "mulheres mais velhas",
+        "sessenta e mais",
+        "vida tardia"
+      ],
+      "emotional_state": [
+        "reflexiva",
+        "em paz",
+        "ainda se tornando"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Para a mulher que está aprendendo a receber a idade não como apagamento, mas como uma forma de graça numa cultura que idolatra a juventude.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#C9B8C9",
+      "color_secondary": "#5A4255",
+      "image_key": "cover_woman_evening_lamp_quiet_window",
+      "icon": "lit-candle-circle"
+    },
+    "key_verses": [
+      {
+        "display": "1 Pedro 3:3-4",
+        "book_code": "1PE",
+        "chapter": 3,
+        "verses": "3-4"
+      },
+      {
+        "display": "Salmo 46:10",
+        "book_code": "PSA",
+        "chapter": 46,
+        "verses": "10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "O Mundo Recompensa a Juventude; Deus Honra o Amadurecimento",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "1 Pedro 3:3-4",
+            "book_code": "1PE",
+            "chapter": 3,
+            "verses": "3-4",
+            "translation": "Almeida",
+            "text": "Não seja o vosso adorno o externo, com o arranjo dos cabelos, com ouro ou com vestes; antes o oculto coração, no incorruptível trajo de espírito quieto e manso, que é precioso diante de Deus."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O mundo é muito hábil em fazer as mulheres se sentirem ansiosas com a idade. A publicidade diz o que esconder, o que reparar, o que reclamar. As redes sociais as treinam silenciosamente a perseguir uma versão de si mesmas que ainda parece jovem o suficiente para ser elogiada. Até mesmo o incentivo bem-intencionado pode implicar que uma mulher continua digna apenas se permanece parecida com sua forma anterior.",
+            "A Escritura não fala dessa forma. Ela não vincula o valor de uma mulher à frescura, à suavidade ou à vitalidade externa. Pedro fala sobre a beleza de um espírito gentil e tranquilo, que é precioso aos olhos de Deus. Esse tipo de beleza não é uma tentativa de negar a idade. Frequentemente fica mais clara com a idade. É formada através de perda, fidelidade, paciência e longa companhia com Deus.",
+            "**A idade não diminui automaticamente a glória. Nas mãos de Deus, ela pode se tornar uma das formas pelas quais a graça a aprofunda.** Isso importa profundamente para mulheres em anos posteriores, porque o medo subjacente à mudança corporal geralmente não é simplesmente declínio físico. É o medo de se tornar menos visível, menos valorizada, menos significativa.",
+            "Mas Deus não olha para uma mulher e pergunta como ela resistiu com sucesso ao tempo. Ele olha para a vida sendo moldada dentro dela. A beleza posterior não é beleza de segunda categoria. Frequentemente é mais honesta, mais fundamentada e mais difícil de contrafazer.",
+            "Hoje, deixe Deus afrouxar seu apego a parecer ou sentir como você era antes. Ele pode estar ensinando você como receber um tipo de radiosidade mais tranquilo, mais firme e mais santo."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, este mundo frequentemente me ensina a temer a idade e a tratar a semelhança com o passado como prova de valor. Tenha misericórdia de mim e volte meus olhos de volta para você. Obrigada porque o que importa para você não é como bem resisti ao tempo, mas como verdadeiramente você me está moldando dentro dele. Ensine-me a receber a beleza desta estação sem chamar maturidade de fading ou mudança de envergonhada. Se meu coração ainda está cheio de comparação, tensão ou sofrimento em relação à idade, conforte-me gentilmente e redefina beleza para mim novamente. Deixe meu coração ficar mais tranquilo em você e minha vida mais radiante em sua presença. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "1 Pedro 3:3-4",
+              "book_code": "1PE",
+              "chapter": 3,
+              "verses": "3-4",
+              "translation": "Almeida",
+              "text": "Não seja o vosso adorno o externo, com o arranjo dos cabelos, com ouro ou com vestes; antes o oculto coração, no incorruptível trajo de espírito quieto e manso, que é precioso diante de Deus."
+            },
+            {
+              "display": "Provérbios 31:30",
+              "book_code": "PRO",
+              "chapter": 31,
+              "verses": "30",
+              "translation": "Almeida",
+              "text": "Enganosa é a graça, e vã a beleza; a mulher que teme ao Senhor, essa será louada."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Envelhecer Não É Sair da História",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 92:13-14",
+            "book_code": "PSA",
+            "chapter": 92,
+            "verses": "13-14",
+            "translation": "Almeida",
+            "text": "Os que se plantam na casa do Senhor florescerão nos átrios do nosso Deus. Ainda darão fruto na velhice; estarão cheios de seiva e viçosos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Muitas mulheres têm medo dos anos posteriores, não apenas pela mudança corporal, mas por um medo mais profundo: vou me tornar alguém à margem? Quando os papéis profissionais mudam, os filhos crescem, as estruturas familiares se transformam, e os círculos sociais se reduzem, é fácil imaginar que as partes mais significativas da vida já passaram. Essa é a forma como o mundo frequentemente narra o envelhecimento. Não é assim que Deus faz.",
+            "O Salmo 92 diz que aqueles plantados na casa do Senhor ainda produzirão fruto na velhice. Essa é uma promessa tão bela porque não força o fruto posterior a imitar o fruto anterior. Não exige que uma mulher reviva sua forma mais jovem. Diz que a frutificação permanece possível, embora possa assumir uma forma diferente.",
+            "**No reino de Deus, os anos posteriores não são anos restantes. Frequentemente são outra estação de fruto.** Se você secretamente temeu que sua significância está diminuindo, deixe Deus desafiar esse medo. Ele não é apenas o Deus dos picos públicos. Ele também é o Deus de uma utilidade mais tranquila, mais lenta e mais profunda.",
+            "O fruto posterior pode parecer menos como velocidade e mais como constância. Menos como visibilidade e mais como nutrição. Menos como aguça e mais como bênção. Algumas das formas mais duráveis de influência emergem não do ímpeto exterior, mas de décadas de fidelidade, refinamento e comunhão com Deus."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, confesso que às vezes temo que os anos posteriores sejam apenas para manutenção, perda e desaparecimento silencioso. Obrigada por me lembrar que em você, a velhice ainda pode dar fruto. Liberte-me da mentira de que a parte mais significativa da minha vida já ficou para trás. Mantenha-me de medir minha importância pela atenção mutável do mundo. Se você pretende dar novo fruto nestes anos posteriores, ajude-me a receber esse fruto sem exigir que pareça com juventude novamente. Mantenha-me plantada em você e deixe-me ainda florescer em sua presença. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 92:13-14",
+              "book_code": "PSA",
+              "chapter": 92,
+              "verses": "13-14",
+              "translation": "Almeida",
+              "text": "Os que se plantam na casa do Senhor florescerão nos átrios do nosso Deus. Ainda darão fruto na velhice; estarão cheios de seiva e viçosos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Alguma Quietude Não É Vazia, Mas uma Profundidade Mais Santa",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 46:10",
+            "book_code": "PSA",
+            "chapter": 46,
+            "verses": "10",
+            "translation": "Almeida",
+            "text": "Aquietai-vos e vede que eu sou Deus..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A vida posterior frequentemente se torna mais tranquila. A casa não é tão barulhenta. O calendário não está tão cheio. As exigências diretas dos outros diminuem. A agitação externa começa a se distanciar. Para algumas mulheres, essa quietude é reconfortante. Para outras, é exposta. Porque torna a perda, a ausência e as questões de propósito remanescente mais visíveis.",
+            "Quando uma mulher passou décadas respondendo, cuidando, organizando e carregando, a quietude pode parecer desconfortável. Ela pode não saber como habitá-la sem ansiedade.",
+            "Mas a Escritura nem sempre trata a quietude como vazio. \"Aquietai-vos e vede que eu sou Deus\" não é uma sentença de exílio. É um convite para um tipo diferente de plenitude. A quietude nas mãos de Deus pode se tornar não menos vida, mas vida mais profunda. Alguns tipos de proximidade com Deus exigem precisamente o espaço que décadas anteriores não podiam fornecer.",
+            "**Quando a quietude é habitada com Deus, ela não precisa ser interpretada como vazio.** Ela pode se tornar outra forma de plenitude. Então, se sua vida se tornou mais tranquila, não pergunte apenas o que foi removido. Pergunte também que nova profundidade pode agora ser possível.",
+            "Os anos posteriores podem não ser mais barulhentos do que antes, mas podem ser mais ricos interiormente do que você uma vez imaginou."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, quando a vida se torna mais tranquila, nem sempre sei se devo receber essa quietude como dom ou como perda. Você conhece o vazio que pode surgir quando os ritmos diminuem, e você sabe como facilmente começo a me perguntar o que resta em mim. Obrigada por me lembrar que a quietude não é automaticamente vazio. Ela também pode se tornar um lugar de profundidade. Ensine-me a não fugir desta quietude ou me apressar para preenchê-la com barulho. Se você está usando esta estação de quietude para me levar a um conhecimento mais profundo de você, ajude-me a entrar nela disposta. Deixe os anos posteriores da minha vida se tornarem não apenas menos ocupados, mas mais plenos de você. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 46:10",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Almeida",
+              "text": "Aquietai-vos e vede que eu sou Deus..."
+            },
+            {
+              "display": "Lucas 10:39",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "39",
+              "translation": "Almeida",
+              "text": "Ela tinha uma irmã chamada Maria, que se assentou aos pés de Jesus e ouviu a sua palavra."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

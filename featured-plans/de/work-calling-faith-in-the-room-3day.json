@@ -1,0 +1,260 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI13",
+    "slug": "faith-in-the-room",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "work-calling",
+      "secondary_label": "Arbeit und Berufung"
+    },
+    "tags": [
+      "arbeit",
+      "berufung",
+      "karriere",
+      "gefallen",
+      "erfolg",
+      "glaube-am-arbeitsplatz"
+    ],
+    "title": "Vertrauen im Büro",
+    "subtitle": "Gott inmitten des Drucks des täglichen Berufs treffen",
+    "audience": {
+      "life_stage": [
+        "berufstätige Frauen",
+        "Fachkräfte"
+      ],
+      "emotional_state": [
+        "verantwortlich",
+        "gefordert",
+        "Erfolg neu definierend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese drei Tage helfen dir, dich daran zu erinnern, dass Gott in Besprechungsräumen, an Arbeitsplätzen und unter Druck gegenwärtig ist.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#B8C8D8",
+      "color_secondary": "#2C4A6B",
+      "image_key": "cover_woman_at_desk_morning_calm",
+      "icon": "open-book-and-light-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Daniel 6:3",
+        "book_code": "DAN",
+        "chapter": 6,
+        "verses": "3"
+      },
+      {
+        "display": "Kolosser 3:23",
+        "book_code": "COL",
+        "chapter": 3,
+        "verses": "23"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Gott ist an dem Ort gegenwärtig, an dem du arbeitest",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Daniel 6:3",
+            "book_code": "DAN",
+            "chapter": 6,
+            "verses": "3",
+            "translation": "Lutherbibel 1912",
+            "text": "Darum gefiel Daniel dem König sehr, und machte ihn über die ganze Provinz."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Es ist leicht, Arbeit und geistliches Leben zu trennen.",
+            "Gebete, Schriftstudium und Kirche können sich wie die Orte anfühlen, wo Gott nahekommen ist, während Besprechungen, Fristen, Druck und berufliche Komplexität sich anfühlen, als würden wir sie allein tragen. Viele Frauen kennen diese Spaltung sehr gut. Wir können den Tag im Bewusstsein Gottes beginnen, dann die nächsten acht oder zehn Stunden verbringen, als würde der Arbeitsplatz Kompetenz, Dringlichkeit und Überleben gehören, nicht der Gemeinschaft mit Gott.",
+            "Aber Daniel erinnert uns daran, dass Gottes Gegenwart nicht auf heilig aussehende Orte beschränkt ist. Er war bei Daniel innerhalb von politischer Macht, öffentlicher Verantwortung, Kontrolle und Druck. Josua 1 sagt, dass Gott mit uns überall dorthin ist, wo wir gehen. Das schließt die Orte ein, an denen Emails sich anhäufen, Menschen missverstehen, schnelle Entscheidungen getroffen werden müssen und emotionale Stabilität teuer erkauft ist. Arbeit ist nicht der Bereich des Lebens, wo Gott höflich draußen wartet.",
+            "Dieses Bewusstsein verändert mehr als nur die Stimmung. Es verändert die innere Haltung. Du gehst nicht allein in deinen Tag und hoffst dann, dich an Gott zu erinnern, wenn die Dinge schwierig werden. Du betrittst einen Ort, an dem Er bereits ist. Das könnte die Anforderungen nicht verringern, aber es bedeutet, dass du nicht so leben musst, als würde alles von deinem eigenen inneren Vorrat abhängen.",
+            "**Gott ist nicht nur in stillen Räumen bei dir. Er ist auch bei dir in angeforderten Räumen.**",
+            "Bevor du heute in deine Arbeit gehst, flüstere ein einfaches Gebet: Herr, du bist schon hier. Lass das der Grund unter dem Rest des Tages werden. Seine Begleitung kann einen gewöhnlichen Arbeitstag weniger wie Überleben und mehr wie das Geführtwerden anfühlen lassen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, hilf mir, deine Gegenwart auch bei der Arbeit zu erkennen. Lass mich den Arbeitsplatz nicht als einen Ort voller Druck aber leer von dir erleben. Erinnere mich inmitten von Geschäftigkeit und Komplexität heute, dass du bereits dort bist. Führe mich aus den Gewohnheiten des Gefallenwollens, der Angst und der Selbstbehauptung durch Leistung heraus. Lass mich unter Druck standhaft bleiben, innerhalb von Verantwortung frei sein und mich in jedem Arbeitstag daran erinnern, dass ich letztlich dir Rechenschaft schuldig bin. Behalte die äußeren Ergebnisse davor, mich schneller zu definieren als dein Friede. Mach mich treu in meiner Arbeit und wach in meinem Geist. Danke, dass du dich meiner Schwäche nicht entgegensetzt, sondern mir nah kommen, mich stützen und mich weiter unterrichten willst. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Daniel 6:3",
+              "book_code": "DAN",
+              "chapter": 6,
+              "verses": "3",
+              "translation": "Lutherbibel 1912",
+              "text": "Darum gefiel Daniel dem König sehr, und machte ihn über die ganze Provinz."
+            },
+            {
+              "display": "Josua 1:9",
+              "book_code": "JOS",
+              "chapter": 1,
+              "verses": "9",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn der HERR, dein Gott, ist mit dir überall, wo du hingehst."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Unter Druck schaut Glaube manchmal aus wie Standhalten",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Philipper 4:13",
+            "book_code": "PHP",
+            "chapter": 4,
+            "verses": "13",
+            "translation": "Lutherbibel 1912",
+            "text": "Ich vermag alles durch den, der mich mächtig macht, Christus."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Druck am Arbeitsplatz ist sehr real.",
+            "Aufgaben, Sichtbarkeit, Erwartungen, Entscheidungen, Bürodynamik und die Angst, etwas falsch zu machen, können das Herz den ganzen Tag lang angespannt halten. Viele Frauen sind sehr geschickt darin, unter diesem Druck zu funktionieren. Wir antworten, präsentieren, tragen Verantwortung und bewegen uns weiter. Aber innerlich kann das Nervensystem so ständig in Alarmbereitschaft sein, dass Druck sich wie unser vertrautester Zustand anfängt zu fühlen.",
+            "Glaube entfernt diesen Druck nicht immer. Oft bedeutet er, dass Druck nicht deine tiefste Identität wird. Philipper 4,13 ist keine Anweisung, übermensch zu werden. Es ist eine Einladung, dich auf Christi Kraft inmitten menschlicher Begrenztheit zu verlassen. Psalm 46 verleugnet nicht die Bedrängnis; er nennt Gott als Hilfe inmitten von Bedrängnis. Manchmal schaut Glaube am Arbeitsplatz weniger wie emotionale Ruhe aus und mehr wie die Weigerung, die Angst zur einzigen Stimme werden zu lassen, die deine Entscheidungen formt.",
+            "Viele Frauen nehmen Ergebnisse sehr schnell auf. Wir berichten nicht nur über Ergebnisse. Wir nehmen sie in uns auf. Doch Reife vor Gott ist, hart zu arbeiten, ohne die Arbeit als Urteil über dein Sein zu nutzen. Exzellenz kann wichtig bleiben, ohne letztgültig zu werden.",
+            "**Glaube beseitigt Druck nicht immer. Er bewahrt dich davor, dich von Druck definieren zu lassen.**",
+            "Wenn die Arbeit heute schwer ist, gebe nicht vor, es wäre anders. Bitte Gott einfach um genug Stabilität für diesen Tag. Seine Kraft könnte nicht als dramatische Erleichterung erscheinen, sondern als die stille Fähigkeit, geerdet zu bleiben, ohne dich von ihr verschlingen zu lassen. Standhafter Glaube ist manchmal die stille Weigerung, sich von Druck beherrschen zu lassen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, du siehst den Druck, unter dem ich heute stehe. Bewahre mich davor, nur noch zu ertragen. Gib mir innere Kraft an diesem anfordernden Ort und lass die Umgebung mich nicht verschlingen. Bewahre die äußeren Ergebnisse davor, mich schneller zu definieren als dein Friede. Mach mich treu in meiner Arbeit und wach in meinem Geist. Danke, dass du nicht von meiner Schwäche abgestoßen wirst, sondern bereit bist, mir nahezukommen, mich zu stützen und mich weiter zu unterrichten. Führe mich aus den Gewohnheiten des Gefallenwollens, der Angst und der Selbstbehauptung durch Leistung heraus. Lass mich unter Druck standhaft bleiben, innerhalb von Verantwortung frei sein und mich in jedem Arbeitstag daran erinnern, dass ich letztlich dir Rechenschaft schuldig bin. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Philipper 4:13",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "13",
+              "translation": "Lutherbibel 1912",
+              "text": "Ich vermag alles durch den, der mich mächtig macht, Christus."
+            },
+            {
+              "display": "Psalm 46:2",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Gott ist unsere Zuflucht und Stärke, eine Hilfe in Nöten, da er sich leicht finden läßt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Mein Wert ist nicht gleich meiner heutigen Leistung",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Kolosser 3:23",
+            "book_code": "COL",
+            "chapter": 3,
+            "verses": "23",
+            "translation": "Lutherbibel 1912",
+            "text": "Und alles, was ihr tut, tut von Herzen, als dem Herrn und nicht den Menschen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Eine der schnellsten Arten, wie Arbeit uns verformt, ist, Wert an Leistung zu binden.",
+            "Wenn der Tag gut läuft, fühlen wir uns substanzieller. Wenn wir unterperformen, einen Fehler machen, ein Ziel verfehlen oder enttäuschende Rückmeldung erhalten, beginnen wir uns kleiner zu fühlen. Die Ergebnisse des Tages werden zum Beweis in unserem privaten Gericht der Identität. Bin ich kompetent genug? Wertvoll genug? Vertrauenswürdig genug? Wert behalten zu werden? Arbeit hört auf, nur eine Verantwortung zu sein, und wird zu einem Ort, an dem wir darum bitten, dass uns gesagt wird, wer wir sind.",
+            "Kolosser erinnert uns daran, dass unsere Arbeit letztendlich dem Herrn dargebracht wird. Gott schätzt Treue, Aufrichtigkeit, Fleiß und Verwaltung, aber er hat deine Identität nicht der Produktivität übergeben. Jesaja sagt, dass du in seinen Augen kostbar bist. Das ist nicht eine Leistungsbewertung. Das ist eine relationale Wahrheit. Dein Wert steigt und sinkt nicht damit, ob sich der Tag fruchtbar angefühlt hat.",
+            "Viele Frauen verinnerlichen Ergebnisse sehr schnell. Wir berichten nicht nur über Ergebnisse. Wir nehmen sie in uns auf. Doch Reife vor Gott ist zu lernen, hart zu arbeiten ohne deine Arbeit als Urteil über dein Sein zu nutzen. Exzellenz kann wichtig bleiben, ohne letztgültig zu werden.",
+            "Der Tag könnte immer noch schlecht gelaufen sein. Aber ein enttäuschender Tag hat nicht die Autorität, dich umzubenennen.",
+            "**Arbeit könnte eine Berufung sein, aber Leistung ist niemals das Ganze von wer du bist.** Bevor der Tag endet, erinnere dich selbst daran, dass dein Wert in Gott nicht mit den Ergebnissen des heutigen Tages gestiegen oder gefallen ist. Lass fleißige Arbeit bedeutungsvoll bleiben, ohne deine Identität zu werden.",
+            "Das ist ein Grund, warum Ruhe zurückkehren kann, selbst bevor die Leistung es tut."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, befreie mich von der Gewohnheit, meinen Wert an meine Leistung zu binden. Hilf mir, treu zu arbeiten, ohne meine Identität den Ergebnissen zu übergeben. Danke, dass du mich kostbar in deinen Augen nennst. Führe mich aus den Gewohnheiten des Gefallenwollens, der Angst und der Selbstbehauptung durch Leistung heraus. Lass mich unter Druck standhaft bleiben, innerhalb von Verantwortung frei sein und mich in jedem Arbeitstag daran erinnern, dass ich letztlich dir Rechenschaft schuldig bin. Danke, dass du nicht von meiner Schwäche abgestoßen wirst, sondern bereit bist, mir nahezukommen, mich zu stützen und mich weiter zu unterrichten. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Kolosser 3:23",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "23",
+              "translation": "Lutherbibel 1912",
+              "text": "Und alles, was ihr tut, tut von Herzen, als dem Herrn und nicht den Menschen."
+            },
+            {
+              "display": "Jesaja 43:4",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "4",
+              "translation": "Lutherbibel 1912",
+              "text": "Du bist in meinen Augen kostbar und wertvoll."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

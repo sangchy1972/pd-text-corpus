@@ -1,0 +1,246 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS07",
+    "slug": "what-took-time-still-beautiful",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Life Seasons",
+      "secondary": "harvest-season",
+      "secondary_label": "Harvest Season"
+    },
+    "tags": [
+      "midlife",
+      "body-changes",
+      "reset",
+      "wisdom",
+      "perimenopause",
+      "menopause"
+    ],
+    "title": "What Took Time Is Still Beautiful",
+    "subtitle": "Honoring the slower gifts of growth and maturity",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "forties-fifties",
+        "midlife"
+      ],
+      "emotional_state": [
+        "reflective",
+        "reorienting",
+        "embracing-change"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "For the woman learning to see slower growth, delayed fruit, and long-formed beauty through kinder and more faithful eyes.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#E8B888",
+      "color_secondary": "#7A4A2C",
+      "image_key": "cover_woman_open_window_autumn_warm",
+      "icon": "ripening-fruit-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 27:13-14",
+        "book_code": "PSA",
+        "chapter": 27,
+        "verses": "13-14"
+      },
+      {
+        "display": "Genesis 18:13-14",
+        "book_code": "GEN",
+        "chapter": 18,
+        "verses": "13-14"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "What Grew Slowly May Have Grown Deeply",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 27:13-14",
+            "book_code": "PSA",
+            "chapter": 27,
+            "verses": "13-14",
+            "translation": "KJV",
+            "text": "I had fainted, unless I had believed to see the goodness of the Lord in the land of the living. Wait on the Lord: be of good courage, and he shall strengthen thine heart..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "By the harvest years, many women begin looking back on their lives with a different kind of honesty. They remember what came later than expected, what took longer than others said it should, what once felt like delay, and what seemed at the time like being left behind. When we are younger, we often treat fast as good, early as blessed, and visible arrival as security. But in midlife, many women begin to notice that what truly steadies them was not always what came first. It was often what took time to grow.",
+            "Psalm 27 says, \"I had fainted, unless I had believed to see the goodness of the Lord in the land of the living.\" Then it adds, \"Wait on the Lord.\" That is not a soft cliche. It is a truth that often has to be lived into slowly. God’s timing does not always mirror our own. Some forms of stability arrive late. Some insights deepen only after years. Some fruit is invisible until much later. Scripture does not treat that as lesser living. It invites us into a wiser measure of beauty.",
+            "**Maturity is often not about getting things sooner, but about becoming able to carry them more deeply.** Things formed through waiting, disappointment, and repeated surrender often have stronger roots. Gentleness after loss, contentment after lack, discernment after detours, and steadiness after uncertainty are not second-rate gifts. They are holy ones.",
+            "So if you are still carrying the ache of, \"I should have been there sooner,\" bring that ache before God. He may be healing not only your timeline, but your way of measuring beauty. A slower story is not automatically a smaller one."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I confess that part of me still aches over what came later than I wanted. I still look back sometimes and wonder whether life would have been easier or better if some things had happened sooner. Thank You that You do not dismiss that ache or rush me past it. Heal the part of me that still measures worth by speed. Teach me to trust that the beauty You form does not always arrive quickly. If some fruit in my life has only grown through waiting, detours, grief, and reordering, keep me from despising it. Let me learn to give thanks for depth that took time, and to believe that You have not missed my seasons. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 27:13-14",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "13-14",
+              "translation": "KJV",
+              "text": "I had fainted, unless I had believed to see the goodness of the Lord in the land of the living. Wait on the Lord: be of good courage, and he shall strengthen thine heart..."
+            },
+            {
+              "display": "James 5:7-8",
+              "book_code": "JAS",
+              "chapter": 5,
+              "verses": "7-8",
+              "translation": "KJV",
+              "text": "Be patient therefore, brethren... Behold, the husbandman waiteth for the precious fruit of the earth..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Some Beauty Only Appears with Years",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Proverbs 16:31",
+            "book_code": "PRO",
+            "chapter": 16,
+            "verses": "31",
+            "translation": "KJV",
+            "text": "The hoary head is a crown of glory, if it be found in the way of righteousness."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "When we are younger, we tend to notice forms of beauty that are immediately visible. Freshness, speed, charisma, sharpness, admiration, outward energy. But in the harvest years, God often begins to reshape the way a woman sees beauty. She starts to notice qualities that do not flash at first glance: restraint in speech, softness after suffering, steadiness after disappointment, and the ability to remain grateful without becoming naive.",
+            "Proverbs says that the hoary head is a crown of glory, if it be found in the way of righteousness. That is a radically different way of seeing age. The world often frames aging as loss, decline, or fading relevance. So many women enter the middle and later years already bracing themselves, as if they must defend their worth against time itself. Scripture does not speak that way. It honors the beauty that grows through time.",
+            "**The value of years is not only that you survived them, but that they have shaped you into someone weightier, wiser, and more whole.** There is a beauty that does not fight time by pretending to be untouched by it. It receives time as one of God’s instruments of formation.",
+            "So today, do not look only at what has changed outwardly. Look also at what has ripened inwardly. Wisdom, gentleness, steadiness, and depth are not consolation prizes. They are part of the glory of maturity."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, this world often teaches me to fear age and resist change, and it easily trains my eyes to notice only what has been lost. Thank You for giving me another way to see. You do not treat maturity as fading, but as a kind of glory formed by Your hand over time. Free me from the tension of needing to prove that I still matter. Teach me to receive the marks of years without shame. If gentleness in me has grown through tears, if wisdom has grown through falling, and if restraint has grown through long struggle, keep me from despising those gifts. Help me honor this season before You and become a woman whose life carries more blessing for others. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Proverbs 16:31",
+              "book_code": "PRO",
+              "chapter": 16,
+              "verses": "31",
+              "translation": "KJV",
+              "text": "The hoary head is a crown of glory, if it be found in the way of righteousness."
+            },
+            {
+              "display": "Titus 2:3-5",
+              "book_code": "TIT",
+              "chapter": 2,
+              "verses": "3-5",
+              "translation": "KJV",
+              "text": "The aged women likewise... that they may teach the young women..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Not Everything That Arrives Late Has Been Lost",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Genesis 18:13-14",
+            "book_code": "GEN",
+            "chapter": 18,
+            "verses": "13-14",
+            "translation": "KJV",
+            "text": "Wherefore did Sarah laugh... Is any thing too hard for the Lord? At the time appointed I will return unto thee... and Sarah shall have a son."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "By midlife, many women quietly begin asking whether some things are simply too late now. Perhaps it is stability. Perhaps a certain kind of peace. Perhaps a longed-for chapter that never arrived when expected. The harvest years often carry a stronger awareness of time, and time can start to feel like a verdict.",
+            "But Scripture gives us Sarah. When she hears that she will bear a son in old age, she laughs, because to her it sounds too late. God does not agree with her conclusion. He does not say, \"Yes, the moment has passed.\" He keeps His promise in a season that seemed impossible.",
+            "Not every woman’s story will unfold in the same way, but Sarah’s story teaches something essential: God is not bound by our instinctive definition of too late. He does not always fulfill our hopes in the exact form we first imagined, but He does not treat later years as spiritually closed.",
+            "**Late is not the same as wasted. Delayed is not the same as dead.** If there are places in your heart where you have already spoken the sentence, \"It is too late for me,\" bring those words before God. Let Him question them. Some things may yet unfold differently than you thought. Others may not return in the same form, but still yield real fruit. Midlife is not only the season of what has passed. It may also become the season of what ripens late."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I confess that in some places I have already pronounced judgment over my own story. I have quietly said, \"It is too late. It is over. That part probably will not happen now.\" Thank You that You do not write my life according to the verdicts I speak in fear. You do not despise the later chapters of a woman’s life. Bring the discouragement I have built around time into Your presence, and place Your truth there instead. If there is still fruit You intend to give, keep me from closing my heart in self-protection. And if some hopes need to be renamed rather than simply restored, give me gentleness and trust. Teach me not to equate delay with hopelessness. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Genesis 18:13-14",
+              "book_code": "GEN",
+              "chapter": 18,
+              "verses": "13-14",
+              "translation": "KJV",
+              "text": "Wherefore did Sarah laugh... Is any thing too hard for the Lord? At the time appointed I will return unto thee... and Sarah shall have a son."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

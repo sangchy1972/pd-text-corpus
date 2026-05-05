@@ -1,0 +1,379 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG11",
+    "slug": "heart-empty-after",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garden of Emotions",
+      "secondary": "loneliness-emptiness",
+      "secondary_label": "Loneliness & Emptiness"
+    },
+    "tags": [
+      "loneliness",
+      "emptiness",
+      "belonging",
+      "presence-of-god",
+      "fellowship"
+    ],
+    "title": "Why Does My Heart Still Feel Empty After Everything Ends",
+    "subtitle": "For the woman whose life is not empty on the outside, yet still feels strangely hollow when the day grows quiet.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "lonely",
+        "empty",
+        "unseen"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "For the woman whose life is not empty on the outside, yet still feels strangely hollow when the day grows quiet.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#C8D2DA",
+      "color_secondary": "#4A5563",
+      "image_key": "cover_woman_quiet_room_lamp_evening_loneliness",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 25:16",
+        "book_code": "PSA",
+        "chapter": 25,
+        "verses": "16"
+      },
+      {
+        "display": "Psalm 68:6",
+        "book_code": "PSA",
+        "chapter": 68,
+        "verses": "6"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "A Full Schedule Cannot Always Fill an Empty Heart",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 25:16",
+            "book_code": "PSA",
+            "chapter": 25,
+            "verses": "16",
+            "translation": "KJV",
+            "text": "Turn thee unto me, and have mercy upon me; for I am desolate and afflicted."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some loneliness survives very crowded days. You may spend hours talking, working, serving, replying, showing up, or caring for others and still feel profoundly alone once the noise settles. That happens because busyness and connection are not the same thing. Being needed is not the same as being known. A full schedule can hide loneliness without healing it.",
+            "Many women are especially vulnerable to this kind of hidden isolation because they are skilled at holding things together for everyone else. They keep the conversation going, remember what needs to be done, and remain emotionally available. Others may see them as surrounded and supported, while inwardly they feel untouched. No one may realize how often they are performing connection rather than experiencing it.",
+            "The psalms help by giving direct language: “I am desolate and afflicted.” Scripture does not ask you to rename loneliness as mere tiredness. It gives you permission to call it what it is. That honesty is the beginning of freedom.",
+            "**A busy life does not always silence loneliness, because loneliness is not merely the absence of noise. It is often the absence of deep inner connection.** If you keep treating loneliness with more stimulation, you may stay distracted without ever being comforted.",
+            "Today, ask what you most often use to avoid feeling alone. **Sometimes the very thing that keeps us from feeling loneliness for a moment also keeps us from bringing it honestly before God.** Let yourself become quiet long enough to notice what rises. Do not rush to cover it. The Lord often begins His deeper work in the places we stop numbing."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I admit that my life can look full and still feel lonely inside. Thank You that You do not require me to maintain the appearance of fullness before You come near. Help me stop covering inner emptiness with noise and busyness. If quiet reveals my loneliness, then meet me there. Keep me from living only in the role of being needed while forgetting that I also need to be seen and comforted. Become for me the One I do not have to fear in stillness. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 25:16",
+              "book_code": "PSA",
+              "chapter": 25,
+              "verses": "16",
+              "translation": "KJV",
+              "text": "Turn thee unto me, and have mercy upon me; for I am desolate and afflicted."
+            },
+            {
+              "display": "Psalm 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "KJV",
+              "text": "Pour out your heart before him: God is a refuge for us."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "Sometimes Busyness Is Also a Way of Hiding",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Luke 10:40-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "40-42",
+            "translation": "KJV",
+            "text": "But Martha was cumbered about much serving... thou art careful and troubled about many things."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Some emptiness comes not from a lack of activity, but from giving too much of yourself away for too long. You keep caring, responding, helping, understanding, and holding space for others until one day you realize you are no longer sure what is happening inside you. You know what other people need, but you no longer know how to answer the simple question, “How am I, really?”",
+            "Many women experience this kind of depletion because they have been trained to remain outwardly attentive. They become skilled at emotional labor, responsibility, and invisible service. The problem is not that these things are bad. The problem is that a person can remain outwardly faithful while becoming inwardly estranged from herself.",
+            "Martha’s story is helpful here. She is not rebuked for being lazy. She is troubled by many things. Her service has become disconnected from restful presence. That disconnect often leads to emptiness. You keep pouring out, yet nothing is returning life to the inner world.",
+            "**A person who spends too long lighting the room for everyone else may slowly stop noticing that her own soul has gone dim.** That is not selfishness. It is an honest description of depletion.",
+            "Today, ask yourself gently: what have I been needing for a long time? **Sometimes the first step out of emptiness is not doing more, but becoming honest about how long you have been living without inward care.** God does not see you only as a source of help for other people. He sees you as someone He wants to shepherd too."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I admit that I am so used to caring for others and turning my attention outward that sometimes I no longer notice how empty I have become inside. Thank You that You do not see me only as someone who gives, but as someone You desire to shepherd. Help me come back to my own heart and back to Your presence. Give me honesty about my tiredness, my needs, and my longings instead of hiding behind responsibility. Restore my soul, and let me not only keep pouring out, but begin receiving from You again. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Luke 10:40-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "40-42",
+              "translation": "KJV",
+              "text": "But Martha was cumbered about much serving... thou art careful and troubled about many things."
+            },
+            {
+              "display": "Psalm 23:1-3",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1-3",
+              "translation": "KJV",
+              "text": "The LORD is my shepherd... he restoreth my soul."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "Being Needed Is Not the Same as Being Filled",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "John 4:13-14",
+            "book_code": "JHN",
+            "chapter": 4,
+            "verses": "13-14",
+            "translation": "KJV",
+            "text": "Whosoever drinketh of this water shall thirst again: but whosoever drinketh of the water that I shall give him shall never thirst."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "There is something very familiar about having a life that does not look empty, yet still feeling hollow inside. You buy something lovely, plan a comforting meal, create a peaceful evening, or give yourself a small reward after a hard day. None of these things are wrong. Some of them are kind and needed. But many women know the strange feeling that can follow: the comfort lands for a moment, and then the emptiness returns.",
+            "That happens because gifts cannot carry the weight of salvation. A meal can nourish you, beauty can refresh you, and rest can help you breathe, but none of them can become the final answer to inner thirst. When we quietly expect created things to do what only God can do, even good comforts begin to disappoint us.",
+            "Jesus says to the Samaritan woman that whoever drinks the water He gives will never thirst in the same way again. He is not condemning ordinary pleasures. He is exposing a deeper need. Some thirst is not about what you have around you. It is about what your soul is missing within.",
+            "**A full life on the outside may comfort you for a moment, but it cannot fully satisfy the deeper hunger of the heart.** That is not a reason for shame. It is an invitation to honesty. The question is not whether you may enjoy gifts. The question is whether you are quietly asking the gifts to become your god.",
+            "Today, pause before the next thing you instinctively reach for. **Sometimes the beginning of real fullness is simply admitting that what you are hungry for is deeper than pleasure, noise, or distraction can satisfy.** God is not trying to deprive you of comfort. He is trying to lead you toward the kind that does not fade so quickly."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You for the ordinary gifts You give, and thank You that You do not allow those gifts to pretend they can replace You. You know how quickly I reach for something to fill, comfort, or numb the emptiness. Today, help me admit more honestly that some of my hunger is deeper than outward comfort can satisfy. Guard my heart from turning gifts into saviors. And as I receive the good things You give, turn me more deeply toward You, because only You can truly satisfy what is empty within me. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "John 4:13-14",
+              "book_code": "JHN",
+              "chapter": 4,
+              "verses": "13-14",
+              "translation": "KJV",
+              "text": "Whosoever drinketh of this water shall thirst again: but whosoever drinketh of the water that I shall give him shall never thirst."
+            },
+            {
+              "display": "Psalm 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "KJV",
+              "text": "In thy presence is fulness of joy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "God Does Not Only Comfort My Emptiness; He Can Fill It",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Ephesians 3:17-19",
+            "book_code": "EPH",
+            "chapter": 3,
+            "verses": "17-19",
+            "translation": "KJV",
+            "text": "That Christ may dwell in your hearts by faith... that ye might be filled with all the fulness of God."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many people hope God will simply help them endure emptiness. That hope matters, but Scripture offers something larger. God does not only sit beside your emptiness in sympathy. He is able to fill what has been hollowed out. Paul’s prayer in Ephesians is striking because he does not pray merely for relief. He prays that Christ would dwell in believers’ hearts and that they would be filled with all the fullness of God.",
+            "That means spiritual fullness is not an abstract church phrase. It is a real work of God within the interior life. Many women silently think of themselves as “the one who lacks.” They compare their lives to others and assume that if they only had the right relationship, the right season, the right circle, or the right reassurance, the emptiness would finally end. But the gospel does not begin by telling you to assemble everything you lack. It begins by telling you that Christ is willing to dwell in you.",
+            "**God does not only sympathize with your emptiness. He is able to inhabit it.** That changes the whole way you understand need. You may still long for healthy relationships and meaningful companionship, but those things no longer stand as your only hope of feeling whole.",
+            "Today, name the emptiest place in you. **Do not ask only for survival. Ask for indwelling fullness.** The Lord is not offended by that prayer. He is the One who taught you to expect it."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You that You do not only understand my emptiness from a distance, and You do not only sit beside it while I endure. You promise to dwell within me and to satisfy the longing soul. Today I bring the emptiest place in my heart before You. I do not ask only to feel a little better. I ask You to fill me with Your own presence. If I have been treating outward things as my final hope, gently correct me. Teach me that I am not meant to remain forever lacking, but can become full in You. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Ephesians 3:17-19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "17-19",
+              "translation": "KJV",
+              "text": "That Christ may dwell in your hearts by faith... that ye might be filled with all the fulness of God."
+            },
+            {
+              "display": "Psalm 107:9",
+              "book_code": "PSA",
+              "chapter": 107,
+              "verses": "9",
+              "translation": "KJV",
+              "text": "For he satisfieth the longing soul, and filleth the hungry soul with goodness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "When God Fills the Heart, Life Becomes Full Again",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 68:6",
+            "book_code": "PSA",
+            "chapter": 68,
+            "verses": "6",
+            "translation": "KJV",
+            "text": "God setteth the solitary in families."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Long-term emptiness often distorts the way we relate to people. Some begin clinging too tightly, hoping another person will finally complete what feels hollow. Others withdraw almost completely, convinced that no one will really understand anyway. God’s healing does not leave us trapped in either pattern. He fills us first so that relationship can become connection rather than desperation.",
+            "Psalm 68 says that God sets the solitary in families. That kind of belonging is not merely external placement. God often builds a sense of inward home before He teaches us how to reconnect outwardly. When the heart begins to rest in Him, it no longer asks every relationship to carry impossible weight.",
+            "**When God fills the heart, it begins to love more freely instead of grasping more fearfully.** That does not mean you stop desiring companionship. It means companionship no longer has to function as your only source of life. You can move toward people with more honesty, more steadiness, and less desperation.",
+            "Today, ask God for one small step toward healthy connection. **A filled heart does not stop needing people, but it stops making them responsible for being God.** That is where love becomes freer, gentler, and more real."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You that You do not leave my emptiness untouched. You not only comfort me; You begin to rebuild me. Work within me so that I cling less fearfully, protect myself less rigidly, and stop asking people to be my final source of life. If You are leading me back toward connection, give me courage for one small step and wisdom to know where safety and truth can be found. Let me stand more steadily in Your love, and from that place learn to love again. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 68:6",
+              "book_code": "PSA",
+              "chapter": 68,
+              "verses": "6",
+              "translation": "KJV",
+              "text": "God setteth the solitary in families."
+            },
+            {
+              "display": "1 John 4:19",
+              "book_code": "1JN",
+              "chapter": 4,
+              "verses": "19",
+              "translation": "KJV",
+              "text": "We love him, because he first loved us."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

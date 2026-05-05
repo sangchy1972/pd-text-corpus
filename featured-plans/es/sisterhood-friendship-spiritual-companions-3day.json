@@ -1,0 +1,255 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI19",
+    "slug": "spiritual-companions",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles e Identidad",
+      "secondary": "sisterhood-friendship",
+      "secondary_label": "Hermandad y Amistad"
+    },
+    "tags": [
+      "amistad",
+      "hermandad",
+      "comunidad",
+      "celos",
+      "apoyo",
+      "afilarse"
+    ],
+    "title": "Compañeras Espirituales",
+    "subtitle": "El tipo de amistad que te ayuda a seguir adelante",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "anhelando amistad",
+        "sanando celos",
+        "buscando comunidad"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Estos tres días te ayudan a redescubrir la amistad como algo que puede verdaderamente calmar y nutrir el alma.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#D8C8E0",
+      "color_secondary": "#4A2C5A",
+      "image_key": "cover_two_women_walking_warm_evening",
+      "icon": "two-hands-clasped-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Eclesiastés 4:9-10",
+        "book_code": "ECC",
+        "chapter": 4,
+        "verses": "9-10"
+      },
+      {
+        "display": "Proverbios 27:17",
+        "book_code": "PRO",
+        "chapter": 27,
+        "verses": "17"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Todos necesitamos personas con quienes ser auténticos",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Eclesiastés 4:9-10",
+            "book_code": "ECC",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "Reina-Valera 1909",
+            "text": "Y si uno prevaleciere contra uno, dos le harán frente: y cordón de tres dobleces no se rompe pronto."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una de las cosas más preciosas de la amistad adulta no es simplemente tener a alguien con quien reír, sino tener a alguien ante quien no necesitas estar completamente arreglada. Conforme crecemos, muchos de nosotros nos volvemos hábiles en funcionar, explicar y mantenernos presentables. Sabemos cómo ser consideradas, espirituales, divertidas y útiles. Pero esas habilidades a veces esconden un dolor más tranquilo: muy pocas personas se sienten lo suficientemente seguras para nuestros pensamientos inacabados, nuestro dolor sin editar o nuestra confusión vulnerable.",
+            "Creo que muchas de nosotras conocemos la diferencia entre compañía y seguridad. Puedes estar rodeada de personas y aún sentirte profundamente sola si no hay un lugar donde tu verdadero ser sea bienvenido. A menudo, lo que más nos estabiliza no es consejo. Es la experiencia de ser recibida sin necesidad de demostrar fortaleza primero. Dios frecuentemente nos sostiene a través de ese tipo de compañía. Nos conforta a través de la Escritura y la oración, sí, pero también a través de una amiga que escucha sin prisa, permanece sin exigir perfección, y recuerda lo que nos importa.",
+            "El Eclesiastés dice que dos son mejores que uno, y Hebreos llama a los creyentes a avivarse mutuamente hacia el amor y las buenas obras. La compañía espiritual es más que hacer cosas cristianas juntas. Es la gracia de sentirse menos sola en las partes más profundas de tu vida. Una buena amiga hace la honestidad más posible. Ella no elimina la necesidad de Dios, pero frecuentemente te ayuda a regresar a Él más honestamente.",
+            "**La buena amistad hace la honestidad más fácil.** Da gracias a Dios hoy por cualquiera que haya sido esa clase de presencia en tu vida. Y si aún estás anhelando tal amistad, lleva ese anhelo a Dios también. Él sabe cuánto el alma necesita compañía segura."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias porque no me diseñaste para caminar sola. Ayúdame a apreciar las amistades que verdaderamente me acompañan, y dame más relaciones marcadas por la honestidad, la ternura y la fuerza mutua. También ilumina la comparación y el dolor que preferiría ocultar, para que no siga manteniéndome a través de la represión, sino que aprenda honestidad y limpieza ante Ti. Gracias porque no eres repelido por mi debilidad, sino que estás dispuesto a acercarte, apoyarme y seguir enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Eclesiastés 4:9-10",
+              "book_code": "ECC",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "Reina-Valera 1909",
+              "text": "Y si uno prevaleciere contra uno, dos le harán frente: y cordón de tres dobleces no se rompe pronto."
+            },
+            {
+              "display": "Hebreos 10:24-25",
+              "book_code": "HEB",
+              "chapter": 10,
+              "verses": "24-25",
+              "translation": "Reina-Valera 1909",
+              "text": "Y considerémonos los unos a los otros para provocarnos á caridad y á buenas obras; no dejando nuestra congregación, como algunos tienen por costumbre, sino exhortándonos; y tanto más, cuanto veis que aquel día se acerca."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Ser comprendida conforta más profundamente que la simple compañía",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Rut 1:16",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "16",
+            "translation": "Reina-Valera 1909",
+            "text": "Y Rut respondió: No me ruegues que te deje, y me vuelva de ti; porque a dondequiera que tú fueres, iré yo, y dondequiera que vivieres, viviré. Tu pueblo será mi pueblo, y tu Dios mi Dios."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "No toda compañía alcanza el corazón. Muchos de nosotros hemos experimentado estar ocupados socialmente y aún sintiéndose interiormente solos. Puede haber conversaciones, reuniones, mensajes y actividad, y aún así algo esencial permanece intacto. Lo que conforta más profundamente no es simplemente que alguien esté presente. Es que alguien entienda. Ellos conocen la diferencia entre tus respuestas educadas y tu fatiga real. Escuchan el dolor debajo de la frase. Recuerdan lo que ha sido pesado para ti.",
+            "Eso es parte de lo que hace hermosa la compañía de Rut. Su cuidado no fue llamativo. Ella se quedó. Permaneció cerca en una estación de dolor e incertidumbre. En la amistad adulta, esa clase de firmeza es rara y preciosa. Las personas pueden aparecer para momentos de alegría, pero no todas saben cómo permanecer en el cansancio, la pena, la confusión o el cambio.",
+            "Ser conocida conforta el alma de una manera que el ruido nunca puede. La actividad puede distraernos por una noche, pero el entendimiento da descanso. Restaura una sensación de ser sostenida en el corazón de otra persona. Creo que ese es uno de los dones tranquilos de Dios en la amistad. No siempre elimina nuestra soledad de inmediato, pero a veces la responde dándonos a alguien que sabe cómo permanecer lo suficientemente cerca para entender.",
+            "Esa clase de amistad no resuelve todos los dolores, pero evita que la soledad tenga la última palabra. Le permite al alma respirar nuevamente.",
+            "**La belleza de la amistad no es meramente aparecer, sino permanecer.** Pídele a Dios hoy por relaciones marcadas no solo por diversión y facilidad, sino por conocimiento real. Y pídele que forme ese mismo poder permanente en ti para otros."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, dame amistades que sepan cómo quedarse, y hazme también una amiga así. Que no solo tenga compañía, sino también la gracia de ser profundamente entendida. Si estoy anhelando ser conocida de esa manera ahora, cúbreme allí. Y si primero me estás enseñando a ser esa clase de amiga, dame paciencia, ternura y la voluntad de permanecer. Brilla tu luz en la comparación y el dolor que preferiría esconder, para que no siga manteniéndome a través de la represión, sino que aprenda honestidad y limpieza ante Ti. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Rut 1:16",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "16",
+              "translation": "Reina-Valera 1909",
+              "text": "Y Rut respondió: No me ruegues que te deje, y me vuelva de ti; porque a dondequiera que tú fueres, iré yo, y dondequiera que vivieres, viviré. Tu pueblo será mi pueblo, y tu Dios mi Dios."
+            },
+            {
+              "display": "Proverbios 17:17",
+              "book_code": "PRO",
+              "chapter": 17,
+              "verses": "17",
+              "translation": "Reina-Valera 1909",
+              "text": "En todo tiempo ama el amigo; y es hermano en el tiempo de la angustia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "Dios a menudo nos sostiene a través de la amistad",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Proverbios 27:17",
+            "book_code": "PRO",
+            "chapter": 27,
+            "verses": "17",
+            "translation": "Reina-Valera 1909",
+            "text": "Como el hierro con hierro se aguza; así el hombre aguza el rostro de su amigo."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A veces hablamos sobre la dependencia de Dios de una manera que deja muy poco espacio para la compañía humana, como si necesitar otras personas fuera automáticamente una señal de debilidad espiritual. Sin embargo, la Escritura no presenta la vida cristiana de esa manera. Gálatas nos llama a llevar los unos las cargas de los otros. Proverbios habla de los amigos afilándose mutuamente. Dios a menudo ministra a las personas directamente, pero también ministra a través de las personas.",
+            "La amistad espiritual no compite con Dios. Colabora con Su cuidado. Una buena amiga se sienta con el dolor sin apresurarlo a desaparecer. Te recuerda la verdad cuando tu propio corazón se ha puesto nebuloso. Ora por ti cuando ya no tienes muchas palabras. No se convierte en tu salvador, pero se convierte en una de las formas en que Dios te mantiene sin sentirte abandonada.",
+            "Muchas de nosotras podemos recordar una estación que no se hizo más fácil inmediatamente, pero se hizo más soportable porque alguien permaneció cerca. Eso no es evidencia de que nuestra fe fue débil. Puede ser evidencia de que Dios estaba siendo amable a través de manos humanas y presencia humana. No fuimos diseñadas para sobrevivir solo a través de fortaleza privada.",
+            "Cuando reconocemos esa bondad, la gratitud misma puede profundizar la amistad. Comenzamos a ver la compañía como uno de los dones elegidos de Dios, no meramente una agradable extra. También nos volvemos un poco menos orgullosas, porque recibir apoyo bien es su propia clase de humildad.",
+            "**A veces el cuidado de Dios llega con la cara de una amiga.** Dale gracias hoy por esa gracia donde la has recibido. Y pregúntale si te está invitando a convertirte en esa clase de presencia fortalecedora para alguien más."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias por sostener frecuentemente a las personas a través de la amistad. Gracias porque no me pides que sobreviva solo por fortaleza privada, y porque Tu consuelo tan a menudo viene en forma humana. Ayúdame a apreciar esa gracia, y hazme alguien que verdaderamente apoye a otros, permanezca cerca, y ayude a traerlos de vuelta a Ti. Si alguien a mi alrededor necesita ahora compañía fiel, dame sensibilidad y firmeza para caminar bien con ella. Limpia lo sensible, orgulloso, cauteloso o herido en mí dentro de la amistad. Ayúdame a hablar honestamente y escuchar tiernamente, para que esta relación pueda convertirse más plenamente en un lugar a través del cual Tu gracia pueda moverse. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Proverbios 27:17",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "17",
+              "translation": "Reina-Valera 1909",
+              "text": "Como el hierro con hierro se aguza; así el hombre aguza el rostro de su amigo."
+            },
+            {
+              "display": "Gálatas 6:2",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "2",
+              "translation": "Reina-Valera 1909",
+              "text": "Sobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

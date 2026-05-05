@@ -1,0 +1,508 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI03",
+    "slug": "becoming-who-god-says",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "daughter-of-god",
+      "secondary_label": "Tochter Gottes"
+    },
+    "tags": [
+      "identitaet",
+      "zugehoerigkeit",
+      "tochter-gottes",
+      "selbstwert",
+      "etiketten",
+      "vergleich"
+    ],
+    "title": "Zu werden, wer Gott über dich sagt",
+    "subtitle": "Heilung von Perfektionismus, Menschenergefallen und Selbstzweifel",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "nach Identität suchend",
+        "des Vergleichens müde",
+        "sehnsüchtig erkannt zu werden"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese sieben Tage führen dich tiefer durch Menschenergefallen, Perfektionismus und das chronische Gefühl der Unzulänglichkeit, und helfen dir, stabiler, ehrlicher und tiefer in der Identität zu werden, die Gott für dich aussagt.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#E8C5D8",
+      "color_secondary": "#5A2B47",
+      "image_key": "cover_woman_quiet_morning_window_belonging",
+      "icon": "open-hands-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Römer 12:2",
+        "book_code": "ROM",
+        "chapter": 12,
+        "verses": "2"
+      },
+      {
+        "display": "2. Korinther 5:17",
+        "book_code": "2CO",
+        "chapter": 5,
+        "verses": "17"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Ich habe mich gewöhnt, mich durch Leistung zu erklären",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Römer 12:2",
+            "book_code": "ROM",
+            "chapter": 12,
+            "verses": "2",
+            "translation": "Lutherbibel 1912",
+            "text": "Und stellet euch nicht dieser Welt gleich, sondern werdet verwandelt durch die Erneuerung eures Sinnes..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wir sprechen nicht immer direkt darüber, dass wir \"durch Leistung leben\".",
+            "Manchmal sieht es einfach nur aus wie Verantwortlichkeit, Zuverlässigkeit, Disziplin, Freundlichkeit, emotionale Stabilität und Fleiß. An der Oberfläche kann es sogar Reife ähneln. Aber was diese Lebensweise so erschöpfend macht, ist der innere Druck dahinter. Wir tun nicht nur unser Bestes. Wir nutzen unsere Anstrengung leise, um uns selbst zu erklären. Wenn ich gut abschneide, fühle ich mich sicherer. Wenn ich nützlich bleibe, fühle ich mich geschützter. Wenn ich Menschen enttäusche, beginnt etwas in mir zu bangen.",
+            "Deshalb erschöpft diese Art des Strebens die Seele. Es geht nicht nur um Arbeit. Es geht um Identität. Der Römerbrief sagt, dass wir uns nicht dieser Welt gleich machen sollen, sondern dass wir uns wandeln lassen durch die Erneuerung unseres Sinnes. Ein Teil dieser Erneuerung besteht darin, zu lernen, Leistung nicht als Antwort auf die Frage \"Wer bin ich?\" stehen zu lassen. Die Welt lehrt uns, Selbstverständnis aus sichtbaren Erfolgen, Zustimmung und Ergebnissen aufzubauen. Gott beginnt tiefer als das. Er lehrt uns, uns selbst von einer neuen Mitte aus zu sehen.",
+            "Ich denke, viele von uns kennen die Müdigkeit, zu versuchen, eine Version unserer selbst aufrechtzuerhalten, die immer annehmbar wirken muss. Aber Christus beginnt nicht mit Anklage. Er beginnt mit Einladung. Du musst dich nicht länger durch Leistung erklären.",
+            "**Erneuerung beginnt oft, wenn Leistung aufhört, unsere Hauptantwort auf die Frage zu sein, wer wir sind.** Frag heute ehrlich: Wenn ich nicht gut abschneide, was fürchte ich, zu verlieren? Lass die Antwort ans Licht kommen. Gott versucht nicht, diese Furcht zu beschämen. Er versucht, sie zu heilen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe, dass ich mich oft durch Leistung selbst erkläre. Wenn ich gut abschneide, bin ich beruhigter, und wenn ich versage, beginne ich, mich selbst zu bezweifeln. Erneuere meinen Sinn, und befreie mich davon, unter den Maßstäben dieser Welt zu leben. Zeige mir, was ich wirklich zu verlieren fürchte, und bringe diese Furcht ins Licht. Danke dir, dass du mich nicht durch Ergebnisse definierst. Du sagst, dass ich dein Werk bin, von deinen Händen gemacht. Lehre mich, mich selbst von diesem Ort aus zu erkennen. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Römer 12:2",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "2",
+              "translation": "Lutherbibel 1912",
+              "text": "Und stellet euch nicht dieser Welt gleich, sondern werdet verwandelt durch die Erneuerung eures Sinnes..."
+            },
+            {
+              "display": "Epheser 2:10",
+              "book_code": "EPH",
+              "chapter": 2,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn wir sind sein Werk, geschaffen in Christus Jesus zu guten Werken..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Warum fürchte ich mich so, Menschen zu enttäuschen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Galater 1:10",
+            "book_code": "GAL",
+            "chapter": 1,
+            "verses": "10",
+            "translation": "Lutherbibel 1912",
+            "text": "Denn gefalle ich jetzt Menschen oder Gott? Oder suche ich Menschen zu gefallen?... Wäre ich noch ein Knecht Christi, so würde ich Menschen gefallen wollen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Menschen sind müde, nicht weil sie faul sind, sondern weil sie tiefe Angst vor Enttäuschung haben.",
+            "Wir lernen schnell, den Raum zu lesen, uns selbst zu besänftigen, Spannungen aufzunehmen, Emotionen zu steuern und sicherzustellen, dass alles stabil bleibt. Mit der Zeit sieht Menschenergefallen nicht immer dramatisch aus. Es kann aussehen wie Rücksicht, einfach zu handhaben, emotional bewusst und endlos zuvorkommend. Aber darunter gibt es oft eine stille Furcht: Wenn ich damit aufhöre, werde ich immer noch geliebt? Werde ich mich immer noch sicher fühlen? Gehöre ich immer noch dazu?",
+            "Galater 1 stellt eine scharfe, aber wichtige Frage: Gefalle ich Menschen oder Gott? Diese Frage reicht unter das Verhalten hinaus und in die Abhängigkeit. Viele Formen von Menschenergefallen werden nicht durch Eitelkeit, sondern durch Furcht angetrieben. Furcht vor Ablehnung. Furcht vor Konflikt. Furcht vor Missverständnis. Furcht davor, weniger wichtig zu werden für die Menschen, die wir lieben. Christus enthüllt diese Furcht nicht, um uns zu beschämen. Er bringt sie ins Licht, damit wir nicht länger unsere Identität darauf aufbauen müssen, wie alle reagieren.",
+            "Vielleicht ist der schwierigste Teil, zuzugeben, wie sehr unser Frieden davon abhängt, dass alle Menschen zufrieden sind. Aber Gott ist geduldig mit uns dort. Er verlangt zuerst nicht nach Härte. Er bietet Sicherheit an. In seiner Liebe werden wir langsam freier, ehrlich zu sein, Grenzen zu setzen und geliebt zu bleiben, ohne uns endlos nützlich zu machen.",
+            "**Menschenergefallen ist oft weniger davon, andere gut zu lieben, und mehr davon, den Verlust von Liebe zu fürchten.** Frag dich heute: Wessen Enttäuschung schmerzt am meisten, und warum? Lass diese Frage aufdecken, worauf sich dein Herz verlassen hat. Nicht, damit du dich anklagst, sondern damit Gott dich dort treffen kann."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe, dass ich Angst habe, Menschen zu enttäuschen. Oft richte ich mich zunächst nach den Gefühlen anderer, ihren Reaktionen und ihrer Zustimmung aus, als wäre das der Ort meiner Sicherheit. Hilf mir, ehrlich zu sehen, was ich so sehr zu verlieren fürchte. Führe mich aus der Schlinge der Menschenfurcht heraus, und lehre mich, meinen Frieden nicht an die Reaktionen aller zu binden. Danke dir, dass du mich nicht liebst, weil ich alle zufriedenstelle. Lass deine Liebe meine neue Sicherheit werden. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Galater 1:10",
+              "book_code": "GAL",
+              "chapter": 1,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn gefalle ich jetzt Menschen oder Gott? Oder suche ich Menschen zu gefallen?... Wäre ich noch ein Knecht Christi, so würde ich Menschen gefallen wollen."
+            },
+            {
+              "display": "Sprüche 29:25",
+              "book_code": "PRO",
+              "chapter": 29,
+              "verses": "25",
+              "translation": "Lutherbibel 1912",
+              "text": "Menschenfurcht bringt in die Schlinge; wer aber auf den Herrn vertraut, wird beschützt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Perfektionismus ist oft nur eine andere Form von Furcht",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "2. Korinther 12:9",
+            "book_code": "2CO",
+            "chapter": 12,
+            "verses": "9",
+            "translation": "Lutherbibel 1912",
+            "text": "Er sprach zu mir: Meine Gnade ist dir genug, denn meine Kraft ist in Schwachheit mächtig..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Perfektionismus sieht aus wie hohe Standards, aber darunter liegt gewöhnlich hohe Angst.",
+            "Wir sagen uns selbst, dass wir einfach tief kümmern, Dinge gut machen wollen, besser werden wollen, verantwortlich sein wollen. Nichts davon ist falsch. Aber wenn selbst kleine Fehler uns in Schande stürzen, wenn Unsicherheit uns unruhig macht, und wenn Unvollkommenheit sich fast unerträglich anfühlt, geschieht etwas Tieferes. Wir versuchen nicht nur, gut zu sein. Wir versuchen, uns selbst zu schützen vor dem, was Scheitern zu bedeuten scheint.",
+            "Der zweite Korintherbrief bietet eine radikal andere Art von Sicherheit. Gott sagt: \"Meine Gnade ist dir genug, denn meine Kraft ist in Schwachheit mächtig.\" Wir hören oft das Wort \"vollkommen\" und stellen uns Fehlerlosigkeit vor. Aber Gottes Idee von Vollkommenheit ist nicht unsere Unfehlbarkeit. Sie ist seine Kraft, die uns in unseren Grenzen trifft. Das ist ein sehr anderer Weg zu leben. Perfektionismus hält die Seele in Spannung. Gnade lehrt die Seele zu atmen.",
+            "Ich denke, viele von uns kennen das Gefühl, etwas vernünftig gut zu tun und immer noch nicht ruhen zu können. Wir versuchen erneut das Gespräch, überarbeiten die Arbeit, spielen den Moment erneut ab, und schelten uns selbst lange, nachdem alle anderen weitergezogen sind. Perfektionismus schafft nicht wirklich Frieden. Er trainiert uns nur, mehr Kontrolle zu nutzen.",
+            "**Gott bietet uns nicht ein Leben ohne Risse. Er bietet uns ein Leben, das durch Gnade zusammengehalten wird, sogar in unserer Schwachheit.** Heute bemerke, was dieses \"Ich kann das nicht falsch machen\"-Gefühl am stärksten ausgelöst hat. Frag, was du fürchtest, würde passieren, wenn du dort unvollkommen wärst. Manchmal ist das Benennen der Furcht, wie wir anfangen, Gnade zu empfangen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe, dass ich oft in einer Spannung lebe, nicht falsch machen zu dürfen. Ich glaube ständig, dass ich mit mehr Perfektion sicherer werde, und dass ich ohne Mängel weniger Angst habe. Aber heute erinnerst du mich, dass du nie verlangt hast, dass ich Frieden durch Makellosigkeit finde. Danke dir, dass du mein Wesen kennst und dich erinnern lässt, dass ich Staub bin. Lehre mich, mich nicht mehr durch Kontrolle und Perfektion zu halten, sondern mich in meiner Schwachheit mehr auf deine Gnade zu verlassen. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "2. Korinther 12:9",
+              "book_code": "2CO",
+              "chapter": 12,
+              "verses": "9",
+              "translation": "Lutherbibel 1912",
+              "text": "Er sprach zu mir: Meine Gnade ist dir genug, denn meine Kraft ist in Schwachheit mächtig..."
+            },
+            {
+              "display": "Psalm 103:14",
+              "book_code": "PSA",
+              "chapter": 103,
+              "verses": "14",
+              "translation": "Lutherbibel 1912",
+              "text": "Denn er kennt unser Gesetz, er denkt daran, dass wir Staub sind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Was fürchte ich wirklich zu verlieren, wenn ich mich unzulänglich fühle",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 23:1",
+            "book_code": "PSA",
+            "chapter": 23,
+            "verses": "1",
+            "translation": "Lutherbibel 1912",
+            "text": "Der Herr ist mein Hirte, mir wird nichts Böses geschehen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Das Gefühl, nicht genug zu sein, ist oft nicht die Schlussfolgerung. Es ist die Tür.",
+            "Wenn wir sagen, dass wir nicht schön genug, fähig genug, geistig genug, gewählt genug oder liebbar genug sind, kann es wie einfache Selbsteinschätzung klingen. Aber darunter gibt es gewöhnlich etwas Tieferes: Furcht davor, nicht gewünscht zu sein, nicht gewählt zu sein, nicht festgehalten zu werden, Furcht, dass selbst unser Bestes mich nie wirklich würdig machen würde. Das ist ein Teil davon, warum Unzulänglichkeit sich so hartnäckig anfühlen kann. Es geht selten nur um Mängel. Es geht oft um Verlust.",
+            "Psalm 23 sagt: \"Der Herr ist mein Hirte, mir wird nichts Böses geschehen.\" Das ist keine oberflächliche Versicherung. Es ist eine Umdefinition von Mangel. Unser Instinkt ist es oft, Unzulänglichkeit dadurch zu beantworten, dass wir nach außen nach etwas suchen, das sie schließlich besänftigt. Aber Gott führt uns zuerst in die Beziehung zurück. Die tiefste Antwort auf unseren Mangel ist nicht immer mehr Besitz, mehr Zustimmung oder mehr Beweis. Sie ist zu wissen, wer uns führt, wer uns hält und wer uns kostbar nennt.",
+            "Ein wichtiger Schritt ist, nicht zu schnell mit dem Gefühl zu argumentieren. Höre darauf. Was hat es Angst? Was denkt es, wird verloren gehen, wenn du nicht genug bist? Christus wird von diesen Fragen nicht bedroht. Sehr oft ist es gerade dort, an den zerbrechlichsten Stellen, dass sein Trost am persönlichsten wird.",
+            "**Viel von unserer Unzulänglichkeit sagt wirklich: Ich fürchte, ich bin vielleicht nicht würdig, geliebt zu werden.** Heute, wenn dieses Gefühl aufsteigt, beeile dich nicht, es zum Schweigen zu bringen. Stelle eine Frage darunter: Wenn ich wirklich nicht genug wäre, was würde ich verlieren? Erzähl Gott dann die Antwort. Das könnte der Ort sein, an dem er dich am zartesten treffen will."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe, dass die Worte \"Ich bin nicht genug\" oft nah bei meinem Herzen wohnen. Heute, hilf mir, nicht nur auf der Oberfläche zu bleiben. Zeige mir die tiefere Furcht unter diesem Gefühl. Vielleicht fürchte ich nicht nur Mangel, sondern dafür nicht geliebt, nicht gewählt oder nicht geschätzt zu werden. Danke dir, dass du mich nicht aus der Ferne kämpfen siehst. Du bist bereit, die verwundbarsten Orte in mir zu betreten. Sprich zu mir dort erneut, und lass mich wissen, dass mein Mangel deine Liebe nicht verneinen kann. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 23:1",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Herr ist mein Hirte, mir wird nichts Böses geschehen."
+            },
+            {
+              "display": "Zephanja 3:17",
+              "book_code": "ZEP",
+              "chapter": 3,
+              "verses": "17",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Herr, dein Gott, ist in deiner Mitte, ein Starker, der rettet. Er wird sich über dich freuen mit Freuden..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Gottes Sicht von mir ist wahrer als meine eigene",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jeremia 17:9",
+            "book_code": "JER",
+            "chapter": 17,
+            "verses": "9",
+            "translation": "Lutherbibel 1912",
+            "text": "Das Herz ist trügerischer als alles andere und ist verdorben; wer kann es verstehen?"
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wir vertrauen unserer inneren Kritiker oft mehr, als wir realisieren.",
+            "Ihre Stimme ist vertraut. Sie sagt uns, dass wir nicht stabil genug sind, nicht attraktiv genug, nicht gewünscht genug, nicht erwachsen genug, nicht hell genug, nicht sicher genug, um tief geliebt zu werden. Wir hören sie so oft, dass sie wie Unterscheidung klingt. Aber Jeremia erinnert uns, dass das Herz nicht immer ein zuverlässiger Interpreter der Wahrheit ist. Das bedeutet nicht, dass wir uns selbst verachten sollten. Es bedeutet, dass unsere härteste Selbstbewertung nicht automatisch die genaue ist.",
+            "Wenn wir nur der verurteilendsten Stimme in uns zuhören, werden wir kämpfen, frei zu leben. Die Schrift gibt uns eine andere Stimme, neben die wir sie stellen können. Der erste Petrusbrief sagt, dass wir ein auserwähltes Geschlecht, eine königliche Priesterschaft, ein heiliges Volk, ein Eigentumsvolk sind. Gottes Sicht von uns ist nicht sentimentale Übertreibung. Sie ist Wahrheit, die in Christus gesprochen wurde. Und weil sie Wahrheit ist, hat sie die Kraft, unsere falschen Selbstdefinitionen herauszufordern.",
+            "Manchmal ist Wachstum nicht endlich von uns selbst zu denken. Es ist zu lernen, dass Gott uns besser versteht als wir. Er sieht unsere Schwachheiten ohne sich abzuwenden. Er sieht unsere Würde ohne Schmeichelei. Er kennt sowohl unseren Staub als auch unsere Berufung.",
+            "**Freiheit beginnt oft nicht, wenn wir uns selbst bewundern, sondern wenn wir Gott mehr vertrauen, uns wahrer zu kennen.** Heute, bemerke den Satz, den dein innerer Kritiker am häufigsten nutzt. Dann stelle ihn neben das, was Gott sagt. Lass sein Wort schwerer werden als deine Anklage."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe, dass ich der kritischen Stimme in mir oft mehr traue als deinem Herzen über mich. Rette mich vor diesen vertrauten doch unwahrshaftigen Selbstdefinitionen. Danke dir, dass du in Christus tiefere, stabilere und wahre Worte zu mir sprichst. Lehre mich, zu glauben, dass du mich besser kennst als ich mich selbst, und dass du weißt, wie du mich und mich führst, treuer als ich. Halte mich davon ab, in meiner eigenen Anklage zu leben, und lass mich langsam in die Identität hineinleben, die du schon ausgesprochen hast. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jeremia 17:9",
+              "book_code": "JER",
+              "chapter": 17,
+              "verses": "9",
+              "translation": "Lutherbibel 1912",
+              "text": "Das Herz ist trügerischer als alles andere und ist verdorben; wer kann es verstehen?"
+            },
+            {
+              "display": "1. Petrus 2:9",
+              "book_code": "1PE",
+              "chapter": 2,
+              "verses": "9",
+              "translation": "Lutherbibel 1912",
+              "text": "Ihr aber seid ein auserwähltes Geschlecht, eine königliche Priesterschaft, ein heiliges Volk, ein Eigentumsvolk..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "In Gottes Liebe haben wir den Platz, um langsam zu wachsen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Johannes 4:19",
+            "book_code": "1JN",
+            "chapter": 4,
+            "verses": "19",
+            "translation": "Lutherbibel 1912",
+            "text": "Wir lieben, weil er zuerst uns geliebt hat."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal stellen wir uns Wachstum vor wie ein Review.",
+            "Es ist, als wäre geistliches Wachstum ein ständiges Finden von Problemen, kontinuierliche Verbesserung und immer besser werden. Aber wenn Wachstum nur mit Druck verbunden ist, wird das Herz leicht immer angespannter, sogar wenn wir vor Gott kommen, kann es sich mit verhehlter Vorsicht anfühlen, in Angst, nicht gut genug zu sein, in Angst, dass wir noch so viel nicht verändert haben. Dieses Wachstum mag Ergebnisse haben, aber es fehlt oft echter Ruhe.",
+            "Der erste Johannesbrief sagt: \"Wir lieben, weil er zuerst uns geliebt hat.\" Die Reihenfolge ist wirklich wichtig. Gott wartet nicht, bis wir liebenswert, reif und stabil werden, bevor er seine Liebe gibt. Er liebt zuerst, und in dieser Liebe lernen wir zu wachsen. In menschlichem Leben macht Sicherheit Wachstum möglich. Ein Kind wächst am besten dort, wo sie sicher gehalten wird. Das Gleiche ist spirituell wahr. Veränderung vertieft sich dort, wo Liebe vertraut wird.",
+            "Ich bin zunehmend davon überzeugt, dass Gottes Liebe nicht der Preis für Wachstum ist. Sie ist die Umgebung, in der Wachstum geschieht. Wir werden nicht unter kalten Erwartungen vorwärts gezwungen. Wir werden in der Fürsorge eines Vaters geformt. Das macht uns nicht nachlässig. Es macht uns ehrlich. Wir müssen nicht mehr vorspiegeln, und unser Scheitern muss sich nicht mehr wie endgültiger Beweis gegen unsere Identität anfühlen.",
+            "**Was uns am tiefsten wachsen lässt, ist nicht konstante Spannung, sondern Ehrlichkeit in Sicherheit.** Heute, verlangsame den Drang, dich selbst zu verbessern für einen Moment, und bete stattdessen: Herr, hilf mir, deine Liebe tiefer zu kennen. Oft, wenn Liebe glaubwürdiger wird, wird Veränderung auch möglich."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich lebe Wachstum oft wie einen Druck, als würde ich, wenn ich genug versuche, genug schnell verändere und genug geistig bin, würdiger fühlen, mich an dir zu erfreuen. Lehre mich erneut, was es bedeutet, in Liebe zu wachsen. Danke dir, dass du nicht wartest, bis ich besser bin, um mich zu lieben. Du liebst mich zuerst, und gestaltest mich dann langsam in dieser Liebe. Mach deine Liebe in mir realer, damit ich nicht länger vorwärts durch Spannung dränge, sondern Ehrlichkeit und Wachstum in Sicherheit lerne. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Johannes 4:19",
+              "book_code": "1JN",
+              "chapter": 4,
+              "verses": "19",
+              "translation": "Lutherbibel 1912",
+              "text": "Wir lieben, weil er zuerst uns geliebt hat."
+            },
+            {
+              "display": "Epheser 3:17-19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "17-19",
+              "translation": "Lutherbibel 1912",
+              "text": "... dass ihr in der Liebe gewurzelt und gegründet seid ... und die Liebe Christi kennenlernet, die Erkenntnis übersteigt..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "In der Identität Gottes leben, nicht in der Furcht, wer ich nicht bin",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "2. Korinther 5:17",
+            "book_code": "2CO",
+            "chapter": 5,
+            "verses": "17",
+            "translation": "Lutherbibel 1912",
+            "text": "Darum, wenn jemand in Christus ist, so ist er eine neue Schöpfung; das Alte ist vergangen, siehe, alles ist neu geworden."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Am siebten Tag können alte Stimmen immer noch zurückkehren.",
+            "Vergleich kann immer noch besuchen. Menschenergefallen kann immer noch wiederkehren. Perfektionismus kann immer noch in bestimmten Momenten zugreifen. Das Gefühl, nicht genug zu sein, wird nicht einfach verschwinden, weil sieben Tage vorbei sind. Aber Gott versucht nicht, uns zu Frauen zu machen, die nie wanken. Er gibt uns eine neue Mitte, etwas Tieferes als externe Zustimmung, stabiler als Selbstzweifel und dauerhafter als alte Gewohnheiten.",
+            "Der zweite Korintherbrief sagt, dass wenn jemand in Christus ist, sie ein neues Wesen ist. Neuheit bedeutet nicht immer, dass deine Emotionen sofort aufgeholt haben oder dass alte Muster über Nacht verschwinden. Oft bedeutet es, dass eine neue Identität bereits gegeben wurde, und jetzt verbringen wir Zeit zu lernen, wie sie zu leben ist. Wir stoppen, hauptsächlich von dem zu leben, was wir fürchten nicht zu sein, und beginnen, von dem zu leben, das Gott bereits als wahr ausgesprochen hat.",
+            "Ich denke daran, dass dies eine wachsende Freiheit ist. Die alte Stimme kann immer noch kommen, aber sie klingt nicht mehr endgültig. Wir beginnen, sie schneller zu erkennen. Wir erinnern uns, dass Gott etwas Wahreres gesagt hat. Er hat gesagt, dass wir sein sind, mit Namen bekannt, erwählt in Christus und in Liebe geformt.",
+            "**Identitätserneuerung schweigt nicht immer die alte Stimme sofort zum Schweigen, aber sie macht Gottes Stimme mit der Zeit gewichtiger.** Also ist das Ende dieser Reise nicht \"Ich bin vollständig geheilt.\" Es ist dies: Ich weiß, wohin ich zurückkehre, wenn mein Herz verunsichert ist. Das ist keine kleine Gnade. Von hier an, mögen wir weiter lernen, nicht von unserer tiefsten Furcht zu leben, sondern von der stabileren Wahrheit, die Gott bereits ausgesprochen hat."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke dir, dass du mich diese sieben Tage Schritt für Schritt zu dir zurückgebracht hast. Obwohl ich weiß, dass alte Stimmen nicht sofort verschwinden, und alte Gewohnheiten zurückkehren können, danke dir, dass du mir eine neue Mitte gibst. Danke dir, dass du in Christus bereits eine neue Identität gegeben hast, und dass du geduldig bereit bist, mich zu lehren, wie ich in sie hineinlebe. Mache deine Stimme in mir gewichtiger, damit ich immer schneller erinnere, wenn mich Vergleich, Menschenergefallen, Perfektionismus und Unzulänglichkeit wegziehen, dass ich dir gehöre. Möge ich von heute an nicht hauptsächlich von dem leben, das ich fürchte nicht zu sein, sondern langsam von dem leben, das du über mich ausgesprochen hast. Im Namen Jesu, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "2. Korinther 5:17",
+              "book_code": "2CO",
+              "chapter": 5,
+              "verses": "17",
+              "translation": "Lutherbibel 1912",
+              "text": "Darum, wenn jemand in Christus ist, so ist er eine neue Schöpfung; das Alte ist vergangen, siehe, alles ist neu geworden."
+            },
+            {
+              "display": "1. Johannes 3:1",
+              "book_code": "1JN",
+              "chapter": 3,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Sehet, welch eine Liebe hat uns der Vater erzeiget, dass wir Gottes Kinder heißen sollen!... Wir sind Gottes Kinder."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "PR01",
+    "slug": "rhythms-of-prayer",
+    "category": {
+      "primary": "walking-with-god",
+      "primary_label": "Caminando con Dios",
+      "secondary": "draw-near",
+      "secondary_label": "Acercarse a Dios"
+    },
+    "tags": [
+      "acercarse-a-dios",
+      "disciplina-espiritual",
+      "intimidad-con-dios",
+      "practica-antigua",
+      "oracion",
+      "ritmos",
+      "padrenuestro",
+      "intimidad"
+    ],
+    "title": "Aprender a Orar de Nuevo: 7 Días para Reconstruir una Vida de Oración",
+    "subtitle": "La oración es una invitación a volver a casa, a conocer a Dios como realmente es.",
+    "audience": {
+      "life_stage": [
+        "mujeres adultas",
+        "cualquier edad"
+      ],
+      "emotional_state": [
+        "buscando a Dios",
+        "con curiosidad espiritual",
+        "anhelando intimidad"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "La oración es una invitación a volver a casa, a conocer a Dios como realmente es.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture_focus → teaching → additional_scriptures → prayer",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#D4C5E8",
+      "color_secondary": "#4A3A6B",
+      "image_key": "cover_woman_kneeling_morning_window_quiet",
+      "icon": "open-hands-and-light-circle"
+    },
+    "hook": {
+      "heading": "Por qué este plan",
+      "paragraphs": [
+        "Muchas personas que crecieron orando han dejado la costumbre. Quizás la oración se convirtió en algo hueco, o la vida se volvió tan caótica que la oración desapareció. O simplemente, como sucede con muchos hábitos santos, la oración fue olvidada.",
+        "En estos 7 días, vamos a reconstruir juntas una vida de oración. No es complicado, y no requiere palabras perfectas. La oración es simplemente acercarse al Padre con la verdad de quiénes somos, tal como somos."
+      ]
+    },
+    "key_verses": [
+      {
+        "display": "Mateo 6:5-7",
+        "book_code": "MAT",
+        "chapter": 6,
+        "verses": "5-8"
+      },
+      {
+        "display": "Jeremías 29:11-13",
+        "book_code": "JAS",
+        "chapter": 5,
+        "verses": "16"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "La Oración es Relación, no Actuación",
+      "subtitle": "La oración verdadera no es para ser vista, sino para ser vivida en secreto.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Mateo 6:5-7",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "5-8",
+            "translation": "Reina-Valera 1909",
+            "text": "Y cuando ores, no seas como los hipócritas; que aman el pararse en las sinagogas y en las esquinas de las plazas, orando para ser vistos de los hombres; de cierto os digo que ya tienen su recompensa. Mas tú, cuando ores, entra en tu aposento, y cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará. Y orando, no uséis vanas repeticiones, como los gentiles, que piensan que por su palabrería serán oídos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Quizás alguna vez oraste con más naturalidad. Quizás cuando eras niña, la oración era tan simple como hablar con alguien a quien amabas. Pero luego algo cambió. La oración se convirtió en palabras vacías, o en la voz de otra persona en tu cabeza, o simplemente desapareció bajo el peso de los días ocupados.",
+            "Lee Mateo 6:5-7 lentamente.",
+            "**\"Tu Padre que ve en lo secreto te recompensará.\"**",
+            "Observa lo que Jesús rechaza en estos versículos. No rechaza la oración pública en sí. Rechaza el corazón que busca ser visto. Hay una gran diferencia. La oración verdadera no es sobre sonar bien o saber el lenguaje religioso correcto. Es simplemente estar presente con Dios, con la verdad de quién eres y qué necesitas. En los próximos días, vamos a recuperar esa familiaridad. Vamos a aprender a orar de nuevo, no como actrices en un escenario, sino como hijas que hablan con su Padre.",
+            "Hace años, una mujer en nuestra iglesia me dijo: \"Solía orar cada mañana, pero he olvidado cómo hacerlo. Mis palabras se sienten falsas.\" Nos sentamos juntas, y le pregunté: \"¿Qué dirías a tu mejor amiga si necesitaras hablar?\" Ella sonrió. \"Simplemente hablaría,\" dijo. \"Eso es oración,\" le respondí. **La oración no necesita ser perfecta. Solo necesita ser verdadera.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Salmo 139:1-2",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Oh Jehová, tú me has escudriñado, y conocido. Tú has conocido mi sentarme y mi levantarme; has entendido desde lejos mis pensamientos."
+            },
+            {
+              "display": "1 Tesalonicenses 5:17",
+              "book_code": "JAS",
+              "chapter": 4,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Orad sin cesar."
+            },
+            {
+              "display": "Filipenses 4:6-7",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Por nada estéis afanosos; antes bien en toda ocasión, sean conocidas vuestras peticiones delante de Dios en oración y ruego, con hacimiento de gracias. Y la paz de Dios, que sobrepuja todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre celestial, te agradezco que no requieras palabras perfectas. Te agradezco que tú conozcas el significado de cada suspiro, cada pregunta sin resolver, cada anhelo que no tenemos palabras para expresar. Abre nuevamente mi corazón a la simplicidad de la oración. Enséñame a hablar contigo como lo hice cuando era más joven, sin pretensión, solo verdad. Si mis palabras son torpes, que no importe. Si mi fe es pequeña, que no importe. Que importe que estoy aquí, contigo. En el nombre de Jesús, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "Jesús Enseña a sus Discípulos a Orar",
+      "subtitle": "La oración es más simple de lo que creemos.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Mateo 6:9-13",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "6",
+            "translation": "Reina-Valera 1909",
+            "text": "Vosotros pues oraréis así: Padre nuestro que estás en los cielos, santificado sea tu nombre. Venga tu reino. Hágase tu voluntad, como en el cielo, así también en la tierra. El pan nuestro de cada día, dánoslo hoy. Y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores. Y no nos metas en tentación, mas líbranos del mal; porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. Amén."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Mateo 6:9-13 nos da lo que se llama la Oración del Señor. No es una fórmula mágica para repetir una y otra vez. Es un patrón, una forma de pensar sobre la oración que Jesús enseñó a sus discípulos cuando le pidieron que les mostrara cómo orar.",
+            "Lee Mateo 6:9-13 con atención.",
+            "**Observa cómo Jesús comienza con el nombre y el carácter de Dios, luego pide que se haga su voluntad antes de pedir por nuestras propias necesidades.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Lucas 11:1-2",
+              "book_code": "MRK",
+              "chapter": 1,
+              "verses": "35",
+              "translation": "Reina-Valera 1909",
+              "text": "Aconteció que estaba orando en un lugar, y cuando cesó, uno de sus discípulos le dijo: Señor, enséñanos a orar, como también Juan enseñó a sus discípulos. Y les dijo: Cuando oréis, decid: Padre nuestro que estás en los cielos, santificado sea tu nombre."
+            },
+            {
+              "display": "Juan 17:20-21",
+              "book_code": "LUK",
+              "chapter": 5,
+              "verses": "16",
+              "translation": "Reina-Valera 1909",
+              "text": "Mas no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos; para que todos sean uno; como tú, oh Padre, en mí, y yo en ti, que también ellos sean en nosotros uno."
+            },
+            {
+              "display": "Colosenses 4:2",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "Perseverad en la oración, velando en ella con hacimiento de gracias."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre nuestro, que estás en el cielo, ¡cuán necesitadas estamos de aprender a orar de nuevo! Muéstrame cómo empezar cada oración con quién eres tú, no con lo que necesito. Enséñame a buscar tu Reino primero. Enséñame a perdonar como tú me has perdonado. Y cuando llegue la tentación, mantén mi corazón cercano a ti. Porque tuya es la gloria, el poder y el Reino, por los siglos. Amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "David Ora en la Desesperación",
+      "subtitle": "La oración no tiene que sonar bien. Solo tiene que ser honesta.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Salmo 142:1-3",
+            "book_code": "MAT",
+            "chapter": 6,
+            "verses": "9-13",
+            "translation": "Reina-Valera 1909",
+            "text": "Con mi voz clamé a Jehová; con mi voz oré a Jehová. Derramé delante de él mi oración, y denuncié delante de él mi angustia. Cuando mi espíritu se angustiaba dentro de mí, tú conociste mi senda."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "David es conocido como un hombre conforme al corazón de Dios, pero no porque nunca haya dudado o clamado en agonía. Los Salmos están llenos de su desesperación, su rabia, su confusión. Y aun así, Dios lo llamó su siervo. David nos enseña que la oración honesta es más valorada que la oración pulida.",
+            "Lee el Salmo 142 lentamente.",
+            "**\"Clamo a ti, Jehová; digo: Tú eres mi refugio, mi porción en la tierra de los vivientes.\"**",
+            "Observa la honestidad brutal de David en este Salmo. Dice que se siente abandonado. Dice que su perseguidor es más fuerte. Dice que no tiene a nadie. Y luego, en medio de toda esa desesperación, clama a Dios. No espera a sentirse mejor primero. No espera a que las circunstancias cambien. Simplemente abre su boca y le habla a Dios con la verdad de su corazón. Eso es lo que Dios busca en la oración: la verdad de nuestro corazón.",
+            "Una vez, una madre que había perdido a su hijo hace tres años me contó que había dejado de orar. \"No puedo rezar como si nada sucediera,\" me dijo. Leímos a David juntas, y ella escribió su propio Salmo de dolor. No fue hermoso. Fue desgarrador. Pero cuando terminó, me dijo: \"Ahora puedo hablar con Dios de nuevo.\" **La oración honesta es siempre el camino de regreso a Dios.**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Salmo 22:1-2",
+              "book_code": "LUK",
+              "chapter": 11,
+              "verses": "1-4",
+              "translation": "Reina-Valera 1909",
+              "text": "Dios mío, Dios mío, ¿por qué me has desamparado? ¿Por qué estás lejos de mi salvación, de las palabras de mi clamor? Dios mío, clamo de día, y no respondes; y de noche, y no hay para mí reposo."
+            },
+            {
+              "display": "Lamentaciones 3:55-57",
+              "book_code": "PSA",
+              "chapter": 95,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Invoqué tu nombre, oh Jehová, desde la cisterna profunda. Mi voz oíste; no escondas tu oído a mi suspiro, a mi clamor. Acercate en el día que te invoco, y díjome: No temas."
+            },
+            {
+              "display": "Hebreos 4:16",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia, y hallar gracia para el oportuno socorro."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Dios mío, te traigo mi verdad hoy, aunque sea fea. Te digo mis dudas, mis miedos, mis preguntas sin respuesta. No pretenderé estar bien cuando estoy roto. No pretenderé entender cuando estoy confundido. Simplemente vengo tal como soy, y te pido que me escuches. Enséñame que la oración honesta es más valiosa para ti que las palabras perfectas. Que mi verdad sea bienvenida en tu presencia. En el nombre de Jesús, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "La Intercesión: Oración por Otros",
+      "subtitle": "La oración nos cambia para que podamos amar mejor.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Romanos 8:26-27",
+            "book_code": "1TH",
+            "chapter": 5,
+            "verses": "17",
+            "translation": "Reina-Valera 1909",
+            "text": "Y de igual manera el Espíritu nos ayuda en nuestras flaquezas; pues qué hemos de pedir como conviene, no lo sabemos, pero el Espíritu mismo intercede por nosotros con gemidos indecibles. Mas el que escudriña los corazones sabe cuál es la intención del Espíritu, porque conforme a la voluntad de Dios intercede por los santos."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una de las formas más profundas de oración es la intercesión: llevar a otros ante Dios en la oración. No es un acto de magia, sino un acto de amor que nos posiciona del lado de Dios en las vidas de aquellos por quienes oramos.",
+            "Lee Romanos 8:26-27 cuidadosamente.",
+            "**\"De igual manera el Espíritu nos ayuda en nuestras flaquezas; pues qué hemos de pedir como conviene, no lo sabemos, pero el Espíritu mismo intercede por nosotros con gemidos indecibles.\"**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "1 Timoteo 2:1-2",
+              "book_code": "NEH",
+              "chapter": 2,
+              "verses": "4",
+              "translation": "Reina-Valera 1909",
+              "text": "Exhorto ante todo, a que se hagan rogativas, oraciones, peticiones y acciones de gracias, por todos los hombres; por los reyes y por todos los que están en eminencia, para que vivamos quieta y reposadamente en toda piedad y honestidad."
+            },
+            {
+              "display": "Efesios 6:18-19",
+              "book_code": "EPH",
+              "chapter": 6,
+              "verses": "18",
+              "translation": "Reina-Valera 1909",
+              "text": "Orando en todo tiempo con toda oración y súplica en el Espíritu, y velando en ello con toda perseverancia y súplica por todos los santos; y por mí, que me sea dada palabra en la apertura de mi boca, para hacer conocer con denuedo el misterio del evangelio."
+            },
+            {
+              "display": "Santiago 5:16",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "Confesaos vuestras ofensas unos a otros, y orad unos por otros, para que seáis sanados. La oración del justo puede mucho."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, te presento los nombres de aquellos que están en mi corazón. Por los que están sufriendo, por los que están perdidos, por los que no saben que los amas. Yo no sé cómo orar por ellos como debería, pero tú sí. Por favor, toma mis palabras torpes y hazlas oración eficaz. Cambia mi corazón mientras oro, para que pueda amar como tú amas. En el nombre de Jesús, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "La Gratitud en la Oración",
+      "subtitle": "La acción de gracias abre el corazón a la presencia de Dios.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Filipenses 4:4-6",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "8",
+            "translation": "Reina-Valera 1909",
+            "text": "Regocijaos en el Señor siempre. Otra vez os digo: ¡Regocijaos! Vuestra gentileza sea conocida de todos los hombres. El Señor está cercano. Por nada estéis afanosos; antes bien en toda ocasión, sean conocidas vuestras peticiones delante de Dios en oración y ruego, con hacimiento de gracias."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "La gratitud no es solo buenos modales. La gratitud es una forma de ver el mundo a través de los ojos de Dios. Cuando comenzamos a dar gracias, comenzamos a notar la bondad que ya está aquí. La oración de agradecimiento nos posiciona como receptoras, como siervas, como amadas.",
+            "Lee Filipenses 4:4-7 lentamente.",
+            "**\"Regocijaos en el Señor siempre. Otra vez os digo: ¡Regocijaos!\"**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Salmo 100:1-5",
+              "book_code": "PSA",
+              "chapter": 142,
+              "verses": "1-2",
+              "translation": "Reina-Valera 1909",
+              "text": "Cantad alegres a Dios, habitantes de toda la tierra. Servid a Jehová con alegría; venid ante su presencia con regocijo. Sabed que Jehová es Dios; él nos hizo, y no nosotros a nosotros mismos; pueblo suyo somos, y ovejas de su prado. Entrad por sus puertas con hacimiento de gracias, por sus atrios con alabanza; alabadle, bendecid su nombre. Porque Jehová es bueno; para siempre es su misericordia, y su verdad por todas las generaciones."
+            },
+            {
+              "display": "Colosenses 3:15-17",
+              "book_code": "LAM",
+              "chapter": 2,
+              "verses": "19",
+              "translation": "Reina-Valera 1909",
+              "text": "Y la paz de Cristo gobierne en vuestros corazones, a la cual asimismo fuisteis llamados en un solo cuerpo; y sed agradecidos. La palabra de Cristo more en abundancia en vosotros, enseñándoos y exhortándoos unos a otros en toda sabiduría, cantando con gracia en vuestros corazones al Señor con salmos e himnos y cánticos espirituales. Y todo lo que hacéis, sea de palabra o de hecho, hacedlo todo en el nombre del Señor Jesús, dando gracias a Dios Padre por medio de él."
+            },
+            {
+              "display": "1 Tesalonicenses 5:16-18",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "Regocijaos siempre. Orad sin cesar. Dad gracias en todo, porque esta es la voluntad de Dios para con vosotros en Cristo Jesús."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre, mi corazón está tan acostumbrado a pedirte más que a agradecerte por lo que ya tengo. Abre mis ojos para ver la bondad que me rodea. Enséñame a dar gracias incluso en lo pequeño, incluso en lo difícil. Que la gratitud sea mi postura natural. Que mi primer movimiento sea el agradecimiento, no la queja. En el nombre de Jesús, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "Escuchar en la Oración",
+      "subtitle": "La oración no es solo hablar; también es escuchar.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "1 Reyes 19:11-13",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "27",
+            "translation": "Reina-Valera 1909",
+            "text": "Y le dijo: Sal fuera, y ponte en el monte delante de Jehová. Y he aquí Jehová que pasaba, y un grande y poderoso viento rompía los montes, y quebraba las peñas delante de Jehová; pero Jehová no estaba en el viento. Y tras el viento un terremoto; pero Jehová no estaba en el terremoto. Y tras el terremoto un fuego; pero Jehová no estaba en el fuego. Y tras el fuego un silbo apacible y delicado."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Pasamos tanto tiempo hablándole a Dios en la oración que a menudo olvidamos escuchar. Pero la verdadera comunión con Dios requiere silencio, espacio para que Él hable. No es una voz audible, sino una quietud en el alma, una dirección en el pensamiento, una paz que descansa.",
+            "Lee 1 Reyes 19:11-13 con atención.",
+            "**\"Y he aquí que Jehová pasaba, y un grande y poderoso viento rompía los montes, y quebraba las peñas delante de Jehová; pero Jehová no estaba en el viento. Y tras el viento un terremoto; pero Jehová no estaba en el terremoto. Y tras el terremoto un fuego; pero Jehová no estaba en el fuego. Y tras el fuego un silbo apacible y delicado.\"**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Salmo 46:10",
+              "book_code": "1SA",
+              "chapter": 3,
+              "verses": "9-10",
+              "translation": "Reina-Valera 1909",
+              "text": "Estad quietos, y conoced que yo soy Dios; seré exaltado entre las naciones; enaltecido seré en la tierra."
+            },
+            {
+              "display": "Juan 10:27",
+              "book_code": "PSA",
+              "chapter": 46,
+              "verses": "10",
+              "translation": "Reina-Valera 1909",
+              "text": "Mis ovejas oyen mi voz, y yo las conozco, y me siguen."
+            },
+            {
+              "display": "Proverbios 3:5-6",
+              "book_code": "MAT",
+              "chapter": 6,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, enséñame a callarme. Enséñame a esperar. Enséñame a escuchar la voz apacible en medio del ruido de mi vida. No necesito que grites. Solo necesito escuchar tu susurro. Ralentiza mi corazón lo suficiente para percibir tu presencia. En el silencio, hazme saber quién eres. En el nombre de Jesús, amén.",
+          "audio_key": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "Vida de Oración: Un Nuevo Comienzo",
+      "subtitle": "La oración no es un destino, es un viaje que comienza de nuevo cada día.",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo central",
+          "verse": {
+            "display": "Jeremías 29:11-13",
+            "book_code": "JAS",
+            "chapter": 5,
+            "verses": "16",
+            "translation": "Reina-Valera 1909",
+            "text": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis. Entonces me invocaréis, y vendréis y oraréis a mí, y yo os oiré. Y me buscaréis y me hallaréis, porque me buscaréis de todo vuestro corazón."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Estos siete días no marcan el fin de tu aprendizaje sobre la oración. Son el comienzo. La verdadera vida de oración se construye en el tiempo, día a día, momento a momento. No es perfecto. Habrá días en que olvides orar. Habrá días en que tus palabras se sientan vacías. Pero cada día es una nueva oportunidad para volver a casa.",
+            "Lee Jeremías 29:11-13 lentamente.",
+            "**\"Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis. Entonces me invocaréis, y vendréis y oraréis a mí, y yo os oiré.\"**"
+          ]
+        },
+        {
+          "type": "additional_scriptures",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos complementarios",
+          "verses": [
+            {
+              "display": "Salmo 5:3",
+              "book_code": "LUK",
+              "chapter": 18,
+              "verses": "1",
+              "translation": "Reina-Valera 1909",
+              "text": "Oh Jehová, de mañana oirás mi voz; de mañana me presentaré delante de ti, y esperaré."
+            },
+            {
+              "display": "2 Crónicas 7:14",
+              "book_code": "DAN",
+              "chapter": 10,
+              "verses": "12",
+              "translation": "Reina-Valera 1909",
+              "text": "Si se humillare mi pueblo, sobre el cual mi nombre es invocado, y oraren, y buscaren mi rostro, y se convirtieren de sus malos caminos; entonces yo oiré desde los cielos, y perdonaré sus pecados, y sanaré su tierra."
+            },
+            {
+              "display": "1 Pedro 3:12",
+              "book_code": "1TH",
+              "chapter": 5,
+              "verses": "17",
+              "translation": "Reina-Valera 1909",
+              "text": "Porque los ojos del Señor están sobre los justos, y sus oídos atentos a sus oraciones; pero la cara del Señor está contra aquellos que hacen mal."
+            }
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Padre, te agradezco por estos siete días. He aprendido que la oración es más simple de lo que creía, y al mismo tiempo más profunda. Me comprometo a seguir orando, no perfectamente, sino fielmente. Cuando olvide, ayúdame a volver. Cuando dude, recuérdame que tú estás aquí. Que mi vida sea una oración continua, que mi corazón sea una conversación contigo. Que en los años venideros, pueda decir que aprendí a orar de nuevo. En el nombre de Jesús, amén.",
+          "audio_key": null
+        }
+      ]
+    }
+  ]
+}

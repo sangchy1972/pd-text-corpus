@@ -1,0 +1,248 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS13",
+    "slug": "starting-over-not-from-zero",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Life Seasons",
+      "secondary": "threshold-seasons",
+      "secondary_label": "Threshold Seasons"
+    },
+    "tags": [
+      "transition",
+      "starting-over",
+      "new-chapter",
+      "in-between",
+      "calling",
+      "reset"
+    ],
+    "title": "Starting Over Without Starting from Zero",
+    "subtitle": "God uses what you have lived, not just what lies ahead",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "in-transition",
+        "starting-over",
+        "seeking-direction"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "For the woman beginning again and needing to remember that God will not waste what she has already lived through.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#B0C8D5",
+      "color_secondary": "#3F5C70",
+      "image_key": "cover_woman_at_doorway_soft_light",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Joshua 1:1-2,5,9",
+        "book_code": "JOS",
+        "chapter": 1,
+        "verses": "1-2,5,9"
+      },
+      {
+        "display": "Psalm 37:5,23-24",
+        "book_code": "PSA",
+        "chapter": 37,
+        "verses": "5,23-24"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "God Has Not Turned the Page Without Me",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Joshua 1:1-2,5,9",
+            "book_code": "JOS",
+            "chapter": 1,
+            "verses": "1-2,5,9",
+            "translation": "KJV",
+            "text": "Now after the death of Moses the servant of the Lord it came to pass... Moses my servant is dead; now therefore arise, go over this Jordan... As I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee... Be strong and of a good courage... for the Lord thy God is with thee whithersoever thou goest."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "What makes starting over so difficult is not only the future. It is the unfinished feeling of the past. A move, the end of a role, the collapse of a familiar routine, a painful change in family life, or the slow rebuilding that follows illness or loss can leave a woman standing in a strange place. People around her may already be asking what comes next, but inside she still feels close to the chapter that just ended. She has not fully named what was lost, what was carried, or what has changed in her.",
+            "Joshua 1 begins in exactly that kind of threshold moment. Moses is gone. The wilderness years are behind them, but the promised land is not yet in hand. God does not rush Joshua past the ending. He names it: \"Moses my servant is dead.\" Only then does He say, \"Now therefore arise.\" That order matters. God does not ask His people to pretend nothing ended. He acknowledges the closed chapter before leading them into the next one.",
+            "That is often how holy beginnings work. God is not threatened by your grief over what has ended, or by your reluctance to call a season finished. He does not ask you to flatten the past in order to move forward faithfully. Instead, He meets you honestly at the place of transition. Then He gives what you need most: not a full map, but His presence. \"As I was with Moses, so I will be with thee.\"",
+            "**A new chapter does not require you to deny the old one.** You are allowed to bring your unfinished feelings, your tenderness, and your memory into the presence of God. Beginning again is not pretending that nothing happened. It is trusting that God has not stepped away simply because something has changed.",
+            "Today, name the page you are finding hardest to turn. Say it plainly before God. He is not asking you to be less affected. He is inviting you to walk forward with Him, honestly and without shame."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I confess that beginning again does not feel easy to me. Some endings still ache. Some losses are not fully named. Part of me is still standing at the doorway of what used to be. Thank You that You are not a God who rushes me to move on. You see my reluctance, my tenderness, and the parts of me that are still catching up to change. Speak to me at the place of ending, and be with me at the place of beginning, just as You were with Joshua. Help me not to treat the past as shame or the change as a sign of Your absence. Give me the courage I need for today, not to understand the whole road at once, but to keep walking with You while it is still unfolding. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Joshua 1:1-2,5,9",
+              "book_code": "JOS",
+              "chapter": 1,
+              "verses": "1-2,5,9",
+              "translation": "KJV",
+              "text": "Now after the death of Moses the servant of the Lord it came to pass... Moses my servant is dead; now therefore arise, go over this Jordan... As I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee... Be strong and of a good courage... for the Lord thy God is with thee whithersoever thou goest."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "God Often Begins Again with What Is Already in Your Hands",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Ruth 1:21-22",
+            "book_code": "RUT",
+            "chapter": 1,
+            "verses": "21-22",
+            "translation": "KJV",
+            "text": "I went out full, and the Lord hath brought me home again empty... So Naomi returned, and Ruth the Moabitess, her daughter in law, with her... and they came to Bethlehem in the beginning of barley harvest."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many women fear starting over because they believe they have lost too much, wandered too far, or complicated the story beyond repair. New beginnings can seem reserved for people with cleaner timelines and simpler histories. But real life is rarely like that. We enter the next season carrying what has already happened: choices made, wounds received, skills learned, responsibilities still present, and questions that remain unresolved.",
+            "The book of Ruth offers a deeply honest picture of this. Naomi and Ruth do not arrive in Bethlehem with tidy lives. They come carrying famine, relocation, grief, poverty, and uncertainty. Scripture does not erase the ache before God begins providing. Instead, the new chapter unfolds right in the middle of what they are carrying. Ruth enters the field with her faithfulness, her courage, and the survival skills of a hard road. Naomi returns bitter, yet not abandoned. God meets both women within the story they already have.",
+            "That matters because it corrects a common lie: that you must become a cleaner version of yourself before God can begin something new. But God often works differently. He does not always start over by erasing your story. He often starts over by redeeming it. The things you carry may not only be burdens. Some of them are seeds. Endurance, tenderness, practical wisdom, discernment, and resilience are often formed in seasons you would never have chosen.",
+            "**Beginning again is not starting from nothing. It is learning to see what grace has already placed in your hands.** You may still be grieving what was lost. That is real. But loss is not the whole inventory of this season.",
+            "Today, take a gentler account of your life. Ask not only what ended, but what remains. What has God formed in you that can travel into the next chapter? He knows better than you do what still holds life."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, sometimes when I look at my past, I see mostly detours, losses, and unfinished places. That makes it hard to believe that a good beginning could still come from here. Correct the way I see my own story. Teach me not only to count what is gone, but also to notice what You have formed and preserved in me through the years. Thank You that You do not wait until I am polished and unscarred before You lead me forward. As You did for Ruth and Naomi, meet me in the middle of my real story, my real limitations, and my real hope. Help me believe that You have not wasted the road behind me and that You do not despise what remains in my hands. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Ruth 1:21-22",
+              "book_code": "RUT",
+              "chapter": 1,
+              "verses": "21-22",
+              "translation": "KJV",
+              "text": "I went out full, and the Lord hath brought me home again empty... So Naomi returned, and Ruth the Moabitess, her daughter in law, with her... and they came to Bethlehem in the beginning of barley harvest."
+            },
+            {
+              "display": "Ruth 2:11-12",
+              "book_code": "RUT",
+              "chapter": 2,
+              "verses": "11-12",
+              "translation": "KJV",
+              "text": "It hath fully been shewed me, all that thou hast done unto thy mother in law... and how thou hast left thy father and thy mother... The Lord recompense thy work..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "God Often Gives the Next Step Before the Whole Picture",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 37:5,23-24",
+            "book_code": "PSA",
+            "chapter": 37,
+            "verses": "5,23-24",
+            "translation": "KJV",
+            "text": "Commit thy way unto the Lord; trust also in him; and he shall bring it to pass... The steps of a good man are ordered by the Lord... Though he fall, he shall not be utterly cast down: for the Lord upholdeth him with his hand."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "By the third day, one of the deepest tensions of transition often becomes clearer: we want to know where all of this is going. Will the new job last? Will this new city feel like home? Will this rebuilding hold? Will this next season be safe, stable, or meaningful? We often tie our willingness to move forward to our ability to see the outcome first.",
+            "But Scripture gives a different picture. Psalm 37 says, \"Commit thy way unto the Lord,\" and also, \"The steps of a good man are ordered by the Lord.\" Proverbs 3 tells us not to lean on our own understanding, but to acknowledge God in all our ways and trust Him to direct our paths. The language is strikingly practical. God often does not unfold the whole map at once. He orders steps. He directs paths. He teaches trust at walking pace.",
+            "That is freeing for anyone in transition. You do not need complete clarity before you can be faithful. You do not need all your fears resolved before you can obey the next invitation of God. Often the next step is smaller than we expected: making one honest decision, having one necessary conversation, accepting one unfinished reality, or simply tending what is right in front of us today.",
+            "**God does not ask you to see the whole picture before He gives you the next step.** He asks you to trust Him enough for today. That trust may feel unimpressive, but it is holy. Much of spiritual maturity is built not in dramatic leaps, but in steady, surrendered walking.",
+            "Ask God today: what is the next faithful step in front of me? Not the whole plan. Not the next ten years. Just the step for today. He is not careless with partial light. He knows how to lead people through thresholds one step at a time."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I often want the whole picture before I feel ready to move forward. You know how hard it is for me to live with unanswered questions. Thank You that You do not require full understanding before You invite me to follow. Teach me to bring my attention back from the whole map to the next faithful step. Keep me from being consumed by what I do not know or driven by my own fearful imagination. If I need to wait, give me a quiet heart. If I need to move, give me willing courage. And if I stumble, uphold me with Your hand, just as Your Word promises. Help me trust that partial light is still enough for today's road. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 37:5,23-24",
+              "book_code": "PSA",
+              "chapter": 37,
+              "verses": "5,23-24",
+              "translation": "KJV",
+              "text": "Commit thy way unto the Lord; trust also in him; and he shall bring it to pass... The steps of a good man are ordered by the Lord... Though he fall, he shall not be utterly cast down: for the Lord upholdeth him with his hand."
+            },
+            {
+              "display": "Proverbs 3:5-6",
+              "book_code": "PRO",
+              "chapter": 3,
+              "verses": "5-6",
+              "translation": "KJV",
+              "text": "Trust in the Lord with all thine heart; and lean not unto thine own understanding... and he shall direct thy paths."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI21",
+    "slug": "friendship-sharpens-strengthens",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "sisterhood-friendship",
+      "secondary_label": "Schwesternschaft und Freundschaft"
+    },
+    "tags": [
+      "freundschaft",
+      "schwesternschaft",
+      "gemeinschaft",
+      "eifersucht",
+      "unterstuetzung",
+      "schaerfen"
+    ],
+    "title": "Freundschaft, die dich schärft und stärkt",
+    "subtitle": "Aufrichtige, lebensspendende Schwesternschaft aufbauen",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "sehnsüchtig nach Freundschaft",
+        "Eifersucht heilend",
+        "Gemeinschaft suchend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese sieben Tage helfen dir, reifere Schwesternschaft aufzubauen, indem du Ehrlichkeit, Sicherheit, Grenzen und Heilung in erwachsener Freundschaft erkundest.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#D8C8E0",
+      "color_secondary": "#4A2C5A",
+      "image_key": "cover_two_women_walking_warm_evening",
+      "icon": "two-hands-clasped-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Sprüche 27:9",
+        "book_code": "PRO",
+        "chapter": 27,
+        "verses": "9"
+      },
+      {
+        "display": "Hebräer 10:24",
+        "book_code": "HEB",
+        "chapter": 10,
+        "verses": "24"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Gute Freundschaft hilft dir, mehr du selbst zu sein",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 27:9",
+            "book_code": "PRO",
+            "chapter": 27,
+            "verses": "9",
+            "translation": "Lutherbibel 1912",
+            "text": "Des Freundes herzlicher Rat ist süße dem Herzen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Freundschaften machen uns angespannt. Andere lassen uns ausatmen.",
+            "Du kennst wahrscheinlich den Unterschied. In einer Art Beziehung beobachtest du dich ständig. Bist du interessant genug, angenehm genug, weise genug, fröhlich genug, unkompliziert genug? Du bleibst leicht kontrolliert, leicht bearbeitet, leicht auf der Hut. In der anderen Art geschieht etwas Sanfteres. Du musst nicht ständig deine polierte Version anbieten, um dazuzugehören. Du kannst still, müde, unsicher, unbeeindruckend sein und dich dennoch aufgenommen fühlen.",
+            "Das ist eine seltene Gnade im erwachsenen Leben. Viele von uns verbringen so viel Zeit damit, Kompetenz, Beständigkeit oder Liebenswürdigkeit vorzutäuschen, dass wir fast vergessen, wie sehr die Seele danach sehnt, gekannt zu werden, ohne jeden Eindruck zu verwalten. Ein guter Freund kann auf diese Weise eines von Gottes sanftesten Geschenken werden. Nicht weil sie dich nie herausfordert, und nicht weil sie immer das Perfekte sagt, sondern weil du in ihrer Gegenwart merkst, dass du ehrlicher wirst, nicht weniger.",
+            "Die Sprichwörter sprechen von der Süße eines Freundesrats, und der Römerbrief ruft uns zu zärtlicher Zuneigung auf. Reife Freundschaft hält oft Wärme und Wahrheit zusammen. Sie macht dich nicht nur bequem. Sie macht dich sicher genug, um wirklich zu sein, und stabil genug, um weiter zu wachsen.",
+            "**Freundschaft, die dir hilft, mehr du selbst zu werden, ist seltene Gnade.** Danke Gott heute für jeden, der dir diesen Raum gegeben hat. Und wenn du dich danach sehnst, bringe diese Sehnsucht auch zu ihm. Er weiß, dass wir mehr als Gesellschaft brauchen. Wir brauchen Beziehungen, in denen die Seele sich niederlassen kann."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du Freundschaften schenkst, die uns echter machen. Mache mich zu jemandem, der diese Sicherheit auch für andere schafft. Wenn es einen Ort gibt, an dem ich bereuen, sprechen, warten oder Liebe neu lernen muss, führe mich dorthin selbst, und lass Stolz nicht Gnade fernhalten. Lehre mich, nicht nur gute Freunde zu sehnen, sondern zu lernen, wie ich ein Freund bin, in dessen Gegenwart andere ehrlicher atmen können. Lass mehr Gnade und weniger Defensivität in meiner Liebe wachsen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 27:9",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "9",
+              "translation": "Lutherbibel 1912",
+              "text": "Des Freundes herzlicher Rat ist süße dem Herzen."
+            },
+            {
+              "display": "Römer 12:10",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "10",
+              "translation": "Lutherbibel 1912",
+              "text": "Seid brüderlich unter einander in Liebe; einer komme dem andern mit Ehrerbietung zuvor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Sicherheit macht Ehrlichkeit möglich",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Jakobus 1:19",
+            "book_code": "JAS",
+            "chapter": 1,
+            "verses": "19",
+            "translation": "Lutherbibel 1912",
+            "text": "So sei jeglicher Mensch schnell zum Hören, langsam zum Reden..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Oft sind die Menschen nicht unwillig, ehrlich zu sein. Sie fühlen sich einfach nicht sicher genug.",
+            "Wir alle sagen, dass wir wahre Freundschaften wollen, aber Wahrheit wächst selten unter Druck. Wenn eine Beziehung zu schnell mit Gericht, Korrektur, Rat oder emotionalem Rückzug reagiert, lernt Ehrlichkeit, sich zurückzuziehen. Ein Mensch teilt vielleicht noch die akzeptablen Teile von sich selbst, aber die Teile, die verwirrt, beschämt, wütend, eifersüchtig oder tiefst zart sind, bleiben verborgen. Mit der Zeit bleibt die Freundschaft an der Oberfläche aktiv, während sie darunter dünner wird.",
+            "Sicherheit bedeutet nicht, allem zuzustimmen. Sie bedeutet nicht die Abwesenheit von Herausforderung. Sie bedeutet, dass es genug Geduld in der Beziehung gibt, damit Wahrheit kommt, bevor Lösungen kommen. Der Jakobusbrief sagt uns, schnell zuzuhören und langsam zu sprechen. Die Sprichwörter warnen davor, zu antworten, bevor man zuhört. Diese Verse prägen nicht nur gute Manieren. Sie helfen, die Art von Atmosphäre zu schaffen, in der die Seele sich entfalten kann, ohne sofort auf Auswirkungen vorbereitet zu sein.",
+            "Ich denke, das ist sehr wichtig in Frauenfreundschaften, weil viele von uns schnell raten, aber langsamer begleiten. Wir wissen, wie man repariert, deutet und umlenkt. Wir sind nicht immer so geübt darin, einfach die unvollendete Wahrheit einer anderen Person zu halten. Aber ein geistlicher Gefährte ist nicht nur jemand, der dir hilft, das Leben zu verstehen. Sie ist jemand, in dessen Gegenwart du zugeben kannst, dass das Leben noch keinen Sinn macht.",
+            "**Viel Ehrlichkeit wächst nicht aus Druck, sondern aus Sicherheit.** Bitte Gott heute nicht nur um Freunde, die Wahrheit sanft halten können, sondern auch um die Gnade, selbst dieser Freund für jemand anderen zu werden."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lehre mich, in Freundschaft zuerst zuzuhören und dann zu sprechen. Mache mich zu jemandem, in dessen Gegenwart andere ehrlich sein können ohne Angst, und lehre mich, selbst auch ehrlich vor dir zu werden, ohne mich zu beeilen, mich zu erklären oder zu verteidigen. Heile die Plätze in mir, die schnell in Selbstschutz gehen, damit ich sanfter zuhören und klarer Wahrheit sprechen kann. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Jakobus 1:19",
+              "book_code": "JAS",
+              "chapter": 1,
+              "verses": "19",
+              "translation": "Lutherbibel 1912",
+              "text": "So sei jeglicher Mensch schnell zum Hören, langsam zum Reden..."
+            },
+            {
+              "display": "Sprüche 18:13",
+              "book_code": "PRO",
+              "chapter": 18,
+              "verses": "13",
+              "translation": "Lutherbibel 1912",
+              "text": "Wer dem Worte antwortet, bevor er es gehört hat, dem ist es Torheit und Schande."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Grenzen schützen die Freundschaft",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 25:17",
+            "book_code": "PRO",
+            "chapter": 25,
+            "verses": "17",
+            "translation": "Lutherbibel 1912",
+            "text": "Seltenes Gehen in des Nächsten Haus..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Viele Menschen hören das Wort Grenzen und machen sich sofort Sorgen, dass die Freundschaft kälter wird.",
+            "Besonders in engen Beziehungen können wir annehmen, dass tiefe Liebe unbegrenzten Zugang, ständige Verfügbarkeit und endlose emotionale Unterstützung bedeutet. Am Anfang kann sich das sogar schön anfühlen. Aber erwachsene Freundschaft kann nicht nur auf Wärme allein erhalten bleiben. Ohne Grenzen beginnt Nähe oft unter Unausgeglichenheit, unklaren Erwartungen, Überabhängigkeit und stillem Groll zu kollabieren. Eine Person wird müde. Die andere fühlt sich verlassen. Und schließlich sind beide verwirrt, wie etwas, das sich einst intim anfühlte, schwer geworden ist.",
+            "Die Schrift schwächt nicht die Nähe, wenn sie von Grenzen spricht. Die Sprichwörter warnen vor Überfamiliarität, und Galater erinnert jede Person, ihre eigene Last zu tragen. Das sind keine kalten Verse. Sie schützen die Würde der Beziehung. Grenzen sagen einfach: Ich liebe dich, aber ich bin nicht dein Retter. Ich möchte präsent sein, aber ich bin auch ein endlicher Mensch mit Verantwortungen, Rhythmen und eigenen Bedürfnissen.",
+            "Ich denke, das ist ein besonders bedeutungsvoller Wachstumsbereich in Frauenfreundschaften, weil viele von uns gelernt haben, dass ja sagen Liebe beweist, während nein sagen Ablehnung riskiert. Aber reife Liebe wird nicht durch endlose Selbstaufgabe bewiesen. Sie wird durch Ehrlichkeit über Grenzen gestärkt. Grenzen zerstören nicht die Intimität. Sie halten sie davor, erdrückt zu werden.",
+            "**Grenzen sind nicht der Feind der Nähe. Sie schützen sie.** Bitte Gott heute, wo Freundschaft in deinem Leben mehr Rhythmus, mehr Klarheit oder mehr gegenseitige Verantwortung braucht, damit Liebe länger andauert und freier atmen kann."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lehre mich, Freundschaft mit Wärme und Grenzen zusammen zu halten. Halte mich davor, aus Angst, Liebe zu verlieren, nicht die Grenzen zu setzen. Reinige, was in mir in Freundschaft sensibel, stolz, bewacht oder verwundet ist. Hilf mir, ehrlich zu sprechen und sanft zuzuhören, damit diese Beziehung mehr ein Ort wird, durch den deine Gnade fließen kann. Gib mir Urteilsvermögen und gesunde Grenzen, damit meine Sanftheit nicht Selbstverrat und meine Liebe nicht meine Integrität kostet. Lass Ehrlichkeit und Beständigkeit gemeinsam in mir wachsen. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 25:17",
+              "book_code": "PRO",
+              "chapter": 25,
+              "verses": "17",
+              "translation": "Lutherbibel 1912",
+              "text": "Seltenes Gehen in des Nächsten Haus..."
+            },
+            {
+              "display": "Galater 6:5",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "5",
+              "translation": "Lutherbibel 1912",
+              "text": "Ein jeglicher wird seine eigene Last tragen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Wahrheit sprechen ist eine Form der Liebe",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Epheser 4:15",
+            "book_code": "EPH",
+            "chapter": 4,
+            "verses": "15",
+            "translation": "Lutherbibel 1912",
+            "text": "Laßt uns wahrhaftig sein in der Liebe und wachsen in alle Weise in Christo..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Freundschaften bleiben friedlich nur, weil niemand das Risiko eingeht, die Wahrheit zu sagen.",
+            "Viele von uns sind sehr geschickt darin, die Atmosphäre zu schützen. Wir wollen keine Unbeholfenheit. Wir wollen die andere Person nicht verletzen. Wir wollen nicht missverstanden werden. Also wird das notwendige Gespräch verzögert, so weit erweicht, dass es nutzlos wird, in Witze umgelenkt oder leise begraben. An der Oberfläche bleibt die Beziehung angenehm. Darunter beginnt sich Enttäuschung und Distanz zu sammeln. Wenn eine Freundschaft nur weiß, wie man tröstet, und nie, wie man ehrlich spricht, kann sie nett bleiben, aber wächst selten tief.",
+            "Der Epheserbrief sagt uns, Wahrheit in Liebe zu sprechen, und die Sprichwörter sagen, dass treu sind die Wunden eines Freundes. Wahrheit ist in Freundschaft wichtig, nicht weil sie uns die Kraft gibt zu korrigieren, sondern weil sie zeigt, dass die Beziehung wertvoll genug ist, um Aufrichtigkeit zu tragen. Reife Liebe verwechselt Stille nicht mit Güte, und Direktheit nicht mit Mut. Sie lernt auf die schwierigere Weise: wie man Liebe in der Wahrheit und Wahrheit in der Liebe behält.",
+            "Ich denke, das ist eine der schönsten Formen von Frauenfreundschaft, wenn es gut gemacht wird. Ein Freund, der dich trösten und auch sanft konfrontieren kann, ist ein seltenes Geschenk. Sie beschämt dich nicht, aber sie lässt dich auch nicht in Mustern stecken, die dir schaden.",
+            "**Freundschaft ohne Ehrlichkeit kann angenehm bleiben, aber wächst selten tief.** Bitte Gott heute, ob es eine Wahrheit gibt, die du mit Weisheit sprechen musst, oder eine Wahrheit, der du ausweichst, weil Frieden sich leichter anfühlte als Liebe."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lehre mich, in Freundschaft nicht der Wahrheit auszuweichen und sie auch nicht harsch zu sprechen. Zeige mir, wann ich trösten soll und wann ehrlich sein soll. Reinige, was in mir in Freundschaft sensibel, stolz, bewacht oder verwundet ist. Hilf mir, ehrlich zu sprechen und sanft zuzuhören, damit diese Beziehung mehr ein Ort wird, durch den deine Gnade fließen kann. Danke, dass du von meiner Schwäche nicht abgestoßen wirst, sondern bereit bist, nahezukommen, mich zu unterstützen und mich weiter zu lehren. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Epheser 4:15",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "15",
+              "translation": "Lutherbibel 1912",
+              "text": "Laßt uns wahrhaftig sein in der Liebe und wachsen in alle Weise in Christo..."
+            },
+            {
+              "display": "Sprüche 27:6",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Treu sind die Wunden des Freundes, aber Trügerei küßt der Feind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Heilung braucht oft mehr Mut als Distanz",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Matthäus 5:23-24",
+            "book_code": "MAT",
+            "chapter": 5,
+            "verses": "23-24",
+            "translation": "Lutherbibel 1912",
+            "text": "So du nun deine Gabe opferst am Altar und wirst dir allda eindenken, daß dein Bruder etwas wider dich hat, so laß deine Gabe allda vor dem Altar und gehe hin, versöhne dich zuvor mit deinem Bruder..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Wenn Freundschaft verletzt wird, fühlt sich Distanz oft sauberer an als Heilung.",
+            "Distanz verlangt weniger von uns. Sie schützt uns vor unbeholfenen Erklärungen, vor dem Risiko, wieder verletzt zu werden, und vor der Verletzlichkeit zu gestehen, dass wir immer noch kümmern. Erwachsene Frauen können sehr geschickt darin werden, mit Würde zu verschwinden. An der Oberfläche kann es reif aussehen. Darunter kann es einfach nur Trauer sein, die nie ihre Stimme fand. Nicht jede Freundschaft sollte wieder aufgebaut werden, und nicht jeder Schmerz kann sicher erneut besucht werden. Aber manchmal bleibt eine Beziehung schwer in deinem Herzen, weil Gott noch nicht fertig damit ist.",
+            "Jesus spricht davon, Versöhnung zu suchen, und Paulus sagt, dass soweit es von uns abhängt, sollen wir Frieden mit allen Menschen halten. Heilung ist selten leicht. Sie erfordert Demut, Ehrlichkeit, zeitliche Rücksicht und die Bereitschaft zu akzeptieren, dass das Ergebnis möglicherweise nicht sauber ist. Oft ist der schwierigste Teil nicht, zu wissen, was man sagt. Es geht darum, die innere Schwelle zu überschreiten: Was ist, wenn ich die Hand ausstreck und sie nimmt sie nicht? Diese Verletzlichkeit ist real. Doch viele Beziehungen, die es wert sind, bewahrt zu werden, können nur durch diesen Übergang wiederhergestellt werden.",
+            "Ich denke, Heilung ist eine der reiferen Formen von Mut. Sie leugnet die Wunde nicht. Sie erzwingt keine falsche Rückkehr zur Vergangenheit. Sie sagt einfach: Diese Freundschaft war wichtig genug, dass ich Liebe schwerer wiegen lasse als Stolz oder Politur. Manchmal ist die Heilung erfolgreich. Manchmal macht sie klar, dass Loslassen erforderlich ist. Aber auch dann ist sie oft wahrer als stilles Verschwinden.",
+            "**Manchmal ist der reifere geistliche Mut nicht würdevoller Rückzug, sondern Heilung.** Wenn eine Freundschaft immer wieder in dein Herz zurückkehrt, bitte Gott heute, ob er dich zu weiser Versöhnung rather als zu ruhiger Distanz einlädt."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, wenn es eine Freundschaft gibt, die ich ernsthaft konfrontieren und Heilung suchen soll, gib mir Mut. Lass mich nicht aus Angst vor Unbeholfenheit oder Verletzung in Stille bleiben. Wenn es einen Ort gibt, an dem ich bereuen, sprechen, warten oder Liebe neu lernen muss, führe mich dorthin selbst, und lass Stolz nicht Gnade fernhalten. Danke, dass du von meiner Schwäche nicht abgestoßen wirst, sondern bereit bist, nahezukommen, mich zu unterstützen und mich weiter zu lehren. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Matthäus 5:23-24",
+              "book_code": "MAT",
+              "chapter": 5,
+              "verses": "23-24",
+              "translation": "Lutherbibel 1912",
+              "text": "So du nun deine Gabe opferst am Altar und wirst dir allda eindenken, daß dein Bruder etwas wider dich hat, so laß deine Gabe allda vor dem Altar und gehe hin, versöhne dich zuvor mit deinem Bruder..."
+            },
+            {
+              "display": "Römer 12:18",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "18",
+              "translation": "Lutherbibel 1912",
+              "text": "Wo möglich, und soweit es an euch ist, haltet mit allen Menschen Frieden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Reibung bedeutet nicht, dass die Freundschaft falsch ist",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 27:17",
+            "book_code": "PRO",
+            "chapter": 27,
+            "verses": "17",
+            "translation": "Lutherbibel 1912",
+            "text": "Eisen schärft Eisen, und ein Mann schärft seines Freundes Angesicht."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Erwachsenenfreundschaft kann nicht auf ewig reibungslos bleiben.",
+            "Wir kommen in Beziehungen mit unterschiedlichen Geschichten, Temperamenten, Kommunikationsstilen, Wunden, Erwartungen und Rhythmen. Ein Freund braucht mehr Kontakt; ein anderer braucht mehr Raum. Einer spricht schnell; der andere verarbeitet langsam. Einer nennt Enttäuschung sofort; der andere zieht sich zuerst zurück. Mit all dem im Raum ist etwas Spannung unvermeidlich. Doch viele von uns nehmen an, dass wenn Freundschaft unbequem wird, etwas grundsätzlich falsch sein muss.",
+            "Die Sprichwörter sagen, dass Eisen Eisen schärft. Dieses Bild ist nicht sanft oder mühelos. Es umfasst Kontakt, Widerstand und Anpassung. Die echte Frage ist nicht, ob Reibung existiert, sondern was die Reibung hervorbringt. Einige Konflikte vertiefen Verletzung und signalisieren, dass stärkere Grenzen erforderlich sind. Andere Spannung lädt jedoch zu Wachstum ein. Sie kann beide Menschen wahrer, demütiger, klarer und fähiger zur Liebe machen. Eine lohnende Freundschaft fühlt sich möglicherweise nicht immer leicht an, aber sie sollte dennoch aufbauend, nicht chronisch vermindert sein.",
+            "Ich denke, das ist eines der reiferen Unterscheidungsmerkmale, die wir brauchen. Wir wollen nicht jede schmerzhaft Beziehung romantisieren. Aber wir wollen auch nicht vor jedem Unbehagen fliehen. Gott verlangt nicht, dass wir in Schaden bleiben, aber er verspricht auch nie, dass Nähe spannungsfrei sein wird. Einige der Liebe, die wir am meisten schätzen, werden durch unvollkommenen Kontakt geschmiedet.",
+            "Einige Spannungen brauchen keine Panik. Sie brauchen Unterscheidung, Geduld und die Bereitschaft, Liebe durch die Beanspruchung weiser zu werden.",
+            "**Nicht jede Spannung bedeutet, dass die Freundschaft falsch ist. Einige Spannungen formen Liebe.** Bitte Gott heute, ob die Reibung, die du empfindest, die Beziehung zerstört oder sie verfeinert. Weisheit kann dir helfen, den Unterschied zu erkennen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, gib mir Unterscheidungsvermögen, um zu wissen, wann ich vor Schaden fliehen soll und wann ich in Liebe durch notwendige Reibung lernen soll. Lass meine Freundschaften nicht nur sich leicht anfühlen, sondern uns wirklich aufbauen. Reinige, was in mir in Freundschaft sensibel, stolz, bewacht oder verwundet ist. Hilf mir, ehrlich zu sprechen und sanft zuzuhören, damit diese Beziehung mehr ein Ort wird, durch den deine Gnade fließen kann. Halte mich davor, jedes Unbehagen mit Gefahr zu verwechseln, und lehre mich, wie ich sanft bleibe, ohne naiv zu werden. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 27:17",
+              "book_code": "PRO",
+              "chapter": 27,
+              "verses": "17",
+              "translation": "Lutherbibel 1912",
+              "text": "Eisen schärft Eisen, und ein Mann schärft seines Freundes Angesicht."
+            },
+            {
+              "display": "Römer 15:2",
+              "book_code": "ROM",
+              "chapter": 15,
+              "verses": "2",
+              "translation": "Lutherbibel 1912",
+              "text": "Ein jeglicher unser soll seinem Nächsten gefallen zum Guten, zur Besserung."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Reife Schwesternschaft zieht uns näher zu Gott und zur Wahrheit",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Hebräer 10:24",
+            "book_code": "HEB",
+            "chapter": 10,
+            "verses": "24",
+            "translation": "Lutherbibel 1912",
+            "text": "Und laßt uns aufmerken auf einander, um uns zur Liebe und guten Werken zu reizen..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Am Ende dieser Woche ist Freundschaft vielleicht reicher als einfache Gesellschaft.",
+            "Wirklich gute Freundschaft ist nicht nur jemanden neben sich zu haben. Es ist jemanden zu haben, der dir hilft, näher zu Gott und näher zur Wahrheit zu kommen. Diese Art von Beziehung trägt Sanftheit, aber sie trägt auch Ehrlichkeit. Sie schafft Sicherheit, aber sie respektiert auch Grenzen. Sie bietet Trost, aber sie lässt auch Raum für Wachstum. In reifer Schwesternschaft musst du nicht weiter spielen, und du wirst nicht einfach in deinen blinden Flecken gelassen. Wenn Schwierigkeiten kommen, sind beide Menschen immer noch bereit, die Beziehung ins Licht zurück, vor Gott zurück und unter Liebe zurück zu bringen.",
+            "Ich denke, das ist eines von Gottes stillen Geschenken an Frauen. Manche Wege können allein gehen, aber sie sollten es nicht. Ein weiser und liebender Freund kann dir helfen, nicht zu treiben, nicht unter Selbstkritik zusammenzubrechen oder deine eigene Seele in vollen Zeiten zu verlieren. Der Hebräerbrief ruft uns auf, einander zu bedenken und einander zu guter Liebe und guten Werken zu reizen. Jesus verbietet uns, einander zu lieben. Wenn diese Liebe sich in Frauenfreundschaft gestaltet, wird sie sowohl Schutz als auch Prägung.",
+            "Reife Freundschaft ist nicht perfekt. Sie schließt weiterhin Missverständnisse, sich ändernde Zeiten, ungleiche Rhythmen und das Bedürfnis nach Heilung ein. Aber mit Gott in der Mitte wird sie mehr als eine angenehme Bindung. Sie wird eine Beziehung, die die Seele stabilisiert und das Leben stärkt.",
+            "**Reife Schwesternschaft hilft einer Frau, mehr zu werden, wem Gott sie gestaltet.** Danke Gott heute für die Freundschaften, die er gegeben hat, und bitte ihn, die Schwesternschaft in deinem Leben weiter vorzubereiten, zu bewachen und zu vertiefen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass du Freundschaft als Geschenk gegeben hast. Bewache die Schwesternschaft in meinem Leben, und mache mich zu einem reiferen, wahrhaftigeren und mehr gottwärts gerichteten Freund. Wenn ich immer noch alte Gewohnheiten der Wachsamkeit, des Stolzes oder der Angst vor Verletzung in mir trage, prufe mich weiter. Lehre mich, nicht nur Begleitung zu empfangen, sondern sie auch gut anzubieten; nicht nur Verständnis zu wollen, sondern es mit Gnade auszudehnen. Lass die Freundschaften in meinem Leben Orte werden, an denen Wahrheit sicher ist, Sanftheit stark ist, und deine Gegenwart willkommen ist. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Hebräer 10:24",
+              "book_code": "HEB",
+              "chapter": 10,
+              "verses": "24",
+              "translation": "Lutherbibel 1912",
+              "text": "Und laßt uns aufmerken auf einander, um uns zur Liebe und guten Werken zu reizen..."
+            },
+            {
+              "display": "Johannes 15:12",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "12",
+              "translation": "Lutherbibel 1912",
+              "text": "Das ist mein Gebot, daß ihr einander liebet, gleichwie ich euch geliebt habe."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

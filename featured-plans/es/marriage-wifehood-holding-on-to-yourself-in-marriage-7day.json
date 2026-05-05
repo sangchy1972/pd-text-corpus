@@ -1,0 +1,520 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI09",
+    "slug": "holding-on-to-yourself-in-marriage",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Roles e Identidad",
+      "secondary": "marriage-wifehood",
+      "secondary_label": "Matrimonio y Esposa"
+    },
+    "tags": [
+      "matrimonio",
+      "esposa",
+      "compañerismo",
+      "comunicacion",
+      "pacto",
+      "amor"
+    ],
+    "title": "Aferrándose a ti misma en el matrimonio",
+    "subtitle": "Permaneciendo completa mientras amas profundamente",
+    "audience": {
+      "life_stage": [
+        "mujeres casadas",
+        "esposas"
+      ],
+      "emotional_state": [
+        "comprometida",
+        "exigida",
+        "buscando renovación"
+      ],
+      "spiritual_stage": [
+        "cualquiera"
+      ]
+    },
+    "goal": "Estos siete días te acompañan más profundamente a través del trabajo emocional, el agotamiento y la tensión de identidad en el matrimonio, ayudándote a amar profundamente sin perder tu sentido de ti misma.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Reina-Valera 1909",
+    "cover": {
+      "color_primary": "#D4B896",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_quiet_kitchen_morning_warm",
+      "icon": "two-rings-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Génesis 2:24",
+        "book_code": "GEN",
+        "chapter": 2,
+        "verses": "24"
+      },
+      {
+        "display": "Juan 15:4",
+        "book_code": "JHN",
+        "chapter": 15,
+        "verses": "4"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Día 1",
+      "title": "Amar a alguien no significa que deba desaparecer",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Génesis 2:24",
+            "book_code": "GEN",
+            "chapter": 2,
+            "verses": "24",
+            "translation": "Reina-Valera 1909",
+            "text": "Por tanto, dejará el hombre a su padre y a su madre, y se allegará a su mujer, y serán una sola carne."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una de las pérdidas más silenciosas en el matrimonio es la desaparición lenta del yo.",
+            "Recuerdas, administras, llevas, suavizas, te ajustas y mantienes las cosas juntas. La vida sigue adelante. El matrimonio permanece en su lugar. Pero en algún lugar dentro de ti, surge una pregunta: ¿cuánto de mí sigue siendo verdaderamente presente aquí? El amor nunca fue pensado para borrar a una persona, sin embargo, muchas de nosotras nos movemos lentamente hacia atrás y hacia atrás sin siquiera notarlo.",
+            "Génesis dice que dos se hacen una sola carne. Pero la unidad nunca fue pensada para significar desaparición. Dios no diseñó el matrimonio para que una persona se desvaneciera mientras la otra permanecía más completamente intacta. La unión no es lo mismo que la absorción. El amor debe hacer espacio para la plenitud, no requerir su rendición.",
+            "A menudo, esta pérdida sucede silenciosamente. No en un acto dramático, sino a través de patrones cotidianos de retroceso, ajuste, minimización y postergación de ti misma. Con el tiempo, una mujer puede olvidar que ella también tiene deseos, convicciones, ritmos y dones que aún importan delante de Dios. Él no trata esas cosas como inconvenientes. Él se preocupa por si el amor está dejando espacio para la persona que Él te hizo ser.",
+            "Aferrarse a ti misma en el matrimonio no es egoísmo. Es una forma de honrar la imagen de Dios en ti mientras amas a otra persona bien.",
+            "**El matrimonio fue hecho para la unión, no para el borrado.** Considera hoy qué partes de ti han sido silenciosamente empujadas demasiado hacia el fondo. Dios no llama egoísta a esa preocupación. Él se preocupa por si aún estás viviendo como una persona completa dentro del amor."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, si me he acostumbrado demasiado a colocarme a mí misma al final en el matrimonio, ayúdame a verlo. Enséñame que el amor no es desaparición, y que no fui llamada a tragarme completamente para seguir siendo amorosa. Guárdame y ayúdame a permanecer completa mientras amo. Protege mi corazón de endurecerse lentamente bajo la decepción, fatiga o resentimiento tranquilo. Enséñame a hablar con veracidad, estar de pie con ternura, y traer incluso mis necesidades no expresadas a Tu presencia en lugar de enterrarlas en silencio. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Génesis 2:24",
+              "book_code": "GEN",
+              "chapter": 2,
+              "verses": "24",
+              "translation": "Reina-Valera 1909",
+              "text": "Por tanto, dejará el hombre a su padre y a su madre, y se allegará a su mujer, y serán una sola carne."
+            },
+            {
+              "display": "Marcos 12:31",
+              "book_code": "MRK",
+              "chapter": 12,
+              "verses": "31",
+              "translation": "Reina-Valera 1909",
+              "text": "Amarás a tu prójimo como a ti mismo."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Día 2",
+      "title": "El trabajo emocional puede vaciar silenciosamente a una persona",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Gálatas 6:2",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "2",
+            "translation": "Reina-Valera 1909",
+            "text": "Llevad los unos las cargas de los otros, y cumplid así la ley de Cristo."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Existe un tipo de cansancio en el matrimonio que no siempre aparece en el horario, pero vive pesadamente en el cuerpo y el corazón.",
+            "Rastreo necesidades, manejo estados de ánimo, suavizo tensiones, anticipo conflictos, y absorbo la inestabilidad antes de que se desborde. Gran parte de este trabajo permanece invisible. Esa es una razón por la que el trabajo emocional es tan agotador. Tiene peso, pero a menudo no tiene nombre. Puedes seguir funcionando mientras te quedas tranquilamente vacía por dentro.",
+            "Gálatas nos dice que nos llevemos los unos a los otros las cargas. El matrimonio fue pensado para incluir una carga mutua, no una persona calladamente sosteniendo el clima emocional de todo el hogar. Dios ve el trabajo invisible. Él no lo trata como ordinario o desechable.",
+            "Parte de lo que hace tan desalentador el trabajo emocional es que raramente se le da un nombre. La gente nota que la casa no explotó, que la tensión se suavizó, que todos los demás se mantuvieron relativamente estables. No siempre notan quién absorbió el impacto primero. Dios se da cuenta. Él no llama pequeño tu trabajo invisible simplemente porque carece de lenguaje visible.",
+            "Nombrar ese trabajo oculto puede en sí mismo ser parte de la sanación. Rompe la suposición falsa de que toda la estabilidad sin ver en un matrimonio debe seguir siendo llevada por una persona sola.",
+            "**Cuando una persona sigue actuando como el muro de carga emocional, su fuerza eventualmente se adelgaza.** Pregúntate hoy qué cargas ocultas has estado llevando durante mucho tiempo. Traerlas a la luz de Dios puede ser uno de los primeros pasos hacia la reparación.",
+            "Lo que se comparte honestamente puede finalmente comenzar a ser compartido relacionalmente también."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, Tú ves el peso oculto que he estado llevando en el matrimonio. Gracias por notar lo que nadie más ve completamente. No dejes que continúe desgastándome en lugares que nunca son sostenidos. Enséñame cómo traer estas cargas invisibles a la luz en lugar de llevarlas silenciosamente para siempre. Protege mi corazón de endurecerse lentamente bajo la decepción, fatiga o resentimiento tranquilo. Enséñame a hablar con veracidad, estar de pie con ternura, y traer incluso mis necesidades no expresadas a Tu presencia en lugar de enterrarlas en silencio. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Gálatas 6:2",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "2",
+              "translation": "Reina-Valera 1909",
+              "text": "Llevad los unos las cargas de los otros, y cumplid así la ley de Cristo."
+            },
+            {
+              "display": "Mateo 11:28",
+              "book_code": "MAT",
+              "chapter": 11,
+              "verses": "28",
+              "translation": "Reina-Valera 1909",
+              "text": "Venid a mí todos los que estáis trabajados y cargados, que yo os haré descansar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Día 3",
+      "title": "Los límites no rechazan el matrimonio; protegen la vida",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Proverbios 4:23",
+            "book_code": "PRO",
+            "chapter": 4,
+            "verses": "23",
+            "translation": "Reina-Valera 1909",
+            "text": "Sobre toda cosa guardada, guarda tu corazón..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "En el matrimonio, los límites a menudo se malentienden como frialdad, especialmente si durante mucho tiempo te han enseñado que una buena esposa debe seguir ajustándose, absorbiendo y complaciendo.",
+            "Pero cuando la acomodación se convierte en auto-borrado, los límites ya no son opcionales. Se convierten en una forma en que la vida está protegida. Proverbios dice que guardes tu corazón más que nada. El matrimonio no cancela esa sabiduría. Si acaso, las relaciones cercanas la hacen aún más necesaria. Cuanto más cercano sea el vínculo, más importante es permanecer siendo veraz acerca de lo que tu alma puede llevar.",
+            "Los límites no alejan el amor. Mantienen que el amor no se construya sobre tu desequilibrio. Un matrimonio sano no colapsa simplemente porque hables honestamente sobre tus límites. Si reacciona violentamente a tus límites, eso te dice algo importante.",
+            "Muchas mujeres temen los límites no porque crean que los límites son malos, sino porque temen el costo de la honestidad. Si nombrar tu límite se siente inmediatamente peligroso, eso ya revela algo sobre la forma de la relación. Dios no te abandona cuando te vuelves veraz. Frecuentemente te sostiene más claramente allí.",
+            "Y cuando un límite se habla honestamente, puede convertirse en el comienzo de un matrimonio más veraz en lugar del final de la ternura.",
+            "**Los límites no están contra el amor. Mantienen que el amor no consuma a la persona dentro de él.** Si hay un límite que has tenido miedo de nombrar, escríbelo hoy. Incluso si aún no estás listo para decirlo en voz alta, permítete reconocer que importa.",
+            "Los límites pueden convertirse en una de las formas en que la verdad hace que el amor sea más sostenible."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, no dejes que continúe confundiendo la falta de límites con el amor. Si he tenido miedo de reconocer mis límites porque no quiero perturbar la paz, sostenme firme. Enséñame a guardar mi corazón más honestamente, y ayúdame a confiar en que no me abandonarás cuando hable con veracidad. Dame discernimiento y límites saludables, para que mi ternura no se convierte en auto-traición y mi amor no me cueste mi propia integridad. Gracias porque no te repele mi debilidad, sino que estás dispuesto a acercarte, apoyarme y continuar enseñándome. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Proverbios 4:23",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23",
+              "translation": "Reina-Valera 1909",
+              "text": "Sobre toda cosa guardada, guarda tu corazón..."
+            },
+            {
+              "display": "Efesios 4:25",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "25",
+              "translation": "Reina-Valera 1909",
+              "text": "Por lo cual, desechando la mentira, hablad verdad cada uno con su prójimo..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Día 4",
+      "title": "Cuidar el matrimonio no significa descuidarte a ti misma",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Efesios 5:28-29",
+            "book_code": "EPH",
+            "chapter": 5,
+            "verses": "28-29",
+            "translation": "Reina-Valera 1909",
+            "text": "Así también los maridos deben amar a sus mujeres como a sus mismos cuerpos. El que ama a su mujer, a sí mismo se ama. Porque ninguno aborreció jamás a su propia carne, sino que la sustenta y la regala..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A menudo se confunde el auto-cuidado con el egoísmo, pero una persona que ha sido agotada durante demasiado tiempo no puede seguir amando bien indefinidamente.",
+            "Es fácil seguir dejando tus propias necesidades de lado porque siempre hay algo más urgente en el matrimonio, el hogar o la familia. Pero cuando \"puedo ocuparme de eso después\" se convierte en una forma de vida, el alma se seca. Con el tiempo, esa sequedad no permanece privada. Comienza a afectar la relación también.",
+            "Efesios habla del amor de formas que asumen la dignidad del cuerpo y del yo. El matrimonio nunca fue diseñado para ser sostenido por el auto-negligencia constante de una persona. Una unión saludable no es meramente dos personas permaneciendo juntas. Son dos personas que permanecen lo suficientemente vivas para amar.",
+            "Muchas de nosotras hemos convertido \"puedo seguir adelante\" en una forma de vida a largo plazo. Pero la resistencia sin reabastecimiento no hace automáticamente que el amor sea más saludable. Frecuentemente hace que una persona esté más seca. Dios nos dio cuerpos, límites emocionales y necesidades reales no para avergonzarnos, sino para enseñarnos cómo vivir fielmente dentro de ellos.",
+            "A veces, el acto más saludable del amor no es intentar más duro, sino recibir suficiente cuidado para volverse completamente presente nuevamente.",
+            "**Una persona agotada no se vuelve más amorosa simplemente por esforzarse más.** Considera qué necesidad básica has ignorado durante demasiado tiempo. Descanso, quietud, espacio, apoyo, tiempo con Dios. Estas no son lujos. Son parte de cómo una persona permanece capaz de amar con firmeza.",
+            "El cuidado recibido a menudo es parte de la fuerza que más tarde se convierte en cuidado dado."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, corrige mi malentendimiento del auto-cuidado. Si he estado tratando el auto-negligencia como amor, muéstrame cómo eso solo me deja más agotada. Ayúdame a tomar las necesidades básicas en serio nuevamente, y enséñame que cuidarme a mí misma no es apartarme del matrimonio, sino parte de vivir en él más saludablemente. Protege mi corazón de endurecerse lentamente bajo la decepción, fatiga o resentimiento tranquilo. Enséñame a hablar con veracidad, estar de pie con ternura, y traer incluso mis necesidades no expresadas a Tu presencia en lugar de enterrarlas en silencio. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Efesios 5:28-29",
+              "book_code": "EPH",
+              "chapter": 5,
+              "verses": "28-29",
+              "translation": "Reina-Valera 1909",
+              "text": "Así también los maridos deben amar a sus mujeres como a sus mismos cuerpos. El que ama a su mujer, a sí mismo se ama. Porque ninguno aborreció jamás a su propia carne, sino que la sustenta y la regala..."
+            },
+            {
+              "display": "Marcos 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "Reina-Valera 1909",
+              "text": "Y él les dijo: Venid vosotros aparte a un lugar desierto, y descansad un poco."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Día 5",
+      "title": "Mis necesidades insatisfechas también pueden ser traídas ante Dios",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 62:8",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "8",
+            "translation": "Reina-Valera 1909",
+            "text": "Confiad en él en todo tiempo, oh pueblos; derramad delante de él vuestro corazón; Dios es nuestro refugio."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Una de las partes más difíciles del matrimonio no es siempre el conflicto abierto, sino el dolor callado de las necesidades no satisfechas durante mucho tiempo.",
+            "La necesidad de ser entendida, apreciada, respondida, notada, confortada, y satisfecha emocionalmente. Cuando esas necesidades permanecen sin tocar durante demasiado tiempo, algo dentro de nosotras puede endurecerse o volverse adormecida. Nos decimos a nosotras mismas que no esperemos demasiado porque la decepción duele.",
+            "Los Salmos hacen espacio para la necesidad. No pretenden fortaleza donde hay vacío. El matrimonio no elimina la realidad del anhelo. Dios sabe lo que no has recibido de tu cónyuge, y Él no menosprecia el dolor de esa ausencia. Traer necesidad a Él no es deslealtad. Es una forma de verdad.",
+            "Muchas personas casadas se sienten avergonzadas por estas necesidades, como si nombrarlas significa que la relación ha fallado o que ellas mismas están pidiendo demasiado. Pero Dios nunca nos pide que probemos madurez a través de adormecimiento. Frecuentemente la madurez comienza cuando finalmente podemos decir, sin dramatismo y sin vergüenza, esto es lo que he estado echando de menos y por qué duele.",
+            "Esa honestidad puede no cambiar todo de una vez, pero mantiene tu corazón de volverse duro en lugares ocultos. La gracia frecuentemente entra a través del hambre nombrada.",
+            "**Traer necesidad insatisfecha ante Dios no es renunciar al matrimonio. Es dejar que la gracia entre en el lugar de la falta.** Hoy, cuéntale a Dios una necesidad que has llevado principalmente en silencio. Incluso si aún no sabes cómo expresarla en tu matrimonio, puedes expresarla a Él."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, traigo ante Ti las necesidades que he llevado durante mucho tiempo y apenas me atreví a admitir. Gracias porque no te molesta mi anhelo, y porque no descartas mi decepción en el matrimonio. Consuélame primero, y mantén mi corazón de endurecerse dentro de este dolor. Si hay cosas que necesito hablar con mi cónyuge, dame sabiduría y el momento correcto. Protege mi corazón de endurecerse lentamente bajo la decepción, fatiga o resentimiento tranquilo. Enséñame a hablar con veracidad, estar de pie con ternura, y traer incluso mis necesidades no expresadas a Tu presencia en lugar de enterrarlas en silencio. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Confiad en él en todo tiempo, oh pueblos; derramad delante de él vuestro corazón; Dios es nuestro refugio."
+            },
+            {
+              "display": "Filipenses 4:6",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "6",
+              "translation": "Reina-Valera 1909",
+              "text": "Por nada estéis afanosos; sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con hacimiento de gracias."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Día 6",
+      "title": "Dios no solo está reparando el matrimonio; también me cuida a mí dentro de él",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Salmo 56:8",
+            "book_code": "PSA",
+            "chapter": 56,
+            "verses": "8",
+            "translation": "Reina-Valera 1909",
+            "text": "Tú has contado mis huidas; pon mis lágrimas en tu redoma..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "A veces reducimos todo a una pregunta: ¿cómo puede ser reparado este matrimonio?",
+            "Eso importa. Dios se preocupa por el pacto, la reconciliación y la sanación. Pero no solo se preocupa por el matrimonio como institución. También se preocupa por ti dentro de él. Él ve las lágrimas, agotamiento, esfuerzo, dolor y espera que pertenecen a tu propia historia. El Salmo 56 dice que Dios guarda nuestras lágrimas. Ese no es lenguaje sentimental. Es cuidado personal.",
+            "Frecuentemente nos olvidamos de esto nosotros mismos. Asumimos que si el matrimonio puede mejorar, nuestro propio cansancio puede esperar. Pero Dios no te trata de esa manera. Él no te pide que desaparezcas por la reparación. Él se preocupa por el pacto, y también se preocupa por la mujer que ha estado llevando tanto dentro de él.",
+            "Eso significa que tu sanación no es un problema secundario. Es parte de la ternura con la que Dios está sosteniendo esta historia completa.",
+            "**Dios valora el matrimonio, y también valora a la mujer dentro del matrimonio.** Hoy, no ores solo por la relación. Ora por tu propio corazón, cuerpo y vida emocional. No eres un accesorio a este matrimonio. Eres alguien a quien Dios está atendiendo con ternura.",
+            "Tus lágrimas no son una nota al margen en esta historia; son parte de lo que Dios está tiernamente atendiendo.",
+            "Él no te pide que esperes hasta que el matrimonio sea sanado antes de que tu propio corazón sea permitido recibir cuidado.",
+            "Su compasión no espera resultados antes de moverse hacia ti."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias porque no solo ves mi matrimonio, sino también me ves a mí dentro de él. Gracias por no pasar por alto mi cansancio, herida y lágrimas que nadie más conoce. Hoy me traigo a Ti también. Cuida de mí, sáname, y sostenme. Recuérdame que en Tus ojos no soy secundaria a esta relación. Yo también soy profundamente vista y valorada. Si hay un lugar donde necesito arrepentirme, hablar, esperar, o aprender a amar de nuevo, guíame allí Tú mismo, y no dejes que el orgullo mantenga fuera la gracia. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Salmo 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "Reina-Valera 1909",
+              "text": "Tú has contado mis huidas; pon mis lágrimas en tu redoma..."
+            },
+            {
+              "display": "1 Pedro 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Reina-Valera 1909",
+              "text": "Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Día 7",
+      "title": "Amar profundamente mientras permanezco arraigada en Dios",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoy",
+          "verse": {
+            "display": "Juan 15:4",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "4",
+            "translation": "Reina-Valera 1909",
+            "text": "Permaneced en mí, y yo en vosotros..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexión guiada",
+          "paragraphs": [
+            "Al final de estos siete días, el matrimonio en sí mismo puede no estar completamente resuelto.",
+            "Pero algo aún puede volverse más claro: Dios no nos ha llamado a perder nosotras mismas dentro del amor. Nos llama a amar profundamente, y a permanecer arraigadas en Él mientras lo hacemos. El matrimonio importa, pero no es la fuente final de identidad. Porque Dios es más profundo que el matrimonio, somos capaces de amar fielmente sin entregar el significado completo de nuestras vidas al estado de la relación.",
+            "Juan 15 dice: \"Permaneced en mí.\" Ese mandamiento importa profundamente en el matrimonio. Si no tenemos una raíz más profunda que la relación, entonces cada temblor en la relación puede temblarnos completamente. Pero cuando Dios sigue siendo nuestro centro más verdadero, podemos enfrentar dificultad matrimonial sin perder nuestro propio fundamento interior.",
+            "Hay profunda firmeza en eso. Cuando Dios permanece como la raíz más profunda, la condición del matrimonio ya no se convierte en la única fuente de significado. Puedes tomar la relación en serio sin hacerla tu centro final. Puedes sufrir, esperar, reparar, y aguardar sin ser espiritualmente desraigada cada vez que el matrimonio tiembla.",
+            "Ese tipo de arraigo no hace el amor más pequeño. Lo hace más libre, menos desesperado, y más capaz de perdurar sin consumir al yo.",
+            "**El matrimonio es importante, pero no es la raíz más profunda de mi alma.** Que esto sea un nuevo comienzo. No apartándose del matrimonio, sino volviendo a Dios más profundamente dentro de él. Eso hace el amor más maduro, y al yo más libre."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oración",
+          "body": "Señor, gracias por recordarme nuevamente que el matrimonio importa profundamente, pero Tú eres más profundo aún. Ayúdame a no perder Te o perder a mí misma en la obra de amar. Enraízame más profundamente en Ti, para que sea que esté enfrentando reparación, espera, decepción, o esperanza en el matrimonio, permanezca sostenida en un centro que no puede ser quitado de mí. Protege mi corazón de endurecerse lentamente bajo la decepción, fatiga o resentimiento tranquilo. Enséñame a hablar con veracidad, estar de pie con ternura, y traer incluso mis necesidades no expresadas a Tu presencia en lugar de enterrarlas en silencio. En el nombre de Jesús, amén.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoy",
+          "verses": [
+            {
+              "display": "Juan 15:4",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "4",
+              "translation": "Reina-Valera 1909",
+              "text": "Permaneced en mí, y yo en vosotros..."
+            },
+            {
+              "display": "Salmo 73:26",
+              "book_code": "PSA",
+              "chapter": 73,
+              "verses": "26",
+              "translation": "Reina-Valera 1909",
+              "text": "Mi carne y mi corazón desfallecen; mas la roca de mi corazón, y mi porción es Dios para siempre."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

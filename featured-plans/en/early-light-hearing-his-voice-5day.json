@@ -1,0 +1,350 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "LS02",
+    "slug": "hearing-his-voice",
+    "category": {
+      "primary": "life-seasons",
+      "primary_label": "Life Seasons",
+      "secondary": "early-light",
+      "secondary_label": "Early Light"
+    },
+    "tags": [
+      "young-women",
+      "early-career",
+      "calling",
+      "identity",
+      "ambition",
+      "early-adulthood"
+    ],
+    "title": "Hearing His Voice in a Noisy World",
+    "subtitle": "Finding quiet direction when life gets loud",
+    "audience": {
+      "life_stage": [
+        "young-women",
+        "twenties",
+        "early-career"
+      ],
+      "emotional_state": [
+        "hopeful",
+        "uncertain",
+        "searching-for-direction"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "For the woman trying to find direction in a world crowded with opinions, options, and noise, and longing to hear God more clearly.",
+    "duration_days": 5,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#A8D8B9",
+      "color_secondary": "#3A6B45",
+      "image_key": "cover_woman_morning_window_spring_light",
+      "icon": "young-tree-with-blossoms-circle"
+    },
+    "key_verses": [
+      {
+        "display": "John 10:3-5",
+        "book_code": "JHN",
+        "chapter": 10,
+        "verses": "3-5"
+      },
+      {
+        "display": "1 Samuel 3:9-10",
+        "book_code": "1SA",
+        "chapter": 3,
+        "verses": "9-10"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "Not Every Loud Voice Deserves My Obedience",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "John 10:3-5",
+            "book_code": "JHN",
+            "chapter": 10,
+            "verses": "3-5",
+            "translation": "KJV",
+            "text": "The sheep hear his voice... and he calleth his own sheep by name, and leadeth them out... and the sheep follow him: for they know his voice. And a stranger will they not follow..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "One of the deepest forms of exhaustion in young adulthood is not always having too much to do. It is having too many voices telling you how to live. Before the day even begins, someone is already teaching you how to build a career, optimize your habits, manage your body, improve your relationships, and avoid wasting your twenties. Much of it sounds wise. Much of it sounds urgent. But when all those voices rush in together, the soul often becomes less clear, not more.",
+            "In John 10, Jesus says that the sheep know the shepherd’s voice, and that they will not follow a stranger because they do not know his voice. That image is deeply comforting. Discerning God’s voice is not presented as a gift reserved for unusually advanced believers. It is described as a relationship of familiarity. The sheep know the shepherd because they belong to him and stay near him.",
+            "That matters in a loud world. The loudest voice is not automatically the truest one. The most polished voice is not always the safest guide. Many young women are led astray not because they are careless, but because they sincerely want direction and begin mistaking urgency for wisdom.",
+            "**God’s voice may not always be the loudest voice, but it will lead you toward greater truth, steadiness, and peace.** It will not simply inflame your fear or flatter your ambition. It will call you back into a clearer, more anchored way of living.",
+            "Today, ask a simple question about the voices shaping you: does this voice make me more frantic, or more faithful? More crowded inside, or more clear before God? That question will not solve everything, but it can help retrain your hearing. The voice most worth recognizing is still the Shepherd’s."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, the world is loud, and my heart is easily pulled in different directions. Sometimes I want answers so quickly that I absorb other people’s urgency before I have made room for Your wisdom. Have mercy on me, and train me to recognize Your voice again. Keep me from treating volume as truth, popularity as wisdom, or pressure as guidance. Build a quieter discernment in me, so that I grow more familiar with what comes from You and less easily ruled by what only crowds my mind. Thank You that You do not lead from a distance, but know me like a shepherd knows his sheep. Teach me to follow You in the middle of many voices. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "John 10:3-5",
+              "book_code": "JHN",
+              "chapter": 10,
+              "verses": "3-5",
+              "translation": "KJV",
+              "text": "The sheep hear his voice... and he calleth his own sheep by name, and leadeth them out... and the sheep follow him: for they know his voice. And a stranger will they not follow..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "God’s Guidance Does Not Always Arrive All at Once",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Acts 16:6-10",
+            "book_code": "ACT",
+            "chapter": 16,
+            "verses": "6-10",
+            "translation": "KJV",
+            "text": "They were forbidden of the Holy Ghost to preach the word in Asia... they assayed to go into Bithynia: but the Spirit suffered them not... and a vision appeared to Paul in the night; There stood a man of Macedonia..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "When many young adults ask God for guidance, what they often want is not only His presence, but a full map. Which job should I take? Should I move? Should I stay and keep trying, or is it time to change direction? Am I being faithful, or am I wasting time? The pressure of early adulthood is not always a lack of desire. It is often the weight of too many possibilities.",
+            "We tend to assume that if God is truly guiding us, He will make everything obvious at once. But Acts 16 tells a more realistic story. Paul and his companions are not given the Macedonian vision at the beginning. First they are restrained. They attempt one path, then another. They are redirected before the way becomes clearer. God’s guidance unfolds as they move, listen, adjust, and remain available.",
+            "That matters because it shows that spiritual direction is not always linear. God does not always hand over the final picture at the start. Sometimes He leads by stages. He closes one way, unsettles another, and then, in time, gives enough light for the next obedient step.",
+            "**Sometimes God is not absent. He is simply leading you in a way that requires trust instead of total control.** For a young woman surrounded by options, that can feel deeply uncomfortable. But uncertainty is not always proof that you are off course. It may simply mean you are still being led in real time.",
+            "So today, do not ask only, \"Why don’t I know everything yet?\" Ask also, \"What has God already made clear enough for today?\" Guidance often comes that way: not as a complete announcement, but as a road that slowly opens."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I often want You to explain the road all at once so I do not have to move through uncertainty. You know I am living in a season filled with options and the fear of choosing wrongly. Help me not to mistake partial clarity for Your absence. Give me a willing heart when You close one door, slow another path, or choose not to reveal everything yet. Thank You that You are not waiting only at the destination. You are with me in the turns, the pauses, the adjustments, and the new attempts. Teach me not only to want a map, but to want You. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Acts 16:6-10",
+              "book_code": "ACT",
+              "chapter": 16,
+              "verses": "6-10",
+              "translation": "KJV",
+              "text": "They were forbidden of the Holy Ghost to preach the word in Asia... they assayed to go into Bithynia: but the Spirit suffered them not... and a vision appeared to Paul in the night; There stood a man of Macedonia..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "God Often Speaks in Quietness, Not in Noise",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Isaiah 30:15",
+            "book_code": "ISA",
+            "chapter": 30,
+            "verses": "15",
+            "translation": "KJV",
+            "text": "For thus saith the Lord God, the Holy One of Israel; In returning and rest shall ye be saved; in quietness and in confidence shall be your strength..."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Our age easily confuses intensity with clarity. If something feels strong, exciting, urgent, or emotionally charged, we assume it must matter most. But early adulthood is already noisy enough on its own. Social feeds, opinions, urban speed, tired bodies, digital stimulation, and future pressure can keep a person in a constant state of reaction. In that kind of life, God’s voice may seem too quiet to notice.",
+            "That is why Isaiah’s words matter here. In Isaiah 30, the Lord tells His people that in returning and rest they will be saved, and that in quietness and confidence will be their strength. Scripture is teaching us something important: God does not always guide through spectacle. He often steadies and leads through stillness, receptivity, and a heart that has slowed down enough to receive Him.",
+            "Many young women are not ignoring God on purpose. They have simply become accustomed to paying attention only to what is loud. But not everything loud is deep, and not everything quiet is weak.",
+            "**If the soul never becomes still, subtle but real guidance will often be missed.** Silence is not wasted time. It is one of the places where the inner life becomes hearable again. You may not receive a dramatic answer every time you quiet yourself before God, but over time you become more discerning. You begin to notice what merely amplifies your emotion and what gently reorders your direction.",
+            "Today, make a little room for that kind of listening. Set down the background noise for a few minutes. Put the phone away. Let your heart become quiet before the Lord. You are not performing spirituality. You are making yourself available again."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I admit how accustomed I have become to loud things. I am used to living amid speed, stimulation, and constant reaction. Have mercy on me, and keep me from looking for You only in intensity. Do not let me assume that if Your guidance is not dramatic, it must not be real. Train my heart to become quiet, to slow down, and to wait for You in smaller places. If I have been surrounded by noise for too long, make room inside me again so I can hear the voice that steadies and redirects. Thank You that You do not only speak to outer storms. You also speak gently into the crowded places within me. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Isaiah 30:15",
+              "book_code": "ISA",
+              "chapter": 30,
+              "verses": "15",
+              "translation": "KJV",
+              "text": "For thus saith the Lord God, the Holy One of Israel; In returning and rest shall ye be saved; in quietness and in confidence shall be your strength..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Day 4",
+      "title": "God’s Voice Carries Truth and Bears Fruit",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Matthew 7:16-18",
+            "book_code": "MAT",
+            "chapter": 7,
+            "verses": "16-18",
+            "translation": "KJV",
+            "text": "Ye shall know them by their fruits... Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Discerning God’s voice is not only about asking, \"Do I feel stirred?\" It is also about asking, \"What kind of life is this direction producing in me?\" Some voices create excitement but also make a person more restless. Some opportunities look impressive but slowly weaken honesty, prayerfulness, or peace. In early adulthood, it is easy to be pulled off course by things that do not look obviously wrong. In fact, they may look admirable, strategic, or enviable.",
+            "Jesus teaches that trees are known by their fruit. That principle helps us here. A voice that consistently makes you more vain, hurried, performative, prayerless, or inwardly fragmented should not be trusted simply because it sounds ambitious or successful. God’s guidance may stretch you, correct you, or even ask you to lay something down, but over time it will bear different fruit. It will move you toward greater integrity, cleaner motives, steadier obedience, and deeper peace.",
+            "**The voice of God does not only influence where you go. It also shapes who you become while getting there.** That is why discernment must go deeper than opportunity alone. The real question is not only, \"Can I do this?\" but, \"What is this doing to my soul?\"",
+            "If you are weighing a direction right now, ask honestly: what is it feeding in me? Vanity? Fear? Comparison? Panic? Or patience, honesty, and reverence? God is rarely interested in impressiveness for its own sake. He is looking for fruit that lasts."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, rescue me from the kind of discernment that looks only at appearances, opportunities, or what other people will admire. Teach me to ask not only what sounds good, but what bears good fruit. If there are directions that look bright but are quietly draining my peace, my honesty, or my dependence on You, give me light to see clearly and courage to let go. And if there are paths that seem less impressive but would grow faithfulness, self-control, gentleness, and truth in me, keep me from overlooking them. Thank You that You care not only about where I end up, but about who I become. May what I follow truly be You. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Matthew 7:16-18",
+              "book_code": "MAT",
+              "chapter": 7,
+              "verses": "16-18",
+              "translation": "KJV",
+              "text": "Ye shall know them by their fruits... Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit."
+            },
+            {
+              "display": "Galatians 5:22-23",
+              "book_code": "GAL",
+              "chapter": 5,
+              "verses": "22-23",
+              "translation": "KJV",
+              "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, temperance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Day 5",
+      "title": "Hearing God Also Means Responding to Him",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "1 Samuel 3:9-10",
+            "book_code": "1SA",
+            "chapter": 3,
+            "verses": "9-10",
+            "translation": "KJV",
+            "text": "If he call thee, thou shalt say, Speak, Lord; for thy servant heareth... Then Samuel answered, Speak; for thy servant heareth."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Often when we say we want to hear God, what we really want is a reassuring answer. But in Scripture, hearing God is rarely only about receiving information. It is usually an invitation into response. When the young Samuel heard God calling in the night, he did not recognize the voice at first. With Eli’s help, he learned to answer, \"Speak; for thy servant heareth.\" That posture matters. Discernment begins not with mastery, but with willingness.",
+            "This is especially important in early adulthood, because spiritual life can become another form of information anxiety. Am I missing God’s plan? Am I failing to find the correct version of my future? But what matures the heart is not only hearing something new. It is responding faithfully to what has already been made clear.",
+            "Sometimes God does not say more because we are still being invited to obey what we have already heard. A listening life is not built by chasing constant novelty. It is built by a heart that stays available, teachable, and ready to respond.",
+            "**Those who truly learn to hear God often become the same people who learn to answer Him.** That answer may be quiet. It may be one honest decision, one surrendered habit, one small act of obedience, or one restored daily rhythm with God. But each response deepens the relationship.",
+            "So today, do not search first for a more dramatic word. Ask instead: what has God already been putting His finger on in me? Where has He already been inviting a response? Hearing grows sharper when obedience grows simpler. \"Speak, Lord\" is a beautiful prayer, but so is this one: \"I am ready to answer.\""
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, thank You that You are willing not only to speak, but also to teach me how to listen. Forgive me for wanting answers that calm me more than words that transform me. Give me a heart like Samuel’s, not pretending to understand everything, not rushing to control, but simply saying before You, \"Speak, Lord; for thy servant heareth.\" If You have already been pointing to places in my life that need adjustment, surrender, beginning, or stopping, give me the courage to respond. Keep me from collecting spiritual information without living it. May I grow more familiar with Your voice and more willing to let that voice shape my steps. In Jesus' name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "1 Samuel 3:9-10",
+              "book_code": "1SA",
+              "chapter": 3,
+              "verses": "9-10",
+              "translation": "KJV",
+              "text": "If he call thee, thou shalt say, Speak, Lord; for thy servant heareth... Then Samuel answered, Speak; for thy servant heareth."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

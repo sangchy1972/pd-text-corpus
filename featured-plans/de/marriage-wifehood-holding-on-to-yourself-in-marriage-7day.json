@@ -1,0 +1,520 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI09",
+    "slug": "holding-on-to-yourself-in-marriage",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "marriage-wifehood",
+      "secondary_label": "Ehe und Ehefrau"
+    },
+    "tags": [
+      "ehe",
+      "ehefrau",
+      "partnerschaft",
+      "kommunikation",
+      "bund",
+      "liebe"
+    ],
+    "title": "In der Ehe sich selbst bewahren",
+    "subtitle": "Ganz zu bleiben, während man tief liebt",
+    "audience": {
+      "life_stage": [
+        "verheiratete Frauen",
+        "Ehefrauen"
+      ],
+      "emotional_state": [
+        "verbindlich",
+        "gefordert",
+        "Erneuerung suchend"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Diese sieben Tage begleiten Sie tiefer durch emotionale Lasten, Erschöpfung und Identitätskonflikte in der Ehe und helfen Ihnen, tief zu lieben, ohne sich selbst zu verlieren.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#D4B896",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_quiet_kitchen_morning_warm",
+      "icon": "two-rings-circle"
+    },
+    "key_verses": [
+      {
+        "display": "1. Mose 2:24",
+        "book_code": "GEN",
+        "chapter": 2,
+        "verses": "24"
+      },
+      {
+        "display": "Johannes 15:4",
+        "book_code": "JHN",
+        "chapter": 15,
+        "verses": "4"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Jemanden zu lieben bedeutet nicht, dass ich verschwinden muss",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "1. Mose 2:24",
+            "book_code": "GEN",
+            "chapter": 2,
+            "verses": "24",
+            "translation": "Lutherbibel 1912",
+            "text": "Darum wird ein Mann seinen Vater und seine Mutter verlassen und seinem Weibe anhängen, und sie werden sein ein Fleisch."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Eines der leisesten Verluste in einer Ehe ist das langsame Verschwinden des Selbst.",
+            "Sie erinnern sich, verwalten, tragen, besänftigen, passen sich an und halten die Dinge zusammen. Das Leben geht weiter. Die Ehe bleibt bestehen. Aber irgendwo in Ihrem Inneren beginnt eine Frage zu entstehen: Wie viel von mir bin ich wirklich noch hier präsent? Liebe war niemals dazu gedacht, eine Person auszulöschen, doch viele von uns verschieben sich selbst langsam und unmerklich immer weiter nach hinten.",
+            "Die Genesis sagt, dass zwei ein Fleisch werden. Doch Einheit sollte niemals Auslöschung bedeuten. Gott hat die Ehe nicht dazu entworfen, dass eine Person verblasst, während die andere vollständiger bleibt. Union ist nicht dasselbe wie Absorption. Liebe sollte Platz für Ganzheit schaffen, nicht ihre Aufgabe verlangen.",
+            "Oft geschieht dieser Verlust leise. Nicht in einer dramatischen Tat, sondern durch tägliche Muster des Zurücktretens, Anpassens, Minimierens und Aufschubs Ihrer selbst. Mit der Zeit kann eine Frau vergessen, dass sie auch Wünsche, Überzeugungen, Rhythmen und Gaben hat, die vor Gott noch wichtig sind. Er behandelt diese Dinge nicht als lästig. Es kümmert Ihn, ob die Liebe Raum für die Person lässt, die Er Sie sein ließ.",
+            "Sich selbst in der Ehe zu bewahren ist keine Selbstsucht. Es ist eine Weise, das Ebenbild Gottes in Ihnen zu ehren und gleichzeitig einen anderen Menschen gut zu lieben.",
+            "**Die Ehe wurde für Vereinigung geschaffen, nicht für Auslöschung.** Überlegen Sie heute, welche Teile von sich selbst stillschweigend zu weit in den Hintergrund getreten sind. Gott nennt diese Sorge nicht egoistisch. Es kümmert Ihn, ob Sie noch als ganze Person in der Liebe leben."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, wenn ich in der Ehe schon zu sehr daran gewöhnt bin, mich selbst zuletzt zu stellen, hilf mir, das zu sehen. Lehre mich, dass Liebe keine Auslöschung ist und dass ich nicht aufgefordert wurde, mich selbst ganz zu verschlucken, um liebevoll zu bleiben. Behüte mich und hilf mir, ganz zu bleiben, während ich liebe. Behüte mein Herz davor, unter Enttäuschung, Erschöpfung oder stiller Verbitterung langsam zu verhärten. Lehre mich, wahrheitsgemäß zu sprechen, sanft zu stehen und auch meine unausgesprochenen Bedürfnisse in Deine Gegenwart zu bringen, anstatt sie in Stille zu begraben. Im Namen Jesu bete ich. Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "1. Mose 2:24",
+              "book_code": "GEN",
+              "chapter": 2,
+              "verses": "24",
+              "translation": "Lutherbibel 1912",
+              "text": "Darum wird ein Mann seinen Vater und seine Mutter verlassen und seinem Weibe anhängen, und sie werden sein ein Fleisch."
+            },
+            {
+              "display": "Markus 12:31",
+              "book_code": "MRK",
+              "chapter": 12,
+              "verses": "31",
+              "translation": "Lutherbibel 1912",
+              "text": "Du sollst deinen Nächsten lieben wie dich selbst."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Emotionale Arbeit kann einen Menschen leise völlig aufzehren",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Galater 6:2",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "2",
+            "translation": "Lutherbibel 1912",
+            "text": "Einer trage des anderen Last, so werdet ihr das Gesetz Christi erfüllen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Es gibt eine Art von Müdigkeit in einer Ehe, die nicht immer im Zeitplan erscheint, doch überall im Körper und Herzen zu Hause ist.",
+            "Sie verfolgen Bedürfnisse, steuern Stimmungen, mildern Spannungen, voraus Konflikte und absorbieren Instabilität, bevor sie überläuft. Ein großer Teil dieser Arbeit bleibt unsichtbar. Das ist teilweise, warum emotionale Arbeit so erschöpfend ist. Sie hat Gewicht, aber oft keinen Namen. Sie können weiter funktionieren und doch innerlich stiller immer leerer werden.",
+            "Der Galaterbrief sagt uns, füreinander die Lasten zu tragen. Die Ehe sollte gegenseitiges Tragen einschließen, nicht dass eine Person stillschweigend das ganze emotionale Klima des ganzen Heims hält. Gott sieht die unsichtbare Arbeit. Er behandelt sie nicht als alltäglich oder entbehrlich.",
+            "Ein Teil dessen, was emotionale Arbeit so entmutigend macht, ist, dass sie selten benannt wird. Menschen merken, dass das Haus nicht explodiert ist, dass Spannungen gemildert wurden, dass jeder sonst relativ stabil blieb. Sie sehen nicht immer, wer den Aufprall zuerst absorbiert hat. Gott sieht das. Er nennt Ihre unsichtbare Arbeit nicht klein, nur weil sie keine sichtbare Sprache hat.",
+            "Das Benennen dieser verborgenen Arbeit kann selbst ein Teil der Heilung sein. Es bricht die falsche Annahme, dass alle unsichtbare Stabilität in einer Ehe weiterhin von einer Person allein getragen werden muss.",
+            "**Wenn eine Person weiterhin als emotionale Lastwand fungiert, wird ihre Kraft irgendwann dünn.** Fragen Sie sich heute, welche verborgenen Lasten Sie schon lange tragen. Sie in Gottes Licht zu bringen könnte einer der ersten Schritte zur Wiederherstellung sein.",
+            "Was ehrlich geteilt wird, kann endlich auch relational geteilt werden."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, du siehst das verborgene Gewicht, das ich in der Ehe trage. Danke, dass Du siehst, was niemand sonst vollständig sieht. Lass mich nicht mehr an den Stellen ausbrennen, die nie gehalten werden. Lehre mich, wie ich diese unsichtbaren Lasten ans Licht bringen kann, anstatt sie auf ewig stillschweigend zu tragen. Behüte mein Herz davor, unter Enttäuschung, Erschöpfung oder stiller Verbitterung langsam zu verhärten. Lehre mich, wahrheitsgemäß zu sprechen, sanft zu stehen und auch meine unausgesprochenen Bedürfnisse in Deine Gegenwart zu bringen, anstatt sie in Stille zu begraben. Im Namen Jesu bete ich. Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Galater 6:2",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "2",
+              "translation": "Lutherbibel 1912",
+              "text": "Einer trage des anderen Last, so werdet ihr das Gesetz Christi erfüllen."
+            },
+            {
+              "display": "Matthäus 11:28",
+              "book_code": "MAT",
+              "chapter": 11,
+              "verses": "28",
+              "translation": "Lutherbibel 1912",
+              "text": "Kommet her zu mir, alle, die ihr mühselig und beladen seid; ich will euch erquicken."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Grenzen lehnen die Ehe nicht ab; sie schützen das Leben",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Sprüche 4:23",
+            "book_code": "PRO",
+            "chapter": 4,
+            "verses": "23",
+            "translation": "Lutherbibel 1912",
+            "text": "Behüte dein Herz mehr als alles andere; denn daraus geht das Leben."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "In einer Ehe werden Grenzen oft missverstanden als Kälte, besonders wenn Sie lange gelehrt wurden, dass eine gute Ehefrau immer nachgeben, aufnehmen und unterbringen sollte.",
+            "Doch wenn Nachgeben zur Selbstauslöschung wird, sind Grenzen nicht mehr optional. Sie werden zu einer Weise, wie Leben geschützt ist. Die Sprichwörter sagen, Ihr Herz über allem zu bewachen. Die Ehe hebt diese Weisheit nicht auf. Wenn überhaupt, macht eine enge Beziehung es noch wichtiger. Je näher die Bindung ist, desto wichtiger wird es, wahrheitsgemäß zu bleiben über das, was Ihre Seele tragen kann.",
+            "Grenzen stoßen Liebe nicht weg. Sie halten Liebe davon ab, auf Ihrer Unausgeglichenheit gebaut zu werden. Eine gesunde Ehe bricht nicht allein zusammen, weil Sie ehrlich über Ihre Grenzen sprechen. Wenn sie gewaltsam auf Ihre Grenzen reagiert, sagt das Ihnen etwas Wichtiges.",
+            "Viele Frauen fürchten sich vor Grenzen nicht, weil sie glauben, dass Grenzen falsch sind, sondern weil sie fürchten, was Ehrlichkeit kosten wird. Wenn Ihre Grenze zu benennen sofort gefährlich anfühlt, offenbart das bereits etwas über die Form der Beziehung. Gott verließ Sie nicht, wenn Sie wahrheitsgemäß werden. Er hält Sie oft am deutlichsten dort.",
+            "Und wenn eine Grenze ehrlich gesprochen wird, kann sie zum Anfang einer wahrheitsgetreueren Ehe werden, anstatt zum Ende der Zärtlichkeit.",
+            "**Grenzen sind nicht gegen Liebe. Sie halten Liebe davon ab, die Person darin zu konsumieren.** Wenn es eine Grenze gibt, die Sie fürchten zu nennen, schreiben Sie sie heute auf. Selbst wenn Sie nicht bereit sind, sie laut auszusprechen, lassen Sie sich selbst anerkennen, dass sie wichtig ist.",
+            "Grenzen können zu einer Weise werden, wie Wahrheit die Liebe nachhaltiger macht."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, lass mich nicht länger Grenzenlosigkeit mit Liebe verwechseln. Wenn ich Angst vor Grenzen habe, weil ich nicht den Frieden in der Ehe stören möchte, halte mich fest. Lehre mich, mein Herz ehrlicher zu bewachen, und hilf mir zu vertrauen, dass Du mich nicht verlässt, wenn ich die Wahrheit sage. Gib mir Unterscheidung und gesunde Grenzen, damit meine Sanftheit keine Selbstverräterei ist und meine Liebe mich nicht meine Integrität kostet. Danke, dass Du von meiner Schwäche nicht abgestoßen bist, sondern bereit bist, Dich zu nähern, mich zu halten und mich weiter zu lehren. Im Namen Jesu bete ich. Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Sprüche 4:23",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23",
+              "translation": "Lutherbibel 1912",
+              "text": "Behüte dein Herz mehr als alles andere; denn daraus geht das Leben."
+            },
+            {
+              "display": "Epheser 4:25",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "25",
+              "translation": "Lutherbibel 1912",
+              "text": "Darum leget die Lüge ab und redet Wahrheit, ein jeglicher mit seinem Nächsten."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Tag 4",
+      "title": "Die Ehe zu pflegen bedeutet nicht, sich selbst zu vernachlässigen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Epheser 5:28-29",
+            "book_code": "EPH",
+            "chapter": 5,
+            "verses": "28-29",
+            "translation": "Lutherbibel 1912",
+            "text": "Also auch die Männer sollen ihre Weiber lieben wie ihre eigenen Leiber... Denn niemand haßt sein Fleisch, sondern er nährt und pflegt es."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Selbstfürsorge wird oft mit Egoismus verwechselt, doch eine Person, die lange ausgelaugt wurde, kann nicht auf unbestimmte Zeit gut lieben.",
+            "Es ist leicht, Ihre eigenen Bedürfnisse immer weiter zu verschieben, weil es in der Ehe, zu Hause oder Familie immer etwas Dringenderes gibt. Doch wenn \"Ich kann damit später umgehen\" zu einer Lebensweise wird, trocknet die Seele aus. Mit der Zeit macht diese Trockenheit nicht vor der Beziehung halt. Sie beginnt, auch die Beziehung zu beeinflussen.",
+            "Der Epheserbrief spricht von Liebe auf Weise, die den Wert des Körpers und des Selbst annehmen. Die Ehe war nie dazu gedacht, durch ständige Selbstvernachlässigung einer Person aufrechterhalten zu werden. Eine gesunde Union ist nicht bloß, dass zwei Menschen zusammenbleiben. Es ist, dass zwei Menschen lebendig genug bleiben, um zu lieben.",
+            "Viele von uns haben \"Ich kann das durchstehen\" zu einer langfristigen Lebensweise gemacht. Aber Ausdauer ohne Erneuerung macht die Liebe nicht automatisch gesünder. Sie macht oft eine Person trockener. Gott gab uns Körper, emotionale Grenzen und echte Bedürfnisse nicht, um uns zu beschämen, sondern um uns zu lehren, wie wir treu in ihnen leben.",
+            "Manchmal ist die liebevollere Handlung nicht, es härter zu versuchen, sondern genug Fürsorge zu empfangen, um wieder vollständig präsent zu sein.",
+            "**Eine ausgelaugte Person wird nicht liebevoller, nur weil sie härter drückt.** Überlegen Sie, welches grundlegende Bedürfnis Sie zu lange ignoriert haben. Ruhe, Stille, Raum, Unterstützung, Zeit mit Gott. Dies sind keine Luxusgüter. Sie sind Teil davon, wie eine Person in der Lage bleibt, mit Beständigkeit zu lieben.",
+            "Empfangene Fürsorge ist oft Teil der Kraft, die später zur gegebenen Fürsorge wird."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, korrigiere mein Missverständnis von Selbstfürsorge. Wenn ich Selbstvernachlässigung als Liebe behandelt habe, zeige mir, dass das mich nur immer verbrauchter lässt. Hilf mir, grundlegende Bedürfnisse wieder ernst zu nehmen, und lehre mich, dass die Sorge um mich selbst nicht bedeutet, die Ehe zu verlassen, sondern ein Teil des gesünderen Lebens in ihr. Behüte mein Herz davor, unter Enttäuschung, Erschöpfung oder stiller Verbitterung langsam zu verhärten. Lehre mich, wahrheitsgemäß zu sprechen, sanft zu stehen und auch meine unausgesprochenen Bedürfnisse in Deine Gegenwart zu bringen, anstatt sie in Stille zu begraben. Im Namen Jesu bete ich. Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Epheser 5:28-29",
+              "book_code": "EPH",
+              "chapter": 5,
+              "verses": "28-29",
+              "translation": "Lutherbibel 1912",
+              "text": "Also auch die Männer sollen ihre Weiber lieben wie ihre eigenen Leiber... Denn niemand haßt sein Fleisch, sondern er nährt und pflegt es."
+            },
+            {
+              "display": "Markus 6:31",
+              "book_code": "MRK",
+              "chapter": 6,
+              "verses": "31",
+              "translation": "Lutherbibel 1912",
+              "text": "Kommt mit mir allein an einen wüsten Ort und ruhet ein wenig."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Tag 5",
+      "title": "Meine unerfüllten Bedürfnisse kann ich auch vor Gott bringen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 62:8",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "8",
+            "translation": "Lutherbibel 1912",
+            "text": "Vertrauet auf ihn allezeit, liebe Volk, schüttet euer Herz vor ihm aus; Gott ist unsere Zuflucht."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Eines der schwierigsten Dinge in einer Ehe ist oft nicht offener Konflikt, sondern der stille Schmerz von lange unerfüllten Bedürfnissen.",
+            "Das Bedürfnis, verstanden zu sein, geschätzt, beantwortet, beachtet, getröstet und emotional erfüllt. Wenn diese Bedürfnisse lange Zeit unberührt bleiben, kann etwas in uns erstarren oder taub werden. Wir sagen uns selbst, nicht zu viel zu erwarten, weil Enttäuschung schmerzt.",
+            "Die Psalmen machen Raum für Bedürfnis. Sie verbergen nicht Stärke, wo es Leere gibt. Die Ehe hebt die Realität der Sehnsucht nicht auf. Gott weiß, was Sie von Ihrem Ehepartner nicht erhalten haben, und Er unterschätzt nicht den Schmerz dieser Abwesenheit. Das Bedürfnis vor Ihm zu bringen ist keine Illoyalität. Es ist eine Form der Wahrheit.",
+            "Viele verheiratete Menschen schämen sich für diese Bedürfnisse, als würde das Benennen bedeuten, dass die Beziehung fehlgeschlagen hat oder sie selbst zu viel verlangen. Aber Gott fleht uns nie, Reife durch Taubheit zu beweisen. Oft beginnt Reife, wenn wir endlich ohne Drama und ohne Scham sagen können: Das ist, was mir gefehlt hat, und das ist, warum es schmerzt.",
+            "Diese Ehrlichkeit mag nicht alles auf einmal ändern, aber sie hält Ihr Herz davon ab, an verborgenen Orten hart zu werden. Gnade tritt oft durch benannten Hunger ein.",
+            "**Das Bedürfnis vor Gott zu bringen ist nicht, die Ehe aufzugeben. Es ist, Gnade in den Ort des Mangels eintreten zu lassen.** Erzähle Gott heute ein Bedürfnis, das du fast nur in Stille getragen hast. Selbst wenn du noch nicht weißt, wie du es in deiner Ehe sprichst, kannst du es Ihm sagen."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich bringe vor Dir die Bedürfnisse, die ich lange Zeit getragen habe und kaum auszusprechen wagte. Danke, dass Dir meine Sehnsucht nicht lästig ist und dass Du meine Enttäuschung in der Ehe nicht gering achtest. Tröste mich zuerst, und lehre mich, mein Herz nicht hard zu machen unter diesem Schmerz. Wenn es etwas gibt, das ich meinem Ehepartner sagen muss, gib mir Weisheit und den passenden Moment. Behüte mein Herz davor, unter Enttäuschung, Erschöpfung oder stiller Verbitterung langsam zu verhärten. Lehre mich, wahrheitsgemäß zu sprechen, sanft zu stehen und auch meine unausgesprochenen Bedürfnisse in Deine Gegenwart zu bringen, anstatt sie in Stille zu begraben. Im Namen Jesu bete ich. Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Vertrauet auf ihn allezeit, liebe Volk, schüttet euer Herz vor ihm aus; Gott ist unsere Zuflucht."
+            },
+            {
+              "display": "Philipper 4:6",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "6",
+              "translation": "Lutherbibel 1912",
+              "text": "Sorget nicht, sondern laßt in allem durch Gebet und Flehen mit Danksagung eure Anliegen vor Gott kund werden."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Tag 6",
+      "title": "Gott repariert nicht nur die Ehe; Er kümmert sich auch um mich darin",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 56:8",
+            "book_code": "PSA",
+            "chapter": 56,
+            "verses": "8",
+            "translation": "Lutherbibel 1912",
+            "text": "Du zählest meine Wanderung; sammle meine Tränen in deinen Krug."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal reduzieren wir alles auf eine Frage: Wie kann diese Ehe repariert werden?",
+            "Das ist wichtig. Gott kümmert sich um Bund, Versöhnung und Heilung. Doch Es ist Ihm nicht nur um die Ehe als Institution zu tun. Es kümmert Ihn auch um dich in ihr. Er sieht die Tränen, Erschöpfung, Mühe, Trauer und das Warten, das zu deiner eigenen Geschichte gehört. Der Psalm 56 sagt, dass Gott unsere Tränen aufbewahrt. Das ist keine sentimentale Sprache. Es ist persönliche Fürsorge.",
+            "Wir vergessen das oft selbst. Wir nehmen an, dass wenn die Ehe sich verbessern kann, unsere Müdigkeit warten kann. Aber Gott behandelt dich nicht so. Er fragt dich nicht, für die Ehe zu verschwinden. Er kümmert sich um den Bund, und er kümmert sich auch um die Frau, die so viel in ihm trägt.",
+            "Das bedeutet, deine Heilung ist nicht nebensächlich. Sie ist Teil der Zärtlichkeit, mit der Gott diese ganze Geschichte hält.",
+            "**Gott schätzt die Ehe, und Er schätzt auch dich in der Ehe.** Bete heute nicht nur für die Beziehung. Bete für dein eigenes Herz, deinen Körper und dein Gefühlsleben. Du bist nicht ein Anhängsel dieser Ehe. Du bist jemand, dem Gott sich mit Zärtlichkeit zuwendet.",
+            "Deine Tränen sind nicht eine Fußnote in dieser Geschichte; sie sind Teil dessen, dem sich Gott zärtlich zuwendet.",
+            "Er fordert dich nicht auf zu warten, bis die Ehe geheilt ist, bevor dein eigenes Herz Fürsorge empfangen darf.",
+            "Seine Barmherzigkeit wartet nicht auf Ergebnisse, bevor sie sich dir zuwendet."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass Du nicht nur meine Ehe siehst, sondern auch mich darin. Danke, dass Du meine Müdigkeit, Verletzung und Tränen nicht übersiehst, die niemand sonst kennt. Heute bringe ich mich auch vor Dir. Kümmere Dich um mich, heile mich und halte mich. Erinnere mich, dass ich in Deinen Augen nicht sekundär zu dieser Beziehung bin. Ich bin auch tiefst gesehen und geschätzt. Wenn es einen Ort gibt, wo ich bereuen, sprechen, warten oder von neuem lieben lernen muss, führe mich dorthin selbst, und lass nicht zu, dass Stolz die Gnade abhält. Im Namen Jesu bete ich. Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 56:8",
+              "book_code": "PSA",
+              "chapter": 56,
+              "verses": "8",
+              "translation": "Lutherbibel 1912",
+              "text": "Du zählest meine Wanderung; sammle meine Tränen in deinen Krug."
+            },
+            {
+              "display": "1. Petrus 5:7",
+              "book_code": "1PE",
+              "chapter": 5,
+              "verses": "7",
+              "translation": "Lutherbibel 1912",
+              "text": "Alle eure Sorge werfet auf ihn; denn ihm sorget für euch."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Tag 7",
+      "title": "Tief lieben und dabei in Gott verwurzelt bleiben",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Johannes 15:4",
+            "book_code": "JHN",
+            "chapter": 15,
+            "verses": "4",
+            "translation": "Lutherbibel 1912",
+            "text": "Bleibet in mir und ich in euch. Gleichwie die Rebe nicht Frucht bringen kann von sich selbst, wenn sie nicht am Weinstock bleibt, also auch ihr nicht, wenn ihr nicht in mir bleibet."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Am Ende dieser sieben Tage ist das Problem der Ehe vielleicht nicht vollständig gelöst.",
+            "Doch etwas kann klarer werden: Gott hat uns nicht aufgefordert, uns in der Liebe selbst zu verlieren. Er ruft uns auf, tief zu lieben und dabei in Ihm verwurzelt zu bleiben. Die Ehe ist wichtig, aber sie ist nicht die endgültige Quelle der Identität. Weil Gott tiefer ist als die Ehe, können wir treu lieben, ohne dem Zustand der Beziehung die ganze Bedeutung unseres Lebens zu überreichen.",
+            "Der Johannesbrief sagt: \"Bleibt in mir.\" Dieser Befehl ist in der Ehe besonders wichtig. Wenn wir keine tiefere Wurzel als die Beziehung haben, dann kann jeder Schlag in der Beziehung uns ganz schütteln. Aber wenn Gott unser wahrster Mittelpunkt bleibt, können wir uns ehelichen Schwierigkeiten stellen, ohne unseren eigenen inneren Grund zu verlieren.",
+            "Es gibt tiefe Stabilität darin. Wenn Gott die tiefste Wurzel bleibt, ist der Zustand der Ehe nicht länger die einzige Quelle der Bedeutung. Du kannst die Beziehung ernst nehmen, ohne sie zum endgültigen Zentrum zu machen. Du kannst trauern, hoffen, reparieren und warten, ohne spirituell entwurzelt zu werden, jedes Mal wenn die Ehe bebt.",
+            "Diese Art von Verwurzelung macht die Liebe nicht kleiner. Sie macht die Liebe freier, weniger verzweifelt und in der Lage, ohne Vertilgung des Selbst zu bestehen.",
+            "**Die Ehe ist wichtig, aber sie ist nicht die tiefste Wurzel meiner Seele.** Dies sei ein neuer Anfang. Nicht weg von der Ehe, sondern tiefer in Gott in ihr. Das macht die Liebe reifer und das Selbst freier."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, danke, dass Du mir wieder daran erinnert hast, dass die Ehe wichtig ist, doch Du bist noch tiefer. Hilf mir, Dich in der Liebe nicht zu verlieren und mich selbst nicht zu verlieren. Lass mich tiefer in Dir verwurzelt sein, damit ich, ob ich Reparatur, Warten, Enttäuschung oder Hoffnung in der Ehe gesichert habe, noch einen Mittelpunkt habe, der mir nicht genommen werden kann. Behüte mein Herz davor, unter Enttäuschung, Erschöpfung oder stiller Verbitterung langsam zu verhärten. Lehre mich, wahrheitsgemäß zu sprechen, sanft zu stehen und auch meine unausgesprochenen Bedürfnisse in Deine Gegenwart zu bringen, anstatt sie in Stille zu begraben. Im Namen Jesu bete ich. Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Johannes 15:4",
+              "book_code": "JHN",
+              "chapter": 15,
+              "verses": "4",
+              "translation": "Lutherbibel 1912",
+              "text": "Bleibet in mir und ich in euch. Gleichwie die Rebe nicht Frucht bringen kann von sich selbst, wenn sie nicht am Weinstock bleibt, also auch ihr nicht, wenn ihr nicht in mir bleibet."
+            },
+            {
+              "display": "Psalm 73:26",
+              "book_code": "PSA",
+              "chapter": 73,
+              "verses": "26",
+              "translation": "Lutherbibel 1912",
+              "text": "Wenn mir gleich Leib und Seele verschmachtet, so bist du doch Gott allezeit meines Herzens Trost und mein Teil."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

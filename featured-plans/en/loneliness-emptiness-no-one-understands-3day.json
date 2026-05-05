@@ -1,0 +1,255 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG10",
+    "slug": "no-one-understands",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Garden of Emotions",
+      "secondary": "loneliness-emptiness",
+      "secondary_label": "Loneliness & Emptiness"
+    },
+    "tags": [
+      "loneliness",
+      "emptiness",
+      "belonging",
+      "presence-of-god",
+      "fellowship"
+    ],
+    "title": "When No One Really Understands",
+    "subtitle": "For the woman who is not necessarily alone, yet still aches to feel truly understood.",
+    "audience": {
+      "life_stage": [
+        "adult-women",
+        "any-age"
+      ],
+      "emotional_state": [
+        "lonely",
+        "empty",
+        "unseen"
+      ],
+      "spiritual_stage": [
+        "any"
+      ]
+    },
+    "goal": "For the woman who is not necessarily alone, yet still aches to feel truly understood.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "KJV",
+    "cover": {
+      "color_primary": "#C8D2DA",
+      "color_secondary": "#4A5563",
+      "image_key": "cover_woman_quiet_room_lamp_evening_loneliness",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Genesis 16:13",
+        "book_code": "GEN",
+        "chapter": 16,
+        "verses": "13"
+      },
+      {
+        "display": "Psalm 68:6",
+        "book_code": "PSA",
+        "chapter": 68,
+        "verses": "6"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Day 1",
+      "title": "The Deepest Loneliness Is Not the Lack of People, but the Lack of Being Known",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Genesis 16:13",
+            "book_code": "GEN",
+            "chapter": 16,
+            "verses": "13",
+            "translation": "KJV",
+            "text": "And she called the name of the LORD that spake unto her, Thou God seest me."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Loneliness is often imagined as obvious isolation: eating alone, walking home alone, having no one to call. But many women experience something quieter and more confusing. They are surrounded by people and still feel profoundly alone. They are needed, included, spoken to, even depended on, yet they carry the private ache of not being deeply known. They know what it is like to keep functioning while feeling inwardly untouched.",
+            "That kind of loneliness can be especially painful because it is easy to dismiss. You may tell yourself that you should be grateful because technically you are not alone. You may minimize the ache because other people would not understand why you feel lonely in a full life. But Scripture makes room for this kind of pain. Psalm 25 does not say, “I am busy and successful.” It says, “I am desolate and afflicted.” God does not treat loneliness as melodrama. He receives it as something worthy of His attention.",
+            "Hagar’s story matters here because she meets God in a place of abandonment and names Him as the God who sees. That is a holy answer to one of loneliness’s deepest wounds. The deepest pain is often not simply the absence of company. It is the ache of not being truly seen. People may see your role, your usefulness, your strength, or your smile without seeing the grief, weariness, or hunger underneath. But God sees more deeply than human attention ever can.",
+            "**The deepest loneliness is not always the lack of people. It is the lack of being truly known.** That truth can bring clarity and relief. It means you are not weak for feeling lonely in a full life. You are naming a real kind of hunger.",
+            "Today, do not rush to fix the loneliness. Name it before God. Tell Him when you feel most unseen. **Healing often begins when loneliness stops being denied and starts being brought into the presence of the God who sees.** He is not standing at a distance from your ache. He is already looking directly at it with compassion."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "God who sees me, I admit that I have been truly lonely. Not because I am entirely without people, but because there are places in me that still feel deeply unknown. Thank You that You do not only see the outside of my life. You also see what I have not said aloud. Today I bring this loneliness before You instead of brushing past it or demanding that I quickly feel better. Meet me in the places where I feel most unseen. Let me know that I am not invisible, not forgotten, and not overlooked in Your presence. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Genesis 16:13",
+              "book_code": "GEN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "KJV",
+              "text": "And she called the name of the LORD that spake unto her, Thou God seest me."
+            },
+            {
+              "display": "Psalm 25:16",
+              "book_code": "PSA",
+              "chapter": 25,
+              "verses": "16",
+              "translation": "KJV",
+              "text": "Turn thee unto me, and have mercy upon me; for I am desolate and afflicted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Day 2",
+      "title": "What Is Empty Within Does Not Heal Simply Because Life Looks Full",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Luke 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "KJV",
+            "text": "Martha, Martha, thou art careful and troubled about many things: but one thing is needful."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "Many women do not feel empty because life is lacking activity. They feel empty in the middle of very full lives. Their days are crowded with work, family, messages, responsibilities, emotional labor, and expectations. From the outside, they may look steady, productive, generous, and capable. Yet there are moments when all that fullness fails to quiet the ache underneath. A packed life can fill time without filling the heart.",
+            "Martha’s story is deeply relevant here. She is not indifferent or lazy. She is attentive, responsible, and busy with meaningful things. Yet Jesus tells her that while she is troubled by many things, one thing is needful. He is not mocking her effort. He is naming a deeper issue: it is possible to be full of activity and still spiritually uncentered. It is possible to carry a meaningful life and still feel hollow inside.",
+            "Ecclesiastes says that God has set eternity in the human heart. That means there is a longing in us that productivity, approval, relationships, or usefulness cannot completely satisfy. Some emptiness remains because the soul is reaching for something deeper than external fullness can provide.",
+            "**What is empty within does not heal simply because life looks full.** That realization can feel sobering, but it is also freeing. It means you do not have to shame yourself for still feeling empty. You may simply be trying to treat a spiritual hunger with outer activity.",
+            "Today, ask gently: what have I been using to avoid feeling the emptiness? **When the heart stops hiding behind busyness, it can begin to receive what it truly needs.** God is not accusing you for being tired or overfull. He is inviting you to stop filling every open space long enough to let Him meet the hunger beneath it."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, I admit that my life is often very full, yet something in me still feels empty. Thank You that You do not ignore the hollow places of my heart simply because I still appear functional. Help me stop trying to fill myself only with busyness and responsibility. Give me honesty to admit that some of my deepest needs cannot be met by a fuller schedule or better performance. Teach me not to fear stillness, and do not let me keep covering what only You can address. Come into the most unsettled places within me, and let my heart begin to rest in You. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Luke 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "KJV",
+              "text": "Martha, Martha, thou art careful and troubled about many things: but one thing is needful."
+            },
+            {
+              "display": "Ecclesiastes 3:11",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "11",
+              "translation": "KJV",
+              "text": "He hath made every thing beautiful in his time: also he hath set the world in their heart."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Day 3",
+      "title": "The Heart Keeps Searching for Home Until It Comes to Rest in God",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Today's verse",
+          "verse": {
+            "display": "Psalm 68:6",
+            "book_code": "PSA",
+            "chapter": 68,
+            "verses": "6",
+            "translation": "KJV",
+            "text": "God setteth the solitary in families."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Guided Reflection",
+          "paragraphs": [
+            "One of the deepest human longings is not simply companionship, but home. We do not only want someone near us; we want a place where the heart can settle. Many women know the exhaustion of trying to find that sense of home in relationships, usefulness, approval, or being needed. These things can be meaningful and beautiful, but none of them can safely carry the full weight of the soul’s search for belonging.",
+            "That is why Scripture speaks with such power when it says that God sets the solitary in families and that Christ dwells in our hearts by faith. God’s answer to loneliness is not merely, “I will visit you sometimes.” It is, “I will make My home in you.” This changes everything. It means belonging is no longer dependent only on human consistency, human closeness, or human understanding. Those things still matter, but they are no longer asked to become your ultimate shelter.",
+            "**The heart keeps searching for home until it comes to rest in God.** That is not just a poetic thought. It is a lived truth. When the heart has no true resting place, it keeps reaching outward for something to secure it. It grasps for reassurance, recognition, attention, or closeness. But when Christ begins to dwell more deeply within you, the soul starts learning another kind of steadiness.",
+            "This does not mean you stop longing for healthy relationships. It means your deepest stability no longer depends entirely on them. **When God becomes the home of the heart, loneliness loses its absolute power to define you.** You may still feel the ache of being misunderstood, but you are no longer spiritually homeless.",
+            "Today, pray simply: “Lord, let the part of me that keeps searching for home begin to rest in You.” That is not the end of all loneliness, but it is the beginning of a deeper belonging."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prayer",
+          "body": "Lord, You know that my heart has been searching for home. So often I have believed that if I had more companionship, more understanding, or more reassurance, the emptiness would finally disappear. Thank You for reminding me today that true rest comes not only from what I have around me, but from who dwells within me. Come and make Your home more deeply in my heart. Settle the parts of me that keep searching everywhere else for belonging. Keep me from asking people to carry what only You can hold, and let me learn what it means to be at home in You. In Jesus’ name, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verses for today",
+          "verses": [
+            {
+              "display": "Psalm 68:6",
+              "book_code": "PSA",
+              "chapter": 68,
+              "verses": "6",
+              "translation": "KJV",
+              "text": "God setteth the solitary in families."
+            },
+            {
+              "display": "Ephesians 3:17-19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "17-19",
+              "translation": "KJV",
+              "text": "That Christ may dwell in your hearts by faith... that ye might be filled with all the fulness of God."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG12",
+    "slug": "empty-places-back-to-god",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardim das Emoções",
+      "secondary": "loneliness-emptiness",
+      "secondary_label": "Solidão e Vazio"
+    },
+    "tags": [
+      "solidao",
+      "vazio",
+      "pertencimento",
+      "presenca-de-deus",
+      "comunhao"
+    ],
+    "title": "Trazendo os Lugares Vazios do Meu Coração de Volta a Deus",
+    "subtitle": "Estes sete dias vão mais fundo na solidão e no vazio, trazendo o coração de volta à plenitude e presença de Deus.",
+    "audience": {
+      "life_stage": [
+        "mulheres adultas",
+        "qualquer idade"
+      ],
+      "emotional_state": [
+        "solitária",
+        "vazia",
+        "invisível"
+      ],
+      "spiritual_stage": [
+        "qualquer"
+      ]
+    },
+    "goal": "Estes sete dias vão mais fundo na solidão e no vazio, trazendo o coração de volta à plenitude e presença de Deus.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Almeida",
+    "cover": {
+      "color_primary": "#C8D2DA",
+      "color_secondary": "#4A5563",
+      "image_key": "cover_woman_quiet_room_lamp_evening_loneliness",
+      "icon": "open-door-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Gênesis 16:13",
+        "book_code": "GEN",
+        "chapter": 16,
+        "verses": "13"
+      },
+      {
+        "display": "Salmo 68:6",
+        "book_code": "PSA",
+        "chapter": 68,
+        "verses": "6"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Dia 1",
+      "title": "A Solidão Mais Aguda é a Dor de Não Ser Verdadeiramente Conhecido",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Gênesis 16:13",
+            "book_code": "GEN",
+            "chapter": 16,
+            "verses": "13",
+            "translation": "Almeida",
+            "text": "Disse então: Certamente que aqui vi a quem me via."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Alguma solidão tem muito pouco a ver com estar fisicamente sozinho. Ela cresce nos espaços onde você está presente com outras pessoas, mas ainda se sente profundamente desconhecida. Muitas mulheres conhecem bem essa dor. Elas são úteis, responsáveis, acessíveis e relacionais, mas a parte mais verdadeira delas permanece intocada. As pessoas podem notar sua força, seu papel ou seu calor sem ver o sofrimento, a fadiga ou o desejo não realizado por baixo.",
+            "Esse tipo de solidão é especialmente doloroso porque pode parecer invisível. Você pode se dizer que não deveria chamar isso de solidão porque, tecnicamente, sua vida está cheia de pessoas. Mas a Escritura faz espaço para exatamente esse tipo de dor. O salmista diz claramente: \"Estou desolado e aflito.\" Agar encontra Deus no abandono e o nomeia como o Deus que vê. Essas passagens não apressam as pessoas a passar por cima da solidão. Elas permitem que seja falada honestamente diante de Deus.",
+            "**A solidão mais aguda muitas vezes não é a ausência de pessoas, mas a dor de não ser verdadeiramente conhecido.** Nomear essa verdade pode ser esclarecedor. Significa que você não é fraco ou ingrato por se sentir solitário em uma vida cheia. Significa que você está carregando uma fome real.",
+            "Hoje, traga um momento solitário honestamente diante de Deus. **A cura muitas vezes começa quando a solidão oculta não é mais minimizada, mas colocada na presença do Deus que vê.** Ele não se envergonha da sua necessidade de ser conhecido. Ele a encontra com compaixão."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, admito que há em mim uma solidão profunda, não simplesmente porque estou sem pessoas, mas porque muitas vezes eu não me sinto verdadeiramente conhecido. Obrigado por me permitir trazer essa solidão diante de você sem minimizá-la primeiro. Veja as necessidades que eu não disse em voz alta, e deixe-me parar de fingir que não sou afetado em sua presença. Deixe esta jornada começar sendo visto por você, e ensine meu coração como se tornar mais firme em sua luz. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Gênesis 16:13",
+              "book_code": "GEN",
+              "chapter": 16,
+              "verses": "13",
+              "translation": "Almeida",
+              "text": "Disse então: Certamente que aqui vi a quem me via."
+            },
+            {
+              "display": "Salmo 25:16",
+              "book_code": "PSA",
+              "chapter": 25,
+              "verses": "16",
+              "translation": "Almeida",
+              "text": "Olha para mim e tem misericórdia de mim, porque estou sozinho e sou afligido."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Dia 2",
+      "title": "Deus Vê a Solidão Que Eu Nunca Digo em Voz Alta",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Deuteronômio 31:8",
+            "book_code": "DEU",
+            "chapter": 31,
+            "verses": "8",
+            "translation": "Almeida",
+            "text": "O Senhor irá adiante de ti; ele estará contigo; não te deixará, nem te abandonará."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Alguma solidão é difícil de descrever porque parece demasiado vulnerável para colocar em palavras. Você pode ter medo de que, se a disser em voz alta, as pessoas a minimizem, a entendam mal ou respondam muito rapidamente. Então você a mantém oculta e continua funcionando. Mas Deus não requer linguagem emocional perfeita para o encontrar. Ele vê a solidão que você não sabe completamente como explicar.",
+            "A Escritura fala com uma ternura inusitada para este medo. Deus promete não deixar ou abandonar seu povo. O salmista diz que mesmo se os laços humanos mais próximos falharem, o Senhor o receberá. Essas promessas são importantes porque sob muitas formas de solidão há um medo mais profundo: e se eu não for o tipo de pessoa que é mantida? E se eu for sempre aquela que aparece pelos outros, mas raramente é verdadeiramente carregada?",
+            "**Deus vê a solidão que você nunca diz em voz alta, e ele não o colocou para baixo.** Essa verdade não é sentimental. É fundamental. A presença humana pode ser inconsistente. A presença de Deus não é.",
+            "Hoje, repita uma frase simples diante dele: \"Senhor, você ainda está comigo.\" **Às vezes o coração é estabilizado não por alívio emocional imediato, mas por retornar repetidas vezes à presença imutável de Deus.** Deixe essa constância começar a alcançar os lugares em você que mais têm medo de ser deixados para trás."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigado por ver a solidão que eu nunca disse completamente em voz alta. Obrigado por não se afastar simplesmente porque não consigo me explicar claramente. Plante essa verdade profundamente em mim: você ainda está comigo. Impeça-me de medir meu valor apenas pela resposta humana, e impeça-me de me ver como alguém que nunca será verdadeiramente mantida. Deixe sua firmeza se tornar um novo lugar de segurança em mim. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Deuteronômio 31:8",
+              "book_code": "DEU",
+              "chapter": 31,
+              "verses": "8",
+              "translation": "Almeida",
+              "text": "O Senhor irá adiante de ti; ele estará contigo; não te deixará, nem te abandonará."
+            },
+            {
+              "display": "Salmo 27:10",
+              "book_code": "PSA",
+              "chapter": 27,
+              "verses": "10",
+              "translation": "Almeida",
+              "text": "Quando meu pai e minha mãe me deixarem, o Senhor me recolherá."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Dia 3",
+      "title": "Nós Tentamos Preencher o Vazio com Muitas Coisas",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Lucas 10:41-42",
+            "book_code": "LUK",
+            "chapter": 10,
+            "verses": "41-42",
+            "translation": "Almeida",
+            "text": "Marta, Marta, tu andas solícita e perturbada com muitas coisas; porém uma só é necessária."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "O vazio raramente se apresenta claramente. Mais frequentemente, ele se esconde dentro de hábitos que parecem inofensivos ou até razoáveis. Você recorre à ocupação, conforto, barulho, distração online, produtividade ou ser necessário por alguém. Nenhuma dessas coisas é automaticamente errada. A questão é o que elas estão sendo pedidas para fazer pela sua alma.",
+            "Muitas mulheres tentam gerenciar o vazio mantendo-se cheias por fora. Elas agendam, deslizam, servem, compram, respondem e continuam se movendo. Por um tempo funciona. A dor fica mais silenciosa. Mas eventualmente o vazio interno retorna porque o preenchimento externo não pode curar completamente a fome interna.",
+            "A história de Marta é útil porque seu problema não era preguiça. Era estar atraída em muitas direções até perder o centro. O Eclesiastes acrescenta que Deus colocou a eternidade no coração humano. Há uma profundidade de desejo em nós que coisas finitas não podem satisfazer completamente.",
+            "**Nós muitas vezes tentamos preencher o vazio com muitas coisas, mas a fome mais profunda não desaparece simplesmente porque a vida parece cheia.** Reconhecer isso não é falha. É sabedoria. Significa que você está se tornando honesto sobre os limites do que as coisas criadas podem fazer.",
+            "Hoje, pergunte a si mesma o que você mais frequentemente recorre quando o vazio fica mais alto. **Você não precisa se envergonhar de seus hábitos de enfrentamento para começar a trazer sua fome a Deus.** Você só precisa de honestidade suficiente para admitir que o coração está pedindo algo mais duradouro."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, admito que frequentemente uso muitas coisas para preencher o que se sente vazio em mim. Obrigado por não expor isso com condenação, mas com verdade e gentileza. Mostre-me o que eu uso mais frequentemente para entorpecer o vazio, e ajude-me a entender que meu desejo mais profundo é maior do que essas coisas podem satisfazer. Impeça-me de estar constantemente preenchendo o exterior enquanto adio a fome dentro. Traga-me de volta para você, e ensine-me a procurar verdadeira plenitude em sua presença. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Lucas 10:41-42",
+              "book_code": "LUK",
+              "chapter": 10,
+              "verses": "41-42",
+              "translation": "Almeida",
+              "text": "Marta, Marta, tu andas solícita e perturbada com muitas coisas; porém uma só é necessária."
+            },
+            {
+              "display": "Eclesiastes 3:11",
+              "book_code": "ECC",
+              "chapter": 3,
+              "verses": "11",
+              "translation": "Almeida",
+              "text": "Tudo fez formoso no seu tempo; também pôs a eternidade no coração do homem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Dia 4",
+      "title": "Algum Vazio é Sede Espiritual",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "João 4:13-14",
+            "book_code": "JHN",
+            "chapter": 4,
+            "verses": "13-14",
+            "translation": "Almeida",
+            "text": "Qualquer que beber desta água tornará a ter sede; mas qualquer que beber da água que eu lhe der nunca mais terá sede."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Quando o vazio fica conosco por muito tempo, geralmente começamos procurando soluções externas. Mas Jesus leva a mulher samaritana a uma verdade mais profunda: alguma sede é espiritual. Ela não pode ser resolvida apenas por mais suprimento externo. Ela continua voltando ao poço pela água, e sua história reflete como a vida humana continua facilmente voltando a lugares familiares pela satisfação enquanto permanece internamente sedenta.",
+            "Para uma mulher moderna, o \"poço\" pode não ser literal. Pode ser um certo relacionamento, um padrão de atenção, uma maneira de provar valor, ou um fluxo constante de distração. Você continua esperando que desta vez isso acalme a dor por mais tempo. Às vezes o faz por um tempo. Então a sede retorna.",
+            "Jesus não envergonha a sede. Ele a responde com água viva. O Salmo 16 diz que na presença de Deus há plenitude de alegria. Juntos, essas verdades sugerem que algumas formas de vazio não são sinais de que você está vivendo a vida mal. Eles são sinais de que sua alma ficou muito tempo sem verdadeiro refrescamento profundo em Deus.",
+            "**Algum vazio não é causado pela falta de esforço, mas pela sede espiritual.** Essa realização pode suavizar a autocondenação. Você pode não precisar de mais pressão. Você pode precisar de água viva.",
+            "Hoje, ore com simplicidade: \"Senhor, estou sedento.\" **Um dos momentos de virada mais profundos na vida espiritual é quando deixamos de carregar toda nossa sede para poços menores e começamos a trazê-la honestamente a Cristo.** Ele não se ofende com o quanto você precisa. Ele é aquele que o ensinou a vir."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, admito que há em mim uma sede mais profunda que não pode ser resolvida apenas por ocupação, afirmação ou relacionamento sozinho. Obrigado por não envergonhar a sede humana, mas respondê-la com água viva. Hoje eu não quero carregar toda minha fome para poços menores primeiro. Eu quero vir a você. Ensine-me como beber mais profundamente da sua presença, e desperte as partes de mim que ficaram muito tempo sem verdadeiro refrescamento espiritual. Impeça-me de meramente sobreviver, e deixe-me começar a viver mais plenamente em você. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "João 4:13-14",
+              "book_code": "JHN",
+              "chapter": 4,
+              "verses": "13-14",
+              "translation": "Almeida",
+              "text": "Qualquer que beber desta água tornará a ter sede; mas qualquer que beber da água que eu lhe der nunca mais terá sede."
+            },
+            {
+              "display": "Salmo 16:11",
+              "book_code": "PSA",
+              "chapter": 16,
+              "verses": "11",
+              "translation": "Almeida",
+              "text": "Far-me-ás ver a senda da vida: na tua presença há plenitude de alegria."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Dia 5",
+      "title": "Depois de Ser Ferida, o Coração Esquece Como se Aproximar de Pessoas",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Eclesiastes 4:9-10",
+            "book_code": "ECC",
+            "chapter": 4,
+            "verses": "9-10",
+            "translation": "Almeida",
+            "text": "Melhor é serem dois do que um... Porque se um cair, o outro levanta o seu companheiro."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "Alguma solidão continua não porque não há oportunidades para conexão, mas porque a ferida fez a proximidade parecer perigosa. Depois de decepção, rejeição ou mal-entendido, o coração aprende a se auto-proteger. Ele permanece educado, funcional e exteriormente disponível enquanto se retira silenciosamente da confiança mais profunda.",
+            "Esse recuo pode parecer sábio por um tempo. Reduz o risco. Mas também reduz a intimidade. Com o tempo, o coração pode começar a confundir segurança com isolamento. A Escritura ainda nos lembra que dois são melhores do que um, e que os crentes são feitos para se encorajarem mutuamente. Isso não significa que todo relacionamento é seguro. Significa que a cura frequentemente requer algum movimento de volta em direção à conexão confiável.",
+            "**Às vezes o que mantém a solidão acontecendo não é apenas a ausência de pessoas, mas o medo aprendido do coração de se mover em direção a elas novamente.** Isso não é algo para envergonhar. É algo para reconhecer gentilmente.",
+            "Hoje, considere um pequeno passo em direção à conexão segura. **A cura geralmente não começa com total abertura. Frequentemente começa com um movimento honesto em direção a uma pessoa confiável.** Deus pode usar esse pequeno ato de coragem mais do que você espera."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, você sabe que eu não sou completamente sem o desejo de conexão. Eu simplesmente fui ferida em lugares que agora fazem a proximidade parecer arriscada. Obrigado por entender por que o coração recua. Dê-me discernimento para saber quem é seguro e maduro o suficiente para manter o que é real, e dê-me uma pequena medida de coragem para que eu não mantenha meu coração fechado para sempre. Se você quer me confortar através de pessoas, prepare o tipo certo de conexão. Ensine-me, sob seu cuidado, como me mover em direção aos outros novamente. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Eclesiastes 4:9-10",
+              "book_code": "ECC",
+              "chapter": 4,
+              "verses": "9-10",
+              "translation": "Almeida",
+              "text": "Melhor é serem dois do que um... Porque se um cair, o outro levanta o seu companheiro."
+            },
+            {
+              "display": "Hebreus 10:24-25",
+              "book_code": "HEB",
+              "chapter": 10,
+              "verses": "24-25",
+              "translation": "Almeida",
+              "text": "Considerai-vos uns aos outros para incitar ao amor e às boas obras... Exortando-vos uns aos outros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Dia 6",
+      "title": "Cristo Pode Verdadeiramente Habitar em Mim",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Efésios 3:17-19",
+            "book_code": "EPH",
+            "chapter": 3,
+            "verses": "17-19",
+            "translation": "Almeida",
+            "text": "Para que Cristo habite pela fé no vosso coração... a fim de que sejais cheios de toda a plenitude de Deus."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A frase \"Cristo habita em seu coração\" pode soar familiar o suficiente para perder sua força. Mas para um coração solitário ou vazio, é surpreendentemente pessoal. Significa que sua vida interior não é feita para permanecer como uma sala abandonada. Deus não apenas o conforta de fora. Ele se aproxima o suficiente para habitá-lo.",
+            "A oração de Paulo em Efésios não é para que os crentes simplesmente enfrentem melhor. É para que Cristo habite neles e para que sejam preenchidos com a plenitude de Deus. Isso significa que a plenitude espiritual não é auto-fabricada. É o resultado da habitação divina.",
+            "Você pode ainda desejar companhia, ternura e compreensão humana. Esses desejos permanecem humanos e bons. Mas quando Cristo habita mais profundamente dentro, esses desejos param de agir como necessidades sem fundo. O coração começa a ganhar um lar interno.",
+            "**A verdadeira plenitude não é apenas Deus me ajudando de fora, mas Cristo vivendo dentro de mim.** Essa verdade é especialmente poderosa quando você se sente vazio. Significa que sua história não se limita a anseiar por alguém que preencha o que apenas Deus pode habitar.",
+            "Hoje, ore com simplicidade: \"Senhor, habite mais profundamente nos lugares vazios do meu coração.\" **Habitação não é conforto abstrato. É o começo da pertença interna.** E a pertença muda como o vazio se sente de dentro para fora."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor Jesus, obrigado por não apenas estar fora do meu vazio e confortá-lo. Você também promete habitar dentro de mim. Hoje coloco diante de você a parte do meu coração que há muito se sente sem lar. Não apenas me dê alívio breve; venha e habite, estabeleça e preencha. Impeça-me de acreditar que devo esperar que tudo fora de mim se alinhe antes de poder me sentir inteiro. Ensine-me que com você habitando em mim, eu não sou mais espiritualmente sem lar. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Efésios 3:17-19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "17-19",
+              "translation": "Almeida",
+              "text": "Para que Cristo habite pela fé no vosso coração... a fim de que sejais cheios de toda a plenitude de Deus."
+            },
+            {
+              "display": "João 14:23",
+              "book_code": "JHN",
+              "chapter": 14,
+              "verses": "23",
+              "translation": "Almeida",
+              "text": "Virarei para ele e farei morada com ele."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Dia 7",
+      "title": "Quando o Coração Encontra Lar em Deus, o Vazio Não é Mais Final",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Versículo de hoje",
+          "verse": {
+            "display": "Salmo 68:6",
+            "book_code": "PSA",
+            "chapter": 68,
+            "verses": "6",
+            "translation": "Almeida",
+            "text": "Deus faz que o solitário viva em família."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Reflexão guiada",
+          "paragraphs": [
+            "A esperança mais profunda ao final dessa jornada não é que a solidão desapareça da noite para o dia ou que cada lugar vazio seja resolvido instantaneamente. É que o vazio não é mais permitido falar como se tivesse a palavra final sobre sua identidade. Você ainda pode sentir a dor de ser mal-entendida às vezes. Você ainda pode notar espaços vazios na vida cotidiana. Mas essas experiências não permanecem como sua definição final.",
+            "A Escritura dá uma definição mais forte. Deus o vê. Deus não o deixa. Deus coloca o solitário em famílias. Cristo habita dentro de você. Essas verdades não apagam o desejo, mas mudam sua autoridade. O vazio pode ainda visitar, mas não consegue mais lhe dizer quem você é.",
+            "**Quando o coração encontra lar em Deus, o vazio não é mais final.** Essa é uma mudança profunda. Você para de se ver apenas como aquela que falta, e começa a se ver como uma sendo reunida, preenchida e mantida por Deus.",
+            "Hoje, retorne à verdade desta semana que mais perfurou seu coração. **A solidão ainda pode bater na porta, mas não precisa mais narrar toda sua vida.** A alma pode aprender outra história: uma de estar vista, habitada e levada para casa em Deus."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Oração",
+          "body": "Senhor, obrigado por esta semana não apenas me ajudar a ver minha solidão e vazio mais claramente, mas também me mostrar como você traz o coração para casa. Plante as verdades mais profundas desta jornada mais firmemente dentro de mim, para que quando o vazio retornar, eu me lembre mais rapidamente que você já está aqui. Você é o Deus que me vê, o Senhor que habita dentro de mim, e aquele que dá ao solitário um lar. Impeça-me de ser definida apenas pelo que parece faltar, e deixe-me ser formada mais profundamente por sua presença, sua plenitude e seu amor. Em nome de Jesus, amém.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versículos de hoje",
+          "verses": [
+            {
+              "display": "Salmo 68:6",
+              "book_code": "PSA",
+              "chapter": 68,
+              "verses": "6",
+              "translation": "Almeida",
+              "text": "Deus faz que o solitário viva em família."
+            },
+            {
+              "display": "Efésios 3:19",
+              "book_code": "EPH",
+              "chapter": 3,
+              "verses": "19",
+              "translation": "Almeida",
+              "text": "E conhecer o amor de Cristo, que excede todo o entendimento, para que sejais cheios de toda a plenitude de Deus."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

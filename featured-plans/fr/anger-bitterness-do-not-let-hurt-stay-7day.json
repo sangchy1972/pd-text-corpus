@@ -1,0 +1,500 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "EG09",
+    "slug": "do-not-let-hurt-stay",
+    "category": {
+      "primary": "emotion-garden",
+      "primary_label": "Jardin des Émotions",
+      "secondary": "anger-bitterness",
+      "secondary_label": "Colère et Amertume"
+    },
+    "tags": [
+      "colere",
+      "amertume",
+      "pardon",
+      "limites",
+      "guerison"
+    ],
+    "title": "Ne laisse pas ce qui t'a blessée continuer à vivre dans ton cœur",
+    "subtitle": "Ces sept jours vont plus profondément explorer la blessure, les limites, le pardon, et le durcissement lent qui peut survenir quand la douleur est laissée sans soins.",
+    "audience": {
+      "life_stage": [
+        "femmes adultes",
+        "tout âge"
+      ],
+      "emotional_state": [
+        "en colère",
+        "amère",
+        "blessée"
+      ],
+      "spiritual_stage": [
+        "toute"
+      ]
+    },
+    "goal": "Ces sept jours vont plus profondément explorer la blessure, les limites, le pardon, et le durcissement lent qui peut survenir quand la douleur est laissée sans soins.",
+    "duration_days": 7,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Louis Segond 1910",
+    "cover": {
+      "color_primary": "#E0BCA0",
+      "color_secondary": "#6B4226",
+      "image_key": "cover_woman_open_field_evening_anger_softening",
+      "icon": "softening-stone-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psaume 62:8",
+        "book_code": "PSA",
+        "chapter": 62,
+        "verses": "8"
+      },
+      {
+        "display": "Ézéchiel 36:26",
+        "book_code": "EZK",
+        "chapter": 36,
+        "verses": "26"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Jour 1",
+      "title": "Ma colère m'indique où il y a un problème",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Psaume 62:8",
+            "book_code": "PSA",
+            "chapter": 62,
+            "verses": "8",
+            "translation": "Louis Segond 1910",
+            "text": "Vous tous, peuple, fiez-vous en lui en tout temps; épanchez votre cœur devant lui; Dieu est notre refuge."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La colère est souvent traitée comme une mauvaise émotion dont il faut rapidement se débarrasser. Mais quand nous nous pressons de la faire taire, nous pouvons manquer ce qu'elle révèle. Dans de nombreux cas, la colère n'est pas aléatoire. C'est un signal. Elle pointe vers une blessure, une injustice, des limites négligées ou un besoin qui a été ignoré trop longtemps. Pour les personnes habituées à accommoder les autres, la colère peut être l'une des premières façons dont le cœur dit enfin la vérité.",
+            "Le Psaume 62 nous invite à verser notre cœur devant Dieu. Éphésiens 4 ne dit pas que la colère n'apparaît jamais; il dit: « Soyez courroucés, et ne péchez point. » Cela signifie que la colère est d'abord quelque chose à discerner, non quelque chose à immédiatement enterrer dans la honte. La question d'aujourd'hui est simple mais importante: qu'est-ce que cette colère révèle?",
+            "**Ma colère n'est pas aléatoire. Elle pointe vers quelque chose de réel.** Cette réalisation change le ton entier du voyage. Au lieu de voir la colère seulement comme la preuve qu'il y a quelque chose qui ne va pas chez toi, tu peux commencer à voir qu'elle témoigne que quelque chose t'est arrivé, ou autour de toi, ou en toi, qui demande la vérité.",
+            "Écris un moment récent de colère et demande: « Qu'est-ce que cela révèle? » **Un signal nommé devient plus facile à placer devant Dieu qu'une tempête vague et sans nom.** Le Seigneur ne s'intéresse pas seulement à aplatir tes émotions. Il veut les utiliser pour te conduire vers l'honnêteté, la clarté et la guérison."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, aide-moi à ne pas traiter la colère seulement comme un problème à supprimer rapidement, et ne me condamne pas le moment où je la ressens. Merci d'être un Dieu réel, et d'aimer quand les gens viennent devant toi avec la vérité. Aujourd'hui, je veux m'arrêter et demander: qu'est-ce que cette colère révèle vraiment? Montre-moi les blessures qui ont été ignorées, les limites qui ont été franchies, et l'injustice que je n'ai pas vraiment affrontée. Ne laisse pas ma colère me pousser seulement vers une confusion plus grande. Utilise-la pour me conduire vers l'honnêteté. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Psaume 62:8",
+              "book_code": "PSA",
+              "chapter": 62,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Vous tous, peuple, fiez-vous en lui en tout temps; épanchez votre cœur devant lui; Dieu est notre refuge."
+            },
+            {
+              "display": "Éphésiens 4:26",
+              "book_code": "EPH",
+              "chapter": 4,
+              "verses": "26",
+              "translation": "Louis Segond 1910",
+              "text": "Soyez courroucés, et ne péchez point."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Jour 2",
+      "title": "La colère non traitée grandit lentement en amertume",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Hébreux 12:15",
+            "book_code": "HEB",
+            "chapter": 12,
+            "verses": "15",
+            "translation": "Louis Segond 1910",
+            "text": "Veillez à ce que nul ne se prive de la grâce de Dieu; à ce qu'aucune racine d'amertume ne produise du trouble et ne souille plusieurs personnes."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "La colère non traitée reste rarement petite. Au début, elle peut sembler une irritation, une blessure récurrente, ou une dispute intérieure privée que tu rejones de temps en temps. Mais si elle reste sans adresse, elle s'approfondit souvent en quelque chose de plus stable. Tu deviens plus prudente, moins pleine d'espoir, et plus rapide à interpréter les gens à travers le prisme de ce qui t'a déjà blessée. Même quand la colère n'est plus bruyante, l'amertume peut toujours façonner silencieusement l'atmosphère de ton cœur.",
+            "Hébreux 12 avertit contre la « racine d'amertume ». Cette image compte parce que les racines grandissent dans les lieux cachés. L'amertume n'apparaît rarement tout à coup. Plus souvent, elle se développe là où la douleur n'est jamais apportée complètement à la vérité, où le ressentiment n'a pas de sortie honnête, ou où quelqu'un apprend à survivre en gardant la blessure enterrée mais active. Proverbes 4 ajoute que les questions de la vie jaillissent du cœur. Ce qui y reste enraciné ne demeure pas privé pour toujours.",
+            "**L'amertume ne grandit pas du jour au lendemain. Elle grandit souvent là où la colère reste sans soins devant Dieu.** Cela signifie que la question plus profonde n'est pas seulement: « Suis-je toujours fâchée? » C'est aussi: « Qu'est-ce qui commence à se former en moi parce que cette blessure est restée non résolue? » L'amertume peut commencer à sonner comme du réalisme, de la sagesse, ou des attentes abaissées, tout en étant en réalité un cœur fatigué qui essaie de ne pas être blessé à nouveau.",
+            "Aujourd'hui, demande à Dieu de te montrer où le ressentiment devient une racine plutôt qu'une réaction passagère. **Ce qui grandit dans l'obscurité gagne du pouvoir dans l'obscurité.** L'apporter devant Dieu ne résout pas tout immédiatement, mais cela empêche la dureté cachée de devenir tranquillement ta nouvelle norme."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, garde-moi de laisser la colère non traitée grandir lentement en amertume en moi. Tu sais où en moi ce n'est plus aussi doux qu'auparavant, et tu sais que certaines de mes défenses n'ont pas apparu soudainement. Merci d'être disposé à illuminer les lieux cachés du cœur sans nous rejeter. Aujourd'hui, je ne veux pas laisser ces choses rester cachées. Mets-les en lumière et donne-moi du courage pour les affronter. Garde-moi de prendre l'engourdissement pour la maturité, et garde l'amertume de devenir ma nouvelle norme. Protège mon cœur, et protège aussi ma maison et mes relations, afin que le ressentiment caché ne continue pas à se propager. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Hébreux 12:15",
+              "book_code": "HEB",
+              "chapter": 12,
+              "verses": "15",
+              "translation": "Louis Segond 1910",
+              "text": "Veillez à ce que nul ne se prive de la grâce de Dieu; à ce qu'aucune racine d'amertume ne produise du trouble et ne souille plusieurs personnes."
+            },
+            {
+              "display": "Proverbes 4:23",
+              "book_code": "PRO",
+              "chapter": 4,
+              "verses": "23",
+              "translation": "Louis Segond 1910",
+              "text": "Garde ton cœur plus que toute chose, car de lui jaillissent les sources de la vie."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Jour 3",
+      "title": "Dieu voit l'injustice et ne fait pas peu de cas de ma blessure",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Romains 12:19",
+            "book_code": "ROM",
+            "chapter": 12,
+            "verses": "19",
+            "translation": "Louis Segond 1910",
+            "text": "Ne vous vengez pas vous-mêmes, bien-aimés, mais laissez agir la colère de Dieu, car il est écrit: C'est à moi de faire justice; c'est moi qui rétribuerai, dit le Seigneur."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "De nombreuses personnes gardent fermement la colère parce qu'elles portent plus qu'une émotion. Elles portent la conviction que quelque chose était injuste et que personne ne l'a pris assez au sérieux. Peut-être as-tu été mal comprise, écartée, utilisée ou laissée sans protection quand tu avais le plus besoin de soins. Dans ce genre de douleur, la colère peut commencer à ressembler à la seule preuve que le tort comptait.",
+            "Romains 12 parle directement dans ce lieu: « Ne vous vengez pas vous-mêmes... La vengeance m'appartient; je rétribuerai, dit le Seigneur. » Ce verset ne minimise pas l'injustice. Il délocalise le jugement. Il te dit que tout le poids de la justice ne doit pas rester sur tes épaules pour que le tort compte. Le Psaume 9 dit que le Seigneur est un refuge pour les opprimés. Il ne se tient pas en dehors de la vérité de ce qui s'est passé.",
+            "**Dieu voit l'injustice, et il ne fait pas peu de cas de ta blessure.** Cela compte parce que de nombreux cœurs restent liés à la colère par crainte que la libérer ne signifie admettre que le tort était mineur. Mais la justice de Dieu signifie que tu ne dois pas garder le jugement si fermement juste pour maintenir la vérité vivante pour toujours.",
+            "Aujourd'hui, place devant Dieu par son nom un acte d'injustice. **Quand tu fais confiance à Dieu pour voir clairement, tu n'as plus besoin de tenir le jugement si fermement juste pour garder la vérité vivante.** Cela ne supprime pas chaque sentiment à la fois, mais cela peut commencer à desserrer la peur que si tu lâches la colère, le tort disparaîtra dans le néant. Il ne disparaîtra pas. Dieu l'a vu."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, tu sais que je garde cette colère en grande partie parce que ce qui s'est passé était très injuste. J'ai peur que si même moi je ne continue pas à la tenir, c'est comme si personne ne l'avait vraiment pris au sérieux. Merci de m'avoir rappelé aujourd'hui que tu vois, tu sais, et tu le prends au sérieux. Tu es le Seigneur juste et aussi un refuge pour les opprimés. Aide-moi à faire confiance que je n'ai pas besoin de rester colérique pour prouver que ce tort comptait, parce que tu n'as jamais fait peu de cas de ma blessure. Sors-moi de la fatigue de porter seule le poids du jugement, et apprends-moi peu à peu à mettre la justice finale entre tes mains. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Romains 12:19",
+              "book_code": "ROM",
+              "chapter": 12,
+              "verses": "19",
+              "translation": "Louis Segond 1910",
+              "text": "Ne vous vengez pas vous-mêmes, bien-aimés, mais laissez agir la colère de Dieu, car il est écrit: C'est à moi de faire justice; c'est moi qui rétribuerai, dit le Seigneur."
+            },
+            {
+              "display": "Psaume 9:9",
+              "book_code": "PSA",
+              "chapter": 9,
+              "verses": "9",
+              "translation": "Louis Segond 1910",
+              "text": "L'Éternel sera un refuge pour l'opprimé, un refuge au temps de la détresse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "day_label": "Jour 4",
+      "title": "Il y a une sorte de colère raffinée par la vérité",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Marc 3:5",
+            "book_code": "MRK",
+            "chapter": 3,
+            "verses": "5",
+            "translation": "Louis Segond 1910",
+            "text": "Jésus, jetant sur eux un regard de colère, affligé de l'endurcissement de leur cœur, dit à l'homme: Étends ta main. Il l'étendit, et sa main fut guérie."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Quand on pense à la colère, on pense facilement seulement aux extrêmes. Soit la colère est indulgée et autorisée à régner, soit elle est niée et traitée comme entièrement contraire à l'esprit. Mais Jésus montre une autre possibilité. Il y a une forme de colère qui a été raffinée par la vérité. Il était colérique face à la dureté du cœur et face à la corruption de ce qui appartenait à Dieu. Sa colère n'était pas incontrôlée, mesquine ou exaltant soi-même. Elle était moralement claire.",
+            "Cela compte parce que cela nous aide à poser de meilleures questions. Le problème le plus profond n'est pas seulement: « Suis-je en colère? » C'est: « Pourquoi suis-je en colère, et qu'est-ce que cette colère produit en moi? » En Marc 3, Jésus est à la fois colérique et affligé. Sa colère n'est pas une agression vide. Elle est jointe à la tristesse, l'amour et la sainteté. Cela signifie que la colère raffinée ne pousse pas une personne vers l'humiliation, la vengeance et le mépris. Elle se déplace vers la vérité, l'action appropriée et des limites plus claires.",
+            "**La question n'est pas seulement si je ressens de la colère, mais si ma colère est raffinée par Dieu.** Apporte ta colère la plus forte à lui et demande non seulement du soulagement, mais de la purification. Quelle partie de cela est liée à une clarté morale authentique? Quelle partie est mélangée avec l'orgueil, la vengeance ou l'auto-protection?",
+            "**Dieu n'a pas besoin d'enlever tout feu de ton cœur; il veut le purifier.** Ce processus est une miséricorde. Il te protège d'être gouvernée par un feu qui brûle tout sur son passage, et t'enseigne la force plus stable d'une colère gouvernée par la vérité."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, aide-moi à ne pas seulement avoir peur de ma colère ou essayer de la supprimer, mais de la laisser être examinée par toi. Montre-moi ce en ma colère vient de vraie blessure ou d'un vrai sens de justice, et ce qui est mélangé avec l'orgueil, la vengeance ou le désir de blesser en retour. Merci de ne pas essayer de me rendre engourdie. Tu ramènes même mes émotions les plus fortes sous la garde de la vérité. Purifie le feu en moi afin qu'il ne me brûle plus moi ni les autres, mais soit transformé entre tes mains en quelque chose de clair, saint et gouverné par l'amour. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Marc 3:5",
+              "book_code": "MRK",
+              "chapter": 3,
+              "verses": "5",
+              "translation": "Louis Segond 1910",
+              "text": "Jésus, jetant sur eux un regard de colère, affligé de l'endurcissement de leur cœur, dit à l'homme: Étends ta main. Il l'étendit, et sa main fut guérie."
+            },
+            {
+              "display": "Jean 2:15-16",
+              "book_code": "JHN",
+              "chapter": 2,
+              "verses": "15-16",
+              "translation": "Louis Segond 1910",
+              "text": "Ayant fait un fouet avec des cordes, il les chassa tous du temple, ainsi que les brebis et les boeufs; il dispersa la monnaie des changeurs et renversa leurs tables; et il dit aux vendeurs de colombes: Ôtez cela d'ici, ne faites pas de la maison de mon Père une maison de trafic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "day_label": "Jour 5",
+      "title": "La douceur et les limites peuvent vivre ensemble",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Matthieu 10:16",
+            "book_code": "MAT",
+            "chapter": 10,
+            "verses": "16",
+            "translation": "Louis Segond 1910",
+            "text": "Voici, je vous envoie comme des brebis au milieu des loups. Soyez donc prudents comme les serpents, et simples comme les colombes."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Certaines colères demeurent parce que le vrai problème n'a pas seulement été la blessure passée, mais les limites présentes qui restent encore floues. Tu peux continuer à céder, continuer à t'adapter et continuer à absorber l'inconfort jusqu'à ce que du ressentiment s'accumule sous chaque interaction. La colère grandit parce qu'une part de toi sait que quelque chose ne va pas, mais tu ne sais pas comment dire non sans te sentir dure, égoïste ou sans amour.",
+            "Jésus dit à ses disciples d'être « prudents comme les serpents et simples comme les colombes. » C'est l'une des images bibliques les plus claires de cet équilibre. La douceur et les limites ne sont pas des opposés. La douceur mature n'est pas l'auto-effacement sans fin. C'est la capacité à rester véridique sans devenir cruelle. Proverbes 15 nous rappelle qu'une réponse douce peut détourner la colère. La force ne doit pas toujours avoir besoin de dureté pour être réelle.",
+            "**Je peux être douce sans continuer à laisser les gens traverser la ligne.** C'est une vérité importante pour quiconque a confondu la gentillesse avec la fidélité. Une limite n'est pas une punition. C'est une limite véridique. Elle dit: « Tu ne peux pas continuer à entrer dans cette partie de ma vie de la même manière nuisible. »",
+            "Aujourd'hui, réfléchis à un endroit où la douceur doit devenir plus claire. **Une limite pieuse n'est pas un échec de l'amour; c'est souvent l'une des façons dont l'amour cesse de coopérer avec ce qui est nuisible.** Demande à Dieu des paroles qui sont calmes, claires et fermes. Il est capable de t'apprendre comment parler à partir de la stabilité au lieu de l'effondrement ou de l'explosion."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, apprends-moi à être à la fois douce et ferme. Tu sais que j'ai souvent peur de fixer des limites parce que je ne veux pas sembler peu aimante, difficile ou sans compassion. Mais tu sais aussi que céder sans cesse me laisse seulement plus fatiguée et plus fâchée. Merci d'être toi-même plein à la fois de grâce et de vérité. Donne-moi la sagesse de savoir où je dois m'arrêter, ce qui doit être dit, et comment le dire sans dureté. Apprends-moi à dire la vérité dans l'amour et à fixer des limites dans la paix, et amène la guérison aux relations qui ont aussi été endommagées par mon manque de limites claires. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Matthieu 10:16",
+              "book_code": "MAT",
+              "chapter": 10,
+              "verses": "16",
+              "translation": "Louis Segond 1910",
+              "text": "Voici, je vous envoie comme des brebis au milieu des loups. Soyez donc prudents comme les serpents, et simples comme les colombes."
+            },
+            {
+              "display": "Proverbes 15:1",
+              "book_code": "PRO",
+              "chapter": 15,
+              "verses": "1",
+              "translation": "Louis Segond 1910",
+              "text": "Une réponse douce calme la fureur, mais une parole dure excite la colère."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "day_label": "Jour 6",
+      "title": "Le pardon est une libération, non une négation",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Colossiens 3:13",
+            "book_code": "COL",
+            "chapter": 3,
+            "verses": "13",
+            "translation": "Louis Segond 1910",
+            "text": "Supportez-vous les uns les autres, et pardonnez-vous réciproquement, si l'un a sujet de se plaindre de l'autre. C'est ainsi que le Seigneur vous a pardonné."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "À ce stade, beaucoup de gens réalisent que l'étape la plus difficile n'est pas d'admettre la colère. C'est de faire face au mot pardon. La résistance a du sens. Le pardon est souvent confondu avec prétendre que rien ne s'est passé, excuser le mal, ou abaisser toutes les limites. Pour cette raison, certaines personnes gardent la colère simplement parce que cela semble plus sûr que de mal comprendre le pardon.",
+            "Mais le pardon biblique n'est pas la négation. Colossiens 3 nous rappelle que nous pardonnons en tant que personnes qui ont d'abord été pardonnées par le Christ. Luc 23 nous montre Jésus parlant de pardon de la croix, pas d'un endroit épargné par la douleur. La blessure est réelle. L'injustice est réelle. Pourtant, il remet le jugement final au Père. C'est pourquoi le pardon, à sa base, n'est pas la négation. C'est la reddition de la vengeance sans abandon de la vérité.",
+            "**Le pardon est une libération, non une négation.** Il ne demande pas une confiance immédiate, une chaleur émotionnelle ou une proximité restaurée. Il peut commencer comme une très petite prière: « Seigneur, je ne suis pas prête à dire que cela n'a plus d'importance, mais je ne veux pas rester liée à cela pour toujours. » Dieu peut travailler avec cela.",
+            "Aujourd'hui, nomme ce que tu crains que le pardon te coûterait. **De nombreuses personnes découvrent que ce à quoi elles résistent n'est pas le vrai pardon, mais une fausse version qui efface la justice et fait taire la douleur.** Le Seigneur ne te demande pas d'embrasser cette fausse version. Il te conduit vers une libération plus vraie: celle qui honore la blessure, honore la vérité et commence à libérer ton cœur."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, je t'amène ma résistance au pardon devant toi. Tu sais que j'ai peur de lâcher prise parce que cela peut sembler dire que la blessure n'avait pas d'importance, ou comme si je renonçais à la justice également. Mais aide-moi à voir plus clairement que le vrai pardon n'est pas la négation, mais la libération; non l'excuse, mais la liberté de rester liée à ce qui a été fait. Merci de m'avoir d'abord pardonné et de ne pas m'avoir traitée selon ma faiblesse. Si tout ce que je peux honnêtement dire aujourd'hui, c'est que je suis disposée à commencer à être disposée, reçois ce début. Conduis-moi pas à pas dans la vérité, conduis-moi vers la liberté, et en ton temps, laisse la véritable réparation commencer où elle le devrait. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Colossiens 3:13",
+              "book_code": "COL",
+              "chapter": 3,
+              "verses": "13",
+              "translation": "Louis Segond 1910",
+              "text": "Supportez-vous les uns les autres, et pardonnez-vous réciproquement, si l'un a sujet de se plaindre de l'autre. C'est ainsi que le Seigneur vous a pardonné."
+            },
+            {
+              "display": "Luc 23:34",
+              "book_code": "LUK",
+              "chapter": 23,
+              "verses": "34",
+              "translation": "Louis Segond 1910",
+              "text": "Jésus dit: Père, pardonne-leur, car ils ne savent ce qu'ils font."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "day_label": "Jour 7",
+      "title": "Dieu peut renouveler les places que l'amertume a durcies",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Verset du jour",
+          "verse": {
+            "display": "Ézéchiel 36:26",
+            "book_code": "EZK",
+            "chapter": 36,
+            "verses": "26",
+            "translation": "Louis Segond 1910",
+            "text": "Je vous donnerai un cœur nouveau, et je mettrai en vous un esprit nouveau; j'ôterai de votre corps le cœur de pierre, et je vous donnerai un cœur de chair."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Méditation guidée",
+          "paragraphs": [
+            "Le plus profond espoir à la fin de ce voyage n'est pas: « Je ne sentirai jamais de colère à nouveau. » C'est ceci: Dieu peut renouveler les places que l'amertume a durcies. La blessure ne reste pas seulement en mémoire. Elle remodèle aussi l'attente, la confiance, la tendresse, et la façon dont tu abordes les relations. Au fil du temps, une personne peut devenir convaincue que rester prudente est le moyen le plus sûr de vivre. Mais Dieu promet plus que du confort. Il promet le renouvellement.",
+            "Ézéchiel 36 parle d'enlever le cœur de pierre et de donner un cœur de chair. Ce n'est pas une réparation superficielle. C'est une transformation intérieure. Philippiens 4 ajoute que l'esprit peut être ramené vers ce qui est vrai, honorable, juste, pur et plein d'espoir. Le passé peut toujours compter, mais il ne doit pas continuer à interpréter tout ton avenir.",
+            "**Dieu peut renouveler les places que l'amertume a durcies.** Ce renouvellement ne signifie pas redevenir naïve. Cela signifie que tu n'as plus besoin de la froideur comme ta principale forme de protection. Le Seigneur peut restaurer la tendresse sans enlever le discernement, et l'espoir sans effacer la mémoire.",
+            "Aujourd'hui, termine en nommant un endroit où tu veux le plus le renouvellement de Dieu. **Tu n'es pas destinée à vivre pour toujours à l'intérieur des conséquences de cette blessure.** Demande-lui de restaurer la clarté, la douceur et la force spirituelle là où l'amertume s'est installée. Le renouvellement peut être graduel, mais il est réel. Il peut commencer ici."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Prière",
+          "body": "Seigneur, merci que cette semaine ne m'ait pas seulement montré ma colère, mais aussi montré la possibilité de ton renouvellement. Tu sais exactement où l'amertume m'a durcie, et tu sais à quel point je me suis habituée à me garder prudente, à me retirer et à attendre moins. Aujourd'hui je place à nouveau ces endroits devant toi. Tu es le Dieu qui donne un cœur nouveau et qui ramène la vie aux endroits secs. Enlève le cœur de pierre et donne-moi un cœur de chair. Restaure ce que la douleur longue a rendu engourdi, pointu ou fermé. Et apporte ce même renouvellement à tous ceux qui ont longtemps vécu sous le ressentiment et la douleur. Que la liberté vienne non pas en oubliant le passé, mais en étant renouvelée par toi vers une plus grande douceur, clarté et espoir. Au nom de Jésus, amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Versets du jour",
+          "verses": [
+            {
+              "display": "Ézéchiel 36:26",
+              "book_code": "EZK",
+              "chapter": 36,
+              "verses": "26",
+              "translation": "Louis Segond 1910",
+              "text": "Je vous donnerai un cœur nouveau, et je mettrai en vous un esprit nouveau; j'ôterai de votre corps le cœur de pierre, et je vous donnerai un cœur de chair."
+            },
+            {
+              "display": "Philippiens 4:8",
+              "book_code": "PHP",
+              "chapter": 4,
+              "verses": "8",
+              "translation": "Louis Segond 1910",
+              "text": "Au reste, frères, que tout ce qui est vrai, tout ce qui est honorable, tout ce qui est juste, tout ce qui est pur, tout ce qui est aimable, tout ce qui mérite l'approbation, soit l'objet de vos pensées."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

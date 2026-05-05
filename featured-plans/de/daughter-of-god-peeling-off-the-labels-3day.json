@@ -1,0 +1,257 @@
+{
+  "$schema_version": "1.0",
+  "plan": {
+    "id": "RI01",
+    "slug": "peeling-off-the-labels",
+    "category": {
+      "primary": "roles-identity",
+      "primary_label": "Rollen und Identität",
+      "secondary": "daughter-of-god",
+      "secondary_label": "Tochter Gottes"
+    },
+    "tags": [
+      "identitaet",
+      "zugehoerigkeit",
+      "tochter-gottes",
+      "selbstwert",
+      "etiketten",
+      "vergleich"
+    ],
+    "title": "Die Etiketten ablegen",
+    "subtitle": "Befreit dich von den Namen, die die Welt dir gab",
+    "audience": {
+      "life_stage": [
+        "erwachsene Frauen",
+        "jedes Alter"
+      ],
+      "emotional_state": [
+        "nach Identität suchend",
+        "des Vergleichens müde",
+        "sehnsüchtig erkannt zu werden"
+      ],
+      "spiritual_stage": [
+        "jede"
+      ]
+    },
+    "goal": "Wenn du zu lange in den Erwartungen, Urteilen und Etiketten anderer Menschen gelebt hast, führt dich Gott sanft zurück zu dem Selbst, das Er schon immer kannte und selbst benannt hat.",
+    "duration_days": 3,
+    "estimated_minutes_per_day": 7,
+    "flow_template": "scripture → teaching → prayer → verse_wall",
+    "scripture_translation": "Lutherbibel 1912",
+    "cover": {
+      "color_primary": "#E8C5D8",
+      "color_secondary": "#5A2B47",
+      "image_key": "cover_woman_quiet_morning_window_belonging",
+      "icon": "open-hands-and-heart-circle"
+    },
+    "key_verses": [
+      {
+        "display": "Psalm 139:1-4",
+        "book_code": "PSA",
+        "chapter": 139,
+        "verses": "1-4"
+      },
+      {
+        "display": "Epheser 1:4-5",
+        "book_code": "EPH",
+        "chapter": 1,
+        "verses": "4-5"
+      }
+    ],
+    "status": "published",
+    "version": "1.0.0",
+    "last_updated": "2026-05-02"
+  },
+  "days": [
+    {
+      "day": 1,
+      "day_label": "Tag 1",
+      "title": "Du bist nicht der Name, den andere dir gegeben haben",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Psalm 139:1-4",
+            "book_code": "PSA",
+            "chapter": 139,
+            "verses": "1-4",
+            "translation": "Lutherbibel 1912",
+            "text": "Herr, du erforschest mich und kennest mich. Ich sitze oder stehe auf, du weißt es; du verstehest meine Gedanken von ferne... Auch ist mir kein Wort möglich auf meiner Zunge, das du, Herr, nicht völlig wissest."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manchmal werden wir nicht plötzlich so hart zu uns selbst.",
+            "Bestimmte Stimmen bleiben einfach lange genug in der Nähe, um wahr zu klingen. Vielleicht wurdest du dafür gelobt, dass du zuverlässig, stark oder verantwortungsvoll bist, und mit der Zeit hast du gelernt, deine Bedürfnisse stille zu halten. Vielleicht wurde dir Wert beigemessen, wenn du Erfolg hattest, und jetzt fühlen sich Fehler schwerer an, als sie sollten – fast so, als würde Versagen etwas Endgültiges über dich aussagen. Und dann gibt es die leiseren Etiketten: nicht schön genug, nicht besonders genug, zu emotional, zu gewöhnlich, zu schwierig, um wirklich geliebt zu werden. Niemand muss sie jeden Tag wiederholen. Sobald sie sich einnisten, sprechen sie von selbst.",
+            "Ich denke, viele von uns kennen dieses Gefühl. Niemand kritisiert dich in diesem Moment, doch irgendwie beendest du den Satz für sie bereits in deinem eigenen Kopf.",
+            "Psalm 139 ist sanft, weil er uns einen anderen Anfangspunkt gibt: Gott kennt uns. Nicht aus der Ferne, nicht vage oder allgemein, sondern persönlich. Er kennt unsere Bewegungen, unsere Gedanken und sogar die Worte, die unsere Lippen noch nicht vollständig erreicht haben. Jesaja 43 macht es noch inniger: Ich habe dich bei deinem Namen gerufen; du bist mein. Darin liegt tiefe Ruhe. Bevor die Welt uns gemessen, missverstanden oder reduziert hat, hat Gott uns schon vollständig gekannt.",
+            "Manchmal beginnt Heilung, wenn wir zugeben, dass einige der Namen, die wir für uns verwenden, nie von Gott gegeben wurden.",
+            "**Wir müssen nicht jedes Etikett, das je auf uns gefallen ist, weiter mit uns herumtragen.** Heute, beeile dich nicht, dich selbstbewusst zu fühlen. Werde nur ehrlich. Welches Wort kehrst du am häufigsten zu dir selbst zurück, wenn du an dich denkst? Woher kommt es? Bring dieses Wort in die Gegenwart Gottes. Einige Namen müssen loslassen. Andere müssen wiederhergestellt werden. Und langsam, in Seiner Gegenwart, beginnen wir, uns zu erinnern, wer wir ohne all die fremden Stimmen sind."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe ein, dass ich zu viele Stimmen in mir trage. Einige kamen von dem, was andere über mich sagten, und manche sind Worte, die ich mir selbst durch Verletzung, Vergleich und Enttäuschung beibrachte. Zeige mir, welche Namen ich so lange getragen habe, dass ich sie nun für Wahrheit halte. Danke dir, dass du nicht mit Kritik beginnst, wenn du mich ansiehst. Du hast mich schon gekannt und mich beim Namen gerufen. Heute bringe ich diese Etiketten in deine Gegenwart. Nimm von mir, was mir nicht gehört, und offenbare mir langsam wieder das Selbst, das von dir gekannt und geliebt wird. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Psalm 139:1-4",
+              "book_code": "PSA",
+              "chapter": 139,
+              "verses": "1-4",
+              "translation": "Lutherbibel 1912",
+              "text": "Herr, du erforschest mich und kennest mich. Ich sitze oder stehe auf, du weißt es; du verstehest meine Gedanken von ferne... Auch ist mir kein Wort möglich auf meiner Zunge, das du, Herr, nicht völlig wissest."
+            },
+            {
+              "display": "Jesaja 43:1",
+              "book_code": "ISA",
+              "chapter": 43,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "So spricht der Herr... Ich habe dich bei deinem Namen gerufen; du bist mein."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "day_label": "Tag 2",
+      "title": "Vergleich kann dir die Wahrheit nicht sagen",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Galater 6:4-5",
+            "book_code": "GAL",
+            "chapter": 6,
+            "verses": "4-5",
+            "translation": "Lutherbibel 1912",
+            "text": "Jeder aber prüfe sein eigenes Werk; dann wird er seinen Ruhm bei sich selbst und nicht bei einem andern haben. Denn jeder wird seine Last tragen."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Vergleich hat die stille Art, uns unseren eigenen Weg aus den Augen zu verlieren.",
+            "Es beginnt oft mit etwas Kleinem. Wir werfen einen Blick auf die Schönheit, Beziehung, Familie, Arbeit, Chancen oder das Selbstvertrauen einer anderen Person, und bald fühlt sich unser eigenes Herz unsicher. Ihr Leben beginnt, sich wie ein Beweis gegen unseres anzufühlen. Vergleich tritt selten dramatisch ein. Er lässt sich mehr wie ein Nebel nieder und bedeckt das Licht langsam, bis wir unsere eigene Geschichte nicht mehr klar sehen können. Nach einer Weile ist es nicht nur Neid. Wir fragen uns, ob Gott uns irgendwie vergessen hat.",
+            "Ich kenne diesen inneren Zug auch. Was als einfacher Blick beginnt, kann schnell zu einem Schmerz werden: Wenn nur mein Leben mehr wie ihres aussähe. Aber unter diesem Gedanken liegt gewöhnlich etwas Verletzlicheres als Neid. Es gibt Angst. Angst, hinterzubleiben. Angst, übersehen zu werden. Angst, dass das, was noch nicht geschehen ist, etwas Enttäuschendes über uns aussagt.",
+            "Galater 6 ruft uns sanft zurück. Uns wird gesagt, unsere eigenen Leben zu prüfen, anstatt uns selbst an jemand anderes zu messen. Das bedeutet nicht, dass wir plötzlich unberührt vom Vergleich werden. Es bedeutet, dass Gott uns auf unseren eigenen Boden zurückbringt. Er hat uns nicht gebeten, die Geschichte einer anderen zu tragen. Psalm 23 hilft auf die gleiche Weise. Der Herr ist mein Hirte. Diese Worte sind klein, aber sie zentrieren die Seele neu. Wir leben nicht in einem Wettbewerb. Wir werden persönlich geleitet.",
+            "Vergleich wird am gefährlichsten, wenn er die Stimme des Hirten erstickt. **Wenn unsere Augen auf anderen verweilen, wird es immer schwächer, zu hören, wie treu Gott uns leitet.** So heute, statt dich selbst zu beschämen, frage sanfter: Was bin ich wirklich am Vergleichen? Wovor habe ich Angst? Bringe diese tiefere Angst zu Gott. Wir könnten entdecken, dass das, was wir am meisten brauchen, nicht Aufholung ist, sondern zu vertrauen, dass Gottes Führung nicht fehlgeschlagen hat."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, du weißt, wie leicht Vergleich meinen Frieden stiehlt. Manchmal beginnt es mit nur einem Blick, und plötzlich wird mein Herz unsicher. Ich fange an zu fragen, ob ich nicht genug bin, ob ich zurückgeblieben bin, oder ob etwas in meinem Leben schiefgelaufen ist. Erbarme dich über mir und lenke meine Aufmerksamkeit zurück. Lass nicht, dass anderer Menschen Geschichten bestimmen, wie ich mich selbst sehe. Heile die tiefere Angst unter meinem Vergleich – die Angst, übersehen oder weniger geliebt zu werden. Danke dir, dass du nicht ein Gott bist, der mich gegen andere misst. Du bist mein Hirte. Lehre mich, dir still zu folgen, auch wenn mein Weg anders aussieht. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Galater 6:4-5",
+              "book_code": "GAL",
+              "chapter": 6,
+              "verses": "4-5",
+              "translation": "Lutherbibel 1912",
+              "text": "Jeder aber prüfe sein eigenes Werk; dann wird er seinen Ruhm bei sich selbst und nicht bei einem andern haben. Denn jeder wird seine Last tragen."
+            },
+            {
+              "display": "Psalm 23:1",
+              "book_code": "PSA",
+              "chapter": 23,
+              "verses": "1",
+              "translation": "Lutherbibel 1912",
+              "text": "Der Herr ist mein Hirte, mir wird nichts mangeln."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "day_label": "Tag 3",
+      "title": "Gottes Liebe begann vor deiner Leistung",
+      "estimated_minutes": 7,
+      "sections": [
+        {
+          "type": "scripture_focus",
+          "ui_hint": "card.verse_hero",
+          "heading": "Heutiger Vers",
+          "verse": {
+            "display": "Epheser 1:4-5",
+            "book_code": "EPH",
+            "chapter": 1,
+            "verses": "4-5",
+            "translation": "Lutherbibel 1912",
+            "text": "wie er uns denn vor Grundlegung der Welt in ihm erwählt hat... und hat uns dazu vorherbestimmt, Kinder an Sohnschaft durch Jesus Christus zu sein."
+          }
+        },
+        {
+          "type": "teaching",
+          "ui_hint": "card.body_text",
+          "heading": "Geistliche Betrachtung",
+          "paragraphs": [
+            "Manche Müdigkeit kommt nicht davon, dass man zu viel zu tun hat. Sie kommt daher, dass man mit einer stillen inneren Spannung lebt.",
+            "Viele von uns kennen diese Spannung gut. Sie flüstert, dass wir ein wenig besser, stetiger, liebenswerter, weniger bedürftig und weniger enttäuschend sein müssen. Nach eine Weile merken wir möglicherweise nicht mehr, wie viel unseres Lebens begonnen hat, sich wie ein Austausch zu fühlen. Wenn ich genug tue, fühle ich mich vielleicht sicher. Wenn ich nützlich bleibe, könnte ich gewünscht sein. Wenn ich mich zuverlässig halte, werde ich vielleicht nicht vergessen.",
+            "Der schwierige Teil ist, dass dies von außen so sehr wie Reife aussehen kann. Wir zeigen auf. Wir sorgen gut. Wir tragen, was getragen werden muss. Wir reagieren schnell. Wir halten alles zusammen. Aber wenn das tiefste Motiv darunter Angst ist, dann können selbst unsere Stärken zur Last werden. Wir könnten schöne Dinge tun, während wir still so leben, als müsse Liebe verdient werden.",
+            "Epheser 1 spricht mit erstaunlicher Zärtlichkeit zu dieser Angst. Gott hat uns in Christus vor Grundlegung der Welt erwählt. Vor Verbesserung, vor Beweis, vor unserer besten geistlichen Anstrengung – seine Liebe war schon zu uns unterwegs. Lukas 15 zeigt die gleiche Wahrheit in Bewegung. Der Vater wartet nicht, bis sein heimkommendes Kind wieder beeindruckend wird. Er läuft ihm entgegen, während es noch auf dem Weg ist. Liebe bewegt sich zuerst. Zugehörigkeit kommt vor Leistung.",
+            "Das ist vielleicht eines der heilsamsten Dinge, die das Evangelium zu uns sagt. Gott liebt uns nicht erst, wenn wir endlich würdig werden. Er liebt uns, und in dieser Liebe lehrt er uns zu wachsen. **Wir sind nicht geliebt, weil wir uns selbst bewiesen haben. Wir sind geliebt, und von diesem Ort aus lernen wir, anders zu leben.** Heute, bringe zu Gott den Ort, wo du dich am meisten getrieben fühlst, dich selbst zu beweisen. Seine Einladung ist vielleicht tiefere Geborgenheit, nicht mehr Anstreben."
+          ]
+        },
+        {
+          "type": "prayer",
+          "ui_hint": "card.prayer",
+          "heading": "Gebet",
+          "body": "Herr, ich gestehe ein, dass ich oft mit einer Enge in mir lebe. Nicht nur, weil das Leben voll ist, sondern weil ich immer das Gefühl habe, ich müsse gut genug sein, um geliebt zu werden, gut genug, um gewünscht zu werden, gut genug, um nicht zu enttäuschen. Danke dir, dass du mir heute zeigst: deine Liebe begann nicht nach meiner Anstrengung. Sie war schon zu mir unterwegs, bevor ich etwas beweisen musste. Heile den Teil in mir, der immer versucht, Sicherheit durch Leistung zu verdienen. Lehre mich, meine Grenzen in deiner Liebe anzuerkennen, anstatt mein Leben in einen endlosen Test zu verwandeln. Von heute an, hilf mir nicht, härter um Liebe zu kämpfen, sondern tiefer in der Liebe zu ruhen, die du mir schenkst. Im Namen Jesu, Amen.",
+          "audio_key": null
+        },
+        {
+          "type": "verse_wall",
+          "ui_hint": "card.verse_list",
+          "heading": "Verse für heute",
+          "verses": [
+            {
+              "display": "Epheser 1:4-5",
+              "book_code": "EPH",
+              "chapter": 1,
+              "verses": "4-5",
+              "translation": "Lutherbibel 1912",
+              "text": "wie er uns denn vor Grundlegung der Welt in ihm erwählt hat... und hat uns dazu vorherbestimmt, Kinder an Sohnschaft durch Jesus Christus zu sein."
+            },
+            {
+              "display": "Lukas 15:20",
+              "book_code": "LUK",
+              "chapter": 15,
+              "verses": "20",
+              "translation": "Lutherbibel 1912",
+              "text": "Und er machte sich auf und ging zu seinem Vater. Als er aber noch ferne war, sah ihn sein Vater, und es jammerte ihn, und er lief und fiel ihm um seinen Hals und küßte ihn."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
