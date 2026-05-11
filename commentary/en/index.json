@@ -1,0 +1,14 @@
+{
+  "source": "tyndale-open-study-notes + claude-sonnet-4-6",
+  "license": "CC-BY-SA-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "tyndaleSource": "https://tyndaleopenresources.com/",
+  "generatedAt": "2026-05-11T16:23:36.583Z",
+  "stats": {
+    "books": 66,
+    "chapters": 1189,
+    "verses": 31102,
+    "tyndaleVerses": 30836,
+    "claudeVerses": 266
+  }
+}

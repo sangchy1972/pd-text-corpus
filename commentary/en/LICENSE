@@ -1,0 +1,38 @@
+# Commentary corpus license
+
+This directory bundles two sources, both available under CC BY-SA 4.0:
+
+## 1. Tyndale Open Study Notes (~99% of verses)
+
+Originally published by Tyndale House Publishers and distributed openly at
+https://tyndaleopenresources.com/. Used here under the Creative Commons
+Attribution-ShareAlike 4.0 International License.
+
+License: https://creativecommons.org/licenses/by-sa/4.0/
+
+The notes have been reshaped: each note (which Tyndale keys to a verse range)
+is replicated across every individual verse the original range covers. No edits
+were made to the text content.
+
+## 2. Original explanations (~1% of verses — Tyndale gaps)
+
+For verses Tyndale does not cover (mostly ritual-law sections of Exodus,
+Job dialogues, and short genealogies), short explanations were written
+specifically for this corpus using Claude Sonnet 4.6. These original
+explanations are likewise released under CC BY-SA 4.0.
+
+# Combined license
+
+All files under `commentary/en/` are distributed under CC BY-SA 4.0. Anyone
+may reuse, modify, or redistribute them, provided they:
+
+  - Give appropriate credit (e.g. "Verse explanations from Tyndale Open Study
+    Notes and HerBibleApp, CC BY-SA 4.0")
+  - Provide a link to the license: https://creativecommons.org/licenses/by-sa/4.0/
+  - Indicate if changes were made
+  - Distribute their derivative under the same CC BY-SA 4.0 license
+
+# License text
+
+The full Creative Commons Attribution-ShareAlike 4.0 International license
+text is available at: https://creativecommons.org/licenses/by-sa/4.0/legalcode
