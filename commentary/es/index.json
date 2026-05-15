@@ -5,17 +5,17 @@
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
   "tyndaleSource": "https://tyndaleopenresources.com/",
   "officialSource": "https://git.door43.org/BurritoTruck/es_tsn",
-  "generatedAt": "2026-05-15T12:31:39.223137+00:00",
+  "generatedAt": "2026-05-15T13:31:42.973995+00:00",
   "stats": {
     "books": 56,
     "totalChaptersInKjv": 1189,
     "chaptersWritten": 841,
-    "chaptersNative100pct": 815,
-    "chaptersPartialNativeWithEnFallback": 26,
+    "chaptersNative100pct": 761,
+    "chaptersPartialNativeWithEnFallback": 80,
     "chaptersDroppedAllFallback": 348,
     "totalVersesInKjv": 31102,
-    "nativeVerses": 21648,
-    "enFallbackVerses": 9188,
-    "coveragePct": 69.6
+    "nativeVerses": 21649,
+    "enFallbackVerses": 9453,
+    "coveragePct": 69.61
   }
 }
