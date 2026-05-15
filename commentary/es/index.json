@@ -1,0 +1,21 @@
+{
+  "language": "es",
+  "source": "tyndale-open-study-notes (BurritoTruck official + claude-fill + en-fallback)",
+  "license": "CC-BY-SA-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "tyndaleSource": "https://tyndaleopenresources.com/",
+  "officialSource": "https://git.door43.org/BurritoTruck/es_tsn",
+  "generatedAt": "2026-05-15T12:07:09.692898+00:00",
+  "stats": {
+    "books": 56,
+    "totalChaptersInKjv": 1189,
+    "chaptersWritten": 841,
+    "chaptersNative100pct": 815,
+    "chaptersPartialNativeWithEnFallback": 26,
+    "chaptersDroppedAllFallback": 348,
+    "totalVersesInKjv": 31102,
+    "nativeVerses": 21648,
+    "enFallbackVerses": 9188,
+    "coveragePct": 69.6
+  }
+}

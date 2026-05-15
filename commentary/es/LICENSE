@@ -1,0 +1,24 @@
+Tyndale Open Study Notes — Multilingual Translations
+
+The English Tyndale Open Study Notes are © Tyndale House Publishers,
+distributed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0).
+  https://creativecommons.org/licenses/by-sa/4.0/
+
+Official non-English translations were sourced from BurritoTruck on
+Door43 (https://git.door43.org/BurritoTruck), also under CC BY-SA 4.0:
+  fr_tsn — Notes d'étude Tyndale en français
+  pt_tsn — Notas de Estudo Tyndale em português
+  es_tsn — Notas de Estudio Tyndale en español
+
+A subset of verses lacking official non-English translations were
+translated to match Tyndale's content by Anthropic's Claude (Sonnet),
+and are released under the same CC BY-SA 4.0 license.
+
+Verses for which no translation is yet available fall back to the
+English Tyndale text inline (same chapter file) so the reader always
+sees scholarly content.
+
+Sources:
+  https://tyndaleopenresources.com/
+  https://git.door43.org/BurritoTruck/
