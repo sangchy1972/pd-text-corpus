@@ -1,26 +1,92 @@
 {
   "verses": [
-    { "verse": 1, "text": "Moses, eighty years old, is keeping his father-in-law's flock at the back of the desert. He reaches Horeb, the mountain of God — though he doesn't know it yet. Guidance: God often meets us in seasons that look like wasted time. The wilderness years are forming you, not benching you." },
-    { "verse": 2, "text": "The angel of the LORD appears to Moses in a flame of fire out of the midst of a bush. The bush burns but is not consumed — a sign so strange it stops Moses in his tracks. Guidance: Pay attention to the small wonders God sends across your day. Most callings begin with a moment that interrupts your routine." },
-    { "verse": 3, "text": "I will turn aside, says Moses, and see this great sight — why the bush is not burnt. He chooses to investigate. Guidance: God meets the curious. When something stirs in you that won't go away, don't shake it off. Turn aside and look longer." },
-    { "verse": 4, "text": "When the LORD sees that he turned aside, God calls him out of the bush: Moses, Moses. Here am I. Draw not near; take off your shoes — the place you stand is holy ground. Guidance: Holiness asks for reverence, not performance. Sometimes the most honest worship is simply taking off your shoes and being still." },
-    { "verse": 5, "text": "When the LORD sees that he turned aside, God calls him out of the bush: Moses, Moses. Here am I. Draw not near; take off your shoes — the place you stand is holy ground. Guidance: Holiness asks for reverence, not performance. Sometimes the most honest worship is simply taking off your shoes and being still." },
-    { "verse": 6, "text": "I am the God of your father — the God of Abraham, Isaac, and Jacob. Moses hides his face; he is afraid to look at God. Guidance: When God identifies Himself by past faithfulness, He is telling you He has not changed. The God of your mother's prayers is still here today." },
-    { "verse": 7, "text": "I have surely seen the affliction of My people in Egypt, says the LORD. I have heard their cry. I know their sorrows. I have come down to deliver them, to bring them up to a good land, a land flowing with milk and honey. Guidance: God's verbs are slow but never absent — seen, heard, known, come down. The cry you raised last year has not been lost." },
-    { "verse": 8, "text": "I have surely seen the affliction of My people in Egypt, says the LORD. I have heard their cry. I know their sorrows. I have come down to deliver them, to bring them up to a good land, a land flowing with milk and honey. Guidance: God's verbs are slow but never absent — seen, heard, known, come down. The cry you raised last year has not been lost." },
-    { "verse": 9, "text": "The cry of the children of Israel has come up to Me. I have seen their oppression. Come now, I will send you to Pharaoh, that you may bring out My people. Guidance: God's compassion always becomes a commission. Where He has comforted you, He will eventually send you back with grace for someone else." },
-    { "verse": 10, "text": "The cry of the children of Israel has come up to Me. I have seen their oppression. Come now, I will send you to Pharaoh, that you may bring out My people. Guidance: God's compassion always becomes a commission. Where He has comforted you, He will eventually send you back with grace for someone else." },
-    { "verse": 11, "text": "Who am I, that I should go to Pharaoh? Moses asks. God answers: I will certainly be with you — and this shall be the sign: when you have brought My people out, you shall serve God on this mountain. Guidance: God doesn't answer who am I with reassurances about you. He answers with I will be with you. That is the only credential you ever needed." },
-    { "verse": 12, "text": "Who am I, that I should go to Pharaoh? Moses asks. God answers: I will certainly be with you — and this shall be the sign: when you have brought My people out, you shall serve God on this mountain. Guidance: God doesn't answer who am I with reassurances about you. He answers with I will be with you. That is the only credential you ever needed." },
-    { "verse": 13, "text": "When I tell them the God of your fathers sent me, they will ask: what is His name? What shall I say? God answers: I AM THAT I AM. Say I AM has sent me to you. Guidance: God's name is a verb, not a snapshot. He simply is — eternally, faithfully, presently. When you panic about the future, return to this name." },
-    { "verse": 14, "text": "When I tell them the God of your fathers sent me, they will ask: what is His name? What shall I say? God answers: I AM THAT I AM. Say I AM has sent me to you. Guidance: God's name is a verb, not a snapshot. He simply is — eternally, faithfully, presently. When you panic about the future, return to this name." },
-    { "verse": 15, "text": "God adds: this is My name forever — the LORD God of Abraham, Isaac, and Jacob has sent you. This is My memorial for all generations. Guidance: The way God reveals Himself in your generation will be remembered by the next. Live like someone is watching how you trust." },
-    { "verse": 16, "text": "Gather the elders, says God. Tell them: the LORD God of your fathers appeared to me. I have surely visited you. I will bring you up out of affliction into a land flowing with milk and honey. Guidance: Sometimes leadership is just being the one who tells others what God has been saying. You are not the answer; you are the messenger." },
-    { "verse": 17, "text": "Gather the elders, says God. Tell them: the LORD God of your fathers appeared to me. I have surely visited you. I will bring you up out of affliction into a land flowing with milk and honey. Guidance: Sometimes leadership is just being the one who tells others what God has been saying. You are not the answer; you are the messenger." },
-    { "verse": 18, "text": "They will listen, says God. Then you and the elders shall go to the king of Egypt and say: the LORD God of the Hebrews has met with us. Let us go three days into the wilderness to sacrifice. Guidance: Worship is at the center of the request. The first goal of freedom is not comfort — it is the chance to worship rightly." },
-    { "verse": 19, "text": "I am sure the king of Egypt will not let you go — not by a mighty hand alone. I will stretch out My hand and strike Egypt with all My wonders. After that, he will let you go. Guidance: Resistance is not a sign you misheard God. It is sometimes the very setting in which His power becomes visible." },
-    { "verse": 20, "text": "I am sure the king of Egypt will not let you go — not by a mighty hand alone. I will stretch out My hand and strike Egypt with all My wonders. After that, he will let you go. Guidance: Resistance is not a sign you misheard God. It is sometimes the very setting in which His power becomes visible." },
-    { "verse": 21, "text": "And I will give this people favor in the sight of the Egyptians — when you go, you shall not go empty. Every woman shall ask her neighbor for silver, gold, clothing; you shall plunder Egypt. Guidance: God's deliverance often includes restitution for what was stolen. Years of bondage are not erased, but they are not unanswered either." },
-    { "verse": 22, "text": "And I will give this people favor in the sight of the Egyptians — when you go, you shall not go empty. Every woman shall ask her neighbor for silver, gold, clothing; you shall plunder Egypt. Guidance: God's deliverance often includes restitution for what was stolen. Years of bondage are not erased, but they are not unanswered either." }
+    {
+      "verse": 1,
+      "text": "Moses, keeping sheep at Horeb, sees a bush burning yet not consumed, and turns aside. Strange sight. God arrests him with a wonder."
+    },
+    {
+      "verse": 2,
+      "text": "Moses, keeping sheep at Horeb, sees a bush burning yet not consumed, and turns aside. Strange sight. God arrests him with a wonder."
+    },
+    {
+      "verse": 3,
+      "text": "Moses, keeping sheep at Horeb, sees a bush burning yet not consumed, and turns aside. Strange sight. God arrests him with a wonder."
+    },
+    {
+      "verse": 4,
+      "text": "God calls, 'put off thy shoes,' for 'I am the God of thy father'; Moses hides his face. Holy ground. God's presence demands reverence."
+    },
+    {
+      "verse": 5,
+      "text": "God calls, 'put off thy shoes,' for 'I am the God of thy father'; Moses hides his face. Holy ground. God's presence demands reverence."
+    },
+    {
+      "verse": 6,
+      "text": "God calls, 'put off thy shoes,' for 'I am the God of thy father'; Moses hides his face. Holy ground. God's presence demands reverence."
+    },
+    {
+      "verse": 7,
+      "text": "'I have surely seen the affliction of my people... and am come down to deliver them.' God sees. He is moved by His people's suffering."
+    },
+    {
+      "verse": 8,
+      "text": "'I have surely seen the affliction of my people... and am come down to deliver them.' God sees. He is moved by His people's suffering."
+    },
+    {
+      "verse": 9,
+      "text": "'I have surely seen the affliction of my people... and am come down to deliver them.' God sees. He is moved by His people's suffering."
+    },
+    {
+      "verse": 10,
+      "text": "He sends Moses to Pharaoh; Moses asks, 'Who am I?' but God promises, 'Certainly I will be with thee.' His presence. The call rests not on Moses but on God."
+    },
+    {
+      "verse": 11,
+      "text": "He sends Moses to Pharaoh; Moses asks, 'Who am I?' but God promises, 'Certainly I will be with thee.' His presence. The call rests not on Moses but on God."
+    },
+    {
+      "verse": 12,
+      "text": "He sends Moses to Pharaoh; Moses asks, 'Who am I?' but God promises, 'Certainly I will be with thee.' His presence. The call rests not on Moses but on God."
+    },
+    {
+      "verse": 13,
+      "text": "Moses asks God's name; 'I AM THAT I AM... this is my name for ever.' The eternal. God is the self-existent, unchanging One."
+    },
+    {
+      "verse": 14,
+      "text": "Moses asks God's name; 'I AM THAT I AM... this is my name for ever.' The eternal. God is the self-existent, unchanging One."
+    },
+    {
+      "verse": 15,
+      "text": "Moses asks God's name; 'I AM THAT I AM... this is my name for ever.' The eternal. God is the self-existent, unchanging One."
+    },
+    {
+      "verse": 16,
+      "text": "He bids Moses gather the elders and ask Pharaoh for a three days' journey to sacrifice. The plan. God lays out His step-by-step deliverance."
+    },
+    {
+      "verse": 17,
+      "text": "He bids Moses gather the elders and ask Pharaoh for a three days' journey to sacrifice. The plan. God lays out His step-by-step deliverance."
+    },
+    {
+      "verse": 18,
+      "text": "He bids Moses gather the elders and ask Pharaoh for a three days' journey to sacrifice. The plan. God lays out His step-by-step deliverance."
+    },
+    {
+      "verse": 19,
+      "text": "Pharaoh will not yield but to 'a mighty hand'; Israel shall 'spoil the Egyptians.' Forewarned. God foretells both the struggle and the triumph."
+    },
+    {
+      "verse": 20,
+      "text": "Pharaoh will not yield but to 'a mighty hand'; Israel shall 'spoil the Egyptians.' Forewarned. God foretells both the struggle and the triumph."
+    },
+    {
+      "verse": 21,
+      "text": "Pharaoh will not yield but to 'a mighty hand'; Israel shall 'spoil the Egyptians.' Forewarned. God foretells both the struggle and the triumph."
+    },
+    {
+      "verse": 22,
+      "text": "Pharaoh will not yield but to 'a mighty hand'; Israel shall 'spoil the Egyptians.' Forewarned. God foretells both the struggle and the triumph."
+    }
   ]
 }
